@@ -1,0 +1,14 @@
+BaseUrl= "https://Rasim-Deniz.github.io/final-fantasy-14/"
+LanguageCode= "en-US"
+Title= "Final Fantasy XIV Network"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2021"
+canonifyurls = true
+
+[params]
+  description = "A Social Graphs and Interactions Project"
+  cover = "images/endwalker.jpg"
+  authorwebsite = "https://Rasim-Deniz.github.io/final-fantasy-14/"
+  hideHUGOSupport = false
+  mainSections = ["post"]
