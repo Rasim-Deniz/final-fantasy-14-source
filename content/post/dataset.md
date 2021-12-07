@@ -1,5 +1,5 @@
 +++
-author = "syui"
+author = "Rasim"
 comments = false
 date = "2016-11-01"
 draft = false
@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = false
 slug = "dataset"
-title= "Dataset"
+title= "2 - Dataset"
 +++
 
 Our dataset consists in the characters' wikis obtained from [Final Fantasy Fandom Wikipages](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_characters).

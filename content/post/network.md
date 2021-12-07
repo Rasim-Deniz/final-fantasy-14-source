@@ -1,5 +1,5 @@
 +++
-author = "syui"
+author = "Rasim"
 comments = false
 date = "2016-10-01"
 draft = false
@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = false
 slug = "network"
-title= "Network"
+title= "3 - Network"
 +++
 
 The network created contains 385 nodes, each one related to character and 1472 edges. Firstly, we discarded the isolated nodes resulting in 335 remaining nodes. Afterwards, we extracted the Giant Component obtaining the final network which has 320 nodes and 1449 links.
@@ -16,7 +16,7 @@ The network created contains 385 nodes, each one related to character and 1472 e
 | :-----------------------------: |
 |  _FFXIV (Undirected) Network_   |
 
-#### Network Analysis
+#### 3.1 - Network Analysis
 
 Studying the in-degree we found that the 5 most connected characters are Alphinaud Leveilleur(56), Gaius van Baelsar(37), Y'shtola Rhul(35), Thancred Waters(34), Zenos yae Galvus(33).
 

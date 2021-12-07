@@ -1,5 +1,5 @@
 +++
-author = "syui"
+author = "Rasim"
 comments = false
 date = "2016-9-01"
 draft = false
@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = false
 slug = "analysis"
-title= "Text Analysis"
+title= "4 - Text Analysis"
 +++
 
 In order to perform the text analysis, we decided to prepare the data by applying tokenization and lemmatization to the character descriptions obtained from the wikipages.
@@ -20,7 +20,7 @@ We tried to find the most important words related to each affiliation using both
 
 > Garlean Empire, High Houses of Ishgard, Doma
 
-#### Word Clouds
+#### 4.1 - Word Clouds
 
 |                                            |                                            |                                      |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------ |
