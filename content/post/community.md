@@ -14,7 +14,7 @@ As we are interested in analyzing the relations amongst the characters, we want 
 
 ![Community Distribution](/images/community.png)
 
-The algorithm detects 5 small communities that have less than 10 characters, and 9 bigger communities that have between 20 and 50 characters.
+The algorithm detects 6 small communities that have less than 10 characters, and 8 bigger communities that have between 20 and 50 characters.
 
 In the following plot the network is represented with a different color for every community.
 
