@@ -1,0 +1,33 @@
+{{sideicon|prime=FFXIV}}
+{{infobox organization
+|name=Songbirds
+|release=FFXIV
+|japanese=
+|romaji=
+|lit=
+|image=FFXIV Songbirds.png
+|type=Girl band
+|members=*Ulala
+*Narumi
+*[[Masha Mhakaracca]]
+|locations=[[Ul'dah]]
+}}
+The '''Songbirds''' is a troupe of troubadours from ''[[Final Fantasy XIV]]'', which first appeared in the 2016 edition of [[Little Ladies' Day]] seasonal event. It is a trio girl band of Ulala, Narumi, and Masha Mhakaracca.
+
+==History==
+===Little Ladies' Day 2016===
+The event consisted of handing out treats to people in [[Ul'dah]] to convince them to attend the concerts of the Songbirds. Every day during the event the group becomes more and more popular, and it is ultimately up to the player character to choose which of the girls becomes the troupe leader.
+
+During the interview portion of the event, Masha makes mention of a sister who is traveling with a man of questionable reputation. She also shares a last name with [[Nashu Mhakaracca]]. It can therefore be inferred that Nashu and Masha are sisters.
+
+===Starlight Celebration 2016===
+The three of them also appeared in the 2016 Starlight Celebration event, with each of the girls acting as Little Helpers, making public speeches about the season in each of the three city-states. Masha is at Mih Khetto’s Amphitheatre, Ulala is at the Ruby Road Exchange, and Narumi is at The Aftcastle.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Organizations in Final Fantasy XIV]]

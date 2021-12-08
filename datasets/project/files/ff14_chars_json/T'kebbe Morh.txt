@@ -1,0 +1,49 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=T'kebbe Morh
+|release=FFXIV
+|japanese=チャ・ケビ・モール
+|romaji=Cha Kebi Mōru
+|aka=
+|image=FFXIV T'kebbe PT.png
+|home=The Hard Place
+|age=12
+|affiliation=Menphina's Arms
+|loves=Dragons
+|race=[[Miqo'te]]
+|gender=Female
+|hair=Pink
+|eye=Pink
+|type=npc
+}}
+'''T'kebbe Morh''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. She is a young [[Miqo'te]] girl residing in [[Idyllshire]].
+
+==History==
+T'kebbe resided in Idyllshire with her parents, who were adventurers protecting the city from monsters. One day her parents went out into the hinterlands to hunt an Elite Mark, and never returned. The next day T'kebbe rushed out to wait for them at the city gates. She waited day and night in the rain and the blistering winds, waiting for them to return home. [[Zhloe Aliapoh]] found her in the cold sniffling, and took her under her care.
+
+T'kebbe comes into ''The Hard Place'' and tells Zhloe that she deserves pineapple pudding for all the hard work she has done for her and the children at the orphanage. Zhloe introduces the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to her and she is excited to meet them as her parents were adventurers too, although she hasn't seen them since they went out to hunt a "leet mark". T'kebbe is glad she has Zhloe and considers her to be her big sister. She leaves them to listen to her friend tell a story about dragons.
+
+==Characteristics==
+===Appearance===
+T'kebbe is a young Miqo'te girl with pink hair and eyes. She wears a pink long coat and a pair of white shoes.
+
+===Personality===
+T'kebbe is a kind girl who cares about her friends and parents, whom she looks up to. She loves dragons and listening to [[Khloe Aliapoh]]'s stories.
+
+==Behind the scenes==
+T'kebbe appears around Idyllshire with a Carbuncle or other children playing games and sometimes crying.
+
+T'kebbe has appeared alongside Zhloe and Khloe in the [[Moonfire Faire]] events as side characters around Costa Del Sol.
+
+==Gallery==
+<gallery>
+FFXIV T'Kebbe.png|T'kebbe at her usual spot in Idyllshire.
+FFXIV T'kebbe Moonfire Faire.png
+FFXIV Zhloe Khloe T'kebbe 2019 Moonfire Faire.png
+FFXIV Shiro Kuro Chakebi.png|Artwork of T'kebbe, Khloe and Zhloe.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

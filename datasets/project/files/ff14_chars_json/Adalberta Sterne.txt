@@ -1,0 +1,54 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Adalberta Sterne
+|release = FFXIV
+|japanese =アダルベルタ・スターン 
+|image = FFXIV Adalberta.png
+|race = [[Hyur]]
+|gender = Female
+|height = 
+|hair = Red
+|eye = Black
+|home=[[Ul'dah]]
+|age = 28<ref name=EE141>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 141</ref>
+|type=npc
+|job = {{icon|ffxiv|discipline|miner}}
+|weapon =Adamantite Dolabra 
+|armor = Miner's Gear
+|romaji =Adaruberuta Sutān 
+|affiliation = Miners' Guild
+|occupation = Guildmaster
+}}
+{{Quote|Plainly put, we miners locate and dig up the mineral wealth that sleeps beneath the ground. Without us toiling out in the wilds, folk wouldn't have metal for arms and armor, nor gemstones for trinkets and baubles. Make no mistake, mining is grueling work, and we're dog-tired most of our waking hours. But nothing compares to the thrill of triumph we experience when the earth yields up our prize. |Adalberta}}
+'''Adalberta Sterne''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the guildmaster of the Miner's Guild in [[Ul'dah]].
+
+== History ==
+===Early life===
+Adalberta was eight when the [[Garlean Empire]] occupied [[Ala Mhigo]], and fled to Ul'dah as a refugee. Her role model has always been her father, a Highlander of humble beginnings who became a miner to support his daughter before dying in a cave-in. She studied as a protegeé under [[Deep Canyon]] before unexpectedly being promoted to guildmaster and lose the trust of your mentor and former friend.<ref name=EE141/>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:FFXIV Adalberta Sterne.png|thumb|left]]
+Adalberta accepts the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in the Miner's Guild and submits several requests to him to teach various guild learnings. The Warrior of Light excels in his work and catches the eye of Deep Canyon, who begins making several requests to the guild. Adalberta delivers the missions to Warrior of Light and [[Wide Gulley]], but Wide Gulley turns into a competition and is wounded.
+
+Once Wide Gulley recovers, Adalberta remains worried about him because his behavior is strange. With the help of the Warrior of Light, they discover that Wide's father Deep Canyion is planning a conspiracy against the guild and that Wide Gulley plans to report him. After his denouncing are publicly, Adalberta wants to help her former mentor and learns that when she was named guildmaster, Deep Canyon think it was her betrayal and planned revenge. After the misunderstanding clears up between them, the Warrior of Light helps Deep get acquitted and regain the trust of guild members.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Adalberta directs the Warrior of Light to place orders in [[Ishgard]] on the grounds that it is a great opportunity to profit in the north. Later she also referred the Warrior of Light to [[Idyllshire]] claiming that there is a perfect job for him and that probably no one else would do it.
+
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Adalberta is a female highlander [[Hyur]] with shoulder-length red hair. She wears a set of mining equipment (excluding the helmet).
+
+===Personality===
+{{Section}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Hyurs]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miners]]
+[[Category:Guildmasters]]

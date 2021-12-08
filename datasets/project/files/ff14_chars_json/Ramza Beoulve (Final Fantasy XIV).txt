@@ -1,0 +1,82 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Ramza Beoulve (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ramza Beoulve
+|release=FFXIV
+|japanese=ラムザ・ベオルブ
+|romaji=Ramuza Beorubu
+|lit=Ramza Beoluve
+|aka=
+|image=FFXIV Ramza Beoluve 01.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Male
+|height=
+|weight=
+|hair=Blond
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=Ivalician Brave's Armor
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=[[Ramza Beoulve]]
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Ramza Beoulve''' is a historical character from ''[[Final Fantasy XIV]]''. He was the brother of [[Alma Beoulve (Final Fantasy XIV)|Alma Beoulve]]. He is based on the character of the same name from ''[[Final Fantasy Tactics]]''.
+
+==History==
+===Early life===
+A [[Warriors of Light|Warrior of Light]] from a previous era, Ramza Beoulve defended [[Ivalice]] from the machinations of the [[Lucavi]] and their leader, [[Ultima (Ivalice)|Ultima, the High Seraph]]. Ramza and his party of friends arrived in the depths of the [[Orbonne Monastery (Final Fantasy XIV)|Orbonne Monastery]] to confront the Seraph, and although they were unable to defeat her, they managed to seal her within the Necrohol of Mullonde with Mustadio, Agrias, Cidolfus, and Ramza discarding their mortal forms to act as guardians. With Alma saved and Ultima sealed, Ramza hoped that one day another hero would be able to defeat her.
+
+Unable to accept that Ramza has left his mortal form, Delita attempted to ride with a cavalry of knights to Orbonne to discover the truth. Ramza appeared before him and reassured that Delita would make a fine king and to not stray from the path.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Thousands of years later, the same [[auracite]] Ramza had entrusted his [[aether]] to is picked up by his descendant, [[Ramza bas Lexentale]], and knocks him unconscious. While in his possession it is discovered that Ramza Beoulve is trying to lead them to Ivalice through the auracite. Eventually this takes the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and his allies to the Orbonne Monastery where they battle the guardians and reach Ultima. Halfway through the battle Ultima summons three other Lucavi to destroy the party, but Agrias, Mustadio, and Cidolfus appear to defeat them and shield the party from Ultima's incoming attack. Although successful in defending off the first attack, she grows more powerful and the barrier breaks. With the party vulnerable once more all seems hopeless until Ramza appears and shields the party, allowing them to continue the fight and defeat Ultima. Ramza appears once more after the battle to thank the Warrior of Light for doing what he could not and Ramza bas Lexentale for seeing his wish fulfilled. With this his friends all return to the lifestream, and just as he is about to, Delita appears and apologizes. The two shake hands and return to the aether.
+
+==Characteristics==
+===Appearance===
+Ramza is a blond-haired [[Hyur]] with light brown eyes who wears Ivalician Brave's armor.
+
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV 4.1 Poster.png|Artwork by Akihiko Yoshida.
+FFXIV Ramza Beoluve 02.png
+FFXIV FFT Cast Cameo.png
+FFXIV Ramza Beoluve 03.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

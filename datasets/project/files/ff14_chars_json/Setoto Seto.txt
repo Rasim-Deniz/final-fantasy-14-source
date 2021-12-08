@@ -1,0 +1,47 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Setoto Seto
+|release = FFXIV
+|image =<gallery>
+Setoto_Tonberry.png|Tonberry
+Setoto_Lalafell.png|Lalafell
+</gallery>
+|race = Plainsfolk [[Lalafell]] <br>[[Tonberry]] (formerly)
+|gender = Female
+|height = 
+|hair = Green (as Lalafell)
+|eye = Yellow
+|designer = 
+|age = 
+|job = {{icon|ffxiv|discipline|scholar}}
+|weapon = 
+|armor = 
+|affiliation = [[Nym]]
+|occupation = 
+|type=npc
+}}
+
+'''Setoto Seto''' is a [[Non-player character|non-playable character]] from ''[[Final Fantasy XIV]]''. Originally a resident of ancient [[Nym]], she was transformed into a [[tonberry]] by the disease known as the Green Death. She is part of job quests for [[Summoner (Final Fantasy XIV)#Scholar|Scholar]].
+
+== Profile ==
+As a Tonberry, Setoto Seto can be distinguished from others of her kind by her outfit.  She wears a blue robe, as well as a tall, pointed hat.  Additionally, the lantern she holds glows with a purple light.
+
+As a Plansfolk Lalafell, she has dark green hair.  She still wears blue robes, but in a style different than the ones she wore as a Tonberry.
+
+== Story ==
+{{spoiler}}
+===Early life===
+Setoto Seto was born in the Fifth Astal Era in the nation of Nym.  During the [[War of the Magi (Final Fantasy XIV)|War of the Magi]], she became afflicted with the Green Death, a disease that transforms its victims into Tonberries.  Her father, a scholar, left to find a cure, but never returned.  She was subsequently sealed in the [[Wanderer's Palace]] alongside the other Tonberries, and remained in slumber for fifteen centuries until the [[Seventh Umbral Era]].
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+[[Surito Carito]] contacts [[Alka Zolka]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to request their aid in finding Setoto, who has disappeared from the Wanderers' palace.  They successfully track her down, and learn that she left in order to find the remnants of her father.  Together, the three discover that he had been captured and held at [[Amdapor Keep]] during the War of the Magi.  When they venture inside the Keep, they find a chest containing his belongings, including his Scholar [[Soul Crystal (Final Fantasy XIV)|Soul Crystal]].  Setoto attempts to use it to summon Lilac, her family's fairy, only to have the summoning fail due to her Tonberry form.  Her aether is removed from her body, leaving her comatose.
+
+With Surito Carito's help, the Warrior of Light and Alka Zolka successfully find and return Setoto's aether, reviving her.  Though Setoto has developed romantic feelings towards Alka Zolka over the course of their adventure, she chooses to keep them to herself due to her current form as a Tonberry.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+When the Warrior of Light returns from [[The First]], they bring information that Surito Carito believes can be used to develop a cure for the Green Death.  Setoto volunteers to be the test subject for the potential cure.  Alka Zolka and Surito Carito both initially oppose the idea due to the dangers involved, but eventually agree.  The cure proves to be successful, and Setoto is returned to her Lalafell form.  No longer forced to remain hidden, she returns to [[Limsa Lominsa]] with Alka Zolka, and can subsequently be found next to him in the Marauders' Guild.
+{{endspoiler}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

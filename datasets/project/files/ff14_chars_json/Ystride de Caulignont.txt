@@ -1,0 +1,47 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|release=FFXIV
+|name = Ystride de Caulignont
+|japanese=イストリド
+|romaji=Isutorido
+|lit=Istrid
+|aka=Ystride Godhand
+|image = FFXIV Ystride.png
+|affiliation = Ishgard
+|loves=Halone, the Fury
+|hates=Rielle de Caulignont
+|race=Wildwood [[Elezen]]
+|gender=Female
+|hair=Dark Green
+|eye=Light Green
+|height=6'2" (75.2 in.)
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|weapon=Halonic Priests Crook
+}}
+Countess '''Ystride de Caulignont''', also known as '''Ystride Godhand''', is a character from ''[[Final Fantasy XIV: Heavensward]]''. She is a firm believer in [[Ishgard|Ishgard's]] faith in [[Halone]] and an antagonist in the [[Dark Knight (Final Fantasy XIV)|Dark Knight]] job quests.
+
+== History ==
+[[File:Ystridebox.png|thumb|left]]
+A noble of House Caulignont, Countess Ystride is a pious woman with high standing in the Ishgardian church, and with her husband has a daughter named Rielle. When it came to light that he was a heretic, she started to view their daughter as an abomination who had inherited the heretic's blood, and locked her away in a windowless cell. Rielle's plight caught the attention of the dark knights [[Sidurgu Orl]] and [[Fray Myste]], the latter being slain in a trial by combat by temple knights under Ystride's command.
+
+The temple knights dumped Fray's body in the Brume, where it is discovered by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] after hearing rumors from the citizenry. Having taken the path of a dark knight and mastering the inner darkness, the adventurer is sought out by Sidurgu after learning what became of Fray. They learn more about Rielle's condition before Ystride arrives in the Forgotten Knight with an ultimatum: either submit to a trial by combat, or she will have the tavern and its occupants put to the torch. As she leaves, Rielle calls out to her mother, who tells her to never call her that.
+
+The trial is arranged within [[Coerthas Western Highlands]] where the pious countess believes the only way to absolve herself for consorting with a heretic is by killing their daughter. As the dark knights hold off the score of temple knights under the Countess's command, Ystride is bested in combat. With fanatical determination, she declares to not stop hunting down her daughter, believing it is the only way to redeem herself in the eyes of the Fury. Rielle realizes her mother loved [[The Twelve#Halone, the Fury|Halone]] more than her own daughter. Issuing last rites for her mother, Rielle prays she may find her way to the Fury's halls, as Sidurgu lowers his blade in execution.
+
+== Characteristics ==
+=== Appearance ===
+Ystride is a tall Wildwood [[elezen]] with dark green hair, and light green eyes. She wears Halconic Priests clothing and wields a Halconic Priest's Crook.
+
+=== Personality ===
+Ystride is cunning and manipulative, as she planned how to get [[Rielle de Caulignont]] and the two protecting her far away from prying eyes and into a trial by combat. 
+
+She is fervent in her belief in Halone the Fury, locking her daughter away, and believes that Halone's will demands it.
+
+== Gameplay ==
+Ystride appears in the Dark Knight quest {{icon|ffxiv|quest|Absolution}} as the final opponent. She enters combat after her temple knight subordinates are slain to a man. As a priestess, she fights with high level Conjurer spells, such as Aero II and Stone II. A simulacrum of her is later fought in "Our Compromise", using the Reverse ability to transform her healing spells into damage-dealing attacks.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Antagonists]]

@@ -1,0 +1,128 @@
+{{sideicon|prime=FFXIV|PFF|FFRK|FFBE}}
+{{DISPLAYTITLE:Nidhogg (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Nidhogg
+|release=FFXIV
+|japanese=ニーズヘッグ
+|romaji=Nīzuheggu
+|lit=
+|aka=
+|image=First-brood Nidhogg.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Dravania]]
+|affiliation=
+*[[First Brood]] of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]]
+*[[Dravanian Horde]]
+|race=Dragon
+|gender=Male
+|eye=Red
+|type=boss
+|japanese voice actor=
+|english voice actor=[[wikipedia:Simon Greenall|Simon Greenall]]
+}}
+{{Quote|One of the great seven wyrms born of Midgardsormr.<br /><br />He is said to have terrorized Coerthas since Ishgard's founding, spreading death and destruction for the past thousand years.<br /><br />History speaks most notably of his clash with King Thordan I. Though the battle cost the lives of the king and many of his men, Nidhogg would not escape unscathed. The hero Haldrath plucked from his skull a trophy—a treasure simply known as "the Eye."<br /><br />This relic of unimaginable power remains sealed deep within the vaults of Ishgard.|Official website}}
+'''Nidhogg''' is a great wyrm in ''[[Final Fantasy XIV]]'', one of the [[First Brood]] of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]]. He is the secondary antagonist of ''[[Final Fantasy XIV: Heavensward]]'' and the main antagonist of the post-''Heavensward'' patches.
+
+Nidhogg is one of the seven wyrms born of Midgardsormr, said to have long terrorized [[Coerthas]] since [[Ishgard]]'s founding, using the Dragonsong to rally the Dravanian Horde to war the past thousand years.
+
+==History==
+===Early life===
+Twelve hundred years ago, the Ishgardians and the dragons forged an alliance based upon the example of Hraesvelgr and [[Shiva (Final Fantasy XIV)|Saint Shiva]]. Only Nidhogg believed there could be no peace between their kinds, viewing mortals as untrustworthy after what happened to [[Bahamut (Final Fantasy XIV)|Bahamut]] and [[Tiamat (Final Fantasy XIV)|Tiamat]].
+
+His concerns appeared unfounded for two hundred years, until the Ascians revealed to King Thordan I the source of the dragons' powers lay within their eyes. This led to Thordan killing Nidhogg's sister, [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]], and he and his knight ate her eyes to obtain their power. A furious Nidhogg slew Thordan, but was defeated by his son [[Haldrath]], who plucked the dragon's eyes from his head. While this would normally kill a dragon, Nidhogg mustered the strength to reach the palace of Zenith and tell his brother, Hraesvelgr, of what had transpired.
+
+Nidhogg blamed Hraesvelgr for giving the mortals—if indirectly—the opportunity to slay Ratatoskr, and coerced him into relinquishing one of his eyes to him. Intending to slaughter those of the Ishgardian bloodlines who remain loyal to their faith, Nidhogg continued to wage his war of vengeance for the next 1000 years, entering periods of deep sleep for portions of the conflict as his kind normally does. The [[Holy See]] whitewashed history to make Nidhogg appear to have attacked Ishgard unprovoked, claiming Thordan and his twelve knights faced the dragon in a battle that lasted a week that claimed the lives of both the king and six of his men. The story was designed to conceal the Holy See possessing both of Nidhogg's eyes: the right eye buried with Haldrath, while the left is used by the Azure Dragoon, the current being [[Estinien Wyrmblood]]. The Ishgardians inherit Ratatoskr's power and mutate into dragon-like creatures when exposed to dragon's blood.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Nidhogg awakens and rallies the Dravanian Horde to renew his war on Ishgard with the support of [[Ysayle Dangoulain|Ysayle]] whose heretics disable the outermost ward of Daniffen's Collar. The initial assault fails when Nidhogg's champion, [[The Steps of Faith|Vishap]], is slain by the Warrior of Light at the Steps of Faith as it tries to dismantle the rest of the wards.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|Wicked mortals! I shall melt your flesh, and turn your bones to ash!|Nidhogg}}
+[[File:FFXIV Estinien with Nidhogg's eye.png|thumb|Estinien using Nidhogg's own eye against the great wyrm.]]
+Nidhogg's full story is revealed to the Warrior of Light and [[Alphinaud Leveilleur]] as they, Estinien, and Ysayle journey to [[Dravania]] to parlay with Horde. Hraesvelgr explains that Nidhogg will never accept the terms of peace, while revealing how far his brother would go to destroy Ishgard's people.
+
+When Nidhogg senses the death of his consort, Tioman, he recalls his forces to the Aery as he expects an assault on his domain. Nidhogg gives the Warrior of Light and Estinien a not-so warm welcome to his abode, pursuing the latter to reclaim his eye. Estinien removes Hraesvelgr's eye from Nidhogg with the dragon's body exploding into mist. The Warrior of Light receives visions of what truly happened the day Nidhogg lost his eyes.
+
+[[File:FFXIV Nidhogg Reborn.png|thumb|left|Nidhogg reborn.]]
+At the bottom of the Aetherochemical Research Facility, the Warrior of Light uses the left eye of Nidhogg to eradicate the Ascian [[Igeyorhm]] after trapping her in White Auracite. Archbishop [[Thordan VII]] retrieves the right eye from Haldrath's coffin, and uses it to transform into King Thordan of the Knights of the Round. After King Thordan has fallen, Estinien congratulates the Warrior of Light for stopping the archbishop while retrieving Nidhogg's other eye. Before Estinien can hide the eyes away, Nidhogg's spirit consumes the Azure Dragoon's mind while using his body to regain a physical form. The reconstituted Nidhogg flies away to the dismay of Midgardsormr, as he fears his offspring will renew war on man, and he wonders what the endless quest for vengeance has turned Nidhogg into.
+
+{{Quote|Child of Dravania! Art thou grown so forgetful that thou wouldst forsake kith and kin, and consort with the spawn of Thordan? That thou wouldst ''dare'' contemplate peace! Hearken unto me, all of you! The final chorus is nigh, and all will be held to account! All will bathe in the flames of retribution! Till the coming of that day, look you on your sins and despair! For none shall 'scape my wrath! None shall 'scape my revenge!|Estinien, Nidhogg's shade}}
+[[File:XIV Vidofnir Impaled.png|thumb|Nidhogg crashes the peace conference]]
+A peace summit is held by [[Aymeric de Borel]] between Ishgard and Dragon at Falcon's Nest. Having full control over Estinien's body with his eyes fused on the dragoon's mail, Nidhogg interrupts the proceedings and impales the dragons' representative, [[Vidofnir (Final Fantasy XIV)|Vidofnir]], while denouncing her as a traitor to dragon-kind. Nidhogg denounces any form of peace as long as he lives, while declaring that he and his brood will soon have a final reckoning with the Ishgardians. Nidhogg assumes his true form and flies off. As he only wounded Vidofnir without killing her, Nidhogg's warning of the Dragonsong War's final battle is hinted to be directed towards both the Ishgardians and Hraesvelgr's brood should they still consider to ally themselves with the [[Elezen]].
+
+{{Quote|Is this...to be...mine end? Nay... I will not allow it... I am of the first brood... I am vengeance incarnate... I am Nidhogg! Thou shalt die by my hand!|Estinien, Nidhogg's shade}}
+[[File:FFXIV Nidhogg defeated Hraesvelgr.png|thumb|left|Nidhogg defeated Hraesvelgr.]]
+As Aymeric, Alphinaud, and the Warrior of Light convince Hraesvelgr to fight with them, Nidhogg attacks the Steps of Faith and defeats his brood-brother. He is caught off guard in discovering that Hraesvelgr had transferred one of his eyes into the Warrior of Light, and loses to the Warrior in battle. Though Estinien pleads the Warrior to kill him to slay the wyrm, the Warrior of Light and Alphinaud rip the eyes off of the dragoon with help from the ghosts of Ysayle and [[Haurchefant Greystone]]. Rendered incorporeal, Nidhogg's spirit fades away while his eyes are cast off into the abyss below the Steps of Faith.
+
+{{Quote|Undone by mortal will. Whither now...?|Nidhogg before fading away}}
+Nidhogg's eyes are recovered by the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] who relinquish them to the Ascian [[Elidibus (Final Fantasy XIV)|Elidibus]] who presents the eyes to the [[Ala Mhigo|Ala Mhigan]] extremist [[the Griffin]], who uses them to fuel the summoning of [[Shinryu (Final Fantasy XIV)|Shinryu]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+The Eyes form Shinryu's core but are eventually depleted of their power once the primal is destroyed during the liberation of Ala Mhigo. Estinien, appearing to have trace elements of Nidhogg's power, destroys the powerless eyes and finally puts an end to Nidhogg's legacy of terror.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+The Warrior of Light reunites with Alberic and Orn Khai following their journey in [[the First]]. Upon hearing of [[Renda-Rae|Andreia]]'s demise, the group is reminded of Nidhogg, who was also driven by the past. Orn Khai laments that no one would mourn Nidhogg, and decides to consult Faunehm to learn more of the great wyrm.
+
+Orn Khai and the Warrior of Light visit Faunehm to learn of Nidhogg's views on mankind and the catalyst for the Dragonsong War. She advises the two to offer mist lilies, flowers that Nidhogg was fond of. They journey to Gyr Abania, the site of Shinryu's defeat and where his eyes were destroyed. The Warrior and Orn Khai arrive at the Royal Menagerie and pay their respects to Nidhogg. Satisfied that Nidhogg's memory was honored, the pair journey back to the Observatorium and share Faunehm's story with Alberic, who plans to impart it to the Temple Knights.
+
+==Characteristics==
+===Appearance===
+Nidhogg is a black dragon with leathery wings and jagged scales. He has four narrow horns facing outward, and combined with the shape of his maw give a fierce appearance.
+
+He is initially seen with a single yellow eye in the right socket. It was later revealed the eye was borrowed from [[Hraesvelgr]] after his were taken by King [[Thordan I]]'s knights. His true eyes are red with a dark aura emanating from them.
+
+===Personality===
+Nidhogg is so consumed with rage over the betrayal of King Thordan (and, as it is heavily implied, at what happened to his [[Bahamut (Final Fantasy XIV)|other]] [[Tiamat (Final Fantasy XIV)|siblings]] at the hands of the [[Allagan Empire|Allagans]]) that he intends to break the Holy See of Ishgard through a millennium-long war. This rage transcends both through his eyes—leaving the Azure Dragoon vulnerable to the great wyrm's emotions—and in his Dragonsong, which drives his brood to not only attack the Holy See, but even causes them to attack Hraesvelgr's brood for not being utterly devoted to Nidhogg's crusade.
+
+Nidhogg refuses to accept or even comprehend the possibility of peace between Ishgard and dragon-kind. Thus, he sees any negotiation attempt foolish and any dragon desiring peace a traitor, and is willing to murder members of his own kind in pursuit of his vengeance. Even his father, Midgardsormr, laments on how far Nidhogg has fallen as a result of his wrath. Nidhogg believes his vengeance is eternal and looks upon every challenger with contempt, refusing to believe in the possibility of defeat. This likely resulted in his original defeat that cost him his eyes.
+
+Upon his final defeat at the hands of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Nidhogg's spirit appears serene, likely finally feeling free from his anger and hate.
+
+===Abilities===
+Being a Great Wyrm, Nidhogg can rally the entire [[Dravanian Horde]] using Dragonsong, usually against his arch-enemy, the Holy See of Ishgard. This Dragonsong even awakens his father's spirit within the [[The Keeper of the Lake]], who had remained dormant since the [[Battle of Silvertear Skies]].
+
+Nidhogg's abilities surpass those of ordinary dragons, and Ser [[Alberic Bale]] implies he has some measure of psychic influence on mortals. The removal of "the Eye" from Haldrath a millennium ago greatly weakened him, and it is said that if Nidhogg were to regain it, no magical wards would be able to save Ishgard from his fury. Some believe that Hraesvelgr is Nidhogg's only equal.
+
+[[Eyes of Nidhogg|Nidhogg's eyes]] provide a wellspring of [[aether]]ic energy. One was enough to annihilate an [[Ascian]] trapped in White Auracite, while the other can power a [[primal]]'s existence.
+
+==Voice==
+Nidhogg is voiced by [[wikipedia:Simon Greenall|Simon Greenall]] in all versions.
+
+==Gameplay==
+{{For enemy|The Aery|The Final Steps of Faith}}
+Nidhogg appears as a boss. In the first fight at {{icon|ffxiv|duty|the Aery}}, Estinien uses the Eye to hold back the great wyrm's power, and must be protected from Nidhogg's minions. Nidhogg later appears the final boss in {{icon|ffxiv|duty|the Final Steps of Faith}} and as an optional Extreme battle in {{icon|ffxiv|duty|The Minstrel's Ballad: Nidhogg's Rage}} in patch 3.3.
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Nidhogg FFXIV.png|thumb|180px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+{{Enemy section|Final Fantasy Brave Exvius}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:607a Nidhogg.png|thumb|100px]]
+Nidhogg appears as a [[Triple Triad (Portal App) cards/Final Fantasy XIV series|card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Nidhogg Fires.png|Nidhogg during the last battle at the Steps of Faith.
+FFXIV Nidhogg Estinien.png|Nidhogg controlling Estinien's body.
+FFXIV Dead of Nidhogg.png|Nidhogg's final moment.
+Nidhogg minion.png|Wind-up Nidhogg [[Minion (Final Fantasy XIV)|minion]].
+</gallery>
+
+==Etymology==
+{{Etym|Nidhogg}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Dragons]]

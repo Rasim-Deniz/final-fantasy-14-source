@@ -1,0 +1,86 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Matoya (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Matoya
+|release=FFXIV
+|japanese=マトーヤ
+|romaji=Matōya
+|image=FFXIV Matoya.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Sharlayan]]<br/>Cave in the [[Dravanian Hinterlands]]
+|age=
+|affiliation=Sharlayan (formerly)<br/>Archons
+|occupation=Researcher
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=
+|height=
+|weight=
+|hair=Gray
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|original appearance=[[Matoya (Final Fantasy)|Matoya]]
+|designer=
+|motion capture=
+|japanese voice actor=Yuki Kyoui (''Heavensward'')<br />{{w|Yu Sugimoto}} (''Shadowbringers'')
+|english voice actor={{w|Sheila Steafel}} (''Heavensward'')<br />{{w|Sheila Reid}} (''Shadowbringers'')
+}}
+'''Matoya''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. An old rival of [[Louisoix Leveilleur]], she was the mentor of [[Y'shtola Rhul]].
+
+==History==
+===Early life===
+Matoya was revered as one of [[Sharlayan]]'s finest researchers, specializing in [[aether]]ic currents. Due to the threat of the [[Garlean Empire]] Matoya was tasked to develop a means to repel the invaders. The aether converger she created was deemed too dangerous and she retaliated by sealing a tome containing her research and placing it in the forbidden section of the [[Great Gubal Library]].
+
+When the Bibliothec faction convinced the Forum to evacuate the citizenry to the Sharlayan motherland, Matoya declined to participate, instead staying in her cave.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+After Y'shtola is retrieved from the Lifestream and informed of current events, she suggests they visit her mentor for finding ways to bypass the force field around Azys Lla. Matoya is reunited with her protégée and introduced to both the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Alphinaud Leveilleur]] (whom she initially mistakes as Louisoix's [[Alisaie Leveilleur|granddaughter]]).
+
+She is surprised to hear Azys Lla namedropped, having recalled it being a subject from "musty old tomes" that both she and Louisoix discussed in the past. She explains the site was where the [[Allag|Allagan civilization]] conducted research into dealing with [[primal]]s and dragons and mentions the aetheric converger concept she had developed may be of use for [[Cid Garlond]] to develop an aetheric ram and pierce Azys Lla's defenses.
+
+While the Warrior of Light retrieves her research materials from the Great Gubal Library, Matoya tasks Y'shtola and Alphinaud with helping her. After the tome is retrieved, she removes an encryption enchantment on the book, enabling Cid to read it. As the group leaves, Matoya confronts Y'shtola about her blindness, and warns her that seeing with aether will drain her life force.
+
+Following the awakening of [[Alexander (Final Fantasy XIV)|Alexander]] in the Thaliak River, Y'shtola works with Matoya to find ways to control the flow of aether into the primal.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+During the Scions' time in the First, Matoya aids in sustaining their bodies until they are able to return. They later approach her for help into creating porxies imbued with [[G'raha Tia]]'s memory spell to make a cure for the [[primal]]s' [[Enthrallment#Final Fantasy XIV|tempering]]. Matoya offers to help despite her slight annoyance of learning that Y'shtola used her name as an alias during her time in the First.
+
+==Characteristics==
+===Appearance===
+Matoya is an old Hyur woman with gray hair. Due to her advanced age, she has a short stature and walks with a hunched posture.
+
+===Personality===
+In contrast to Louisoix's grandfatherly personality, Matoya is a crotchety old woman. Sharp-tongued, and with a bit of a taskmaster mentality, Matoya can be difficult to deal with. It is implied she refused to participate in the exodus to spite the Forum, which she clashed with many times in the past.
+
+Matoya was known for her rivalry with Louisoix during their time in Sharlayan. She describes their relationship as akin to "rabid dogs", though remembers those times with fondness.
+
+While Matoya may seem ungentle, her words are meant to have one see the hard realities of the journey and to steel one's resolve. Her ultimate advice to the [[Scions of the Seventh Dawn]] is that they should walk the path with their eyes open or not at all. Despite her harsh demeanor, she cares deeply for Y'shtola and misses her.
+
+==Musical themes==
+{{audio|filename=FFXIV Matoya Theme.ogg|title="The Mushroomery"}}
+"The Mushroomery" is an arrangement of "[[Matoya's Cave (theme)|Matoya's Cave]]" that plays in Matoya's titular residence. An orchestral remix titled "Freshly Glazed Porxie" is played in {{icon|ffxiv|duty|matoya's relict}}.
+{{clear}}
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:596a Matoya.png|right|100px]]
+Matoya appears as a [[Triple Triad (Portal App) decks/Y'shtola Normal mode|Normal Mode]] card in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Matoya concept.png|Concept art.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

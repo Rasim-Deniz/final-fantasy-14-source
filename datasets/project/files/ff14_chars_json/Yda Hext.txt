@@ -1,0 +1,106 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Yda Hext
+|release=FFXIV
+|japanese=イダ・ヘクスト
+|romaji=Ida Hekusuto
+|image=Yda 1.0 render from Final Fantasy XIV.png
+|home=[[Ala Gannha]]{{cite|FFXIV|{{icon|ffxiv|quest|a familiar face forgotten}}|name=A Familiar Face Forgotten}}
+|affiliation=*[[Ala Mhigan Resistance]]
+*[[Circle of Knowing]]
+|occupation=
+|race=[[Hyur]]
+|gender=Female
+|hair=Blonde
+|eye=Blue<ref name="Set with the Sun">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/ Tales from the Twilight]'', "[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/sidestory_03/ Set with the Sun]"</ref>
+|type=npc
+|job={{icon|ffxiv|discipline|pugilist}}
+|abilities=
+|weapon=Gut Wrenchers
+|armor=
+|japanese voice actor=
+|english voice actor=
+|other appearances=
+|dffoo=
+|ffrk=
+|ffbe=
+|gallery=
+}}
+
+'''Yda Hext''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. A refugee of the fallen [[Ala Mhigo]], Yda fled to [[Sharlayan]] where she became an Archon of the [[Circle of Knowing]]. Alongside her constant companion, [[Papalymo Totolymo]], she has served as a representative of the organization in the [[Twelveswood]]. While Yda is a talented pugilist, she is notoriously lacking in tact and manners, earning her the constant scolding of Papalymo.
+
+<!--THIS PAGE DEALS ONLY WITH THE REAL YDA HEXT. ALL INFORMATION PERTAINING TO LYSE'S IMPERSONATION OF YDA SHOULD GO ON LYSE'S PAGE.-->
+{{see|Lyse Hext}}
+
+==History==
+===Before ''Final Fantasy XIV''===
+Yda was born in the village of [[Ala Gannha]] in [[the Peaks]] of [[Gyr Abania]].<ref name="A Familiar Face Forgotten"/> Her father, [[Curtis Hext]], served as a guard in the employ of the royal house of King [[Theodoric]]. When the Mad King's rule became too oppressive for him to bear, Curtis fled with Yda and her younger sister [[Lyse]] to live off the land as a hunter. Curtis and Yda would eventually join the [[Ala Mhigan Resistance]] in fighting against the Mad King's rule.{{cite|FFXIV|{{icon|ffxiv|quest|the far edge of fate}}|name=The Far Edge of Fate}} Curtis's natural charisma saw him rise to a position of leadership in the Resistance, and in the year 1557 of the Sixth Astral Era{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=52|name=EE 1557}} it was he who led the charge that toppled the tyrant.{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II|p=69|name=EE2 Curtis Hext}}
+
+The victory would be short-lived, as the [[Garlean Empire]] soon invaded in the chaos following the revolution. Curtis was slain in the ensuing violence,<ref name="EE2 Curtis Hext"/> leading Yda to flee Gyr Abania with her sister.<ref name="The Far Edge of Fate"/> They initially sought asylum in the [[Black Shroud]], but were forced to leave after being denied blessing of the [[Elementals (Final Fantasy XIV)|elementals]]. After months of wandering and foraging off the land to survive, they found themselves in the [[Dravanian Hinterlands]].{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=191|name=EE Yda Hext}} There they met Archons [[Louisoix Leveilleur]] and [[Papalymo Totolymo]], and with their aid were granted sanctuary in the city-state of [[Sharlayan]].{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=190|name=EE Papalymo Totolymo}}
+
+Yda and Papalymo soon became fast friends, and with his aid Yda would receive a formal education in Sharlayan. Though Yda struggled with her studies<ref name="EE Yda Hext"/>, she would nonetheless become an Archon herself,<ref name="The Far Edge of Fate"/> a title granted only to those who have demonstrated exceptional knowledge in their fields, and receive a pair of neck tattoos designating her as such.{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=170|name=EE Archons}} Through all this, Yda ever expressed her desire to return to Ala Mhigo and liberate it from its imperial occupiers, and to this end Papalymo reintroduced her to Archon Louisoix. In the year 1562{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=52|name=EE 1562}} Louisoix would form the [[Circle of Knowing]], an organization dedicated to the salvation of [[Eorzea]], with twelve of his disciples, Yda among them.<ref name="EE Papalymo Totolymo"/> As members of the Circle, Yda and Papalymo were then dispatched on a mission to Gridania.
+
+Several years later, around the year 1571,{{note|The year 1571 is inferred from Lyse's statement in the first year of the Seventh Astral Era that the mission had occurred six years prior,<ref name="The Far Edge of Fate"/> though it may not be exact.|name=note 1571}} Yda and Papalymo would find themselves spending some time in Gyr Abania on a mission to smuggle refugees out of the war-torn region. During her time there Yda befriended an Ala Mhigan child named [[Fordola]], who had recently lost her father. Yda would regularly meet with Fordola as the two would adventure around the [[Lochs]]. Yda found that Fordola reminded her of Lyse, who had also lost her father young age, and sought to comfort Fordola as she had comforted Lyse. As her mission drew to a close Yda offered to bring Fordola along with the other refugees. Though Fordola ultimately decided against leaving, when she went to meet with Yda to tell her of her decision she was unknowingly followed by a group of imperial soldiers. Yda managed to throw suspicion off of Fordola for consorting with an enemy of the empire, and via linkpearl implored Papalymo to take care of Lyse in her stead, before she was slain in the ensuing battle.<ref name="Set with the Sun"/>
+
+Papalymo was able to recover Yda's mask in the aftermath and gave it to her sister Lyse as a keepsake, but in her grief Lyse began wearing the mask and pretending to be Yda as a coping mechanism. Papalymo agreed to uphold the charade and invoked a glamour of Yda's Archon tattoos for Lyse, and under this guise would she begin serving as Papalymo's partner in the Circle in Yda's stead. The other members of the Circle of Knowing immediately saw through Lyse's deception, but agreed to remain silent at Papalymo's behest.<ref name="The Far Edge of Fate"/>
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''===
+[[File:Yda Papalymo 1X.png|thumb|Yda and Papalymo arrive in the Twelveswood.]]
+When the [[Warrior of Light (Final Fantasy XIV)|adventurer]] first came to [[Gridania]] in 1572, they experienced a series of visions via the [[Echo (Final Fantasy XIV)|Echo]]. The visions detailed Yda and Papalymo's mission to the Twelveswood in 1562.{{note|The year 1562 is inferred from {{icon|ffxiv|key item|warburton's journal}} and page 53 of ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', both of which state the parade disaster in Ul'dah and subsequent events occurred in 1562. Among those subsequent events was a starshower seen in Echo visions of all three starting storylines of the original release, implying they occurred at the same time. This is further supported by Khrimm's appearance as an adult outside of the visions, indicating that a significant amount of time had passed between the visions and the present day.|name=note 1562}}{{note|With the Echo visions occurring in 1562 and Yda's death occurring in 1571, it can be inferred that the Yda seen in the Echo visions of the Gridania storyline during the original release was in fact the real Yda, as Lyse did not begin adopting her sister's identity until after her death. The Yda encountered outside of the visions in 1572 would be Lyse, however.|name=1.0 Yda}} Unaware of the nature of the Echo at the time, the adventurer believed themselves to be active participants in these events.{{note|The Echo was portrayed differently in the original release compared to its presentation from ''A Realm Reborn'' onwards. In the original the adventurer became an active participant in the visions they received rather than a passive viewer, though they couldn't affect any significant change to the memory. In the introductory scenarios, before the adventurer learns of the Echo, they are unaware of the Echo and when the visions occurred; to the player, they were indicated only by minor warping sound effects and the musical theme "The Echo".|name=1.0 Echo}}
+
+Yda and Papalymo arrived in the Twelveswood as the sole survivors of an airship crash, whereupon they were attacked by a raging [[Treant#Final Fantasy XIV|treant]] before being saved by [[E-Sumi-Yan]] and some [[moogle (race)#Final Fantasy XIV)|moogles]].{{cite|FFXIV|"Sundered Skies" quest from the original release.|name=Sundered Skies}} E-Sumi brought the pair to Gridania, believing them to have been "beckoned" by the elementals{{cite|FFXIV|"Souls Gone Wild" quest from the original release.|name=Souls Gone Wild}}, and therefore expected to do something for them, a fact that made Yda begin proclaiming herself and Papalymo as "saviors of the wood".{{cite|FFXIV|"Whispers in the Wood" quest from the original release.|name=Whispers in the Wood}} Despite their supposed beckoning, the airship crash had invoked the [[greenwrath]] on the pair, necessitating a cleansing ritual to rid them of it. While their awaited the ritual, Yda and Papalymo went about their original mission—investigating whether Gridania was making preparations to go to war with the Garlean Empire.{{cite|FFXIV|"Beckon of the Elementals" quest from the original release.|name=Beckon of the Elementals}}
+
+Yda and Papalymo's investigation lead them to rumors that a number of soldiers had fallen victim to the greenwrath and been taken by the forest. In truth, the soldiers had been surreptitiously scouting the Garlean forces, and the rumors were meant to cover for their absence so as to not cause panic amongst the citizenry. Yda and Papalymo would capture one of the missing soldiers, a [[Wood Wailer]] named [[Dunstan]], after he had himself been afflicted with the greenwrath for his role in the burning of a [[Hedgetree]] by the child [[Khrimm]]. With Dunstan in their custody they confronted E-Sumi, who confirmed that Gridania was preparing for war.<ref name="Beckon of the Elementals"/>
+
+{{Quote|You dolt! Don't be so quick to give up! You and I might still be able to stop it. We can find a way, like we always do. We can do anything!|Yda to Papalymo.}}
+When the cleansing ceremony finally took place, it would be for not only Yda and Papalymo, but also Dunstan and Khrimm, who had been petrified by the greenwrath for his burning of the tree. The ceremony was a success and all were cleansed of the greenwrath, but in the aftermath a starshower occurred coinciding with the [[Battle of Silvertear Skies]], which Papalymo recognized as a sounding of the Echo. As they prepared to leave the adventurer attempted to follow, only to collapse as the vision ended. They would be found by the Hermit of the Wood, in actuality an adult Khrimm, who invited them to meet with [[Minfilia Warde]] of the [[Path of the Twelve]].<ref name="Beckon of the Elementals"/> Minfilia explained the nature of the Echo to adventurer, revealing that their adventures with Yda and Papalymo were in fact visions of the past.{{cite|FFXIV|"Fade to White" quest from the original release.|name=Fade to White}} Despite this, they would remain unaware that the Yda they had encountered in their vision had passed in the intervening years.{{note|name=1.0 Yda}}
+
+The adventurer would not meet "Yda" again until they set out to assist members of the Ala Mhigan Resistance.{{cite|FFXIV|"Futures Perfect" quest from the original release.|name=Futures Perfect}} Believing her to selfsame Yda they had encountered in their visions,{{note|name="1.0 Yda"}} they would work with her and the other members of the Circle and the Circle's successor organization, the [[Scions of the Seventh Dawn]].
+
+It would not be for another five years, in the first year of the Seventh Astral Era, that the Warrior of Light would learn of Lyse's deception. When Papalymo sacrificed his life in the [[Battles of Baelsar's Wall]], his final words to "Yda" were to implore her to walk her own path,{{cite|FFXIV|{{icon|ffxiv|quest|griffin, griffin on the wall}}|name=Griffin, Griffin on the Wall}} and the adventurer, now known as the Warrior of Light, witnessed the tattoos he had glamoured for her fade with the last of his aether.{{cite|FFXIV|{{icon|ffxiv|quest|fly free, my pretty}}|name=Fly Free, My Pretty}} After explaining to the Warrior of Light what had befallen the real Yda, Lyse chose to heed Papalymo's final words to her and began acting under her true name and fighting for the freedom of Ala Mhigo.<ref name="The Far Edge of Fate"/>
+
+==Characteristics==
+===Appearance===
+Yda was fair skinned, with short blonde hair and blue eyes.<ref name="Set with the Sun"/> She bore a traditional Ala Mhigan face tattoo, normally hidden behind her mask,<ref name="Set with the Sun"/> along with a pair of neck tattoos denoting her as an Archon of Sharlayan.<ref name="EE Archons"/> She was very similar in appearance to her sister, enough to with some assistance fool old acquaintances of Yda's like [[Gundobald]]{{cite|FFXIV|{{icon|ffxiv|quest|an ending to mark a new beginning}}|name=An Ending to Mark a New Beginning}} and even the Warrior of Light, who had encountered the real Yda via the Echo.{{note|name=1.0 Yda}}
+
+Yda's outfit consisted of a white jacket, a dark red sash undershirt, fingerless gloves and a pair of red armored greaves. Her most distinctive feature was the mask on her turban that concealed the upper half of her face. Her weapons of choice were the Gut Wrenchers, a pair of cesti-like darksteel knuckles sturdy enough to withstand the incredible force with which she wielded them.<ref name="EE Yda Hext"/>
+
+Yda also owned a red traditional Ala Mhigan dress with matching pointy-tipped shoes and baggy white pants. According to Lyse, Yda would wear the dress whenever she had the opportunity. Lyse would later take to wearing the dress in her sister's honor.{{cite|FFXIV|{{icon|ffxiv|quest|the lady in red}}|name=The Lady in Red}}
+
+===Personality===
+Yda was laid-back and had no problem speaking whatever was on her mind in any situation, typically being scolded by Papalymo right after. She have no qualms asking others directly about any subject, instead of trying more subtle means. She could also come across a being not very bright, often needing Papalymo to explain certain things to her. Yda was unfailingly optimistic and could often be found attempting to lift the spirits of her compatriots. Lyse described her as being strong and kind, and always knowing what to do, with Y'shtola remarking that Yda was Lyse's inspiration.<ref name="The Far Edge of Fate"/>
+
+Despite Yda's seeming flightiness, she was able to become an Archon, a feat requiring extensive knowledge her field and an accompanying thesis.<ref name="EE Archons"/>{{cite|FFXIV|{{icon|ffxiv|quest|the wisdom of allag}}|name=The Wisdom of Allag}} She was also an expert pugilist capable fighting entire units of imperial soldiers single-handedly, to the point of requiring the intervention of magitek warmachines to even the odds for the imperials.<ref name="Set with the Sun"/>
+
+==Other appearances==
+===Guest appearances===
+{{Main|Lyse Hext/Other appearances|t1=Yda Hext other appearances}}
+Yda, or rather Lyse under the guise of Yda,{{note|Yda's guest appearances are universally Lyse disguised as Yda. This can be discerned via the aetheric goggles on her turban. The goggles were not added to her outfit until ''A Realm Reborn'', long after the real Yda's death. The only instance without the goggles is her ''[[Puzzle & Dragons]]'' appearance, but even that evolves into Lyse, implying they are meant to be the same character.|name=Other appearances}} has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[Yda Hext (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a Legend and a playable character.
+*''[[Yda Hext (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Yda Hext (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[Lyse Hext/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of cards.
+*''[[Lyse Hext/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+
+==Gallery==
+<gallery>
+Yda 1.0 render from Final Fantasy XIV.png|Render of Yda for the original ''Final Fantasy XIV''.
+FFXIV Yda Minion.png|Yda minion.
+Yda Hair.png|Yda without her head gear in version 1.0.
+</gallery>
+
+==Notes==
+===Annotations===
+{{notelist}}
+
+===Citations===
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Yda]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Monks]]
+[[Category:Hyurs]]

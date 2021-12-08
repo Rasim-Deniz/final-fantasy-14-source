@@ -1,0 +1,65 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Moenbryda Wilfsunnwyn
+|release=FFXIV
+|japanese=ムーンブリダ・ウィルフスンウィン
+|romaji=Mūnburida Uirufusun'uin
+|lit=Moonbrida Wilfsunwin
+|aka=
+|image=Moenbryda from Final Fantasy XIV.png
+|home=[[Sharlayan]]
+|age=29
+|dob=
+|affiliation=[[Circle of Knowing]]<br>
+[[Scions of the Seventh Dawn]]
+|occupation=Archon
+|education=
+|race=[[Roegadyn]]
+|gender=Female
+|height=
+|weight=
+|hair=Gray
+|eye=Silver
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+|weapon=Dual Haken
+|japanese voice actor=[[wikipedia:Yu Sugimoto|Yu Sugimoto]]
+|english voice actor=[[Laura Post]]
+}}
+'''Moenbryda Wilfsunnwyn''' is a character in ''[[Final Fantasy XIV]]''. Introduced in Patch 2.4, she's an expert from [[Sharlayan]] that joins the [[Scions of the Seventh Dawn]].
+
+==History==
+=== Early life ===
+Moenbryda was born in Sharlayan, and grew up fascinated by the knowledge that surrounded her and was always eager to learn. Sensing the same draw into the unknown, she sought to befriend Urianger Augurelt, though he ignored her pestering. She didn't give up and eventually the two grew close, and were often found in the Great Gubal Library reading tomes and eating cockatrice meatballs. Once she grew up she studied under [[Louisoix Leveilleur]]. After striking a talent in [[aether]]ic research she became an Archon and was in the Circle of Knowing, however, Louisoix told her to stay in Sharlayan, an order she followed with great difficulty.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:NabrialesVsmoenbryda.png|thumb|left|Moenbryda being attacked by the Ascian Nabriales.]]
+Moenbryda is called in once the Scions try to find a way to pursue [[Ysayle Dangoulain|Lady Iceheart]] after she escaped [[Snowcloak]] and seemingly cut off or destroyed her destination [[Aetheryte]]. Using a crystal of white [[auracite]], Moenbryda traces of Iceheart's teleportation to allow the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] pursue her. Akh Afah Amphitheatre becomes within reach where the heretics' [[primal]], [[Shiva (Final Fantasy XIV)|Shiva]], can be confronted.
+{{Quote|Master Louisoix... I understand now...the choice you made... In death...there is life... Farewell, Urianger...you daft old coot...|Moenbryda}}
+Moenbryda sacrifices her life so that the Warrior of Light can make a blade of aether to destroy [[Nabriales]].
+
+==Characteristics==
+===Appearance===
+Moenbryda is a Seawolf [[Roegadyn]] woman with pale skin and silver hair. She has the [[Circle of Knowing]] [[Tattoo (body modification)|tattoo]] on her neck, as well as a large red tattoo on her left thigh resembling an eye. She wears a blue trench coat with a white hood and a short blue skirt and high boots. She carries a Dual Haken axe.
+
+===Personality===
+Despite her intimidating appearance, she is friendly and out-going, having a history with [[Yda Hext|Yda]] and often flirting with [[Urianger Augurelt|Urianger]].
+
+==Voice==
+Moenbryda is voiced by [[wikipedia:Yu Sugimoto|Yu Sugimoto]] in the Japanese version.
+
+She is voiced by [[Laura Post]] in the English version.
+
+==Gallery==
+<gallery>
+Moenbryda.png
+</gallery>
+
+==Etymology==
+In the Roegadyn language, her name translates to "Moon Bride, daughter of Wolf Sun".
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Moenbryda Wilfsunnwyn]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

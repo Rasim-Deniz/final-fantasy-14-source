@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Waldeve
+|release=FFXIV
+|japanese=ウォルディーヴ
+|romaji=Worudīvu
+|image=FFXIV Waldeve.png
+|race=[[Hyur]]
+|gender=Male
+|height= 
+|hair=Black
+|eye=Yellow
+|age=
+|affiliation=The Defiant 
+|occupation=
+|job={{icon|ffxiv|discipline|black mage}}
+|weapon=Old World Rod
+|armor=Goetia Attire
+}}
+
+'''Waldeve''' is a non-player character from ''[[Final Fantasy XIV: Heavensward]]''. He is an antagonist in the Black Mage job quests.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Originally a conjurer of [[Stillglade Fane]], his lust for power resulted in him dabbling in forbidden black magic, even starting a cult called "The Defiant." He later stole the Book of Thal from [[Eastern Thanalan#Thal's Respite|Thal's Respite]]. He later tried to recruit [[Ququruka Tataruka|Ququruka]]'s followers, and attacked them when they refused.
+
+During the job quests, it is discovered the Defiant mages were hastily using black magic without the Gem of [[Shatotto]] to regulate it, causing many to self-immolate. They later (unsuccessfully) tried to proselytize new recruits in [[Coerthas]], but the [[Ishgard]]ian pious would not heed his dark magic.
+
+Waldeve is confronted at his hideout in the Burning Wall, where it is discovered he was trying to summon a powerful voidsent called Barghest to attract new followers. As [[Lalai Lai]] predicted, he couldn't actually ''control'' the voidesent, who simply swatted him aside. [[Zhai'a Nelhah]], [[Kazagg Chah]], [[Dozol Meloc]], and [[269th Order Mendicant Da Za]] arrived in time to dispose of the dangerous voidsent.
+
+After Barghest is slain, Zhai'a healed Waldeve's injuries and took him into [[Gridania]]n custody to await sentencing by the Seedseers.
+
+==Characteristics==
+===Appearance===
+Waldeve is a Midlander hyur that wears goetia attire and wields the Old World Rod.
+
+===Personality===
+Because of his thirst for power Waldeve is too hasty in doing things and tends to not think through his actions. A thief in his own right he seeks power in order to obtain a following.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Black Mages]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]

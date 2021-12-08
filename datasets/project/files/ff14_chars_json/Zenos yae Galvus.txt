@@ -1,0 +1,203 @@
+{{sideicon|prime=FFXIV|DFFNT|PFF|Mobius}}
+{{infobox character
+|name=Zenos yae Galvus
+|release=FFXIV
+|japanese=ゼノス・イェー・ガルヴァス
+|romaji=Zenosu Iē Garuvasu
+|aka=Viceroy {{j|軍団長風の男|Gundanchōfū no Otoko|Corps Commander-styled Man}}, Zenos viator Galvus
+|image=FFXIV Zenos yae Galvus.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=26
+|dob=
+|affiliation=[[Garlean Empire]]<br/>[[Telophoroi]]
+|occupation=General of the Imperial army<br/>Heir apparent<br/>Legatus of the [[XIIth Imperial Legion]]
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Garlean
+|gender=Male
+|height=
+|weight=
+|hair=Blond
+|eye=Light blue
+|blood=
+|laterality=
+|type=boss
+|job={{icon|ffxiv|discipline|samurai}} (''Stormblood'')
+{{icon|ffxiv|discipline|reaper}} (''Endwalker'')
+|weapon=The Storm, The Swell, Ame-no-Habakiri
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Kosuke Toriumi
+|english voice actor=[[Luke Allen-Gale]]
+|other appearances=true
+|dffnt=true
+}}
+{{Quote|Leader of the XIIth Legion and crown prince of the Garlean Empire, Zenos is possessed of but a single passion: to stand on the front lines, blade in hand, and dance with death. He regards friend and foe alike with contempt, and tales of his brutality against both have spread far and wide. While crushing the rebellion of yesteryear in Doma, he took a liking to Far Eastern katana, which have since become his weapons of choice.|Official website}}
+'''Zenos yae Galvus''' is one of the central antagonists of ''[[Final Fantasy XIV]]'', being the main antagonist of ''[[Final Fantasy XIV: Stormblood]]'' and one of the main antagonists of ''[[Final Fantasy XIV: Endwalker]]''. He is the son of emperor [[Varis zos Galvus]] and Legatus of the [[XIIth Imperial Legion]].  He is also the great-grandson of [[Emet-Selch|Solus zos Galvus]], nephew of Titus and cousin of [[Nerva]]. In his capacity as Legatus, he serves as viceroy of the conquered imperial territories of [[Ala Mhigo]] and [[Doma (Final Fantasy XIV)|Doma]], though he delegates the latter to [[Yotsuyu goe Brutus]]. Zenos is callous and bloodthirsty, and relishes in the thrill of battle, both striving to become as strong as possible and to find a rival who can match his prowess.
+
+==History==
+=== Early life ===
+[[File:Zenos yae Galvus from The Hunt Begins from Chronicles of Light.jpg|thumb|left|14-year old Zenos from the ''Chronicles of Light'' short story ''The Hunt Begins.'']]
+Zenos was brought up being taught all that an imperial heir was expected to learn, including book studies with tutors as well as combat. He spent little time with his father, [[Varis zos Galvus]], and his mother sickened and died shortly after he was born. Varis and Zenos often went months without seeing one another, and to the youth his tutors and servants were little more than automatons. A bright but joyless child with little time or inclination for innocence or playfulness, Zenos was trained by an imperial swordsman in the way of the blade as part of his education. 
+
+According to ''[[Chronicles of Light]]'', Zenos was tutored by a Ilsabardan swordsman, from whom he learned the Unyielding Blade technique. The swordsman actually sought the life of Zenos's father, as his family was being held hostage to ensure he would train Zenos. The swordsman attempted to kill the boy, when Zenos—using the Unyielding Blade technique along with a crystal to force himself to release [[aether]] to properly employ it—bested him and killed the man. This experience left Zenos bleak, wishing for someone worthy of his mettle to come into his life.
+{{clear}}
+
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+[[File:FFXIV Zenos Katana Otaku.png|thumb|Zenos decides to switch from using a gunblade to katana.]]
+During [[Gaius van Baelsar]]'s time as imperial viceroy of Ala Mhigo, Zenos oversaw the subjugation of Doma. Zenos became its regent after using his stratagems to corner the [[Doman Liberation Front]] while personally killing its strongest member, developing an interest in foreign blades. He met Yotsuyu goe Brutus who would become his Doman viceroy. He was impressed with her bitterness in spite of traditions, which limited her options to express it.
+
+According to ''Chronicles of Light'', the pair met while Yotsuyu was attempting to seduce him for secrets on his father's battle plans, which she would turn over to the then-viceroy of Doma. Zenos was unreceptive, and instead uncovered her true feelings on Doma, and repelled an assassination attempt in the brothel. Shortly thereafter Garlemald crushed the Doman resistance under Lord Kaien, and Yotsuyu joined with Zenos.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+{{Quote|"Unknown"? My spies tell me the Domans call it "Shinryu," and that it proved a match for Omega. Yes...the coming days promise to be most interesting. ''Most'' interesting.|Zenos}}
+After Gaius's "demise" at the [[Praetorium]], Zenos was named viceroy of Ala Mhigo. He named his spy, Yotsuyu, as Doma's acting viceroy so that her hatred towards her own people can break them. Zenos learned of the [[Echo (Final Fantasy XIV)|Echo]] from Gaius's reports, and recruited Aulus mal Asina due to being intrigued by his theories of a means for Garleans to use magick like the other races. During the (decoy) [[Ilberd Feare|Griffin's]] speech to Ala Mhigan refugees at the [[Sunken Temple of Qarn]], the firebrand describes Zenos as "a beast not a fraction as merciful" as Gaius.
+
+A footsoldier approaches the viceroy on his throne in Ala Mhigo, informing that [[Baelsar's Wall]] has fallen to the Eorzean Alliance, asking whether they should divert some men to repairing the damage from the battle between Shinryu and [[Omega (Final Fantasy XIV)|Omega]]. The soldier retreats in fear when Zenos fails to reply.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+[[File:FFXIV Zenos Throne.png|thumb|Zenos on his throne in the Imperial headquarter in Ala Mhigo.]]
+After being welcomed to Ala Mhigo Castle with the Garlean anthem played in his honor, Zenos learns of [[Grynewaht pyr Arvina]]'s failure, which led to losing a new series of [[Magitek]] automatons in an ambush orchestrated by [[Raubahn Aldynn]] and the [[Ala Mhigan Resistance]]. Zenos requests Grynewaht's removal from his legion for cowardice and executes Grynewaht's commanding officer for his incompetence. He listens to the plan Fordola rem Lupis formulated to bypass the barriers concealing [[Rhalgr's Reach]] and slaughter the rebels. Zenos oversees the attack, overpowering [[Lyse Hext]], critically wounding [[Y'shtola Rhul]], and defeating the Warrior of Light with ease. Losing one of his swords while defeating the Warrior, Zenos leaves disappointed in his opponent as the Alliance arrives to aid the rebels.
+
+[[File:FFXIV Zenos Katana.png|thumb|left|Zenos with his new katana.]]
+Word reaches Zenos of the [[Confederacy]]'s attack on Isari. He travels to Doma Castle and receives the [[Kojin]] sword, Ame-no-Habakiri, which Yotsuyu took from the Red Kojin she had killed for abandoning their posts when they were needed in Isari. Zenos uses the blade to overpower the Warrior of Light and [[Yugiri Mistwalker]] when they attempt to assassinate him. Zenos discards his helmet upon finding it damaged by the Warrior. Sparing the Warrior in hopes of a more pleasurable fight in the future, Zenos takes his leave after the amassed Namai villages, [[Alisaie Leveilleur]] and [[Gosetsu Daito|Gosetsu Everfall]] stop him from killing Yugiri. Threatening Yotsuyu to not fail him again in subduing the rebels, Zenos returns to Ala Mhigo where he acquires Shinryu to ready himself for another battle with the Warrior of Light.
+
+When news reaches Zenos of Doma's liberation, he kills the messenger while musing over his next fight with the Warrior of Light. Fordola arrives with a captive [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Mayer Baldesion]], and Zenos awards her with one of his men's [[Gunblade (weapon type)|gunblades]] and sends her to Aulus. Following her loss of Castellum Velodyna (and unintentionally causing the summoning of the [[Ananta]] primal [[Lakshmi (Final Fantasy XIV)|Lakshmi]]), Fordola expects to be executed for her failure. Zenos instead spares her when she admits she desires to grow stronger, and has Aulus turn her into a [[Resonant]], a Garlean supersoldier imbued with an artificial version of the Echo. 
+
+{{Quote|Man should fight for the joy of it. To live, to eat, to breed—lesser beasts snap and howl at one another for this. Only man has the wisdom and the clarity to embrace violence for its own sake. For we who are born into this merciless, meaningless world, have but one candle of life to burn.|Zenos yae Galvus}}
+[[File:FFXIV Zenos Death.png|thumb|Zenos' last moment.]]
+When the [[Scions of the Seventh Dawn]] storm Castrum Abania, Fordola delivers Zenos's message for them to come to Ala Mhigo Castle for the "royal hunt" he readied for them. When the alliance storms Ala Mhigo Castle, and the Warrior of Light reaches the Hall of the Griffin, Zenos engages the hero. Excited that the Warrior has met his expectations, Zenos takes the fight to the Royal Menagerie where he frees Shinryu and uses his Resonant powers to take control of the primal by merging onto its chest. After an epic battle in the sky, Shinryu is defeated, and Zenos crashes into the menagerie. Elated over his defeat and of fulfilling the role he was raised to play, Zenos uses Ame-no-Habakiri to slit his own throat.
+
+{{Quote|Meaningless? Men die that others may live. Those who survive are stronger for it. Not that you could ever understand. To have stood upon this great stage of fools...to have played my part to perfection... Oh, this...this moment...let it be enshrined in eternity. My heart...beating out of time... So clear, so vivid, so real... So real. Farewell, my first friend. My enemy.|Zenos before slitting his own throat}}
+[[File:FFXIV Zenos Returns.png|thumb|left|Elidibus posing as Zenos.]]
+The [[Ascian]] Elidibus possesses Zenos's corpse, spreading the rumor that Zenos was only injured in the battle. He appears before Emperor Varis and proceeds to orchestrate numerous schemes from using Asahi and Yotsuyu to sabotage Varis's plans on establishing peace with Doma to commissioning the [[Black Rose (Final Fantasy XIV)|Black Rose]] chemical weapon for wartime use. When the siege of Ala Mhigo commences, Elidibus leads the army as Zenos.
+
+[[Hien Rijin]], [[Lyse Hext]], and Yugiri Mistwalker are sent to intercept "Zenos" after receiving word that he has been ambushing the resistance soldiers stationed on the front lines, but he easily overpowers them. The Warrior of Light kills him, but "Zenos" is immediately resurrected, as Ascians cannot die through conventional means. As he approaches the Warrior of Light, he or she loses consciousness due to being called from [[the First]]. As Elidibus raises Ame-no-Habakiri to deal the killing blow, [[Estinien Wyrmblood]] arrives and spirits the unconscious Warrior of Light away. Elidibus retreats as Emperor Varis recalls him following the offensives' losses and the spreading of rumors that Zenos is possessed by a dark spirit, leading to unrest in the Imperial Court.
+
+[[File:FFXIV Zenos Ala Mhigan Body.png|thumb|Zenos possessing an Elezen body from the [[Ala Mhigan Resistance]].]]
+With the battle in Ala Mhigo having reached a stalemate, the real Zenos—having used his Resonant abilities to possess an Ala Mhigan soldier—arrives to reunite with his "first friend". Acknowledging that the Warrior of Light's hunt leads them elsewhere, Zenos proclaims that before they reunite, he will reclaim what is rightfully his: his body. Zenos kills and possesses the body of an imperial centurion, and begins to make his way to Garlemald.
+{{Clear}}
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+{{Quote|It has been too, too long, my friend...and insufferably dull in your absence. When you return to me, you will share everything. Every blow will be a story unto itself. Every triumph. Every kill. Rest assured we shall have a fitting stage for our reunion. Oh, yes. To reprise that transcendent moment, I will set this world ablaze. And we shall dance before the pyre.|Zenos looking forward to the Warrior of Light}}
+Following the Warrior's victory over [[Emet-Selch|Emet-Selch]] in the First, the real Zenos arrives in the imperial palace in Garlemald, slaughtering his way to the throne room. Elidibus, sensing Emet-Selch's demise, abandons his vessel with Zenos regaining his body along with knowledge of the Ascians' agenda. Gaius and Estinien enter the throne room in time to witness Zenos murdering his father. Zenos denies seeking the throne, and states the murder is in retaliation for Varis interfering with his hunt for the Warrior of Light by attempting to use the Black Rose on them. Zenos overpowers Gaius and Estinien before a detachment led by Annia and Julia quo Soranus reaches the throne room, taking his leave as the Garleans assume his opponents murdered Varis.
+
+[[File:Zenos Echoes of a Fallen Star.jpg|thumb|left|Zenos dreams of the Final Days of Amaurot.]]
+Civil war breaks out in Garlemald following the emperor's death when Varis's cousin Nerva takes advantage of Zenos's disappearance to claim the throne. While observing the chaos he caused, Zenos is approached by a mysterious white-robed figure—the Ascian, [[Fandaniel]]—who offers assistance. He directs Zenos to an ideal prey: the Ascians' primal [[Zodiark (Final Fantasy XIV)|Zodiark]]. Zenos confesses that he has dreamed of the end days of [[Amaurot]] all his life, with the Ascian suspecting it the work of Emet-Selch, and tells Zenos the story of the great sundering.
+
+On [[Werlyt]], the reformed VIIth Imperial Legion works on the development of new [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]-like projects, which host synthetic [[Auracite|auracites]] with skilled Garlean soldiers' data within. Zenos's data was initially used for the core of the [[Diamond Weapon]], but Legatus [[Valens van Varro]] discards the simulation during the testing of the Weapon's Oversoul as he prefers an obedient servant rather than a ravenous beast obsessed with hunting.
+
+{{Quote|While I await you, I shall drink a sea of souls and gorge myself upon the darkened moon. Then you shall come to me, all roiling rage and rancor... And the stars shall bear witness to our final contest.|Zenos}}
+[[File:Zenos 5.4.PNG|thumb|left|Zenos becomes upset with Fandaniel at potentially harming the Warrior of Light]] 
+Zenos later returns to the imperial palace, bored despite having slaughtered an entire room of soldiers to get there. Fandaniel arrives in possession of the body of [[Asahi sas Brutus]], having taken his identity and resources to further his goals. Zenos shows little interest in Fandaniel, though he angers when the Ascian notes he may have "singed [the Warrior of Light] a little". Fandaniel declares his and Zenos's intent is to usher in destruction akin to the Final Days of the [[Ancient civilization|ancient]] Amaurot. Once the Ascian departs to "prepare a hunting ground", having the Garleans rebuild the palace into a tower, Zenos plans to recreate the feeling of his fight with the Warrior of Light at the Royal Menagerie when they will reunite. When Fandaniel reports his progress of erecting the towers and his meeting with the Warrior, Zenos discards Ame-no-Habakiri for a new weapon for his rematch. Fandaniel later reports that he released the remaining Lunar primals in Eorzea following Lunar Bahamut's destruction, Zenos having chosen a gunscythe among the various weapons he acquired over the years. As Fandaniel later reports of the setback from being prevented from acquire the aether from the [[Carteneau Flats]] for their plan, Zenos tests his scythe on some Eorzean fighters before looking up to the moon. He muses that he will gorge on a sea of souls and power while waiting for the Warrior, with the stars bearing witness to their epic final battle.{{cite|FFXIV|As of patch 5.55, }}
+
+==Characteristics==
+===Appearance===
+Zenos wears dark full plate armor and often appears behind a horned pale white mask. He incorporates some of Ala Mhigo's traditional outfit into his appearance, adorning his suit with trial textile and a belt. Zenos is the second Garlean antagonist to go without his mask at times, the first being [[Nero tol Scaeva]]. He is a man in mid 20s with a youthful face, fair complexion and long golden hair. In the later patches of ''Shadowbringers'' and in ''Endwalker'', Zenos abandons his bulky armor for lighter leather royal garments and a gold pauldron that extends from his right shoulder down to his arm.
+
+His weapons of choice are a set of three katanas: the Storm, the Swell, and Ame-no-Habakiri. The Storm and the Swell are lightning- and wind-aspected, respectively. Each sword has a distinct glow: purple for the Storm, green for the Swell, and red for Ame-no-Habakiri. Before acquiring Ame-no-Habakiri he wielded an unnamed katana bearing the sigil of Garlemald. He carries the katanas in a "sword revolver", prominent throughout promotional materials. The revolver has been compared in appearance to a golf bag and even has a kickstand for when not in use. He later discards his katanas in favor of a scythe outfitted with a gun barrel at the blade's base.
+
+===Personality===
+Zenos is arrogant, selfish and callous. Having been raised as the heir apparent, he disregards the importance of human life. Drunk on power as the crown prince and viceroy of both Ala Mhigo and Doma, Zenos cares little for his job of governing the provinces. Since Zenos never found challenge in battle, he treats his conquered subjects as prey to hunt and partakes in battles for the thrill of the kill. His purpose in war is to collect swords. [[Alphinaud Leveilleur|Alphinaud]] admits Zenos is a peerless warrior and an accomplished general, the crushing of the Doman rebellion standing as proof of that. What Zenos loathes most is an opponent who does not provide enough "sport" in battle or cowards who flee.
+
+Though Zenos views enemy and ally alike with contempt, he acknowledges the uses and strengths of his servants and allies. This includes Yotsuyu goe Brutus's hatred for her people to break the natives of Doma, [[Aulus mal Asina]]'s scientific theory that would give Garleans the means to wield [[magic (term)|magicks]], [[Fordola rem Lupis]]'s desire to uplift her people to be accepted by the Garleans and to achieve the power to make all those who mocked her pay, and [[Asahi sas Brutus]]'s zealous devotion to him. Nonetheless, despite most of them being loyal, they are expendable to Zenos. He later accepts the services of the rogue Ascian, [[Fandaniel]], in his renewed efforts to hunt the Warrior of Light down. While he finds the eccentric Ascian useful, Zenos appears disinterested in him, more so on his desire on restarting the Final Days.
+
+{{spoiler}}
+Zenos searches for means to augment and improve his body, which already surpasses human limit due to experimentation conducted on him by the [[Garlean Empire]]. He defies Garlean doctrine and subdues the [[primal]] [[Shinryu (Final Fantasy XIV)|Shinryu]] for his own use, claiming to care little about his nation and its cowardly creeds regarding the eikons. After reclaiming his body from [[Elidibus (Final Fantasy XIV)|Elidibus]] and wounding his father, Zenos proclaims that he has no interest in ruling the Empire, his only goal is to hunt down the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]].
+
+Zenos feels a connection for the Warrior of Light's progress in battle. He calls them as both his first "friend" and his enemy. This shows another side of Zenos, one that is lonely and possibly fatalistic. Having felt little value in the world outside of drowning in the power bestowed on him or the blood of his enemies, Zenos can find a kindred spirit in the one who can finally best him. His newly forged motivation to face the Warrior of Light drives him to remove all obstacles and distractions, his birthright of the throne being among them.
+
+The only other time Zenos shows overt emotion is following the killing of his father: euphoria over ridding himself of an obstacle in his pursuit of the hunt.
+
+==Gameplay==
+Zenos is depicted at level 70 in almost all encounters, even while the player is in lower 60s and otherwise fights enemies of similar level, emphasizing his role as an opponent for the Warrior of Light to reach and surpass in ''Stormblood''.
+
+Zenos is fought on several occasions, the first two as [[unwinnable battle]]s demonstrating his might. He is the final opponent in the level 61 solo instance {{icon|ffxiv|quest|In Crimson It Began}}, effortlessly swatting away the other Scions with the player character barely able to stand up to him before he decides they are unworthy opponents. During the level 64 instance {{icon|ffxiv|quest|The Time between the Seconds}}, the player character duels him, but once Zenos draws the Ame-no-Habakiri he outclasses them.
+
+He is encountered for the third time in {{icon|ffxiv|duty|Ala Mhigo}} as the final dungeon boss, where he can be defeated and forced to retreat. He uses the power of the Resonant to fuse with Shinryu, and is fought as a trial boss, making him the final boss of ''Stormblood''.
+
+During the level 70 instance battle {{icon|ffxiv|quest|A Requiem for Heroes}} in the final quest of the patch content for ''Stormblood'', Elidibus is fought while using Zenos' corpse as a vessel. He is first fought by the player controlling Hien through the role-play system, accompanied by Lyse and Yugiri, then immediately after he is fought by the Warrior of Light.
+
+In ''[[Shadowbringers]]'', a simulacrum of him is also fought at level 80 in the instance from {{icon|ffxiv|quest|Faded Memories}} Main Scenario quest.
+
+In [[Endwalker]], Zenos is fought for an eighth and final time as Zenos "Viator" Galvus, making him the only boss in Final Fantasy history to be the final boss of two different expansions.
+
+Zenos is the most recurrent boss in ''[[Final Fantasy XIV]]'', being fought on six occasions (eight if one counts the two modes of the {{icon|ffxiv|duty|Royal Menagerie}}'s trial). This surpasses [[Nael van Darnus]], who is also fought in five occasions (seven counting the two modes of [[Rivenroad]]'s instance from 1.0).
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Zenos yae Galvus
+|image = [[File:Zenos_yae_Galvus_Triple_Triad_Card.png]]
+|number = 201
+|total = 29
+|type = Garlean
+|description = “Do not disappoint me, girl. Or I will kill you.”
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Hachinan|Hachinan]], Yanxia (26, 12)<br>Randomly obtainable from {{icon|ffxiv|duty|ala mhigo}}
+}}
+
+==Musical themes==
+Zenos's cutscene appearances are accompanied by "Meteor", a theme previously used for [[Nael van Darnus]]. His first battle is accompanied by "Wrath of the Eikons", a theme typically associated with [[Diabolos (Final Fantasy XIV)|Diabolos]]. His second battle is accompanied by "Bite of the Black Wolf", which has been used for other Legati before. His battle in [[Ala Mhigo (dungeon)|Ala Mhigo]] has the "Triumph" theme, the default theme for dungeon final bosses in ''Stormblood''. When fought in "A Requiem for Heroes", the first phase of his fight is accompanied by "Triumph", while the second phase is accompanied by "Thunderer", which is normally the theme used for Ascians.
+
+==Other appearances==
+===''[[Dissidia Final Fantasy NT]]''===
+{{main|Zenos yae Galvus (Dissidia NT)}}
+[[File:DFFNT Zenos yae Galvus Costume 01-A.png|thumb|Zenos yae Galvus as he appears in [[Dissidia Final Fantasy NT]].]]
+Zenos yae Galvus is a playable character and a representative of ''Final Fantasy XIV''. He is a warrior of [[Spiritus]].
+
+He was revealed during the Final Fantasy XIV Tokyo Fan Festival 2019. He was introduced in the March 26th update for the arcade version. The following month, he was added to the [[PlayStation 4]] and [[Steam]] versions as a standalone DLC.
+{{clear}}
+
+===''[[Pictlogica Final Fantasy]]''===
+[[File:PFF Zenos yae Galvus.png|thumb|200px]]
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Mobius Final Fantasy]]''===
+{{Section|Mobius Final Fantasy}}
+
+==Merchandise==
+[[File:FFXIV SB Collectors Edition.jpg|thumb|''Final Fantasy XIV Stormblood Collector's Edition'' package.]]
+A Zenos figure is included in the ''Final Fantasy XIV Stormblood Collector's Edition'' package.
+{{clear}}
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV SB Zenos Concept.jpg|Concept art.
+StormbloodJapaneseCoverArtwork.jpg|Artwork from ''Stormblood''.
+FFXIV Zenos Artwork.png|Artwork from ''Stormblood''.
+FFXIV SB Zenos.jpg|Promotional render for ''Stormblood''.
+FFXIV Shinryu and Zenos artwork.jpg|Shinryu and Zenos artwork.
+FFXIV Zenos Concept.jpg|Zenos concept art.
+FFXIV Prelude in Violet Artwork.jpg|Zenos in ''Prelude in Violet'' artwork.
+FFXIV SB Art of the Revolution - Eastern Memories.jpg|''Art of the Revolution -Eastern Memories-'' artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Zenos 01.png|Zenos arriving in Ala Mhigo.
+FFXIV Zenos Resonant.png|Zenos' Eyes of Resonance.
+FFXIV Zenos Shinryu.png|Zenos merging himself with [[Shinryu (Final Fantasy XIV)|Shinryu]].
+FFXIV Shadowbringers trailer screenshot 6.png
+FFXIV ShB Zenos awakes.png|Zenos awakes from his dream in ''Shadowbringers''.
+5-3 patch Zenos and Fandaniel.png|Zenos and Fandaniel plan their hunt in ''Shadowbringers''.
+FFXIV Endwalker trailer screenshot 21.png|Zenos in ''Endwalker'' trailer.
+Zenos Reaper.png|Zenos as a Reaper in the ''Endwalker'' trailer.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[es:Zenos yae Galvus]]
+[[pt-br:Zenos yae Galvus]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garleans]]
+[[Category:Antagonists]]
+[[Category:Samurai]]
+[[Category:Garlean citizens]]

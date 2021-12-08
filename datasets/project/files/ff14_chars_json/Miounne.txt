@@ -1,0 +1,81 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Mother Miounne
+|release=FFXIV
+|japanese=ミューヌ
+|romaji=Myūnu
+|image=Miounne from Final Fantasy XIV.png
+|race=[[Elezen]]
+|gender=Female
+|height=
+|hair=Dark gray
+|eye=Hazel
+|age=36 
+|affiliation=Adventurer's Guild
+|occupation=Tavern Owner
+|type=npc 
+}}
+{{Quote|The motherly proprietress of the Carline Canopy, Gridania's ever popular teashop. Even as her fellow citizens look upon outsiders with distrust, Miounne welcomes newly arrived adventurers with open arms, and helps them to find their way in the forest nation.|Official description}}
+'''Mother Miounne''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is a [[Gridania]]n [[Elezen]] who works at the adventurer guild in Gridania.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+When the [[Warrior of Light (Final Fantasy XIV)|adventurer]] arrives in [[Gridania]], Mother Miounne acts as a guide for his cleansing ritual suggesting that the adventurer visits several guilds and often communicates with him via a linkshell.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Miounne remains the proprietress of the Carline Canopy, assisting new adventurers of the [[White Mage (Final Fantasy XIV)|Conjurer]], [[Bard (Final Fantasy XIV)|Archer]], and [[Dragoon (Final Fantasy XIV)|Lancer]] disciplines and guiding them around Gridania.
+{{clear}}
+
+==Characteristics==
+=== Appearance ===
+[[File:Miounne 1.0 from Final Fantasy XIV.png|thumb|90px|Miounne in the original release.]]
+Miounne is a tall duskwight elezen with dark gray hair and hazel eyes. She wears a green tunic with a black vest, and wears a unique necklace with a red stone and sandals.
+
+=== Personality ===
+Miounne is a well known figure in Gridania, acting as a liaison for the city state. Especially warm and caring, adventurers and townsfolk alike trust in her guidance, resulting in her moniker.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Miounne is a npc available for Triple Triad matches added in patch 2.51. She is located at [[New Gridania]] (11.7, 13.5). To challenge her the player needs to complete the {{icon|ffxiv|quest|A Wild Rose by Any Other Name}} quest. 
+
+The matches have the Match Rule Three Open. The possible rewards for defeating her are {{icon|ffxiv|item|Mother Miounne Card}} and {{icon|ffxiv|item|Goobbue Card}}.
+
+{{Card FFXIV
+|name = Mother Miounne
+|image = [[File:FFXIV TT Mother Miounne.png]]
+|number = 30
+|total = 20
+|type = None
+|description = "Great or small, every contribution counts. I trust you will play your part."
+|obtain = Random drop from {{icon|ffxiv|item|Gold Triad Card}}.<br/>Won from Mother Miounne, New Gridania (11, 13).
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+Miounne appears in ''Final Fantasy Trading Card Game'' as Wind-elemental Backup cards.
+
+<gallery>
+Miounne TCG.png|Miounne [12-052R] Chapter series card.
+Miounne 5-067R from FFTCG Opus.jpg|Miounne [5-067R] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Miounne appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+382a Mother Miounne.png|Miounne.
+382b Mother Miounne.png|Miounne.
+382c Mother Miounne.png|Miounne.
+</gallery>
+
+==Gallery==
+<gallery>
+FFXIV Miounne.png|''A Realm Reborn'' In-game render.
+Miounne_Adventurer_Guild.jpg|Miounne at the Adventurer Guild.
+Miounne_Inn.jpg|Miounne in the inn room.
+QMiounne1.png|
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

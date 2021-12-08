@@ -1,0 +1,55 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Allie
+|release=FFXIV
+|japanese=アリー
+|romaji=Arī
+|image=FFXIV Allie Portrait.png  
+|race=[[Au Ra]]
+|gender=Female
+|height=
+|hair=White
+|eye=purple 
+|age=16
+|weapon=
+|armor=
+|affiliation=[[VIIth Imperial Legion]]
+|occupation= Pilot
+|type=npc
+|job=
+|home=
+|loves=
+|hates=
+|abilities=}}
+'''Allie''' is a [[non-player character]] in the Sorrow of Werlyt questline in ''[[Final Fantasy XIV: Shadowbringers]]''. She serves as one of the pilots in the weapons project, and is a soldier in the [[VIIth Imperial Legion]].
+
+==History==
+===Early life===
+[[File:Young Allie and Alfonse.png|left|thumb|Allie and Alfonse as children.]]
+Allie was orphaned at a young age and while on the streets of Terncliff, became sick. She and her brother Alfonse where found by [[Gaius van Baelsar]] who gave her medicine to cure her ailment and took her under his care to be raised alongside others in an Imperial orphanage. Over time she became close to [[Alfonse]], [[Rex]], [[Ricon]], and [[Milisandia]], all sharing how they met Gaius and wanted to thank him by joining the Garlean military to follow in his footsteps and have citizens look up to them as they do him.
+
+Allie and her foster siblings were sent to fight in [[Eorzea]], but before doing so they traveled to [[Terncliff]] to say goodbye to Avilina and hoped to see Gaius before leaving. [[Livia sas Junius]] forbade them from doing so, and in his stead [[Rhitahtyn sas Arvina]] went out to meet them.
+
+===''Final Fantasy XIV: Shadowbringers''===
+Following [[Ruby Weapon]]'s defeat Allie runs out into the field to meet Gaius and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], with Rex and Alfonse following suit. Allie wanted to confirm with her own eyes that it was Gaius, and Rex is happy to see Gaius but glares at the Warrior. As Allie tries to reveal the truth to Gaius, Alfonse stops her and an [[airship (term)|airship]] arrives to take them away. Before leaving Alfonse reveals to Gaius that Milisandia was piloting the Ruby Weapon and Rex promises revenge on the Warrior for Milisandia's death. Back at the Werlyt [[magitek]] installation, Rex tries to cheer up Alfonse by saying they can be a happy family after Eorzea's subjugation and with him at the helm of the [[Sapphire Weapon]], Eorzea won't stand a chance.
+
+As Gaius and the Warrior of Light are en route to Terncliff, the legion is forced to withdraw with the weapons in tow. Allie leaves to Castrum Marinum where the weapon is continuing its construction. Rex and Alfonse reveal the true nature of Oversoul to Allie who is angry and saddened that they had hid the truth from her. Rex explains they hid it because she hadn't changed over the course of her time in the military and deserves happiness. They believe that they should be the ones to sacrifice their lives to see Werlyt freed. Alfonse asks Rex to take Allie to the holding cells for her to not interfere with Rex piloting the [[Emerald Weapon]]. After the Emerald Weapon's defeat, Severa frees Allie from her cell and she sees the Weapon out of commission. Knowing that her foster sibling Rex is gone, Allie falls to her knees in grief.
+
+Allie is taken to Terncliff to recover and Severa inspects her, noticing that she has an assortment of welts and lashes on her back from [[Valens van Varro]]. After improving somewhat Allie is asked to speak with Gaius about her siblings. She reveals they were drafted into the VIIth Legion and how Valens resents Gaius for heading the [[XIVth Imperial Legion]] as he was one of the candidates considered. She begs Gaius to meet Alfonse eye to eye, but hopes that she could've gotten her hands on the Diamond Weapon to free her homeland and save her brother. She asks the Warrior of Light to assist her father in rescuing Alfonse and is taken back inside to be taken care of by Severa.
+
+Allie leaves a note for Gaius, telling him she went back to the VIIth Legion headquarters to rescue Alfonse. After being assigned to pilot the [[Diamond Weapon]], she attempts to kill Valens. She unintentionally activates Overmind and destroys the base. After escaping the headquarters, the Warrior of Light and Gaius defeat the Diamond Weapon, causing it to fall to Werlyt. Allie survives and tumbles from the wreckage, the Warrior taking her back to Terncliff. After Gaius completes his revenge, [[Cid Garlond|Cid]] reveals that the extreme shock from learning about Alfonse's fate from Overmind sent Allie to a catatonic state. When Gaius activates the memories from the synthetic [[auracite]] obtained from Diamond Weapon, Allie communicates with the memories of Alfonse, Rex, Ricon, and Milisandia, who tell her that they will always be on her side. They ask her to take care of Gaius, restoring her mind.
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV Allie.png|thumb|Allie.]]
+Allie is a raen [[Au Ra]] with pale skin and white hair that has gray highlights at the tips. She has purple eyes, and bright lavender-colored limbal rings. She wears a Late Allagan Coat of Casting dyed red, with Diamond Gloves of Healing, a Cashmere Skirt of Healing, and Urban Boots.
+
+===Personality===
+Allie has a happy upbeat personality even through the years and hardships she has faced within the [[Garlean Empire|Garlean]] military. Allie loves and cares for her siblings, sharing their goals of one day becoming free of the oppression they have endured since Gaius's departure. Allie can't even imagine a world without them.
+
+== Gallery ==
+<gallery>
+File:Gaius Saving Young Allie.png|Gaius giving Allie medicine.
+</gallery>{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]

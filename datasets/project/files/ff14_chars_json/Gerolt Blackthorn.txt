@@ -1,0 +1,90 @@
+{{sideicon|prime=FFXIV|}}
+{{Infobox_character
+|name = Gerolt Blackthorn
+|release = FFXIV
+|japanese =ゲロルト・ブラックソーン 
+|romaji =Geroruto Burakkusōn 
+|image = Gerolt.jpg
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = 
+|eye = 
+|home =
+|age =51
+|affiliation = 
+|occupation = Blacksmith
+|type=npc
+|job = {{icon|ffxiv|discipline|blacksmith}}
+|weapon = Artisan's Cross-pein Hammer
+|armor =
+}}
+
+{{Quote|Muahahaha.... MUAHAHAHAHAHA! These gods-given hands've worked yet another miracle! Feast yer eyes on Thyrus, jus' as it was in days of yore! 'Tis a sight to move a man to tears... ye lucky bastard. Ye'd better bloody well take care of it!|Gerolt, after he successfully revived the Thyrus.}}
+'''Gerolt Blackthorn''' is a non-playable character in ''[[Final Fantasy XIV]]''. He is the legendary blacksmith of [[Eorzea]], his workshop is located in the village of Hyrstmill [[Black Shroud|North Shroud]].
+
+The [[Warrior of Light (Final Fantasy XIV)|Adventurers]] need Gerolt's help in order to resurrect their [[Relic Weapon (equipment)#Final Fantasy XIV|Relic weapons]] in [[A Relic Reborn]] quest. He is also the creator of the [[Gerolt Masterworks]], which could be refurbished by his apprentice [[Drake Rhodes]] with appropriate Sands of Time or Oils of Time prior to patch 5.3.
+
+Since his initial appearance in the base game, he has reappeared in each subsequent expansion's Relic Weapon storylines to forge [[Anima Weapon|Anima]], [[Eureka Weapon|Eureka]], and [[Resistance Weapon|Resistance Weapons]] for the player.
+
+==History==
+===Early life===
+Not much is known about Gerolt's early life, but when he was of age he became an apprentice to [[Heidolf]], a well-renowned blacksmith in [[Ul'dah]]. His friend and fellow student was [[Remon]]. Both would eventually become legendary blacksmiths in their own right, and anything they created became highly coveted and valuable. Heidolf, as their master, became very wealthy as a result. [[Rowena]] would come to be a regular patron of theirs, where she would eventually fall in love with Gerolt (and he, her).
+
+Heidolf, in his greed, began selling inferior wares under both Gerolt's and Remon's name. Having a keen eye for Gerolt's craftsmanship, Rowena discovered the ruse and threatened to cut ties with Heidolf unless he desisted. As a result, he planned to have her assassinated in order to silence her. Gerolt begged Heidolf to reconsider, and when he did not, they came to blows where master tried to murder student instead. Gerolt survived the attempt on his life, and was forced to flee the city. Rowena, after she learned the truth of his exile, went after him. After no small amount of search, they eventually found each other again, and married.
+
+Their happiness didn't last long, as Gerolt was eventually sent a letter from Remon. In their absence, Remon had given up the hammer and became a black market dealer, where he discovered that Rowena had a sizable debt under her name. It turned out that after she resigned and went searching for Gerolt, she had stolen quite a sum of money from her employers and clients, thus endangering her life. Gerolt, in order to ensure her safety, pretended to need an exorbitant amount of money to open a new shop. Rowena lent this money to her beloved, who promptly disappeared with it. Although he took the money in order to repay her debt, he maintained the ruse that he had selfishly stolen it and then lost it all, to free her from any guilt.
+
+By the time Rowena found him again, Gerolt was nothing more than a drunkard pounding away at kettles, his separation from Rowena and his time on the run taking its toll at last.<ref>http://gamerescape.com/2016/02/05/the-lore-train-duty-commenced-gerolt-rowena-lore-lowdown/</ref>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The adventurer is directed to visit Gerolt by Rowena, with a reminder of his debts as a means to coerce him to aiding in restoring Relics. A checklist of items and performance tests must be done to obtain a restored Relic.
+
+Further upgrades to the Relic are handled by [[Jalzahn]], who arrived in Hyrstmill in hopes of meeting Gerolt. Though put off by Gerolt's attitude, he none the less is interested in trying restore the arms of the Zodiac Braves with the Relic(s). Eventually, when the results of Novus relic doesn't turn out as well as hoped, Gerolt is consulted on how to better hone the soul attunement. Following his advice, a soulglaze is used to properly attune the soul into the Nexus stage.
+
+Once Jalzahn can't think of any further progress, Gerolt suggests recreating the vessels of the arms of the Zodiac Braves. Pooling together all their assets, with assistance from Rowena's employees, Guiding Star, and [[Mutamix Bubblypots]], the adventurer undertakes a grand project to acquire the rare materials needed to rebuild the [[Zodiac Weapons]]. By merging the old Relic's materia form with the new vessel forged by Gerolt, a Zodiac Weapon is created.
+
+Sometime later, Gerolt's curiosity got the better of him and procured a rare tome from Rowena, the ''Book of Netherdark'', an obscure book in the saga of the Zodiac Braves. Following data gleaned from the tome, they realized the Zodiac Weapon could be finalized by using ''Mahatma'' to grant the weapon a sense of sentience like the original arms. With the finishing touches, the Relic reaches the final Zeta stage. Jalzahn inquires about the book Gerolt obtained, having obtained it from Rowena when he "threatened to wed her again." It is revealed the book was written by Jalzahn's ancestor, Ulthalam. Reading a final word by him, Ulthalam was unable create the Zodiac Weapons in his time, and declares that any future artisan that fulfills his dream be named "Starforger." Gerolt and Jalzahn soon get into an argument over who is the true Starforger.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Gerolt is a Highlander [[Hyur]] with dark skin, bald hair, and large sideburns. He has a white tattoo on the right side of his face.
+
+===Personality===
+Though he is recognized for skill in refurbishing relics and his Masterworks, his personality is fairly rough and unapproachable, and is fond of liquor. He and [[Rowena]] share a mutual disdain for each other, due to their history. In later dialogue with him, it is implied that the two of them were once married. This is confirmed in supplementary material.<ref>http://gamerescape.com/2016/02/05/the-lore-train-duty-commenced-gerolt-rowena-lore-lowdown/</ref> It is also revealed that Gerolt hadn't always been a drunkard, but once had a fiery and impassioned spirit for his work. He had also loved Rowena deeply, and sacrificed everything to protect her, including their marriage and her love for him. The implication is that his "disdain" for her is merely an act, to maintain the facade he created.
+
+Despite his rough exterior, Gerolt is also quite learned on the matter of aetherial properties and very much earned the title of legendary smith.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Gerolt appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+520a Gerolt.png|Gerolt.
+520b Gerolt.png|Gerolt.
+520c Gerolt.png|Gerolt.
+</gallery>
+
+==Gallery==
+<gallery>
+Gerolt working.jpg|Gerolt working on a Relic weapon.
+Gerolt Workshop.jpg|Gerolt's workshop in the North Shroud area.
+Gerolt Furnace.jpg|The furnace that allowed the players to upgrade their Relic weapons.
+QGerolt1.png|
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Blacksmiths]]

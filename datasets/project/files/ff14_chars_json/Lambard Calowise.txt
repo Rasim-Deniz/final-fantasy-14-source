@@ -1,0 +1,57 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Lambard Calowise
+|release = FFXIV
+|japanese =ランバード・カロワイズ
+|romaji =Ranbādo Karowaizu
+|image =FFXIV Lambard Calowise.png
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Blonde
+|eye = Lavender
+|designer = 
+|age =40
+|job = {{icon|ffxiv|discipline|red mage}}
+|weapon =Verdun
+|armor = Duelist's Attire
+|affiliation = Garlemald
+|occupation = Assassin
+|abilities=Dark Fire III, Black Blood, Enchanted Moulinet, Brand, Soulsteal, Bleeding Flame}}
+{{Quote|Ah, yes, the valiant Crimson Duelists. Such fond memories. I relished their slaughter.|Lambard}}
+'''Lambard Calowise''' also known as '''Lambard the Regal''' is the main antagonist in the 50-60 [[Red Mage (Final Fantasy XIV)|Red Mage]] Quests in ''[[Final Fantasy XIV: Stormblood]]''. Lambard serves the [[Garlean Empire]] as an assassin.
+
+==History==
+===Early life===
+When he was younger he assisted [[X'rhun Tia]] in reviving the lost art of red magic and traveled to their known locations such as the Zigguarat.
+
+Interested in more power Lambard was fond of the mages of mhach art of voidsent summoning, and sought to seek out their power in forbidden red mage teachings. Lambard had discovered an Ishgardian book titled "Nightkin" a book with the information on how to make pacts with voidsent and infuse themselves with their blood.
+
+During the climax of the Ala Mhigan Revolution Lambard betrayed the crimson duelists and slaughtered the entire order and became an assassin for [[Zenos yae Galvus]]. After betraying his order he went into an arcane slumber in order to restructure his body.
+
+Between joining the Garleans and going into slumber, he trained [[Lovro aan Slanasch]] to be a red mage.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Lambard returns to [[Eorzea]] kidnapping people to mindlessly serve him using a brand that slowly whittles away at their mind until they become loyal followers. knowing that a girl known as Arya's family line is from the Calowise family, he has her kidnapped and her uncle killed. Him and his crew set themselves up at Aleport. Hot on his trail the Warrior of Light and X'hrun Tia, track him down at the Isles of Umbra. Gloating about how he relished the slaughter of the Crimson Duelists he plans on killing the two there, only to be interrupted by Arya and flees.
+
+[[File:FFXIV Lambard red.png|thumb|Lambard absorbs X'rhun's life force.]]
+Lambard is then ordered by the empire to destabilize [[Garlond Ironworks]] by killing senior officers, namely [[Jessie Jaye]] in [[Mor Dhona]]. Lambard and his followers ambush "Jessie" before she reaches the airship only to find out that he's been fooled, X'hrun confronts him and Lambard unleashes his true power. The two duel and Lambard suffers a major wound noting that X'hrun was always the greater fighter, but tells him that a scratch was all he needed and sucks the life force from X'hrun significantly wounding him. The Warrior of Light and Arya protect X'hrun before he kills him, and the three duel. Defeating Lambard and his followers, X'hrun thanks them and approaches Lambard, gloating about the twisted turn of fate that will befall them and mentions Arya as an example. Arya staggers, and tells the group that she's fine and that she's just weary from battle, Lambard says he will miss her suffering and passes away.
+
+==Characteristics==
+===Appearance===
+Lambard is a midlander [[hyur]] with blonde hair and lavender eyes. He wears the Duelist's Attire dyed grape purple and wields the Verdun rapier.
+
+===Personality===
+Lambard is a traitor to the crimson duelists and did so for power. Devoted to learning how to earn more power he was always reading unfavorable books. When fighting [[Arya Gastaurknan|Arya]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], he boasts of his strength, and will gloat when his enemies think they have won.
+
+=== Abilities ===
+Lambard is seen to be quite agile when first encountered, shown to be able to jump high and do backflips from high heights. He is also a master at the Soulsteal ability where he can suck vital aetherial energies from wounded mortal victims, an ability that shows proof of the blood that flows within his veins. He's also a master of various dark spells.
+
+== Gameplay ==
+Lambard appears in the solo instance of {{icon|ffxiv|quest|Stained in Scarlet}} as a boss, during the fight he has thaumaturge followers that assist him. Occasionally he will use his nightkin ability to take away a chunk of the players health if its not healed correctly. He will summon voidorb fireballs all over the arena, and one will need to be defeated in order to be safe.
+
+{{navbox characters FFXIV}}
+[[Category:Hyurs]]
+[[Category:Red Mages]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

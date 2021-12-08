@@ -1,0 +1,51 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Vedrfolnir
+|release=FFXIV
+|japanese=ヴェズルフェルニル
+|romaji=Vezuruferuniru
+|aka=The White Dragon
+|image=FFXIV SB Vedrfolnr face.png
+|home=[[The Churning Mists]]
+|affiliation=[[Hraesvelgr]]'s brood
+|race=Dragon
+|gender=Male
+|eye=
+|type=npc
+}}
+{{Quote|I will not abandon those who suffer at Darkscale's ravaging claws!|Vedrfolnir}}
+'''Vedrfolnir''' is a wyvern in ''[[Final Fantasy XIV]]''. He is one of the children of [[Hraesvelgr]]. He was introduced to the ''[[Final Fantasy XIV: Heavensward|Heavensward]]'' expansion as a World FATE boss, later in patch 3.3 Revenge of the Horde he made a minor appearance in Main Scenario Quest. Vedrfolnir receives a larger appearance during [[Dragoon (Final Fantasy XIV)|Dragoon]] questline in the ''[[Final Fantasy XIV: Stormblood|Stormblood]]'' expansion.
+
+==History==
+Although Vedrfolnir be from Hraesvelgr's brood, Vedrfolnir had a consort from [[Nidhogg (Final Fantasy XIV)|Nidhogg]]'s brood, [[Faunehm]]. When the [[Dragonsong War]] began, Vedrfolnir fought with his brothers alongside the knights of [[Ishgard]] against the Nidhogg horde. Not to fight with his consort, Vedrfolnir asks Faunehm to flee to the east.
+
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], [[Alphinaud Leveilleur|Alphinaud]] and [[Aymeric de Borel|Ser Aymeric]] Hraesvelgr for help to defending Ishgard, Hraesvelgr conducts an trial against the Warrior of Light while [[Vidofnir (Final Fantasy XIV)|Vidofnir]] trials Alphinaud and Vedrfolnir trials Aymeric. Once the trials are completed, Vedrfolnir takes Aymeric to the battlefield.
+
+[[File:FFXIV SB Faunehm and Vedrfolnr.png|thumb|Faunehm and Vedrfolnir.]]
+With the end of the Dragonsong War, Vedrfolnir's son, [[Orn Khai]] decides to fulfill his father's desire to reunite with his consort. With the help of the Warrior of Light, Orn Khai meets Faunehm in [[Azim Steppe]]. Due to having resisted Nidhogg's call for so long, she loses her sanity and while she attacks the Warrior of Light and [[Estinien Wyrmblood|Estinien]], Vedrfolnir arrives and succeeds in making his consort regain her sanity.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Gameplay==
+[[File:FFXIV_Vedrfolnir_in_a_FATE.png|thumb|Vedrfolnir during a FATE.]]
+Vedrfolnir appears in several [[Full Active Time Event|FATE]]s in [[the Churning Mists]]. During {{icon|ffxiv|fate|end of the rainbow}} and {{icon|ffxiv|fate|rastaban vibration}}, Vedrfolnir will appear to face one of [[Darkscale]]'s servants. During these FATEs both Vedrfolnir and his opponent cannot be targeted by the player but they can use AoEs that hit the minions or the player depending on who cast it.
+
+Players may fight alongside Vedrfolnir during {{icon|ffxiv|fate|darkscale descendeth}}, {{icon|ffxiv|fate|darkscale disappeareth}}, and {{icon|ffxiv|fate|darkscale devoureth}}. Vedrfolnir can be targeted during these FATEs, and they will end in failure if Vedrfolnir is defeated. A common trick to avoid this is a {{icon|ffxiv|discipline|white mage}}'s [[Benediction (Final Fantasy XIV)|Benediction]], which restores the target to full health and can be cast on Vedrfolnir to great effect thanks to his massive HP. 
+
+Upon completing the aforementioned FATEs and {{icon|ffxiv|fate|mogicide}}, without allowing any of them to respawn, players may battle Vedrfolnir himself during {{icon|ffxiv|fate|vedrfolnir devoteth}}. Completing the FATE with a gold rating grants the A Worthy Adversary achievement and and an Ishgardian Half Barding.
+
+==Gallery==
+<gallery>
+FFXIV SB Vedrfolnr.png|Vedrfolnir .
+</gallery>
+
+==Etymology==
+Vedrfolnir in norse mythology is a hawk sitting between the eyes of an unnamed eagle that is perched on top of the world tree Yggdrasil.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

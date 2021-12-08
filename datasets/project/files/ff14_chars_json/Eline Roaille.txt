@@ -1,0 +1,55 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Eline Roaille
+|release=FFXIV
+|japanese=エリヌ・ロアユ
+|romaji=Erinu Roayu
+|aka=Eline the Razor, The Ivy
+|image=FFXIV Eline.png
+|home=[[Ul'dah]]
+|age=
+|affiliation=[[Immortal Flames]], [[Garlean Empire]]
+|occupation=Commander, Spy
+|education=
+|race= Wildwood [[Elezen]]
+|gender=Female
+|hair= Light brown
+|eye= Gray
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+|weapon=
+}}
+'''Eline Roaille''', also known as '''Eline the Razor''', is a non-playable character from ''[[Final Fantasy XIV]]''. As Flame Marshal of the Immortal Flames, she is the right-hand man of General [[Raubahn Aldynn]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+Eline was appointed Raubahn's second-in-command when the Immortal Flames were reinstated to combat the Garlean threat and Project Meteor. Much as how Raubahn was an Ala Mihgo refugee who made his wealth in Ul'dah, Eline was a foreign mercenary originally hailing from the Holy See of [[Ishgard]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Eline_Arrested.png|thumb|left|Eline under arrest.]]
+In the events of Patch 2.4: Dreams of Ice, it is revealed she was the Garlean spy known as "the Ivy" and had been selling out information since the beginning. Through the course of events, its discovered she was acting as a triple agent, providing intel not only to the [[Garlean Empire]], but the Monetarists of Ul'dah and the heretics serving the [[Dravanian Horde]]. The capture of a merchant in her employ in Coerthas would lead to her downfall, as both the Crystal Braves and the Ishgard Temple Knights unraveled the vines.
+
+[[File:ElinesPast.png|thumb|Eline opens up about her past, including the act of whoring herself in order to survive.]]
+She is initially captured in the East Shroud during a meeting with a correspondent from Castrum Oriens. However, while the Scions were dealing with the threat of the Primal [[Shiva (Final Fantasy XIV)|Shiva]], Roaille had escaped custody and attempted to flee to [[Castrum Meridianum]]. Ilberd defeated her associates at the Garlean garrison and captured her again. She protested how she had clawed her way out of the underbelly of Ishgard society by stealing, killing, and even whoring herself, building hatred towards the Ishgardian nobility in the process. She then questioned Ilberd how he was any different than her, to whom he replied that he only sold his sword, but she sold her comrades. She was taken back to Ul'dah.
+
+Raubahn later spoke with Alphinaud and Ilberd about her betrayal and spy network. He concluded she must have aided [[Gaius van Baelsar]] in getting the [[XIVth Imperial Legion]]'s strongholds throughout Eorzea set up. Ilberd reveals she may have answered to a higher authority in Garlemald. Since the late [[Emet-Selch|Solus zos Galvus]] had endorsed [[Nael van Darnus]]'s use of Project Meteor, they conclude she must have been planted by [[Varis zos Galvus|Varis sae Galvus]], who had recently been crowned Garlean Emperor. Ilberd revealed she had been double dealing, secretly working for Monetarists in addition to the Garleans, much to Raubahn's shock. Alphinaud wondered then why she was aiding Lady [[Ysayle Dangoulain|Iceheart's]] heretics, as neither the Garleans nor Monetarists seemed to have anything to gain from aiding the Dravanians.
+
+==Characteristics==
+===Appearance===
+Eline is a wildwood elezen with gray eyes and light brown hair and is typically seen wearing a round pair of glasses. She is typically seen wearing a Ul'dahn officers uniform, and then Flame elite armor, and when trying to attract less attention she wears a black and white dress with a blue brooch in the middle.
+
+=== Personality ===
+Eline is seen as committed to Ul'dah and the Immortal flames but is secretly a triple agent for the Garlean empire, the moneterists, and the heretics serving the Dravanian Horde. She has a hatred for the Ishgardian nobility as she did everything in order to survive poverty in Ishgard.
+
+==Gameplay==
+Eline the Razor is fought in a [[Quest Battle|Special Instance]] during the Main Scenario Quest {{icon|ffxiv|quest|The Reason Roaille}}.
+
+==Gallery==
+<gallery widths="185">
+FFXIV Eline Roaille.png|Eline Roaille.
+Ffxiv 03072021 182209 391.png|Eline in her Flames uniform.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

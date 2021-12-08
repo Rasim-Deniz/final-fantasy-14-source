@@ -1,0 +1,110 @@
+{{sideicon|prime=FFXIV}}
+{{Cleanup}}
+{{infobox character
+|name=Lucia Junius
+|release=FFXIV
+|japanese=ルキア・ゴー・ユニウス
+|romaji=Rukia Gō Yuniusu
+|aka=Lucia goe Junius, Lucia the Radiant, Taciturn Temple Knight {{j|女神殿騎士|On'na Shinden Kishi|Female Temple Knight}}
+|image=FFXIV Lucia.png
+|portrait=
+|home=[[Garlemald]] (formerly)<br/>[[Ishgard]]
+|age=28{{note|''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'' p.185 gives Livia's age as 26 in the same paragraph it states Lucia is her ''younger'' sister, yet on p.152 Lucia's age is given as 28.}}
+|affiliation=[[Garlean Empire]] (formerly)<br/>Temple Knights
+|occupation=Lord Commander's second-in-command 
+|race=Garlean
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|abilities=
+|weapon=
+|armor=
+|japanese voice actor=[[wikipedia:Sayaka Ohara|Sayaka Ohara]]
+|english voice actor=[[Tara Platt]] (''A Realm Reborn'')<br/>[[wikipedia:Lydia Leonard|Lydia Leonard]] (''Heavensward'' onwards)
+}}
+{{Quote|Lucia, at your service. Pray excuse our reticence. We are but wary of speaking too freely, lest our sentiments be made known to our enemies.|Lucia}}
+'''Lucia Junius''', formerly '''Lucia goe Junius''', is a non-playable character in ''[[Final Fantasy XIV]]''. She is Lord Commander [[Aymeric de Borel]]'s second in command in the Temple Knights of [[Ishgard]]. She achieved the rank of 'goe' prior to her defection from the [[Garlean Empire]].
+
+==History==
+===Early life===
+Lucia and her sister, [[Livia sas Junius|Livia]], lost their parents in a war and were separated. While Livia chose to become a soldier, Lucia chose to become a spy. She was sent to spy on Ishgard, but found herself at Ser Aymeric's side for a different reason. Having found a man she can follow and a home, she abandoned the Empire.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Lucia accompanies Ser Aymeric during his meetings with [[Alphinaud Leveilleur]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Initially identified as a "Taciturn Temple Knight", she doesn't formally introduce herself until Aymeric asks the Scions to meet with her if he is unavailable. She later arrives at the Rising Stones asking the Scions investigate the [[The Keeper of the Lake]], due to Ishgard's astrologians seeing a repeat of the signs that occurred during the [[Battle of Silvertear Skies]] when [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]] called the horde to attack the Garlean fleet.
+
+The investigation reveals it was not Midgardsormr—who merely awoke to join the chorus—but rather his son, [[Nidhogg (Final Fantasy XIV)|Nidhogg]], the archenemy of the Holy See who has called for a raid on Ishgard. Due to complications resulting from [[Ysayle Dangoulain|Lady Iceheart's]] sabotage of Daniffen's Collar, the Steps of Faith became vulnerable to attack by Nidhogg's champion, [[Vishap]]. With the aid of the Warrior of Light and other adventurers, Lucia commands the defense of the Steps of Faith against the colossal dragon's assault.
+
+Lucia and Ser Aymeric later attend the sultana's banquet in [[Ul'dah]] as representatives of Ishgard. Several templars arrive with [[Teledji Adeledji]], who claim that the Dravanians unexpectedly renewed their assault and they need to return. Thus they do not witness to [[Ul'dahn Revolution|the events to come]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+After settling in Ishgard and aiding friends for a period of time, the Warrior of Light meets up with Ser Aymeric and Lucia by his side. As they prepare for another attack from the [[Dravanian Horde]], Lucia is present when Alphinaud Leveilleur and [[Estinien Wyrmblood]] propose to parley with the dragons.
+
+At the Warrior of Light's return from [[Dravania]], all is revealed about the true history of Ishgard and the reasons for the unending war. When an angered Aymeric declares his intent to reason with the Archbishop [[Thordan VII]], Lucia warns him to be careful. After he departs, Lucia reasoned with the Scions that Aymeric long dreamt for reform and believes the archbishop would not cause harm by revealing the rumor of Aymeric's supposed parentage. If he were to not return, Lucia would personally fetch him. The Scions, Lord [[Haurchefant Greystone]] and Estinien agree to aid her.
+
+Lucia aids the Warrior of Light's brawl against Ser Charibert, but explains that Ser Aymeric has been imprisoned and the [[Heavens' Ward]] placed in command of the Temple Knights. With the help of the Brume's [[Hilda the Mongrel]], Lucia hatches a plan to lure most of Ishgard's defenders away from [[Vault (Final Fantasy XIV)|the Vault]], leaving it open for her to rescue Ser Aymeric. She succeeds, and is present at Thordan VII's escape and Lord Haurchefant's death.
+
+Lucia and Aymeric deduce that the Heavens' Ward have displayed unnatural powers and she offers to help the Scions search for the missing archbishop while Aymeric handles Ishgard's political situation. She finds the archbishop's trail to Camp Cloudtop and later saves the Scions from the Garlean troops while riding a [[Magitek Armor]].
+
+As the Scions and Lucia set for [[Azys Lla]], she reveals her true identity as a Garlean, and more specifically, as [[Livia sas Junius]]'s sister. They were separated after their parents' death and took up different roles: Livia as a soldier and Lucia as a spy. She was sent to Ishgard to find [[Allagan Empire|Allagan]] relics in the Vault, presumably the key to Azys Lla, but instead found Ser Aymeric. She was drawn to him as a "prisoner of his past" by heritage, but "rose above it". She deemed him a man worth following and later confessed all—her race, identity and mission—to him. In return, he accepted her into his service.
+
+{{Quote|You are a true hero, my friend. The minstrels shall sing of your deeds for generations to come. The road to reform will be long and trying, but Ser Aymeric will not rest until he reaches its end. And I shall walk with him every step of the way.|Lucia}}
+Lucia returns to aid Ser Aymeric upon the Warrior of Light's return to Ishgard. When the Warrior leaves again to Azys Lla, she bades them farewell and says she would pray for their preservation. She is part of the welcoming party when the Warrior returns and witnesses Midgardsormr's message to Ishgard, the joining of Ishgard to the Eorzean Alliance, and helps Ser Aymeric rebuild Ishgard.
+
+Ser Aymeric requests that the Scions escort Lucia to Anyx Trine as his representative.{{cite|FFXIV|[[As Goes Light, So Goes Darkness]]}} She is introduced to [[Vidofnir (Final Fantasy XIV)|Vidofnir]], who explains Ser Aymeric's requests for parley. Vidofnir cannot give an answer until she consults with her father, [[Hraesvelgr]]. She is later met in Ishgard, where she explains the attempt on Aymeric's life, and the arson that followed. A faction of the clergy and fundamentalists, the True Brothers of the Faith, were behind both acts, having come to deny that their kingdom and faith was founded on their forebears' lies. Instead of seeing Ser Aymeric as a leader who aided the Scions in revealing the truth, they saw him as a scheming usurper who allowed the Warrior of Light kill the Archbishop to claim leadership of Ishgard. Worse, they learn that the Brotherhood have seized control of the Vault and are holding innocent civilians hostage. In return for the people's safety, they demand a conclave to choose the next Archbishop and that Ser Aymeric to be tried for treason and patricide. Lucia finds their demands and intentions ridiculous, finding that the truth won't die with Ser Aymeric, but agrees with the Lord Commander that the Brotherhood must be stopped.
+
+With the Scions' aid, Ser Aymeric and the Temple Knights save the civilians but the Brotherhood's leader holds a young girl hostage over a balcony. Rather than surrender, the mad clergyman throws the poor girl off the balcony, but the dragon Vidofnir saves her. Lucia welcomes the dragon personally and thanks her for saving the child.
+
+Following this brief crisis with the True Brothers of the Faith, Lucia takes part in the Grand Melee. With the Warrior of Light on their side, Ishgard wins. The Melee's intend is to instill a sense of unity and hope for a the people, allowing Ser Aymeric to open a dialog with the dragons of Anyx Trine and bring about a peaceful resolution to the Dragonsong War. While the summit proceeded as hoped, Nidhogg possesses the body of Estinien Wyrmblood and ruins the summit by wounding Vidofnir and instilling a final threat to the Ishgardian people, swearing to have his vengeance against Thordan's descendants. Lucia attends to Vidofnir's wounds as the people begin to cry "Death to Nidhogg".
+
+[[File:FFXIV Lucia Final Steps of Faith.png|thumb|Lucia during the final battle.]]
+With a peaceful solution to the Dragonsong War no longer an option, Ser Aymeric aims to enlist the aid of Hraesvelgr, the Black Wyrm's sole equal, to help them defend Ishgard.{{cite|FFXIV|[[Revenge of the Horde]]}} As he travels with the Scions to convince the dragon, he entrusts the city's defenses to Lucia. She leads the knights of Ishgard in the final battle at the Steps of Faith. They hold the line long enough for the Warrior of Light and Ser Aymeric to return with Hraesvelgr. As the Warrior of Light battles Nidhogg, Lucia helps Aymeric in aiding the Temple Knights. After an arduous struggle, and with the aid of Hraesvelgr's eye, the Warrior of Light brings Nidhogg low and frees Estinien from his grasp.
+
+With the battle over, Lucia attends the gathering Ser Aymeric had called as his final act as acting head of state. He proclaims to abolish the theocracy and the rule would be given to the people of Ishgard. The new republic would have high and lowborn alike represented in the House of Lords and House of Commons. Though Ser Aymeric aimed to step down from his nation's leadership, both Houses agree to make Ser Aymeric their nation's leader as Speaker of the House of Lords. Convinced to take the part, the leadership as Lord Commander of the Temple Knights presumably falls to Lucia.  
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Lucia takes part in the Siege of Ala Mhigo as Ser Aymeric's right hand. She witnesses the arrival of Doman forces led by Lord Hien and Yugiri Mistwalker.
+
+=== ''Final Fantasy XIV: Shadowbringers'' ===
+When the Scions head to Ishgard to find Estinien, Warrior of Light asks Lucia about his whereabouts. Lucia is later seen in the battle at Paglth'an, fighting the Telophoroi alongside Ser Aymeric.
+
+==Characteristics==
+===Appearance===
+Lucia is a tall [[Garlean (race)|Garlean]] woman with platinum blonde hair with a bang partially obscuring the right side of her face. She wears a heavy suit of gray plate armor with a partial black skirt with red trim. She wears a narrow headband that covers the "third-eye" pure-blooded Garleans are known for.
+
+===Personality===
+Steadfast, reliable and dutiful, Lucia takes her role as a Temple Knight with determination and honor. She is especially loyal to her commander, Aymeric de Borel, admiring his leadership, values and ideals despite the hardships of his youth, finding him as someone she can follow.
+
+Even though she was a Garlean agent sent to spy on [[Ishgard]], she grew to love her adopted home, not hesitating to abandon the land of her birth for a place she felt she had a purpose. However, she was not blind to the zealousness of Ishgard's orthodox leadership, finding the flaws in it and thus was a firm supporter of Aymeric's desire for reform.
+
+She was not particularly close to her sister Livia, ultimately accepting the choices she made and thus, did not hold a grudge or ill feelings towards the [[Scions of the Seventh Dawn]] for striking Livia down.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:594a Lucia goe Junius.png|thumb|100px]]
+Lucia appears as a [[Triple Triad (Portal App) cards/Final Fantasy XIV series|card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+Before being confirmed in ''Heavensward'', there was already speculation that Lucia was Garlean, as looking under her tiara revealed something akin to a Garlean third eye. Additionally, her platinum blonde hair is also a trait of a Garlean.
+
+===Voice===
+Lucia is voiced by [[Tara Platt]] in the English version of ''A Realm Reborn'', and [[wikipedia:Lydia Leonard|Lydia Leonard]] starting in ''Heavensward''.
+
+She is voiced by [[wikipedia:Sayaka Ohara|Sayaka Ohara]] in the Japanese version, who also lent her voice to Livia.
+
+==Etymology==
+{{Etym|Lucia}} Her last name, ''Junius'', is the Latin word for "June".
+
+==Notes==
+{{notelist}}
+
+==References==
+{{citations}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garleans]]
+[[Category:Paladins]]

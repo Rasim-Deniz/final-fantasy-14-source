@@ -1,0 +1,106 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Gosetsu Daito
+|release=FFXIV
+|japanese=ゴウセツ
+|romaji=Gousetsu
+|lit=
+|aka=Gosetsu Everfall {{j|忠節のゴウセツ|Chūsetsu no Gousetsu|Gosetsu of Loyalty}}
+|image=FFXIV Gosetsu Everfall.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Doma (Final Fantasy XIV)|Doma]]
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Roegadyn]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|samurai}}
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Yosuke Akimoto
+|english voice actor=[[Wikipedia: Nigel Betts|Nigel Betts]]
+|weapon = Samonji
+}}
+{{Quote|Hailing from the Far Eastern land of Doma, Gosetsu has long served Doma and her sovereign, and fought valiantly to defend them from the Garlean Empire twenty-five years ago. Though Doma fell in the end, the samurai has since labored tirelessly to see her rebuilt. Renowned as a peerless warrior, this loyal retainer dreams of a day when the shadow of Garlemald no longer darkens his homeland.|Official ''Stormblood'' website}}
+'''Gosetsu Daito''', also known as '''Gosetsu Everfall''', is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He is a [[Samurai (job)|samurai]] from [[Doma (Final Fantasy XIV)|Doma]]. Renowned as a peerless warrior, this loyal retainer dreams of a day when the shadow of the [[Garlean Empire]] no longer darkens his homeland.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Gosetsu sails into Vesper Bay on a tiny boat after the events of Baelsar's Wall. Striding up to the first individual he can question, he sets out to find [[Yugiri Mistwalker]]—whom he knew to be somewhere in [[Eorzea]]—before falling unconscious from starvation. He is taken in by [[Urianger Augurelt]] who feeds him and directs him to [[Mor Dhona]]. Once he arrives in the Rising Stones, Gosetsu requests that Yugiri return to Doma, as her services are needed to help assist their mutual master. In the face of Yugiri's refusal (citing the hospitality granted by the Eorzean Alliance) and [[Nero tol Scaeva]]'s mention of Garlemald's intent to take [[Omega (Final Fantasy XIV)|Omega]], Gosetsu agrees to assist the party, stating that he is oathbound to fall upon the empire wheresoever they march.
+
+Upon arriving in Carteneau the Warrior of Light and the rest of their party are set upon by an imperial squadron. With Gosetsu leading the charge the Warrior's party is victorious and they activate Omega and repel [[Shinryu (Final Fantasy XIV)|Shinryu]]. Gosetsu and Yugiri lament the dire state of the [[Garlean campaign|war against the empire]]. Rallying their spirits, they turn their eyes eastward in the coming fight to liberate their home.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Warrior of Light and the Scions travel to Othard and meet with Gosetsu. The group witnesses Yotsuyu, a Doma traitor, abusing villagers, and Gosetsu intervene only to end up as a prisoner and tortured by Yotsuyu and [[Grynewaht pyr Arvina]]. Later he and the other hostages are rescued by Confederacy. Joining the group again Gosetsu leads the Scions to Namai, but the civilians fear the empire and do not receive him as expected.
+
+At the House of the Fierce they meet with Yugiri who reports she has completed her mission to find Lord Hien, but he refuses to return to lead his people against the empire. Later, when [[Zenos yae Galvus]] arrives in an imperial [[Airship (term)|airship]], Yugiri proposes to seize the opportunity to assassinate him. Gosetsu opposes it as this would only worsen the plight of his people. Yugiri ignores the warning and Gosetsu appears to rescue her.
+
+Gosetsu, Yugiri, [[Lyse Hext]] and the Warrior of Light make their way to [[Azim Steppe]] in search of Lord Hien. With the help of [[Cirina Mol]], Hien's friend, the group meets him and Yugiri reports on recent events. Hien decides to return to [[Yanxia]], but before that he intends to help the Mol Tribe triumph in the Naadam and get the help of the people of Azim Steppe to free their homeland. Gosetsu, Hien, Lyse and the Warrior of Light complete the trial to be recognized as warriors of the Steppe and are taken into Magnai's custody until they pay a tribute. Upon returning to the Mol Tribe, Gosetsu and the party help Cirina to triumph in the Naadam.
+
+[[File:FFXIV Gosetsu Death.png|thumb|Gosetsu saves everyone from the collapsing Doma Castle.]]
+Once preparations are complete Gosetsu participates in Doma's resumption alongside Hien, Yugiri and the Warrior of Light. In the aftermath of the battle for Doma Castle, Gosetsu saves the party by catching a collapsing ceiling as the castle crumbles. While initially confident he can escape the wreckage, he is shot twice in the side by the trapped Yotsuyu, dashing his hopes. The injury prevents Gosetsu from escaping as the castle collapses completely. [[Soroban]] posits that he may have washed out to sea with the wreckage and attempts to find him, but is unsuccessful and Gosetsu is presumed dead.
+
+Both Gosetsu and Yotsuyu survived, the latter having [[Amnesia (term)|lost memories]] as Gosetsu built a raft to get them off the desert island they ended up on before reaching Kugane. Gosetsu attempts to find passage across the Ruby Sea to Doma to reunite with Hien while accompanied by Yotsuyu, whom he became concerned for due to her new mindset and how many of his fellow Domans would bear a grudge against her for her past actions. He begins to call her "Tsuyu" for short.
+
+[[File:FFXIV Gosetsu Monk.png|thumb|left|Gosetsu decided to go on a pilgrimage.]]
+Gosetsu, still bedridden and hospitalized by Tsuyu, claims to be healthier and would be back in fighting condition soon. After wanting to taste the persimmon fruit of Namai, his favorite food when he was a child, Tsuyu runs off on her own to the village to search for it. After the death of Tsuyu, Gosetsu mourns for her, asking why the kami let them survive only to inflict this tragedy. Gosetsu decides to become a wandering monk, going on a journey to help the people of Doma.
+{{Clear}}
+
+==Characteristics==
+===Appearance===
+As a [[Roegadyn]], Gosetsu carries the traditionally massive stature and musculature of his kind, though as an [[Othard|Othardian]] Roegadyn, his pale skin and lack of a flattened nose differentiate him from his Sea Wolf or Hellsguard brethren. His hair, mustache and beard are silver and immaculately trimmed. Gosetsu dresses in the traditional garb of a Doman samurai and his katana is well-ornamented.
+
+{{spoiler}}
+Following the death of [[Yotsuyu goe Brutus]], Gosetsu shaves his head as a sign of renouncing his fealty to [[Hien Rijin|Lord Hien]] to live out his days on a pilgrimage offering prayers for the fallen.
+{{Endspoiler}}
+
+===Personality===
+Gosetsu is boisterous in his words and actions. [[Alisaie Leveilleur|Alisaie]] once commented that his voice was so striking it could "fell a gigas". Gosetsu carries wisdom that he shares to those who feel lost, becoming a welcomed adviser to his young lord, Hien.
+
+Gosetsu is proud of his nation to the point of refusing to acknowledge starvation in the face of imminent duty to his homeland. Behind this steadfast duty and loyalty to his nation, Gosetsu feels guilty for the failed previous rebellion that killed Lord Kaien.
+
+When the prospect of fighting for his nation is brought up, or simply fighting the Garlean Empire, hesitation turns into joyous agreement. Gosetsu is confident in his combat abilities, standing directly in front of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] when faced against a squadron of Garlean soldiers. Gosetsu is loyal to his friends, lord and comrades, willing to sacrifice himself to ensure their safety.
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV Gosetsu Stormblood artwork.png|Artwork from ''Stormblood''.
+StormbloodJapaneseCoverArtwork.jpg|Artwork from ''Stormblood''.
+FFXIV Stormblood Gosetsu Artwork.png|Artwork from ''Stormblood''.
+FFXIV Gosetsu concept.jpg|Concept art.
+FFXIV SB Doma promotional poster.jpg|Gosetsu in ''Stormblood'' promotional artwork.
+FFXIV Under the Moonlight Artwork.jpg|Gosetsu in ''Under the Moonlight'' artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Stormblood FMV.png|Gosetsu and Yugiri in a ''Stormblood'' FMV.
+FFXIV Gosetsu & Yugiri.png|Gosetsu and Yugiri.
+FFXIV Gosetsu Kugane Duel.png|Gosetsu in a duel.
+FFXIV Gosetsu.png|In-game render.
+FFXIV Gosetsu 2.png
+FFXIV Gosetsu 3.png
+FFXIV Gosetsu 4.png
+FFXIV Gosetsu 5.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Samurai]]
+[[Category:Roegadyn]]

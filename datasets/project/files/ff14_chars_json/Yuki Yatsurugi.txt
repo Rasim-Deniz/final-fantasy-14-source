@@ -1,0 +1,56 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Yuki Yatsurugi
+|release=FFXIV
+|japanese=ヤツルギのユキ
+|romaji=Yatsurugi no Yuki
+|lit=
+|aka=
+|image=FFXIV Yatsurugi no Yuki.png
+|home=
+|age=
+|affiliation=Yatsurugi clan
+|occupation=Princess
+|race=[[Au Ra]]
+|gender=Female
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|ninja}}
+|weapon=Daggers
+}}
+
+'''Yatsurugi no Yuki''' {{J|八剣の雪|Yatsurugi no Yuki}} ('''Princess Yuki of the Yatsurugi Clan''' or simply '''Yuki Yatsurugi''' in [[Eorzea]]n customs), is a non-playable character from ''[[Final Fantasy XIV]]'', first appears in [[Final Fantasy XIV: Heavensward|version 3.0]]. She is an important character in the [[Ninja (Final Fantasy XIV)|Ninja]] questline.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+After Doma falls, mercenaries plundered the Yatsurugi clan and Princess Yuki tried to confront them only to see her vassals dead trying to protect her. With her country near ruin, she vowed to bring prosperity back by finding and selling the stolen treasures.
+
+[[File:FFXIV Yukihime Fights.png|thumb|left|Princess Yuki prepares to fight.]]
+Princess Yuki accompanied by [[Akagi]] make their journey to [[Eorzea]] to retrieve the stolen treasures, she recovers two treasures and steals back the third (an orb) from [[Mulfa Kelfa]]. Mulfa enlists the help of the Rouge's Guild to capture the robbers who stole his orb, [[Jacke Swallow]] the guild leader, seeing that the thieves came from Far East enlists the help of [[Oboro Torioi|Oboro]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Once the group corner Yuki, Mulfa decides to get rid of them to keep how he got the orb secret but he and his subordinate, [[Gilpin]], are easily knocked out by Oboro's party. Akagi arrives and explains about the mission to retrieve the treasures and although Yuki refuses to have someone else protect her again, Akagi enlists Oboro's aid in secret.
+
+To locate the last two treasures, Yuki tries to infiltrate a Salthound stronghold alone to steal black market records, and Akagi with the help of Oboro and Warrior of Light create a distraction to help her. With the records the princess finds out who bought the jade jewel and steals it back but ends up being chased by the guards and at the request of Akagi, Oboro and the Warrior of Light mislead the guards.
+
+After learning that the perpetrators of the theft are The Truehounds and about the last treasure auction, the Midare Kanemitsu dagger, Yuki formally asks Oboro for help.
+
+Once the dagger is sold, Yuki's party intercepts the parcel in [[Dravanian Forelands]] and recovers the dagger. [[Redway]] appears and using the vassals of Yatsurugi clan who came to Eorzea to look for Yuki as hostages, Redway takes the princess as a prisoner. Oboro creates a plan to rescue the princess, along with Warrior of Light and Akagi, the group defeats Redway and Captain Rosalinde (leader of The Truehounds). Once rescued Yuki and his vassals can finally return and rebuild their country. Before leaving Yuki says she will send a formal note of thanks to the village of Oboro.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Princess Yuki is a pink haired [[Au Ra]]. She wears a red Rainbow Shirt of Scouting, Halfgloves of the Divine Harvest, black-colored Lord's Drawers, and Saurian Boots of Striking. In combat she wields a pair of Ohoji Kai.
+
+===Personality===
+Yuki tries to act coldly to match what she believes to be her clan's expectations and to bring properness to her country. After she witnesses her vassals dying to protect she refuses to let someone else die for her again and tries to act on her own. Leaving aside the problems with her clan, she proves to be a cheerful young woman and is ashamed when she makes silly mistakes.
+
+==Etymology==
+''Yuki'' (雪) is a very common given name in Japan, meaning "snow". It can be given to a boy or a girl.
+
+''Yatsurugi'' (八剣) means "eight swords" in Japanese.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ninjas]]
+[[Category:Au Ras]]

@@ -1,0 +1,88 @@
+{{sideicon|FFXIV}}
+{{infobox character
+|name=Ramza bas Lexentale
+|release=FFXIV
+|japanese=ラムザ・バス・レクセンテール
+|romaji=Ramuza Basu Rekusentēru
+|lit=Ramza bas Lexentale
+|aka=
+|image=FFXIV Ramza.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=16
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur/Garlean
+|gender=Male
+|height=
+|weight=
+|hair=Blond
+|eye=Light blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|I thought I made myself clear, Alma. The capital is simply too dangerous. Father would never forgive me if I were to lose you trying to rescue him.|Ramza bas Lexentale}}
+'''Ramza bas Lexentale''' is a non-player character from ''[[Final Fantasy XIV]]''. He is a main character from the [[Return to Ivalice]] raid series with a distaste for foreigners and a short temper. He is an allusion to [[Ramza Beoulve]] from ''[[Final Fantasy Tactics]]''.
+
+==History==
+Ramza is the son of Garlean playwright Arazlam Durai, who goes by the stage name [[Jenomis cen Lexentale]]. Jenomis inherited the [[Durai Papers]] from his ancestor [[Orran Durai]], who was burned at the stake for authoring them. From what little he could translate of the ancient documents, Jenomis determined that they told ''The Zodiac Brave Story'', a Garlean legend previously thought to be just that—legend. He gleaned the names of two seemingly pivotal characters in the legend who had been forgotten by history, Ramza and Alma Beoulve. Now convinced the legend was real, Jenomis made it his life's mission to prove it, and to this end named his children Ramza and [[Alma bas Lexentale|Alma]] to serve as a constant reminder of his quest.
+
+When Jenomis goes missing in the ruins of [[Royal City of Rabanastre (Final Fantasy XIV)|Rabanastre]], Ramza and Alma seek out family friend [[Cid nan Garlond]] to aid in finding their father who recommends they recruit the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], which Alma does in spite of Ramza's objections, as he does not believe they need the aid of foreigners. He nevertheless relents when reminded that they are themselves foreigners in the city of [[Kugane]], and leads the Warrior and their allies into the city. They find Jenomis, but not before he is taken hostage by [[Ba'Gamnan]], who releases him in exchange for Ramza's [[auracite]] and Jenomis' journal.
+
+When Mikoto Jinba is summoned to help assist in understanding the Auracite, Ramza and his sister are present during the discussion. When Mikoto tells everyone that the ''otius'' is empty of any [[aether]]ial print, Alma is confused because she had heard voices emanating from the auracite. Ramza begins to belittle Alma for doubting their research and inviting outsiders, only to be cut off by the presence of a [[Moogle (race)|moogle]] on the [[Airship (term)|airship]]. Fearful of its presence, Ramza tells the Warrior of Light to get rid of it. When [[Montblanc]] asks to join the theater troupe he shouts for the guards only for his father to interrupt saying that race, creed, or allegiance aren't on his prerequisites. He argues further with the moogles and causes [[Hurdy (Final Fantasy XII)|Hurdy]] to go off on his own. Uncaring of the moogle, Ramza apologizes to the Warrior of Light for his outburst before they leave to rescue the moogle.
+
+Upon returning to the ''Prima Vista'', the Warrior of Light is surprised to see Ba'Gamnan's crew aboard the ship holding Alma hostage. Ramza draws his sword, turning down their need of help only for them to say they only did what was necessary to seek an audience, releasing Alma to her brother's open arms. After hearing that their captain has gone mad, and discovering that he has gone to Ridorana, Ramza and his father begin learning about the remote location.
+
+Ramza helps the party search for Ba'Gamnan at the base of the tower and when off on his own hears gunfire.
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Ramza is a [[Hyur]] boy with dirty blond hair and blue eyes. He wears a brown open shirt with a white blouse underneath adorned with a blue rose on the chest and a blue sash that holds a small knife. 
+
+===Personality===
+In contrast to his [[Ramza Beoulve|namesake]], Ramza is a stereotypically proud and haughty Garlean, who looks down on other races with the same disdain as many of his countrymen. Ramza admires his father but has a vulgar attitude to outsiders and even his sister often belittling her and treating her poorly. After the events of Ivalice are uncovered Ramza has a major change in attitude treating others better, and changing his views on the other races.
+
+==Gallery==
+<gallery>
+FFXIV Durai Papers.png|Ramza with a copy of Durai Papers.
+FFXIV Ramza stage.png|Ramza on the stage, as Ramza Beoulve.
+FFXIV Ramza Alma stage.png|Ramza and Alma on the stage, as their ancestors.
+FFXIV Ramza Alma SS.png|Ramza and Alma in the promotional screenshot.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Garlean citizens]]
+[[Category:Garleans]]
+[[Category:Mixed races]]

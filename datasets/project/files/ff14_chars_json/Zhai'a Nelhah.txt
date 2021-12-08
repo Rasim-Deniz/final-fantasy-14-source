@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Zhai'a Nelhah
+|release = FFXIV
+|japanese = ザイ・ア・ネルハー
+|romaji = Zai a Neruhā
+|aka=Zhai'a the White Mind
+|image =FFXIV Zhai'a Nelhah.png 
+|race = [[Miqo'te]]
+|gender = Male
+|height = 
+|hair = Gray
+|eye = Purple
+|designer = 
+|age = 
+|home=[[Gridania]]
+|affiliation = Conjurers' Guild
+|job = {{icon|ffxiv|discipline|conjurer}}
+|weapon =Alkalurops 
+|armor = 
+}}
+
+'''Zhai'a Nelhah '''also known as '''Zhai'a the White Mind''' is a non-player character from ''[[Final Fantasy XIV: Heavensward]]''. A Hearer of Stillglade Fane, he appears in the Black Mage job quests in search of a fugitive conjurer dabbling in forbidden arts.
+
+== History ==
+===''[[Final Fantasy XIV: Heavensward]]'' ===
+He is first encountered in [[Eastern Thanalan]], where he is searching for [[Waldeve]], a man who started a cult of black mages called "the Defiant." He is vehemently opposed to the dark arts, and sternly voices his disapproval towards the Warrior of Light and [[Lalai]]. This sentiment intensifies as several Defiant mages are found dead after altercations with the adventurer.
+
+However, when he examines the bodies of the mages that attacked [[Dozol Meloc]], he noticed they were burned from the ''inside out.'' The Ixal speculated that without a soul crystal to regulate their magic, they self-immolated when they attempted to use advanced spells. He later gets caught in an ambush at the [[Coerthas Western Highlands]] after hastily attempting to confront them, forcing the Warrior of Light to rescue him.
+
+Learning from his mistakes, he brings [[Kazagg Chah]], Dozol Meloc, and [[269th Order Mendicant Da Za]] to help him apprehend Waldeve at his hideout in the Burning Wall. After dispatching the out-of-control voidsent Barghest, Zhai'a heals Waldeve, intent on taking him back to [[Gridania]] to answer for his crimes. He later concedes to Lalai that black magic itself isn't inherently evil, so long as it is not being used for malicious purposes.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Zhai'a is a male miqote Keeper of the Moon conjurer. He wears a vanya silk robe and carries an alkalurops cane.
+
+=== Personality ===
+Zhai'a speaks formally when introducing himself to others, and is committed to his duty in detaining Waldeve. He is quick to judge practitioners of the dark arts though due to the destruction it caused in the previous era, but is not afraid to work with them to protect the realm. Zhai'a is quick to admit he is wrong and will apologize if so.
+
+== Gameplay ==
+Zhai'a Nelhah appears in the [[Quest Battle|Special Instance]] in Black Mage quest level 60 {{icon|ffxiv|quest|The Defiant Ones}}, where he provides healing support to the others as they combat Barghest.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:White Mages]]

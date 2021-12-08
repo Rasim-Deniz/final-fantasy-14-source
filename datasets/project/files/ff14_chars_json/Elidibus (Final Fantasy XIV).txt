@@ -1,0 +1,171 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Elidibus (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Elidibus
+|release=FFXIV
+|japanese=アシエン・エリディブス
+|romaji=Ashien Eridibusu
+|lit=Ascian Elidibus
+|aka=Emissary {{J|調停者|Chōtei-sha|Conciliator}}, Warrior of Light {{J|ウォーリア・オブ・ライト|Wōria obu Raito}}
+|image=FFXIV Elidibus render.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Zodiark (Final Fantasy XIV)|Zodiark]]<br> [[Amaurot]]<br> Convocation of Fourteen
+|occupation=Co-Leader/Emissary of the Convocation of Fourteen<br/>Heart of Zodiark 
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Ascian]]<br/>[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[Akira Ishida]]
+|english voice actor=[[wikipedia: Matt Stokoe|Matt Stokoe]]
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=
+|final boss page=
+}}
+{{Quote|Have the laws of man grown so twisted in my absence that it is now permitted to lay hands upon an emissary?|Elidibus}}
+'''Elidibus''' is a character from ''[[Final Fantasy XIV]]''. A white-robed [[Ascian]], he claims to be an Emissary for the "[[Zodiark (Final Fantasy XIV)|one true god]]". Elidibus is secretive and enigmatic, and invested in the [[Dualism|balance of Light and Darkness]]. He claims that while he serves with utmost loyalty, a world riddled with darkness or light is just a void, which does nothing for his master. Able to possess others, he has appeared in various forms. He was introduced in ''A Realm Reborn'' and became a recurring behind the scenes antagonist, before becoming the final boss of patch 4.56 & later the main antagonist of the post-''[[Final Fantasy XIV: Shadowbringers]]'' storyline.
+
+== History ==
+===Early life===
+Elidibus was a member of the [[Convocation of Fourteen]], a group that served as guardians of the city of [[Amaurot]] and the world. He was the youngest of the group, referred to as a "youth" and "young man".{{note|name=youth}} He greatly admired for the other members, which Emet-Selch found both endearing and embarrassing. Elidibus earned his peers' respect despite their initial impression of him, Elidibus tending to overwork himself and seeming too kind for his position. When [[The Star|their world]] was besieged by a calamity from within, Elidibus and his fellow Convocation members imbued the planet with a will, which manifested as the primal Zodiark. The Ancient bearing the title of [[Azem]] left their seat before the summoning and half of their people were sacrificed to offer up the necessary [[aether]] to complete the ritual. As part of the summoning, Elidibus took [[Loghrif]]’s place to be the first "sacrifice" and became Zodiark's heart.
+
+Zodiark succeeded in its primary purpose, but then [[enthrallment|enthralled]] those who had summoned him into becoming his devout followers. The Convocation resolved to sacrifice another half of their people to replenish their ruined world. For Elidibus and the Convocation to restore the lives of those originally sacrificed, Zodiark would require even more aether; aether that would come from the new life being born into the world. This disturbed many of the remaining Amaurotines, including [[Venat (Final Fantasy XIV)|Venat]], who felt that the sacrificial costs were already too great, and that the world now belonged to the lives birthed in it. Aware of the conflict among his people, and realizing that it would not resolve without his guidance, Elidibus separated himself from Zodiark to continue his role in the Convocation as a primal. Venat and her followers summoned [[Hydaelyn (character)|Hydaelyn]] in opposition to Zodiark, and the resulting conflict ended with Hydaelyn's final attack shattering reality, sundering the world and all life on it into [[Hydaelyn|the Source]] and its thirteen shards.
+
+Elidibus survived the Sundering intact along with two of his fellow Convocation members, Emet-Selch and Lahabrea. Elidibus began to work with the other Paragons and their Ascian followers to orchestrate the [[Umbral Calamity|rejoining]] of the shards with the Source to restore both their god and their home. Throughout the ages, Elidibus makes heroes of random people and occasionally assumes the identity of one himself, originating the legend of the Warrior of Light.
+
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+[[File:Elidibus Waking Sands.png|thumb|Elidibus before Minfilia inside the Waking Sands.]]
+Following Lahabrea's defeat, Elidibus decides to make his presence known to the Source's current Warrior of Light to see if they and the [[Scions of the Seventh Dawn]] could be useful pawns.{{cite|FFXIV|Patch 5.3}} Elidibus appears to [[Minfilia Warde]] as she prepares to leave the [[Waking Sands]] to the new Scion headquarters in [[Revenant's Toll]]. As she prepares the [[Tupsimati|shattered staff]] of [[Louisoix Leveilleur]], a voice laments how he never could meet the late great sage. Minfilia is startled to see an Ascian in the Waking Sands, albeit one with white robes. He notes she is gifted enough to perceive him, though ignorant of his station as Emissary. He confirms that Lahabrea wasn't fully vanquished at the [[Praetorium]], and remarks that "he may yet learn from his mistakes".
+
+[[File:Adventurer and Elidibus.png|thumb|left|The Warrior of Light encounters Elidibus.]]
+[[Tataru Taru]] enters to confirm she's ready to depart, but is unable to sense Elidibus's presence as to those not attuned to the [[Echo (Final Fantasy XIV)|Echo]], Ascians are "indistinct". Elidibus claims the Echo is a gift, but one that Minfilia and others have yet to master: if they did, there would be no strife between them and the Ascians. He bids his farewell, hoping they will meet again as friends. As he turns, Minfilia rushes toward him, and in reflex he knocks her out with dark magic. As she lies stunned, he muses how it is a mercy that Hydaelyn shields "Her children" from "His grace" and ponders if it was by her hand they survived [[Seventh Umbral Era|the "Ardor"]].
+
+After the Warrior of Light checks on Minfilia, she implores them to find the enigmatic Ascian. He is spotted in the town square of Vesper Bay, unnoticed by the townsfolk. He recognizes the Warrior of Light is strong in the Echo, and bids them to head north into Parada's Peace, warning that they may be tested by assailants. After progressively fending off groups of [[voidsent]] and Ascians sent to judge, the Emissary remarks on how only one strong enough to best Lahabrea could endure the "examination".
+
+[[File:Elidibus Ishgard.png|thumb|Elidibus behind the Archbishop.]]
+As the Warrior of Light assumes a combative stance, Elidibus asks if the laws of man have twisted to permitting one to bear arms against an Emissary. Reminding that the Warrior of Light saw his meeting with the Antecedent through the Echo, and how he had acted in self-defense. Changing his tone, he admits that Lahabrea's actions are not so easily excused, though he cannot wholly condemn his deeds as it allowed them to discover one strong enough in the Echo to banish an Ascian. The Emissary notes how Hydaelyn has been waning and that the world will soon change. He introduces himself as Elidibus, and concedes that the Warrior of Light may doubt his words and motives.
+
+Fellow Ascian, [[Nabriales]], questions Elidibus's intentions of approaching the Scions.{{cite|FFXIV|Patch 2.3}} He reappears presiding over a meeting of the Ascians in the rift between worlds, and Lahabrea and Elidibus flank the throne of the Archbishop of [[Ishgard]], implying they are manipulating the affairs of the Holy See. Elidibus also informs Lahabrea of Nabriales's fall.{{cite|FFXIV|At the end of Patch 2.55}} After the overlord leaves, he speaks with [[Urianger Augurelt]] concerning fate.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+[[File:FFXIV Warrior of Darkness.png|thumb|Elidibus with Ardbert.]]
+Elidibus stands on the surface of the [[moon]], sensing that both [[Igeyorhm]] and Lahabrea have fallen, with him left to handle the consequences. The imbalance of Light and Dark from the Warrior of Light's actions halting their plan, Elidibus sends the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] to restore the balance by having them terrorize the [[beastmen]] into summoning more primals, before deciding that pitting them against the Warrior of Light is ideal. In doing this Elidibus is exploiting the desperation of [[Ardbert]], a Warrior of Light from the shard known as [[the First]] on verge of being consumed in a [[The Flood|Flood of Light]]. The Ascians having masterminded the Flood themselves, Elidibus tricks Ardbert and his group into serving him as his "Warriors of Darkness". Elidibus has them recover the [[Eyes of Nidhogg]] from the ravine outside Ishgard, which he later bequeaths to the [[Ala Mhigo|Ala Mhigan]] extremist known as "[[Ilberd Feare|The Griffin]]" in hopes that he would incite a war between Eorzea and Garlemald.
+
+Though the Warriors of Darkness cease their attack and return to their world with Minfilia to save the First, Elidibus is pleased by the outcome and intends to watch Hydaelyn's emissary carefully. Elidibus also sends his disciple, [[Unukalhai]], to join the Scions to aid them in defeating the ancient primals knows as the [[Warring Triad (Final Fantasy XIV)|Warring Triad]].
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+[[File:FFXIV Zenos Returns.png|thumb|left|Elidibus in Zenos's body.]]
+Elidibus took the corpse of Zenos yae Galvus as a vessel after the liberation of Ala Mhigo. He presented himself to [[Varis zos Galvus|Emperor Varis]] (Zenos's father) while bringing back the Ascian that had assumed the identity of [[Emet-Selch|Solus zos Galvus]] (Emet-Selch) to help him get their plan of an eighth [[Umbral Calamity]] underway. Elidibus uses Zenos's face and influence to undermine any attempted rebellions in Garlemald's surrounding provinces while sabotaging Varis's peace treaty with [[Doma (Final Fantasy XIV)|Doma]]; he manipulates [[Asahi sas Brutus]] into orchestrating his sister, [[Yotsuyu goe Brutus]]—who is recognized as a Doman citizen—to summon a primal unto herself.
+
+Even though [[Maxima quo Priscus]] learns of the true Zenos's death, Elidibus assures a furious Varis that he has things under control as he sent the imperial guard to make an attempt on [[Alphinaud Leveilleur]] and the Populares, driving the political party out of Garlemald. Now unopposed politically with no one to expose the truth, Elidibus instructs Varis to give the word and bring down the might of the Empire on Ala Mhigo, but Varis is hesitant and silent. Unable to egg him on, Elidibus leaves, stating that should Varis act, it needs to be soon. When the assault commences, Elidibus personally leads the second wave of Garlean soldiers to battle.
+
+After facing [[Hien Rijin]], [[Yugiri Mistwalker]], and [[Lyse Hext]], Elidibus does battle with the Warrior of Light who becomes immobilized after being called to by a voice. Elidibus tries to exploit this opportunity to kill the Warrior, but is stopped by [[Estinien Wyrmblood]]. Elidibus and Varis return to Garlemald, the former scolding the emperor for abandoning the battle, while vowing the Warrior will not escape him again.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Elidibus remains in Garlemald consorting with Varis on how to exploit the Warrior and the Scions' absence from the Source to use the [[Black Rose (Final Fantasy XIV)|Black Rose]], a Garlean bioweapon: poison gas that kills those who breathe it. The real Zenos, whose [[Resonant|artificial Echo]] allowed him to possess another body, confronts Elidibus to reclaim his original body. Upon sensing Emet-Selch's demise, Elidibus abandons his vessel while imparting his knowledge to Zenos. Lamenting that he is now the only remaining Paragon, Elidibus resolves to destroy the Warrior of Light so the Rejoining can properly resume.
+
+Aware that [[G'raha Tia]] used a spell to bring the Warrior of Light and the Scions to the First with the Scions' champion declared a "Warrior of Darkness", Elidibus seeks the same spell so he can summon an army of spectral "Warriors of Light" from across the shards to build his strength. Elidibus possesses the lifeless body of Ardbert and uses it to slay the remaining [[Sin eater|sin eaters]] as a "Warrior of Light". He arrives in the [[Crystarium (Final Fantasy XIV)|Crystarium]] just as the Scions reveal the forgotten truths of the First's Warriors of Light, spurring the Crystarium citizens to follow in their footsteps before leaving.
+
+[[File:FFXIV ShB Elidibus illusion.png|thumb|Elidibus' illusion.]]
+The Scions intercept Elidibus at the Rak'tika Greatwoods, tricking the Ascian into exposing himself when the Warrior uses the real Ardbert's personal history against him. Though Alphinaud tries to have Elidibus reconsider his actions in light of Emet-Selch's dying words, the Emissary scoffs at the notion of man's ability to understand or remember the Ascians' plight, and remains adamant to carry out the will of the Convocation. Elidibus later makes his presence known at the Crystarium, casting an illusion of a starshower to awaken the Echo within those present. When Urianger presses him for information, Elidibus reveals that Hydaelyn only awakens the power dormant within the sundered, a fragment of an Ascian's full power. When the Scions demand to know his plan, Elidibus says he is just another Warrior of Light seeking to save the world. During a chance meeting with the Warrior, Elidibus expresses his intent of destroying them, taking a swipe at the Crystal Exarch while leaving.
+
+Elidibus takes the unconscious [[Y'shtola Rhul]] captive in Anyder while forcing the Warrior through a gauntlet of opponents based on those they met on their journey until fighting the Warrior himself. Elidibus loses as Y'shtola arrives, having learned of Elidibus's true nature from her research. When asked if he is truly acting on his own or by the will of those who maintained his existence, Elidibus considers answering it pointless and takes his leave for the Crystal Tower to kill G'raha and acquire the spell. Though the Crystal Exarch escapes and locks the tower down, Elidibus acquires G'raha's spell through a crystal that was imbued with G'raha's blood and memories. This allows Elidibus to take control of the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] as he summons numerous spectral Warriors of Light to kill the Scions.
+
+{{Quote|This... Yes... I would become Him. I would save everyone. This I believed. Yet still they cried out, in rage and despair... Divided—over the fate of the star. A rare occurrence, always fleeting. But not this time. Not this time... Reconciliation. Elidibus. I was needed. I withdrew myself from Zodiark. For them... My people. My brothers. ...My friends. Stay strong. Keep the faith. At duty's end, we will meet again. We will. We will. The rains have ceased, and we have been graced with another beautiful day. But you are not here to see it.|Elidibus before fading away}}
+[[File:Elidibus as the former Warrior of Light..png|thumb|left|Elidibus as the Warrior of Light.]]
+When confronted at the peak of the tower, it is revealed that Elidibus can barely remember Amaurot, the Convocation, or the promises he swore, though this does not deter him from acting on his directive as a primal. He absorbs some of the spectral Warriors and takes the shape of the First's original Warrior of Light to do battle with the Warrior of Darkness, but is defeated. Elidibus refuses to surrender as G'raha arrives to activate the Crystal Tower to seal the Ascian within it, reducing Elidibus to his original Amaurotine form. After the Warrior gives Elidibus the memory stones they acquired from Anyder, Elidibus finally remembers his friends and allies before fading away.
+
+== Characteristics ==
+=== Appearance ===
+Unlike other Ascians, who wear dark robes, Elidibus dresses in a white robe with golden accents with purple patterns on the front and back. A simplistic red mask covers the top half of his face. His Ascian sigil uses the pattern from the center of [[Zodiark (Final Fantasy XII)|Zodiark's]] summoning glyph from ''[[Final Fantasy XII]]''. {{Show image|Zodiark Glyph Art.jpg}}
+
+[[File:FFXIV Elidibus as Zenos.png|Elidibus in Zenos's body.|thumb|left]]
+After possessing the body of [[Zenos yae Galvus]], commenting that this new body makes an equal to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Elidibus resembles a man in mid 20s with a youthful face and fair complexion with long golden hair. To maintain his cover as the prince, Elidibus wears Zenos's suit of armor.
+
+He later possesses the corpse of [[Ardbert]], wearing the same black Fighter's set but a standard Bravura, as opposed to the Bravura Atma the original Ardbert wielded. He is capable of speaking in Ardbert's voice, but drops the act and speaks with his own voice when around those who are aware of his true identity.
+
+When he later reverts to his Amaurotine form, Elidibus retains his distinctive white robes and red mask, setting him apart from his fellows. Elidibus was noted by [[Emet-Selch|Emet-Selch]] to be a young man of small stature{{note|reference=In "Ere Our Curtain Falls", the English version calls him "youth" or "young man", the French version uses "a relatively short young man", and the Japanese uses 小柄な青年, "a young man of short stature".|name=youth}} compared to his fellow Amaurotines', and his form seen in the Crystal Tower after being struck and depowered by the tower is the size of mortal child, though he retains his adult voice.
+
+=== Personality ===
+Elidibus is polite and diplomatic, attempting to meet [[Minfilia Warde]] and the Warrior of Light on peaceful terms. This seems to be at odds with the other Ascians, who are cold at best toward the [[Scions of the Seventh Dawn]]. Elidibus deviates from the methods of his black-robed brethren, and is not close or loyal to them, and states to [[Varis zos Galvus|Emperor Varis]] that he would not act against him should Varis use the [[Garlean Empire]] against the Ascians. Elidibus is nonetheless a dangerous and cunning foe to the Warrior of Light and the Scions. Even when his plans do not go accordingly, Elidibus is foresighted and intelligent enough to gain an advantage. According to Emet-Selch, while Elidibus may be a "worrier" and an "insufferable bore", he is no fool and the choices he makes are rarely wrong. Elidibus is subtle in the pursuit of his goals, being a master of manipulation and in using half-truths to convince others the righteousness of the Ascians' cause. He possesses the typical Ascian overconfidence when appearing to have the advantage, as after gaining the body of Zenos, he mistakenly believes he can easily defeat the Warrior of Light. Likewise, Elidibus fails to foresee Zenos's return or stop him from reclaiming his body, forcing the Emissary into fleeing.
+
+Elidibus is persistent and patient, as even after learning of the demise of his Paragon comrades, [[Lahabrea]] and Emet-Selch, he only becomes more determined to restore [[Zodiark (Final Fantasy XIV)|Zodiark]] and reestablish the balance between Light and Dark. When the Scions confront him, Elidibus considers himself the hero and reveals that he shares similar sentiments as Emet-Selch did about the state of the world: it and its people are fragmented and flawed, and he thus desires to restore the original world. Elidibus claims that the Scions and their people are incapable of understanding the Ascians' plight or history, let alone remember them. Elidibus is obsessed in carrying out his duty, both as a member of the Convocation and as a [[primal]], even if he can no longer remember the reason behind it.
+
+In Tales of the Shadows, the original Elidibus was a far more optimistic and cheerful personality who not only idolized the Convocation, but saw them as his family, who likewise saw him as their younger brother. After separating from Zodiark's heart however, his optimism was replaced by melancholy and an unrelenting drive to save his people in spite of his worsening amnesia.
+
+== Gameplay ==
+[[File:FFXIV ShB Warrior of Light render.png|thumb|220px|The Warrior of Light.]]
+Elidibus is fought thrice in the main scenario, though never using his own name or form. The first battle is against him possessing the body of Zenos yae Galvus as a [[solo duty]] during the quest {{icon|ffxiv|quest|a requiem for heroes}}. The second battle is against him possessing the body of [[Ardbert]] as another solo duty during the quest {{icon|ffxiv|quest|faded memories}}. The third battle sees him become a primal Warrior of Light during {{icon|ffxiv|duty|seat of sacrifice}} trial.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Elidibus
+|image = [[File:Elidibus Triple Triad Card.png]]
+|number = 283
+|total = 25
+|type = None
+|description = “If you would usher in the end, then with my all shall I oppose you...”
+|obtain = Purchasable from the Manderville Gold Saucer for 56,000 {{icon|ffxiv|item|mgp}}
+}}
+
+{{Card FFXIV
+|name = Shadowbringers Warrior of Light
+|image = [[File:Shadowbringers WOL Triple Triad Card.png]]
+|number = 287
+|total = 27
+|type = Primal
+|description = A being summoned into existence through the peoples' hopes and prayers for salvation. One can only speculate as to what era, what far-flung world, inspired its otherwise antiquated visage. Perhaps it is the culmination of ideals to which all heroes aspire.
+|obtain = Potential drop from {{icon|ffxiv|duty|seat of sacrifice}} and {{icon|ffxiv|duty|seat of sacrifice extreme}}
+}}
+
+== Musical themes ==
+Like other Ascians, most of Elidibus's appearances are accompanied by "Without Shadow".
+
+{{Audio|title="To the Edge"|filename=To The Edge.ogg}}
+
+Each time he is fought, a different track plays. As Zenos in {{icon|ffxiv|quest|a requiem for heroes}}, the standard ''Stormblood'' boss theme of "Triumph" plays in the first phase, with "Thunderer" playing in the second. When fought in the body of Ardbert, the track "Flight" plays. During his fight as the Warrior of Light in the [[Seat of Sacrifice]] "[[To the Edge]]" plays, a vocal remix of "'Neath Dark Waters" with "Who Brings Shadow".
+{{clear}}
+
+== Gallery ==
+<gallery>
+FFXIV Elidibus concept.png|Concept art.
+FFXIV Elidibus.png|Elidibus.
+FFXIV Elidibus glyph.png|Elidibus' glyph.
+FFXIV From Astral to Umbral artwork.jpg|From Astral to Umbral Arrangement Album artwork.
+FFXIV Piano Collections artwork.jpg|Piano Collections cover artwork.
+</gallery>
+
+==Etymology==
+Elidibus shares his name with the [[Elidibus (Tactics)|legendary wizard]] who is in possession of [[Zodiark (Tactics)|Zodiark]] from ''[[Final Fantasy Tactics]]''.
+==Notes==
+{{Notelist}}
+==References==
+{{citations}}
+{{navbox characters FFXIV}}
+
+[[pt-br:Elidibus (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ascians]]
+[[Category:Antagonists]]
+[[Category:Primals in Final Fantasy XIV]]

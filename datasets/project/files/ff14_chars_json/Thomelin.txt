@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Thomelin
+|release=FFXIV
+|japanese=トメリン
+|romaji=Tomerin
+|image=FFXIV Thomelin.png
+|home=[[Ishgard]]
+|affiliation=
+|occupation=Gatekeep
+|race=[[Hyur]]
+|gender=Male
+|hair=
+|eye=
+|age= 
+|type=npc
+}}
+'''Thomelin''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a minor character in the Ishgard Restoration and the gatekeep to enter in the [[Firmament]].
+
+== History ==
+During the Ishgard restoration project, Thomelin is the backbone of showing The Firmament district to those who are interested in contributing. Once the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] talks to him about the project, Thomelin says that permission is required to work but Lord [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] appears and offers to Warrior of Light an exemption.
+
+Francel asks the Warrior to deliver a bottle of Thomelin wine. After expressing his deepest thanks, Thomelin offers to show the Firmament.
+
+== Characteristics ==
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

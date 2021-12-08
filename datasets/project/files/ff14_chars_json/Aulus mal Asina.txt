@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Aulus mal Asina
+|release=FFXIV
+|japanese=アウルス・マル・アシナ
+|romaji=Aurusu Maru Ashina
+|aka=
+|image=FFXIV Aulus mal Asina.png
+|home=
+|age=
+|dob=
+|affiliation=[[Garlean Empire]]
+|occupation=Imperial scientist
+|education=
+|race=Garlean
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|japanese voice actor=Riki Kagami
+|english voice actor=Robert Vernon
+}}
+
+'''Aulus mal Asina''' is a minor antagonist from ''[[Final Fantasy XIV]]''. He is a [[Garlean (race)|Garlean]] scientist serving under [[Zenos yae Galvus]].
+
+==History==
+Aulus mal Asina was a talented scientist within the Empire that sought to study the Garleans' inability to wield magick at the same levels as others on Eorzea. Aulus became prideful of his work, arguing that Garlean genoes could be altered to support manipulation of aether. His theories were became ridiculed by the imperial courts and and Aulus lost funding for his work. 
+
+During the [[Operation Rhalgr's Beacon|Eorzean invasion of Ala Mhigo]], Aulus was approached Imperial crown prince [[Zenos yae Galvus]], the only high-ranking imperial who saw potential within his research and supported him. By using the Echo of the captured Scion [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Mayer Baldesion]], he successfully implanted an artifical Echo within [[Fordola rem Lupis]], and later successfully implanted an Echo within the first ever Garlean: Zenos, making him the first Resonant. 
+
+During the battle of Ala Mhigo, Aulus joined the defense of the imperial palace from the Eorzean invaders. When confronted by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], he used a special device to seperate their soul from their body, but the Warrior was able to return to their body and slay Aulus. The Ascian [[Fandaniel]] later used Aulus' soul seperation technogies to temporarily switch Zenos and the Warrior's bodies, intending to have Zenos kill the Warrior's friends.
+==Characteristics==
+===Appearance===
+{{Section|Final Fantasy XIV}}
+
+===Personality===
+A scientific genius who is proud of his Garlean heritage and strives to remedy his people's inability to wield of magicks. Despite claiming that Garleans are intellectually and physiologically superior to other species, whom he calls "lesser species", he acknowledges that his people lack the means to wield magick at the same level as those from Eorzea.
+
+However, his proposal in altering the genome of the Garleans so they might be able to wield magicks was met with skepticism and suspicion. Thus, was Aulus supremely annoyed with such views, likely making Aulus prideful of his work. Fortune came for his when Zenos approached and offered him the funding to continue his work. As a result, Aulus is very grateful and loyal to Zenos.
+
+==Gameplay==
+Aulus is fought as the second boss of {{icon|ffxiv|duty|Ala Mhigo}}.
+
+{{Section|Final Fantasy XIV}}
+
+==Gallery==
+<gallery>
+FFXIV_SB_Aulus_Concept.jpg|Aulus mal Asina concept art.
+FFXIV Minitek Conveyor Minion Patch.png|Wind-Up Minitek Conveyor.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Hyurs]]
+[[Category:Garlean citizens]]
+[[Category:Garleans]]

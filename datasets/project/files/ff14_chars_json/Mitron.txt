@@ -1,0 +1,55 @@
+{{infobox character
+|name=Mitron
+|release=FFXIV
+|japanese=ミトロン
+|romaji=Mitoron
+|aka=Artemis
+|image=FFXIV Mitron.png
+|home=
+|affiliation=[[Zodiark (Final Fantasy XIV)|Zodiark]]
+|race=[[Ascian]]
+|gender=Male
+|type=npc
+}}
+'''Mitron''' is a character from ''[[Final Fantasy XIV]]''. He was initially mentioned in the first ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV|Encyclopædia Eorzea]]'' lore guide as an [[Ascian]] who was defeated by the [[Warriors of Darkness (Final Fantasy XIV)|Heroes of the First]]. Mentioned posthumously in the events of the game, he plays a role in the events of the ''[[Final Fantasy XIV: Shadowbringers]]'' expansion as the main antagonist of the [[Eden (Final Fantasy XIV)|Eden]] series of raids.
+
+==History==
+Mitron was Loghrif's protector and partner, having originally stopped her in their past lives when she offered herself as a sacrifice to summon [[Zodiark (Final Fantasy XIV)|Zodiark]] into existence. Mitron was later inducted into the Ascians after the unsundered found a fragment of him and restored his memories. Loghrif was also recruited, Mitron promising to help her remember who she was before the Sundering.
+
+Mitron and Loghrif were assigned to bring about a [[Umbral Calamity|Calamity]] in [[the First]] to return it to [[Hydaelyn|the Source]]. They originally protected the world from being consumed in light until [[Emet-Selch]] ordered them to commence [[the Flood]]. As part of their plan they recruited [[Cylva]], one of the two survivors from [[World of Darkness (Final Fantasy XIV)|the Thirteenth]], and brought her to the First to become the villainous Shadowkeeper. Though the First's [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Light]] defeated the two Ascians in their Ascian Prime form, they still succeed in their mission; being stricken by [[Ardbert]]'s axe caused the light within Mitron's vessel to transform him into the [[sin eater]], [[Eden (Final Fantasy XIV)|Eden]], flooding the world with light. [[Minfilia Warde]]'s sacrifice to stop the Flood also restored Mitron's consciousness, but he remained trapped within Eden and was thus forsaken by the other Ascians. Mitron bode his time while being driven mad by the century-long isolation until his chance for freedom presented itself. 
+
+Mitron eventually senses Loghrif and follows her reincarnation into [[Gaia (Final Fantasy XIV)|Gaia]]. He is acting on the promise he had made to her when they were recruited into the Ascians to erase her new life's memories and instill the urge to attack Eden as darkness was creeping back into the First, strengthening his influence over her. Despite setbacks, Mitron manipulates Gaia and [[Ryne]] into gradually freeing him as the girls restore the First's [[aether]] flow. Eden absorbs the aether while wiping Gaia's current memories to restore her as "Loghrif", reconstituting their Ascian Prime form. Ryne and the [[Warrior of Light (Final Fantasy XIV)|Warrior]] refuse to accept losing Gaia, who continues to resist transforming into Loghrif from within. Mitron refuses to release her and decides to completely erase Gaia's memories. Even after transforming into Eden's Promise to see his goal of an utopia where they would never be apart, Mitron is killed. His sprit appears before the unconscious Gaia to bid her farewell before departing from Eden to be reborn someday.
+
+==Characteristics==
+As a member of the [[Convocation of Fourteen]], Mitron is a title. His true name is '''Artemis'''. As revealed in [[Akadaemia Anyder]], those awarded the seat of Mitron are experts in the creation of new forms of sea life.
+
+=== Appearance ===
+[[File:FFXIV Mitron glyph.png|Mitron's glyph.|thumb|left]]
+Mitron dresses in the standard uniform of an Ascian Overlord. He wears a single black leather hooded coat with purple markings and adornments and a red half mask over the top portion of his face. At times, a glowing red emblem appears in front of his face. Interestingly, though in Cylva's and Ardbert's flashbacks he is seen with the pauldrons as other Ascian Overlords, he lacks them in his meeting with Loghrif and in present day as Eden, his outfit more resembling a lower-ranked Ascian.
+
+Unmasked, he appears as a dark-skinned Midlander [[Hyur|Hyuran]] with shoulder length blond hair and gold eyes.
+{{clear|left}}
+=== Personality ===
+Mitron is dedicated to protecting [[Loghrif]], valuing being by her side above all else. Eons spent separated from her had twisted his originally genuine love and care into an undying obsession to have her back at his side. Though he doggedly seeks to protect Lohgrif, he eventually reaches an understanding with Gaia after the Warrior of Light defeats him as Eden's Promise, bidding his reincarnated love farewell and letting her go in peace.
+
+==Gameplay==
+{{main|Eden's Promise: Eternity}}
+Mitron, fused with Gaia, is fought as Eden's Promise in {{icon|ffxiv|duty|eternity}}.
+
+==Gallery==
+<gallery>
+FFXIV Loghrif and Mitron.png|Loghrif and Mitron taking Cylva to the First.
+FFXIV Mitron unmasked.png|Mitron unmasked.
+</gallery>
+
+== Etymology ==
+"Mitron" refers to the Scion of Light "Mitron, the Chastiser" referred to in the profile of [[Chaos (Final Fantasy XII)|Chaos]] from ''[[Final Fantasy XII]]''.
+
+His real name was Artemis. {{Etym|Artemis}} 
+
+His real name Artemis {{j|アルテミス|Arutemisu}}, parallels [[Ultimecia]]'s japanese name, Arutimishia (アルティミシア) from ''[[Final Fantasy VIII]]''. Ultimecia's name differs depending on the translation, the spanish translation takes the name "Artemisa" which is the closest to the original.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Ascians]]

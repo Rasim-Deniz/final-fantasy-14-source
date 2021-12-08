@@ -1,0 +1,101 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Lolorito Nanarito
+|release = FFXIV
+|japanese =ロロリト・ナナリト 
+|romaji =Rororito Nanarito 
+|image = FFXIV Lolorito Nanarito.png
+|race = [[Lalafell]]
+|affiliation = The Syndicate
+|occupation = Monetarist
+|home = [[Ul'dah]]
+|age = 64
+|gender = Male
+|height = 
+|hair = Light Blonde
+|eye = Gold<ref name="coin">''[https://na.finalfantasyxiv.com/lodestone/special/2015/short_stories/?utm_source=lodestone&utm_medium=pc_playguide&utm_campaign=na_2015short_stories#sidestory_04 Tales from the Dragonsong War - For Coin and Country]''</ref>
+|designer = 
+|job = 
+|weapon = 
+|armor = 
+|japanese voice actor=[[wikipedia:Hisashi Izumi|Hisashi Izumi]]
+|english voice actor=[[Cam Clarke]] ''(A Realm Reborn)''<br>[[wikipedia:Simon Greenall|Simon Greenall]] ''(Heavensward)''
+}}
+'''Lord Lolorito Nanarito''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. A leading member of the Syndicate, he is the chairman of the East Aldenard Trading Company, and owns both Sunsilk Tapestries and and Eshtaime's Aesthetics making him potentially the most powerful man in [[Ul'dah]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Character section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Lolorito opposes the proposal to invite [[Doma (Final Fantasy XIV)|Doman]] refugee due to the ongoing issues with [[Ala Mhigo|Ala Mhigans]] for the past few decades. His stonewalling of the proposal prompts his rival [[Teledji Adeledji]] to incite unrest among the refugee population, setting the stage for "Defenders of Eorzea."
+
+At the conclusion of the story in "Before the Fall," Lolorito is revealed to be involved in the conspiracy that supposedly assassinated [[Nanamo Ul Namo]] and led to the apparent deaths of the majority of the leadership of the Scions of the Seventh Dawn.
+
+Lolorito plays a role in the [[Culinarian]] class quests, as the dreaded "Chefsbane" due to his tendency of being a food critic. To spare ''The Bismarck'' a poor rating, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] must cook him a high-quality Smoked Raptor Haunch to sate Lolorito's appetite. He appears in the final Culinarian quest, having arranged for the player to prepare a banquet for Sultana Nanamo Ul Namo's state visit to Admiral [[Merlwyb Bloefhiswyn]]. He had hoped to cause an embarrassment in retaliation for being humbled earlier, but the Sultana loves the banquet (much to his chagrin).
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:Lolorito Heavensward.png|thumb|Lolorito in ''Heavensward'' opening.]]
+[[Dewlala Dewla]] reveals Lolorito had caught up to Teledji Adeledji's assassination plan. Having no desire to have the Sultana killed, Lolorito had Nanamo's servant swap the poison with a potent sleeping potion while taking advantage of the situation to eliminate both Teledji and Raubahn, two of his chief rivals. Lolorito gives the antidote to [[Raubahn Aldynn|Raubahn]] who wakes her up. [[Ilberd Feare|Ilberd]] and the other traitorous Crystal Braves were in Lolorito's pocket from the inception of the company, but he broke his alliance with them once they attempted to execute Raubahn against his wishes.
+
+As Raubahn and Nanamo return to their duties, Lolorito reveals that the [[Garlean Empire]] had built a new super-dreadnought to replace the fallen ''Agrius'', and had begun test flights.
+
+During the player's pilgrimage it is revealed by Nanamo that due to his regret for his part for the troubles in Ul'dah, Lolorito surrendered Teledji's assets and half of his own personal wealth to the crown. Whether this implies true remorse or a ploy is left unknown.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+When the Scions arrive in [[Kugane]] they are surprised to discover that Lolorito's business empire extends into [[Othard]]. They are greeted by his agent, [[Hancock]], who informs them that Lolorito intends to aid their efforts to liberate [[Doma (Final Fantasy XIV)|Doma]]. He offers use of the Ruby Bazaar, the East Aldenard Trading Company's office in Kugane, as their base of operations. Although the Scions at first refuse, not wanting to be in debt to Lolorito, they eventually agree after being assured that Lolorito does not expect anything in return. Doma's liberation would aid his company's interests, so he is willing to help the Scions without any strings attached.
+
+Lolorito has a niece named Liliju of whom he is extremely protective. When she is captured during a bandit invasion of [[Kugane Castle]], the Warrior of Light is tasked with rescuing her.
+
+Following the liberation of Ala Mhigo, Lolorito is summoned by the Warrior of Light and Nanamo in a secret meeting at the Waking Sands to ask of how they could best help to rebuild Ala Mhigo, using recently salvaged treasures of King [[Theodric]] to help fund their efforts. The three agree they would focus their efforts on the Saltery. To ensure trust, Lolorito removes his mask.
+
+==Characteristics==
+=== Appearance ===
+Lolorito is a male dunesfolk [[Lalafell]] with light blonde hair. He normally wears a mask and turban to conceal his face, hiding golden eyes.<ref name="coin" /> This is shown in-game when Lolorito meets with Nanamo and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in private.
+
+=== Personality ===
+A master of the business trade with powerful connections and vast wealth, Lord Lolorito is the most powerful figure in the city-state and ensures it stays that way. What motivates him most is the promise of profit. He will not consort to murder or other unsavory tactics to achieve a goal, but is not above conspiracy. A statue in his likeness stands at Vesper Bay. 
+
+Lolorito didn't partake in the assassination of the Sultana with [[Teledji Adeledji]] or the attempted execution of [[Raubahn Aldynn|Raubahn]] with [[Ilberd Feare|Ilberd]], but used their plans to his advantage.
+
+Though scheming and Machiavellian, Lord Lolorito cares for his homeland of Ul'dah and while he may be a Monetarist, he had no desire to harm the Sultana, [[Nanamo Ul Namo|Nanamo]]. Lolorito is more than willing to make unscrupulous and otherwise questionable plans to ensure the prosperity of Ul'dah and that of his own wealth. He seizes control of Teledji's scheme for his own purposes of removing his rivals within the Syndicate and allowing the [[Scions of the Seventh Dawn]] take the fall. While the Scions would never truly trust Lolorito again, he attempts to make amends to them as well as the Sultana.
+
+The Sultana sees Lolorito indispensable in the stability of Ul'dah and would make use of him. After the liberation of [[Ala Mhigo]], the Sultana proposed a joint endeavor to reestablish the industry within the nation with a small share of the profits returning to Ul'dah. Impressed with her strategy and newfound maturity, Lolorito agrees to lend his business expertise to the plan.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Lolorito Nanarito
+|image = [[File:Lolorito Nanarito Triple Triad Card.png]]
+|number = 128
+|total = 17
+|type = None
+|description = “Precious or not, they were never yet so reliable. And unlike those who frequent your establishment, I have no desire to gamble with my future.”
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Wymond|Wymond]], Ul'dah - Steps of Nald (9, 8).
+}}
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:590a Lolorito Nanarito.png|100px|right]]
+Lolorito's card is an [[Triple Triad (Portal App) decks/Y'shtola Easy mode|Easy Mode card]] in the version of Triple Triad playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+If the final Culinarian quest is completed between the main scenario quests "The Parting Glass" and "Awakening in Ul'dah", Nanamo Ul Namo and Lord Lolorito will be anachronistically present at the state dinner, despite Nanamo presumably being dead in part due to Lolorito during this period. This may be because the quest chronologically takes place around the time of Operation Archon, regardless of the actual order a player completes them.
+
+===Voice===
+Lolorito is voiced by [[Cam Clarke]] in the English version. Since the release of ''Final Fantasy XIV: Heavensward'', Lolorito is voiced by [[wikipedia:Simon Greenall|Simon Greenall]].
+
+He is voiced by [[wikipedia:Hisashi Izumi|Hisashi Izumi]] in the Japanese version.
+
+==Gallery==
+<gallery>
+FFXIV TFDW Lolorito unmasked.png|Lolorito unmasked.<ref name="coin" />
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

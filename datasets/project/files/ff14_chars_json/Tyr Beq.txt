@@ -1,0 +1,36 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=
+|release=FFXIV
+|japanese=ティル＝ベーク
+|romaji=Tiru = Bēku
+|aka=Weaver
+|image=FFXIV ShB Tyr Beq.png
+|home=[[Il Mheg]]
+|affiliation=Dreamspinners
+|occupation=Leader of the Dreamspinners
+|race=[[Pixie]]
+|gender=<!--PIXIES ARE GENDERLESS, DO NOT FILL THIS SPACE-->
+|hair=
+|eye=
+|type=npc
+}}
+'''Tyr Beq''', also know as '''Weaver''' is a non-playable character from ''[[Final Fantasy XIV: Shadowbringers]]''. They are the leader of the Dreamspinners and a major character in [[pixie]] beast tribe questline.
+
+==History==
+[[File:FFXIV Tyr Beq and Ezel II.jpg|left|thumb|Tyr Beq and Ezel II.]]
+Because [[Lyhe Mheg]]'s gates were sealed, children all over [[Norvrandt]] began to have nightmares and Tyr Beq believing that a pixie is responsible for this, goes to [[Crystarium (Final Fantasy XIV)|Crystarium]] to investigate. In the city, Tyr Beq meets the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] who can see they and soon deduces who they are. With the help of Warrior of Darkness and [[Ezel II]], Tyr Beq makes their way over to a girl from [[Lakeland#Sullen|Sullen]] who is having nightmares. At the scene, a pixie named [[Titania (Final Fantasy XIV)|An Lad]] presents themself as responsible for the events claiming that tormenting children to become their friend. Since the [[porxie]] is unable to devour the nightmare, Tyr Beq invokes a physical manifestation of the nightmare for the Warrior of Darkness defeat and so the girl overcomes her torments and extinguishes the nightmare. With the task accomplished, one of Lyhe Mheg's gates opens again.
+
+Tyr Beq's party continues to defeat the nightmares of children from other regions and learn more about An Lad (discovering that they are a reincarnation of [[Titania (Final Fantasy XIV)|Titania]]). Tyr Beq decides that they want to befriend the reincarnation of their friend. Eventually An Lad's torment becomes so powerful that it covers Lyhe Mheg with a nightmare. Once the Warrior of Darkness defeats the nightmare, An Lad overcomes their torments and decides to accept the friendship offered by Tyr Beq.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gameplay==
+During the {{icon|ffxiv|quest|As the Heart Bids}} quest, Tyr Beq helps the player as an allied npc in the role of healer.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Pixies]]

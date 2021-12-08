@@ -1,0 +1,116 @@
+{{sideicon|prime=FFXIV|FFRK|FFBE|FFTCG}}
+{{DISPLAYTITLE:Ifrit (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ifrit
+|release=FFXIV
+|japanese=イフリート
+|romaji=Ifurīto
+|aka=Lord of the Inferno
+|image=Ifrit XIV CG.png
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=boss
+|designer=
+|japanese voice actor=
+|english voice actor=
+|boss page=Bowl of Embers
+|recurring appearance=Ifrit
+}}
+{{Quote|The incarnation of fire and fury, worshipped by the lizard-like Amalj'aa tribe.<br />Even amongst the primals, Ifrit is highly given to savagery, his temper quick to erupt in a conflagration of death. His breath ignites the very air, his claws melt the strongest steel, and his twisted horns scorch the heavens. Those who would face him must be prepared to withstand the fires of hell.|Official Site description}}
+'''Ifrit''' is the [[primal]] of the [[Amalj'aa]] [[Beastmen|beast-tribes]] in ''[[Final Fantasy XIV]]'', also known as the '''Lord of the Inferno''' {{j|焔神|Enshin|Flame God}}. He is encountered as a [[boss]] a number of times in both [[Final Fantasy XIV/Legacy|legacy]] and ''A Realm Reborn''.
+
+He is the first primal confronted in ''Final Fantasy XIV: A Realm Reborn'', setting the stage for the [[Warrior of Light (Final Fantasy XIV)|adventurer]] to rise as a [[Warriors of Light#Final Fantasy XIV|Warrior of Light]].
+
+== History ==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Section}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The adventurer's first major assignment from [[Minfilia Warde]] is to investigate disappearances in Eastern Thanalan with [[Thancred Waters]]. Investigating both Camp Drybone and the clergy at the Church of Saint Adama Landama, they learn the ruffian [[Ungust]] (who was previously encountered in an altercation in [[Ul'dah]]) had been impersonating as a priest to traffic refugees to the Amalj'aa to be [[Enthrallment|tempered]] by the Lord of the Inferno. An attempt to entrap the Amalj'aa in a sting operation leads to the adventurer being sold out by corrupt Brass Blades.
+
+{{Quote|Forsooth, thy frail mortal frame can serve as vessel to the blessing of but One. Yet I smell not the taint of another upon thee... The truth of thine allegiance waxeth clear—thou art of the godless blessed's number. The Paragons warned of thine abhorrent kind. Thine existence is not to be suffered.|Ifrit}}
+Taken to the Bowl of Embers, the Amalj'aa turn on Ungust and the corrupt soldiers by having them tempered in Ifrit's flames. The primal tries to claim the adventurer next, but is horrified when that fails due to the adventurer being "[[Echo (Final Fantasy XIV)|godless blessed]]" as the [[Ascian|paragons]] had warned. A fierce confrontation ensues and the Lord of the Inferno is slain and banished to the [[aether]], leaving behind a fire crystal.
+
+Thancred arrives with the Immortal Flames to fend off the Amalj'aa priest and rescue the hostages. As they leave, [[Nero tol Scaeva]] and [[Livia sas Junius]] are revealed to have monitored the fight from a cliff, with the former disappointed in the primal's weakness. Having bested the god of the Amalj'aa, the adventurer gains notoriety in the realm, with the [[Grand Company|Grand Companies]] arriving at the Waking Sands with representatives hoping to recruit the one who slew the primal.
+
+Ifrit appears at the Howling Eye where [[Garuda (Final Fantasy XIV)|Garuda]] forces captured Amalj'aa and [[Kobold (Final Fantasy XIV)|kobolds]] to summon Ifrit and [[Titan (Final Fantasy XIV)|Titan]] under torture, seemingly with the intent of absorbing them. [[Gaius van Baelsar]] demonstrates the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], which defeats the three primals and absorbs them. With the threat of the Ultima Weapon, the Amalj'aa and other beast-tribes lay low.
+
+After the Ultima Weapon is destroyed during Operation Archon, the Amalj'aa again summon the Lord of the Inferno, now stronger than ever. Using an Aetheryte set up in Zahar'ak, the adventurer returns to the Bowl of Embers and banishes the primal once again.
+
+Ifrit's defeat is short-lived, however, as the Amalj'aa summon him yet again using a ritual focus made from Amalj'aa bones. When the adventurer defeats this latest, most powerful incarnation of Ifrit, the [[Ascian]]s appear to tell the adventurer that they learned much from observing the battle, and to wonder aloud how long the Bringer of Light can hold back the encroaching Darkness.
+
+===''[[Final Fantasy XIV: Stormblood]]'' ===
+When Ifrit returns, he is defeated by a new anti-primal force with [[Arenvald Lentinus]] and [[Fordola rem Lupis]] at its head. They are supported by a group of summoners trained by [[Y'mhitra Rhul]] and [[Dancing Wolf]].
+
+== Gameplay ==
+===Battle===
+{{Main|The Bowl of Embers}}
+Ifrit is fought as a boss three times at {{icon|ffxiv|duty|the Bowl of Embers}}: first early in the main scenario, then in a Hard version in a sidequest, and finally an optional Extreme battle. While the latter two versions are fought at [[level]] 50 with a full party of eight, the initial storyline fight is at level 20, with only four players.
+
+{{icon|ffxiv|duty|The Bowl of Embers (Hard)}} is required to restore a [[Relic Weapon (equipment)|Relic Weapon]], and the later main scenario quests starting from "Before the Fall" require it—along with {{icon|ffxiv|duty|The Navel (Hard)}} and {{icon|ffxiv|duty|The Howling Eye (Hard)}}—to have been previously completed at some point.
+
+Completing {{icon|ffxiv|duty|The Bowl of Embers (Extreme)}} is optional, and grants the achievement "Going Up in Flames".
+
+Ifrit also appears as a mechanic in the fight against the Ultima Weapon, which uses him along with Titan and Garuda to perform combination attacks. In both fights, he is the last primal to be ejected from the Weapon.
+
+Ifrit also appears as one of the bosses fought in the optional [[Ultimate (Final Fantasy XIV)|Ultimate]] Raid {{icon|ffxiv|duty|Weapon's Refrain}}.
+
+===Summon===
+The [[Summoner (Final Fantasy XIV)#Summoner|Summoner]] job can summon Ifrit-Egi as melee combat pet. It is unlocked along with the Job crystal after defeating the Egi in the quest "Austerities of Flame."
+
+Ifrit is also one of the summons available in the magicites from the [[Deep Dungeon (Final Fantasy XIV)|Deep Dungeon]] [[Heaven-on-High]].
+
+Through crafting, players can obtain a Wind-up Ifrit [[Minion (Final Fantasy XIV)|minion]], which can also be used at the [[Lord of Verminion]] minigame.
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Ifrit FFXIV.png|thumb]]
+The Ifrit from ''Final Fantasy XIV'' appears as a boss in ''Final Fantasy Record Keeper''.
+{{clear}}
+
+=== ''[[Final Fantasy Brave Exvius]]'' ===
+[[File:FFBE Ifrit FFXIV Sprite.png|thumb|150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+=== ''[[Final Fantasy Trading Card Game]]'' ===
+[[File:PrimalIfrit TCG.png|thumb|100px]]
+Ifrit appears in ''Final Fantasy Trading Card Game'' with a Fire-elemental card.
+{{clear}}
+
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+[[File:385a Ifrit.png|thumb|100px]]
+Ifrit from ''Final Fantasy XIV'' appears on a Triple Triad card in ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Other media==
+Ifrit appears in the [[Final Fantasy XIV: A Realm Reborn Official Benchmark (Character Creation)]] program on PC, in which the benchmark test has a scene of him using Hellfire to annihilate a party of adventurers in Thanalan.
+
+Square Enix's [[Eorzea Cafe]] served dishes called "Steak of Ifrit with sour spicy sauce" (with a description that translates to: ''We tried to grill a steak using the flames of hell, but they were much too powerful, and everything became obscured by a cloud of smoke. However, when the smoke cleared, we were greeted by something that was cooked to perfection... Please enjoy it with this tangy, spicy sauce.'') and "Pizza of Ifrit with hot sauce" (with a description that translates to: ''A pizza loaded with salami to symbolize Flame God, Ifrit's Radiant Plume. Drizzle on our ultra spicy sauce to your liking!'')
+
+== Gallery ==
+<gallery>
+FFXIV Ifrit and Amalj'aa artwork.jpg|Promotional artwork.
+Ifrit artwork from Final Fantasy XIV.png|Artwork.
+Ifrit XIV.jpg|Ifrit.
+FFXIV Ifrit Battle.jpg|Ifrit in battle.
+Ifrit-Egi.jpg|Ifrit-Egi.
+FFXIV Minion Ifrit.png|The Wind-Up Ifrit [[Minion (Final Fantasy XIV)|minion]].
+FFXIV Lunar Ifrit.png|Lunar Ifrit.
+</gallery>
+
+== Etymology ==
+{{Etym|Ifrit}}
+
+As revealed in the Tales from the Shadows side story "Ere Our Courtain Falls", Ifrit's name originated from Ifrita, a female manifestation of fire aether created by [[Lahabrea]].
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Ifrit (Final Fantasy XIV)]]
+[[de:Ifrit (FFXIV)]]
+[[Category:Primals in Final Fantasy XIV]]

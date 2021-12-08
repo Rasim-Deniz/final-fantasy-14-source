@@ -1,0 +1,79 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Suzaku (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Suzaku
+|release=FFXIV
+|japanese=朱雀
+|romaji=Suzaku
+|lit=Vermilion Bird
+|aka=
+|image=FFXIV Suzaku render.jpg
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Four Lords]]
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Auspice
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor= [[Yoshino Nanjo]]
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=Hell's Kier
+}}
+'''Suzaku''' is one of the [[Four Lords]] from ''[[Final Fantasy XIV]]'' and appears as a boss, and as a [[superboss]] in an optional extreme battle.
+
+==History==
+Suzaku was born with crimson plumage like blazing fire. She was likened to the Firebird of legend, a being said to give immortality, and due to this was pursued endlessly. She met [[Tenzen (Final Fantasy XIV)|Tenzen]] who treated her differently and became everything to her. She traveled with Tenzen and the other lords, helping anyone in need, and one day their deeds reached the ears of a king. By the king's order they battled the mad auspice Koryu, and were defeated. Tenzen unleashed a powerful technique, but left himself open to attack. Suzaku watched Tenzen die, feeling hopeless, wishing she were the Firebird of legend. She kept these feelings of grief to herself for years after becoming an auspice.
+
+The bonds on the imprisoned Koryu are starting to fade and the Four lords are needed again. Suzaku is summoned to the Reisen Temple to quell her aramitama. [[Genbu (Final Fantasy XIV)|Genbu]] likens the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to Tenzen, but Suzaku flies into a rage, saying they don't even compare and berates them. [[Byakko (Final Fantasy XIV)|Byakko]] and Genbu calm her down enough to convince her to fight, and she meets the Warrior of Light in Hell's Kier, her chosen battleground. As she fights the Warrior of Light Suzaku unleashes her aramitama and becomes consumed by her grief, confusing the Warrior for Tenzen and showing her human form to battle.
+
+Calmed in the aftermath, Suzaku reflects on her travels with Tenzen and the Four Lords. After her story, she realizes she will protect those for whom Tenzen died in his memory, and thanks the Warrior of Light.
+
+==Characteristics==
+{{Section}}
+
+==Gameplay==
+{{main|Hell's Kier}}
+Suzaku appears in {{icon|ffxiv|duty|Hells' Kier}} twice: once as a boss in the Four Lords sidequests and another as a superboss. Both are fought at level 70 and require a party of 8.
+
+Defeating Suzaku in the extreme fight grants "The Scarlet Bloodletter" achievement.
+
+==Gallery==
+<gallery>
+FFXIV Suzaku.png
+FFXIV Suzaku concept.jpg|Concept art.
+</gallery>
+
+==Etymology==
+{{etym|Suzaku}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Four Lords]]

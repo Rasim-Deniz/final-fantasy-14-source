@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Ardashir Balyk
+|release=FFXIV
+|japanese=アルダシール
+|romaji=Arudashīru
+|image=FFXIV Ardashir.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Black
+|eye=Olive/Teal
+|age=17
+|affiliation=
+|occupation=
+|type=npc 
+|armor=
+}}
+'''Ardashir Balyk''' is a non-playable character from ''[[Final Fantasy XIV]]'', first appears in version 3.15 in the [[Anima Weapon]] quest line.
+
+==History==
+The son of a Near Eastern Hyuran merchant in [[Radz-at-Han]], Ardashir traveled with his father so as to learn the family business. His life would change, however, upon his first journey to [[Limsa Lominsa]]. There, he spied [[arcanists]] at Mealvaan's Gate, and was entranced by their [[Carbuncles]]. Upon returning home, Ardashir began to study arcanima, only to discover he had no talent for sorcery, and could not perform even the most basic summoning. He did not give up, however, and instead set out to create an arcane entity that did not rely on the wielder's magic. Ignoring his father's protests, the Far Eastern Hyuran became the apprentice of a famous alchemist, and has been conducting research on anima since. This is what leads him to first meet the Warrior of Light and assist in the process of creating their personal Anima Weapon.
+
+==Characteristics==
+===Appearance===
+Adashir is a male midlander [[hyur]]. He has long black hair worn in a ponytail with bangs. He is seventeen years old, and thus is shorter than it is possible to make a male midlander player character, to indicate his youth. He wears a light grey justaucorps, black trousers, dark brown high-heeled boots, and a pair of earrings.
+
+===Personality===
+Precocious and intelligent, Ardashir butts heads frequently with the older but less technically-minded [[Gerolt]] through the process of creating the Anima Weapon. Despite being prickly with strangers, he is still youthfully curious and is quick to get caught up in the excitement of a new discovery. The lad is in the habit of jotting down his findings in his journal, wherein he also vents his daily frustrations.
+
+==Etymology==
+''Ardashir'' was the name of the [[:http://en.wikipedia.org/wiki/Ardashir I|emperor and the founder]] of the Sasanian Empire (part of Iran today) from 224–242 AD.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

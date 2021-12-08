@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Jessie Jaye
+|release=FFXIV
+|japanese=ジェシー・ジェイ
+|romaji=Jeshī Jei
+|lit=Jessie Jay
+|aka=
+|image=Jessie XIV.png
+|home=
+|age=
+|affiliation=[[Garlond Ironworks]]
+|occupation=Engineer
+|race=[[Hyur]]
+|gender=Female
+|hair=Brunette
+|eye=Red
+|type=npc
+|original appearance=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|The name's Jessie, deputy president of Garlond Ironworks.|Jessie}}
+'''Jessie Jaye''' is a [[Non-player character|non-playable character]] from ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. She is the Deputy President of [[Garlond Ironworks]] introduced in Patch 2.3 in the quest "Magiteknical Difficulties." Jessie is based on the [[Avalanche (group)|Avalanche]] member of the same name from ''[[Final Fantasy VII]]''.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The [[Warrior of Light (Final Fantasy XIV)|adventurer]] is informed by [[Slafborn]] that a friend of Cid's is waiting in the workshop for them. They are greeted by Jessie who introduces herself as the Deputy President of Garlond Ironworks.
+
+She states that due to Cid's absence she has been given the title, and is trying to get the workshop's productivity back up. She requests to see the adventurer's [[Magitek Armor#Final Fantasy XIV: A Realm Reborn|Magitek Armor]] (mount) to inspire new ideas. She is impressed but disappointed the weapon systems are damaged.
+
+She asks the adventurer to collect parts to fix the Magitek Armor. After returning to her with the parts she repairs it allowing the adventurer to fire the weapons. Jessie informs they are not designed for combat (the effect is cosmetic).
+
+It is is revealed that Jessie began production of [[Magitek]]-enhanced equipment for the adventurer, and struck an exclusivity deal with [[Rowena]] to distribute them. The equipment can be purchased by adventurer with [[Allagan Tomestone]] of Poetics in [[Revenant's Toll]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Jessie is seen with Cid and the rest of the Ironworks team investigating [[Omega (Final Fantasy XIV)|Omega]]. She voices her displeasure at Cid's usual disregard of their company's well being, and reveals that in her capacity as Deputy President, she has hired [[Nero tol Scaeva|Nero]].
+
+==Characteristics==
+===Appearance===
+Jessie's appearance resembles [[Jessie Rasberry|her ''Final Fantasy VII'' counterpart]], being a young female Midlander [[Hyur]] with brown eyes and brown hair tied into a ponytail.
+
+===Personality===
+Though Jessie is a hardworking, dedicated and loyal member of Garlond Ironworks, she is often more concerned with the expansion, productivity and general well-being of the business. Thereby, she is less inclined to use company resources on less profitable endeavors, even if they are for good, or serious causes. This often leads her into disagreements with [[Cid Garlond]], who uses his company to aid his friends and allies in the [[Scions of the Seventh Dawn]] and the Eorzean Alliance. As a result, Jessie is independent and willing to make decisions without consulting Cid if it means for the betterment of the company, such as hiring [[Nero tol Scaeva]].
+
+During her early years in Garlemald, Jessie despised the patriotic zeal her parents displayed and rebelled, being more than happy to defect to Eorzea.
+
+==Gallery==
+<gallery>
+FFXIV Rise of a New Sun Artwork.jpg|Jessie in ''Rise of a New Sun'' artwork.
+Jessie Magitek Armor.png|Jessie checking on the Magitek Armor.
+</gallery>
+
+==Etymology==
+She is named after [[Jessie Rasberry|the ''Final Fantasy VII'' character]], but Jessie Jaye's name may also be a reference to singer {{w|Jessie J}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

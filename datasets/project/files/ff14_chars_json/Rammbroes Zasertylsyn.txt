@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Rammbroes Zasertylsyn
+|release = FFXIV
+|japanese = ラムブルース・ゼーシルティルシン
+|romaji = Ramuburūsu Zēshirutirushin
+|lit = 
+|image = FFXIV Rammbroes Zasertylsyn.png
+|race = [[Roegadyn]]
+|gender = Male
+|height = 
+|hair = White
+|eye = Pink
+|designer = 
+|age = 50
+|affiliation = [[Circle of Knowing]]<br/>[[Sons of Saint Coinach]]
+|occupation = Archon
+|type=npc
+|job = 
+|weapon = 
+|armor = 
+}}
+
+'''Rammbroes Zasertylsen''' is a [[non-playable character]] from ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. He is an anthropogeographer from [[Sharlayan]] overseeing Saint Coinach's Find in [[Mor Dhona]].
+
+== History ==
+Once a member of the [[Circle of Knowing]], Rammbroes is currently a member of the [[Sons of Saint Coinach]] and leads the research into the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] and other Allgan relics in the area. Initially, he's just involved in minor sidequests for the Mor Dhona region, and will explain some basic information about the area.
+
+Once the player has completed the quest "The Ultimate Weapon," a man in Revenant's Toll will direct the player to Rammbroes for a job opportunity. It's revealed that he and [[Cid nan Garlond]] were looking for adventurers to aid in their investigation to the Crystal Tower. They dispatch the player to seek out rare materials—flawless elemental crystals and aethersand—to devise a method of disabling the defenses at the Eight Sentinels. Once the items are retrieved, it's revealed Rammbroes had also recruited the quirky [[G'raha Tia]] of the [[Students of Baldesion]] for assistance.
+
+Although Rammbroes does not accompany Cid, G'raha, and the adventurer to the site, he keeps records of their progress into the Crystal Tower, which the player may review at any time by speaking to him.
+
+== Characteristics ==
+=== Appearance ===
+Rammbroes is a bald [[roegadyn]] with dark skin and a greying beard.
+
+=== Personality ===
+{{Character section|Final Fantasy XIV}}
+
+==Etymology==
+In the Roegadyn language, Rammbroes translates to "Ram Chest." His surname's component of ''zaser'''s meaning is unknown, but the closest known word is ''zaes'', meaning "right", possibly leaving the full name as "Ram Chest, son of Right Valley."
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

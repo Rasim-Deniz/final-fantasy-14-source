@@ -1,0 +1,120 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Gilgamesh (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Gilgamesh
+|release=FFXIV
+|japanese=ギルガメッシュ
+|romaji=Girugamesshu
+|aka=Greg, Yojimbo, Jim
+|image=Gilgamesh transformed from Final Fantasy XIV.png
+|portrait=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|recurring appearance=Gilgamesh (character)
+}}
+{{Quote|In his never-ending quest for power and glory, Gilgamesh—self-styled warrior of legend and collector of fine weaponry—now roams the lands of Eorzea. When a series of events leads to confrontation with this formidable foe, you must prove your mettle or see your blade lost to his ever-growing collection.|Official website}}
+'''Gilgamesh''' is a recurring character in ''[[Final Fantasy XIV]]'', making his first appearance in patch 2.1 in the [[Hildibrand Manderville]] [[Quest (Final Fantasy XIV)/Hildibrand|questline]]. Like most of his appearances, Gilgamesh in ''Final Fantasy XIV'' alludes to [[Gilgamesh (Final Fantasy V)|his original appearance]] in ''[[Final Fantasy V]]'', and is a sword collector searching for the alleged "blade of legend".
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|But where are my manners? I have yet to properly introduce myself. I am Gilgamesh, and that is my companion, Enkidu! ...Well, not really. It has been many moons since last I saw her, so to ease the burden of loneliness, I tamed a rooster and painted it green.|Gilgamesh}}
+[[Nashu Mhakaracca]] is investigating a rash of weapon thefts by a so-called duelist who challenges adventurers and takes their weapons upon defeating them. Gilgamesh defeats yet another opponent, while lamenting his failure to locate the Sword of Legend.
+
+Gilgamesh seeks out "the demon bird" who stole the Bradamante halberd from him. In a rare instance of him actually finding the original weapon, Gilgamesh claims he found the halberd after first entering the world, felling many challengers in duels with it. He had also tamed a chicken to replace [[Enkidu]] out of loneliness. Hildibrand and Nashu meet up with Gilgamesh and his chicken sidekick by chance while searching for the mysterious duelist, oblivious that Gilgamesh is the culprit until the latter recognizes the Bradamante replica as his. Taking back his spear as the authorities surround him, Gilgamesh falls back to the Griffin Crossing bridge in [[Ishgard]] where he makes a wager with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to win the spear off him on the condition that he relinquishes his own weapons should he lose. During the battle Gilgamesh realizes that the halberd he took from Hildibrand is a fake and retreats further down the bridge to rethink his strategy. Upon defeat, Gilgamesh comically attempts to escape by jumping off the bridge while grasping Enkidu, only to fall for the effort.{{cite|FFXIV|Patch 2.2 "Through the Maelstrom".}}
+
+Gilgamesh encounters [[Ultros]] who offers an alliance to take Hildibrand and the Warrior of Light out at Master Fygreis's Coliseum, but turns down the offer while warning him not to underestimate the Warrior's abilities. Later on, Gilgamesh interrupts the award ceremony in an attempt to challenge the Warrior of Light to a rematch, only to be blown out of the arena by an ill-timed sneeze from [[Typhon]] caused by the Thief of Many Faces.{{cite|FFXIV|Patch 2.4 "Dreams of Ice".}}
+
+While he intends to get the jump on them, a beating from [[Julyan Manderville]] forces Gilgamesh to help Hildibrand and the Warrior of Light solve the case and apprehend [[Ellie Ryse]]: the culprit behind the thefts. Once the case has reached its conclusion, he issues a rematch challenge with the Treaty Blade, one of the heirloom items stolen by Ellie, as the prize. Reunited with the true Enkidu, who is revealed to be a [[primal]] that Gilgamesh summoned, the pair fights the Warrior of Light together. Once Enkidu is defeated, Gilgamesh assumes his eight-armed form and continues the battle, but is defeated once more. He relinquishes his claim to the Treaty Blade while feigning turning over a new leaf, but secretly promises to cross blades with the Warrior of Light again.{{cite|FFXIV|Patch 2.5 "Before the Fall".}}
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Unbeknownst to the Warrior of Light, Gilgamesh acts in the guise of the samurai mercenary Yojimbo and thus serves as the final boss of the [[Kugane Castle]] dungeon, having been hired by the insurgent Kageyama. Just before he can be defeated Yojimbo discovers his employer is no longer able to pay his ludicrous hiring fee, and escapes via trap door, abandoning Kageyama.
+
+Yojimbo serves the wealthy merchant Akebono to safeguard his recently-acquired blade, the Soboro Sukehiro. Yojimbo is standing guard when Hildibrand and Nashu infiltrate a party the merchant is holding, disguised as geiko, and is distracted by Hildibrand along with most of the other party-goers. In the confusion, the Kugane Wolf Burglar sneaks into Akebono's manor and steals the prized sword. Enraged, Akebono demands that Hildibrand chase the burglar to retrieve it. Yojimbo joins the Inspector and Nashu, the Warrior of Light, and the ronin samurai Shigure to do so. Traveling with the group to Yanxia, Yojimbo and his dog Daigoro track down the Wolf Burglar. He sics Daigoro on the burglar, only for the thief to distract Daigoro with a golden koban. Despite this setback, the Wolf Burglar is captured courtesy of Hildibrand's theatrics. Hildibrand and Shigure entrust the Soboro Sukehiro to Yojimbo to bring back to Akebono. However, by the time the Inspector's group returns to Kugane, they are informed by Akebono that Yojimbo had never returned, noting that he had fired the mercenary after his prized sword was taken.{{cite|FFXIV|Patch 4.3 "Under the Moonlight".}}
+
+Yojimbo has fled to the Ruby Sea in an attempt to steal the blade Ame-no-Murakumo from the Red Kojin. Discovering that the entrance to their stronghold is underwater, he is discovered by Hildibrand's group, now including the newly-freed Wolf Burglar, having "bribed" Daigoro into leading them to him. Cornered, he explains that he was attempting to find a sword powerful enough to finally defeat the Warrior of Light. Reluctantly, he throws the sword to Hildibrand, who in his attempts to catch it, steps on Daigoro's tail, angering him. In the aftermath of Daigoro's rage, Yojimbo flees the scene as the Sekiseigumi arrive to arrest Shigure.{{cite|FFXIV|Patch 4.4 "Prelude in Violet".}}
+
+Yojimbo sends Hildibrand a poorly-written anonymous letter claiming that he had once again stolen the Soboro Sukehiro, and challenges the "something-something of Light". Hildibrand, thinking that the phrase was "Gentleman of Light", rushes off to find the culprit, but is easily defeated before the Warrior of Light can even reach the meeting point. Once there, Yojimbo directly challenges the Warrior of Light to another fight, this time on the [[Kugane Ohashi]]. A short while into the fight, Yojimbo descends into a dark portal, ditching his samurai garments and revealing his true identity as Gilgamesh. Though he had managed to steal the Kojin sword, Gilgamesh is again defeated.{{cite|FFXIV|Patch 4.5 "A Requiem for Heroes".}}
+
+Gilgamesh explains he had come to the Far East following his previous defeats, but found himself starving. He had met Daigoro on the streets of Kugane, and the two formed a bond as starving outcasts within the city. Taking up the title of Yojimbo, he offered his services as a master swordsman to earn money.
+
+Gilgamesh accompanies Hildibrand to rescue Shigure from execution, and again once it is discovered that Godbert Manderville has been brainwashed by Akebono and an unnamed representative of the Radz-at-Han company, the Sahjattra Concern via the drug dewprism. With the group confronting the two villains, Akebono demands that Godbert destroy everyone. Gilgamesh is easily defeated by the drugged Manderville.
+
+When Godbert is returned to his senses, the Sahjattra Concern rep resists arrest by throwing a dose of dewprism into Gilgamesh's mouth and flees to him, commanding the garish brute to take him to take them both to somewhere very, ''very'' far away. Gilgamesh opens up a portal to the Interdimensional Rift, dragging the rep, the Inspector, and Nashu along with him.
+
+==Characteristics==
+===Appearance===
+Gilgamesh's appearance is a mix between his two appearances in ''Final Fantasy V''. While he has eight arms like his second form post-"morphing time", he wears the same red and gray clothing prior. The released render of Gilgamesh shows him wielding seven different weapons: an axe, mace, katana, baghnakhs, the [[Hauteclaire]] sword and Ridill scimitar from ''[[Final Fantasy XI]]'', in addition to a replica of [[Nael van Darnus]]'s gunhalberd Bradamante called the "Pradamante".
+
+===Personality===
+Gilgamesh is a sword collector and an honorable warrior with a thirst for battle, but also in many ways incompetent, which makes for comedic moments. Unlike his usual appearances, Gilgamesh makes attempts to be crafty and hide his sword thievery, and though his poor ability to go undiscovered is obvious to the player, Hildibrand remains oblivious.
+
+==Gameplay==
+Gilgamesh is fought as a boss in the {{icon|ffxiv|duty|Battle on the Big Bridge}}, {{icon|ffxiv|duty|Battle in the Big Keep}}, and {{icon|ffxiv|duty|Kugane Ohashi}} trials.
+
+[[Minion (Final Fantasy XIV)#Wind-up Gilgamesh|Wind-up Gilgamesh]] is one of many [[Minion (Final Fantasy XIV)|minions]] the player can acquire. The minion's description heavily hints that it was built by Godbert Manderville.
+{{Character section|Final Fantasy XIV}}
+
+==Musical themes==
+{{audio|filename=Gilgamesh XIV.ogg|title="Battle on the Big Bridge Reborn"}}
+{{See|Battle at the Big Bridge}}
+"Battle on the Big Bridge Reborn" plays during the battle against Gilgamesh. It has similar beat to the original theme from ''Final Fantasy V'' with hard rock drums added. It was composed by [[Masayoshi Soken]].
+
+In the second encounter with Gilgamesh and Enkidu, the original version of the theme from ''Final Fantasy V'' is used.
+
+"Triumph", the standard ''Stormblood'' boss theme, plays during the battles when Gilgamesh is in his Yojimbo guise.
+
+==Behind the scenes==
+In the Closed Beta, Gilgamesh was the name of a World. Gilgamesh's name is also used in example sentences for the chat log filtering configuration.
+
+Yojimbo's surprising reveal as Gilgamesh in patch 4.56 was foreshadowed in patch 4.1, with Gilgamesh and rooster Enkidu making an inexplicable cameo in a Hildibrand "Next time" scene.
+
+In the Kugane Ohashi trial, Gilgamesh quotes and uses abilities from [[Susano (Final Fantasy XIV)|Susano]] and [[Ravana (Final Fantasy XIV)|Ravana]], two primals with similarly boisterous personalities.
+
+Square Enix's [[Eorzea Cafe]] served a dish called "Escalope of Gilgamesh" whose description translates to: ''We find a bearer of many weapons in Gilgamesh. This is a dish featuring pork cutlet with demi-glace sauce, and a wide variety of ingredients including bamboo shoots and corn''.
+
+==Gallery==
+<gallery>
+FFXIV ARR - Gilgamesh.png|Concept art.
+FFXIV Gilgamesh Surrenders.png|Gilgamesh pretends to surrender.
+FFXIV Yojimbo.png|Gilgamesh as Yojimbo.
+</gallery>
+
+==Etymology==
+{{etym|Gilgamesh}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Gilgamesh]]

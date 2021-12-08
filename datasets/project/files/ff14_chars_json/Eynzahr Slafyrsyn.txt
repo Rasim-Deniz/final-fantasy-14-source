@@ -1,0 +1,73 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Eynzahr Slafyrsyn
+|release=FFXIV
+|japanese=エインザル・スラフィルシン
+|romaji=Einzaru Surafirushin
+|lit=
+|aka=Mistbeard {{j|霧髭|Kirihige}}
+|image=Eynzahr from Final Fantasy XIV.png
+|home=[[Limsa Lominsa]]
+|age=58
+|dob=
+|affiliation=[[Maelstrom (Final Fantasy XIV)|Maelstrom]]
+|occupation=Grand Storm Marshal
+|education=
+|race=[[Roegadyn]]
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=Red
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}<br>{{icon|ffxiv|discipline|musketeer}}
+|abilities=
+|weapon=Axes and Pistols
+|armor=
+|japanese voice actor=Shigeo Kiyama
+|english voice actor=Grant George
+}}
+'''Eynzahr Slafyrsyn''' is a non-playable character from ''[[Final Fantasy XIV]]''. As Grand Storm Marshal of the Maelstrom, he is the right-hand man of Admiral [[Merlwyb Bloefhiswyn]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:FFXIV Eynzahr Slafyrsyn.jpg|thumb|left|]]
+While often seen in the Admiral's presence, he doesn't get much of a role until ''Through the Maelstrom'' where he proposes the idea for confronting [[Leviathan]] on the high seas, adapting an old tactic once used by the pirate Mistbeard. Whereas the legendary pirate once connected two ships to carry a huge plunder, the plan now calls for constructing a barge made from two vessels loaded with corrupted crystals to suppress the primal's power, entitled ''The Whorleater''. To maneuver it into place, Eynzahr commands the tugboat that brings it to the Lord of the Whorl's location. When commended on his knowledge of the pirate Mistbeard, he rather sheepishly brushes it off.
+
+Later, Eynzahr asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] retrieve Mistbeard's coffer from the rediscovered [[Hullbreaker Isle]]. Once the dungeon is completed and the coffer is retrieved, Eynzahr opens it to retrieve a mask. He explains that "Mistbeard" was an identity assumed by many men using this very mask throughout the ages. It is strongly implied he was the most recent bearer of the title, and forsake it and the legacy of Mistbeard on behalf of Merwylb's wishes for a better future, with the role of the legendary pirate supplanted by modern adventurers.{{cite|FFXIV|{{icon|ffxiv|quest|King of the Hull}}|name=King of the Hull}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+When the Maelstrom conduct a decisive operation against the sahagins at Camp Skull Valley, Eynzahr himself joins the battle alongside [[Wheiskaet Rysswoerdsyn]]t , the Warrior of Light, and the [[Broken Mountain]] and [[Curious Gorge]] brothers. After witnessing the strength of the Roegadyn brothers, Eynzahr informs them that the Maelstrom will move forward with its plan to train its troops in the way of the warrior, and that Maelstrom Command has requested that the two brothers be the first two to teach the fledgling warriors.{{cite|FFXIV|{{icon|ffxiv|quest|And My Axe}}|name=And My Axe}}
+
+Eynzahr appears in [[Hullbreaker Isle (Hard)|Hullbreaker Isle]], where he is overseeing a military training exercise for the Maelstrom and the Warrior of Light. Eynzahr himself serves as the final boss of the dungeon. When pressed in battle, he requests Merlwyb's permission to abandon the uniform of the Maelstrom, given that all present are privy to the secret identity of the legendary pirate king. The Admiral grants Eynzahr permission, who then dons the mask, title, and persona of the legendary Mistbeard in friendly combat one last time.{{cite|FFXIV|{{icon|ffxiv|duty|Hullbreaker Isle (Hard)}}|name=Hullbreaker Isle Hard}}
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Eynzahr can be found in [[The Lochs]] alongside Merlwyb as the Eorzean Alliance prepares its final assault to retake [[Ala Mhigo]]. If spoken to, he will jokingly comment that he should have brought his mask along for the upcoming battle.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+When the [[Garlean Empire|Garlean]] forces begin to fracture following the death of Emperor [[Varis zos Galvus]], Merlwyb uses the opportunity to focus her attention on establishing peace with the Kobolds and Sahagin. Eynzahr accompanies her and the Warrior of Light during this process, joining them in battle when necessary.
+
+==Characteristics==
+===Appearance===
+Eynzahr is a male Sea Wolf roegadyn with silver hair and green skin. He wears a Maelstrom uniform with white buckles and cobalt preserves over his eyes.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+{{Main|Hullbreaker Isle (Hard)}}
+{{Section}}
+
+==Behind the scenes==
+===Voice===
+Eynzahr is voiced by [[wikipedia:Shigeo Kiyama|Shigeo Kiyama]] in the Japanese version of the game, and [[wikipedia:Grant George|Grant George]] in the English version.
+
+==Etymology==
+In the Roegadyn language, his name translates to "One Tear, son of Sleeping Fire."
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

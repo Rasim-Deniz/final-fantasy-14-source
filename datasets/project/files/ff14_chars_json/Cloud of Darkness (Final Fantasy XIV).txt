@@ -1,0 +1,70 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Cloud of Darkness (''Final Fantasy XIV'')}}
+{{Infobox character
+|name=Cloud of Darkness
+|release=FFXIV
+|japanese=暗闇の雲
+|romaji=Kurayami no Kumo
+|lit=The Dark Cloud
+|image=FFXIV Cloud of Darkness render.jpg
+|race=[[Voidsent]]
+|gender=
+|age=
+|home=[[World of Darkness (Final Fantasy XIV)|World of Darkness]]
+|affiliation=
+|occupation=
+|type=boss
+|job=
+|weapon=
+|armor=
+}}
+{{Quote|Who disturbs the gloom? Ahhh, mortals from the realm of light. You have not stumbled here without purpose... I am the Cloud of Darkness. What I do not smother, I devour. What I cannot devour, I destroy. The covenant is everlasting. All mortals before the flood of darkness will sink lifeless into the void!|The Cloud of Darkness}}
+The '''Cloud of Darkness''' is a powerful [[voidsent]] in ''[[Final Fantasy XIV: A Realm Reborn]]'', based on the [[Cloud of Darkness|final boss]] of ''[[Final Fantasy III]]''.
+
+She appears in the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] storyline as a disembodied voice speaking from the [[World of Darkness (Final Fantasy XIV)|World of Darkness]] and later appears as the final boss of the storyline.
+
+==History==
+{{Quote|Scholars who study the voidsent have long striven to categorize the fiends by brawn rather than species. The result is popularly known as the twelve-tiered voidsent hierarchy. The voidsent known as the Cloud of Darkness is doubtless in the highest tier of this hierarchy─hence why Emperor Xande entered into a dark covenant with it. In both strength and size, the Cloud is unmatched. A Voidgate of monumental proportions would be necessary for it to enter our realm. Opening such a rift would, in turn, require a power as massive. Enter, then, the Crystal Tower, and the energy it could produce.|NOAH Report: Cloud of Darkness}}
+[[File:Cloud of Darkness Void.png|thumb|left|The Cloud of Darkness introduces itself to Cid and the Adventurer.]]
+Long ago, the resurrected [[Xande (Final Fantasy XIV)|Emperor Xande]] of the [[Allagan Empire]] forged a pact with the Cloud of Darkness to reduce [[Eorzea]] into nothingness, having realized one's achievements will be meaningless upon death. Though Xande died at the hands of the [[Warriors of Light#Final Fantasy XIV|Warriors of Light]], the pact remained. [[Doga (Final Fantasy XIV)|Doga]] and [[Unei (Final Fantasy XIV)|Unei]] attempt to negate it and close the portal leading to the World of Darkness, but the Cloud of Darkness resists and summons Doga and Unei Clones to attack the NOAH group, pulling Doga and Unei into its world.
+
+As the Cloud of Darkness cannot harm Doga and Unei directly as they possess Xande's blood, it resolves to use the other voidsent to kill them. Having been inadvertently dragged in by the Cloud of Darkness, [[Nero tol Scaeva]] protects the two while allowing [[The Void (term)|the void]] to enter his body. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[G'raha Tia]] find the Cloud of Darkness and reduce it into a formless cloud as it makes a final attempt to stop the Warrior's group from escaping the World of Darkness. The Cloud learns G'raha possesses Xande's blood, and is powerless to harm him. Doga and Unei remain to fend the entity off as G'raha returns to Eorzea to end Xande's covenant with the Cloud.
+
+{{Quote|Mortals! You have dared to challenge me, and now must feel my wrath! Did you think to destroy me in ''my'' realm? Here, I am eternal! I will smother your light and entomb your bones amongst my shadows!|The Cloud of Darkness}}
+During the Warrior's adventures in [[the First]], they help [[Ryne]] bring life back to the Empty by fighting versions of the primals from the Warrior's memories to restore the land's elemental aether. When fix elements were not enough as the Aether was being drained, [[Gaia (Final Fantasy XIV)|Gaia]] is influenced by [[Mitron]] to suggest applying darkness aether. Gaia and Ryne work together to create a version of the Cloud of Darkness from the Warrior’s memories to achieve their goal.
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV ShB Cloud of Darkness render.png|thumb|200px|The Cloud of Darkness summoned through Eden's power.]]
+The Cloud of Darkness's appearance is based on her counterpart in ''Final Fantasy III'', being a green-skinned female form with yellow tentacles formed from what appears to be a literal "cloud of darkness". A disembodied voice emanates from a Voidgate shaped similar to the NES map sprite of Cloud of Darkness in ''Final Fantasy III''. Despite being considered genderless, the being is referred to as a "she" in the cutscenes and bears an overall feminine form. When summoned through [[Eden (Final Fantasy XIV)|Eden's]] power in [[the First]], her design is identical to her appearance in ''[[Dissidia Final Fantasy|Dissidia]]'', and is smaller in size.
+
+A [[Minion (Final Fantasy XIV)|minion]] based on her, called the "Puff of Darkness" (available as a rare possible reward upon defeating her), is also derived from [[Cloud of Darkness (Dissidia PSP)|her depiction in ''Dissidia'']].
+
+===Personality===
+The ''Final Fantasy XIV'' version of the Cloud of Darkness refers to itself in singular pronouns. As an embodiment of the concept of nothingness, she fixates on destruction and intends to flood [[Hydaelyn]] with darkness, as per the covenant.
+
+==Gameplay==
+{{Main|Cloud of Darkness (Final Fantasy XIV boss)|World of Darkness (Final Fantasy XIV)|Eden's Promise: Umbra}}
+The Cloud of Darkness is fought at the end of {{icon|ffxiv|duty|the World of Darkness}}. Her attacks derive from both the DS remake of ''Final Fantasy III'', and her moveset in the ''[[Dissidia Final Fantasy]]'' series.
+
+A Primal version of her, resembling her appearance in ''[[Dissidia Final Fantasy NT]]'', appears as boss in {{icon|ffxiv|duty|Eden's Promise: Umbra}} with attacks mostly named after her ''Dissidia'' moveset and her title also a direct reference.
+
+==Musical themes==
+{{audio|title="The Reach of Darkness"|filename=FFXIV Cloud of Darkness.ogg}}
+"The Reach of Darkness" plays during the battle against the Cloud of Darkness in the World of Darkness. It is an orchestral rearrangement of "[[Last Battle (Final Fantasy III)|Last Battle]]" and was composed by [[Masayoshi Soken]].
+
+While fighting the primal version during "[[Eden's Promise: Umbra]]", the music used is a rearrangement of "[[Don't Be Afraid]]" from ''[[Final Fantasy VIII]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV ARR - Cloud of Darkness.png|Artwork.
+Crystal Tower Bosses FFXIV Art.jpg|Artwork of the Cloud of Darkness along with the other bosses of the Crystal Tower.
+Cloud of Darkness XIV.jpg|Early test render of the Cloud of Darkness.
+FFXIV Cloud of Darkness.png|In-game render.
+Eden Cloud of Darkness.jpg|The Cloud of Darkness summoned through Eden's power.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

@@ -1,0 +1,77 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Blue and Red Jongleurs
+|release=FFXIV
+|japanese=青い衣の道化師, 赤い衣の道化師
+|romaji=Aoi Koromo no Dōkeshi, Akai Koromo no Dōkeshi
+|aka=
+|image=FFXIV Blue and Red Jongleur.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Eulmore]]
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur|Hume]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|rogue}} (Blue)<br>{{icon|ffxiv|discipline|red mage}} (Red)
+|abilities=
+|limit break=
+|weapon=
+*Dual daggers (Blue)
+*Rapier (Red)
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Aiko Ninomiya (Red)<br>Yuka Keicho (Blue)
+|english voice actor=Beatriz Romilly (Red)<br>Rosie Jones (Blue)
+|lit=Blue-clad Clown, Red-clad Clown
+}}
+The '''Jongleurs of Eulmore''' are antagonists from ''[[Final Fantasy XIV]]''.
+
+==History==
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+They are fought in a [[Quest Battle|special instance]] at Eulmore.
+
+==Behind the scenes==
+They seem to be based on [[Zorn and Thorn]] from ''[[Final Fantasy IX]]''. Their theme song, however, is the theme of [[Calca and Brina]] who also appeared in the [[Antitower]] dungeon in ''Final Fantasy XIV''.
+
+==Gallery==
+<gallery>
+FFXIV Blue Jongleur.png|Blue Jongleur.
+FFXIV Red Jongleur.png|Red Jongleur.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Red Mages]]
+[[Category:Ninjas]]

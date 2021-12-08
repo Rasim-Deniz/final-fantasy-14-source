@@ -1,0 +1,100 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Genbu (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Genbu
+|release=FFXIV
+|japanese=玄武
+|romaji=Genbu
+|lit=Dark Warrior
+|aka=Black Tortoise
+|image=FFXIV Genbu 01.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=Four Lords
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=[playable=Player character, optional=Optional player character, guest=Guest character, npc=Non-player character, party npc=AI controlled party member, boss=Boss]
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+
+'''Genbu''' is one of the [[Four Lords]] from ''[[Final Fantasy XIV]]''.
+
+==History==
+Genbu is an auspice, a once ordinary animal that attained sentience and godlike powers.  Along with his fellow auspices [[Byakko (Final Fantasy XIV)|Byakko]], [[Suzaku (Final Fantasy XIV)|Suzaku]], and [[Seiryu (Final Fantasy XIV)|Seiryu]], collectively known as the Four Lords, he became the companion of the hero Tenzen.  After many adventures, Tenzen was killed battling the powerful rogue Auspice Koryu, though the Four Lords were able to place a seal on the menace.  Genbu then kept watch over the sealed beast beneath [[Hells' Lid]] for the following centuries.
+
+When the seal on Koryu begins to fail, Genbu decides to seek out the aid of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], by luring them to Hell's Lid.  When the Warrior reaches his location, Genbu engages them in battle as a test and, upon defeat, explains his history.  Genbu subsequently recruits the Warrior of Light, [[Tataru Taru]], and [[Soroban]] to his mission.  He tasks the Warrior in challenging and defeating Byakko, Suzaku, and Seiryu in battle in order to purge them of the aramitama that has begun to corrupt them.  Meanwhile, with Tataru's help, he begins to train Soroban to be able to maintain Koryu's seal.
+
+After the Four Lords are reassembled, they attempt to strengthen the seal on Koryu, only to have the creature free itself and slay Genbu.  However, Soroban allows Genbu's spirit to inhabit his body.  Together with the Warrior of Light and Tenzen's spirit, the Four Lords successfully reseal Koryu.  
+
+Genbu, still co-inhabiting Soroban's body, explains that his spirit will eventually pass on.  However, this may take up to 500 years, which will give him plenty of time to train Soroban to be his successor.  He thanks the Warrior of Light and Tataru for their assistance, and rewards them with a large amount of treasure to refill the [[Scions of the Seventh Dawn|Scions']] coffers.
+
+==Characteristics==
+{{Section}}
+
+==Gameplay==
+Genbu is fought as the final boss of {{icon|ffxiv|duty|Hells' Lid}}.
+
+==Gallery==
+<gallery>
+FFXIV Genbu 02.png
+FFXIV Genbu 03.png
+</gallery>
+
+==Etymology==
+{{etym|Genbu}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Four Lords]]

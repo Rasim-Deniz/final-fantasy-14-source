@@ -1,0 +1,98 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Branden
+|release=FFXIV
+|japanese=ブランデン
+|romaji=Buranden
+|lit=
+|aka=Blanhaerz {{J|ブランへルツ|Buranherutsu}}, Dikaiosyne {{J|ディカイオシュネー|Dikaioshunē}},<br/>Knight of Darkness {{J|闇の魔剣士|Yami no Makenshi|Demon Swordsman of Darkness}}
+|image=FFXIV HW Branden.png
+|home=[[The First]]
+|age=
+|dob=
+|affiliation=[[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]
+|occupation=Hero of the First<br>Knight of Darkness
+|race=Galdjent
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|paladin}}
+|weapon=
+|armor=
+|ultimate weapon=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|I've died before, Arbert. I'm not afraid to die again.|Branden}}
+'''Branden''', also known as the '''The Knight of Darkness''', is a character from ''[[Final Fantasy XIV]]''. He is a member of the the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]].
+
+During his time on the [[Hydaelyn|the Source]], Branden went under the alias of '''Blanhaerz'''.
+
+==History==
+===Early life===
+[[File:FFXIV ShB Branden and Sauldia 2.png|thumb|Branden and Sauldia.]]
+As a young recruit, Branden caught the eye of the princess [[Sauldia]], who handpicked him to serve as her protector as she embarked on an investigation into a series of mysterious incidents in which innocent souls were irrevocably transformed into malformed beasts. Branden served as the princess's bodyguard for a time, until he failed in his duty to protect her during one of her many “investigations.” 
+Though she would make a full recovery, Branden was nevertheless stripped of his knighthood and cast out. 
+
+During his travels, Branden befriended [[Ardbert]] and his companions—[[Lamitt]], [[Renda-Rae]], [[Nyelbert]] and [[Cylva]]. Together, they return to Voeburt and seek to identify the culprit behind the mysterious transformations that continued unabated in Branden's absence. They discovered it was [[Tadric]], court mage and loyal servant of the royal family, was the architect of Voeburt's misery. Consumed by pride and jealousy, he had orchestrated the transformations in an effort to throw the kingdom into chaos that he might claim Voeburt's throne for himself. Though the Warriors of Light succeeded in putting an end to Tadric ambitions, Tadric in a final act of spite before he breathed his last, cursed Sauldia like he had so many others, condemning her to a fate worse than death. Branden then gives Sauldia the rest and upon receiving his crystal of light, he awakens as one of the Warriors of Lights.
+
+Branden and his companions traveled across the realm vanquishing evil, eventually coming to blows with one of their own, Cylva, who revealed herself as the Shadowkeeper and ally to the [[Ascian]]s. Ardbert spared her life, unable to kill someone he could call a close friend. They turned their weapons against the Ascians, [[Mitron]] and [[Loghrif]].  With their deaths a [[The Flood|Flood of Light]] came crashing down on [[the First|their world]], eradicating all life in its wake. To save their world, the Warriors were approached by the Ascian [[Elidibus (Final Fantasy XIV)|Elidibus]] who offered them a chance to save their world by journeying to [[Hydaelyn|the Source]], telling them that by causing a [[Umbral Calamity|Calamity]] they could halt the Flood. Doing so, however, would require them to sacrifice their corporeal forms, leaving them as souls that would nonetheless have a physical and tangible presence.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV WoD.png|thumb|left|The Warriors of Darkness.]]
+With Elidibus's help, the warriors arrive on the [[moon]] of the Source world where [[Zodiark (Final Fantasy XIV)|Zodiark]] lays dormant. To save their world, a shard of the Source world known as [[the First]], the Ascian tells the warriors they must sow chaos by slaying [[primal]]s and, should they come across them, the Source's [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. To that end, each of Ardbert's party becomes a Warrior of Darkness. To blend in with the unfamiliar world, each takes up a pseudonym, Branden calling hiself Blanhaerz.
+
+Their first primal encounter is against [[Ravana (Final Fantasy XIV)|Ravana]]. They encounter the Warrior of Light and their companions, and introduce themselves by fighting them. Thanks to the timely intervention of a [[Thancred Waters|skilled Rogue]], the group retreats, but not before revealing who they are. Sometime later, the Warriors of Darkness are told of the summoning of a primal at the top of Xephatol with a new [[Urianger Augurelt|masked mage]] at their side. They are too late as the Warrior of Light had slain the priest who attempted the summoning, accompanied by a familiar-looking youth.
+
+A final confrontation at the [[The Bowl of Embers|Bowl of Embers]] reveals to the [[Scions of the Seventh Dawn]] that the Warriors of Darkness offered up their lives in their own world to travel here. When they begin to use their crystals of light, the Warrior of Light draws upon their own and transports them all to the realm of [[Hydaelyn (character)|Goddess Hydaelyn]]. Here Ardbert attempts to strike down [[Minfilia Warde|Minfilia]] when she offers to save the First, but is stopped, and promises to return they to the First with her.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV ShB Dikaiosyne.png|thumb|Dikaiosyne.]]
+Back in The First, Minfilia uses the souls of the Warriors of Darkness to stop the Flood of Light, except for Ardbert's soul. Branden's body became Cardinal Virtue Dikaiosyne, a powerful [[sin eater]] who is attacking without mercy and recovering the Voeburtite treasures that were looted. In search of The Fangs of Orthus, Dikaiosyne attacks [[Kholusia#Wright|Wright]] and turns Milinda who had possession of the treasure into a sin eater.
+
+Once the Warrior of Light travels to [[Norvrandt]], he assists [[Granson]]—Milinda's husband—on his journey to hunt Dikaiosyne and get revenge against him for turning his wife into a sin eater. During the journey, the duo learns about Branden’s past. After reflecting on the tale, Granson was convinced that he would have nothing to gain from the role of a vengeful hero, since Branden was also a victim. Granson then decides to end this tale and let the spirit of Milinda and Branden rest and move on. Satisfied with the answer, [[Sul Oul]] reveals the location of Claws of Orthus. 
+
+Once with the relic, the duo ambushes and confronts Dikaiosyne one last time. After being defeated, Branden begins to fade into motes of aether and a fragment of his memory resonates revealing that despite everything he was at peace.
+
+After the Ascian [[Emet-Selch]] is defeated, the spirit of Branden and his companions are seen one last time in [[Crystarium (Final Fantasy XIV)|Crystarium]] to be reunited with the spirit of Ardbert.
+
+==Characteristics==
+===Appearance===
+Branden is identical in appearance to the [[:File:CGArtwork RealmReborn4.png|male Roegadyn]] from the ''A Realm Reborn'' promotional material, though his gears is blacked.
+
+{{spoiler}}
+Upon becoming the Cardinal Virtue Dikaiosyne, his appearance remains the same, though he has black and red eyes, plaster-like white skin, and his body is surrounded by a ghastly white glow.
+{{Endspoiler}}
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+During Patch 3.4 Soul Surrender, Branden is fought as the Knight of Darkness alongside other Warriors of Darkness during the quest {{icon|ffxiv|quest|One Life for One World}} in a [[Quest Battle|Special Instance]].
+
+[[FIle:FFXIV ShB Branden role-play.png|thumb|Branden in role-play mode.]]
+In ''Shadowbringers'' expansion, Branden is temporarily playable during the tank role quest {{icon|ffxiv|quest|The Hardened Heart}}.
+
+Branden is fought one last time as Dikaiosyne in final tank role quest {{icon|ffxiv|quest|To Have Loved and Lost}}.
+
+==Gallery==
+<gallery>
+FFXIV Warriors of Darkness.png|Artwork.
+FFXIV ShB Branden and Sauldia.png|Branden fails to protect the princess Sauldia.
+FFXIV ShB Ardbert party.png|Ardbert's party.
+FFXIV Warriors Of Darkness In Game.png|Appearing in the Source.
+FFXIV ShB Branden spirit 3.png|Branden appears after being defeated.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Guest characters]]
+[[Category:Roegadyn]]
+[[Category:Paladins]]
+[[Category:Antagonists]]

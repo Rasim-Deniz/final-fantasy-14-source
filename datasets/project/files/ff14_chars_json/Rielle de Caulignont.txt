@@ -1,0 +1,62 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Rielle De Caulignont
+|release = FFXIV
+|japanese =リエル
+|romaji =Rieru 
+|aka=Rielle the Voiceless
+|image =FFXIV Rielle De Caulignont.png 
+|home=[[Ishgard]]
+|race = [[Elezen]]
+|gender = Female
+|height = 
+|hair = Light Green
+|eye = Light Green
+|designer = 
+|age = 
+|job = {{icon|ffxiv|discipline|conjurer}}
+|weapon =Wand of Tremors 
+|armor = 
+|affiliation = 
+|occupation = 
+|type=npc
+|abilities=Cure, Stone}}
+
+'''Rielle de Caulignont''' is a character from ''[[Final Fantasy XIV: Heavensward]]''. She is a young Elezen girl in the care of [[Sidurgu]], and plays a role in the [[Dark Knight (Final Fantasy XIV)|Dark Knight]] job quests.
+
+== History ==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Rielle was born to Countess [[Ystride de Caulignont]], a pious woman devoted to [[The Twelve#Halone, The Fury|Halone]]. When it came out that her father was a heretic wanted by the Temple Knights, one who had been partaking dragonsblood for years, Ystride came to view her daughter an abomination due to inheriting traits of her father's heretic blood. She had her locked away in a windowless cell until her plight came to the attention of [[Sidurgu]] and [[Fray]], the latter of which was ultimately slain by Temple Knights in a trial by combat. Having inherited Fray's soul crystal, the Warrior of Light was eventually sought out by Sidurgu, who believed he could not look after Rielle by himself, though he was not initially aware of her relationship to Ystride.
+
+Seeking to understand why the Temple Knights' deemed her an abomination, they sought out a Vanu Vanu shaman to examine her aether. The shaman could only mention a "great spirit" dwells within her, before being interrupted by another contingent of Temple Knights. Unsure of what the shaman meant by "great spirit," Sidurgu decides to contact the experts: the Seedseers of [[Gridania]]. After safely escorting Rielle into the Black Shroud, they meet with Brother [[E-Sumi-Yan]] of Stillglade Fane. The padjal concludes that she has properties similar to that of elementals - or perhaps, Dravanians - thus explaining her aptitude for conjury. Sidurgu is taken aback by the suggestion she might have partaken dragons' blood, though she denies having ever done so or accused of it.
+
+Following up on the Seedseer's words, Sidurgu decides to consult one of the dragons themselves. The Warrior of Light introduces them to [[Vidofnir (Final Fantasy XIV)|Vidofnir]], who directs them to a dying dragon in Mourn. The female dragon claims her beloved's spirit resides within Rielle, though concludes the girl did not acquire it willingly. Sidurgu realizes that the Temple Knights will never give up pursuit given this information, and wishes he better understood the "flame in the abyss" to protect her. Before they leave, the dragon mentions that the "[[Moogle (race)|tiny beings]]" who live in the Churning Mists know a better way.
+
+Returning to the Forgotten Knight, Countess Ystride confronts them and issues her ultimatum: either submit to a trial by combat or she will have the tavern burned down. As Ystride leaves, Rielle calls out to her mother. Sidurgu is angered that she never revealed this detail after all this time. With time running out, Sidurgu eventually decides to consult the enigmatic moogles the dragon mentioned. Arriving at Moghome, he and the Warrior of Light are tasked with cryptic chores while Rielle stays with them. Rielle eventually confronts Sidurgu on his motivations: that he only protects her because it is an excuse to kill the Temple Knights. He realizes he wasn't being honest with himself.
+
+Eventually, Ystride summons them to the [[Coerthas Western Highlands]] for the trial by combat. Near the frozen Banepool, the Countess reveals her disdain for her daughter when she remarks her resemblance to her heretical husband, and believes killing her is the only path of absolution in the eyes of Halone. Sidurgu, Rielle, and the Warrior of Light fend off waves of Temple Knights, until Ystride is forced her hand. Ultimately bested in combat, she declares she will never cease hunting her daughter down. Rielle realizes her mother always loved Halone more than her own daughter. As Sidurgu prepares to deliver a killing blow, Rielle issues last rites for her mother, hoping she'll find peace within the Fury's halls.
+
+== Characteristics ==
+=== Appearance ===
+Rielle is a young Wildwood Elezen girl with light green hair and eyes. She wears a highland smock with boots, and milita tights. when defending herself she uses a Wand of Tremors.
+
+=== Personality ===
+Rielle is a shy quiet girl when first meeting the Adventurer, but she worries about Sid because he's always taking risks, and wishes he will listen to her and speak with her more, instead of going off on his own returning with injuries. She seems to have respected Fray to some degree as she believes he was good at teaching her conjuration magics and considers him to be her friend.{{cite|FFXIV|The Knight and the Maiden Fair}} At times she will say how Fray would have loved the places they are traveling to{{cite|FFXIV|Original Sins}} and reminisces on stories Fray used to tell her of the conjurers at Stillglade Fane. {{cite|FFXIV|Kindred Spirits}}
+
+During her travels with Sid she becomes more annoyed at how he acts in the name of helping her, but deep down he is doing it for his master and his search for the flame in the abyss. After her confrontation with him in moghome, she becomes more open in speaking her mind and makes her own decisions.
+
+== Gameplay ==
+Rielle appears as an allied NPC in several [[Quest Battle|special instances]] such as {{icon|ffxiv|quest|Kindred Spirits}}, {{icon|ffxiv|quest|Absolution}}, and {{icon|ffxiv|quest|The Orphans and the Broken Blade}}. She will heal the player and Sid using conjuration magic, while also attacking with Stone.
+
+== Gallery ==
+<gallery>
+File:Rielle eating an apple.png|Rielle eating an apple in Gridania.
+File:Rielle in Combat.png|Rielle in Combat.
+</gallery>
+
+==References==
+{{citations}}
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = 789th Order Pickman Gi Gu
+|release = FFXIV
+|japanese=ピックマン789 ギ・グ
+|romaji=Pikkuman 789 Gi・Gu
+|image =FFXIV Gi Gu.png
+|race = [[Kobold]]
+|home=[[Outer La Noscea|789th Order Dig]]
+|gender = Male
+|eye = Red
+|age=19
+|job = 
+|weapon = 
+|armor = 
+|affiliation=789th Order
+|occupation=Miner
+|type=npc
+}}
+'''789th Order Pickman Gi Gu''' is a non-player character from ''[[Final Fantasy XIV]]''. A spineless and timid kobold, he is the "leader" of the 789th order dig site.
+
+== History ==
+[[File:FFXIV ARR Gi Gu.png|thumb|left|Gi Gu offers the minerals to Zo Ga.]]
+Located at the bottom-most rung of Kobold society, Gi Gu more-or-less leads a ramshackle group of slackers who eschew the concept of hard work. His dithering and highly submissive nature leaves him vulnerable to bullying from the industrious 13th Order Fugleman [[13th Order Fugleman Zo Ga|Zo Ga]]. Following a haphazardous act of highway robbery near the village of [[Western La Noscea#Swiftperch|Swiftperch]], his dig site comes under the attention of both the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and Storm Lieutenant [[Skaetswys]]. He reveals they've been largely exiled from [[O'Ghomoro]] due to being unable to meet the quotas set upon them by their betters; Zo Ga being especially harsh, as he threatens to have the 789th order wiped out.
+
+Determined to get them to stand up for themselves, Skaetswys takes it upon herself to convince them to pull themselves out of their rut. Gi Gu, for his part, sheepishly asks the Warrior of Light to lend a hand at the dig site. Eventually, with the aid of Skaetswys and Warrior of Light, he is able to defeat his rival, Zo Ga, though this does not do much to change his lazy ways.
+
+He later allies with [[Frixio]], [[Hamujj Gah]], [[Sezul Totoloc]], and [[Novv]] to form the Beastman Alliance, in order to defeat [[Memeriga]] and [[Nhaza'a Jaab]].
+
+== Characteristics ==
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Kobolds]]

@@ -1,0 +1,83 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:2B (''Final Fantasy XIV'')}}
+{{infobox character
+|name=2B
+|release=FFXIV
+|japanese=ツービー
+|romaji=Tsūbī
+|lit=
+|aka=YoRHa No.2 Type B
+|image=2B from Final Fantasy XIV render.png
+|affiliation= YoRHa
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Android
+|gender=Female
+|height= 168cm
+|weight= 148.8kg
+|hair=Silver
+|eye=Grey
+|type=npc
+|weapon= Virtuous Contract
+<!--Behind the scenes info -->
+|original appearance= ''NieR:Automata''
+|designer= [[Yoko Taro]]
+|japanese voice actor=
+|english voice actor=
+}}
+'''2B''' is a non-player character from ''[[Final Fantasy XIV]]''. She appears in the ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]'' expansion as a character for the [[YoRHa:Dark Apocalypse]] alliance raids' storyline.
+
+==History==
+2B makes a timely intervention to protect [[Anogg and Konogg]] from the rogue android [[2P]]'s attack. As 2P escapes with her android army clad in white, Konogg asks if 2B plans on attacking them as well, since she looks exactly like 2P. 2B says that her priority is dealing with 2P, and she chases the androids into the desert area behind the mountains.
+
+2B chases 2P on a flight unit, insisting that this is her fight and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] should not follow her. They reunite with her inside the deepest chambers of the Bunker, where she has been injured after fighting a spheroid enemy called The Compound. After the construct is defeated, it manifests as a new threat called Compound 2B, which is eliminated by the Warrior of Darkness for good.
+
+As Konogg reflects on the destruction caused by their ignorance, 2B says that the conflict had spread this far due to her mistakes, having been injured by the hostile androids back on her own world. She explains the purpose of androids and the combat against alien invaders, and that androids like 2P were specifically made by the aliens to fight YoHRa. She returns with the party to Anogg’s lair, where [[9S (Final Fantasy XIV)|9S]] lays unconscious. 
+
+As she looks over 9S, she overhears a commotion in the caverns outside the lair. She leaves to see [[Glagg]] trying to hold Anogg and Konogg accountable for the destruction, which 2B insists is pointless to do as she is responsible. She brandishes her sword to defend the twins, making Glagg and the residents of [[Kholusia#Komra|Komra]] flee. She returns to 9S to gather his body, saying that she will be leaving so that he may recover and she can continue her investigation.
+
+Some time later, the [[Dig Site Chief]] joins the Warrior of Darkness inside the Puppet's Bunker, where they find Konogg unconscious, and surrounded by copies of 2P that have manifested from an unknown sphere. 2B, 9S, and Anogg arrive, having reunited and working together after they found out 2P's plan to unleash an alien invasion into the world. The copies of 2P vanish into the sphere, which blinks out of sight, creating a white tower from the ruins of the Bunker outside. The party scales the tower, known as the Tower at Paradigm's Breach, to confront the enemy responsible, discovering the [[Red Girl (Final Fantasy XIV)|Red Girl]] and her clone puppets. After manifesting into a giant 2B and Red Girl fusion known as Her Inflorescence, 2B sacrifices herself alongside 9S and Anogg to close the rift between worlds, sealing themselves on the other side to keep the invasion at bay.
+
+Konogg discovers while on his pilgrimage that 2B and 9S knew they would have to sacrifice themselves to close the rift, infiltrating 2P's android army in order to establish physical copies of themselves on the [[The First|current world]].
+
+==Characteristics==
+===Appearance===
+2B's appearance is based on her appearance in ''NieR:Automata''. She is an android, but is visually the same as a Midlander [[Hyur]] woman. Her eyes are concealed with a combat visor in battle, and she dons a black hairband on her short, white hair. She wears a black dress with a slit on the chest, feathered fringes on the sleeves and stylized fringes on its skirt. She wears white wristbands alongside her black gloves. She wears thigh-high boots along with black stockings. She is accompanied by her support pod, Pod 042.
+
+===Personality===
+2B's personality is taciturn and stoic as befitting that of a leader who commands her fellow androids. Quick and to the point, 2B issues her orders and proclaims her goals without hesitation. Her calm and collected demeanor allows her to hide traces of her emotions.
+
+==Gameplay==
+2B is present in The Puppet's Bunker, though she does not fight alongside the players outside of the final cutscene against The Compound.
+
+She fights as an ally NPC in The Tower at Paradigm's Breach alongside 9S. She is not associated with any gameplay class and instead uses abilities of hers from ''NieR:Automata''. Her animations are taken directly from ''NieR:Automata'', which gives her a unique walking animation. In combat, she calls out mechanics for players to follow, and cannot be slain by enemies. Players can use 2B's invulnerability to their advantage by positioning themselves next to her in order to dodge certain flying projectile attacks.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = 2B
+|image = [[File:2B_Triple_Triad_Card.png]]
+|number = 308
+|total = 28
+|type = None
+|description = Officially “YoRHa No.2 Type B,” this black-clothed android's resemblance to 2P is only superficial. In truth, the white-garbed androids and other machine lifeforms are her mortal enemies, the destruction of which she has gone to great lengths to pursue. Her apparently close bond with android 9S cannot but give rise to curiosity...
+|obtain = Clear The Tower at Paradigm's Breach.
+}}
+
+==Behind the scenes==
+2B's uniform is obtainable as various class gear drops in {{icon|ffxiv|duty|copied factory}} for female characters only. Her regular outfit is also available as glamour gear for both males and females, and it also drops in the Copied Factory.
+
+Several items relating to 2B are available as item drop in the other ''Dark Apocalypse'' raids: A [[Minion (Final Fantasy XIV)|minion]] in her likeness is available in the {{icon|ffxiv|duty|puppets' bunker}}. Her Triple Triad card drops from {{icon|ffxiv|duty|tower at paradigm's breach}}, as well as a unique hairstyle based on her iconic bob cut (available for both males and females), as well as a furniture item used for player [[Housing|housing]] featuring 9S and 2B as stuffed plushies.
+
+==Gallery==
+<gallery>
+FFXIV 2B.png|In-game model render
+FFXIV 2B Unmasked.png|In-game model render
+FFXIV 2B Copies.png|Copies of 2B in the Copied Factory
+FFXIV 2B and 9S.jpg|2B and 9S at the entrance of the Puppet's Bunker
+FFXIV Wind up 2B.png|Wind-up 2B
+</gallery>
+
+{{Section}}
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]

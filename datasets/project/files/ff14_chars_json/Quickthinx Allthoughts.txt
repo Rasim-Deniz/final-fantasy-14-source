@@ -1,0 +1,68 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Quickthinkx Althoughts
+|release=FFXIV
+|aka=
+|image=FFXIV Quickthinkx Althoughts.png
+|home=
+|age=
+|affiliation= [[Illuminati]]
+|occupation= Illuminati leader
+|education=
+|hobby=
+|loves=
+|hates=
+|treasure=
+|sign=
+|race= [[Goblin (Final Fantasy XIV)|Goblin]] cyborg
+|gender= Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+|footsize=
+|type=npc
+|job={{icon|ffxiv|discipline|musketeer}}
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|japanese=万能のクイックシンクス
+|romaji=Ban'nō no Kuikkushinkusu
+|lit= Quickthinx the Omnipotent}}
+
+'''Quickthinx Allthoughts''' is a [[Non-player character|non-playable character]] [[Goblin (Final Fantasy XIV)|goblin]] from ''[[Final Fantasy XIV]]''. The mastermind of the [[Illuminati]], he is the antagonist of the [[Alexander (Final Fantasy XIV)|Alexander]] storyline introduced in the ''[[Final Fantasy XIV: Heavensward]]'' expansion.
+
+==History==
+[[File:FFXIV Quickthinkx.png|thumb|left|Quickthinkx witnesses the Warrior of Light entering Alexander Midas.]]
+Quickthinx Allthoughts came across the ''Enigma Codex'' that included the plans for a walking citadel that could sustain many scholars as they studied the realm. For a nomadic race like the goblins, the idea was appealing. The Illuminati have little to no regard for the lives of others, and so Quickthinx had no qualms about summoning a [[primal]] to power the citadel.
+
+[[File:FFXIV Quickthinkx Warmech.png|thumb|Quickthinkx battling the adventurers with a warmech.]]
+As the adventurer infiltrates the primal fortress to shut it down, Quickthinx deploys numerous goblin soldiers and mecha to halt the invasion. He even confronts the adventurer in combat personally, piloting a goblin tank. Though he is defeated in battle, he escapes and later claims that he was feigning defeat in order to further his ultimate goals. He is later able to steal the final piece of the Enigma Codex, a relic needed to activate Alexander, from the adventurer's group by seemingly being able to predict the future. This ability is revealed to be due to the fact that Alexander has the ability to control time itself. He is also able to capture [[Roundrox]], a young goblin that is capable of controlling the Enigma Codex, and by extension, Alexander. With everything he needs in his hands, Quickthinx addresses his Illuminati underlings and reveals his plans of using Alexander to rewrite history, creating a perfect world that he controls.
+
+When the Adventurer and their companions breach Alexander in order to rescue Roundrox, Alexander activates, and temporarily sends them back in time three years. While in the past, the book that recorded their deeds concerning Alexander is lost. It is soon revealed that Quickthinx found this record three years ago, and used it to gain knowledge of the future and form his plans for Alexander, thus creating a time loop.
+
+After rescuing Roundrox and defeating the guardians that barred their path, the Adventurer's group is able to finally confront Quickthinx in Alexander's control room. Quickthinx reveals that he is capable of controlling the Enigma Codex himself, having only needed Roundrox as a safety precaution, and attempts to activate Alexander's time travel abilities. Before he can finish, he is surprised by Mide, who shoots him in the head, seemingly killing him. However, he survives due to his extensive cybernetics and tries one last time to activate Alexander. To his surprise, Alexander refuses his commands, causing the Enigma Codex to explode which kills Quickthinx for good.
+
+==Characteristics==
+===Appearance===
+{{Character section|Final Fantasy XIV}}
+
+===Personality===
+Quickthinx is an unscrupulous scholar willing to use lethal force to seize control of all technology on [[Hydaelyn]]. Possessing an extreme sense of elitism, he is perfectly content with Alexander draining the world's [[aether]] while he and his fellow Illuminati live on inside the walking citadel. He also callously kills off an informant once their usefulness is over. He has a small black cat named Shanoa as a pet, who is his constant companion and assists him in battle.
+
+He seems to have knowledge of future events, and claims to be a prophet chosen by time itself. While his Illuminati underlings believe this fanatically, it is unclear whether Quickthinx himself truly believes it or not.
+
+While not stated, it is implied he had not-so-polite things to say about the Warrior of Light on Illuminati's communication channels in response to the infiltration.
+
+==Gameplay==
+Quckthinx is fought as the boss in the instanced dungeon {{icon|ffxiv|duty|Alexander - The Arm of the Son}}, part of the Alexander raid, as well as the hard mode version of the dungeon, Alexander - The Arm of the Son (Savage).
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Goblins in Final Fantasy XIV]]

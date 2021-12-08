@@ -1,0 +1,52 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Loonh Gah
+|release = FFXIV
+|japanese =ルーン・ガー 
+|aka=U'loonh
+|image = FFXIV Loonh Gah.png
+|race = Seeker of the Sun [[Miqo'te]]
+|gender = Female
+|height = 
+|hair = Mint-green
+|eye = Red
+|designer = 
+|age =
+|job = {{icon|ffxiv|discipline|archer}}
+|weapon = Ul'dahn Longbow
+|armor = custom Demagogue Mask (mask)<br>custom Light Steel Galerus (top)<br>Fingerless Raptorskin Gloves (gloves)<br>custom Light Steel Subligar (pants)<br>custom Mercenary's Leggings (boots)
+|romaji =Rūn Gā 
+|affiliation = Brotherhood of Ash<br>U tribe (formerly)
+}}
+{{Quote|As long as the flames of their infernal god burn, our war will not end.|Loonh Gah}}
+
+'''Loonh Gah''' is a non-playable character from ''[[Final Fantasy XIV]]''. She appears in the [[Amalj'aa]] storyline.
+
+==History==
+===Early life===
+Born U'loonh of the U tribe, one day when she was still a child, her mother was captured by the Amalj'aa worshipers of Ifrit and imprisoned. She herself was discovered wandering through the desert alone by [[Hamujj Gah]] who offered her a place in the Brotherhood of Ash if she was willing to fight to survive. She accepted and took up her new identity as Loonh Gah, donning a mask given to her by Hamujj Gah as a symbol of her will and resolve.  As a warrior of the Brotherhood of Ash, her soul burns bright with the pride of the Amalj'aa.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Initially Loonh is reluctant to accept the adventurer into the Brotherhood of Ash and even upon recognizing the adventurer's martial abilities she remains wary of them. Gradually through various missions she begins to accept the adventurer as a comrade and her faith in the adventurer is further strengthened when Loonh is aided in rescuing her mother from the hostile Amalj'aa. Though her mother has been severely mentally damaged by the tempering of the Amalj'aa to the point of insanity, Loonh is grateful that her mother is alive and can at least be returned to her home where the U tribe can look after her. As a show of her trust to the adventurer she briefly explains her heritage and removes her mask only to run away embarrassed.
+
+==Characteristics==
+===Appearance===
+She is a Seeker of the Sun [[Miqo'te]] with mint green hair. She wears a wooden mask to cover her entire face.
+
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+Loonh_Gah.png|Loonh Gah.
+Loonh_Gah_Drake.png|Loonh Gah and her pet drake.
+FFXIV Unmasked Loonh Gah.png|Unmasked Loonh Gah.
+FFXIV Loonh Gah Private Cloth.png|Private outfit.
+FFXIV Loonh Gah 2.png
+FFXIV Loonh Gah 3.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Rangers]]

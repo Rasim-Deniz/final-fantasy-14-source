@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Rhoswen Leach
+|release = FFXIV
+|japanese =ローズウェン・リーチ 
+|romaji =Rōzuuen Rīchi 
+|image =FFXIV Rhoswen Leach.png
+|race = [[Hyur]]
+|gender = Female
+|height = 
+|hair = Blonde
+|eye = Silver
+|designer = 
+|age = 36
+|affiliation =[[Sanguine Sirens]]
+|occupation =Captain
+|type=npc
+|job={{icon|ffxiv|discipline|musketeer}}
+|weapon=
+|armor=
+}}
+'''Rhoswen Leach''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the pirate captain of the [[Sanguine Sirens]]. She and her crew run at the Missing Member tavern in [[Limsa Lominsa]].
+
+== History ==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+Rhoswen is seen conversing in secret with [[Carvallain de Gorgagne|Carvallain]] in an [[Echo (Final Fantasy XIV)|Echo]] vision when [[Rostnsthal|Sthalmann]] leads the [[Knights of the Barracuda]] to capture [[Emerick]] in Astalicia. After questioning whether Emerick had really betrayed them, Rhoswen leads the Sanguine Sirens in an attack on Mealvaan's Gate in an unsuccessful attempt to locate him.
+
+In the present, Rhoswen is often seen arguing with Carvallain about which of the two factions should rule Limsa Lominsa. 
+
+During the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]], Rhoswen had initially ignored [[Merlwyb Bloefhiswyn|Merlwyb]]'s order of retreat at Carteneau, hellbent on seeking vengeance against the [[VIIth Imperial Legion]]. Carvallain had physically restrained her and forced retreat, to her chagrin.<ref>''Tales from the Calamity''</ref>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Rhoswen is featured in an early low-level Limsa Lominsa quest. She reveals their efforts to seize Imperial cargo vessels are not very successful on account of their rivals, the Kraken's Arms, are getting the goods first. The play must use certain emotes to encourage her to spirits.
+
+Like Carvellain, she declines an invitation to join [[Alphinaud Leveilleur|Alphinaud's]] Crystal Braves.
+
+== Characteristics ==
+=== Appearance ===
+Rhoswen is a female midlander [[Hyur]] with blonde hair. She is garbed in a red buccaneer outfit.
+
+=== Personality ===
+She has a very rough and headstrong personality, and very proudly declares her crew to be real buccaneers. She seems to have a hatred for Captain Cavallain for him differing on how pirates should act. However, it is hinted she actually has romantic feelings towards the Elezen captain, which she tries to hide under the pretense of rivalry.
+
+==References==
+{{citations}}
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Gunners]]

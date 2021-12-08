@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Marcelloix
+|release=FFXIV
+|japanese=マルセロア 
+|romaji=Maruseroa 
+|lit=Marselwa
+|image=FFXIV Marcelloix.png
+|home=[[Ishgard]]
+|affiliation=
+|occupation=Craftsman
+|race=
+*[[Elezen]] (formerly)
+*[[Dragon]]
+|gender=Male
+|hair=
+|eye=
+|age= 
+|type=npc
+}}
+'''Marcelloix''' is a non-playable character from ''[[Final Fantasy XIV]]''.
+
+==History==
+Marcelloix used to support his family—[[Audaine]] and his daughter [[Noalle]]—as an craftsman, but disillusioned with the people's hunger, Marcelloix decided to leave [[Ishgard]] and follow [[Ysayle Dangoulain|Lady Iceheart]]. When he completed his transformation into a dragon, the war was over. Unable to return to his original form, Marcelloix wandered aimlessly until he encountered [[Ehll Tou]]. 
+
+[[File:FFXIV Marcelloix ishgard.png|thumb|left|Marcelloix and Ehll Tou trying to enter Ishgard.]]
+Ehll Tou encouraged Marcelloix to return home and make peace with his family. The two are barred at the entrance to the Holy See. [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] volunteers to take Marcelloix and Ehll Tou under his care and take responsibility for anything that happens. Francel informs the residents of the [[Firmament]] about the presence of his dragon guests even though he knows that their presence is not welcome.
+
+Following a suggestion from Francel. Marcelloix uses his craftsman skills to make gifts for his family and other residents, winning over even the residents who expressed their disapproval for him. Audaine says she wants to give her husband a second chance, even if forgiveness does not come overnight.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Behind the scenes==
+Marcelloix shares his name with [[Marcelloix (Gridania)|another character]] introduced in [[Carpenter]] questline in original ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''. Although both are craftsmen, there does not appear to be any link between them.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

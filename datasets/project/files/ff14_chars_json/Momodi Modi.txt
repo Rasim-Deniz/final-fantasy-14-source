@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{Infobox_character
+|name = Momodi Modi
+|release = FFXIV
+|japanese = モモディ・モディ
+|romaji = Momodi Modi
+|image = Momodi from Final Fantasy XIV.png
+|race = [[Lalafell]]
+|gender = Female
+|hair = Red
+|eye = Red
+|age = 44 
+|affiliation = Adventurers' Guild
+|occupation = Tavern Owner
+|type=npc
+}}
+{{Quote|The straight-talking owner of the Quicksand, Ul'dah's premier destination for travelers, Momodi offers advice to adventurers new to Thanalan. A fountain of gossip and information, Momodi's bar is often frequented by those seeking the latest rumor or bawdy tale.|Official description}}
+'''Momodi Modi''' is a non-playable character from ''[[Final Fantasy XIV]]'', she is a [[Lalafell]] who works at the Adventurer's Guild in [[Ul'dah]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' ===
+When the [[Warrior of Light (Final Fantasy XIV)|adventurer]] arrives in [[Ul'dah]], Momodi acts as a guide suggesting that the adventurer visits several guilds and often communicates with him via a linkshell.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Momodi reprises her role as owner of the Quicksand, assisting new adventurers of the [[Paladin (Final Fantasy XIV)|Gladiator]], [[Monk (Final Fantasy XIV)|Pugilist]], and [[Black Mage (Final Fantasy XIV)|Thaumaturge]] disciplines and guiding them through Ul'dah.
+
+==Characteristics==
+[[File:Momodi 1.0 from Final Fantasy XIV.png|thumb|100px|Momodi render in version 1.0.]]
+===Appearance===
+Momodi is a Dunesfolk lalafell with red hair and red eyes, and wears a woolen shirt and pants. Unlike her [[Miounne|Gridanian]] and [[Baderon Tenfingers|Lominsan]] counterparts, Momodi's outfit was relatively unchanged between the original release and ''A Realm Reborn'', the only difference being the addition of some jewelry adorning her hair.
+
+===Personality===
+Momodi is often seen aiding others to seek her sage advice, and is known to enjoy those troubled by the heart. Although she gives advice she does so with caution due to a bad past experience.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Momodi is a npc available for Triple Triad matches added in patch 2.51. She is located at [[Ul'dah - Steps of Nald]] (11.6, 9.6). To challenge her the player needs to complete the {{icon|ffxiv|quest|A Wild Rose by Any Other Name}} quest. 
+
+The matches have the Match Rule Three Open. The possible reward for defeating her is {{icon|ffxiv|item|Momodi Modi Card}}.
+
+{{Card FFXIV
+|name = Momodi Modi
+|image = [[File:FFXIV TT Momodi Modi.png]]
+|number = 28
+|total = 20
+|type = None
+|description = "Course, I ''do'' enjoy hearin' a lady muse on the many manhoods of her acquaintance from time to time..."
+|obtain = Random drop from {{icon|ffxiv|item|Gold Triad Card}}<br/>Won from Momodi, Ul'dah - Steps of Nald (11, 9)
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+Momodi appears in ''Final Fantasy Trading Card Game'' as Earth-elemental Backup cards.
+
+<gallery>
+Momodi TCG.png|Momodi [12-074R] Chapter series card.
+Momodi 5-094R from FFTCG Opus.jpg|Momodi [5-094R] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Momodi appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+380a Momodi Modi.png|Momodi.
+380b Momodi Modi.png|Momodi.
+380c Momodi Modi.png|Momodi.
+</gallery>
+
+==Gallery==
+<gallery>
+Momodi Legacy.jpg|Momodi in version 1.0.
+FFXIV Momodi Modi 2.png
+Momodi Quicksand.jpg|Momodi at the Adventurer's Guild.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

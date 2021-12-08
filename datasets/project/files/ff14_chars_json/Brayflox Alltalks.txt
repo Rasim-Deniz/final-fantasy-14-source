@@ -1,0 +1,53 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Brayflox Alltalks
+|release=FFXIV
+|aka=
+|image=FFXIV Brayflox Alltalks.png
+|home=Brayflox's Longstop
+|age=
+|affiliation=[[Company of Heroes]]
+|occupation=Cheesemaker
+|education=
+|hobby=
+|loves=
+|hates=
+|treasure=
+|sign=
+|race= Goblin
+|gender= Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+|footsize=
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|japanese=無手勝流のブレイフロクス
+|romaji=Mutekatsuryū no Bureifurokusu
+|lit= Brayflox of the Handless Victory Style}}
+'''Brayflox Alltalks''' is a character from ''[[Final Fantasy XIV]]''. Once a member of the now defunct [[Company of Heroes]], she sought to create a [[Brayflox's Longstop|jungle settlement]] in the rainforests of [[Eastern La Noscea]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+While seeking advice from the Company of Heroes on how to best confront the [[primal]] [[Titan (Final Fantasy XIV)|Titan]], among the many errands they task [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in preparation for a banquet at [[Costa del Sol (Final Fantasy XIV)|Costa del Sol]] is to obtain cheese from Brayflox Alltalks. Brayflox has a problem though—her longstop is currently occupied by a dragon named [[Aiatar]], and he isn't willing to share it with [[Goblin (Final Fantasy XIV)|Goblin]] migrants. The Warrior of Light must clear out Brayflox's Longstop to proceed.
+
+In the Patch 2.2 quest "Curds and Slay," it is revealed the [[Illuminati]] has besieged her longstop, intent on confiscating her cheese recipe. The instance [[Brayflox Long (Hard)]] involves driving out the ''Illuminati'' military to protect the cheese recipe.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Brayflox Alltalks is encountered in the [[Dravanian Hinterlands]], having an altercation with the Illuminati (again over the cheese recipe). The Warrior of Light, [[Alphinaud Leveilleur]] and [[Y'shtola Rhul]] help her drive off the assailants so she can visit a friend in [[Idyllshire]].
+
+== Characteristics ==
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Goblins in Final Fantasy XIV]]

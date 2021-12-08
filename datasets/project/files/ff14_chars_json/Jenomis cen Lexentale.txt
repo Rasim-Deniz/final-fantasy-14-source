@@ -1,0 +1,71 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Jenomis cen Lexentale
+|release=FFXIV
+|japanese=ジェノミス・セン・レクセンテール
+|romaji=Jenomisu Sen Rekusentēru
+|lit=Jenomis Sen Lexentale
+|aka=Arazlam Durai
+|image=FFXIV Jenomis cen Lexentale.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=36<ref name= EEII>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 118</ref>
+|dob=
+|affiliation=Majestic Theater Company
+|occupation=Playwright
+|education=Magitek Academy
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Garlean
+|gender=Male
+|height=5'9" (71.6 in.)
+|weight=
+|hair=Dirty blond
+|eye=Blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|And when people see that Ivalice was real, the rest will fall into place.|Jenomis cen Lexentale}}
+'''Jenomis cen Lexentale''', also known as '''Arazlam Durai''', is a [[non-player character]] in ''[[Final Fantasy XIV]]''. He is a playwright who fled the [[Garlean Empire]] looking to uncover the truth of the ''[[Zodiac Brave Story]]''.
+
+==History==
+=== Early life ===
+Jenomis attended the Magitek Academy with [[Cid nan Garlond]] and even back then was fixated on the Garlean faerie tale of Ivalice.{{cite|FFXIV|{{icon|ffxiv|quest|Dramatis Personae}}|name=Dramatis}} He became a playwright and founded a theater troupe: The Majestic Imperial Theater Company. Writing and starring in his plays, the troupe's productions became so popular admirers would book their seats a year or more in advance. <ref>Wandering Dramaturge or Storage Node Alpha Dialogue</ref> During his early years as a playwright, Jenomis met a young actress named Tia. They grew closer and Tia became pregnant. Jenomis asked her hand in marriage, and on a trip to [[Rabanastre]] he bought her a necklace as a wedding gift.<ref name= Beta> Jenomis cen Lexentale or Storage Node Beta </ref> Jenomis named his two children [[Ramza bas Lexentale|Ramza]] and [[Alma bas Lexentale|Alma]] after the two mentioned in the [[Durai Papers]] so he wouldn't forget his life goal.
+
+Regarded as one of the finest playwrights in the empire, Jenomis was given an [[Airship (term)|airship]] by Emperor [[Emet-Selch|Solus zos Galvus]] in recognition of his accomplishments. Tia became ill with coughing fits, which sapped her of vigor. On her deathbed, she told Jenomis to see that their children come to no harm. <ref name= Beta/> Stricken with grief, Jenomis consumed himself further in his playwriting and the ''Zodiac Brave Story.'' After the passing of the late emperor, his grandson [[Varis zos Galvus|Varis Yae Galvus]] took the throne and restricted the freedom of playwrights through a board of censors. If a play is deemed vulgar or inflammatory it is banned, and the worst offenders are never heard from again. Instead of following the new policies, Jenomis circumvented them discreetly in his plays. With the censors finding out about Jenomis' defiance in his most recent play, they cut the troupe's funding, and Jenomis fled the empire in pursuit of Ivalice. <ref name=EEII/>
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:AuraciteandTomes.png|thumb|220x220px|Auracite brought back from the Desert.]]
+After the empire drove him out, he traveled to the Dalmasca desert where he believed ancient Ivalice to be. Organizing expeditions, Jenomis brought back strange artifacts, tomes, and crystals he claimed to be [[Auracite]]. Jenomis told his crew that the crystal "spoke" to him and that it was vital in proving his theories. Once he got the Auracite he began acting strange, and talk to what seemed to be his late wife. He never returned from his last expedition into the war-torn city of Rabanastre, prompting Ramza to go in and rescue him. Barely escaping with his life, Ramza requests the help of Cid nan Garlond, while Alma seeks out help in [[Kugane]]. <ref name = Dramatis/>
+
+[[File:LesaliaTrade.png|left|thumb|220x220px|Jenomis held hostage.]]
+Following the Warrior of Light's trek through the [[Royal City of Rabanastre (Final Fantasy XIV)|Royal City of Rabanastre]] and the defeat of [[Argath Thadalfus]], Jenomis approaches the group, confused as to where he is, and apologizing for the trouble he's caused. An airship flies overhead and [[Ba'Gamnan]] and his henchmen drop out, with [[Gijuk]] holding a knife to his throat. Ba'Gamnan requests the recently discovered Auracite as a trade for the playwright's life, and requests that the journalist [[Lina Mewrilah]] give it to him. Once the [[bangaa]] receive the Auracite, they take Jenomis's diary and throw him on the ground, making their escape, leaving him unconscious.
+
+[[File:VistaRest.png|thumb|220x220px|Resting aboard the ''Prima Vista.'']]
+Recovering from his injuries aboard the ''Prima vista'', Jenomis apologizes to his children, and thanks Cid and the Warrior of Light for helping him. He explains the discovery of a second hero to the ''Zodiac Brave Story'', and says that uncovering the truth is his family's purpose. Revealing that his true name is Arazlam Durai, and that Jenomis cen Lexentale is just a stage name, he pledges to clear his family's name and uncover the truth.
+
+==Characteristics==
+===Appearance===
+Jenomis is a middle-aged Garlean with light skin, brown highlighted hair, and blue eyes. Under his bangs he has a "third eye". He wears Shire Preceptor's gear with the coat dyed ink blue.
+
+===Personality===
+Jenomis is a talented and famous playwright, with many considering his work to be genius. He repeatedly rewrites his work until he reaches what he believes is perfection. He believes in freedom of expression and is willing to defy the Garlean Empire to do that. His devotion can leave him consumed by his work, but nonetheless he loves his children and will do anything to help those close to him. Jenomis is determined to clear his family's name.
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garlean citizens]]
+[[Category:Garleans]]

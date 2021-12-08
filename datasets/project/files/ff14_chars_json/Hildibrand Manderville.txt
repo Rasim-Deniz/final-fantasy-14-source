@@ -1,0 +1,143 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{infobox character
+|name=Hildibrand Manderville
+|release=FFXIV
+|japanese=ヒルディブランド・ヘリドール・マクシミリアン・マンダヴィル
+|romaji=Hirudiburando Heridōru Makushimirian Mandaviru
+|lit=
+|aka=Well-spoken Zombie, Zombibrand, Perturbed Gentleman, Hildibella
+|image=Hildibrand ARR.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=23
+|dob=
+|affiliation=
+|occupation=Inspector extraordinaire
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Highlander [[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=Brown
+|eye=Light red
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|If ever there was a crime to be solved, Hildibrand would surely be there to crack the case. Perhaps the greatest case of his time was Dalamud, and the prophecy foretelling its descent. Believing himself a hero of destiny, Hildibrand did bravely propel himself into the moon's path, but, alas, was never heard from again.|Official website}}
+'''Hildibrand Helidor Maximilian Manderville''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]'', being the main protagonist of his sidestory series since [[Final Fantasy XIV/Legacy|the original version of the game]].
+
+He is a male [[Hyur#Highlanders|Highlander]] comic-relief character who has been referred at times as a "Gentleman of Light". He is often seen with his [[Miqo'te]] sidekick, [[Nashu Mhakaracca]], and his parents, [[Godbert Manderville|Godbert]] and [[Julyan Manderville]].
+
+==History==
+===Early life===
+The son of [[Goldsmith]] Godbert Manderville and his wife Julyan, Hildibrand was born and grew up to a wealthy Ul'dahn house. He balked at the idea of inheriting the family trade, leaving his home behind and starting to travel [[Eorzea]] as a self proclaimed "agent of inquiry, inspector extraordinaire", always accompanied by his loyal assistant Nashu Mhakaracca.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Quote|Oh, but where are my manners! I have yet to give a proper introduction. My name is Hildibrand, agent of enquiry! Inspector extraordinaire!|Hildibrand}}
+Hildibrand traveled around Eorzean [[inn]]s to solve any trouble he could find, meeting the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] who either solved the issue or helped him out. Some of Hildibrand's misadventures ended up getting him in trouble, such as getting a beating from Yellow Jackets while posing as a bandit.
+
+Prior to the [[Seventh Umbral Era]], Hildibrand searched for the hero foretold to face the threat of [[Dalamud]] in Ul'dah where he came across an old farmer who was a warrior in his youth. Misunderstanding the prophecy of [[Urianger Augurelt]] while helping the farmer tend his pumpkin field with seeds and Bomb ash, Hildibrand believed he is the foretold hero and decided to fight Dalamud.
+
+Nashu found the late [[Nael van Darnus]]'s gun-halberd, Bradamante, that ended up in the farmer's possession after buying it from a merchant in [[Coerthas]]. When the inspector tried to use what was believed to be a weapon no longer functioning, Hildibrand was sent flying towards Dalamud after the resulting explosion caused by a spark from Bradamante igniting the Bomb ash.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+While being sent flying at Dalamud five years ago, Hildibrand was ensnared in some manner of [[Allagan Empire|Allagan]] device designed to keep its thralls in stasis, freezing him in time. After falling back to Eorzea, his coma made the people he knew to believe him dead, so they unknowingly buried him. Hildibrand emerged from his coffin with no memory of who he was and with the surrounding zombies befriended him on the notion that he is an [[undead]]. "Zombibrand" led his followers for a few years before being found by Nashu who nearly killed him with bombs to restore his memory. Donning a change of attire, Hildibrand accepts a challenge from a mysterious figure who is after the Collector's blade: deduced to be the [[Treaty-Blade]].
+
+He meets the reporter [[Ellie Ryse]] and his arrogant rival, consulting inspector [[Briardien de Manseauguel]]. Hildibrand goes to retrieve the Treaty-Blade and encounters not only [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]]—the two fighting over ownership of "Pradamante"—a replica of van Darnus's gunhalberd, but also his smithy father Godbert Manderville. Hildibrand gets suplexed into the ground by his father for not telling him that he was alive. Hildibrand then asks him to fix a priceless antique vase. After retrieving The Treaty-Blade, it ends up in the figure's possession when he disguises himself as the client whose letter introduces him as thousand-faced phantom thief.
+
+[[File:Hildibrand as Hildibella.png|thumb|left|200px|Hildibrand disguising himself as Hildibella.]]
+Hildibrand's search for the phantom thief leads him to the wedding of Arabella, the daughter of the wealthy merchant Guguremu. After nearly getting himself killed in an explosion caused by the inspector's inability to realize the danger he was in, Hildibrand learns that phantom thief's hand was wounded and would make it easy to find him hidden among the wedding guests. Posing as the bride, with everyone seeing through it, Hildibrand reveals the thief of many faces to be posing as the groom Vannes while scaring off a group of [[Mandragoras]] helping the thief. The thief escapes with Arabella's necklace while leaving a note that he will get the victors' spoils.
+
+This leads Hildibrand to Master Fygreis's Colleseum where first prize is the Mythril Cup, enlisting along with the Warrior of Light, [[Avia]], and [[Ultros (Final FAntasy XIV)|Ultros]]. Despite Ultros rigging the match for Avia with help from [[Typhon]], the tournament continues and the Warrior of Light wins the Mythril Cup. With Gilgamesh appearing at the award ceremony, the thief returns and Hildibrand attempts to stop him with help from his father. Hildibrand is thrown out of the coliseum with the thief escaping with the real Ring of Inquiry, exposing the tournament's overseer Dour Meadow of planting a fake among the prizes. By the time Hildibrand returns, giving Avia peace of mind, he and the others attempt to determine who the thief is before finding the thief's final calling card, which reveals his goal is to gather the Four Treasures of Belah'dia and obtain the final item to unleash evil on Eorzea.
+
+The final item the thief is going after is the Wiseman's Whisper located in a vault at the [[Manderville Gold Saucer]]. The item is gone and the thief is revealed to be Ellie with the aid of her sister Cecy acting under the guise of the thousand-faced phantom thief. Though knocked out by an attack Cecy intended for Philice, Hildibrand reappears to help the Warrior of Light with his assembled "Four Gentlemen of Light" to pacify Ellie's zombie minions. After the Warrior settles things with Gilgamesh, Hildibrand arrives with the Treaty-Blade as Ellie invokes the prophecy and Hildibrand is sent flying with sword in hand.
+
+===''[[Final Fantasy XIV: Heavensward|Final Fantasy XIV: Heavensward]]''===
+Hildibrand's skyward travels result in him crashlanding in [[Coerthas Western Highlands]] and being stuck in the snow and ice. After being pulled out by his father, a [[Mammet]] is pulled out with him. Since the Mammet, which is dressed like a [[Black Mage (job)|Black Mage]], has no memory, Hildibrand names it "Gigi" and offers to help find out where it came from.
+
+Hildibrand takes Gigi to [[Ishgard]] in search of clues on his past, but the Holy See considers the Mammet of possibly heretical origin and [[Cyr Blyme]] is in charge of investigating him. Following [[Edmont de Fortemps|Edmont]] 's suggestion, Hildibrand formally adopts Gigi as his son under the patron of House Manderville. Still looking for information from Gigi's past, Hildibrand goes to the markets where he accidentally breaks an extremely expensive vase and Gigi reveals he can cast mysterious magic that restores it.
+
+When Gigi runs off into Coerthas in search of Godbert, Hildibrand goes after him. After finding him on the ground, a casualty of Godbert and Julyan's snowball fight, Gigi requests that Godbert make him a real boy. When Hildibrand tries to hug Gigi, he gets dealt a bone-crunching blow by the mammet's new body. He then tells his parents that he adopted Gigi, only to run away in fear with Godbert when Julyan gets angry.
+
+[[File:FFXIV HW Gigi family.png|thumb|Gigi's family crest.]]
+Cyr is in charge of investigating rumors that charlatans are masquerading as knights of the [[Heavens' Ward]]─the [[Grand Sers]]. He recruits Hildibrand to help with the investigations. The journey takes the party to [[Idyllshire]] where [[Slowfix]], in recognition of Hildibrand's contribution to found Idyllshire, declares that the inspector may live in the building once leased to the Grand Sers, who are in arrears and have not been seen in some time. Overjoyed with this sudden windfall, Gigi begs his father for permission to draw their family crest on their new gazebo, and Hildibrand duly agrees.
+
+Eventually, the Grand Sers capture Gigi and use him for their own agenda. They convince him that he can reverse time to make them younger. With their newfound youth, they announce their intent to kill Hraesvelgr. Hildibrand and the party chase after them to Anyx Trine, and Hildibrand confronts them. They launch a combined attack on him, but he survives their attack and tries to convince Gigi to come back to him. When the Grand Sers cause a stone pillar to fall, Gigi uses his powers to save everyone. Afterwards, Hildibrand announces to Nashu they will resume their adventures. When speaking to Julyan, his choice of words results in her sending him flying all the way to the Far East.
+===''[[Final Fantasy XIV: Stormblood]]''===
+Hildibrand's skyward travels get him sent flying again, this time all the way to the Far East. He is seen in [[Kugane]] where he's frozen stiff and auctioned off as a statue. Before Akebono can collect Hildibrand, the Wolf Burglar takes him away. The Warrior of Light, Nashu, and Shigure chase him to the Ruby Sea, and Nashu throws her bombs at the two of them, causing Hildibrand to wake up and catch Nashu's bombs. The explosion sends Hildibrand falling off the bridge into the ground. He then joins the party in aiding the Sekiseigumi capturing the Wolf Burglar.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Hildibrand sometimes makes an appearance in the [[Heroes' Gauntlet]] among the many spectral heroes summoned by [[Elidibus]] to oppose the Warrior of Light. Unlike the others, he is not hostile and unfightable, instead expressing confusion at his surroundings and seeming to have forgotten who he is once again.
+
+==Characteristics==
+===Appearance===
+Hildibrand sports a black and white coatee with a rose on his lapel and a monocle. He likes to show off his muscular Highlander build with a flexing animation that is accompanied by cliché cartoon noises.
+
+===Personality===
+Hildibrand is a slapstick stooge whose idiocy is quickly realized by everyone he meets with the exception of his airheaded sidekick Nashu. In some cases he will offer his services when the case has already been solved. When investigating an open case, he shows a complete lack of competence, such as making his presence known when trying to shadow a suspect. For all of his buffoonery, Hildibrand's ideals are noble: he is a firm believer in the pursuit of justice, particularly in the service of those who have little other recourse or hope of finding it. He became an "inspector" to help those less fortunate than himself, being the son of a wealthy [[Ul'dah]]n family that now sits on the Syndicate.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Hildibrand & Nashu
+|image = [[File:FFXIV TT Hildibrand & Nashu.png]]
+|number = 62
+|total = 27
+|type = None
+|description =
+|obtain = Won from Hab, [[Thanalan|Southern Thanalan]] (24,40).
+}}
+
+==Musical themes==
+<!--needs sample-->
+In ''Final Fantasy XIV'', "Agent of Inquiry" is a jazz tune used in Hildibrand's comedic misadventures.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+Hildibrand appears in ''Final Fantasy Trading Card Game'' as Lightning-elemental Forward cards. His special ability is Manderville Dance.
+
+<gallery>
+Hildibrand TCG.png|Hildibrand [15-108U] Chapter series card.
+Hildibrand 4-109H from FFTCG Opus.jpg|Hildibrand [4-109C] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:395a Hildibrand & Nashu Mhakaracca.png|right|100px]]
+Hildibrand appears on a Triple Triad card with Nashu Mhakaracca in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+Hildibrand was created for the quests required to unlock private Inn rooms, which were released March 8th, 2012 as part of patch 1.21. Due to positive fan reception, he became a recurring character for Inn-related quests, and in ''A Realm Reborn'' became the focus character with an independent series of sidequests. He is a parody of Inspector Clouseau from the ''Pink Panther'' series, which his quest line in ''A Realm Reborn'' frequently refers to, such as his title cards at the end of each chapter using the same font as the ''Pink Panther'' title cards, having his own jazz theme, and tracking down a phantom thief.
+
+==Gallery==
+<gallery>
+Hildibrand.png|Hildibrand and Nashu in version 1.0.
+FFXIV Suplex.gif|Hildibrand getting suplexed by Godbert.
+</gallery>
+
+==Etymology==
+{{Etym|Hildebrand}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

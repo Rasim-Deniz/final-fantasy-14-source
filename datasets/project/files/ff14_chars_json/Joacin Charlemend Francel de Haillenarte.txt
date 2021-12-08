@@ -1,0 +1,69 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Joacin Charlemend Francel de Haillenarte
+|release = FFXIV
+|japanese =フランセル・ド・アインハルト 
+|romaji =Furanseru do Ainharuto 
+|lit=Francel de Ainhart
+|aka=
+|image =FFXIV Francel new.png
+|home = [[Ishgard]]
+|affiliation = [[High Houses of Ishgard|House Haillenarte]]<br>[[Ishgardian Restoration]]
+|occupation = Firmament project leader
+|race = [[Elezen]]
+|gender = Male
+|hair = Blond
+|eye = Blue
+|age = 22
+|type=npc}}
+'''Lord Joacin Charlemend Francel de Haillenarte''', or simply '''Francel de Haillenarte''' is a non-playable character in ''[[Final Fantasy XIV]]''. A noble of [[High Houses of Ishgard|House Haillenarte]] of [[Ishgard]], he is the youngest child of Count [[Baurendouin de Haillenarte]].
+
+==History==
+As a child, he was protected by [[Haurchefant Greystone]] with nothing but a knife by assailants outside of a noble party in Ishgard. For Haruchefant's bravery, he was granted knighthood, and the two boys became close friends.<ref name="unbroken">''[https://na.finalfantasyxiv.com/lodestone/special/2015/short_stories/#sidestory_03 Tales from the Dragonsong War - ]''.</ref>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Francel insisted on a post in central Coerthas, hoping to avenge the death of his brother Chlodebaimt de Haillenarte in combat and service.
+
+The Ishgardian Inquisition accuses Francel of heresy due to the discovery of a draconic rosary in his belongings. Due to increasing pressure from the authorities present in [[Coerthas_Central_Highlands#Camp_Dragonhead|Camp Dragonhead]], he cannot aid the Warrior of Light in their search for the missing [[Airship (term)|airship]], ''Enterprise'', but instead directs them to Lord Haurchefant, the lord of the settlement.
+
+Haurchefant sends the Warrior of Light to aid Francel and his men when they are waylaid by Aevis near the Steel Vigil. After discovering the frozen corpse of an Inquisitor, as well as proof that the rosary was planted to frame Francel, Haurchefant and the Warrior of Light rescue Francel at Witchdrop before the false Inquisitor [[Guillaime]] can execute him.
+
+===[[Ishgardian Restoration]]===
+[[File:FFXIV Ishgardian Restoration artwork.jpg|Francel with workers in Ishgardian Restoration official artwork.|thumb]]
+Francel is chosen to oversee the [[Ishgardian Restoration]] project. Thanks to his influence, he exempts the Warrior of Light from a work permit. Francel shares their desire to make the [[Firmament]] a place of prosperity for all, but recognizes that there is still a long way to go.
+
+After the work in New Nest is complete, some Ishgardians resist the idea of moving there out of concern it will be an undesirable part of the city for nobles, or otherwise hostile to poorer communities. Francel realizes that the Firmament must become appealing for both wealthy and the commonfolk, to emphasize the changes in Ishgard's political structure. With the help of the Warrior of Light, they convince a woman named [[Audaine]] and her daughter [[Noalle]] to move to the neighbourhood. While the project continues, more people begin to move into the houses popping up.
+
+Francel asks the Warrior of Light to deliver missives addressed to various individuals with influence over Ishgard: [[Gibrillont]], the owner of the Forgotten Knight; Ser [[Handeloup]], second commander of the Knights of the Temple; and [[Elaisse]], the master of the Ishgardian markets. Meanwhile, Francel personally delivers missives to each of the [[High Houses of Ishgard]], seeking donations, manpower, and public support in the endeavor. He as well ventures into Eorzea to speak with merchants across the Alliance city states with Count [[Charlemend de Durendaire]] in order to attract new business opportunities to the growing Firmament markets.
+
+[[File:FFXIV Francel clothes.png|thumb|left|Francel's new look.]]
+With everything seemingly going well, Noalle appears asking for help as her mother was taken by an inquisitor. Two dragons appear at the entrance to Ishgard, and one of them, [[Marcelloix (Ishgard)|Marcelloix]], declares that he was Audaine's husband. Francel intervenes and volunteers to take Marcelloix and the dragonet, [[Ehll Tou]], under his care. Francel informs the residents of the Firmament about the presence of his dragon guests even though he knows it is not welcome among many Ishgardians who are still recovering from the Dragonsong War. At the suggestion of Francel, Marcelloix wins the trust of citizens and his family by making gifts and tools for them, to show that Draconian guests wish to help. As a form of thanks, Marcelloix presents Francel with a new set of clothes.
+
+The restoration of the Firmament continues, and upon completing the final project, those who were working closely with Francel throw a celebration for him and the Warrior of Light before the public festivities. With music composed by [[Artoirel de Fortemps]], Francel is surprised with a musical production before a crowd of familiar faces around Ishgard. With the Warrior of Light, Francel performs a piano duet as the finale and receives a round of applause from all in attendance.
+
+After receiving congratulations from [[Aymeric de Borel]] himself, Francel confides in the Warrior of Light that the project was a test of his own decision, wishing to fulfill the dreams of every Ishgardian lost to the war, especially Haurchefant. He asks the Warrior of Light if Haurchefant would be proud, and settles in to relax before the Firmament [[Full Active Time Event#Area specific FATEs|Fête]] begins.
+
+==Characteristics==
+===Appearance===
+Francel is a Wildwood [[Elezen]] with a youthful face. He has wheat-blond hair, dark blue eyes, and a silver Elezen ear clasp. He is first seen wearing a green feathered cap and a green-white bliaud with matching gaskins. He wears black gaiters with white socks and gloves.
+
+After he gets his gift from the Draconic heretic Marcelloix, Francel wears a green and black Rainbow Justaucorps with plain white pants. He keeps his black gaiters, white gloves, and feathered green cap.
+
+===Personality===
+Francel earnestly wishes to impress and assist those he admires. He respects [[Haurchefant Greystone]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] for their courage and kindness, and tries to emulate them through gentle benevolence. He wants to better Ishgard for all kinds of people, and teaches others to put aside their differences to be the best they can be. Francel loves and is loved by his siblings, [[Stephanivien de Haillenarte|Stephanivien]] and [[Laniaitte de Haillenarte|Laniaitte]], though they often dote on him as if he was still a young boy.
+
+==Behind the scenes==
+After Haurchefant's death, if the player visits the northwesternmost point of Coerthas Central Highlands west to Providence Point, they will see Francel approach Haurchefant's grave to pay his respects. If the player is close to him when he approaches, he will say he imagines Haurchefant would be happy they still visit. He will appear in his new outfit from the Firmament development if the player has progressed far enough in the Firmament storyline.
+
+==Gallery==
+<gallery>
+File:FFXIV Francel de Haillenarte.png|Francel with his manservant, Foncrineau.
+File:FFXIV TFDW Francel.png|Francel praying before Haurchefant's grave.<ref name="unbroken" />
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

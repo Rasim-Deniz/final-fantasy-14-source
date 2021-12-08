@@ -1,0 +1,79 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Jacke Swallow
+|release = FFXIV
+|japanese = ジャック・スワロー
+|romaji = Jakku Suwarō
+|aka = Captain Jacke {{J|双刃のジャック|Sōba Jakku|Twin Blades Jacke}}
+|image =FFXIV Jacke.png
+|race = [[Hyur]]
+|gender = Male
+|hair = Brown
+|eye = Blue
+|age = 27
+|job = {{icon|ffxiv|discipline|rogue}}
+|weapon = Darklight Baselards 
+|armor = Arachne gear set
+|affiliation = Rogues' Guild
+|occupation = Guildmaster
+}}
+{{Quote|Eh? What do ''I'' do here? I'm Captain Jacke—I'm the bleedin' guildmaster. I s'pose I don't much look the part, but that's more to me advantage in our line o' work. Looks aside, ye'll not find a stauncher advocate o' the code in this room. It was a rogue o' similar conviction what saved me from drownin' in the sodge o' the underworld. He showed me a light in the darkmans, an' the guild's been me home ever since... |Jacke}}
+'''Jacke Swallow''' is a non-playable character from ''[[Final Fantasy XIV]]''. Introduced in Patch 2.4 "[[Final Fantasy XIV: A Realm Reborn#Dreams of Ice|Dreams of Ice]]", he is the Guildmaster for {{icon|ffxiv|discipline|rogue}}s at the Dutiful Sisters of the Edelweiss in [[Limsa Lominsa]], and plays a supporting role in {{icon|ffxiv|discipline|ninja}} job quests.
+
+== History ==
+===Early life===
+A Midlander of twenty-seven years, Jacke takes greater pride in being a rogue than in anything else. As a child, he was captured by pirates, who sold him as a slave in a blatant violation of the code of Limsa's underbelly. In this, they stole his freedom and his innocence. Jacke chose to follow in the footsteps of the one who saved him from this tragic fate—a nameless member of the Upright Thieves, the former band of rogues who served under the late Admiral Agatzahr. Jacke eventually became the first master of the current Rogues' Guild, and today serves in the position with pleasure.
+
+=== ''[[Final Fantasy XIV: A Realm Reborn]]'' ===
+[[File:FFXIV Jacke Swallow.png|thumb|Jacke at the rogue guild.]]
+Jacke is the quest giver for all Rogue class quests, pairing the [[Warrior of Light|Adventurer]] up with [[V'kebbe|V'kebbe the Stray]] or [[Perimu Haurimu|Perimu "Underfoot" Haurimu]] for their early training. As underground enforcers of an unwritten code of pirates, the rogues step in to mete punishment on pirate groups that cross the line.
+
+The Rogues' Guild breaks up a human trafficking ring conducted by pirates known as the Jolly Merchants not long into the Adventurer's training. After the hostages are freed, a Yellowjacket captain named [[Milala]] approaches them. Fervently anti-piracy, she questions the need for the Rogue Guild's existence, and issues a challenge to recover a set of stolen treasures. Despite her presumptuous and haughty tone, Jacke feels honor-bound by the code to recover the stolen treasures.
+
+The first treasure, the "Cerulean Star", is confiscated from a band of pirates known as the Grinning Curs. Jacke learns the remaining treasures are in the hands of the Reformist sect of the Bloody Executioners. A black marketeer informant reveals the Reformists are planning to sell the second treasure, an earring called the "Silver Sorrows", to an Ul'dahn merchant visiting [[Eastern La Noscea#Costa del Sol|Costa del Sol]]. Though the earrings were recovered, Captain Milala forces them to hand the treasure over.
+
+The third treasure is the "Black Sarcophagus", which is actually an experimental weapon developed by the [[Garlean Empire]]. The black marketeer contact was killed by the Executioners, who hoped to lure the rogues into a trap. A lone pirate remaining at the scene reveals their leader, [[Aisibhir]], is planning to assassinate [[Merlwyb Bloefhiswyn|Admiral Bloefhiswyn]] using the Black Sarcophagus. Jacke asks that the information be delivered to Captain Milala, who prepares the Yellowjackets for the impending attack.
+
+During the level 30 quest "Cloying Victory", the Executioners put their plan into effect by attempting to bomb the Mizzenmast. Despite the vigilance of both the rogues and Yellowjackets in the city, the pirates maneuver in place with Aisibhir wounding Milala. The Warrior of Light disables the Black Sarcophagus before it detonates, and aids Jacke and the others take down Aisibhir. The Yellowjackets confiscate the Black Sarcophagus, but Jacke swipes the Silver Sorrows from Milala, making the count two to one in Rogue Guild's favor. Captain Milala begrudgingly concedes victory to Jacke, who then recognizes the Warrior of Light for their dedication to the code.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Jacke reappears in the ''Heavensward'' Ninja job quests, where he requests [[Oboro Moonrise|Oboro]] and [[Warrior of Light]] aid in dealing with mysterious thieves from the Far East. After learning the "thief" was Far Eastern princess [[Yatsurugi no Yuki|Princess Yuki Yatsurugi]] trying to recover stolen family treasures, he agrees to aid the shinobi with his intel network.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Character section|Final Fantasy XIV: Stormblood}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Jacke meets with Oboro and the Warrior of Light inside the Ninja Guild's hideout in [[Eastern La Noscea]] not long after Oboro's plan to steal the forbidden scroll back from [[Karasu Kanshi|Karasu]], inviting the two to the Bismarck restaurant in Limsa Lominsa to celebrate. Joined by V'kebbe and Perimu, the five of them dine together.
+
+Oboro repeats the story of succeeding against Karasu several times, much to the exhaustion of Jacke. Suddenly, a second, much less clothed Oboro appears, declaring their company is an imposter. As the Warrior of Light concludes the clothed Oboro is the imposter, Jacke makes note that only the real Oboro would run through Limsa Lominsa with no clothes on. As Karasu escapes, Jacke brings the Warrior of Light and Oboro to the Dutiful Sisters to finish their drinks and get Oboro some new clothes.
+
+Jacke dresses Oboro in an obnoxiously coloured pink shirt and metallic gold dyed trousers ensemble, and insists that anyone who looks his way will never take their eyes off his "magnificent" outfit. Oboro proclaims he will not rest until he brings Karasu to justice and leaves, as Jacke tells the Warrior of Light to keep an eye on Oboro, and remember to visit the Sisters some time.{{cite|FFXIV|{{icon|ffxiv|quest|oboro's big idea}}.|name=oboro's big idea}}
+
+== Characteristics ==
+=== Appearance ===
+Jacke is a male Midlander [[Hyur]] with brown hair and blue eyes. He wears an all-green ensemble, with a uniquely coloured [[Shirt of the Divine Hero]]. He wears an Arachne Bandana of Scouting, with matching Arachne trousers and field dressing gloves. He also wears [[Kirimu Sandals of Scouting]], and uses twin [[Darklight Baselards]] in combat.
+
+When relaxing, Jacke wears his bandana, alongside a red Summer Pareo and Moonfire Caligae.
+
+=== Personality ===
+Jacke is a cocky free spirit who seeks freedom from the expectations of polite society. He is playful in his mannerisms and is quick to determine the character or another on first meetings. Jacke abides by a strict moral code, one that is guided by his ethics and means of work. Though he does not live as common citizens of Limsa Lominsa do, he understands their anti-piracy laws and keeps a close eye on the workings of the black markets. He despises those who trade people as goods and refuses to ever deal with such merchants.
+
+Jacke speaks in a unique form of jargon known as thieves' cant<ref name="Thieves' Cant">{{ref |id=Cant |author=Jacob Mikanowaki |date=5 December, 2013|title=The Tongues of Rogues |url=https://slate.com/culture/2013/12/daniel-heller-roazens-dark-tongues-reviewed.html |wikilink= |publisher=Slate|access-date=7 June, 2021}}</ref> <ref name="Dictionary">{{ref |id=Dictionary |author=Stephen Hart |date=31 October, 2013 |title=18th Century and Regency Thieves' Cant |url=https://www.pascalbonenfant.com/18c/cant/ |wikilink= |publisher=Stephen Hart |access-date=7 June, 2021}}</ref>
+which has a historical origin in the real world. Jacke speaks in this dialect among his peers and the Warrior of Light, finding camaraderie among them in the lower levels of Limsa Lominsa. He deeply trusts those he keeps close and would go to any length necessary to protect them.
+
+==Gameplay==
+{{Section}}
+
+==Etymology==
+Jacke Swallow is a reference to {{w|Jack Sparrow}} of the ''{{w|Pirates of the Caribbean (film series)|Pirates of the Carribean}}'' film series, with both {{w|swallow}}s and {{w|Old World sparrow|sparrows}} being families of {{w|passerine}} birds.
+
+The name "Jacke" is closer in both origin and pronounciation to the French name name "Jacques",<ref>[https://www.houseofnames.com/amp/jacke-family-crest HouseofNames.com - Jacke Family name meaning]</ref>rather than being pronounced as the aforementioned Jack Sparrow. "Jacques" comes from the Hebrew name "Jacob" (or "Ya'aqov"), which means "supplanter; to follow behind", or "to heel".<ref>[https://en.m.wikipedia.org/wiki/Jacob_(name) Jacob (name) - Wikipedia]</ref>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Thieves]]
+[[Category:Guildmasters]]

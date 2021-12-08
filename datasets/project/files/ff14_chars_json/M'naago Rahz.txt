@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=M'naago Rahz
+|release=FFXIV
+|japanese=メ・ナーゴ・ラツ
+|romaji=Me Nāgo Ratsu
+|aka=
+|image=FFXIV M'naago Render.png
+|home=[[Ala Mhigo]]
+|age=22
+|dob=
+|affiliation=[[Ala Mhigan Resistance]]
+|occupation=Rebel
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=Peach
+|eye=Orange
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}
+|weapon=Ash Shortbow
+|armor=
+|japanese voice actor=Runa Onodera
+|english voice actor=[[Wikipedia: Hannah Arterton|Hannah Arterton]]
+}}
+'''M'naago Rahz''' is a non-player character from ''[[Final Fantasy XIV]]''. She appears as a side character in ''[[Final Fantasy XIV: Stormblood]]'', and as a customer for custom deliveries. She is a leader in the [[Ala Mhigan Resistance]] and a friend of [[Meffrid Noward|Meffrid]] and [[Lyse Hext|Lyse]].
+
+== History ==
+=== Early Life ===
+M'naago always dreamed of fighting and at the age of fifteen she wanted to help fight in the resistance. Though her father insisted that she first master the hunter's path to not become a burden. Two years later her father allowed her to become a resistance soldier.<ref>''Encyclopedia Eorzea II'', p. 102</ref>
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+M'naago first encounters the [[Scions of the Seventh Dawn]] at the Rising Stones, wounded but bearing an urgent message: [[the Griffin]] and his masks plan on attacking [[Baelsar's Wall]] and drag the Eorzean Alliance into war with the empire. With the Scions working on preventing this threat.
+
+[[File:FFXIV WoaN.jpg|left|thumb|220px|M'naago along with Meffrid before bringing Yda over the wall.]]
+Tasked with aiding [[Yda Hext]] and [[Papalymo Totolymo]] in crossing Baelsar's Wall, M'naago was doubtful that it was worth the sacrifice for two strangers. Meffrid reminded her that Yda, was [[Curtis Hext]]'s daughter and that she also participated in [[Operation Archon (battle)|Operation Archon]] that resulted in the presumed death of [[Gaius van Baelsar]].
+
+After the two scions made it across the wall they recuperated at [[Rhalgr's Reach]] where they helped in any way they could. Over time M'naago considered them to be friends and comrades in arms.
+
+After a successful mission with Yda, M'naago asked her if she would join the resistance, she denied at first but said that she had friends that would help her make things right in [[Ala Mhigo]].<ref>''Tales from the Storm'', The Weight of a Name</ref>
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Having returned to Rhalgr's Reach, M'naago meets the rest of the Scions with [[Conrad Kemp]] and Meffrid. After hearing the Eorzean Alliances plan on engaging the Empire by proxy the three leaders come to the consensus that they agree to the alliances terms, however they are a fragmented group of many and their numbers are few. With the scions aiding in healing and searching for new members, the Warrior of Light and M'naago visit [[Raubahn Aldynn]] to send a letter of the Resistances formal cooperation, they then plan on taking a small victory on a patrol to bolster morale. Lying in wait they ambush a group led by [[Grynewaht pyr Arvina]] and defeat his patrol and cause him to flee.
+
+Later on The Warrior of Light, [[Pipin Tarupin|Pipin]], [[Alphinaud Leveilleur|Alphinaud]], and [[Alisaie Leveilleur|Alisaie]] are out on a scouting mission when the Reach is attacked, and M'naago along with others escape to warn them. With the Resistances morale crushed they believe there is no hope left until Alphinaud brings up the fact that [[Zenos yae Galvus]] is also head viceroy of [[Doma (Final Fantasy XIV)|Doma]], and the Warrior of Light comes up with the idea to kindle a rebellion in Doma as well. Agreeing to continue the fight if the mission is successful, the resistance plans on rebuilding in the meantime.
+
+The news of the successful liberation of Doma reaches Eorzea and the alliance plans on taking advantage of Garlemald's confusion in a new operation. Participating in Rhalgr's Beacon M'naago played a crucial role in taking Castellum Velodyna: when there's an opening, fly to the top of the tower and glamour the garlean flag for the resistance one to trick the imperials into believing the bridge has fallen. After driving the imperials from the Fringes M'naago shows the Scions her village where an [[Ananta]] battlemaid meets up with them. The resistance goes on to claim the peaks as their new homebase and plan on taking the tower but as they're fighting, it is fired upon by [[Castrum Abania]], wounding and killing many including Conrad. After taking the [[Lochs]] and the royal palace, M'naago sings the anthem of Ala Mhigo with members of the resistance signifying Ala Mhigo's liberation.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+M'naago meets with the Warrior of Light, explaining that the newly-formed Werlyt Revolutionaries, having elected their former conqueror Gaius to lead them, have petitioned the Ala Mhigan Resistance for aid. She journeys with the Warrior to Terncliff to meet Gaius, granting him his request while reminding the former legatus that the Ala Mhigans will never forget Gaius's transgressions against their homeland. Soon after, she returns to Gyr Abania to aid in the war effort against the Telophoroi. 
+
+=== Custom Deliveries ===
+M'naago appears as a custom delivery client after the events of ''Stormblood'', it is her goal to help the citizens rebuild their lives after the nations liberation.
+
+== Characteristics ==
+=== Appearance ===
+M'naago is a young seeker of the sun Miqo'te with brown skin, peach colored hair, and orange eyes. She wears a filibuster's set of aiming, and wields an ash shortbow for battle.
+
+=== Personality ===
+M'naago is known for her bright personality and unrelenting candor, often bringing back her comrades from the brink of despair. Committed to her cause in the resistance M'naago is willing to help fight to free her people from imperial tyranny.
+
+==Gallery==
+<gallery>
+FFXIV M'naago Rahz (Custom Deliveries).png|Custom Deliveries portrait.
+FFXIV M'naago Render 2.png
+FFXIV M'naago 01.png
+FFXIV M'naago Victory.png
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Rangers]]
+[[Category:Custom Delivery NPCs]]

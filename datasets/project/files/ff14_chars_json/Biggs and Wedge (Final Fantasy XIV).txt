@@ -1,0 +1,103 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Biggs and Wedge (''Final Fantasy XIV'')}}
+{{infobox character
+|name= Biggs and Wedge
+|release=FFXIV
+|japanese=ビッグス＆ウェッジ
+|romaji=Biggusu & Uejji
+|image=FFXIV Biggs and Wedge.png
+|affiliation= [[Garlond Ironworks]]
+|occupation = Engineers
+|race= [[Roegadyn]] (Biggs)
+[[Lalafell]] (Wedge)
+|gender= Male
+|age = 25 (Biggs)
+22 (Wedge)
+|hair = Blonde (Biggs)
+Brown (Wedge)
+|type=npc
+|job={{icon|ffxiv|discipline|pugilist}} (Biggs)
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Biggs and Wedge''' are characters from ''[[Final Fantasy XIV]]''. They are engineers with the [[Garlond Ironworks]] whom the player rescues from mercenaries hired by Garleans after the crash of their prototype [[Airship (term)|airship]], the ''Tiny Bronco''. The pair continues the tradition of [[Final Fantasy series|''Final Fantasy'']] side characters named Biggs and Wedge.
+{{See|Biggs and Wedge}}
+
+==History==
+===Early life===
+Biggs and Wedge hail from provinces conquered by the [[Garlean Empire]]. As young men, they were conscripted into the Garlean military where they met and became friends. They eventually decided to desert, making contact with [[Cid nan Garlond]] who brought them to [[Eorzea]]. "Biggs" and "Wedge" are not their real names, but aliases they began to use after their defection to protect their families who remain in Garlean territory.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The Empire attacks Biggs and Wedge's airship, the ''Tiny Bronco'', forcing the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to intervene to rescue them. The pair becomes allies of the [[Scions of the Seventh Dawn]], relocating to the group's headquarters in the Waking Sands. When the Empire attacks the Waking Sands, Biggs and Wedge are among those captured.
+
+Biggs and Wedge escape, prompting the Warrior of Light to rescue them from Imperial troops once more. Once reunited with their mentor, Cid nan Garlond, they become instrumental in the plan to rescue the remainder of the Scions' leaders from [[Castrum Centri]], both by assisting in the procurement of a suit of [[Magitek Armor]], as well as participating in the infiltration of the fortress.
+
+After [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]] has been defeated, the duo can be found in the Waking Sands with the other members and Scions' allies. Biggs desires to start his own Ironworks, while Wedge wants to win the heart of his crush, [[Tataru Taru]]. Some time later, when they hear of Cid's investigation of the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]], Biggs and Wedge put their personal projects on hold to join NOAH and assist in the project.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Biggs and Wedge have been commissioned alongside Cid to work on [[Ishgard]]'s airship project. They become instrumental in the defeat of [[Nidhogg (Final Fantasy XIV)|Nidhogg]] when their pet project, a new type of personal-sized airship known as a Manacutter, is needed to reach the dragon's lair.
+
+They later accompany Cid, the Warrior of Light, and [[Alphinaud Leveilleur]] in pursuing Archbishop [[Thordan VII]] into the [[Sea of Clouds]], and assist Cid in the plan to defeat the [[primal]] [[Bismarck (Final Fantasy XIV)|Bismarck]]. When the Archbishop reaches [[Azys Lla]], the pair returns to Ishgard where they help Cid remodel the ''Enterprise'' to the ''Enterprise Excelsior''. Once the preparations for the final battle are complete, they journey to [[Azys Lla]] with the Warrior of Light and their companions. Upon arriving on the floating island, Wedge discovers and reactivates a still-functioning Allagan Guidance Node, whom he names Gilly, which leads the Warrior of Light through Azys Lla.
+
+Following the defeat of Archbishop Thordan VII, Wedge petitions the Warrior of Light's help in restoring Gilly, who had shut down. Venturing into [[The Fractal Continuum]], the Warrior retrieves the parts needed. Wedge transfers Gilly's programming into a smaller node, whom he presents to the Warrior of Light as a [[Minion (Final Fantasy XIV)|minion]].
+
+The duo assists in the investigation of the primal [[Alexander (Final Fantasy XIV)|Alexander]], cracking the coded transmissions that the Goblin Illuminati use for communication. They join the Warrior of Light and [[Mide]] in the attack on Midas, one of Alexander's arms, to shut down the core that lies inside. When it comes time for the final assault against the Illuminati forces, they accompany the Warrior of Light into Alexander to confront their leader, [[Quickthinx Allthoughts]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Biggs and Wedge assist Cid investige [[Omega (Final Fantasy XIV)|Omega]], and are shocked when [[Jessie (Final Fantasy XIV)|Jessie]] reveals she has hired [[Nero tol Scaeva|Nero]] to be part of the Ironworks team. They find and recruit the Warrior of Light to help with the investigation. When the team finds a portal to the [[Interdimensional_Rift#Final_Fantasy_XIV|Interdimensional Rift]], they enter it and find themselves being tested by Omega. Biggs and Wedge help the team get through the initial challenge, and decide to return to Omega's control room at [[Carteneau Flats]]. Omega had decided that the best way to motivate the Warrior of Light to unleash greater power would be through the death of their friends, and sends a monster to kill the duo. They survive, though badly wounded, and Cid takes them and Nero to the Conjurer's Guild in [[Gridania]] to be healed.
+
+By the time Omega is ready to continue its tests, the duo has recovered enough to leave their beds. Cid insists they continue to rest until they are fully recovered. After Omega is defeated, Biggs and Wedge arrive, riding upon [[Hraesvelgr]] to rescue Cid and the Warrior of Light from the collapsing Rift.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Biggs and Wedge join the Warrior of Light and Tataru in the trench at the base of the [[Syrcus Tower (Final Fantasy XIV duty)|Syrcus Tower]] to help them find the beacon needed to send the Warrior to [[the First]]. Once it is located, they are puzzled that it seems to have been made by Garlond Ironworks, bearing their logo.
+
+In the alternate future where the [[Umbral Calamity|Eighth Umbral Calamity]] devastated [[Hydaelyn|the world]], the Garlond Ironworks team spent centuries working on a way to change history to prevent it. Wedge was mortally wounded by a carnivorous beast, and died telling Biggs to start a family. They analyzed and combined the technologies they witnessed during their adventures with the Crystal Tower, Alexander, and Omega, culminating with Biggs's descendant—who shared his name and appearance—sending [[G'raha Tia]] and the Crystal Tower into the past of the First, putting the plan to prevent the [[Umbral Calamity|Calamity]] into motion. This awakened a slumbering [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]], who pledges to defend the ravaged world as it transitions into a new Astral Era.<ref name="tomorrow">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_shadows/sidestory_08/#sidestory_08 Tales from the Shadows - An Unpromised Tomorrow]''</ref>
+
+Following the Scions' victory in saving the First and returning home to [[Hydaelyn|the Source]], [[Alisaie Leveilleur]] seeks a way to cure a primal's ability to [[enthrallment|temper]] their victims. She finds a lead in the records of an [[Allagan Empire|Allagan]] scientist named Owen, but a password is needed to access the records, and they have no means to decipher the it. Alisaie, G'raha Tia and the Warrior of Light call on Cid, Biggs and Wedge who discover the password is "freedom" and learn the basic overview of a primal's ability of tempering. Biggs and Wedge help Cid and Nero build a [[magitek]] machine to decipher a proper cure. Though the machine overloads, they succeed in creating a cure for tempering that they can test.
+
+==Characteristics==
+===Appearance===
+Biggs is a Sea Wolf [[Roegadyn]] with blond hair, while Wedge is a Plainsfolk [[Lalafell]] with brown hair that fades to a more reddish shade at the "stalk". They wear matching engineer outfits, a mostly dark gray and white affair with blue sleeves bearing what is presumably the Garlond Ironworks crest, complete with goggles.
+
+===Personality===
+Wedge is shy and clumsy, often having to be pushed into conversation by the more outspoken Biggs. Wedge loves machines, often naming them and treating them as pets. It is implied that Wedge has a crush on [[Tataru Taru]], but is too shy to express it. Biggs attributes this behavior to a past incident when Wedge was denied getting a dog.
+
+Biggs is more vocal and headstrong than his Lalafell companion. He is more courageous than Wedge ,and Cid even states, if given the choice, Biggs would rather die than be imprisoned by the empire. Biggs teases and chastises Wedge over his cowardice, but will put his life on the line to protect him.
+
+The duo is deeply loyal to Cid Garlond and the Garlond Ironworks. They dutifully work to achieve the Ironwork's mission to advance technology without serving tyrants.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Biggs and Wedge appear on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+<gallery>
+519a Biggs & Wedge.png|Biggs and Wedge.
+519b Biggs & Wedge.png|Biggs and Wedge.
+519c Biggs & Wedge.png|Biggs and Wedge.
+</gallery>
+
+==Voice==
+Biggs is voiced by CJ3 in the English version of ''Final Fantasy XIV: A Realm Reborn'', but is voiced by Antony Byrne since ''Final Fantasy XIV: Heavensward''. Wedge is voiced by [[wikipedia:Ryan Gage|Ryan Gage]].
+
+==Gallery==
+<gallery>
+FFXIV Rise of a New Sun Artwork.jpg|Biggs and Wedge in ''Rise of a New Sun'' artwork.
+FFXIV Biggs XIV.png|Biggs in-game.
+Wedge XIV.jpg|Wedge in-game.
+Wedge Madoarmor.jpg|Wedge on a [[Magitek Armor]].
+Biggs & Wedge Garlean Empire.jpg|Biggs and Wedge in Garlean Empire uniforms.
+FFXIV TFTS Graha.jpeg|Biggs' descendant and G'raha Tia in an alternative timeline during the Eighth Umbral Calamity.<ref name="tomorrow" />
+FFXIV TFTS Biggs Midgardsormr.jpeg|Biggs' descendant and Midgardsormr in the alternative timeline.<ref name="tomorrow" />
+</gallery>
+
+==Etymology==
+{{Etym|Biggs and Wedge}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Lalafells]]

@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Hraesvelgr
+|release=FFXIV
+|japanese=フレースヴェルグ
+|romaji=Furēsuverugu
+|lit=
+|aka=
+|image=First-brood Hraesvelgr.png
+|home=[[Churning Mists]]
+|affiliation=[[First Brood]] of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]]
+|race=Dragon
+|gender=Male
+|type=npc
+|japanese voice actor=
+|english voice actor=[[wikipedia:Steven Hartley|Steven Hartley]]
+}}
+{{Quote|One of the great seven wyrms born of Midgardsormr.<br /><br />Even now he makes his home in Eorzea. None can attest to sighting this terrible beast, nor can they deny his menacing presence.<br /><br />Legends say the great dragon nests high in the mountains of Dravania. Records of his existence have faded into memory, but woe betide those who glimpse dark wings against the sky.|Official website}}
+'''Hraesvelgr''' is a great wyrm in ''[[Final Fantasy XIV]]'', one of the [[First Brood]]. He is one of the seven wyrms born of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]]. None can attest to sighting this terrible beast, nor can they deny his menacing presence. Legends say the great dragon nests high in the mountains of [[Dravania]], but records of his existence have faded into memory.
+
+==History==
+===Early life===
+[[File:FFXIV Shiva & Hraesvelgr.png|thumb|Shiva and Hraesvelgr.]]
+According to legend, Hraesvelgr fell in love with an [[Elezen]] maiden named [[Shiva (Final Fantasy XIV)|Shiva]], but as her life is but a blink of an eye compared to the ageless dragons, she besought Hraesvelgr to devour her so her soul would be entwined with his for eternity. Though reluctant at first, Hraesvelgr honored Shiva's request and inspired an alliance between man and dragon that lasted for two hundred years. When King [[Thordan I]] and his followers broke that treaty by killing his sister [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]] and robbing his brother [[Nidhogg (Final Fantasy XIV)|Nidhogg]] of his eyes, Hraesvelgr relinquished one of his to Nidhogg as compensation.
+
+Hraesvelgr is one of the few dragons not to participate in the [[Dragonsong War]] due to the calming influence of Shiva's soul. He lives as a recluse in the skies above Dravania with only his brood and the native [[Moogle (race)|moogles]] to keep him company. His brood, many remembering the peaceful days before the war, want nothing to do with the conflict and stay near Anyx Trine at the base of [[Sohm Al]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|The tale of thy kind is one of avarice, treachery, and death—and thou wouldst speak to me of peace? Hark thee, mortal, to the naked truth...then tell me thou deservest forgiveness!|Hraesvelgr}}
+[[File:FFXIV Hraesvelgr Ysayle.png|thumb|Hraesvelgr talks to Ysayle about Shiva.]]
+The [[Warrior of Light (Final Fantasy XIV)|adventurer]], [[Ysayle Dangoulain|Ysayle]], [[Alphinaud Leveilleur|Alphinaud]], and [[Estinien]] journey to the [[Churning Mists]] to find a way to halt Nidhogg's attack on [[Ishgard]]. Once they arrive at Zenith and call him using the moogles' summoning horn, Hraesvelgr rebuffs their pleas. Despite Ysayle's protests, he explains the "Shiva" she called was not his beloved, but a false imitation created from myth—something the "[[Ascian|dark ones]]" tricked his kind into doing in the Third Astral Era with his brood-brother. [[Bahamut (Final Fantasy XIV)|Bahamut]]—to her dismay. He explains the truth of what happened a thousand years ago and why Nidhogg will never accept peace, detailing how thorough war of attrition is part of his brother's revenge.
+
+With no other option left, Estinien and the adventurer enter the Aery and slay Nidhogg and realize his remaining eye was not his. Returning to Zenith, the adventurer returns the eye to Hresvelgr. When Ysayle calls him out on being an accessory to Nidhogg's thousand year wrath, Hresvelgr reminds her of what King Thordan's betrayal cost him, and reminds them his bond with Shiva is the only thing keeping him from seeking vengeance for Ratatoskr's death.
+
+At some point Hresvelgr and Ysayle make peace, for they are later seen at [[Azys Lla]] when the ''Enterprise Excelsior'' is under attack by the [[Garlean Empire|Garlean]] dreadnaught ''Gration''. Leaping from Hresvelgr's back, Ysayle transforms into her [[primal]] form to assault the Garlean vessel to buy the adventurer and others time.
+
+[[File:FFXIV Nidhogg defeated Hraesvelgr.png|thumb|Hraesvelgr loses to Nidhogg.]]
+When Nidhogg, now possessing Estinien's body, prepares for his final assault against Ishgard, [[Aymeric de Borel|Aymeric]] journeys to Sohm Al alongside the Adventurer and Alphinaud, in order to attempt to persuade Hraesvelgr to assist them, despite his earlier refusal. Though he initially rebuffs them once more, he eventually relents upon further persuasion from his father, and puts forth a trial at [[Sohr Khai]], the former abode of Ratatoskr. While [[Vidofnir (Final Fantasy XIV)|Vidofnir]] and [[Vedrfolnir]] test Alphinaud and Aymeric, Hraesvelgr himself challenges the Adventurer in combat. Upon seeing their strength, he agrees to put his faith in mankind one last time and pledges an alliance with Ishgard to stop the final chorus.
+
+When Nidhogg lays siege to the Steps of Faith, Hraesvelgr and the Warrior of Light arrives to challenge him. His attempts to persuade Nidhogg into letting go of his hatred are for naught, and the great wyrms duel in the skies. Though they seem evenly matched, Nidhogg eventually manages to overpower and wound Hraesvelgr. But Hraesvelgr gives the Adventurer one of his eyes, granting them the power to challenge and defeat Nidhogg.
+
+Once Nidhogg's spirit is finally destroyed, Hraesvelgr returns to Sohm Al, accompanied by the Adventurer and Midgardsormr.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After the defeat of [[Omega (Final Fantasy XIV)|Omega]], Hraesvelgr arrives with [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]] to rescue the Warrior of Light, [[Cid nan Garlond|Cid]], and [[Alpha (Final Fantasy XIV)|Alpha]] from the collapsing [[Interdimensional_Rift#Final_Fantasy_XIV|Interdimensional Rift]]. He tells them he saved them due to the request from his father, Midgardsormr.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Hraesvelgr is a large, slender white dragon with four legs and two pairs of wings. His head extends from a crane-like neck, with four forward-facing horns. He notably possesses feathers at the end of his wings and back of his head, a trait not present in his sire, brood-siblings, or progeny.  He also possesses a second smaller pair of wings aligned with his rear legs, also a trait not shared by his progeny or brood-siblings, but seemingly [[Alphascape V2.0|shared with his sire]] (though the younger incarnations of Midgardsormr encountered during the story also lack this second set of wings, along with being more "dragon"-like in shape as a whole). Hraesvelgr's wing feathers are whitish-blue, while the feathers on his head have a black coloration at their tips and edges.
+
+When first seen, his left eye is missing, which is revealed to have been been given to Nidhogg. The eye is returned to him after Nidhogg's defeat, though he later gave it to the Warrior of Light.
+
+===Personality===
+While not as hostile as Nidhogg, the memory of Thordan's betrayal makes him very bitter and sullen to the mortal races. His bond with Saint Shiva is the only thing keep him from joining his brood-brother's quest for vengeance. He nevertheless retained a flicker of hope for reconciliation, which is why he helped Ysayle atone herself, and ultimately is persuaded to defend Ishgard.
+
+==Gameplay==
+Hraesvelgr is the final boss of the {{icon|ffxiv|duty|Sohr Khai}} dungeon. A manifestation of him takes also part in {{icon|ffxiv|duty|Eden's Verse: Refulgence (Savage)}} in ''[[Final Fantasy XIV: Shadowbringers]]''. He merges with [[Ryne|Shiva]] in a similar manner with [[Ran'jit]] merging with Gukumatz after getting past the Flood of Light phase.
+
+==Voice==
+Hraesvelgr is voiced by [[wikipedia:Steven Hartley|Steven Hartley]] in all versions.
+
+==Gallery==
+<gallery>
+Heavensward Dragon Art 02.jpg|Promotional artwork.
+FFXIV Hraesvelgr CG.jpg|Promotional artwork.
+Ryne and Hraesvelgr from FFXIV.png|Render from Ryne and Hraesvelgr's manifestation in Eden's Verse: Refulgence (Savage).
+</gallery>
+
+==Etymology==
+{{Etym|Hraesvelgr}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

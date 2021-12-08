@@ -1,0 +1,246 @@
+{{sideicon|prime=FFXIV|DFFNT|DFFOO|PFF|FFAB|FFRK|FFTCG}}
+{{infobox character
+|name=Lyse Hext
+|release=FFXIV
+|japanese=リセ・ヘクスト
+|romaji=Rise Hekusuto
+|lit=
+|aka=Yda Hext {{j|イダ・ヘクスト|Ida Hekusuto|Yda Hext}}, Animated Pugilist {{j|陽気な格闘士|Yōkina Kakutōshi|Animated Grappler}}
+|image=FFXIV Lyse.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Ala Gannha]]{{cite|FFXIV|{{icon|ffxiv|quest|a familiar face forgotten}}|name=A Familiar Face Forgotten}}{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II|p=46|name=EE2 The Prodigal Daughter}}
+|age=25{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II|p=69|name=EE2 Lyse Hext}}
+|dob=
+|affiliation=*[[Circle of Knowing]]
+*[[Scions of the Seventh Dawn]]
+*[[Ala Mhigan Resistance]]
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=Blonde
+|eye=Blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|pugilist}}
+|weapon=Gut Wrenchers
+<!--Behind the scenes info -->
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=[[Aya Endō]]
+|english voice actor=[[Mela Lee]] (''A Realm Reborn'')<br>[[wikipedia: Laura Aikman|Laura Aikman]] (''Heavensward'' onwards)
+|other appearances=true
+|ffrk=Yda Hext (Record Keeper)
+|ffbe=Yda Hext (Brave Exvius)
+|other appearance 2=[[Yda Hext (Opera Omnia)|Opera Omnia]] (as Yda)
+|other appearance 3=[[Lyse Hext (Opera Omnia)|Opera Omnia]] (as Lyse)
+}}
+
+{{Quote|A young fighter of surpassing skill, Lyse yearns to bring freedom to her homeland of Ala Mhigo, which fell to the Empire when she was but a child. Her brash, impulsive ways often result in her biting off more than she can chew. Yet the time may come when she must rise to the occasion and become a leader of men...|Official website}}
+
+'''Lyse Hext''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. A refugee of the fallen [[Ala Mhigo]], Lyse fled to Sharlayan with her older sister [[Yda Hext|Yda]], where the latter joined the [[Circle of Knowing]] with her partner [[Papalymo Totolymo]]. When Yda was tragically slain on a mission to smuggle refugees out of Ala Mhigo, Lyse in her grief spent years pretending to be Yda with Papalymo's assistance. She would work alongside Papalymo in the Circle and its successor organization, the [[Scions of the Seventh Dawn]], as their representative in the [[Twelveswood]].
+
+It wouldn't be until Papalymo himself passed, his final words to her to walk her own path, that Lyse finally shed her sister's guise and revealed her true identity to her compatriots. From there she would return to Ala Mhigo under her own name to finally liberate it from the [[Garlean Empire]].
+
+{{see|Yda Hext}}
+
+==History==
+===Before ''Final Fantasy XIV''===
+Lyse was born in the village of [[Ala Gannha]] in [[the Peaks]] of [[Gyr Abania]],<ref name="A Familiar Face Forgotten"/><ref name="EE2 The Prodigal Daughter"/> where she grew up with her father [[Curtis Hext|Curtis]] and older sister [[Yda Hext|Yda]]. Curtis served as a guard in the employ of the royal house of King [[Theodoric]]. When the Mad King's rule became too oppressive for him to bear, Curtis fled with his daughters to live off the land as a hunter. Curtis and Yda would eventually join the [[Ala Mhigan Resistance]] in fighting against the Mad King's rule.{{cite|FFXIV|{{icon|ffxiv|quest|the far edge of fate}}|name=The Far Edge of Fate}} Curtis's natural charisma saw him rise to a position of leadership in the Resistance, and in the year 1557 of the Sixth Astral Era{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=52|name=EE 1557}} it was he who led the charge that toppled the tyrant.{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II|p=69|name=EE2 Curtis Hext}}
+
+The victory would be short-lived, as the [[Garlean Empire]] soon invaded in the chaos following the revolution. Curtis was slain in the ensuing violence,<ref name="EE2 Curtis Hext"/> and Lyse was spirited away by her sister.<ref name="The Far Edge of Fate"/> They initially sought asylum in the [[Black Shroud]], but were forced to leave after being denied blessing of the [[Elementals (Final Fantasy XIV)|elementals]]. After months of wandering and foraging off the land to survive, they found themselves in the [[Dravanian Hinterlands]].{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=191|name=EE Yda Hext}} There they met Archons [[Louisoix Leveilleur]] and [[Papalymo Totolymo]], and with their aid were granted sanctuary in the city-state of [[Sharlayan]].{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV|p=190|name=EE Papalymo Totolymo}}. Yda and Papalymo soon became fast friends. Yda became an Archon of Sharlayan herself,<ref name="The Far Edge of Fate"/> and alongside Papalymo a founding member of Louisoix's [[Circle of Knowing]],<ref name="EE Papalymo Totolymo"/> an organization dedicated to the salvation of [[Eorzea]].
+
+Several years later, around the year 1571,{{note|The year 1571 is inferred from Lyse's statement in the first year of the Seventh Astral Era that the mission had occurred six years prior,<ref name="The Far Edge of Fate"/> though it may not be exact.|name=note 1571}} Yda and Papalymo would find themselves spending some time in Gyr Abania on a mission to smuggle refugees out of the war-torn region. The mission would go awry when Yda stayed behind to save a young girl named [[Fordola]] and was ambushed by imperial soldiers, and she was slain in the ensuing battle.<ref name="The Far Edge of Fate"/><ref name="Set with the Sun">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/ Tales from the Twilight]'', "[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/sidestory_03/ Set with the Sun]"</ref>
+
+Papalymo was able to recover Yda's mask in the aftermath and gave it to Lyse as a keepsake, but in her grief Lyse began wearing the mask and pretending to be Yda as a coping mechanism. Papalymo agreed to uphold the charade and invoked a glamour of Yda's Archon tattoos for Lyse, and under this guise she would begin serving as Papalymo's partner in the Circle in Yda's stead. The other members of the Circle of Knowing immediately saw through Lyse's deception, but agreed to remain silent at Papalymo's behest.<ref name="The Far Edge of Fate"/>
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''===
+[[File:Papalymo+Yda End of an Era.png|thumb|Papalymo and Yda pray to [[the Twelve]] for salvation.]]
+The [[Warrior of Light (Final Fantasy XIV)|adventurer]] would meet "Yda" in the year 1572. While they had encountered the real Yda before via Echo visions of the year 1562,{{note|The year 1562 is inferred from {{icon|ffxiv|key item|warburton's journal}} and page 53 of ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', both of which state the parade disaster in Ul'dah and subsequent events occurred in 1562. Among those subsequent events was a starshower seen in Echo visions of all three starting storylines of the original release, implying they occurred at the same time. This is further supported by [[Khrimm]]'s appearance as an adult outside of the visions, indicating that a significant amount of time had passed between the visions and the present day.|name=note 1562}} they were unaware that the Yda they had encountered in their vision had passed in the intervening years.{{note|With the Echo visions occurring in 1562 and Yda's death occurring in 1571, it can be inferred that the Yda seen in the Echo visions of the Gridania storyline during the original release was in fact the real Yda, as Lyse did not begin adopting her sister's identity until after her death. The Yda encountered outside of the visions in 1572 would be Lyse, however.|name=1.0 Yda}}
+
+When the adventurer set out to assist members of the Ala Mhigan Resistance they found the Resistance massacred by imperial legatus [[Gaius van Baelsar]]. Before he could do the same to the adventurer, Yda and Papalymo intervened, along with fellow Circle members [[Thancred Waters]] and [[Y'shtola Rhul]]. After forcing the legatus to retreat, they warned the adventurer that they were not yet ready to fight the empire.{{cite|FFXIV|"Futures Perfect" quest from the original release.|name=Futures Perfect}} They would only sporadically run into Yda afterwards in the days before the [[Seventh Umbral Calamity]]. As the Calamity was unfolding, Yda and Papalymo would pray at the mark of [[Nophica]] in Gridania, as part of an effort throughout Eorzea to summon [[the Twelve]] to stave off the disaster.<ref name="End of an Era">[https://www.youtube.com/watch?v=39j5v8jlndM "End of an Era" cinematic]</ref>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Papalymo Yda Meet Adventurer.png|thumb|Yda and Papalymo meet the Adventurer in the Central Shroud.]]
+In the five years following the Calamity, the Circle of Knowing and the [[Path of the Twelve]] would merge to form a new organization under [[Minfilia Warde]]'s leadership, the [[Scions of the Seventh Dawn]]. Yda and Papalymo would continue their work in the Twelveswood as members of the Scions, and it was in this capacity that they traveled to [[Lifemend Stump]] to investigate a disturbance in the Shroud's aetheric flow. Here they were reintroduced to the adventurer, though neither recognized them as the savior of the realm beyond a vague sense of familiarity{{cite|FFXIV|{{icon|ffxiv|quest|chasing shadows}}|name=Chasing Shadows}}. After a handful more run-ins, they began to recognize signs of the Echo in the adventurer, and invited them to meet with Minfilia at their headquarters in the [[Waking Sands]] and join the Scions.{{cite|FFXIV|{{icon|ffxiv|quest|into a copper hell}}|name=Into a Copper Hell}}
+
+With the threat posed by [[primal]]s growing rapidly in Eorzea, preventing their summoning became the Scions main mission, and on one such assignment Yda and Papalymo worked with the adventurer in a successful bid dissuade the [[Sylph#Final Fantasy XIV|Sylphs]] from summoning their primal [[Ramuh (Final Fantasy XIV)|Ramuh]].{{cite|FFXIV|{{icon|ffxiv|quest|sylph-management}}|name=Sylph-management}} However, while the adventurer was away on a separate assignment to stop the primal [[Titan (Final Fantasy XIV)|Titan]], the Waking Sands was attacked by imperials under the command of [[Livia sas Junius]],{{cite|FFXIV|{{icon|ffxiv|quest|all good things}}|name=All Good Things}} with Yda and Y'shtola being the only Scions to evade capture or death.
+
+[[File:Livia vs Yda.jpg|thumb|Yda and Livia duel in Castrum Centri.]]
+After some time had passed, Yda and Y'shtola returned to the Waking Sands where they were reunited with the adventurer, along with [[Cid Garlond]] and [[Alphinaud Leveilleur]].{{cite|FFXIV|{{icon|ffxiv|quest|reclamation}}|name=Reclamation}} Together the group began investigating the disappearances of the Scions that weren't among the dead, leading them to [[Castrum Centri]] in [[Mor Dhona]]. There they staged a rescue wherein Yda briefly dueled with Livia before being forced to retreat.{{cite|FFXIV|{{icon|ffxiv|quest|escape from castrum centri}}|name=Escape from Castrum Centri}}
+
+After the success of [[Operation Archon]] and the defeat of the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]] and [[Gaius van Baelsar]], she continued her duties with the Scions as they moved their headquarters to the [[Rising Stones]] in Mor Dhona. In this time she was briefly reunited with [[Moenbryda Wilfsunnwyn]], a friend of hers from Sharlayan. When Moenbryda was killed by the [[Ascian]] [[Nabriales]], Yda was devastated, and whilst visiting a memorial to her friend with the adventurer, now known as the Warrior of Light, they witnessed the [[Dravanian Horde]] gathering for an assault on [[Ishgard]].{{cite|FFXIV|{{icon|ffxiv|quest|mask of grief}}|name=Mask of Grief}}
+
+After a successful of Ishgard, the Scions were invited to a banquet in [[Ul'dah]] to celebrate along with the leaders of the [[Eorzean Alliance]]. During the banquet, the Scions were betrayed by the [[Crystal Braves]] and framed for the assassination of [[Nanamo Ul Namo]]. In the ensuing chaos, Yda stayed behind with Papalymo in the [[Royal Promenade]] to buy enough time for the other Scions to escape.{{cite|FFXIV|{{icon|ffxiv|quest|the parting glass}}|name=The Parting Glass}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:XIV HW Yda and Papalymo.jpg|thumb|Yda and Papalymo working with the Resistance.]]
+Yda and Papalymo succesfully escaped from Ul'dah with the aid of members of the Ala Mhigan Resistance, who helped smuggle them to [[Little Ala Mhigo]].{{cite|FFXIV|{{icon|ffxiv|quest|when we were free}}|name=When We Were Free}} The pair began working with the Resistance to repay the debt, and crossed [[Baelsar's Wall]] into Gyr Abania via a network of hidden tunnels. Knowing Yda to be the daughter of Curtis Hext, Commander [[Conrad Kemp]] of the Resistance devoted significant resources to safely transporting the pair, leading some in his command to believe he had a mind to groom her for a leadership position in the Resistance. During this time Yda befriended [[M'naago Rahz]], and on one assignment together M'naago witnessed Yda single-handedly defeating an entire imperial unit.<ref name="The Weight of a Name">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/ Tales from the Storm]'', "[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/sidestory_01/ The Weight of a Name]"</ref>
+
+Though Yda and Papalymo would later learn that the Scions had been exonerated, they had disposed of their linkpearls during their escape from Ul'dah, and their subsequent efforts to reestablish contact failed. Continuing their work with the Resistance, they would cross back over the Wall to [[Southern Thanalan]] in order to investigate the Masks, an extremist Resistance faction forming under the leadership of the mysterious [[The Griffin|Griffin]]. At a rally held by the Masks they would finally be reunited with their fellow Scions, who had come to conduct their own investigation into a large amount of crystals that had been shipped to the Masks, leading to fears that they were planning to summon a primal.<ref name="When We Were Free"/>
+
+Assisting the Scions with their investigation, Yda and Papalymo used their Resistance contacts to arrange a meeting between the Scions and the Griffin's double, and Papalymo expressed concerns at Yda's growing frustrations with the situation in Ala Mhigo.{{cite|FFXIV|{{icon|ffxiv|quest|honorable heroes}}|name=Honorable Heroes}} Shortly thereafter Yda and Papalymo finally chose to rejoin the Scions. The Scions were then approached by [[Gundobald]], who had fought alongside Curtis and Yda in the revolution and was overjoyed to see Yda again, having thought her dead and remarking that she looked as though she hadn't aged at all in the intervening years. However, "Yda" did not remember Gundobald, and quickly excused herself after stumbling over a response explaining her absence, prompting Papalymo to curse himself for giving Yda's mask to her.{{cite|FFXIV|{{icon|ffxiv|quest|an ending to mark a new beginning}}|name=An Ending to Mark a New Beginning}}
+
+Some time later a wounded M'naago would arrive at the Rising Stones, warning that the Griffin was planning to [[Battles of Baelsar's Wall|attack Baelsar's Wall]] from the Gyr Abanian side.{{cite|FFXIV|{{icon|ffxiv|quest|tidings from gyr abania}}|name=Tidings from Gyr Abania}} Hoping to convince the Resistance to stop the assault, Yda left along with Papalymo and [[Yugiri Mistwalker]] for the secret tunnels they had previously used to cross the wall. However, the attack came early and it became clear that the Griffin's assault was intended to be a false flag operation implicating the Eorzean Alliance while simultaneously inciting rebellion on the Gyr Abanian side. Alphinaud then set off after the infiltration group to prevent them from emerging in an open battlefield, while the Warrior of Light climbed the Wall to confront the Griffin.{{cite|FFXIV|{{icon|ffxiv|quest|griffin, griffin on the wall}}|name=Griffin, Griffin on the Wall}}
+
+The group rendezvoused with the Warrior of Light after he had defeated the Griffin, revealed to be the traitorous [[Ilberd Feare]], former captain of the Crystal Braves. Ilberd had come into possession of the [[Eyes of Nidhogg]], and revealed his true plan, sacrificing his soldiers and even himself to summon a primal against Garlemald. As the primal began to manifest from the dying life energieso of Resistance and the Eyes, Papalymo ordered everyone else to flee on [[Hilda Ware]]'s airship while he stayed behind to invoked a spell that would seal the primal, imploring "Yda" to walk her own path. Yda protested his decision, knowing that the spell would cost Papalymo his life, but Thancred forcibly carried her back to the airship as light engulfed the manifesting primal and Papalymo, creating a massive "cocoon" in the sky above the Wall.<ref name="Griffin, Griffin on the Wall"/>
+
+{{Quote|So, this is it. Whatever I choose to do from now on, I do as Lyse. ...And I choose to continue my family's fight. I want Ala Mhigo to be the country that Yda and my father always wanted it to be!|Lyse}}
+
+[[File:FFXIV Lyse 6.png|thumb|Lyse revealing her true identity.]]
+When the primal began showing signs of breaking out of the cocoon, [[Nero tol Scaeva]] proposed awakening [[Omega (Final Fantasy XIV)|Omega]] to defeat it.{{cite|FFXIV|{{icon|ffxiv|quest|the obvious solution}}|name=The Obvious Solution}} Yda was among those who accompanied the Warrior of Light and Nero to the [[Carteneau Flats]] where Omega laid dormant, and there requested that she be one to awaken the machine in honor of Papalymo. Omega confronted the primal, [[Shinryu (Final Fantasy XIV)|Shinryu]], as it broke free of the cocoon, and the two fought to a stalemate before disappearing over the Wall. With the cocoon broken, and with it the last vestiges of Papalymo's aether, the Archon tattoos he had created for "Yda" faded.{{cite|FFXIV|{{icon|ffxiv|quest|fly free, my pretty}}|name=Fly Free, My Pretty}}
+
+In the aftermath of the battle, Yda returned to Baelsar's Wall, needing to see for herself that the cocoon was gone. There she finally took off her mask and revealed her true identity as Lyse to all present. Though the more tenured Scions had long known of the deception, the Warrior of Light was caught unawares, leading Lyse to explain to them what befell the original Yda. From then on Lyse chose to heed Papalymo's final words to her and walk her own path, acting under her true name and fighting for the freedom of Ala Mhigo.<ref name="The Far Edge of Fate"/>
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Crossing into Gyr Abania with the Scions, Lyse would be reunited with Commander Kemp at [[Rhalgr's Reach]] as a representative of the Eorzean Alliance, apologizing for her earlier deception. Conrad was quick to forgive her, as she was far from the first member of the Resistance to hide their true identity. As part of the Resistance's agreement with Alliance, Lyse would return to her birthplace of Ala Gannha alongside the Warrior of Light and Resistance member [[Meffrid Noward]] on a mission to find new recruits for the Resistance.<ref name="A Familiar Face Forgotten"/> They received a cold reception from the village elder, [[Raganfrid Bleaker]]. He refused to provide any assistance, citing the many young already lost to the Griffin's assault on the Wall, and only relented from banishing the group from the village after recognizing Lyse as Curtis Hext's daughter.{{cite|FFXIV|{{icon|ffxiv|quest|the prodigal daughter}}|name=The Prodigal Daughter}}
+
+In her attempts to find new recruits, Lyse attempted to appeal to them as a fellow Ala Mhigan, but found herself unable to relate to the plight of those who had lived under imperial the past 20 years.{{cite|FFXIV|{{icon|ffxiv|quest|a life more ordinary}}|name=A Life More Ordinary}} After saving a merchant who had been kidnapped by [[Qiqirn (Final Fantasy XIV)|Qiqirn]], the group followed him to his meeting to deliver his tributum to the local imperial garrison at [[Specula Imperatoris]]. They watched from the shadows as the imperials, a unit of Ala Mhigan youths called the [[Crania Lupi]], beat the merchant for his late delivery. Lyse nearly rushed to the merchant's aid before being talked down by Meffrid, as not only were they in full view of Imperatoris, but any intervention would assuredly lead to reprisal against the merchant and his family, if not the whole of Ala Gannha.{{cite|FFXIV|{{icon|ffxiv|quest|the black wolf's pups}}|name=The Black Wolf's Pups}} Unbeknownst to Lyse, the commander of the Crania Lupi was none other than Fordola rem Lupis, the same child whom Yda had previously given her life trying to save, now grown.<ref name="Set with the Sun"/>
+
+Despite their rescue of the merchant, Raganfrid still refused to aid the Resistance, causing Lyse to grow frustrated with the locals' acceptance of imperial rule. In addition she was troubled by the existence of the Crania Lupi, Ala Mhigans terrorizing their own. Nonetheless, their heroics succeeded in convincing some few of the locals to join the Resistance's cause, and a humbled Lyse returned to the Rhalgr's Reach with the group.{{cite|FFXIV|{{icon|ffxiv|quest|homeward bound}}|name=Homeward Bound}}
+
+Shortly thereafter, the [[XIIth Imperial Legion]], under the command of imperial viceroy [[Zenos yae Galvus]], launched a surprise attack on the Reach. During the battle Lyse wintessed Fordola cutting down Meffrid, and the two briefly fought as Lyse tried to avenge her fallen compatriot, their duel interrupted by Zenos's arrival. While Fordola warned Zenos that Lyse was a stronger opponent than the average Resistance member, he overpowered her easily. As he moved to finish her off, Y'shtola intervened with a magical barrier to save her. This too failed to stop the viceroy and he broke through the barrier, grievously wounding Y'shtola in the process. Lyse was then taken prisoner along with Y'shtola and Commander Kemp. They were freed with the arrival of the Warrior of Light, but even they failed to defeat Zenos. The imperials subsenquentially withdrew, satisfied that the Resistance was suitably crushed.{{cite|FFXIV|{{icon|ffxiv|quest|in crimson it began}}|name=In Crimson It Began}}
+
+With the Resistance decimated by the attack on the Reach, it became clear that fighting a head-on war with the Empire was unfeasible. The Scions thus proposed traveling to [[Doma (Final Fantasy XIV)|Doma]], another imperial territory under Zenos's command. There they would rekindle its own failed revolution and force the XIIth Legion to fight a war on two fronts.{{cite|FFXIV|{{icon|ffxiv|quest|divide and conquer}}|name=Divide and Conquer}}
+
+Lyse joined the Doma delegation, but was surprised to find much of the same hopelessness and listlessness there as she had seen in Ala Mhigo, and she became angered at the sight. It wasn't until she spoke with Lord [[Hien Rijin]], missing heir to the Doman throne, that she began to understand the plight of those who had lived under imperial rule. He described people as being pragmatic as heart, that when faced with unrelenting disappointment and hardship they begin to accept it as normal, lest it only get worse. He continued that they could not be expected to rise up at a moment's notice, and that only one who knew their pain and loss could convince them to strive for more. Lyse related this to Papalymo's wish for her to find her own way forward, him having known her own pain and loss following the death of Yda, and resolved to become a leader comparable to Hien and the Warrior of Light.{{cite|FFXIV|{{icon|ffxiv|quest|a final peace}}|name=A Final Peace}}
+
+The mission to Doma ultimately proving successful and Doma freed from imperial rule, the Scions returned to Gyr Abania to resumed their campaign there. With the Resistance having successfully rebuilt while Zenos was distracted in Doma, the combined strength of the Resistance and the Alliance initiated [[Operation Rhalgr's Beacon]] and began their march on Ala Mhigo. They first moved to take [[Castellum Velodyna]] from the Empire. Lyse led the successful assault on the bridge, forcing Fordola to retreat. From there the allied forces pushed through to Specula Imperatoris. During the battle, Fordola ordered the main cannon at the nearby [[Castrum Abania]] to fire on the main tower of Imperatoris, causing it to collapse on the combatants below and inflicting heavy casualties on both imperial and allied forces.{{cite|FFXIV|{{icon|ffxiv|quest|hells open}}|name=Hells Open}} Among those was Commander Kemp, who with his final words passed on command of the Resistance to Lyse.{{cite|FFXIV|{{icon|ffxiv|quest|heavens weep}}|name=Heavens Weep}}
+
+Despite the catastrophe at Specula Imperatoris, Rhalgr's Beacon marched inexorably on, taking Castrum Abania and thus securing the final passage to the gates of Ala Mhigo. Lyse participated in the assault on the Castrum, and there witnessed Fordola demonstrating new powers as a [[Resonant]].{{cite|FFXIV|{{icon|ffxiv|quest|the price of freedom}}|name=The Price of Freedom}} Lyse struggled with the burden of her newfound leadership in the aftermath, and seeing this was invited by General [[Raubahn Aldynn]] of the [[Immortal Flames]] to the nearby village of [[Coldhearth]], his childhood home. There Raubahn told her of the day he met her father Curtis, a leader in the Ala Mhigan revolution. He recounted Curtis' revolutionary creed, "Liberty or Death," and his words that liberty meant not only being free, but free to build something better. Raubahn then asked Lyse to swear by her father's creed, which she did, adding that the liberty she seeks is liberty for every Ala Mhigan, even those who fought for the Empire.{{cite|FFXIV|{{icon|ffxiv|quest|liberty or death}}|name=Liberty or Death}}
+
+With the stage set for the final battle at Ala Mhigo, Lyse and the Warrior of Light returned to Rhalgr's Reach for a brief respite and to check on their wounded comrades. There Lyse began wearing a traditional Ala Mhigan dress that once belonged to Yda, stating that by wearing it she could in a way allow Yda to be present for Ala Mhigo's liberation. Following a quick sparring match with the Warrior of Light they returned to the front.{{cite|FFXIV|{{icon|ffxiv|quest|the lady in red}}|name=The Lady in Red}}
+
+[[File:FFXIV SB Victory.png|thumb|Lyse announces Ala Mhigo's victory.]]
+There Lyse led an infiltration mission to Ala Mhigo's residential district, allowing the Resistance to secure it and taking custody of Fordola rem Lupis in the process.{{cite|FFXIV|{{icon|ffxiv|quest|the resonant}}|name=The Resonant}} With the district secured the main host of the Alliance was free to launch an all-out assault on the main gates. They successfully broke through the gates and overran the city, and with Zenos slain by his own hand, Lyse declared victory and freedom for Ala Mhigo.{{cite|FFXIV|{{icon|ffxiv|quest|stormblood}}|name=Stormblood}}
+
+In the aftermath of Ala Mhigo's liberation, Lyse resigned from the Scions, choosing to stay and help the city-state build its new republic.<ref name="Stormblood"/> She struggled to maintain order in the city—when a mob formed demanding the execution of the imprisoned Fordola, she was unable to calm them, and the mob was dispersed only with Raubahn's intercession, his status as near-legendary figure causing to crowd to quickly heed his words.{{cite|FFXIV|{{icon|ffxiv|quest|the butcher's blood}}|name=The Butcher's Blood}}
+
+In order to determine what form Ala Mhigo's new government would take, Lyse arranged a meeting of the disparate leaders of Gyr Abania's peoples, including those of the beast tribes. The meeting was disrupted when the [[tempered]] [[Ananta]] of the [[Qalyana]] tribe summoned the primal [[Lakshmi (Final Fantasy XIV)|Lakshmi]] in the midst of its proceedings. With the only people present with the Echo, and thus immune to tempering, being the Warrior of Light and [[Arenvald Lentinus]], Lyse freed Fordola to aid them, as her Resonant powers were themselves a form of the Echo.{{cite|FFXIV|{{icon|ffxiv|quest|the legacy of our fathers}}|name=The Legacy of Our Fathers}} With Fordola's aid the group were able to defeat the primal and the meeting proceeded as planned, with the leaders settling on ruling body of elected officials modeled after Ishgard's House of Commons.{{cite|FFXIV|{{icon|ffxiv|quest|return of the bull}}|name=Return of the Bull}}
+
+In the aftermath of the meeting, Raubahn was relieved of his command of the Immortal Flames, allowing him to remain in his homeland of Ala Mhigo. With this and a pending reorganization of Ala Mhigo's army under the new government, Lyse nominated Raubahn as the overall commander of their forces, giving the Ala Mhigan people an experienced figurehead to rally behind.<ref name="Return of the Bull"/>
+
+When the Empire began mobilizing to retake Ala Mhigo, the Eorzean Alliance moved to defend the fledgling republic's borders. Before battle could be joined, the Alliance leaders met with Emperor [[Varis zos Galvus]] at the negotiating table, with Lyse and Raubahn serving as Ala Mhigo's representatives.{{cite|FFXIV|{{icon|ffxiv|quest|parley on the front lines}}|name=Parley on the Front Lines}} The negotiations failed and Lyse joined the Alliance forces on the front lines at the [[Ghimlyt Dark]]. When the Ascian [[Elidibus (Final Fantasy XIV)|Elidibus]], posing as the fallen crown prince Zenos, began turning the tide in the Empire's favor, Lyse joined a group attempting to stop him. They were soundly defeated, though Elidibus would ultimately be driven back by the arrival of the Warrior of Light and [[Estinien Wyrmblood]].{{cite|FFXIV|{{icon|ffxiv|quest|a requiem for heroes}}|name=A Requiem for Heroes}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+As part of her efforts to build a unified nation, Lyse sought out [[Widargelt Beake]] of the [[Fist of Rhalgr]], the last surviving member of Ala Mhigo's royal family. When Widargelt refused to serve in any royal capacity, Lyse reframed her offer to instead train the Resistance in the way of the Fist, as even she hadn't received any formal training, and he accepted the offer.{{cite|FFXIV|{{icon|ffxiv|quest|a monk's legacy}}|name=A Monk's Legacy}}
+
+Following the Scions' return from [[the First]], Lyse was the first Alliance leader to meet with them at the Rising Stones, informing them of the Empire's new war of succession following Varis's assassination.{{cite|FFXIV|{{icon|ffxiv|quest|alisaie's quest}}|name=Alisaie's Quest}} When [[Fandaniel's towers|mysterious towers]] began appearing across the world, Lyse summoned the Scions to Ala Mhigo where they ecnountered [[Lunar Bahamut]] and the rogue Ascian [[Fandaniel]], who informed them of his and the revived Zenos's attempt to recreate the [[Final Days]] of [[Amaurot]], with the towers playing an unspecified part. Lyse sent a scout unit to investigate the nearby tower in Gyr Abania. Sometime later, Lyse was attacked by one of the returning scouts, who was seemingly tempered by the tower to become devoted to the Garlean Empire.{{cite|FFXIV|{{icon|ffxiv|quest|futures rewritten}}|name=Futures Rewritten}} The scout was restrained and cured of his tempering, after which Lyse shared her findings with the rest of the Alliance.{{cite|FFXIV|{{icon|ffxiv|quest|unto the breach}}|name=Unto the Breach}}
+
+==Characteristics==
+===Appearance===
+[[File:Yda NPC Render 2.png|thumb|150px|Lyse while assuming Yda's identity.]]
+
+Lyse is a fair-skinned Highlander{{cite|FFXIV|{{icon|ffxiv|quest|a haven for the bold}}|name=A Haven for the Bold}} with long blonde hair and blue eyes. She looked very similar to her sister Yda, enough to with some assistance fool old acquaintances of Yda's like Gundobald<ref name="An Ending to Mark a New Beginning"/> and even the Warrior of Light, who had encountered the real Yda via the Echo,{{note|name=1.0 Yda}} though those who were close to the real Yda immediately saw through the deception, only upholding the charade at Papalymo's insistence.<ref name="The Far Edge of Fate"/>
+
+While posing as Yda, she wore Yda's outfit consisting of a white jacket, a dark red sash undershirt, fingerless gloves and a pair of red armored greaves. Her most distinctive feature was the mask on her turban that concealed the upper half of her face, her long hair also hidden beneath the turban. The mask served to hide her lack of the face tattoo born by Yda,<ref name="Set with the Sun"/> and she had Papalymo glamour Yda's Archon tattoos for her to uphold the deception.<ref name="The Far Edge of Fate"/> She continued to use Yda's Gut Wrenchers, a pair of cesti-like darksteel knuckles sturdy enough to withstand the incredible force with which she wielded them.<ref name="EE Yda Hext"/> The only alteration Lyse made to the outfit was when she joined the Scions of the Seventh Dawn, adding a pair of aetheric goggles common amongst the Scions to her turban.
+
+[[File:FFXIV SB Lyse Concept.jpg|thumb|left|Lyse's initial outfit after dropping her guise.]]
+When Lyse dropped her guise as Yda, she was given a new outfit from [[Tataru Taru]] that was designed to better suit her fighting style.{{cite|FFXIV|{{icon|ffxiv|quest|beyond the great wall}}|name=Beyond the Great Wall}} She now wore a short-cropped white shirt with an open red vest and the greaves from Yda's outfit, and used her bare fists in lieu of the Gut Wrenchers. On the eve of the siege of Ala Mhigo, she began wearing a red traditional Ala Mhigan dress with matching pointy-tipped shoes and baggy white pants. According to Lyse, the dress once belonged to Yda.<ref name="The Lady in Red"/>
+
+===Personality===
+Lyse is laid-back and has no problem speaking whatever is on her mind. She has no qualms asking others directly about any subject, instead of trying more subtle means. She is also not very knowledgeable in matters that she can't solve by punching. Her bluntness and ignorance can cause her to come across as insensitive, often earning her a scolding from Papalymo. All in all she had a very similar personality to her sister, aiding her deception.
+
+Once Lyse was exposed to the Ala Mhigan Resistance, she began showing signs of frustrations regarding Ala Mhigo's plight, earning her cautions from Papalymo to not act rashly.<ref name="Honorable Heroes"/><ref name="Griffin, Griffin on the Wall"/> After she joined the war effort in Gyr Abania following Papalymo's death, these frustrations began to boil over. She struggled to relate with those who lived under imperial rule,<ref name="A Life More Ordinary"/> becoming increasingly angry at their unwillingness to rise up against their oppressors,<ref name="A Final Peace"/> and without Papalymo's intercession her insensitivity began to offend more frequently.
+
+Conrad saw potential in Lyse as a leader, and with guidance from him, Hien, and Raubahn, Lyse was able to mature and become the leader Conrad believed her to be. Through them she learned to empathize with the people and came to terms with what her goals were for a free Ala Mhigo.<ref name="A Final Peace"/><ref name="Liberty or Death"/> Despite this, she still struggles with her inexperience in a leadership position,<ref name="The Butcher's Blood"/> and gladly ceded overall command of Ala Mhigo's military to Raubahn when he became available.<ref name="Return of the Bull"/>
+
+==Gameplay==
+{{section|Final Fantasy XIV}}
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Lyse
+|image = [[File:Lyse Triple Triad Card.png]]
+|number = 187
+|total = 24
+|type = Scion
+|description = “I'm sorry for lying to you. My real name is Lyse.”
+|obtain = Defeat 70 unique NPCs at Triple Triad and redeem the achievement "Triple Team VI".
+}}
+
+==Other appearances==
+{{main|/Other appearances}}
+
+Lyse has appeared as a guest in the following games, most frequently under her guise as Yda:{{note|Yda's guest appearances are universally Lyse disguised as Yda. This can be discerned via the aetheric goggles on her turban. The goggles were not added to her outfit until ''A Realm Reborn'', long after the real Yda's death.|name=Other appearances}}
+
+:'''As Yda'''
+*''[[Yda Hext (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[Yda Hext (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Yda Hext (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[Yda Hext (Theatrhythm)|Theatrhythm Final Fantasy All-Star Carnival]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a Legend and a playable character.
+*''[[Lyse Hext/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of cards.
+*''[[Lyse Hext/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+*''[[Lyse Hext/Other appearances#Puzzle & Dragons|Puzzle & Dragons]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#LINE|LINE]]'' as a sticker set.
+
+:'''As Lyse'''
+*''[[Lyse Hext (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#Dissidia Final Fantasy NT|Dissidia Final Fantasy NT]]'' as a pair of player icons.
+*''[[Lyse Hext/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[Lyse Hext/Other appearances#Puzzle & Dragons|Puzzle & Dragons]]'' as a playable character.
+
+==Behind the scenes==
+===Voice===
+Lyse is voiced by [[Mela Lee]] in the English version of ''A Realm Reborn'', and by Laura Aikman in ''Heavensward'' and all subsequent expansions. She is voiced by [[Aya Endō]] in the Japanese version.
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV 1st Anniversary Countdown 19 Days.jpg|Artwork of Yda for ''[[Final Fantasy XIV Online Anniversary]]''.
+FFXIV SB Concept.jpg|Artwork from ''Stormblood''.
+FFXIV The Far Edge of Fate Artwork.jpg|Yda in ''The Far Edge of Fate'' artwork.
+StormbloodJapaneseCoverArtwork.jpg|Artwork from ''Stormblood''.
+FFXIV Stormblood Lyse Artwork.png|Artwork from ''Stormblood''.
+Lyse Stormblood FFXIV Release artwork.jpg|Artwork for the release of ''Stormblood''.
+FFXIV SB Ala Mhigo promotional poster.jpg|Lyse in ''Stormblood'' promotional artwork.
+FFXIV Lyse Stormblood artwork.png|Artwork from ''Stormblood''.
+FFXIV SB Lyse Artwork.jpg|Concept art.
+FFXIV SB Lyse Alternative Concept.jpg|Concept art.
+FFXIV SB Lyse Concept.jpg|Concept art.
+FFXIV SB Lyse Hext artwork.jpg|Promotional artwork by [[Ayumi Namae]].
+FFXIV SB Art of the Revolution - Western Memories.jpg|''Art of the Revolution -Western Memories-'' artbook cover.
+</gallery>
+
+;Screenshots and renders
+<gallery>
+Papalymo and Yda CG.png|Papalymo and Lyse in her Yda disguise in the opening of ''A Realm Reborn''.
+FFXIV Yda ARR.png|In-game render.
+FFXIV Lyse 1.png|Lyse in the ''Stormblood'' opening trailer.
+FFXIV Lyse 2.png| ''Stormblood'' opening trailer.
+FFXIV Lyse 3.png|In ''Stormblood'' opening trailer.
+FFXIV Lyse 4.png|Fighting the Warrior of Light in ''Stormblood'' opening.
+FFXIV Lyse 5.png|Unmasked Lyse.
+FFXIV Lyse 6.png|Unmasked Lyse.
+FFXIV Lyse Homecoming Outfit.png|Lyse's ''Stormblood'' outfit.
+FFXIV Lyse Stormblood.png|Lyse's second ''Stormblood'' outfit.
+FFXIV Lyse Ala Mhigan Outfit.png|Lyse in a traditional Ala Mhigan outfit.
+FFXIV TFS Scion girls.jpeg|Lyse, Alisaie, and Y'shtola in Limsa Lominsa, from ''Tales From the Storm - A Calm After the Storm''.
+FFXIV TFS Lyse.jpeg|Lyse in a free Ala Mhigo, from ''Tales From the Storm - The Weight of a Name''.
+FFXIV TFS Lyse Hien BG.png|Lyse and Hien on the ''Tales From the Storm'' special site.
+</gallery>
+
+==Notes==
+===Annotations===
+{{notelist}}
+
+===Citations===
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[es:Lyse Hext]]
+[[pt-br:Lyse Hext]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Pugilists]]
+[[Category:Hyurs]]

@@ -1,0 +1,49 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Drillemont de Lasserant
+|release=FFXIV
+|japanese=ドリユモン・ド・ラセラン
+|romaji=Doriyumon do Raseran
+|lit=Driyemon de Laseran
+|image=FFXIV Drillemont.png 
+|race=[[Elezen]]
+|gender=Male
+|height= 
+|hair=Blond
+|eye=Blue
+|designer= 
+|age=
+|affiliation=
+|occupation=
+|home=[[Ishgard]]
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=Adamantite Winglet
+|armor=
+}}
+'''Drillemont de Lasserrant''', also known as '''Drillemont the Honest''', is a non-playable character from ''[[Final Fantasy XIV]]''. He is a noble of House Durendaire of [[Ishgard]], and in command of Whitebrim Front.
+
+== History ==
+As commander of Whitebrim, Drillemont is the first line of defense against the now dragon-controlled [[Stone Vigil]]. After the Warrior of Light, [[Alphinaud Leveilleur|Alphinaud]], and [[Cid nan Garlond|Cid]] learned the airship ''Enterprise'' had landed in the keep from Lord [[Haurchefant Greystone]] in Camp Dragonhead, they were directed to ask Drillemont for permission to investigate. As he was still planning an attempt to retake the Vigil from the Dravanian Horde, he sternly denied them. While they tried to gain favor with the local garrison to change his mind, interference from Inquisitor [[Guillaime]] led to the discovery that he was an imposter interfering with Ishgard affairs.
+
+Once proof is brought to Drillemont, he personally marches to arrest the false Inquisitor at Snowcloak. The Warrior of Light must back him up as "Guillaime" is unwilling to go without a fight. With the matter resolved, Drillemont agrees to let them infiltrate Stone Vigil to retrieve the ''Enterprise''.
+
+Drillemont later reappears in the last part of the Main Scenario quests for Patch 2.3: ''Defenders of Eorzea''. The Warrior of Light is directed to him by Haurchefant to help investigate increased heretic Harrier activity, which had waylaid a supply shipment to Revenant's Toll.
+
+Drillemont is also the Warrior of Light's contact in the quest for Stone Vigil (Hard). Having finally prepared a counterattack to retake the Vigil, he requests the Warrior of Light assist him as a vanguard due to prior experience at the citadel.
+
+Drillemont once again appears in 2.4, taking a small role in coordinating the search of Snowcloak and the hunt for Iceheart. By this time, the Warrior of Light's consistent aid has won him over, and his manner becomes much more friendly.
+
+== Characteristics ==
+===Appearance===
+Drillemont is a male [[Elezen]] with light brown hair and beard, garbed in full chainmail. His shield bears the heraldry of House Durendaire.
+
+===Personality===
+Drillemont is stern, strict and has little tolerance for what he considers wastes of his time. He firmly believes that the reclamation of the Stone Vigil is strictly a House Durendaire affair, and that allowing foreigners or even seperate Ishgardian houses to aid them in their mission would be tantamount to an admission of weakness. This belief is so strong that, when House Fortemps and House Hailllernate propose an alliance between them and non-Ishgardian adventurters to retake the Vigil, he flies into a rage, furiously refusing the offer and going on an extended rant about his ironclad beliefs.
+
+However, while earning Drillemont's respect is no small feat, once it is done he proves to be an invaluable ally. While still highly strict and stubborn, he is much more willing to hear out those who have earned his respect.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Paladins]]

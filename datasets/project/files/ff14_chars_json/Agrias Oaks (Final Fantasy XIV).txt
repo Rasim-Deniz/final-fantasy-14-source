@@ -1,0 +1,70 @@
+{{sideicon|FFXIV}}
+{{DISPLAYTITLE:Agrias Oaks (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Agrias Oaks
+|release=FFXIV
+|japanese=アグリアス・オークス
+|romaji=Aguriasu Ōkusu
+|lit=
+|aka=
+|image=FFXIV Agrias Oaks 01.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Female
+|height=
+|weight=
+|hair=Blonde
+|eye=
+|type=npc
+|job=
+|abilities=
+|weapon=
+|armor=
+|original appearance=
+|japanese voice actor= [[Rina Satō]]
+|english voice actor=
+}}
+'''Agrias Oaks''' is a historical character from ''[[Final Fantasy XIV]]''. She appears in the [[Return to Ivalice]] raid questline and shares a similar story of her [[Agrias Oaks|original appearance]] up until the encounter with [[Ultima, the High Seraph|Ultima]].
+
+==History==
+Agrias joined [[Ramza Beoulve (Final Fantasy XIV)|Ramza]] and company to the Orbonne Monastery to prevent the resurrection of [[Ultima, the High Seraph]]. After a long battle with the seraph, they realized they couldn't defeat her, and instead sealed her in the realm of [[Mullonde]] once more. Ramza had planned for another hero to defeat her in the future, and they gave up their corporeal forms to act as guardians to test any hero that attempts to defeat the [[Lucavi]].
+
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and an alliance of adventurers enter the monastery, Agrias appears as their second trial. Upon defeat she transforms into her human form, and tells the party she will return to Ovelia's side. After the Warrior of Light fells Ultima Agrias appears with the rest of her friends to thank the hero, before returning to the lifestream. 
+
+==Characteristics==
+===Appearance===
+Agrias is a female midlander [[Hyur]] with long blonde hair and green eyes. She wears [[Ivalice|Ivalician]] holy knight armor, and when transformed, she has the appearance of an armored angel with a face mask and sharp legs. 
+
+===Personality===
+Agrias has a strong sense of justice and honor, and cares about [[Ovelia Atkascha|Ovelia]] even after death.
+
+==Gameplay==
+Agrias is fought as the second boss of {{icon|ffxiv|duty|the Orbonne Monastery}}
+
+==Gallery==
+<gallery>
+FFXIV Agrias Render.jpg|Render as a boss.
+FFXIV Agrias concept.png|Concept art.
+FFXIV Agrias.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

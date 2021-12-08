@@ -1,0 +1,88 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Emmanellain de Fortemps
+|release=FFXIV
+|japanese=エマネラン・ド・フォルタン
+|romaji=Emaneran do Forutan
+|lit=Emanelan de Fortan
+|aka=
+|image=Emmanellain de Fortemps from Final Fantasy XIV.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home= [[Ishgard]]
+|age= 26
+|dob=
+|affiliation= [[High Houses of Ishgard#House Fortemps|House Fortemps]]
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|treasure=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=Black
+|eye=Blue
+<!--Gameplay details.
+ Adds details for whatever the main release is, unless infobox is used for a subpage.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|designer=
+|motion capture=
+|japanese voice actor=Kengo Takanashi
+|english voice actor=Stefano Braschi
+}}
+'''Lord Emmanellain de Fortemps''' is a [[non-player character]] in ''[[Final Fantasy XIV: Heavensward]]''. He is the youngest son of [[Edmont de Fortemps|Count Edmont]], and brother to [[Haurchefant Greystone|Haurchefant]] and [[Artoirel de Fortemps|Artoirel]].
+
+Due to his carefree and unfocused behavior, he is attended by a pageboy named [[Honoroit]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:XIV Emmanelain.jpg|thumb|left|Emmanellain in the Fortemps Manor.]] 
+Emmanellain is the younger of the Count's sons, and the Warrior of Light is asked to assist him and Artoirel de Fortemps with their duties. Emmanellain is tasked with assisting House Haillenarte's outpost in the [[Sea of Clouds]]; a low-risk assignment given his unreliability. The commander of the Rose Knights stationed at Camp Cloudtop, Lady Laniaitte de Haillenarte, has the Warrior of Light and Honoroit ensure Emmanellain won't be a liability while the former does the real work.
+
+Despite their best efforts, [[Vanu Vanu]] take Emmanellain hostage near Voor Sian Siran, requiring the Warrior of Light and Haurchefant to rescue him from Ok'Bendu Vundu. During the hectic escape (aided by [[Cid nan Garlond|Cid Garlond]]), they witness the [[primal]] [[Bismarck (Final Fantasy XIV)|Bismarck]]. After returning to Fortemps Manor, Emmanellain's father slaps him for his recklessness.
+
+Emmanellain is later in the Jeweled Crozier with his attendant, where his comments depend on main scenario progression.
+
+During the investigation into the recent arson in [[Ishgard]], the Scions question Emmanellain on word on the street, but he proves to be less than useful. Later, he and Artoirel bestow a House Fortemps shield, fit for a true knight, to the Warrior of Light in recognition of recent events. He leaves with a gloomy expression as Artoirel resolves to aid the people.
+
+During preparations for a peace conference at Falcon's Nest, Emmanellain finds himself in temporary command of the forces there, just as a protest against the truce between Dravania and Ishgard ignites. As a disgruntled maid stands on one of the battlements imploring Ishgardians to take up arms once more, Emmanellain panics and orders a nearby soldier to do something; the soldier shoots the woman twice, the second time apparently fatally. This angers the watching crowd, many of who leave, beating Emmanellain's manservant Honoroit in the process.
+
+Emmanellain is struck hard by the event, and even more so when he finds Honoroit. Disturbed and looking for someone to blame for the debacle, he lashes out at Thancred after the Scion offers a few choice words; Thancred icily mentions he himself gave everything to his cause and still failed. After telling the lordling that he must live with the consequences of his actions, Thancred leaves Emmanellain to return to Ishgard.
+
+The Warrior of Light finds Emmanellain ruminating in the Jeweled Crozier. Having accepted that the fault for the Falcon's Nest riot was his and his alone, he goes to Ser Aymeric and, after asking the Lord Commander how he finds the strength to lead Ishgard, requests to be counted among Ishgard's warriors in the Grand Melee.
+
+The Ishgard's victory in the Grand Melee boosts Emmanellain's spirits, and he is forgiven over his failure in the parley. He joins the Ishgardian defenders in the [[Battle on the Steps of Faith]]. Afterwards, he is given the position Haurchefaint held in Camp Dragonhead for a time.
+
+===[[Ishgardian Restoration]]===
+During the Warrior of Light's venture in [[Eorzea]] with Lord [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] and Count [[Charlemend de Durendaire]], the trio happen upon Emmanellain and Honoroit in [[Ul'dah]]. Emmanellain was inspired to explore Ishgard's neighboring city states now that the war is over, and be privy to their social scenes to have a greater understanding of other Eorzeans. This inspires Charlemend to approach Ul'dahn business ventures with a more personal desire to learn about other people, rather than simply request a business transaction. Emmanellain tells the Warrior of Light that he will use his new connections in the city to help the Firmament gain funding and invite aspiring businesses to open shops in the neighborhoods.
+
+After the Firmament project is complete, Emmanellain joins the concert commemorating the project, playing the flute on stage. He brags that his "exceptional" skills will most certainly woo Lady Laniaitte.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+When the Eorzean Alliance creates the Ilsabard Contingent, a specialized unit formed for the invasion of Garlemald, Emmanellain is assigned to it as one of the Ishgardian representatives. His foppish behavior causes him to frequently clash with [[Sicard]]. Later, when the allies of the Scions converge in [[Sharlayan]] to complete the Ragnarok, he arrives and is present to witness the starship's launch.
+
+==Characteristics==
+===Appearance===
+Emmanellain is a Wildwood [[Elezen]] with long, messy dark hair and blue eyes. He wears a bright brown alpine overcoat, and long adept thigh-high boots covering a red pair of pants. When in battle, he wears Fortemps issued chainmail armor and wields a brass Viking sword.
+
+===Personality===
+Unlike his more confident, skillful and focused brothers, Emmanellain is meek, cowardly, and easily panics during a crisis. Whenever something goes wrong as a result of his actions, Emmanellain attempts to shift blame unto others rather than face the consequences. He is reckless in his pursuit to please his father. Due to his unreliability, the pageboy Honoroit often completes his tasks with better efficiency. Despite Honoroit teasing him whenever he attempts to embellish a story about his involvement, Emmanellain deeply cares about his page. Outside of his duties, Emmanellain is a socialite, though not exactly a famous one, as he endeavors to attend every banquet, ball, and occasion for libations, that he might catch the faintest whisper of gossip.
+
+When witnessing the heroics and leadership of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], the [[Scions of the Seventh Dawn]] and Ser [[Aymeric de Borel]], Emmanellain cannot help but envy their accomplishments and wonder how they are able to follow through to their goals with such conviction. When one of his orders backfires gaining the scorn of the people and risking the life of Honoroit, he panics and wonders what else he could do. When [[Thancred Waters]] tells him to stop looking to others for answers and live with the consequences, Emmanellain lashes out, believing that since the Scions are accustomed to success and praise they know nothing of consequences and doubt. This leads to a stern rebuttal, which motivates Emmanellain to act more confidently, but he still tries to embellish stories and reports of his involvement in battles.
+
+Emmanellain holds romantic feelings for Lady [[Laniaitte de Haillenarte]], though it often comes across as him trying to impress her just because other women allegedly are also in love with him. Laniaitte shows no indication of reciprocating these feelings, but Emmanellain believes wholeheartedly that they are destined to be together.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Paladins]]

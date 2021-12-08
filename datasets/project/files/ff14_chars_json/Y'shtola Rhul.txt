@@ -1,0 +1,249 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Y'shtola Rhul
+|release=FFXIV
+|japanese=ヤ・シュトラ・ルル
+|romaji=Ya Shutora Ruru
+|aka=Shtola {{j|シュトラ|Shutora}}, Cultured Conjurer {{j|神秘的な幻術士|Shinpitekina Genjutsu-shi|Mysterious Conjurer}}, Master Matoya
+|image=Y'shtola NPC Render 2.png
+|portrait=[[File:Y'shtola Trust Portrait from Final Fantasy XIV.png|81px|Trust portrait.]][[File:Y'shtola Trust Portrait 2 from Final Fantasy XIV.png|81px|Alternate outfit Trust portrait.]]
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=Claims to be 23<ref>''Encyclopedia Eorzea''</ref><!--The members of the Scions of the Seventh Dawn do not age during their time on the First due their bodies being on the Source. Please do not add an age unless information can be cited from an official source. -->{{note|Y'shtola's younger sister [[Y'mhitra Rhul]] is 26, and Y'shtola said she was Alphinaud's age when the [[Dravanian Hinterlands|Sharlayan Colony]] was abandoned, 15 years ago.}}
+|dob=
+|affiliation=[[Circle of Knowing]]<br/>[[Scions of the Seventh Dawn]]<br/>[[Night's Blessed]]
+|occupation=
+|race=Seeker of the Sun [[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=White
+|eye=Teal (Original)<br/>Silver (''Heavensward'' onwards)
+|blood=
+|laterality=
+|type=party npc
+|job={{icon|FFXIV|discipline|conjurer}} (Original)<br/>{{icon|FFXIV|discipline|sorceress}} (''Shadowbringers'')
+|abilities=
+|limit break=
+|weapon=[[Budding Maple Wand (Final Fantasy XIV)|Budding Maple Wand]] (Original)<br/>[[Truth Seeker]] (''Heavensward'')<br/>[[Nightseeker (Final Fantasy XIV)|Nightseeker]] (''Shadowbringers'')
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[Ai Kayano]]
+|english voice actor=[[Emily O'Brien]] (Original)<br/>[[Robyn Addison]] (''Heavensward'' onwards)
+|gameplay=
+|other appearances=true
+|dffnt=true
+|dffoo=true
+|ffrk=true
+|ffbe=true
+|wotv=true
+|theatrhythm=true
+|woff=Y'shtola (World of Final Fantasy)
+|gallery=true
+}}
+{{Quote|This beautiful and enigmatic Miqo'te is often seen wandering the lands of La Noscea. Her mastery of the arcane arts and conversance with ancient tongues mark her as far more than a simple traveler.|Official description}}
+'''Y'shtola Rhul''' [[wikipedia:Help:IPA/English|[ɪʃtoʊlɑː]]], also known as '''Master Matoya''' ({{j|マトーヤの姐さん|Matōya no Anesan|Lady Matoya|fmt=j,r,l}}; or {{j|魔女マトーヤ|Majo Matōya|Sorceress Matoya|fmt=j,r,l}}), is a Seeker of the Sun [[Miqo'te]] [[White Mage (Final Fantasy XIV)|Conjurer]] and one of the main characters from the [[Limsa Lominsa]] story in ''[[Final Fantasy XIV]]''. Her original appearance was right at the beginning of [[Final Fantasy XIV/Legacy|Version 1.0]] where she helped the [[Warrior of Light (Final Fantasy XIV)|adventurer]] during the Aurelia attack on the ship.
+
+Y'shtola has become the major "representative" character for ''Final Fantasy XIV'', typically representing it in crossover products.
+
+==History==
+===Early life===
+Y'shtola comes from the [[Sharlayan]] colony in the [[Dravanian Hinterlands]], where she spent much of her youth as a student of [[Matoya (Final Fantasy XIV)|Matoya]]. Fifteen years before ''A Realm Reborn'', the threat of the [[Garlean Empire]] prompted the colonists to abandon Dravania and return to the Sharlayan motherland. Every member of the colony except for Matoya left the Dravanian Hinterlands and sailed north, including Y'shtola, who was a teenager at the time.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Yshtola Ninja.jpg|thumb|Y'shtola in version 1.0.]]
+Y'shtola asked around each guild about the treasure in Seal Rock. During her investigation, she heard about an unprecedented [[Sahagin]] attack on Lominsan ships and the southern lighthouse, led by a shadowless man, and that while these attacks happened a pirate group called Kraken's Arms landed on Seal Rock.
+
+Discovering that a pirate called [[Emerick]] may know something, Y'shtola headed for the Mealvaan's Gate where he was supposed to be hiding from another pirate band called the Sanguine Sirens. She discovered a tablet containing information about the treasure of Seal Rock and was attacked by the Sanguine Sirens who were also after Emerick. Y'shtola forced them to retreat.
+
+Y'shtola was with Thancred, [[Yda Hext]], and [[Papalymo Totolymo]] when [[Gaius van Baelsar]] attacked the adventurer. She and her companions defended the adventurer and briefly fought Gaius. She protected Thancred with magic before she, the other Circle of Knowing members, and the adventurer, were injured by a blast from an Imperial Dreadnought.
+
+When the adventurer was being honored for his or her victory over [[Nael van Darnus]], Y'shtola was with her friends.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|At the Battle of Cartenau, our leader was taken from us. But we did not stray from our purpose. We sought out Minfilia and others with her talent, and together established the Scions of the Seventh Dawn.|Y'shtola Rhul}}
+[[File:Y'shtola Barrier.jpg|thumb|left|Y'shtola protects her friends from the Empire's bullets.]]
+Having joined the Scions of the Seventh Dawn, Y'shtola crosses paths with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] who starts their journey in Limsa Lominsa, in a cave linked to the mystery behind recent kidnappings around Summerford Farms. After Y'shtola recites an ancient poem carved into the walls of the cave, the two are attacked by an enraged [[Goobbue (Final Fantasy XIV)|Goobbue]] whom they are forced to kill. As the Warrior of Light picks up what is later revealed to be one of the Crystals of Light, Y'shtola examines the beast and discovers a rope-cutting knife stuck in its body. Y'shtola has been investigating [[Lahabrea]]'s activities in [[La Noscea]], appearing when the [[Ascian]] summoned a clay golem to attack the Warrior of Light who has a vision through the [[Echo (Final Fantasy XIV)|Echo]], seeing events from Y'shtola's past.
+
+Much later, Y'shtola aids the Warrior of Light in Swiftperch when the Ascian appears in retaliation for the thwarted Sahagin plot. When the Warrior of Light is invited to join the Scions of the Seventh Dawn, Y'shtola rigs an Aethryte Crystal to allow access to the Navel where the [[Kobold (Final Fantasy XIV)|Kobolds']] [[primal]], [[Titan (Final Fantasy XIV)|Titan]], awaits. After Titan's defeat, Y'shtola spies [[Nero tol Scaeva]] observing the fight, and discovers Lahabrea is with him. Since she remains in Limsa Lominsa to continue investigating, she is not present when [[Livia sas Junius]] raids the Waking Sands and captures [[Minfilia Warde]]. Y'shtola meets with Yda and joins in the rescue operation at [[Castrum Centri]]. The two confront Livia at the [[Garlean Empire|Garlean]] base, intent on exacting retribution, but imperial reinforcements force them to retreat and they join the others.
+
+After their group moves to Revenant's Toll, Y'shtola and Thancred investigate a strange instance of [[Crystal (term)|crystal]] theft near Horizon in Western Thanalan. They learn that the [[Amalj'aa]] are the culprits with help from someone in Brass Blades tipping them off. To confirm the traitor's identity, Y'shtola poses as a miner as part of a trap involving a shipment of crystals. The raiders turn out to be Serpent Reavers, intent on collecting crystals for the Sahagin to summon [[Leviathan (Final Fantasy XIV)|Leviathan]]. With the imminent return of the Lord of Whorls, Y'shtola accompanies the Scions to warn [[Merlwyb Bloefhiswyn]] and strike against the Sahagin and their primal.
+
+After the defense of [[Ishgard]] from the [[Dravanian Horde]], Y'shtola attends a celebration in [[Ul'dah]] alongside the other Scion leaders. A conspiracy to assassinate [[Nanamo Ul Namo]] is carried out when [[Ilberd Feare]] betrays the Scions, who are falsely accused of regicide. Yda and Papalymo stay behind to cover the others' escape. Finding themselves pursued by the Brass Blades and traitorous Crystal Braves in a hidden tunnel, Y'shtola and Thancred remain behind to ensure that the Warrior of Light and Minfilia escape by causing a cave-in. Y'shtola uses the ancient spell Flow {{j|エンシェント・テレポ|Enshento Terepo|Ancient Teleport}}, a powerful teleportation magic that sends the user to another place in the form of aether along the Lifestream, to transport herself and Thancred to safety. While Thancred ends up somewhere else, Y'shtola is trapped within the Lifestream.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Y'shtola Returns.png|thumb|Y'shtola being brought back from the Lifestream by the seedseer siblings.]]
+After a thorough investigation, [[Pipin Tarupin|Pipin]] and Urianger discover Y'shtola's fate and learn she is in danger of dissolving within the aetheric currents if not restored in time. To bring her back, the Warrior of Light and [[Alphinaud Leveilleur|Alphinaud]] turn to [[Kan-E-Senna]] for assistance in asking the [[Elemental (enemy)|Elementals]] of the [[Black Shroud|Twelveswood]] to gather her. They learn from the Elder Seedseer that Y'shtola's younger half sister, [[Y'mhitra Rhul|Y'mhitra]], is needed to find Y'shtola's exact whereabouts in the Lifestream because their aetheric makeup is similar. With the assistance of Y'mhitra and the [[Seedseer]]s, Y'shtola returns to [[Eorzea]] in a comatose state and is taken to the inn to recover.
+
+After she awakens, the Scions tell her they need to make an aetheric device to pierce through an [[Allagan Empire|Allagan]] barrier at [[Azys Lla]]. While she does not know how to create such a device, Y'shtola suggests heading to her hometown in the [[Dravanian Hinterlands]] to seek the aid of her old mentor, [[Matoya (Final Fantasy XIV)|Matoya]]. Though initially weak, her time in the Lifestream granted her extraordinary spellcasting abilities. Meeting Matoya at her cave, Y'shtola stays behind to assist her clean up her home while the Warrior of Light heads to [[the Great Gubal Library]] to obtain the knowledge needed to build an aetheric ram that Matoya had hidden long ago. Matoya privately notes the change in Y'shtola's eyes, aware she has been blinded by her trip through the Lifestream and is consuming her own aether to "see" magically, shortening her lifespan.
+
+Y'shtola travels to Azys Lla to assist in stopping [[Thordan VII|Archbishop Thordan's]] plan. She stays behind with Alphinaud and [[Estinien Wyrmblood]] to halt the pursuing Garlean troops, allowing the Warrior of Light to make their way to the Archbishop. After the Archbishop is killed, Y'shtola escapes on the ''[[Enterprise (Final Fantasy XIV)|Enterprise]]'' along with the others, being the first to realize Estinien has not escaped with them.
+
+On the shores of the great lake in the Dravanian Hinterlands, she bears witness to the rise of the primal [[Alexander (Final Fantasy XIV)|Alexander]] from its depths. In light of the primal's summoning, Y'shtola makes for Matoya's cave to seek her assistance in slaying it while the Warrior of Light and the party assault Alexander and the [[Illuminati]] from within. Y'shtola recognizes "Travanchet" when Mide reveals how she got the mysterious horn used to summon Alexander, and feels indirectly responsible for having failed to stop him fifteen years ago in [[La Noscea]].
+
+Y'shtola goes to [[Idyllshire]] to meet with [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Mayer Baldesion]], who has arrived in Eorzea to aid the Scions. They trace where Thancred ended up when Y'shtola used the Flow spell, and learn he drifted to the Dravanian Forelands where he emerged in the wilderness. While checking with hunters and the Vath for any sightings, the Scions encounter the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] attacking [[Ravana (Final Fantasy XIV)|Ravana]] in Lost ast Gnath. The mysterious party reacts with suspicion and hostility, apparently knowing who the Warrior of Light is. The altercation is cut short when Thancred arrives and reunites with the Scions.
+
+Y'shtola later confides to the Warrior of Light that she suspects Thancred's transit in the Lifestream may have sealed his ability to use magic (as it did for her eyesight).
+
+Y'shtola monitors the cocoon of the light above [[Baelsar's Wall]], watching for any further activity from Ilberd's primal sealed within.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Shortly after the Scions arrive at the [[Ala Mhigan Resistance]] headquarters at [[Rhalgr's Reach]], Garlean forces attack. [[Zenos yae Galvus]] severely wounds Y'shtola, and although Krile is able to save her life, she remains too injured to participate in the liberations of [[Doma (Final Fantasy XIV)|Doma]] and [[Ala Mhigo]].
+
+After recovering, Y'shtola helps search for [[Alphinaud Leveilleur]] who disappeared in [[Burn (Final Fantasy XIV)|the Burn]]. She comments on the presence of Allagan ruins in the region, and that it would be possible to use them as a barrier against the empire. She returns with [[Hien Rijin]] and the Warrior of Light to Azim Steppe where she activates a device to manipulate the aether in the Burn.
+
+Y'shtola and the other Scions attend a meeting of the Eorzean Alliance with Doma, during which the Scions hear a mysterious voice and Thancred suddenly loses consciousness. Y'shtola, [[Alisaie Leveilleur|Alisaie]] and the Warrior of Light meet with Urianger, who had also heard the voice, but during the conversation the mysterious phenomenon recurs and Urianger and Y'shtola lose consciousness.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Urianger and Y'shtola the First.png|thumb|Y'shtola and Urianger arrive in the First.]]
+Y'shtola and Urianger, like Thancred before them, discovered that their souls have been accidentally summoned by the [[G'raha Tia|Crystal Exarch]] to [[the First]], the world reflection from whence the Warriors of Darkness hail. The Exarch intended to only summon the Warrior, explaining that the First is [[The Flood|being consumed by light]], and if not stopped, the world would be rejoined with [[Hydaelyn]] causing the [[Umbral Calamity|Eighth Umbral Calamity]]. Y'shtola journeyd to the [[Rak'tika Greatwood]] to await the arrival of the Warrior of Light.
+
+As time flows differently in the First, three years passed for Y'shtola before the Warrior of Light arrived. During that time, Y'shtola joined a group of dark-worshipers known as the [[Night's Blessed]] and took the alias of "Matoya" as per their custom to never speak their true names aloud beneath the light. Two years before the Warrior's arrival, the Night's Blessed headquarters burned to the ground during a [[sin eater]] attack. Y'shtola guided survivors to make a new home in Slitherbough and thus became the leader of Night's Blessed.
+
+When the Warrior (now known as the "Warrior of Darkness" as per their mission to stop the Flood of Light on the First) arrives in the wood with Thancred, [[Ryne|Minfilia]], Urianger, and [[Emet-Selch]], Y'shtola initially doubts the Warrior's identity because of how much light they have absorbed. Upon learning that their mission is to find and slay the [[Lightwarden]] hiding in the forest, she helps them travel deeper into the woods to reach [[Yx'Maja]], where the ruins of the [[Ronkan Empire]] are found.
+
+They discover where the Lightwarden is hiding and enter the ruins to unlock the path. [[Ran'jit]] and an emissary of [[Eulmore]] attack them, claiming they have poisoned the Night's Blessed. During the ensuing fight Ran'jit and the emissary fall down a pit, and Y'shtola dives in after them, seemingly sacrificing herself to get the antidote from them to her friends. In truth she used the Flow spell again to escape, and Emet-Selch pulls her out of the Lifestream as a gesture of good faith. After destroying the Lightwarden, Y'shtola examines the ancient cave paintings and wonders as to their significance. Emet-Selch explains the paintings depict the story of how [[Ascian|his people]] long ago summoned [[Zodiark (Final Fantasy XIV)|Zodiark]] and [[Hydaelyn (character)|Hydaelyn]], and after the latter defeated the former, Zodiark was imprisoned and [[The Star|the world]] divided into fourteen parts: the Source and its thirteen reflections.
+
+After helping defeat the remaining Lightwardens, Y'shtola follows the Warrior of Darkness into [[Tempest (Final Fantasy XIV)|the Tempest]] to confront Emet-Selch. Comparing the underwater ruins to the painting in the Ronkan cave, she concludes they are the remnants of the ancient Ascian city of [[Amaurot]] of which Emet-Selch spoke. After Emet-Selch's defeat, she returns to the Night's Blessed while the Crystal Exarch looks for a way to return their souls to the Source.
+
+The Exarch calls upon Y'shtola and her companions to inform them of the degrading conditions of their bodies on the Source. Deciding time is of the essence, they seek a way to transport their souls alongside the Warrior of Darkness back home. At the Exarch's suggestion, they hope to gain the assistance of one well-versed in soul theory, a Nu Mou recluse named [[Beq Lugg]] that has made their home in a former elven palace known as [[Grand Cosmos|The Grand Cosmos]]. After enduring the Nu Mou's trials, the group persuades them to lend their help by telling their story. Y'shtola assists Urianger create [[auracite]] needed to anchor their souls, but they soon find that their plan is flawed. Y'shtola sends the Warrior of Darkness back to the Source to inform their comrades of the situation, while the party explores alternative methods of storing their souls.
+
+Some time later, the Warrior returns with more news: Zenos yae Galvus lives and the empire is working on new Weapons. While the Exarch and Beq Lugg continue their research into creating suitable soul vessels, Y'shtola assists the Warrior of Darkness gather the residents of the [[Crystarium (Final Fantasy XIV)|Crystarium]] to inform the masses of the truth behind [[Ardbert]] and [[Warriors of Darkness (Final Fantasy XIV)|his friends]]. When [[Elidibus (Final Fantasy XIV)|Elidibus]] exploits this and shows up in Ardbert's body to convince the people to become new Warriors of Light, Y'shtola and the Warrior of Darkness return to the Qitana Ravel in hopes of uncovering more stories about the Ancients.
+
+They discover a tomb of a Ronkan archmage, and after hearing her story from the [[Viera|Viis]], conclude she had the [[Echo (Final Fantasy XIV)|Echo]]. The mural of the archmage and the reports of those on the Source experiencing a vision of star showers leads Y'shtola to believe that there is a connection between the Final Days and the Echo. After confronting Elidibus leads to no answers, Y'shtola and the party search for more ruins of Amaurot, once more beseeching the aid of [[Bismarck (Final Fantasy XIV)|Bismarck]]. They discover the facility known as [[Anamnesis Anyder]], and inside find a device that replays a meeting of the dissident Ancients that would go on to summon Hydaelyn. A further recording detailing Elidibus becoming Zodiark's heart only serves to confuse the party. Y'shtola remains behind to get the device working again while the others return to the surface. She learns Elidibus's true nature as a [[primal]] of his former self and confronts him on his objective alongside the Warrior. Following Elidibus's defeat, the Scions return to their world after setting their affairs in order. 
+
+Once back in the Source, Y'shtola accompanies Alphinaud to [[Limsa Lominsa]]. They join [[Alisaie Leveilleur]]'s group to seek Matoya's help in finding a cure for [[Enthrallment#Final Fantasy XIV|tempering]]. Matoya agrees to help despite being annoyed Y'shtola used her name as an alias while on the First.
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV HW Y'shtola (Trust).png|thumb|left|Y'shtola in ''Heavensward''.]]
+Y'shtola is a Miqo'te of the Seekers of the Sun with a light brown skin and brown facial markings, light teal eyes, and white hair with two frontal pigtails tied with rings. She dresses in a white dalmatica with silver patterns, blue trousers, and black ankle boots. She wears a visual device on her neck that allows her to analyze [[aether]]ial activity in the environment. She has the [[Tattoo (body modification)|tattoo]] of the [[Circle of Knowing]] on her neck. She wields a one-handed conjurer wand that resembles a tree branch.
+
+In ''[[Final Fantasy XIV: Heavensward]]'', her eyes turn pale white as a consequence of using a forbidden spell, rendering her physically blind. Y'shtola wears [[Scion Healer's Robe|a new outfit]] provided by [[Tataru Taru]], a long-sleeved white top with extended sides and back, short black shorts, black thigh-high boots and a black bolero shrug over her shoulders.
+
+In ''[[Final Fantasy XIV: Shadowbringers]]'', Y'shtola delves into the dark arts and discards her white clothing in favor of black and gray robes. She wields a new cane called Nightseeker made from Deadwood.
+
+===Personality===
+[[FIle:FFXIV SH Y'shtola 2.png|thumb|Y'shtola in ''Shadowbringers''.]]
+{{Quote|Constantly at each others throats like rabid...gods I'm beginning to sound like her|Y'shtola noticing a similarity to her former master.}}
+Y'shtola is introduced as "Cultured Conjurer", a moniker that reflects her calm composure. She is a taciturn, well-spoken voice of reason even alongside her equally scholarly peers among the [[Scions of the Seventh Dawn]], providing sharp, relevant insight that hardly ever strays from the matter at hand. This is in contrast to [[Thancred Waters]], who frequently flings charismatic and flamboyant one-liners to be deflected by her stoicism.
+
+Y'shtola's gall comes out when her patience has been tried, or as a counter to others' bold, irrelevant or confrontational comments. She derives some of this audacity from her former master, [[Matoya (Final Fantasy XIV)|Matoya]], the two exchanging quips and subtle insults. Despite this, they care deeply for each other as Y'shtola holds her former master in the highest regard.
+
+Y'shtola has a cultured and refined diction which, although grounded enough to differentiate her from the theatrical likes of [[Urianger Augurelt]], grants an air of wisdom to her. She is uninterested in romantic affairs, bluntly refusing the Oronir leader, Magnai, telling him to try again when he "becomes a man". During her time with the Night's Blessed, she has come to silently acknowledge Runar's slight feelings for her, though she knows she can't return them. Despite this, Y'shtola still considers Runar a good friend.
+
+==Gameplay==
+===Battle===
+[[File:FFXIV Y'shtola Battle.png|thumb|Y'shtola in battle.]]
+Y'shtola fights alongside the player as a [[guest]] character in many of the main scenario quests. She is a [[White Mage (Final Fantasy XIV)|Conjurer]] and uses a [[Budding Maple Wand]] as a weapon. She can use many of Conjurer abilities, such as [[Stone (ability)|Stone]], [[Stone II]], [[Aero II (ability)|Aero II]], and [[Cure (ability)|Cure]]. As the [[instance]]s she features in were programmed at a much earlier point of the game, she (and several other Conjurer NPCs) will occasionally use spells that used to be in a Conjurer's repertoire, but are no longer available, such as [[Stoneskin (ability)|Stoneskin]].
+
+In ''Heavensward'' she switches to using a long two-handed staff and her combat ability is greatly increased. She can use a few unique spells that are not available to player characters' Conjurer or White Mage classes. One such ability is Spiritual Ray (named in ''[[Dissidia Final Fantasy NT]]'').
+
+[[File:FFXIV Y'shtola Role-play.png|thumb|left|Y'shtola in Role-Play mode.]]
+In ''Stormblood'', Y'shtola becomes a temporary playable character during the second half of the MSQ duty instance The Will of the Moon. She has access to stronger versions of Conjurer spells in the form of Aero of the Seventh Dawn (Aero II), Cure of the Seventh Dawn (Cure II), Stone of the Seventh Dawn (Stone IV) and can replenish her MP with Aetherwell. Though having no [[Limit Break (Final Fantasy XIV)|Limit Break]], she will use Spiritual Ray upon completing the Active Time Maneuver at the end of the battle.
+
+In ''Shadowbringers'', Y'shtola is available as an NPC ally during dungeons using the [[Trust System]]. Though her class is listed as Sorceress, she uses renamed versions of [[Black Mage (Final Fantasy XIV)|Black Mage]] spells as well unique versions of her aforementioned offensive White Magic like Aero and Stone
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Y'shtola
+|image = [[File:FFXIV TT Y'shtola.png]]
+|number = 49
+|total = 20
+|type = Scion
+|description = "The seas continue to rise while the lesser moon continues to fall, and ilm by ilm, the world becomes ever more unlike itself."
+|obtain = Won from Gegeruju, Eastern La Noscea (35,30).<br>Won from R'ashaht Rhiki, Limsa Lominsa Upper Decks (13,12).
+}}
+{{Card FFXIV
+|name = Heavensward Y'shtola
+|image = 
+|number = 
+|total = 
+|type = Scion
+|description = "If the Ascians will go to any lengths to resurrect their god, then we must needs be as committed to our cause─to unmask them and their schemes, and to crush them both utterly."
+|obtain = Defeat 60 different Triple Triad NPC's.
+}}
+{{Card FFXIV
+|name = Shadowbringers Y'shtola
+|image = 
+|number = 
+|total = 
+|type = Scion
+|description = "Did you really think I would go gently into that dark night with so much left undone? So many mysteries left unsolved?"
+|obtain = Hargra, Rak'tika Greatwood (18.6, 26)
+}}
+
+==Other appearances==
+{{Main|/Other appearances|t1=Y'shtola Rhul other appearances}}
+Y'shtola has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[/Other appearances#Final Fantasy Tactics S|Final Fantasy Tactics S]]'' as a playable character.
+*''[[Y&#39;shtola Rhul (Dissidia NT)|Dissidia Final Fantasy NT]]'' as a playable character.
+*''[[Y'shtola Rhul (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[/Theatrhythm|Theatrhythm Final Fantasy Curtain Call]]'' as a playable character.
+*''[[/Theatrhythm|Theatrhythm Final Fantasy All-Star Carnival]]'' as a playable character.
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a summonable [[Legend (Airborne Brigade)|Legend]].
+*''[[Y'shtola Rhul (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Y'shtola Rhul (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[Y'shtola Rhul (War of the Visions)|War of the Visions: Final Fantasy Brave Exvius]]'' as a summonable vision and in vision cards.
+*''[[/Other appearances#Final Fantasy World Wide Words|Final Fantasy World Wide Words]]''.
+*''[[/Other appearances#Mobius Final Fantasy|Mobius Final Fantasy]]''.
+*''[[Y'shtola (World of Final Fantasy)|World of Final Fantasy Maxima]]'' as a non-player character and Champion Jewel.
+*''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of [[Final Fantasy Trading Card Game cards|cards]].
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+
+===Non-''Final Fantasy'' guest appearances===
+{{Main|/Other appearances#Guest appearances|t1=Y'shtola Rhul guest appearances}}
+Y'shtola has made key guest appearances in the following non-''Final Fantasy'' games:
+*''[[/Other appearances#Lord of Vermilion|Lord of Vermilion]]''.
+* ''[[/Other appearances#Puzzle & Dragons|Puzzle & Dragons]]'' as a playable character.
+* ''[[/Other appearances#Monster Strike|Monster Strike]]'' as a playable character.
+*Dragon Quest of the Stars as an event boss.
+
+==Other media==
+===''[[Final Fantasy Lost Stranger]]''===
+[[File:FFLS Y'shtola.png|thumb|150px|Y'shtola.]]
+Y'shtola is referenced when the [[Shogo Sasaki|protagonist]] assumes that the Catter race are Miqo'te.
+{{clear}}
+
+===LINE===
+Y'shtola appears on a sticker set for the [[LINE]] communications app. The sticker set she appears in is titled "ファイナルファンタジーXIV.<ref>https://store.line.me/stickershop/product/9085/ja</ref>
+
+<gallery>
+LINE FFXIV Sticker7.png|
+LINE FFXIV Sticker8.png|
+</gallery>
+
+==Voice==
+Y'shtola was initially voiced by [[Emily O'Brien]] in the English version. Since the release of ''Final Fantasy XIV: Heavensward'', she is voiced by [[Robyn Addison]].
+
+She is voiced by [[Ai Kayano]] in the Japanese version.
+
+==Merchandise==
+[[File:Yshtola-Pendant-FF30th-Anniversary.png|thumb|Y'shtola pendant.]]
+In May 2018 Square Enix releases a silver Y'shtola pendant with a green gem as part of the [[Final Fantasy 30th Anniversary]] campaign. The reverse side of the pendant simply reads "Final Fantasy" with a carving of a crystal. Y'shtola is depicted in her ''[[Dissidia Final Fantasy]]'' appearance, and is released alongside pendants of the other ''[[Final Fantasy series|Final Fantasy]]'' [[List of protagonists|protagonists]].
+{{clear}}
+
+==Gallery==
+{{main|/Gallery|t1=Y'shtola Rhul gallery}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[de:Y'shtola Rhul]]
+[[es:Y'shtola]]
+[[pt-br:Y'shtola]]
+[[Category:White Mages]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Guest characters]]
+[[Category:Black Mages]]

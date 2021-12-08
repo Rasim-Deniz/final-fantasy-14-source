@@ -1,0 +1,27 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Sigan
+|release=FFXIV
+|japanese=シガン
+|romaji=Shigan
+|image=FFXIV Sigan.png
+|race=[[Hyur]]
+|gender=Male
+|affiliation=
+|home=[[Coerthas Western Highlands#Falcon's Nest|Falcon's Nest]]
+|occupation=
+|type=npc
+}}
+'''Sigan''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a man who collects Falcon's Nest Camp antiques from the Sixth Astral Era.
+
+== History ==
+After the calamity, [[Coerthas]] was covered in snow and Falcon's Nest Camp was abandoned. Subsequently [[Ishgard|Holy See]] starts a restoration project for Falcon's Nest but Sigan one fails to recognize the new Falcon's Nest as his home. Since then, Sigan has collected antiques from the old camp that are still buried in the snow.
+
+== Characteristics ==
+===Appearance===
+===Personality===
+{{section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Mutamix Bubblypots
+|release=FFXIV
+|japanese=ミュタミクス
+|romaji=Myutamikusu
+|image=Mutamix_crew.jpg
+|home=Central Thanalan
+|occupation = 
+|race=[[Goblin (Final Fantasy XIV)|Goblin]]
+|gender=Male
+|hair= 
+|eye= 
+|age = 
+|job = 
+|type=npc
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Mutamix Bubblypots''' is a character from ''[[Final Fantasy XIV]]''. Formerly a member of the [[Goblin (Final Fantasy XIV)|goblin]] [[Illuminati]], he shares his knowledge of [[Materia (term)|Materia]] with the people of [[Eorzea]] from his camp in [[Central Thanalan]], located at the Bonfire.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The Adventurer is tasked by [[Minfilia Warde|Minfilia]] shortly after joining the Scions to visit Mutamix and learn about how to obtain Materia, with him melding a materia onto her knife as a demonstration. Players who pursue to the [[Disciplines|Disciples of the Hand]] can learn from him how to perform the melds, overmelds, as well as desynthesis.
+
+He later plays a role in the Relic Weapons questline. [[Jalzahn Daemir]] has him sought out on how to bypass limitations of materia, whom Mutamix directs to a pupil of his, Hubairtin, to create an experimental Sphere Scroll for the purpose of converting materia into light energy for Jalzahn's purposes. Mutamix takes a more direct role in the task to recreate the Zodiac Weapons, with him personally arriving in Hyrstmill to convert the old Relic Nexus into experimental materia to transfer its soul attunement to the new host weapon.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:461a Mutamix Bubblypots.png|right|100px]]
+Mutamix appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+{{Character section|Final Fantasy XIV}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Goblins in Final Fantasy XIV]]

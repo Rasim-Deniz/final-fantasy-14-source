@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Arenvald Lentinus
+|release = FFXIV
+|japanese = アレンヴァルド・レンティヌス
+|romaji = Aren'varudo Rentinusu
+|image = FFXIV Arenvald.png
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Light Blond
+|eye = Olive
+|designer = 
+|age =19 
+|job = {{icon|ffxiv|discipline|gladiator}}
+|weapon =Inquisitor's Tuck
+|armor = Titanium Armor
+|affiliation = [[Scions of the Seventh Dawn]]
+|occupation = 
+|japanese voice actor = 
+*Masato Ishihara (''Stormblood'')
+*Kohei Yoshiwara (''Shadowbringers'')
+|english voice actor =
+*Stephen Hoo (Patch 4.0)
+*[[wikipedia:Joe Dempsie|Joe Dempsie]] (Patch 4.1 onwards)
+|abilities=Deflect, Fast Blade, Savage Blade, Rage of Halone}}
+'''Arenvald Lentinus''' is a character in ''[[Final Fantasy XIV]]''. Initially a background member of the [[Scions of the Seventh Dawn]], Arenvald gains a major role starting in ''[[Final Fantasy XIV: Stormblood]]''.
+
+==History==
+===Early life===
+Arenvald was born to an Ala Mhigan woman, whom he implies was raped by one of the [[Garlean Empire|Garlean]] occupiers, resulting in his conception. His mother hated Arenvald for his half-Garlean heritage and abused him. She became convinced that he was growing the trademark Garlean third eye, despite this only occurring in pureblood Garleans, and took a knife to his forehead to cut it out. She soon after abandoned him, leaving him to fend for himself on the streets while he was still a young teenager. His mother's assault left a permanent scar on his forehead, and Arenvald took to wearing warpaint to cover it up. His halfbreed heritage caused him to feel like an outcast in the eyes of both Ala Mhigo and Garlemald, and he eventually fled the city.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:FFXIV Arenvald 4 1.png|thumb|left]]
+Arenvald learned that he possessed the gift of the [[Echo (Final Fantasy XIV)|Echo]], which allows him to resonate with other people's souls. This led to his recruitment by the Scions of the Seventh Dawn. Arenvald stays in the Scions' original headquarters of the Waking Sands in [[Western Thanalan]], offering his opinion on current events. He is one of the few survivors of [[Livia sas Junius]]' attack on the Waking Sands, and chooses to remain stationed there in memory of his fallen comrades when the reconstituted Scions relocate to the Rising Stones in [[Mor Dhona]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After the [[Battles of Baelsar's Wall]], the Eorzean Alliance begins a campaign to free Ala Mhigo from its Garlean occupation. Seeing an opportunity to free his homeland and prove himself as a worthy Ala Mhigan, Arenvald jumps at the opportunity to join the Scions in the campaign. He remains behind to assist the Ala Mhigan campaign when the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]'s party travels to [[Doma (Final Fantasy XIV)|Doma]]. During this time Arenvald and [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Baldesion]] escort wounded Scions back to the Rising Stones and their retinue is ambushed by a contingent led by Fordola rem Lupis, an Ala Mhigan turned Garlean loyalist. Amid the battle, Arenvald's Echo gives him a glimpse of Fordola's past, learning that the purpose behind the attack is to abduct Krile. The distraction caused by the vision takes Arenvald out of the battle, and the Garleans escape with Krile.
+
+As the Eorzean Alliance gains ground against the Empire, Arenvald's squad becomes aware of a suspicious pair wearing Garlean uniforms tailing the army through the [[Peaks]]. While they lose the pair at first, they are eventually apprehended after the successful liberation of Ala Mhigo, revealed to be [[Laurentius Daye]] and [[Yuyuhase Luluhase]], [[Ilberd Feare]]'s co-conspirators in the massacre at Baelsar's Wall.
+
+The Scions begin to assist Ala Mhigo re-establish itself. Seeking to help the newly-liberated nation with its financial problems, Arenvald recruits the Warrior of Light and [[Alphinaud Leveilleur]] in finding the legendary treasure vaults of the Mad King Theodoric. The vaults are found beneath the city, in the [[Drowned City of Skalla]], and the treasure is handed over to the Ala Mhigan Resistance to be sold to bolster their coffers.
+
+After a riot nearly breaks out due to Ala Mhigans seeking the execution of the imprisoned Fordola rem Lupis, Arenvald requests to speak to her. His previous encounter with her, and concurrent vision of her past, has given him some insight to her motives. She asks to be publicly executed, knowing that her death would unite the Ala Mhigan people, making her something of a martyr. Arenvald later notes that during their conversation, it seemed as though she was getting visions from her own Echo, leading to the realization that she was constantly seeing the memories of all the people around her, including those of the people she had hurt, and was feeling immense guilt as a result.
+
+During a conference attended by the leaders of the disparate villages and tribes of [[Gyr Abania]] to determine Ala Mhigo's future, a group of [[Enthrallment#Final Fantasy XIV|tempered]] [[Ananta]] summon the [[primal]] [[Lakshmi (Final Fantasy XIV)|Lakshmi]]. Arenvald, being immune to tempering thanks to his Echo, joins the Warrior of Light in defending the leaders from the primal. They are aided by Fordola, and together the three banish the primal.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+Arenvald and Fordola are recruited by [[Raubahn Aldynn]] into an elite anti-primal task force. While they are both young and inexperienced compared to the other members of the group, their immunity to and ability to protect their squadmates from tempering allows them to act as an effective frontline for the group. 
+
+They were assigned to investigate one of [[Fandaniel's towers]] located at [[Paglth'an]], upon entry Arenvald and Fordola discover a terminal of Garlean origin and multitudes of [[Amalj'aa]] held captive. He investigated one of the captured Amalj'aa and was met with a resonating  alarm which triggered the summoning of Lunar Ifrit. The summoned eikon, then, attacked Arenvald and Fordola. The two escaped with their lives, but Arenvald was gravely injured and it left him wheelchair-bound, the doctors even telling him that he may never walk again, rendering him incapable to continue his part in Raubahn's anti-primal task force. Despite this, Arenvald provides words of encouragement to Alphinaud after the young Elezen learned of his condition, asking him to continue fighting. Though Arenvald initially believes he can no longer lend a helping hand, Fordola supports him and reminds him there are other ways he can help, lifting Arenvald's spirits. 
+
+==Characteristics==
+===Appearance===
+Arenvald is a stocky [[Ala Mhigo|Ala Mhigan]] Highlander with light blond hair and olive eyes. In ''A Realm Reborn'' he wears a weathered green tabard and goatskin leg guards. In ''Stormblood'' he wears Silver Titanium armor and wields the Inquisitor's Tuck and Ancient Buckler in battle. He retains the same armor and weapon in ''Shadowbringers'', but after his injury wears a yellow tabard and a cast on his leg.
+
+===Personality===
+Despite his traumatic past, Arenvald is kind, supportive and loyal to those he considers friends. He has moments of being the comic relief.
+
+Following the events that led to Ala Mhigo's liberation, Arenvald endeavored to do what he could to aid his homeland, despite the painful memories of his childhood as a halfbreed. Arenvald is insightful, able to interpret [[Fordola rem Lupis]]'s actions and beliefs during her imprisonment.
+
+== Gameplay ==
+Arenvald appears as an Ally in the instance [[Return of the Bull]] where he assists the player in dissipating Aether Spheres with Deflect, and fighting the boss in both instances.
+
+== Gallery ==
+<gallery>
+FFXIV Arenvald 1.png|Arenvald in the Waking Sands.
+Return of the Bull 2.png|Arenvald fighting Lakshmi.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Hyurs]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garleans]]
+[[Category:Mixed races]]

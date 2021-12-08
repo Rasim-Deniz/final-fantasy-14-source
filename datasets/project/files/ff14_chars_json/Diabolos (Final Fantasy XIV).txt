@@ -1,0 +1,76 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Diabolos (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Diabolos
+|japanese=ディアボロス
+|romaji=Diaborosu
+|release=FFXIV
+|image=Diabolos from Final Fantasy XIV.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Voidsent]]
+|gender=Male
+|eye=Yellow
+<!--Gameplay details.
+ Adds details for whatever the main release is, unless infobox is used for a subpage.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=
+|recurring appearance=Diabolos
+}}
+{{Quote|To face me is to face thy deepest, darkest nightmares!|Diabolos}}
+'''Diabolos''' is an antagonist in ''[[Final Fantasy XIV]]'', first appearing as the final boss in the level 50 dungeon, [[Lost City of Amdapor]], and later in ''[[Final Fantasy XIV: Heavensward]]'' as the main antagonist in the "[[Shadow of Mhach]]" storyline.
+
+==History==
+===Before ''Final Fantasy XIV''===
+During the Third Astral Era, the [[Allagan Empire]] constructed the [[Diablo Armament]] intending it to be a vessel for Diabolos so they could control him and harness his power.
+
+Diabolos was a powerful voidsent, summoned to [[Eorzea]] by the Voidmages of [[Mhach]] during the Fifth Astral Era. In the waning days of the era, during the destructive [[War of the Magi (Final Fantasy XIV)|War of the Magi]], he was sent to attack the city of [[Amdapor]]. He destroyed the city, but the White Mages of Amdapor magically sealed him in the ruins. Confined, he slept for centuries.
+
+===''[[Final Fantasy XIV: A Realm Reborn]]''===
+As the magics that sealed Diabolos began to weaken, powerful dark forces began emanating from the ruins of Amdapor. [[E-Sumi-Yan]] and [[Raya-O-Senna]] send the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to the [[Lost City of Amdapor]] to investigate. Upon reaching the final chamber, Diabolos's seal breaks. The voidsent seems disoriented, confusing the Warrior's party for the White Mages that sealed him, before attacking. Upon defeat, he states that his long sleep has weakened him and he is not yet at his full power before disappearing, seemingly vanquished.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Some time later, the Warrior of Light teams up with a a [[Sky Pirate (job)|sky pirate]] named [[Leofard Myste]] and his band of Redbills to investigate a mysterious [[Airship (term)|airship]], dubbed the [[Void Ark]], that has drifted through the skies for ages. On board, they are confronted by voidsent and meet Diabolos again, who unleashes even more voidsent to attack the Warrior of Light and their companions.
+
+[[File:FFXIV Diabolos Weeping City.png|thumb|Diabolos appears in the Weeping City of Mhach.]]
+Though they defeat Diabolos's servants, they cannot prevent him from taking a large, coffin-like artifact, and using the Ark's power to create a void gate through which he escapes with it. The Warrior of Light and the Redbills learn of the Ark's history from the magical creature that had been guarding it: [[Cait Sith (Final Fantasy XIV)|Cait Sith]]. The coffin-like object Diabolos took contains a powerful voidsent known as [[Scathach]], the Shadow Queen, whom Diabolos likely intends to revive.
+
+When the Warrior of Light and the Redbills journey to [[The Weeping City of Mhach]] in search of the Nullstone, a powerful artifact that can be used against Scathach, Diabolos sends Ferdiad to retrieve it for him. After Ferdiad fails he reports to Diabolos, who departs to finish the preparations for his coming plan.
+
+The group pursues Diabolos to [[Dun Scaith]], a forgotten town created by the people of Mhach to act as a refuge from the upcoming [[Umbral Calamity|calamity]] of water. Diabolos has already awoken Scathach, and summoned several of her "hollow" servants (including [[Deathgaze Hollow]]). Once Scathach is defeated, Diabolos again challenges the adventurers, claiming they are no match for him now that he is at full power. When the Warrior of Light and their allies counter his [[Dark Messenger (ability)|Dark Messenger]] spell, he reveals his true purpose for reviving the Shadow Queen. He absorbs her, and uses her power to transform into a much stronger form, called Diabolos Hollow. Despite his newfound strength, and his increasingly desperate pleas to [[The Void (term)|the void]] for power, he is again defeated. He attempts to flee, but Leofard stops him and Cait Sith destroys him using the Nullstone.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+A remnant of Diabolos remains in the living world. When the [[IVth Imperial Legion]] of the [[Garlean Empire]] took to the field in [[Zadnor]], they unearthed yet another hidden Allagan superweapon called the Diablo Armament, intended by the Allagan Empire to be used to bind the voidsent and harness Diabolos's power through [[Xande (Final Fantasy XIV)|Xande's]] pact with the void. The legion had the machine imprisoned inside of the Dalriada under powerful bindings and attempted to use it to intercept the encroaching [[Bozjan Resistance]] from taking the ship. Their plan fails when the Resistance uses their covertly installed D.A.M. system across Zadnor to cause their ships' [[ceruleum]] tanks to implode.
+
+The legion attempts a last stand while preparing to move the weapon away from the Resistance's hands. When the Resistance raids the Dalriada, the weapon, seemingly awakened by the combat, breaks free and Diabolos's mind emerges and again plans to release voidsent into the world. As the machine weakens, the armament's system override tries to suppress Diabolos's will as it goes haywire destroying the ship from within. It smashes its way out and attempts to release its uncontrollable [[aether]] all at once potentially destroying Zadnor and all present. [[Misija Votyasch|Misija]] stops it wielding the Save the Queen; the two clash in an explosion that obliterated the Armament and leaves the [[Roegadyn]] mortally wounded.
+
+==Characteristics==
+===Appearance===
+Diabolos is a large, winged, demon-like entity, primarily red and black in color. As Diabolos Hollow, his body becomes bulkier and armored and grows a second pair of wings. His body also gives off a bright orange glow. The unique green and red markings found on Scathath can be seen at the base of his wings and underneath his shoulder-like armor. When using Double Edge, he grows a four digit claw-like weapon from his right forearm.
+
+===Personality===
+Diabolos rarely speaks, and when he does it is usually to offer threats and intimidation to his enemies. He seems to be a leader among [[voidsent]], as other powerful voidsent, such as [[Ferdiad]], refer to him as "Lord Diabolos" and follow his command.
+
+==Gameplay==
+Diabolos is first fought as the final boss of {{icon|ffxiv|duty|the Lost City of Amdapor}} and later as the final boss of {{icon|ffxiv|duty|Dun Scaith}}, during which the takes on the form Diabolos Hollow.
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

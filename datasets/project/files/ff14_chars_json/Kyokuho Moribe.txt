@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Kyokuho Moribe
+|release = FFXIV
+|japanese =キョクホウ 
+|romaji =Kyokuhou 
+|image =FFXIV Kyokuho.png 
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Red
+|eye = White 
+|designer = 
+|age = 24
+|home=[[Kugane]]
+|affiliation = 
+|occupation = 
+|type=npc
+|job = Geomancer
+|weapon = 
+|armor = 
+}}
+
+'''Kyokuho Moribe '''is a non-player character from ''[[Final Fantasy XIV]]'' where he acts as a supporting character in the level 60-70 [[Astrologian (Final Fantasy XIV)|astrologian]] quest line. Kyokuho is a [[geomancer]] hailing from [[Kugane]].
+
+== History ==
+Kyokuho had traveled to Ishgard hoping to learn about Sharlayan astrology. After learning what he could from Leveva and the Warrior of Light he returns to Kugane, as quickly as he came.
+
+The Warrior of Light seeks him out and he reveals to them that he is trying to mend the bonds of a supernatural beast resting in the city. As they take down the minions of the beast they restore the bonds but only temporary, and search for a better solution. Kyokuho decides to leave for Yanxia, the place of his great grandfather's training and discovers that they used the swallow's compass to train both body and mind. After setting off a few traps, Kyokuho finds a few scrolls that he's unable to read, and then travels back to Kugane so Master Murakumo can decipher them. He learns that the bonds required the blood of a sacrifice, and wants to look for another way not even considering it an option.
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Kyokuho is a midlander hyur with red hair with pink streaks and face painting covering his face and white eyes. He wears a pink hingan haori and wears yasha armor on his hands and feet. in battle he uses a small bell.
+
+=== Personality ===
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Geomancers]]

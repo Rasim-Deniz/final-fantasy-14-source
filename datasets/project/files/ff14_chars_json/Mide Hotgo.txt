@@ -1,0 +1,56 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Mide Hotgo
+|release=FFXIV
+|japanese=ミーデ・ホトゴ
+|romaji=Mīde Hotogo
+|lit=Mide Hotgo
+|aka=
+|image=FFXIV Mide.png
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|race=Xaela [[Au Ra]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|machinist}}
+|weapon=Pistol
+|armor=
+}}
+'''Mide Hotgo''' is a [[Non-player character|non-playable character]] from ''[[Final Fantasy XIV]]'', a female [[Au Ra]] of the Xaela clan. Introduced in Patch 3.01, she is a key character in [[Alexander (Final Fantasy XIV)|Alexander]] quest line.
+
+==History==
+Mide is introduced as a treasure hunter, who bonds with [[Roundrox]] over their shared love for unusual items. Sometime after Alexander emerged, Mide helps [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]] access the passageway located in the structure's exposed hand. Mide travels with the [[Warrior of Light (Final Fantasy XIV)|adventurer]], showing her loathing towards the [[Illuminati]] while revealing her goal to obtain the Enigma Codex. After reaching the Gordian Knot, Mide engages the core's shutdown sequence.
+
+Some time after this, Roundrox entrusts Mide with her "treasure," revealed to be the final missing piece of the Enigma Codex. She is shortly thereafter accused of having been in league with the Illuminati from the beginning. Forced to explain herself, she reveals her history to the adventurer and their allies.
+
+Several years ago, a group of Au Ra that she belonged to attempted to summon Alexander. The ritual ended in disaster, with most of the group killed, and their leader, Dayan, who was Mide's lover, was absorbed by the primal's core. She taught the Illuminati how to summon Alexander, hoping that if they succeeded, she would see Dayan once more. She claims to now regret those actions and insists that she means to stop the Illuminati and Alexander.
+
+[[File:FFXIV Mide Midas.png|thumb|Mide puts an end to the second core.]]
+Mide journeys into Alexander's second hand alongside the adventurer, Biggs, and Wedge to disable the Midian Knot, Alexander's second core, and rescue Roundrox, who had been captured by the Illuminati for her ability to control the Enigma Codex. Though they shut down the core, they are unable to free Roundrox, and wind up losing the piece of the Enigma Codex entrusted to Mide to the Illuminati's leader, [[Quickthinx Allthoughts]].
+
+Mide again joins the adventurer and the [[Garlond Ironworks]] team when they assault Alexander to rescue Roundrox and stop Quickthinx once and for all. When they reach Roundrox and the Enigma Codex, Roundrox learns of Mide's desire to see Dayan and causes Alexander to travel three years to the past, to the time of the initial failed summoning of Alexander. Realizing that they are caught in a time loop, therefore the tragedies that occurred were predestined to happen, Mide becomes despondent and leaves the group. She returns during the final standoff against Quickthinx, critically injuring him and stopping his plans. When she learns that Dayan's soul still exists within Alexander, she remains behind and throws herself into the primal's core.
+
+Mide is reunited with Dayan, who explains that Alexander calculated all possible timelines, and then chose to not interfere with the naturally occurring future. Thus, it seals itself within a bubble of frozen time, with Dayan and Mide within its core to protect it from ever being reactivated. Although Mide's friends are initially saddened by her fate, they soon learn of a legend that states that in ancient times two Au Ra named Dayan and Mide emerged from Alexander and founded the blue-haired Hotgo tribe, giving them hope that they will someday be freed from their duty.
+
+==Characteristics==
+===Appearance===
+Mide is a Au Ra with blue hair. She has a scar beneath her left eye, which she often touches during conversations about the [[primal]] Alexander. She resembles the description told of the author of the mysterious Enigma Codex, who she later reveals was her ancestor.
+
+===Personality===
+{{section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Machinists]]
+[[Category:Au Ras]]

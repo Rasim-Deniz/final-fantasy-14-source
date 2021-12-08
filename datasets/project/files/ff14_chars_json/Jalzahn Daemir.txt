@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name =Jalzahn Daemir
+|release =FFXIV
+|japanese =ジャルザーン・デミール
+|romaji =Jaruzān Demīru 
+|image =FFXIV Jalzahn Daemir.png 
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Gray
+|eye = Black and Aquamarine
+|age=73 
+|home=[[Thavnair]]
+|affiliation =
+|type=npc
+|job = {{icon|ffxiv|discipline|alchemist}}
+|weapon = 
+|armor = 
+}}
+
+'''Jalzahn Daemir''' is a non-player character in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. An alchemist from the distant land of [[Radz-at-Han]], he had arrived at Hyrstmill in search of the legendary [[Gerolt]]. He is a central figure in the [[Relic Weapons]] questline.
+
+== History ==
+Jalzahn is first encountered once the player has upgraded a Relic Weapon to the ''Zenith'' stage. Gerolt complains about a foreign gentlement bothering him with questions he doesn't understand, and asks they talk to him instead. Jalzahn reveals he had developed the Thavnairan Mist that was used to polish the weapons into its Zenith stage, and expresses interesting in further awakening the relics into the likes used by the Zodiac Braves.
+
+For the next step of power, he explains that the crystallizes essences known as ''Atma'' can be obtained to infuse the relic with new power. These cahn be obtained randomly by participating in [[Full Active Time Event|FATEs]] in certain areas of Eorzea, each marked by a sign of the [[Zodiac (term)|Zodiac]]. Once all twelve Atma are gathered, he will infuse them into the weapon to transform it into the Atma stage.
+
+To continue empowering these relics as Zodiac Weapons, it is necessary to follow the steps of the Zodiac Braves. Unfortunately, he didn't think to bring any copies of the ''Trials of the Braves'' with him to Eorzea, so he suggests asking [[Rowena]] if she has any copies. Once each book is acquired, the objectives in each must be performed; at the conclusion of them, the stats on the Atma weapon will increase slightly. Completing all nine books enables Jalzahn to awaken the relic in its '''Animus''' stage.
+
+For the fifth step, Jalzahn suggests consulting [[Mutamix Bubblypots]] on how [[Materia (Final Fantasy XIV)|materia]] might be used to push the relic even farther than the Animus vessel. A researcher at the Cauldron comes up with an experimental "Sphere Scroll" that transfixes materia into light waves using alexandrites to bypass typical restrictions on melding, and believes that Jalzahn may be able to infuse such a sphere scroll into an Animus relic. Once a Sphere Scroll with desired stats is prepared, Jalzahn will transform the weapon into the '''Novus''' stage.
+
+For the sixth step, Jalzahn realizes that the relic isn't efficiently utilizing the latent soul energy. He concludes the problem is due to "soul attunement," and needs to consult with Gerolt on ideas how to attune it to the host. Gerolt suggests the issue is caused by the aether getting distorted by external forces, and thinks they need to find a way to make it "aethertight" until it can properly attune. Jalzahn realizes all that he'd need now is to apply a soulglaze onto the Novus to shield the latent soul energy. To test the extent of attunement, Gerolt supplies a custom designed "Zodiac glass" based on [[Sharlayan]] goggle.
+
+With no further upgrades possible with the Relic, Gerolt suggests recreating the vessels of the arms of the Zodiac Braves. Using the resources of both Rowena's employees and [[Mutamix Bubblypots]] Cauldron, the Zodiac Weapon is recreated, with the old relic's soul attunement transferred via materia. Later, when Gerolt obtains a rare tome on the Zodiac Braves, they learn the original arms had a sort of sentience. Using crystals called ''Mahatma'' attuned to the weapon, the Zofiac is enhanced to its Zeta stage. Thereafter, Jalzahn inquires on the book Gerolt obtained. He recognizes the author, Ulthalam, as his ancestor and a final note indicated the author couldn't recreate the Zodiac Weapons in his time. Jalzahn was glad to have fulfilled his ancestor's wish by being the "Starforger" of the Zodiac arms, a title that Gerolt immediately disputed.
+
+==Characteristics==
+=== Appearance ===
+Jalzahn is an old Midlander Hyur with gray hair and a beard. He wears a monocle and a white robe.
+
+=== Personality ===
+Fascinated with alchemy to an obsession Jalzahn traveled to Eorzea for further research, he bickers with Gerolt often but have a grudging respect for each other.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Alchemists]]

@@ -1,0 +1,74 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Dulia-Chai
+|release=FFXIV
+|japanese=ドゥリア・チャイ
+|romaji=Duria Chai
+|aka=
+|image=FFXIV Dulia-Chai.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Miqo'te|Mystel]]
+|gender=Female
+|height=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Yuka Keicho
+|english voice actor=Rachel Atkins
+}}
+'''Dulia-Chai''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''.
+
+==History==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Dulia is a heavyset Mystel with red hair and blue eyes. She wears a long black fur coat over a purple dress with gold accents, she also wears a black pearl necklace.
+
+===Personality===
+Though Dulia-Chai may enjoy the finer things in life, she doesn't look down upon the less fortunate. Although initially presented as whimsical and excessively sentimental, her mannerisms quickly reveal her as curious and affectionate. Being one of the few genuinely caring, honest and generous members of [[Eulmore]]'s rich and privileged, Dulia-Chai admires the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Scions of the Seventh Dawn]], with a motherly love directed to [[Alphinaud Leveilleur|Alphinaud]]. A dedicated wife, Dulia-Chai often pressures her husband to concede with her wishes, which often involve assisting the Warrior of Light or the people of Eulmore.
+
+== Behind the scenes ==
+Dulia's model is based on a [[Lalafell]] model, and the main scenario writer [[Natsuko Ishikawa]] wanted it in both the game and opening cutscene.<ref>{{Refwebsite| page url =https://twinfinite.net/2019/09/final-fantasy-xiv-pax-west/?state=changed8558&gid=1&pid=13| page name = Pax West Summary| site url = https://twinfinite.net| site name = Twinfinite| access time = 02:55, September 12, 2019 (UTC)}}</ref>
+
+==Gallery==
+<gallery>
+FFXIV Chai-Nuzz and Dulia-Chai portrait.png|A sketch of the couple drawn by Alphinaud.
+FFXIV Dulia-Chai portrait.png|Another portrait of Dulia-Chai.
+File:Wind-up Dulia-Chai.jpeg|Wind-up Dulia-Chai.
+</gallery>
+
+==References==
+{{citations}}
+{{navbox characters FFXIV}}
+[[Category:Miqo'te]]
+[[Category:Characters in Final Fantasy XIV]]

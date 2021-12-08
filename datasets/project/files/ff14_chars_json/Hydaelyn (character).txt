@@ -1,0 +1,103 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Hydaelyn
+|release=FFXIV
+|japanese=ハイデリン
+|romaji=Haiderin
+|lit=
+|aka=[[Venat (Final Fantasy XIV)|Venat]]
+|image=hydaelynichi.png 
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Female
+|height=
+|weight=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|designer=
+|japanese voice actor=[[wikipedia:Masako Ikeda|Masako Ikeda]]<br />[[Wikipedia:Kikuko Inoue|Kikuko Inoue]] (''Endwalker'')
+|english voice actor=[[Mary Elizabeth McGlynn]] (''A Realm Reborn'')<br />[[Wikipedia:Joanna Roth|Joanna Roth]] (''Heavensward'' onwards)
+}}
+{{Quote|Crystal bearer... I am Hydaelyn. All made one.|Hydaelyn describing herself to the adventurer.}}
+'''Hydaelyn''', also referred to simply as '''The Crystal''' or '''The Mothercrystal''', is a central character in ''[[Final Fantasy XIV]]''. She shares her name with the [[Hydaelyn|world where the game takes place]], which she had created. A sentient [[Crystal (term)|crystal]], she sends the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] on their quest against the [[Ascian]]s' machinations.
+
+Sentient crystals have been a core element of the ''[[Final Fantasy series|Final Fantasy]]'' series since the [[Final Fantasy|first game]], their chosen being the player characters known as the [[Warriors of Light]]. Crystals are deity-like figures that tend to govern the [[Final Fantasy worlds|world's]] elements or souls and the [[afterlife|cycles of incarnation]] in some manner.
+
+==History==
+{{Quote|Mark her words well, Adventurer, for it is Hydaelyn herself who speaks.|[[Merlwyb Bloefhiswyn]]}}
+===Early life===
+During the "[[Final Days]]" of Etheirys, the [[Convocation of Fourteen]] created the will of [[the Star]], [[Zodiark (Final Fantasy XIV)|Zodiark]], through a succession of mass sacrifices, first to preserve and then to rebuild their world.
+
+[[Venat (Final Fantasy XIV)|Venat]], the only one to know the true cause of the Final Days as the doing of Meteion, disapproved of the Convocation's resolve to offer the "lesser" lives they would develop to Zodiark to resurrect the ancients originally sacrificed in Zodiark's creation. Venat gained a following of like-minded ancients who offered themselves to become the core of an opposing [[primal]]. Reborn as Hydaelyn, and knowing that killing Zodiark would only renew the Final Days, she sealed her counterpart on the [[Moon (Final Fantasy XIV)|moon]] after fragmenting both Zodiark and the world itself into fourteen pieces, the Source and its Thirteen reflections. Observing her work from within the core of the Source, Hydaelyn commenced a series of contingency plans should her mission to prevent Zodiark's release and demise fail.
+
+Some time after the sundering, Hydaelyn allowed [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]] and the [[First Brood]] sanctuary on the Source in exchange for a pact as war had destroyed the dragons' star. Hydaelyn worked throughout the ages to prevent Zodiark's restoration and the Final Days being renewed. She entrusted [[Sharlayan]] to prepare for a mass evacuation while bestowing crystals on generations of Warriors of Light for them to enforce her will. However, she could not prevent the [[Ascian]]s from causing [[Umbral Calamity|Calamities]] to gradually restore their world as well as Zodiark. With each successive Calamity, Zodiark's power regrew, while Hydaelyn's power weakened.
+
+===[[Final Fantasy XIV/Legacy|''Final Fantasy XIV'' 1.0]] and ''[[Final Fantasy XIV|A Realm Reborn]]''===
+Hydaelyn awakened an adventurer's ability to use the [[Echo (Final Fantasy XIV)|Echo]] by conjuring a Starshower as she had with many of her past champions. Hydaelyn later made herself known to this Warrior of Light before they received a vision of the Ascian [[Lahabrea]]. After the Warrior of Light gained the first Crystal of Light, Hydaelyn appeared to him or her in a vision with instructions to find the other crystals and banish the encroaching darkness from the world. During the final confrontation with Lahabrea, the Warrior and the Ascian appeared before the goddess.
+
+The Warrior of Light glimpsed a dark crystal identical in shape to Hydaelyn in a vision. She no longer spoke with the Warrior of Light after Midgardsormr canceled the Blessing of Light to test the Warrior's worth, enabling the Ascian [[Nabriales]] to attack the [[Scions of the Seventh Dawn]] directly. Later, while escaping through the Sil'dih Aqueducts, [[Minfilia Warde]] claimed to hear Hydaelyn and stayed behind.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[Ysayle Dangoulain]] was another of Hydaelyn's chosen, and the Warrior of Light gradually regained the Blessing of Light, with Hydaelyn warning of a great darkness. Once the blessing was restored, Midgardsormr recognized the Warrior of Light as Hydaelyn's chosen.
+
+[[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] also possessed the Echo, and mentioned people with it were born around the time of Umbral Eras. She revealed Hydaelyn gifted Crystals of Light whose potency depended on the time Hydaelyn created it prior to her waning strength. The crystal eye in [[Matoya (Final Fantasy XIV)|Matoya's]] possession was one such Crystal of Light from an older era.
+
+Hydaelyn had urged Minfilia to return to Y'shtola and [[Thancred Waters]]'s side following their escape attempt. Minfilia was caught up in Y'shtola's Flow spell, which brought her into the Aetherial Sea and to Hydaelyn herself. Minfilia had offered her body to the weakened Mothercrystal, and became the "Word of the Mother": her avatar. When the Warrior of Light entered the Aetherial Sea looking for Minfilia, Hydaelyn channeled herself through the Word to speak with him/her.
+
+Hydaelyn used what little strength she had to reveal some of the events that had led to her fragmenting Zodiark and attempting to prevent his restoration. She had failed to prevent the first seven Umbral Calamities, and urged the Warrior of Light to stop the Ascians before it was too late, while warning that her strength was waning. She sent the Warrior back while Minfilia's form dissipated into [[aether]].
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+The Scions learned of Hydaelyn's true nature as an elder primal created by a splinter group of ancients that opposed those who created Zodiark. They learned that the Echo was not her gift, but a remnant power of ancients that lay dormant in every soul, since every soul on the Source and its Thirteen Shards was a soul of an ancient inhabitant of the original Star, now sundered into Fourteen reflections. Following the Scions' return to the Source, they concluded they may not fully know Hydaelyn's intentions despite their interaction with the possessed Minfilia, as the Warrior had not heard her original voice since regaining her Blessing.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+As the Scions reached Sharlayan, Hydaelyn appeared before the Warrior to explain her reasons and assure that their goals to prevent the Final Days aligned despite what they had learned of her while on [[the First]]. Due to her weakened state, Hydaelyn possessed Krile's body to first give the Warrior an Elpis Flower in Labyrinthos, and later in [[Garlean Empire]] to delay [[Fandaniel]] and [[Zenos yae Galvus]] from reaching [[Mare Lamentorum]], the site of Zodiark's seal. After the Warrior [[time travel|traveled back to her past]] and entered the Aetherical Sea with the Scions to reach her, Hydaelyn tested them to see if they were worthy to stop Meteion. Mortally wounded, Hydaelyn revealed she had sundered Etheirys to enable its denizens to become resistant to dynamis, and bestowed the Warrior both her remaining power and the Mothercrystal before fading away.
+{{Endspoiler}}
+
+==Characteristics==
+===Appearance===
+[[File:Final Fantasy XIV ARR crystal.jpg|thumb]]
+Hydaelyn conceals herself for most of the story and speaks through others like the Mothercrystal and Minfilia. The Mothercrystal is a gigantic mass of crystallized aether, shaped roughly like a teardrop with several smaller crystals orbiting around it. Following the Warriors' return from the First, Hydaelyn appears as herself before them in the form of her original existence as [[Venat (Final Fantasy XIV)|Venat]]: a silver-haired woman with blue eyes and white robes. In her true form, she is an angelic version of her original form with silvery white skin.
+
+===Personality===
+{{Quote|Hear... Feel... Think...|Hydaelyn}}
+Hydaelyn shows kindness and care towards the world she created, feels threatened by the encroaching darkness, and sees the Warrior of Light as her chosen who will return light to the world. She speaks in a soft, gentle voice, never venting negative emotions.
+
+== Gameplay ==
+{{main|The Mothercrystal}}
+Hydaelyn is faced as the second trial boss of ''[[Final Fantasy XIV: Endwalker]]'' in The Mothercrystal. She can also be faced in Extreme difficulty in The Minstrel's Ballad: Hydaelyn's Call.
+
+==Musical themes==
+Hydaelyn's theme is "[[Answers (Final Fantasy XIV)|Answers]]" and its variants. As revealed by [[Michael-Christopher Koji Fox]], the lyrics extol Hydaelyn's idelogy of how great hardships enable one to understand their true self.
+
+At PAX East, Michael-Christopher Koji Fox revealed that the song "[[Dragonsong]]" is also told from Hydaelyn's perspective of her struggle to understand why the [[Ishgard]]ians and [[Dravania]]ns spiral into a nigh unbreakable cycle of bloodshed in the [[Dragonsong War]].
+
+==Voice==
+Hydaelyn is voiced by [[Mary Elizabeth McGlynn]] in English, but from ''[[Final Fantasy XIV: Heavensward]]'' onwards, she is voiced by [[Wikipedia:Joanna Roth|Joanna Roth]], [[Wikipedia:Masako Ikeda|Masako Ikeda]] in Japanese, [[Wikipedia:Véronique Augereau|Véronique Augereau]] in French, and [[Wikipedia:Sonngard Dressler|Sonngard Dressler]] in German. She shares her English voice actress with [[Nora Estheim]] in ''[[Final Fantasy XIII]]'' and [[Rosso]] in ''[[Dirge of Cerberus -Final Fantasy VII-]]'', and her Japanese voice actress, Masako Ikeda, with the [[Cloud of Darkness (Dissidia PSP)|Cloud of Darkness]] in ''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'' and its [[Dissidia 012 Final Fantasy|sequel]], as well as [[Miotsk Aufmachyt]] in ''[[Final Fantasy Type-0]]''.
+
+==Gallery==
+<gallery widths="185">
+FFXIV ARR Collector's Edition Box Art.jpg|[[Final Fantasy XIV concept art|Artwork]] by [[Yoshitaka Amano]].
+FFXIV Hydaelyn Art.png|A painting of Hydaelyn.
+FFXIV Zodiark vs Hydaelyn Art.png|The art of Zodiark fighting Hydaelyn.
+FFXIV Ryne Hydaelyn.png|[[Ryne]] assuming the form of Hydaelyn.
+Final Fantasy XIV Endwalker.jpg|''Endwalker'' artwork by [[Yoshitaka Amano]], depicting Hydaelyn and Zodiark.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Hydaelyn (personagem)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Deities]]
+[[Category:Crystal]]

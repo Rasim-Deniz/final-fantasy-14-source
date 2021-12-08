@@ -1,0 +1,66 @@
+{{infobox character
+|name=Kurenai Shisui
+|release=FFXIV
+|japanese=クレナイ・シスイ
+|romaji= Kurenai Shisui
+|lit=
+|image=FFXIV Kurenai Shisui.png
+|home=[[Shisui of the Violet Tides]]
+|affiliation=[[Ruby Sea#Sui-no-Sato|Sui-no-Sato]]
+|occupation=Ruby Princess
+|race=[[Au Ra]]
+|gender=Female
+|height=
+|weight=
+|hair=Wine
+|eye=Green
+|type=npc
+|age = 21}}
+
+'''Kurenai Shisui''' is a non-player character from ''[[Final Fantasy XIV: Stormblood]]''. Kurenai is a resident from Shisui of the Violet Tides and seeks assistance in Sui no Sato.
+
+==History==
+[[File:FFXIV Kurenai and Hisui.jpg|thumb|left|Kurenai and Hisui.]]
+Ever since birth Kurenai has been forbidden from leaving Shisui of the Violet tides and found interest in the outide world through tomes. Kurenai inherits the Ruby Princess name from her mother when she passes and acts as the ruler of Sui-no-Sato. One day a [[Ascian|man cloaked in black]] visited [[Shisui of the Violet Tides]] claiming that he had come to grant a blessing of holy protection to the palace. To protect Ruby Princess, the princess swaps places with her childhood friend, [[Hisui]]. The ritual proves to be a farce and the man invokes a [[voidsent]] that possess Hisui and the palace guards. To prevent this from spreading, [[Shiosai]] evacuates and seals the palace but hides the truth behind it, he allows the Ruby Princess to leave Shisui on the condition that she does not disclose her identity and acts as the princess's sister.
+
+Kurenai realizing that she could not solve the situation alone asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] for help to infiltrate the palace and defeat the voidsent. Once done the guards begin to regain their senses but Hisui remains in deep sleep. With the help of the Warrior of Light, Kurenai goes to the surface to investigate a fairy tale that recounted a situation resembling Hisui's and an elixir capable of waking her up. The tale is revealed as a true story and Kurenai visits Tamamizu in search of the elixir, she meets with [[Inban]] and when he has the ingredients in hand, he prepares the elixir to finally awaken Hisui. After Hisui wakes up, they return to Shisui.
+
+[[File:Kurenai in Kugane from FFXIV.png|thumb|Kurenai visiting Kugane.]]
+After the adventure she experienced with the Warrior of Light, she decided that it was time for her people to embrace the outside world and welcome trade. She enlists the help of [[Sanana]], a worker from [[Rowena's House of Splendors]] to help with ties to the outside world. She also requests the aid of the Warrior of Light to help their people with remedies from [[Gyr Abania]], harpoons to help with fishing, and [[Coerthas|Coerthan]] garbs to keep her people warm. After selling items of their own to collector's around the world, Shiosai accepts her want for trade and may even allow her to leave the palace more often.
+
+== Characteristics ==
+=== Appearance ===
+Kurenai is a raen Au Ra with wine red hair and green eyes. She wears a lady's suikan adorned with flowers and dyed wine red. She has a red flower in her hair and wears red sandals on her feet.
+
+=== Personality ===
+{{Section|Final Fantasy XIV}}
+
+==Gameplay==
+Kurenai has a side story that consists of five quests. Her starting quest {{icon|ffxiv|quest|The Palace of Lost Souls}} unlocks the {{icon|ffxiv|duty|Shisui of the Violet Tides}} duty and rewards the player with an Aether Current from Ruby Sea.
+
+===[[Custom Deliveries]]===
+[[File:FFXIV Kurenai Shisui (Custom Deliveries).png|thumb|180px|Custom Deliveries portrait.]]
+In Patch 4.3, Kurenai was added as a Custom Delivery NPC. To unlock her custom deliveries, the player must first have [[M'naago Rahz|M'naago]]'s Custom Deliveries unlocked and have completed {{icon|ffxiv|quest|The Two Princesses of Sui–no–Sato}} quest. After that, the player can unlock Kurenai's Custom Deliveries through {{icon|ffxiv|quest|The Seaweed Is Always Greener}} quest by talking to Kojin Hireling in Kugane (X: 10.1 Y: 9.9).<ref>[https://na.finalfantasyxiv.com/lodestone/topics/detail/13e322580acb8e9861160a6e08ccabfaff09eeee ''Final Fantasy XIV'' Patch 4.3 Notes]</ref>
+
+Kurenai's Custom Deliveries are located in the Ruby Sea at Tamamizu (x:28.5, y:15.2). Every week the player delivers collectible items to her and receives crafting and gathering scrips, in addition to experience and gil. To participate in her custom deliveries players need to be on a crafter or gatherer job [[level]]ed to 62. 
+
+Players can gain the ability to cast glamours on Kurenai by raising her satisfaction level to the maximum.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name=Hisui & Kurenai
+|image=[[File:Hisui & Kurenai Triple Triad Card.png]]
+|number=207
+|total=28
+|type=None
+|description="To prove my point, here is a quick test for you—look very closely and tell me: am I Kurenai...or am I Hisui?"
+|obtain=Won from Isobe, The Ruby Sea (21.3, 19.5)
+}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Custom Delivery NPCs]]

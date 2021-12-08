@@ -1,0 +1,74 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Doga (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Doga
+|release=FFXIV
+|japanese=ドーガ
+|romaji=Dōga
+|lit=
+|aka=
+|image=FFXIV Doga.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Allagan Empire]]
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=Dark green
+|eye= Red (Allagan eyes)
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|abilities=
+|limit break=
+|weapon=Rod
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Doga''' is a non-playable character from ''[[Final Fantasy XIV]]''. He and [[Unei (Final Fantasy XIV)|Unei]] appear in "Chronicles of the New Era" storyline involving the [[Crystal Tower (Final Fantasy XIV)|Syrcus Tower]], named after the mages from ''[[Final Fantasy III]]''; [[Doga]] and [[Unei]]. The enemies "Doga's Clone" and "Unei's Clone" also appear in Syrcus Tower.
+
+==History==
+Long ago, Doga was created for the purpose of stopping the plot by the Allagan Emperor [[Xande (Final Fantasy XIV)|Xande]]. He and Unei posed as normal Hyur researchers to be involved in the NOAH group's expedition into until their true nature was revealed by [[Nero tol Scaeva]]. After explaining themselves, Doga accompanies NOAH into Syrcus Tower to cancel Xandes's pact with the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]]. However, the Voidsent refusing to let him and Unei close the portal, Doga is sucked into the World of Darkness.
+
+After the [[Warrior of Light (Final Fantasy XIV)|Adventurer]] enters the World of Darkness and defeats the Cloud of Darkness, they find Doga, Unei and Nero, the latter of which had been protecting the pair from the monsters sent to kill them. Doga and Unei state their intent to sever the Cloud's pact with Xande, and use their bloodline to grant [[G'raha Tia]] the ability to control the Crystal Tower. While the rest of the group escapes back to Eorzea, they remain in the World of Darkness to complete their purpose.
+
+==Characteristics==
+===Appearance===
+Doga is a [[Hyur|midlander hyur]] man with dark brown hair and the red eyes seen in Allagan royalty. He wears a palette-swapped version of the Heavy High Allagan Coat.
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Musical themes==
+Doga and Unei have their own unique theme song plays when they first appear, "Now I Know the Truth".
+
+==Gallery==
+<gallery>
+Unei Doga_Crystal Tower.png|Doga and [[Unei (Final Fantasy XIV)|Unei]] in front of the Crystal Tower.
+Doga Syrcus Tower.png|Doga on the top floor of Syrcus Tower.
+Doga_Void.png|Doga being pulled into the World of Darkness.
+QUneiDoga1.png|Unei and Doga.
+FFXIV Doga Clone.png|The clone.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

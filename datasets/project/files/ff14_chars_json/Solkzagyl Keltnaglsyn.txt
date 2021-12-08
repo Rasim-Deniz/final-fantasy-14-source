@@ -1,0 +1,60 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Solkzagyl Keltnaglsyn
+|release = FFXIV
+|japanese =ソルクザギル・ケルトナグルシン 
+|image =FFXIV Solkzagyl Keltnaglsyn.png 
+|race = [[Roegadyn]]
+|gender = Male
+|height = 
+|hair = Gray
+|eye = Light Gray
+|designer = 
+|age = 54 
+|job = {{icon|ffxiv|discipline|paladin}}
+|weapon= Curtana 
+|armor= Gallant Armor
+|romaji= Sorukuzagiru Kerutonagurushin 
+|affiliation= Sultansworn (former)
+|occupation= Free Paladin
+|lit=Solkzagil Keltnagulsin
+|aka=Solkzagyl the Loyal
+|home=[[Ul'dah]]
+}}
+
+'''Solkzagyl Keltnaglsyn''', also known as '''Solkzagyl the Loyal''', is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. A free paladin, he was the former captain of the Sultansworn.
+
+== History ==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Solkzagyl was trained as a paladin, ultimately becoming the leader of the Sultansworn. As their leader he carried the sword Oathkeeper, which had once been wielded by the order's founder. Though it gleamed brightly in those days, Solkzagyl was only able to draw forth its radiance once in the thirty years he wielded it. After Oathkeeper was stolen by the Monetarists, Solkzagyl left the Sultansworn.
+
+He eventually encounters an Adventurer newly training to be a paladin. Solkzagyl declined to give his name, claiming to be a free paladin and giving the Adventurer a soulstone. Captain [[Jenlyns Straightblade]] later explains Solkzagyl was a traitor that had stolen the Oathkeeper.
+
+Solkzagyl later appears to deflect an assassin's arrow from striking a wounded Jenlyns. He explains that he was no traitor, and Jenlyns was too blinded by his conviction to realize he was being manipulated by the Monetarists. He carries the unconscious Jenlyns to safety before departing once more. Solkzagyl meets the Adventurer again in Central Thanalan, where he explains that Jenlyns' plan to lure the Monetarists' assassins at Snowcloak will get him killed, and he intends to aid him. He asks what path the adventurer will choose.
+
+At Snowcloak, the Adventurer catches up to Jenlyns and Solkzagyl, who prepare to fight off the unusual assassins: voidsent. Realizing a mage must be responsible, they search the area until they discover a strange grimoire. The arcanist reveals himself and is fought off by the trio of paladins. With the threat gone, Solkzagyl declines the offer to return to his post as captain, stating that once a brother leaves the Sultansworn he cannot return. However, he believes Jenlyns has proven himself qualified as captain thanks to his training of the Adventurer. Solkzagyl departs to search for Oathkeeper.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+During Solkzagyl's search, he takes on a pupil named Constaint. Though he finds the sword, he is still unable to get it to shine. Realizing that only a paladin who has risen above all others can do so, he conceives of a complicated plan to ensure this outcome. Without revealing that he has found Oathkeeper, he fakes his death an ambush by the same band of assassins that stole Oathkeeper years ago. As expected, Constaint vows to fulfill Solkzagyl's quest of finding Oathkeeper, following clues that Solkzagyl cleverly leaves for him. Unexpectedly, the Adventurer arrives to help Constaint in his quest. In following the clues, Constaint uncovers pieces of paladin armor that Solkzagyl has left for him and, ultimately, learns of Solkzagyl's survival.
+
+When confronted by Constaint and the Adventurer, Solkzagyl explains that he could not teach Constaint to be a paladin; Constaint had to prove it for himself. He insists, however, that Constaint and the Adventurer must battle until one of them rises above the other. After the Adventurer defeats Constaint, Jenlyns arrives and demands that Solkzagyl tell the entire truth of his scheme. Revealing that he has Oathkeeper, Solkzagyl challenges the Adventurer to battle to restore the sword's radiance. When the Adventurer triumphs, Solkzagyl turns over Oathkeeper; as expected, it glows brightly with radiant light before the Adventurer gives it to Jenlyns as leader of the Sultansworn. Jenlyns again asks Solkzagyl to rejoin the order; he reiterates that he cannot do so, but agrees to return to Ul'dah as an ally and friend.
+
+== Characteristics ==
+=== Appearance ===
+Solkzagyl is a Sea Wolf [[Roegadyn]] with brown hair. He wears a full set of Gallant attire, as befitting a Paladin.
+
+=== Personality ===
+{{Section}}
+
+== Gameplay ==
+Solkzagyl fights alongside the player and Jenlyns during the final Paladin quest {{icon|ffxiv|quest|Keeping the Oath}}. His skillset is typical for a Paladin of the level-range the quest is taken at, but he also serves as the undesignated healer for the temporary party, as he casts Cure on himself, Jenlyns, or the player depending on their HP (and notably uses his sword for the spellcasting animation).
+
+==Etymology==
+In the Roegadyn language, his name translates to "Blessed Tail, son of Cold Nail."
+
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Paladins]]

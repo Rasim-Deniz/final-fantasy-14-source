@@ -1,0 +1,57 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Alberic Bale
+|release=FFXIV
+|japanese=アルベリク・ベイル
+|romaji=Aruberiku Beiru
+|aka=Alberic Quickwater
+|image=FFXIV-Alberic Bale.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Dark gray
+|eye=Light brown
+|age =44 
+|home = [[Ishgard]]
+|occupation=Knight
+|type=npc
+|job={{icon|ffxiv|discipline|dragoon}}
+|weapon=Lominsan Lance 
+|armor=Templar's Armor 
+}}
+
+{{Quote| I am Ser Alberic Bale, knight of Ishgard. The Holy See is much obliged to you for your aid.|Alberic}}
+'''Ser Alberic Bale''' also known as '''Alberic Quickwater''' is a non-playable character from ''[[Final Fantasy XIV]]''. A knight of [[Ishgard]] and former [[Azure Dragoon]], he plays a major role in the [[Dragoon (Final Fantasy XIV)#Dragoon|Dragoon]] job quests.
+
+==History==
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+Alberic Bale, as the former Azure Dragoon, trained [[Estinien Wyrmblood]] as a dragoon, who soon succeeded him. When the latter betrayed the Holy See by stealing the [[Eyes of Nidhogg|Eye of Nidhogg]], Alberic was forced to request aid from the Lancers' Guild in [[Gridania]], leading to the Adventurer being enlisted to aid him. Upon learning the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] was seemingly chosen by the Eye as a second Azure Dragoon, Alberic presented his soul stone and trains them in the way of the dragoon.
+
+During the Warrior of Light's training, Ser Alberic relates how the Eye was originally taken by [[Haldrath]] during the founding of [[Ishgard]], prized out of the great wyrm's eye socket. Since then, [[Nidhogg (Final Fantasy XIV)|Nidhogg]] has unleashed his wrath on the Holy See seven more times throughout its history. The most recent happened twenty years ago, when Ser Alberic was Azure Dragoon. Nidhogg's rampage only ended near a village called Ferndale, where he engaged the great wyrm in battle for three consecutive days where it was driven off for good. The only survivor of the village was Estinien, whom Alberic took in and trained.
+
+Estinien reaches out and asks to parley. At Boulder Downs, he reveals Nidhogg has already awakened, and only took the Eye in hopes of drawing his wrath away from the Holy See. He believes that since two Azure Dragoons were chosen, they should join forces and confront the wyrmking. He asks the Warrior of Light to acquire drachen mail and finish their training, and Alberic instructs on how to pursue these tasks.{{cite|FFXIV|{{icon|ffxiv|quest|Double Dragoon}}|name=Double Dragoon}}
+
+Upon completing them, he confesses the truth of what happened at Ferndale. He reveals that as he drove his spear into Nidhogg's empty eye socket, he met the wyrm's gaze and became overwhelmed with the dragon's emotions. Fearing he would be enthralled under this torrent, he relinquished the power of the dragoon, and used the ensuing clarity to rout the great wyrm. Unfortunately, Nidhogg's fellow dragons took the occasion to finish the job, razing the village to the ground. Alberic could only save one child—Estinien—from the slaughter. He expresses his intent to confess the truth when they next meet Estinien.
+
+Estinien sends word that Nidhogg is about to make a move and requests a rendezvous at Steel Vigil. There, he turns his spear towards his former master, and reveals that the Eye told him the truth of Ser Alberic's actions twenty years ago, and that he kept the loss of the Eye from the archbishop. Denouncing him as a coward, Estinien declares his intent to slay Alberic and then take out the Great Wyrm himself. As Ser Alberic learns that his emotions leave him dangerously vulnerable to the dragon's influence, the Warrior of Light engages the Azure Dragoon in battle. As Estinien loses the duel, the voice of Nidhogg offers him power. As Estinien  reaches out to receive it, a blinding flash occurs before he and the wyrmking's aura vanish.
+
+Ser Alberic explains that he saw what appeared to be the image of Haldrath the Dragonseye in the Warrior's place as the wyrmking was banished. Amazed, he realizes the adventure had awakened the power of the first Azure Dragoon, which manifested in the original Drachen Mail of the first Azure Dragoon. With Nidhogg's aura fading and the dragons quieting down, Ser Alberic hopes that Estinien is still out there.{{cite|FFXIV|{{icon|ffxiv|quest|Into the Dragon's Maw}}|name=Into the Dragon's Maw}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Alberic is a male Midlander [[Hyur]] of average height, he has dark gray hair, with a lighter highlight, and a beard. He wears Templar armor, and wields a Lominsan lance in battle.
+
+===Personality===
+Alberic is a teacher to new dragoons and cares about his students. Alberic knows a lot about the [[Dragonsong War]] and will share his encounters with the dragon Nidhogg.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragoons]]
+[[Category:Hyurs]]

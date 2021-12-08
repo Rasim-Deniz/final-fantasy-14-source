@@ -1,0 +1,46 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Reyna Breakhook}}
+{{Infobox character
+|name=Reyna Breakhook
+|release=FFXIV
+|japanese=レイナ
+|romaji=Reina
+|image=FFXIV Reyna.png
+|race=[[Hyur]]
+|gender=Female
+|hair=Purple
+|eye=
+|age=28<ref name=EEII128>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II]]'', pag. 128</ref>
+|home=
+|type=npc
+|job={{icon|ffxiv|discipline|fisher}}
+}}
+'''Reyna Breakhook''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is involved in [[fisher]] questline during the ''[[Final Fantasy XIV: Heavensward|Heavensward]]'' expansion.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Reyna is first seen in [[Coerthas Western Highlands|Falcon's Nest]] where she challenges the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in a competition to fish school of icepicks, but ends up losing her own competition. She persists the Warrior of Light by telling the story of a chocobos hunter who left a floating island.
+
+Later, Reyna asks [[Ansaulme de Rougecarpe|Ansaulme]] and Warrior of Light for help in a crisis affecting the camp in [[Dravanian Forelands|Tailfeather]] with the shadow hunters. Once resolved, Reyna rewards the player in the same way as before.
+
+When Ansaulme decides to take over his inheritance at House Rougecarpe, Ansaulme's current regent and younger brother hires Reyna to murder Ansaulme. Reyna accepts the order to pocket the money, and immediately reveals the machinations to Ansaulme.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[Wawalago Momolago]] recruits Reyna as a capable cooperator to help [[Govv]]—a young [[Sahagin]]—investigate the disappearance of a fish species known as "the shooting star of the seas" in the Sahagin language. Reyna reduced the possible location of the breeding beds of the shooting stars to a region on the [[Ruby Sea]] and accompanies the Warrior of Light to [[Hingashi]]. Talking to local fishermen, Reyna learns that the real name of the so-called shooting stars of the Sahagin are known to the Hingan people as harutsuge and asks the Warrior to capture some in order to gain more knowledge about the cause of their disappearance.
+
+The cause of the disappearance ends up being revealed by the lack of a festival involving the capture of giant plesiosaurs that was banned twenty-five years ago, when the garleans arrived. This resulted in an overpopulation of plesiosaurs, who are undoubtedly hunting the harutsuge pups before they can reach their maximum size. As such, it would be logical that reliving the festival would restore harutsuge to the seas.
+
+==Characteristics==
+===Appearance===
+Reyna is a Midlander [[Hyur]] with lavender colored hair and wears red tinted goggles. She wears a white tacklekeep hat, a desert yellowtrailblazer's vest, along with fisher gaskins and wading boots.
+
+===Personality===
+{{Section}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Fishers]]

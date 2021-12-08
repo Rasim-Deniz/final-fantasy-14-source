@@ -1,0 +1,101 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Varis zos Galvus
+|release=FFXIV
+|japanese=ヴァリス・ゾス・ガルヴァス
+|romaji=Varisu Zosu Garuvasu
+|lit=Varis zos Galvas
+|aka=Varis yae Galvus
+|image=FFXIV Varis yae Galvus render.png
+|home=[[Garlemald (location)|Garlemald]]
+|age=46<ref>''Encyclopedia Eorzea'' p.178</ref>
+|dob=
+|affiliation=[[Garlean Empire]]
+|occupation=Emperor
+|race=Garlean
+|gender=Male
+|height=
+|weight=
+|hair=Platinum
+|eye=Yellow
+|type=npc
+|japanese voice actor=Joji Nakata
+|english voice actor=[[Wikipedia:Michael Maloney|Michael Maloney]]
+}}
+{{Quote|Alas, your sentiments betray the narrowness of your view. The fate of Eorzea and its inhabitants is of little concern next to the fate of the world.|Varis}}
+'''Varis zos Galvus''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. During the events of ''A Realm Reborn'', he becomes the new emperor of the [[Garlean Empire]], succeeding his grandfather [[Emet-Selch|Solus zos Galvus]]. Before his ascension, he was '''Varis yae Galvus''', High Legatus of the Ist imperial legion. Though Varis has been depicted in the Imperial Throne Room numerous times, he has never sat on the throne.
+
+He has one known son, [[Zenos yae Galvus]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Varis_casket.png|thumb|left|Varis spits on the casket of his grandfather.]]
+Varis zos Galvus was revealed as the new emperor of Garlemald during a meeting of the [[Eorzean Alliance]], having settled the succession crisis following Solus zos Galvus's death. He had been contesting the throne with his uncle, Solus's youngest son. Being a High Legatus and therefore with military prowess, Varis had ousted his rival and crowned himself emperor. Since he had been opposed to [[Dalamud|Project Meteor]], the Alliance leaders worried about another Garlean invasion into Eorzea under the new ruler. For reasons unknown, Varis was experimenting with [[Allagan Empire|Allagan]] cloning technology with Solus as the subject.
+
+[[File:Varis Zos Galvus.png|thumb|Varis as the new Emperor.]]
+Varis had planted a mole in the Eorzean Alliance back when the [[Grand Company|Grand Companies]] were reinstated, known as "the Ivy".{{cite|FFXIV|Main Scenario quests added in "Dreams of Ice"}} The spy was Flame Marshal [[Eline Roaille]], the second-in-command of the Immortal Flames. Uncovering the Ivy's spy network revealed she had been a double agent for other parties, such as [[Ul'dah]]n Monetarists and [[Ishgard]]ian heretics.
+{{clear}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Varis, along with his favored Legatus, [[Regula van Hydrus]] of the [[VIth Imperial Legion]], interrogated the Zundu [[Vanu Vanu]] of Ok'Gundu in the [[Sea of Clouds]] while pursuing Archbishop [[Thordan VII]]. Varis acknowledged the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light's]] reputation as a "nuisance", and claimed to be seeking a means to stop the [[primal]]s, albeit with different means as he was willing to kill the Zundu though they had no role in [[Bismarck (Final Fantasy XIV)|Bismarck's]] summoning. [[Lucia goe Junius]] intervened with her [[Magitek Armor|magitek armor]] and Varis left on his dreadnaught, the ''Gration'', promising the Warrior of Light that they would meet again.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After the defeat of the Garlean forces in [[Doma (Final Fantasy XIV)|Doma]] and [[Ala Mhigo]], the white [[Ascian]] [[Elidibus (Final Fantasy XIV)|Elidibus]] offered his condolences regarding Zenos's death. Varis brushed him off, saying his son was never fit for the throne while adding that there was no place for "shadowless charlatans" teaching savages to summon their false gods. Elidibus assured he would not stop Varis from pursuing the black Ascians, though Varis remained skeptical of what mortal life would mean after the final [[Umbral Calamity|Rejoining]]. Evading his query, the white Ascian revealed he had acquired Zenos's body as his vessel much to Varis's shock and outrage.
+
+Varis decided to broker peace with Doma by sending [[Asahi sas Brutus]] of the Populares faction as his ambassador to hold a prisoner exchange as a sign of goodwill. Varis was unaware that Elidibus used his role as "Zenos" to manipulate Asahi into sabotaging the treaty, but Elidibus assured him that everything was going according to plan, stating that it was for the fate of the world. Though the Populares were driven out, Varis remained hesitant to invade Ala Mhigo despite Elidibus telling him the time was right. Elidibus took his leave while the Ascian that assumed the identity of Solus zos Galvus ([[Emet-Selch]]) appeared in one of the cloned bodies and chastised Varis for his indecisiveness, reminding him that the Ascians had created the Empire to cause discord via conquest to preserve the state of the world. Varis, furious with the former emperor, shot him, retorting that man was the master of his own destiny. Solus appeared in another clone body, scoffing before walking away, saying that he was merely doing his duty, as should Varis.
+
+After meeting Solus one final time, livid to learn that the succession crisis from his grandfather's death had been intentional, Varis parleyed with the Eorzean Alliance before the battle of Ala Mhigo could commence. While the Alliance leaders bickered with Varis against his conquest of the realm, Varis turned their own words against them calmly and succinctly. His negotiating skills overpowered the discussion necessitating a recess, which reconvened after everyone had a chance to recollect themselves. Varis then revealed the truth behind his Empire's establishment and the true nature of the Rejoining, requesting the Alliance to join him in seeing it happen so they could destroy the Ascians—only to be disappointed with the Alliance's lack of vision and resolve. Ultimately finding the negotiations a lost cause, Varis departed to ready his army for war.
+
+While Elidibus battled the Eorzean Alliance and the Warrior of Light using Zenos's body, Varis was forced to return to Garlemald upon hearing rumors about his son being possessed. These rumors were spread by the IIIrd Legion, led by Nerva. This led to discontent within the Imperial Court, giving the possibility of a second war of succession. The battle in Ala Mhigo reached a stalemate as Elidibus failed to defeat the Warrior of Light as "Zenos" and was forced to retreat, with the Garlean forces following him. Varis argued with Elidibus regarding the battle, but they settled the matter with Varis vowing to do all he could to have Garlemald emerge victorious, warning the Ascian not to underestimate mankind. After Elidibus's departure, an engineer approached Varis proclaiming that production of [[Black Rose (Final Fantasy XIV)|Black Rose]] could commence. Varis hesitated for a moment before smiling deviously.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+{{Quote|Zenos... My foolish, greedy son... Was a second life not enough? Was the Empire too rich a prize to ignore? True freedom for our nation—our people—will never be won by a spoiled princeling! The burden of this throne is beyond you.|Varis reprimanding his son}}
+Varis remained in Garlemald consorting with Elidibus about taking advantage of the Warrior and the [[Scions of the Seventh Dawn]] no longer being on [[Hydaelyn|the Source]] (they had been called to [[the First]]). Before either could act on such a plan, a Garlean uniform arrived and revealed himself as the true Zenos, having used his [[Resonant]] abilities to transcend death, ready to reclaim his original body from Elidibus.
+
+The Ascian Paragon abandoned Varis after failing to stop Zenos and, more importantly, sensing Emet-Selch's demise in the First at the Scions' hands. Zenos wounded Varis in the confrontation, and when [[Gaius van Baelsar|Gaius Baelsar]] and [[Estinien Wyrmblood]] burst into the throne room while infiltrating the palace, Varis confirmed Zenos had regained his body. Varis assumed his son had returned to claim the throne, proclaiming that the freedom of their nation and people would never belong to his wicked son. To his shock, Zenos brushed this off, stating he had no intention to rule over the Empire; he had only returned to remove those who would interfere with his sport, namely his father and the Black Rose poison. Horrified, Varis was left powerless as Zenos murdered him to ensure no one would interfere in his hunt for the Warrior of Light. Enraged, Gaius attacked Zenos, but even with Estinien's aid, they failed to defeat the prince. As Imperial forces arrived, they saw the emperor dead and assumed the Black Wolf and the Azure Dragoon killed him. Zenos, having grown bored of the battle, departed, allowing the Imperial forces to fall into disarray. 
+
+=== ''[[Final Fantasy XIV: Endwalker]]'' ===
+With Varis dead and no one to assume the throne, the Empire began to tear itself apart, just as Varis had feared. The Imperial Legions began acting on their own ambitions with Garlemald suffering from the civil war. Following Elidibus's demise, [[Fandaniel]] enacted his agenda by using Varis's corpse as a medium for the Garleans' faith in their emperor to summon Anima. Pieces of Varis's body were also used in the creation of cores used to form spires.
+
+Varis was finally put to rest after Anima's demise at the hands of the Warrior of Light, with [[Alphinaud Leveilleur]] offering in prayer "May the Gods have mercy on your soul."
+
+==Characteristics==
+[[File:Varis Zos Galvus artwork.png|thumb|150px|Concept art.]]
+===Appearance===
+Varis is a large [[Garlean (race)|Garlean]] man with long platinum hair, gaunt features and bright golden eyes. Like [[Cid nan Garlond]] and [[Nero tol Scaeva]], he bears the signature Garlean "third eye" with a circlet worn over and outlining it. He wears a massive suit of dark armor with a red cape, similar to his late grandfather's promotional artwork {{Show image|Ffxiv-solus-zos-galvus.png}}. Even for a Garlean, Varis is very tall, towering over his son. Even when shy of twenty years old his height was considered unusual. Varis appears to be the tallest humanoid character on Hydaelyn.
+
+===Personality===
+The emperor of Garlemald is militant, cold, and stoic, yet determined and charismatic. Varis believes his actions are just as he is willing to kill all [[beastmen]] to remove primals from the realm. He follows a "needs of the many outweigh the needs of the few" creed, stating that the condition of Eorzea and its people are of little significance to the fate of the entire world in the quest to remove or bind eikons. Despite his stoic and cold personality, Varis is cunning and manipulative, as he twists the Alliance leaders' words and uses their nations' own histories to sow seeds of doubt.
+
+Varis has little to no love for his family, spitting on the coffin of his uncle after ousting him from the throne. He recognizes his son Zenos for the monster he was and does not mourn his supposed death.
+
+In his youth, Varis admired and sought his grandfather Solus's approval, but this turned into resentment due to his resemblance to Solus's dead son. Their relationship strained further after Varis learned that Solus was an Ascian and intentionally did not name a successor to incite civil war in Garlemald.
+
+Varis has no desire to rule over Eorzea or other continents, and only wishes to destroy the eikons that threaten them. He is willing to ally with his grandfather's enemies to accomplish this. He ultimately believes that man should be the master of his own destiny, despising the Ascians and their penchant for controlling others.
+
+He aims to restore the world to its [[The Star|original state]], freeing the people of their differences to unite them. During the negotiations with the Eorzean Alliance and the Scions of the Seventh Dawn, Varis reveals his true goals are more closely aligned with the Ascians, wishing to invoke the [[Umbral Calamity]] to restore mankind as one true perfect race devoid of differences. He believes these differences between races are what sprout feelings of distrust and hate. Varis beseeches the leaders of Eorzea to join him and his Empire to accomplish this goal, regardless of the cost it may have on the other reflections of [[Hydaelyn|the Source]].
+
+Despite his conviction in completing the Rejoining, Varis does care for Garlemald, its people and their freedom. Thus, he feels the burden of the throne is not meant for his twisted son, Zenos, who cares little for the Empire.
+{{Endspoiler}}
+
+== Gameplay ==
+{{main|Memoria Misera|The Tower of Babil}}
+[[File:FFXIV Varis yae Galvus boss.jpg|thumb|right|200px|Varis as a boss.]]
+In patch 5.25, a recreation of then-High Legatus Varis yae Galvus is fought in Cid's memories during the solo duty [[The Bozja Incident (duty)|The Bozja Incident]], with the Warrior of Light being aided by [[Mikoto Jinba]] and recreations of the Scions of the Seventh Dawn. Varis can also be faced with a full party in the [[Memoria Misera]] (Extreme) trial.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Prelude in Violet Artwork.jpg|Varis in "Prelude in Violet" artwork.
+</gallery>
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Varis Zos Galvus]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garleans]]
+[[Category:Garlean citizens]]
+[[Category:Antagonists]]

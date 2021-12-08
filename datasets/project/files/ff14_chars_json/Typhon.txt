@@ -1,0 +1,293 @@
+{{sideicon|FFI|FFVI|FFVII|VIIBC|XIII2|FFXIV|FFXV|FFTS|Type0|FFD2|DFF2008|D012|TFFCC|PFF|FFAB|FFATB|FFRK|FFWWW|FFBE|Mobius|ChocoD|FablesCT|FFU|FFTCG}}
+[[File:VIUltrosArt.png|right|thumb|200px|Artwork of Typhon and Ultros by [[Yoshitaka Amano]].]]
+{{Quote|A monster first appearing in Final Fantasy VI. [[Ultros]] never fails to call him "mister". With a harsh cry of "FUNGAH!!!" he uses his powerful Snort to send foes flying. |''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'' Summon Compendium}}
+'''Typhon''' {{J|テュポーン|Tyupōn}}, also known as '''Typhoon''' or '''Chupon''', is a recurring creature in the [[Final Fantasy series|''Final Fantasy'' series]]. He is [[Ultros]]'s partner and also appears as a [[Summoned monsters|summon]]. Typhon appears as a large purple and pink monster with a large mouth and a second face on his rear end. Typhon's trademark attack is [[Snort]], which can either [[Instant Death|kill a party member instantly]] or [[Eject|remove them from battle]].
+
+==Appearances==
+===''[[Final Fantasy]]''===
+
+[[File:Typhon psp.png|right|Typhon (PSP).]]
+{{main|Typhon (Final Fantasy)}}
+Typhon appears in the ''[[Final Fantasy I & II: Dawn of Souls|Dawn of Souls]]'', ''[[Final Fantasy 20th Anniversary]]'' and [[iOS]] releases as an optional [[boss]] in [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]], appearing along with [[Orthros (Final Fantasy)|Orthros]], [[Phantom Train (Final Fantasy)|Phantom Train]] and [[Death Gaze (Final Fantasy)|Death Gaze]]. Typhon can use Snort to instantly kill a [[party]] member, and [[Item drop|drops]] a [[Final Fantasy armor#Genji Helm|Genji Helm]] upon defeat.
+{{clear}}
+
+===''[[Final Fantasy VI]]''===
+
+[[File:Typhon-ffvi-ios.png|right|100px]]
+{{main|Typhon (Final Fantasy VI)}}
+In its first appearance, Typhon debuts when the party attacks the [[Floating Continent (Final Fantasy VI)|Floating Continent]], backing up [[Ultros (Final Fantasy VI)|Ultros]] when he is defeated. Typhon's Snort blows the party off the ''[[Blackjack (Final Fantasy VI)|Blackjack]]'' and into a battle with [[Air Force]].
+
+After the [[Cataclysm (Final Fantasy VI)|cataclysm]], Ultros is hired as a receptionist at [[Dragon's Neck Coliseum]], and Typhon fights in the arena on his behalf to help him. If the player bets an item of insufficient rarity or value, Typhon will put up an [[Final Fantasy VI items#Elixir|Elixir]] and battle the player, using Snort on his first turn to end the battle instantly and the item that was bet is returned to the player.
+{{clear}}
+
+===''[[Final Fantasy VII]]''===
+[[File:Typhon-ffvii.png|right|200px|Typhon model.]]
+{{main|Typhon (Final Fantasy VII)}}
+Typhon (known as Typoon in the PlayStation release) is a [[Summon (Final Fantasy VII)|summon]]. His [[Summon Materia (Final Fantasy VII)|Summon Materia]] is located in the [[Ancient Forest]]. Typoon's special attack, Disintegration {{J|天地崩壊|Tenchi Hōkai}}, costs 160 MP, and inflicts [[Fire (Final Fantasy VII element)|Fire]], [[Ice (Final Fantasy VII element)|Ice]], [[Lightning (Final Fantasy VII element)|Lightning]], and [[Earth (Final Fantasy VII element)|Earth]] elemental damage on all enemies, ignoring defense but missing flying enemies. Typoon's spell power is equal to 6.875x the base magic damage.
+{{clear}}
+
+====''[[Before Crisis -Final Fantasy VII-]]''====
+
+Typoon can be summoned in battle using the appropriate [[Materia (Final Fantasy VII)|Materia]]. Typoon is Comet-[[Element (term)|elemental]].
+{{Section|Before Crisis -Final Fantasy VII-}}
+{{clear}}
+
+===''[[Final Fantasy XIII-2]]''===
+
+[[File:XIII-2 Typhon.png|200px|right|Typhon]]
+{{main|Typhon (Final Fantasy XIII-2)}}
+Typhon appears alongside Ultros as a [[Final Fantasy XIII-2 downloadable content|downloadable opponent]] to be fought in the [[Coliseum (Final Fantasy XIII-2)|Coliseum]], called by his friend [[Ultros (Final Fantasy XIII-2)|Ultros]] during the battle against him, in the "Uninvited Invertebrate" mission. Even stronger than Ultros and with more than three million HP, he attacks [[Serah Farron|Serah]] and [[Noel Kreiss|Noel]] mercilessly, supported by Ultros's defensive spells. Upon defeat he can be recruited into the [[Paradigm Pack]] as a [[Commando (Final Fantasy XIII-2)|Commando]] while having his signature [[Snort]] attack as his [[Feral Link]] ability.
+{{clear}}
+
+===''[[Final Fantasy XIV]]''===
+
+[[File:FFXIV Typhon Concept.jpg|thumb|Typhon artwork.]]
+{{main|Typhon (Final Fantasy XIV)}}
+Typhon appears in the [[Hildibrand Manderville]] sidequests for patch 2.4 as a monster kept in Master Fygreis's Coliseum. Due to his allergy to the scent of uncooked truffles, Typhon was used by Ultros to make it seem Avia can use Tempest Blade. Once the deception of Avia's Tempest Blade is exposed, Ultros convinces Dour Meadow to let Typhon and himself fight the [[Warrior of Light (Final Fantasy XIV)|adventurer]] in the Dragon's Neck arena. After losing, Typhon is present at the award ceremony before being forced to sneeze up a strong wind by the thief of many faces that sends Ultros and [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]] flying.
+
+Typhon also appears in [[Manderville Gold Saucer]] in the "Any Way the Wind Blows" game.
+
+He is described as being a friendly Voidsent who, along with Ultros, was summoned by the [[Black Mage (Final Fantasy XIV)|Thaumaturge]] Guild's experiments.
+
+Typhon reappears in the stage "Miss Typhon" in acts 1 and 3 at [[the Masked Carnivale]]. Defeating him without defeating Ultros or his tentacles rewards you "Octopath Traveler" achievement.
+
+<gallery>
+FFXIV_Ultros_Typhon_Coliseum.png|Typhon makes his entrance to the coliseum.
+FFXIV_Typhon_Ultros.png|Typhon and Ultros in the Dragon Neck's Coliseum.
+</gallery>
+
+===''[[Final Fantasy XV]]''===
+
+[[File:Big Master Typhon.jpg|thumb]]
+[[Final Fantasy XV lures#Big Master Typhon|Big Master Typhon]] is a [[Fishing (Final Fantasy XV)|fishing]] lure fashioned after the recurring Typhon enemy from the series. It is obtained from the [[Totomostro]] arena, as an [[Final Fantasy XV allusions|allusion]] to ''Final Fantasy VI'' where Typhon appeared at the Coliseum. The lure is good against some of the superfish, notably the [[Final Fantasy XV fish#Pink Jade Gar|Pink Jade Gar]], considered the hardest fish to catch.
+{{clear}}
+
+===''[[Final Fantasy Tactics S]]''===
+
+[[File:FFTS_Typhon_Portrait.png|right|100px|Typhon's portrait.]]
+Typhon appeared as a recruitable character and boss.
+
+<gallery>
+FFTS_Typhon Icon.png|Typhon's icon.
+FFTS_Typhon Sprite2.png|Typhon's sprite.
+FFTS_Typhon Sprite.png|Typhon's boss sprite.
+</gallery>
+
+===''[[Final Fantasy Type-0]]''===
+
+Typhon, along with [[Pandemona]] and [[Phoenix]], was considered to be a [[Eidolon (Type-0)|summon]], but was discarded.
+<gallery>
+FFT0 Typhon Concept Art.png|Artwork.
+Typhontype0.jpg|Dummied model.
+</gallery>
+
+===''[[Final Fantasy Dimensions II]]''===
+
+[[File:FFLTNS Typhon Artwork.jpg|right|250px]]
+{{Enemy section|Final Fantasy Dimensions II}}
+{{clear}}
+
+===''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]''===
+
+[[File:TyphonDissidia.jpg|thumb|right|200px|Typhon being summoned.]]
+Typhon is a [[Summon (Dissidia 2008)|summon]] obtained as a stage bonus in [[Destiny Odyssey VII]]. When summoned, its ''Final Fantasy VI'' artwork appears and it uses Snort to blow away a random digit of the opponent's [[Bravery (stat)|Bravery]].
+
+====''[[Dissidia 012 Final Fantasy]]''====
+
+Typhon makes a cameo in the in-game manuals, explaining accessories with [[Relm Arrowny|Relm]] and Ultros. He only speaks in cries of "FUNGAH!" and elongations of such, the actual tutorial messages appearing in brackets as subtitles. He also reappears as a [[Summon (Dissidia 012)|summonstone]] with the same effect as in ''Dissidia''. He can be purchased from certain [[Moogle Shop]]s for 40 [[KP]].
+{{clear}}
+
+===''[[Theatrhythm Final Fantasy Curtain Call]]''===
+
+[[File:Theatrhythm CC Typhon.png|right|110px]]
+{{Quote|With frightening faces on both his front and his rear, this forest-dwelling cryptid appears with unsettling laughter. The powerful tornados he lets loose swallow all and turn the very heavens upside down.|Typhon's CollectaCard}}
+Typhon appears as an enemy during [[Battle Music Sequence]]s.
+{{clear}}
+
+===''[[Pictlogica Final Fantasy]]''===
+
+[[File:PFF Typhon.png|right|100px]]
+Typhon appears as an enemy.
+{{clear}}
+
+===''[[Final Fantasy Airborne Brigade]]''===
+
+[[File:FFAB_Typhon_Battle.png|thumb|175px|A party fighting Typhon.]]
+Typhon appears as an enemy during an event called "Typhon Appears".
+{{clear}}
+
+===''[[Final Fantasy All the Bravest]]''===
+
+{{Quote|Never one to mince words, this vile, two-faced monster lets its snort do the talking.|Description}}
+[[File:Typhon ATB.png|right|100px]]
+{{main|Final Fantasy All the Bravest enemies#Typhon}}
+[[Final Fantasy All the Bravest enemies#Typhon|Typhon]] appears as an enemy encountered on the [[South Figaro|South Figaro Sea]]. He uses [[Snort]] and drops the [[Zwill Crossblade]].
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+
+Typhon appears as a boss, usually alongside [[Ultros|Orthros]].
+
+<gallery>
+FFRK Typhon FFVI Stamp.png|Multiplayer stamp.
+</gallery>
+{{Enemy section|Final Fantasy Record Keeper}}
+
+===''[[Final Fantasy World Wide Words]]''===
+
+{{Enemy section|Final Fantasy World Wide Words}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+
+[[File:FFBE Typhon Sprite.png|right]]
+{{Main|Typhon (Brave Exvius)}}
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+====''[[War of the Visions: Final Fantasy Brave Exvius]]''====
+<gallery>
+File:Typhon from WotV render.png|Render.
+</gallery>
+{{Summon section|War of the Visions: Final Fantasy Brave Exvius}}
+{{-}}
+
+===''[[Mobius Final Fantasy]]''===
+
+[[File:MFF Typhon Model.png|right|250px]]
+Both Typhon and Ultros appear reusing their models from ''[[Final Fantasy XIII-2]]''.
+{{Enemy section|Mobius Final Fantasy}}
+{{clear}}
+
+===''[[Chocobo no Fushigi na Dungeon]]''===
+
+Chupon appears as a character.
+
+===''[[Final Fantasy Fables: Chocobo Tales]]''===
+
+Typhon has four cards under his name, and unlike most cards, each is a different element, covering fire, earth, water, and light.
+
+====Cards====
+{{Card FablesCT
+|card = Typhon
+|image = Fireball.JPG
+|number = #119
+|rarity = 3
+|color = Red
+|red effect = Attack
+|green effect = None
+|blue effect = None
+|yellow effect = None
+|ability name = Fireball
+|ability = 2 damage for each <font color=red>*</font> in your CP gauge and causes a <font color="red">Burn</font>.
+}}
+{{Card FablesCT
+|card = Typhon
+|image = Typhoon Chow Time.png
+|number = #120
+|rarity = 3
+|color = Green
+|red effect = None
+|green effect = Attack
+|blue effect = None
+|yellow effect = None
+|ability name = Chow Time
+|ability = 2 damage for each <font color=green>*</font> in your CP gauge and causes <font color="green">Poison</font>.
+}}
+{{Card FablesCT
+|card = Typhon
+|image = Typhoon Snort.png
+|number = #121
+|rarity = 3
+|color = Blue
+|red effect = None
+|green effect = None
+|blue effect = Attack
+|yellow effect = None
+|ability name = Snort
+|ability = 2 damage for each <font color=blue>*</font> in your CP gauge and causes <font color="blue">Freeze</font>.
+}}
+{{Card FablesCT
+|card = Typhon
+|image = Typhoon Body Slam.png
+|number = #122
+|rarity = 3
+|color = Yellow
+|red effect = None
+|green effect = None
+|blue effect = None
+|yellow effect = Attack
+|ability name = Body Splash
+|ability = 2 damage for each <font color=yellow>*</font> in your CP gauge and causes <font color="yellow">Numb</font>.
+}}
+{{Card FablesCT
+|card = Typhon
+|image = Typhoon World Destroyer.png
+|number = #123
+|rarity = 5
+|color = Grey
+|red effect = None
+|green effect = None
+|blue effect = None
+|yellow effect = 
+|ability name = World Destroyer
+|ability =
+}}
+{{clear}}
+{{Section}}
+
+===''[[Final Fantasy: Unlimited]]''===
+
+[[File:Ffu-typhoon.jpg|right|Typhon.]]
+Typhoon is summoned by the [[Magun]] attached to [[Kuroki Kaze|Kaze]] to be used against [[Fungus (Unlimited)|Fungus]], producing a barrier around its target that would crush that figure while imploding.
+
+The Soil Charge Triad needed to summon Typhoon is:
+*More infinite than the open sky, Sky Blue!
+*Perfection that pierces the earth, Grand Brown!
+*A deception to twist reality, Magic Violet!
+Followed by saying "Appear! Summoned Creature! Chupon!"
+
+In the English audio version, the Soil Charge Triad was changed to:
+*An infinity that surpasses the heavens, Sky Blue!
+*A completeness that goes through solid ground, Earth Brown!
+*The deception to hollow out a dimension, Magic Violet!
+Followed by saying: "Come out! I summon you, Typhoon!"
+
+===''[[Final Fantasy Trading Card Game]]''===
+
+Typhon's ''Final Fantasy VI'' and ''Final Fantasy XIII-2'' appearances have cards. They are Wind-elemental.
+
+<gallery>
+Typhon2 TCG.png|Trading card.
+Typhon TCG.png|Trading card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:124a Typhon.png|right|100px]]
+Typhon appears on a Triple Triad card in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Non-''Final Fantasy'' guest appearances==
+===''Itadaki Street''===
+In ''[[Dragon Quest & Final Fantasy in Itadaki Street Portable]]'', Typhon is a chance card. The card's ability: Pay 100G, warp target property (except chance areas).
+
+==Gallery==
+<gallery>
+Typhon_DoS.png|Artwork from the ''Dawn of Souls'' version of ''[[Final Fantasy]]''.
+Chuponfield.PNG|''[[Final Fantasy VI]]'' (SNES/GBA).
+FFVI iOS Typhon.png|''[[Final Fantasy VI]]'' (iOS).
+</gallery>
+
+==Etymology==
+{{Etym|Typhon}}
+
+{{Etym|Typhoon}}
+
+{{navbox characters}}
+{{navbox summons}}
+
+[[Category:Recurring characters]]
+[[Category:Characters in Final Fantasy XIII-2]]
+[[Category:Chocobo Tales Cards]]
+[[Category:Recurring enemies]]
+
+[[de:Typhoon]]
+[[ru:Тайфун]]

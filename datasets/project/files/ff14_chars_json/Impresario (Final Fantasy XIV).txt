@@ -1,0 +1,58 @@
+{{sideicon|FFXIV}}
+{{DISPLAYTITLE:Impresario (''Final Fantasy XIV'')}}
+{{Infobox_character
+|name = Impresario
+|release = FFXIV
+|japanese = ダンチョー
+|romaji=Danchō
+|lit=Director
+|image =FFXIV Impresario.png
+|race = [[Imp]]
+|gender = Male
+|height = 
+|hair = 
+|eye = 
+|designer = 
+|age = 
+|job = 
+|weapon =
+|armor = 
+|affiliation = Continental Circus
+|occupation = 
+|type=npc
+|home =}}
+The '''Impresario''' is a [[non-player character]] in ''[[Final Fantasy XIV]]'', being a relevant character at the [[All Saints' Wake]] seasonal event. He is the manager and stage director who leads the Continental Circus, a [[voidsent]] circus troupe that hosts the festivities in the three city-states of [[Eorzea]].
+
+However, this is a façade to realize his real plan: the "Night of Devilry", a mythical night in which an army of demons go into the mortal realm. However, his attempts are always foiled every year by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]].
+
+== History ==
+{{Section}}
+
+== Characteristics==
+=== Appearance ===
+The Impresario looks like a male [[Elezen]] dressed with an elegant black suit, and hides his face with a Ripened Pumpkin Head. However, this appearance is actually a glamour.
+
+In reality, the Impresario is an [[Imp]].
+
+=== Personality ===
+Back in the 2013 edition of the game, he shows a sinister and tricky personality due to him being an Imp, but he doesn't want to do anything bad to people. He assures his only goal is to bring back the All Saints' Wake event as a great festivity for everyone to enjoy, since people stopped to celebrate it after the Calamity.
+
+However, from the 2014 edition onwards, the Impresario has shown a more darker side. He uses the All Saints' Wake festivity to make reality the fabled "Night of Devilry", trying to turn people into voidsent through fear.
+
+==Behind the scenes==
+His Pumpkin Mask is said to be crafted after the mythical Great Gourd, patron of the [[All Saints Wake]] festivities.
+
+In the 2013 edition of the event, it was hinted that he was one of the Imps from the 2011 edition.
+
+In the promotional artworks, he wears a witch hat on his pumpkin head.
+
+== Gallery ==
+<gallery>
+FFXIV Impresario (Imp).png|The Impresario's true form
+All saints wake promo 2013.png|The Impresario at the 2013 artwork
+All saints wake promo 2015.png|The Impresario at the 2015 artwork
+All saints wake promo 2016.jpg|The Impresario at the 2016 artwork
+</gallery>
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

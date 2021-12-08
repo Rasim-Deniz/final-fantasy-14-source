@@ -1,0 +1,107 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Shinryu (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Shinryu
+|release=FFXIV
+|japanese=神龍
+|romaji=Shinryū
+|lit=God Dragon
+|aka=The Worm
+|image=Shinryu (XIV artwork).png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=Royal Menagerie
+|superboss page=The Minstrel's Ballad: Shinryu's Domain
+|recurring appearance=Shinryu
+|gallery=
+}}
+'''Shinryu''' is a [[primal]] from ''[[Final Fantasy XIV]]'', introduced in the final patch for ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Shinryu, later named after a legendary beast that the [[Doma (Final Fantasy XIV)|Domans]] know from Far Eastern legend, was created by the final actions of [[Ilberd Feare]]. Receiving the [[Eyes of Nidhogg]] from [[Elidibus (Final Fantasy XIV)|Elidibus]], who deemed him an ideal user of the dragon's power, Ilberd orchestrated the slaughter of his subordinates when they take [[Baelsar's Wall]] to use their dying faith and [[aether]] to form Shinryu's body and repeat [[Nael van Darnus]]'s intentional act of invoking a new [[Umbral Calamity|Calamity]]. Ilberd committed suicide to complete the ritual, the frozen eyes of Nidhogg reacting to the man's despair and rage while absorbing the surrounding aether to give Shinryu shape atop Baelsar's Wall. Before it could fully take shape, [[Papalymo Totolymo]] sacrificed himself to seal the primal in a cocoon of light using [[Louisoix Leveilleur]]'s spell.
+
+[[File:FFXIV Shinryu 6.png|thumb|left|Shinryu and Omega combating at Baelsar's Wall.]]
+Even sealed in the lucent cage, Shinryu's terrible might could barely be contained, as a [[Garlean Empire|Garlean]] [[Airship (term)|airship]] that approached the cocoon was witnessed to be destroyed by a "lance of light." On the advice of [[Nero tol Scaeva]], the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] accompanies [[Cid nan Garlond]], [[Yda Hext]], [[Yugiri Mistwalker]], and [[Gosetsu Daito|Gosetsu Everfall]] to the [[Carteneau Flats]] to reactivate the ancient [[Allagan Empire|Allagan]] superweapon [[Omega (Final Fantasy XIV)|Omega]] and use it to contain Shinryu. By then, due to the cost of maintaining the seal, Papalymo's life ends and Shinryu breaks free as Omega approaches Baelsar's Wall. A titanic clash ensues between the two that floods sections of the wall. The immense struggle ends with an explosion of light caused by Shinryu's Protostar attack colliding with Omega's Wave Cannon. Both primal and superweapon were last seen falling a distance away, both now being sought by the [[Garlean Empire]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Quote|This fine specimen, on the other hand, is simply...divine. Your fates are entwined, are they not, eikon-slayer? This dragon, this...embodiment of unbridled despair, born of a desperate man's burning hatred for the Empire... How raw the raging tempest that churns within its breast. No myth made manifest this, but...a being of pure violence.|Zenos yae Galvus to the Warrior of Light}}
+Sometime after Shinryu and Omega's battle at Baelsar's Wall, the primal was captured by [[Zenos yae Galvus]] and caged within [[the Royal Menagerie]] in [[Ala Mhigo]].
+
+[[File:FFXIV Zenos Shinryu.png|thumb|Zenos yae Galvus merging with Shinryu.]]
+After the Warrior of Light and their allies defeat Zenos in the Hall of the Griffin in Ala Mhigo, Zenos is enthralled by their previous battle and desires to take their final contest to the Royal Menagerie at the high point of the palace. The heroes give chase to Zenos, only to arrive to see Shinryu imprisoned in a [[magitek]] field behind Zenos. Zenos, ecstatic about the primal's means of creation, begins to taunt the Warrior of Light and questions what they would do should he release the so-called eikon. The Warrior of Light answers Zenos's question, only for him to respond that the adventurer does not have full mastery of their [[Echo (Final Fantasy XIV)|Echo]] and how he learned that the power can be instrumental in binding eikons to one's will. Zenos destroys the cage holding Shinryu and sets the creature free. However, by using his abilities as a [[Resonant]], Zenos merges with Shinryu, with his consciousness overtaking the primal's body, and flies off to the airship landing of the palace.
+
+Once the Warrior of Light arrives at the airship landing, Zenos destroys the bridge, leaving a single pillar for the hero and their allies to combat the primal. After summoning multiple smaller variants of the primal to combat the heroes, Zenos enchains the heroes in an attempt to defeat them with Shinryu's Dark Matter attack. The Warrior of Light and their allies break their bindings and avoid the attack by grabbing onto Shinryu's tail, which sends them to a battlefield high up in the heavens. After a climactic final encounter, Shinryu is defeated by the Warrior of Light and disintegrates, ejecting Zenos from the primal and leaving behind the Eyes of Nidhogg. The Eyes are subsequently destroyed by [[Estinien Wyrmblood]].
+
+Some time later, after observing the original form of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]] within [[Omega (Final Fantasy XIV)|Omega]]'s databanks, [[Cid nan Garlond]] theorizes that since Shinryu's appearance did not originate from any belief system, it may have been derived from ancient depictions of Midgardsormr—the progenitor of all dragons on [[Hydaelyn]].
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV Shinryu and Zenos artwork.jpg|Shinryu and Zenos artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Shinryu 2.png|
+FFXIV Shinryu 1.png|
+FFXIV Shinryu 3.png|Tidal Wave
+FFXIV Shinryu 4.png|
+FFXIV Shinryu 5.png|Charging Protostar
+FFXIV Shinryu 7.png
+FFXIV Shinryu 8.png
+FFXIV Shinryu 9.png
+</gallery>
+
+==Etymology==
+{{Etym|Shinryu}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]
+[[Category:Dragons]]
+[[Category:Final bosses]]

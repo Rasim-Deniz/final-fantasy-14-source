@@ -1,0 +1,174 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{infobox character
+|name=Louisoix Leveilleur
+|release=FFXIV
+|japanese=ルイゾワ・ルヴェユール
+|romaji=Ruizowa Ruveyūru
+|lit=
+|aka=
+|image=Louisoix NPC Render.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Sharlayan]]
+|age=72
+|dob=
+|affiliation=[[Circle of Knowing]]
+|occupation= Leader
+|education=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=Gray
+|eye=White
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=[playable=Player character, optional=Optional player character, guest=Guest character, npc=Non-player character, party npc=AI controlled party member, boss=Boss]
+|job={{icon|ffxiv|discipline|conjurer}}
+|abilities=
+|limit break=
+|weapon=Tupsimati
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=''[[Final Fantasy XIV/Legacy|Final Fantasy XIV (Legacy/1.0)]]''
+|designer=
+|motion capture=
+|japanese voice actor=[[wikipedia:Motomu Kiyokawa|Motomu Kiyokawa]]
+|english voice actor=[[David Lodge]]
+}}
+{{Quote|The wise and wizened former leader of the Circle of Knowing, a fellowship of learned individuals hailing from the far-northern island nation of Sharlayan. In seeking to forestall the calamitous arrival of the Seventh Umbral Era, Louisoix invoked the power of the Twelve, Eorzea's pantheon of guardian deities. Alas, he disappeared amidst a blinding light following the ritual, and has not been seen or heard from since.|Official description}}
+'''Louisoix Leveilleur''' is a prominent [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. He is the leader of the [[Circle of Knowing]], a group involved in the [[Seventh Umbral Era]] storyline. He is most notable as the NPC involved in all quests related to [[primal]]s in version 1.xx.
+
+He is the father of [[Fourchenault Leveilleur]], and the grandfather of [[Alphinaud Leveilleur|Alphinaud]] and [[Alisaie Leveilleur]].
+
+==History==
+===Before ''Final Fantasy XIV''===
+{{Quote|To ignore the plight of those one might conceivably save is not wisdom—it is indolence. And such a passive stance will not, I fear, take us far upon the path to progress. That you would spare these younglings the horrors of war is a decision with which I am in full agreement. Thus do I refrain from exhorting you, or any other, to return to Eorzea at my side. We must all protect that which we hold most dear in the manner of our own choosing.|Louisoix to Fourchenault}}
+One of [[Sharlayan]]'s most respected sages, Louisoix was rivals with the witch [[Matoya (Final Fantasy XIV)|Matoya]]. During a journey to Limsa Lominsa a young [[Thancred Waters]] attempted to steal from him, but was thrown to the cobbles by Louisoix and was offered a chance to offer his fellow man in Sharlayan. He founded the Circle of Knowing to intervene in the prophecy of the Seventh Umbral Era outlined in the Divine Chronicles, allowed to act as he pleases by the Forum despite going against Sharlayan's neutrality policy as promoted by the dominant Bibliothec faction. This destroyed Louisoix's relationship with his eldest son, [[Fourchenault Leveilleur]], who considered his father's actions foolish.
+
+Before traveling for [[Gridania]] in response to the appearance of the primal [[Ifrit (Final Fantasy XIV)|Ifrit]], Louisoix gave his grandchildren Alphinaud and Alisaie a matching set of grimoires, the twins unaware their tomes were halves of a larger grimoire, signifying Louisoux's wish for his grandchildren to understand each other and share a common goal.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Loisoux Seals Bahamut.png|thumb|Louisoix attempts to reseal Bahamut.]]
+Arriving to Eorzea, Louisoix used his skills and connections to help the [[Warrior of Light (Final Fantasy XIV)|adventurer]] gather the items needed to enter the primals' lairs. He joined the [[Grand Company|Eorzean Alliance]] under Gridania's banner as their chief tactician, and Gridania's newspaper, ''The Raven'', credited him with initiating the Alliance's shift to the offensive, as well as ushering the adventurer to join the battle. When the [[Seventh Umbral Era]] drew near, Louisoix and the Circle of Knowing marked stones throughout Eorzea with the symbols of [[the Twelve]], and urged the adventurer to offer prayers to each with the hopes of summoning the gods to avert disaster.
+
+[[File:FFXIV Lousioix Death.jpg|thumb|left|Louisoix, seconds before being hit by Bahamut's Teraflare.]]
+Once the final battle before [[Dalamud]]'s fall began, Louisoix supported the Eorzean Alliance. When Dalamud shattered and [[Bahamut (Final Fantasy XIV)|Bahamut]] escaped his imprisonment, Louisoix attempted to call upon the powers of the Twelve to re-imprison the Elder Primal. The spell failed, and all Louisoix could do was teleport the adventurer away. As Louisoix awaited his fate at Bahamut's hands, he received a vision from the Twelve along with their blessing and was infused with [[aether]]—this, plus the fervent prayers of the people of Eorzea for salvation, transformed him into a primal. Taking to the skies, Louisoix pierced Bahamut's Teraflare, creating a barrier to repel the massive fireball, only for the Elder Primal to immediately shatter it.
+
+In one last desperate attempt, Louisoix released a massive burst of aether that caused Bahamut's Teraflare to lose its form, crumbling in midair as it harmlessly turned to crystallized aether. Louisoix pushed Bahamut out through the other side of the crumbling Teraflare where he penetrated the Elder Primal's chest. With Bahamut defeated, Louisoix allowed his body to disperse into the aether and return to the land as Bahamut broke apart and exploded, igniting the crystallized Teraflare around him and devastating the surrounding land. Unbeknownst to Louisoix, Bahamut was not truly destroyed, and what remained of the Elder Primal attempted to ensnare his mind. Weakened as he was by returning much of his aether to Eorzea, Louisoix was unable to resist becoming Bahamut's Thrall.
+
+[[Kan-E-Senna]] recovered Louisoix's shattered staff and returned it to the [[Scions of the Seventh Dawn]] (the successors to the Circle of Knowing). [[Minfilia Warde]] keeps it in the Solar of the Scions' headquarters.
+{{clear}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Loisoix Binding Coil of Bahamut.png|thumb|Louisoix appears in the Binding Coil of Bahamut before Alisaie's eyes.]]
+During the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and Alisaie's journey into a fragment of Dalamud known as the [[Binding Coil of Bahamut]]—an [[Allagan Empire|Allagan]] system designed to rebuild Bahamut in the event of his destruction—Louisoix watches the party as they enter but disappears before being noticed. Following the defeat of [[The Binding Coil of Bahamut - Turn 5|Twintania]], Alisaie sees her grandfather with an imitation of [[Nael deus Darnus]] as they depart further into the Binding Coil.
+
+In the [[Second Coil of Bahamut]], Louisoix makes his presence known after Nael deus Darnus is removed from Bahamut's control by slaying her before she can speak to Alisaie. Louisoix presents himself as another thrall of Bahamut while warning Alisaie and the Warrior of Light not to meddle in the Elder Primal's resurrection, threatening that he would not hold back if they continued to oppose his master.
+
+[[File:FFXIV Phoenix.png|thumb|left|Louisoix takes the form of the primal Phoenix.]]
+Within the Main Bridge of the [[Final Coil of Bahamut]], Louisoix appears before Alphinaud, Alisaie, and the Warrior of Light. He reveals Bahamut's origin and how the Allagan Empire imprisoned dragons of Meracydia and the Elder Primal within Dalamud to further enhance their power. Louisoix berates humanity and tells the party there can never be peace as long as humanity exists. When Alphinaud guesses Louisoix's new nature as a primal, he transforms into the [[The Final Coil of Bahamut - Turn 3|Phoenix]] and attacks them. Freed from Bahamut's control upon his defeat, Louisoix reveals the events that transpired during his confrontation with Bahamut. Louisoix tells his twin grandchildren to find their own paths while giving them the means to summon his Phoenix incarnation, and gives Alisaie peace of mind before opening a portal for his grandchildren and the Warrior of Light to stop Bahamut's resurrection.
+
+{{Quote|There are records of an art that allowed one to summon the power of a primal from the essence of its demise. And though I am no true primal, all that I have left, I give to you. Alphinaud. Alisaie. My darling grandchildren. May light's blessings ever keep and protect you.|Louisoix's final words}}
+After Bahamut's final defeat, Alphinaud and Alisaie keep Louisoix's transformation into Phoenix a secret, fearing that if it became known, people seeking salvation might attempt to summon him, something they knew would be against his wishes.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Louisoix is an elderly [[Elezen]] wearing a white-gray stripe-patterned acton, armored leggings, and a horned staff—the Tupsimati—bearing the mark of [[The Twelve|Thaliak]]. He bears the Circle of Knowing [[Tattoo (body modification)|tattoo]] on both his forehead and neck. He has brown skin, white eyes and hair with a beard, and a receding hairline.
+
+===Personality===
+Louisoix, like the rest of the Circle, was well-spoken and informed. He was known for his wisdom, offering guidance and encouraging the Warrior of Light to overcome the daunting primal threat. His sacrifice for Eorzea was regarded with awe and respect, such as by Kan-E-Senna. Louisoix was convincing with his beliefs, encouraging others to follow in both his and the Twelve's teachings. His determination to spread the knowledge from Sharlayan outside of its borders brought him criticism from his homeland, even from his own family; however, his renown and earned respect allowed him to travel to Eorzea and speak with others in its borders.
+
+==Gameplay==
+===Battle===
+{{main|The Final Coil of Bahamut - Turn 3}}
+Louisoix is fought as the boss of the [[Final Coil of Bahamut|The Final Coil of Bahamut - Turn 3]] in his primal form, Phoenix.
+
+He makes an additional appearance during the [[Unending Coil of Bahamut]] in his Phoenix form, whereupon he casts [[Flames of Rebirth]] on the players after a forced party-wide attack renders all players incapacitated.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Louisoix Leveilleur
+|image = [[File:FFXIV TT Louisoix Leveilleur.png]]
+|number = 60
+|total = 25
+|type = Scion
+|description ="Silence, chattering raven. Your wretched wings are broken, and you shall soar no more."
+|obtain = Won from Rowena, Mor Dhona (21,5).
+}}
+
+{{Card FFXIV
+|name = Phoenix
+|image = [[File:Phoenix Triple Triad Card.png]]
+|number = 296
+|total = 24
+|type = Primal
+|description = This fiery entity is said to have manifested in the sky following the Battle of Carteneau. Although memories of that time were distorted by the effects of the Calamity, a number of survivors swear to have witnessed the immortal Phoenix, legendary symbol of rebirth, rise up and rescue Eorzea from certain annihilation.
+|obtain = Rank 1 in an Open Tournament.
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+Louisoix appears in ''Final Fantasy Trading Card Game'' as Ice- and Lightning-elemental Backup cards.
+
+<gallery>
+Louisoix TCG.png|Louisoix [12-037C] Chapter series card.
+Louisoix 5-120C from FFTCG Opus.jpg|Louisoix [5-120C] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Louisoix appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+<gallery>
+513a Louisoix Leveilleur.png|Louisoix Leveilleur.
+513b Louisoix Leveilleur.png|Louisoix Leveilleur.
+513c Louisoix Leveilleur.png|Louisoix Leveilleur.
+</gallery>
+
+Louisoix appears on a sticker set for the [[LINE]] communications app. The sticker set he appears in is titled "ファイナルファンタジーXIV.<ref>https://store.line.me/stickershop/product/9085/ja</ref>
+
+<gallery>
+LINE FFXIV Sticker16.png
+</gallery>
+
+==Behind the scenes==
+It is implied that the horn on the Tupsimati is similar to the horns featured in 1.0 main storyline quests.
+
+As part of a New Years greeting from the development team of ''A Realm Reborn'', Director [[Naoki Yoshida]] included a prophetic verse from Louisoix. Upon comparison between language versions, the consistent message implies one of two entities will decide the fate of the world through actions taken on the primals: one entity of light and one of darkness/might.
+
+===Voice===
+Louisoix is voiced by [[wikipedia:Motomu Kiyokawa|Motomu Kiyokawa]] in the Japanese version and [[David Lodge]] in the English version.
+
+==Gallery==
+<gallery>
+FFXIV Louisoix.png|In-game render from ''A Realm Reborn''.
+FFXIV Louisoix Render.png|Louisoix CG Render in the ''A Realm Reborn'' trailer.
+Tempered Louisoix.png|Louisoix tempered by Bahamut during the Binding Coils.
+FFXIV TFC Louisoix.png|Louisoix, as seen in ''Tales from the Calamity: In Louisoix's Wake''.
+FFXIV TFC Minfilia Louisoix.png|Louisoix speaking with a young Minfilia in ''Tales from the Calamity: The Walker's Path''.
+FFXIV Louisoix Journal.jpg|A journal entry written by Louisoix.
+</gallery>
+
+==Etymology==
+{{Etym|Leveilleur}}
+
+The French version of his journal entry lists him as "Louisoix le Preux", or "Louisoix the Valiant". This does not conflict with his English surname as it is a title.
+
+The German version ends with "Aus Louisoix Hinterlassenschaft", which roughly translates to "From Louisoix's Legacy". The Legacy Campaign is a promotion to give discounts and bonuses to players who stayed with the game after billing resumed January of 2012.
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Louisoix Leveilleur]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

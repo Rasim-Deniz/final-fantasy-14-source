@@ -1,0 +1,68 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Rowena
+|release=FFXIV
+|japanese=ロウェナ
+|romaji=Rouena  
+|image=Rowena_2-5.png
+|race=[[Hyur]]
+|gender=Female
+|height=
+|hair=Brown
+|eye=Brown
+|age=
+|affiliation=Rowena's House of Splendors
+|occupation=Merchant
+|type=npc
+}}
+{{Quote|The name's Rowena. I used to be a travelin' weapons merchant, till some noble from Ishgard saw my collection. Said I had me an eye for quality, and asked if I'd like to work for him, helpin' to barter his collection away for all manner o' rare artifacts.|Rowena}}
+'''Rowena''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. A shrewd businesswoman, she deals in in the trade of antiquities in [[Revenant's Toll]] and [[Idyllshire]]. Many of these relics include powerful equipment usable by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]].
+
+In ''Realm Reborn'', though she and her employees may be seen upon first entering [[Mor Dhona]], she doesn't have much involvement until after completing the quest "The Ultimate Weapon."
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Character section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+She gives a letter of referral to Gerolt, getting his cooperation in restoring [[Relic Weapons]]. Many stages of upgrading the weapons require the services of her or her employees.
+
+Rowena made an exclusivity deal with [[Jessie (Final Fantasy XIV)|Jessie]] of [[Garlond Ironworks]] to distribute advanced [[magitek]]-enhanced weapons and armor to adventurers. These equipment sets can be purchased with tomestones of Poetics.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:XIV Rowena Idyllshire.png|right|thumb|Rowena in 3.0]]
+Rowena has set up shop in the settlement of Idyllshire after sensing the opportunity for business. She can also be found in her building in Revenant's Toll, and mentions the inconvenience of having to travel between the two locations.
+
+Her House of Splendors began dealing in "Collectibles," specialty merchandise obtained by crafters and gatherers. Employees award Blue Scrips in exchange for in-demand collectables.
+
+==Characteristics==
+===Appearance===
+Rowena is a Midlander [[Hyur]] with short brown hair. Her attire frequently changed with each patch, often to brand new items; prior to Patch 2.2, she wore a purple tunic with shorts. After that she wore a white shirt. Being wealthy, she is adorned with golden jewelry around her neck and wrists.
+
+===Personality===
+She is straightforward and business-like in person, but her employees grumble about her as an employer. She and [[Gerolt Blackthorn]] share a mutual disdain and it is implied that the two were once married.
+
+==Gameplay==
+Rowena is an NPC found at 21,5 in [[Mor Dhona]]. Rather than dealing with [[gil]], most goods from her workers must be obtained by bartering [[Allagan Tomestone]]s. Level 50 gear is obtained by Auriana in Revenant's Toll, and level 60 gear is obtained by Hismena in Idyllshire.
+
+In earlier versions, she mainly operated out of a stall in the fledgling settlement. Since Patch 2.3, she was given her own building called "Rowena's House of Splendors." It has continued to expand as Revenant's Toll has grown, now containing multiple vendors, and a cafe on the upper story. Her new branch office in Idyllshire has slowly built over the course of the ''Heavensward'' story, starting as a small shack as of 3.01 to a full building as of 3.56.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Rowena is a NPC available for Triple Triad matches added in patch 2.51. She is located at [[Mor Dhona]] (21.9, 5.0). To challenge her the player needs to complete the sidequest {{icon|ffxiv|quest|The Weaponsmith of Legend}}. 
+
+The fee is 30 MGP with a reward of 118 MGP for winning, and she always uses the Match Rule Roulette. Players can potentially earn {{icon|ffxiv|item|Louisoix Leveilleur Card}} and {{icon|ffxiv|item|Gerolt Card}} by winning a match against her.
+
+==Gallery==
+<gallery>
+Rowena 1-X.png|Rowena in version 1.X.
+Rowena 1-X1.png|Rowena in version 1.X.
+Rowena 1-X2.png|Rowena in version 1.X.
+Rowena 2-0.png|Rowena in version 2.0.
+Rowena_2-4.png|Rowena in version 2.4.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Merchants]]
+[[Category:Hyurs]]

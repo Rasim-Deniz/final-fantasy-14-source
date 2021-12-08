@@ -1,0 +1,36 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Talan
+|release=FFXIV
+|japanese=タラン
+|romaji=Taran
+|image=FFXIV Talan.png 
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Gray
+|eye=Green
+|affiliation = Rowena's House of Splendors
+|occupation = Merchant Trader
+|type=npc
+}}
+'''Talan''' is a non-player character in ''[[Final Fantasy XIV]]''. An expert toolsmith at [[Revenant's Toll]], he can provide high-end equipment and master recipe books for max level crafters and gatherers.
+
+== History ==
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Talan is generally seen in a stall next to Guiding Star. Once a player has reached level 50 with any Disciple of the Hand or Land, they can access Talan's wares by completing the short quest "Just Toolin' Around" from Guiding Star.
+
+In addition to supplying advanced primary tools and specialty, Talan provides a number of master recipe books that add high-end recipes for [[synthesis]]. All his wares can only be obtained through trading certain crafted items or gathered resources (rather than [[gil]] or [[Allagan Tomestone]]s).
+{{Character section|Final Fantasy XIV}}
+
+== Characteristics ==
+=== Appearance ===
+Talan is an elderly hyur with greying hair, he wears a blue long sleeved open shirt with a black skirt over his waist. He carries a crafting hammer with him on his side.
+
+=== Personality ===
+Talan is fairly brusque, not even willing to deal with adventurers unless they meet Guiding Star's approval.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

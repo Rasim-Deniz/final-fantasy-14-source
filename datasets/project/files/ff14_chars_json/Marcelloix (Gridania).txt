@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Marcelloix
+|release=FFXIV
+|japanese=マルセロア
+|romaji=Maruseroa
+|image=FFXIV 1x Marcelloix.png
+|race=[[Elezen]]
+|gender=Male
+|age=
+|home=[[Gridania]]
+|affiliation=[[Oak Atrium]]
+|occupation=
+|type=npc
+|job={{icon|ffxiv|discipline|carpenter}}
+}}
+
+'''Marcelloix''' is a non-playable character from original ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''. He appeared during the [[carpenter]] questline.
+
+==History==
+[[File:Marcelloix from Final Fantasy XIV legacy masked.png|thumb|left|Marcelloix hiding his face behind a mask.]]
+When the adventurer joins the Carpenters' Guild, Marcelloix is ​​his instructor. [[A'naidjaa]] informs that Marcelloix needs to take care of more urgent matters and asks the adventurer to take care of younglings in the meantime. When delivering a toy donation to Frondale's Phrontistery, [[Nogeloix]] thanks him and asks the adventurer to deliver an order to Marcelloix. Upon meeting Marcelloix it is revealed that while he was working with a rare species of lumber that contains a skin irritant, and that the skin and features of Marcelloix's face have been hideously disfigured and he was in isolation. The package that the adventurer brought from Phrontistery contained the treatment to cure the ailment and is very pleasing to Marcelloix. 
+
+Marcelloix takes younglings on an excursion in the forest. Shortly after arriving at the Mirror, it starts to rain. The younglings complain about the weather and Marcelloix explains that the importance of rain for the forest and consequently for the carpenters. He asks the children to draw something while they wait for the rain to pass. Returning to the guild, Marcelloix tries to get rid of the adventurer's drawing for fear that it might attract a ghost only to be repressed by A'naidjaa.
+
+==Characteristics==
+===Appearance===
+===Personality ===
+{{section}}
+
+==Behind the scenes==
+Marcelloix shares his name with [[Marcelloix (Ishgard)|another character]] introduced in [[Ishgardian Restoration]] in ''[[Final Fantasy XIV: Shadowbringers]]'' expansion. Although both are craftsmen, there does not appear to be any link between them.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Carpenters]]

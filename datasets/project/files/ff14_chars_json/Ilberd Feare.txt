@@ -1,0 +1,105 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ilberd
+|release=FFXIV
+|japanese=イルベルド・フィア
+|romaji=Iruberudo Fia
+|aka=Ilberd the Dullblade, Griffin
+|image=FFXIV_Ilberd.png
+|home=[[Ala Mhigo]]
+|age=44
+|dob=
+|affiliation=[[Crystal Braves]]<br/>[[Ala Mhigan Resistance]]
+|occupation=Sellsword (formerly), Captain
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=Green
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=Lionshead
+|japanese voice actor=[[wikipedia:Hiroshi Shirokuma|Hiroshi Shirokuma]]
+|english voice actor=[[Richard Epcar]] (''A Realm Reborn'')<br/>Antony Byrne  (''Heavensward'')
+}}
+{{Quote|Know this: there is nothing I would not give to take back Ala Mhigo! NOTHING!|Ilberd}}
+'''Ilberd Feare''', also known as '''Ilberd of the Dull Blade''' and the '''Griffin''', is a [[non-player character]] from ''[[Final Fantasy XIV]]''. As Captain of the [[Grand Company#The Crystal Braves|Crystal Braves]], he is introduced as the new right-hand man of [[Alphinaud Leveilleur]] and is an old friend of Flame General [[Raubahn Aldynn]].  
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+A sellsword from the fallen Ala Mhigo who lost his family to the [[Dalamud|Calamity]], Ilberd is a former friend of Raubhan's who became Captain of Alphinaud Leveilleur's Crystal Braves, a new independent [[Grand Company]] answerable only to [[Minfilia Warde]] and the Scions of the Seventh Dawn. <!--During the events of "Dreams of Ice,"-->Ilberd is tasked with rooting out the Garlean spy known as "the Ivy," believed to be a high-ranking member of the Immortal Flames. They trace one of the Ivy's agents to Coerthas, who is caught red-handed dealing with the Harriers working for Lady [[Ysayle Dangoulain|Iceheart]]. Through interrogation by both the Crystal Braves and Ishgard's Temple Knights, the Ivy's web of intrigue is unraveled.
+
+The traitor is Raubahn's own Grand Marshal, [[Eline Roaille]]. She is captured by Ilberd with the aid of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Yugiri Mistwalker]] as she is meeting with her contact in the East Shroud. While Lady Iceheart is dealt with, Eline escapes custody and flees to Northern Thanalan. Ilberd corners her outside Castrum Meridanum and recaptures her. In Ul'dah, Ilberd and Alphinaud meet with Raubahn to discuss the Ivy's web. She had also been working for the Monetarists in addition to Garlemald, and perhaps even other unknown parties as given by the deals with the Harriers.
+
+[[File:FFXIV Ilberd culprid.png|thumb|left|Ilberd provoking Raubahn.]]
+Ilberd secretly loathes Raubahn for "abandoning" Ala Mhigo and is on the pay roll of Lolorito, like most of the Crystal Braves since their inception, with the promise of the restoration of his homeland in return of helping the [[Lalafell]] in his bid for power. Ilberd reveals his true nature during the supposed assassination of [[Nanamo Ul Namo]], having his men capture Alphinaud while he drags the Warrior of Light into the dining hall when [[Teledji Adeledji]] accuses the hero and the Scions of regicide. After Raubahn kills off Teledji, Ilberd chops off the former's left arm when he attempts to cut down Lolorito. Admitting his disdain towards Raubahn, Ilberd provokes his former friend by claiming to be the sultana's killer. This leads to a fight between the former friends that ends with Raubahn defeated and imprisoned.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|An ending to mark a new beginning... My pain! My longing! You shall have it all!|Ilberd's final words}}
+Ilberd falls out with Lolorito over Raubahn, wanting to execute the "traitor" to Ala Mhigo. Ilberd and his Crystal Brave followers carry out the deed by taking Raubahn to [[Halatali]]. The Warrior of Light, Alphinaud, and Yugiri break into Halatali to stop the execution with Ilberd confronting them in battle alongside [[Yuyuhase Luluhase]] and [[Laurentius Daye]]. Ilberd sees his opponents know the truth of Nanamo not being dead and tells the Warrior of Light they are both pawns used by others. He falls back while explaining he will do what it takes to see Ala Mhigo restored. Alphinaud disbands the Crystal Braves with Ilberd and his followers labeled wanted criminals.
+
+Ilberd joins the [[Ala Mhigan Resistance]] under the guise of the Griffin, using a decoy for public speeches to rally the Ala Mhigans at the [[Sunken Temple of Qarn]]. After he obtains the eyes of Nidhogg, Ilberd launches an attack against [[Baelsar's Wall]] in what first appears to be a means to force the Eorzean Alliance to the border of [[Gridania]] should the Garleans' retaliation become an invasion. Ilberd even had resistance members wearing Grand Company uniforms to make it appear that [[Eorzean]]s are declaring war before being found and defeated by the Warrior of Light. Having instructed Laurentius to pose as a Garlean soldier and lead a counterattack, Ilberd reveals that he led his followers to slaughter to use their dying faith to summon a primal of pure violent rage whose destruction will dwarf that of [[Bahamut (Final Fantasy XIV)|Bahamut]]. Despite [[Lyse Hext]]'s attempts to stop him, with Nidhogg's eyes on his person, Ilberd commits suicide to complete the summoning ritual, creating [[Shinryu (Final Fantasy XIV)|Shinryu]], which is temporally sealed by [[Papalymo Totolymo]] and defeated by [[Omega (Final Fantasy XIV)|Omega]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Ilberd is mentioned by members of the Ala Mhigan Resistance, stating that the men and women he had convinced to join his final operation were some of the Ala Mhigan Resistance's best fighters. The loss crippled their fighting strength and morale, with those who remain behind cursing Ilberd's name. His actions forced the Eorzean Alliance to take up arms and assist the Resistance to stave off an eventual retaliation effort from the Garlean Empire, and in the process, liberate Ala Mhigo.
+
+Though Ilberd's plan to use Shinryu to destroy the empire and nearly cause another Calamity did not come to pass, the primal fell into the hands of [[Zenos yae Galvus]], who uses the creature in his final battle with the Warrior of Lights. The viceroy is defeated and the primal destroyed.
+
+Ilberd later appears in a flashback in his younger years, accompanying Raubahn in Curtis's rally, who talked of liberty and death.
+
+In the final job quest of the [[Dark Knight (Final Fantasy XIV)|Dark Knight]] class {{icon|ffxiv|quest|our compromise}}, [[Myste]] manifests a simulacrum of Ilberd (in his Crystal Braves attire) alongside [[Livia sas Junius]] and [[Rhitahtyn sas Arvina]] from the Warrior of Light's darker memories, though they are  destroyed by the Warrior's Abyssal Drain, not wanting to be weighed down by painful memories of the past.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+When [[Elidibus (Final Fantasy XIV)|Elidibus]] challenges the Warrior of Light to reenact their journey, he creates simulacrums of many of the opponents they faced in the past to fight them.  One of these is Ilberd, who fights the Warrior of Light alongside simulacrums of Yuyuhase and Laurentius.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+When the Warrior later ventures into the Aetherical Sea to find Hydaelyn, they encounter Ilberd's memories manifested as a shade.
+
+==Characteristics==
+===Appearance===
+Ilberd is a male highlander with tanned skin and blond hair. He has a small scar above his right eye. When first seen in Revenant's Toll, he's a sellsword wearing scalemail armor. After being appointed Captain of the Crystal Braves, he wears an ultramarine uniform signifying rank.
+
+When he assumes the alias of "[[the Griffin]]" Ilberd wears white-and-blue scale armor with a white/purple cape and white hood. His distinctive white mask conceals his facial features and the cape features the flag of [[Ala Mhigo]].
+
+===Personality===
+Ilberd plays the part of a diligent officer and acts friendly when investigating the spy network of the Ivy. Underneath that facade he is a bitter man consumed by betrayal and grief over the fall of Ala Mhigo. He begrudges other refugees, like Raubahn, who found a new life in [[Ul'dah]], and resents the other city-states for not trying to liberate Ala Mhigo from imperial occupation.
+
+{{spoiler}}
+This motivates Ilberd to backstab Alphinaud, Raubahn, and the [[Scions of the Seventh Dawn]] by colluding with Monetarists. Even [[Lolorito Nanarito]] states that not a day goes by that Ilberd doesn't think about liberating his homeland and finds his rants tiresome, thus releasing him from his services.
+
+After being forced underground as "The Griffin" and starting the Masks, Ilberd maintains a tight level of secrecy—even mail correspondents to and from its members are checked—and had a body-double act as his public spokesman. To other refugees he appears as an inspirational firebrand, but in truth he is a terrorist mastermind plotting to force the Eorzean Alliance into hostilities with the [[Garlean Empire]] by plotting a false flag operation. He plans to use the [[Eyes of Nidhogg]] to summon a [[primal]] at Baelsar's Wall, even sacrificing himself and his soldiers.
+
+He scorns the Ala Mhigan Resistance for succumbing to despair and wants to use the sacrifices to "liberate the homeland they no longer deserve." Ilberd is disgusted that both the resistance and the Eorzean Alliance speak of freeing Ala Mhigo but are not willing to spill the blood necessary to do it.
+
+[[Elidibus (Final Fantasy XIV)|Elidibus]] considered him the most worthy candidate of inheriting [[Nidhogg (Final Fantasy XIV)|Nidhogg's]] eyes, describing him as "a man of boundless rage and bottomless despair."
+{{Endspoiler}}
+
+==Gameplay==
+Ilberd is fought as a boss during the quest {{icon|ffxiv|quest|Keeping the Flame Alive}}, where the Warrior of Light fights alongside Alphinaud and Yugiri to rescue Raubahn from execution.
+
+He is later fought as "The Griffin" as the last boss of {{icon|ffxiv|duty|Baelsar's Wall}} duty.
+
+==Behind the scenes==
+While apprehending Eline Roaille after her escape attempt, Ilberd tells her that "I would sooner give up my  arm than betray my comrades." Not only does he himself betray the Scions, but he also cuts off Raubahn's left arm.
+
+===Voice===
+In the English version of ''A Realm Reborn'', Ilberd is voiced by [[Richard Epcar]] up the end of 2.55, who also voiced [[Gaius van Baelsar]]. Since the release of ''[[Final Fantasy XIV: Heavensward]]'', Ilberd is voiced by Antony Byrne, who also voices [[Biggs and Wedge (Final Fantasy XIV)|Biggs]].
+
+Ilberd is voiced by [[wikipedia:Hiroshi Shirokuma|Hiroshi Shirokuma]] in the Japanese version.
+
+==Gallery==
+<gallery>
+FFXIV Ilberd 2.png
+FFXIV Ilberd 3.png
+FFXIV Ilberd recruit.jpg|Recruiting Ilberd to the Crystal Brave.
+</gallery>
+
+==Etymology==
+"Ilberd" comes from "Hilbert". {{Etym|Hilbert}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Paladins]]
+[[Category:Antagonists]]

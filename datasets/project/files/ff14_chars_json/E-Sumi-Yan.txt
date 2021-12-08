@@ -1,0 +1,60 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name= E-Sumi-Yan
+|release=FFXIV
+|japanese=エ・スミ・ヤン
+|romaji=E Sumi Yan
+|lit=
+|image=FFXIV E-Sumi-Yan.png
+|home= [[Gridania]]
+|affiliation= [[Stillglade Fane]]
+|occupation = Conjurers' Guildmaster
+|race= [[Padjal]]
+|gender= Male
+|hair= White
+|eye= White
+|age = Believed over 230<ref name=EE122>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 122</ref>
+|type=npc
+|job = {{icon|ffxiv|discipline|conjurer}}
+}}
+
+'''E-Sumi-Yan''' is a [[Padjal]] non-playable character from ''[[Final Fantasy XIV]]'', and is the master of the Conjurer's Guild in the Stillglade Fane of [[Gridania]]. He plays a substantial role in the [[White Mage (Final Fantasy XIV)|Conjurer]] class quest-line, and makes cameo appearances elsewhere.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+E-Sumi-Yan introduces himself to the [[Warrior of Light (Final Fantasy XIV)|adventurer]] when he saves them, [[Yda Hext|Yda]] and [[Papalymo Totolymo|Papalymo]] from a [[Treant]] by calming the monster down and sending it back into the forest from which it emerged. E-Sumi-Yan performs a great purification rite to try to purify the newly wildling [[Khrimm]]. To that end, E-Sumi-Yan uses [[Dunstan]] as a catalyst and cleans up Khrimm's woodsin.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:E-Sumi-Yan_Sylphie.jpg|thumb|E-Sumi-Yan lecturing [[Sylphie Webb|Sylphie]] on the use of conjury.]]
+Reintroduced during the adventurer's initial Conjurer quest, E-Sumi aids the novice in the fundamentals of conjury by sending them to learn about the elements alongside his troublesome and inexperienced apprentice Sylphie.
+
+When Sylphie approaches E-Sumi to tell him she learned [[Raise (Life 1)|Raise]], despite his fears of her lack of fully understanding conjury, E-Sumi unintentionally drives her away by forbidding her from casting it. E-Sumi and the other Stillglade Fane conjurers arrive too late to prevent Sylphie to from using Raise to revive a [[Wood Wailers|Wood Wailer]] she was treating. Though she endures, E-Sumi ends up hurting Sylphie's feelings.
+
+E-Sumi later explains that her healing magic draws on her own life force in lieu of an understanding of the natural world that would allow her to call on the greater spirit of life to aid her; casting in this way will kill her. This is why E-Sumi finds it so difficult to deal with Sylphie, as her mother ''did'' perish because E-Sumi did not do enough to stop her from using her art, and he cannot bear to watch Sylphie fall to the same fate. This tests his usual objectivity and calmness, and he asks for the adventurer's further aid going forward.
+
+Once all the the Conjurer quests are completed, he will send the adventurer to assist [[Raya-O-Senna]] and [[A-Ruhn-Senna]], beginning the White Mage job quests.
+
+E-Sumi-Yan also appears in the quest "Fear and Odin in the Shroud," where he reveals a startling fact about the blade Zantetsuken that sheds light on the nature of the [[primal]].
+
+==Characteristics==
+===Appearance===
+Master E-Sumi is a Padjal, and thus does not appear to age past a certain point; his outward appearance remains that of a boy on the cusp of adolescence. His padjali horns take the appearance of a pair of tiny, black bull's horns. In [[Final Fantasy XIV/Legacy|Legacy 1.0]] he wore a white-and black tunic with breeches and boots. In ''A Realm Reborn'', he wears a floor-length dark gray-and-black robe, and his facial features have been adjusted to smooth his cheeks and bring more focus on his silvery eyes.
+
+===Personality===
+E-Sumi-Yan is nothing like the child he appears to be; while his exact age is not stated, he has been Master Conjurer and Hearer for decades. His calm demeanor and deep wisdom reflect this, and he enjoys training new conjurers and illuminating the mysteries of the art for them. The only time he grows cross is when dealing with Sylphie. This stems primarily from his concern for her welfare, concerning the dangerous form of conjury she uses.
+
+==Gallery==
+<gallery>
+E-Sumi-Yan.png|E-Sumi-Yan portrait from version 1.0.
+E-Sumi-Yan_Legacy.jpg|E-Sumi-Yan in version 1.0.
+E-Sumi-Yan.jpg|E-Sumi-Yan at the Conjurer's Guild in ''A Realm Reborn''.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:White Mages]]
+[[Category:Padjals]]
+[[Category:Guildmasters]]

@@ -1,0 +1,109 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Renda-Rae
+|release=FFXIV
+|japanese=レンダ・レイ
+|romaji=Renda Rei
+|lit=
+|aka= J'rhoomale {{J|ジャ・ルマレ|Ja Rumare}}, Andreia,<br/>Ranger of Darkness {{J|闇の狩人|Yami no Kariudo|Hunter of Darkness}}
+|image=FFXIV Renda-Rae WoD.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[The First]]
+|age=
+|dob=
+|affiliation=[[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]
+|occupation=Hero of the First<br>Warrior of Darkness
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Miqo'te|Mystel]]
+|gender=Female
+|height=
+|weight=
+|hair=Brown
+|eye=Light green
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|bard}}
+|abilities=
+|limit break=
+|weapon=Bow
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Rina Satoh
+|english voice actor=Eleanor Matsuura
+}}
+{{Quote|Know that I will happily make it quicker for you...if you just stand still.|Renda-Rae}}
+'''Renda-Rae''', also known as '''J'rhoomale''', '''Andreia''', and '''The Ranger of Darkness''', is a character from ''[[Final Fantasy XIV]]''. She is a member of the the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]. 
+
+==History==
+===Early life===
+Renda-Rae was a hunter of legendary repute, slaying many powerful marks alongside her companions. As the group's status grew, so too did their ambition and lust for glory, coming to accept only notorious marks. One day, they came across the scourge of [[Norvrandt]] known as Balam-Quitz. In their arrogance, Renda's allies charged the monster, knowing nothing of its power or weaknesses. The monster let out a deafening roar that disoriented them all, and due to Renda's ultra-sensitive hearing, she nearly passed out. Unable to back up her friends, she could only watch as Balam-Quitz struck them down. Furious at the loss of her friends, Renda tried to stare down the beast alone. Seeing her as no threat the monster simply left. Her pride wounded and her friends killed, Renda vowed to get stronger and never depend on others until one day she could get her revenge.
+
+[[File:FFXIV Renda-Rae Crystal.png|thumb|Renda-Rae awakens as a Warrior of the Light.]]
+Some time later, Renda joined an adventurer named [[Ardbert]] and his friends, but kept distant from them, not wanting to grow too attached. Through their exploits, she came to respect them and see them as friends. When Balam-Quitz reappeared Renda did not wanting to get her new allies involved, and stormed off on her own toward Rak-tika Greatwoods to confront the monster, packed with specialized arrows that would disrupt its roar. Though she fared well, the monster immobilized her with a blast of lightning. Ardbert and his friends showed up to help her, and with their combined efforts, Renda felled the beast, avenging her fallen friends. Ardbert scolded her for running off alone, reminding her that she has friends to depend on who care for her. A [[Crystal (term)|Crystal of Light]] appeared to Renda, making her a [[Warriors of Light|Warrior of Light]]. From that point on, Renda came to see the party as her new family, though never forgetting those she had lost along the way.
+
+Renda and the others traveled across the realm vanquishing evil, eventually coming to blows with one of their own, [[Cylva]], who revealed herself as the Shadowkeeper and ally to the [[Ascian]]s. Ardbert spared her life, unable to kill someone he could call a close friend. They turned their weapons against the Ascians, [[Mitron]] and [[Loghrif]]. With their deaths a [[The Flood|Flood of Light]] came crashing down on [[the First|their world]], eradicating all life in its wake. The Ascian [[Elidibus (Final Fantasy XIV)|Elidibus]] who offered the Warriors a chance to save their world by journeying to [[Hydaelyn|the Source]], telling them that by causing a [[Umbral Calamity|Calamity]] they could halt the Flood. Doing so, however, would require them to sacrifice their corporeal forms, leaving them as souls that would nonetheless have a physical and tangible presence.
+
+Before departing, Renda shared her final thoughts with her Crystal, wanting to be able to help others, hoping that no matter how pointless the effort may be in the long run, it would amount to something, and vowed to never close her heart off to others.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV WoD.png|thumb|left|The Warriors of Darkness.]]
+With Elidibus's help, the warriors arrive on the [[moon]] of the Source world where [[Zodiark (Final Fantasy XIV)|Zodiark]] lays dormant. To save their world, a shard of the Source world known as [[the First]], the Ascian tells the warriors they must sow chaos by slaying [[primal]]s and, should they come across them, the Source's [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. To that end, each of Renda's group becomes a Warrior of Darkness. To blend in with the unfamiliar world, each takes up a pseudonym, Renda-Rae calling herself J'rhoomale.
+
+Their first primal encounter is against [[Ravana (Final Fantasy XIV)|Ravana]]. They encounter the Warrior of Light and their companions, and introduce themselves by fighting them. Thanks to the timely intervention of a [[Thancred Waters|skilled Rogue]], the group retreats, but not before revealing who they are.
+
+During one of their meetings with Elidibus, J'rhoomale's hearing picks up the footsteps of a [[Alisaie Leveilleur|young Elezen female]] spying on them. She shoots a poison arrow at her, but fails to capture her thanks to the Rogue accompanying her. Sometime later, the Warriors of Darkness are told of the summoning of a primal at the top of Xephatol with a new masked mage at their side. They are too late as the Warrior of Light had slain the priest who attempted the summoning, accompanied by a familiar-looking youth. J'rhoomale notices the [[Elezen]] she had shot previously before her ears pick up his more masculine voice, identifying him as the earlier Elezen's [[Alphinaud Leveilleur|twin brother]] before promising to shoot him as well. Their new companion requests her to stay her bow, while Arbert explains their situation though the pair doubts the news. Tired of their talk, Arbert and the others leave.
+
+A final confrontation at the [[The Bowl of Embers|Bowl of Embers]] reveals to the [[Scions of the Seventh Dawn]] that the Warriors of Darkness offered up their lives in their own world to travel here. When they begin to use their crystals of light, the Warrior of Light draws upon their own and transports them all to the realm of [[Hydaelyn (character)|Goddess Hydaelyn]]. Here Ardbert attempts to strike down [[Minfilia Warde|Minfilia]] when she offers to save the First, but is stopped, and promises to return to the First with her. Before he leaves, he tells the Warrior of Light to take a different path than the one they chose.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Back in the First, Minfilia used the souls of the Warriors of Darkness to stop the Flood of Light, except for Ardbert's soul. Renda-Rae's body became a powerful [[sin eater]] known as the Cardinal Virtue Andreia, who is now trying to recreate her old party from the corpses of her victims.
+
+[[File:FFXIV Shb Andreia.png|thumb|Renda-Rae as the sin eater Andreia.]]
+Once the Warrior of Light travels to [[Norvrandt]], they assist [[Lue-Reeq]] on his journey to hunt Andreia. During the journey the Warrior of Light learns about Renda-Rae's past through [[Echo (Final Fantasy XIV)|Echo]]. After Cardinal Virtue Andreia transforms [[Lanbyrd]] and others into sin eaters, the Warrior and Lue-Reeq defeat her and spot an apparition of Renda-Rae's spirit, who says her last words to Lue-Reeq.
+
+After the Ascian [[Emet-Selch]] is defeated, the spirit of Renda-Rae and the other Warriors of Darkness appear in [[Crystarium (Final Fantasy XIV)|Crystarium]] to be reunited with the spirit of Ardbert.
+
+==Characteristics==
+===Appearance===
+Renda-Rae is identical in appearance to the female [[Miqo'te]] from the [[Final Fantasy XIV/Legacy|original version's]] cutscenes {{Show image|CGArtwork RealmReborn5.png}} and ''A Realm Reborn'' promotional material, though her attire is blacked.
+
+{{spoiler}}
+Upon becoming the Cardinal Virtue Andreia, her appearance remains the same, though she has black and red eyes, plaster-like white skin, and her body is surrounded by a ghastly white glow.
+{{Endspoiler}}
+
+===Personality===
+Renda served as a proud hunter for much of her life, lusting for glory and seeking to prove herself through ever increasing feats of hunting dangerous monsters. She has a compassionate side for those close to her, and was crestfallen by the death of her companions, swearing to become stronger alone to avenge them. She fears attachment due to losing her former compatriots and keeps her new allies at a distance until she is certain she can trust in their strength.
+
+==Gameplay==
+During Patch 3.4 Soul Surrender, Renda-Rae is fought as the Ranger of Darkness alongside other Warriors of Darkness during the quest {{icon|ffxiv|quest|One Life for One World}} in a [[Quest Battle|special instance]].
+
+[[File:FFXIV ShB Renda-Rae role-play.png|thumb|Renda-Rae in role-play mode]]
+In ''Shadowbringers'' expansion, Renda-Rae is temporarily playable during the role quest {{icon|ffxiv|quest|The Hunter's Legacy}} for physical DPS jobs. As an Archer, she has access to Heavy Shot and Acidic Bite. Her version of Refulgent Arrow, Radiant Arrow, has no prerequisites and works independent of global cooldown. She has her own version of Second Wind called Hunter's Prudence to heal herself. She comes with her own version of Head Graze called Dulling Arrow, which is used to interrupt Balam-Quitz's Preternatural Roar.
+
+Renda-Rae is fought one last time as Andreia in final physical DPS role quest {{icon|ffxiv|quest|Courage Born of Fear}}.
+
+==Gallery==
+<gallery>
+FFXIV Warriors of Darkness.png|Artwork.
+FFXIV Warriors Of Darkness In Game.png|Appearing in the Source.
+FFXIV Renda-Rae.png
+FFXIV ShB Renda-Rae spirit.png|Renda-Rae's spirit
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Guest characters]]
+[[Category:Rangers]]
+[[Category:Antagonists]]

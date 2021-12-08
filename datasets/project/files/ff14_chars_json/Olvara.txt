@@ -1,0 +1,36 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Olvara
+|release=FFXIV
+|japanese=
+|romaji=
+|image=FFXIV ShB Olvara.png
+|home=
+*[[Eulmore]] (formerly)
+*[[Kholusia#Gatetown|Gatetown]]
+|age=
+|dob=
+|affiliation=
+|occupation=Nurse
+|race=[[Hyur|Hume]]
+|gender=Female
+|hair=
+|eye=
+|type=npc
+}}
+
+'''Olvara''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. Olvara was a nurse who took care of [[Lue-Reeq]] during his childhood.
+
+==Profile==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Story==
+{{Spoiler}}
+Olvara lived in [[Eulmore]] and cared for [[Lue-Reeq]] for most of his childhood, over time she was forced to leave the city to live in [[Kholusia#Gatetown|Gatetown]]. Lue-Reeq grew up to become a bounty hunter, while searching for Cardinal Virtue Andreia, he and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] meets Olvara to learn more about [[Renda-Rae]]'s past. Olvara shares her knowledge with the pair and receives several visits from Lue-Reeq. Once the journey is over, Lue-Reeq decides to live with Olvara for the rest of her days.
+{{Endspoiler}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

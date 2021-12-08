@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name= Thubyrgeim Guldweitzwyn
+|release=FFXIV
+|japanese=トゥビルゲイム・グルドヴァイツウィン
+|romaji=Tubirugeimu Gurudovaitsuuin
+|image=FFXIV Thubyrgeim Arcanist Guild.png
+|affiliation=
+|occupation = Acting Guildmaster
+|race= [[Roegadyn]]
+|gender= Female
+|hair= Brown
+|eye= Blue
+|age = 39
+|type=npc
+|job={{icon|ffxiv|discipline|arcanist}}
+}}
+
+{{Quote|I am Thubyrgeim, and it is my responsibility to manage the Arcanists' Guild while our guildmaster tends to... other matters. We receive regular reports on his research into advanced arcanima, thus I am disinclined to be overly critical of his inconvenient absence.|Thubyrgeim}}
+
+'''Thubyrgeim Guldweitzwyn''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the Acting Guildmaster for [[Summoner (Final Fantasy XIV)|arcanists]] at Mealvaan's Gate in [[Limsa Lominsa]], due the actual Guildmaster [[K'rhid Tia]]'s frequent absence.
+
+==History==
+Thubyrgeim is the main taskmaster for arcanist class quests, which often has the [[Warrior of Light (Final Fantasy XIV)|adventurer]] working alongside [[K'lyhia]]. She assigns the adventurer a series of training quests to teach them how to use their class. After this, she orders K'lyhia to teach the adventurer how to summon [[Summoner (Final Fantasy XIV)#Summon II|Topaz Carbuncle]], (correctly) assuming that during the inspection they are undertaking, they will have to encounter lawless pirates. After K'lyhia's grimoire is taken by [[Doesmaga Poisonheart]] during the resulting fight, she joins with the adventurer to attempt to recover the grimoire; when this fails, she sends them to procure a new copy from K'rhid.
+
+Once all the arcanist class quests are completed, and if [[Black Mage (Final Fantasy XIV)|Thaumaturge]] was leveled to at least 15, she will direct the adventurer to [[Y'mhitra Rhul|Y'mhitra]] of the [[Sons of Saint Coinach]] to undertake the path of a [[Summoner (Final Fantasy XIV)#Summoner|Summoner]].
+
+==Characteristics==
+===Appearance===
+Thubyrgeim is a Sea Wolf [[Roegadyn]] with light green skin and thick brown hair. She wears a monocle, a gray coat, and large leather gloves with a cuffed white shirt.
+
+===Personality===
+Thubyrgeim repeatedly shows concern for her fellow arcanists, especially Foreseer K'lyhia, because their eccentric natures often cause them to fail to take care of themselves properly. She respects the authority of the thassalocracy, often assigning arcanists missions to inspect goods, especially when she suspects smuggling is involved; she also remains dedicated to the expansion of the art of arcanima.
+
+==Etymology==
+In the Roegadyn language, her name translates to "Magic Jewel, daughter of Gold Wheat."
+
+{{navbox FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Arcanists]]

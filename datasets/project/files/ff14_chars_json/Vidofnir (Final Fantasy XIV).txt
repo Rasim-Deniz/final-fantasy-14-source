@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Vidofnir
+|release=FFXIV
+|japanese=ヴィゾーヴニル
+|romaji=Vizōvuniru
+|image=FFXIV Vidofnir.png
+|home=[[Dravanian Forelands#Anyx Trine|Anyx Trine]]
+|affiliation=[[Hraesvelgr]]'s brood
+|race=Dragon
+|gender=Female
+|eye=Red
+|type=npc
+|japanese voice actor=Yu Sugimoto
+|english voice actor=Gemma Whelan
+}}
+'''Vidofnir''' is a dragon in ''[[Final Fantasy XIV: Heavensward]]''. She is one of the children of [[Hraesvelgr]], and presides over Anyx Trine in the [[Dravanian Forelands]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:XIV Vidofnir.jpg|left|thumb|Vidofnir at Anyx Trine.]]
+Vidofnir is met when [[Ysayle Dangoulain|Ysayle]] beseeches permission for her and the Warrior of Light to climb [[Sohm Al]] to meet with Hraesvelgr. Vidofnir is wary at first due to Estinien's presence, but refrains from coming to blows because her father ordered her to prevent discord. Vidofnir explains that entry cannot be permitted, as she and her kin are forced to fend off the [[Gnath]], who are rallied to war by their [[primal]], [[Ravana (Final Fantasy XIV)|Ravana]]. She is shocked when the Warrior of Light volunteers to combat the Gnathic god. Once the Warrior of Light defeats Ravana and assures to not threaten the dragons, Vidofnir permits access to the peak of Sohm Al; she warns the Warrior and companions that [[Nidhogg (Final Fantasy XIV)|Nidhogg's]] brood will likely not take kindly to the intrusion.
+
+Vidofnir is visited by [[Lucia goe Junius|Lucia]], bemused over both an [[Ishgard]]ian soldier seeking words, as well as an offer by Ser [[Aymeric de Borel]] to start mending the centuries of strife between man and dragon. Vidofnir explains that the resurgence of Ravana requires her to decline. However, she comes around after the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] defeat Ravana and after being advised thus by Hraesvelgr. She arrives at the Holy See in time to save a girl who was thrown from atop the Vault by a priest of the True Brotherhood of the Faith with many onlookers witnessing the event. Meeting with Aymeric in front of the crowd, Vidofnir relays Hraesvelgr's message that Nidhogg and his brood have moved elsewhere and prepare for war.
+
+To mend the rifts between dragon and man, Ser Aymeric hopes to hold a peace conference in Falcon's Nest, with Vidofnir representing Hraesvelgr's brood. Despite initial setbacks, the plan goes ahead with Vidofnir landing on a scaffolding constructed for her to speak with the Lord Commander. Following a speech he made for the attending Ishgardians, Aymeric unveils a sculpture of [[Shiva (Final Fantasy XIV)|Saint Shiva]] and Hraesvelgr as a gesture to inspire a peaceful future.
+
+[[File:XIV Vidofnir Impaled.png|thumb|Nidhogg attacks Vidofnir.]]
+The civil mood would not last. In the form of the possessed Azure Dragoon, Nidhogg impales Vidofnir and denounces her for trying to make peace with the sons of Thordan. The wound is not fatal—he intended it as a warning message—and Vidofnir returns to Anyx Trine to recover.
+
+Aymeric seeks out Hraesvelgr for help, knowing Ishgard will need as many allies as it can get to defend against Nidhogg's final chorus. When Hraesvelgr relents enough to let Aymeric, [[Alphinaud Leveilleur]], and the Warrior of Light prove their worth at [[Sohr Khai]], Vidofnir personally challenges Alphinaud. Once all three pass the trial, Alphinaud rides on Vidofnir to the Steps of Faith for the final showdown.
+
+If spoken to after the defeat of Nidhogg, she will mention that while a new age of peace has begun, she ultimately cannot find joy in his passing, as he was one of the [[First Brood]] from ancient times, the third to be lost after Bahamut and Ratatoskr.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+The Warrior of Light, [[Lalai Lai]] possessed by the spirit of [[Shantotto|Shatotto]], [[Zhai'a Nelhah]], [[Kazagg Chah]], Dozol Meloc, and [[269th Order Mendicant Da Za]] petitioned Vidofnir for permission to fight the golems rampaging in the Dravanian Forelands. After hearing Shatotto's plan to let the golems consume each other until one remains, she approved of it and celebrated the plan's success with Zhai'a and the Black Mages afterwards.
+
+==Characteristics==
+===Appearance===
+Vidofnir is a pale white dragon with red eyes. While morphologically similar to standard dragons seen in [[Eorzea]], her most notable feature are her two large horns and her deep voice.
+
+===Personality===
+Due to her father's reclusive nature, she often speaks for his brood. She is willing to be friendly and magnanimous towards mankind, though initially is wary of [[Estinien Wyrmblood]]'s presence due to his role as Azure Dragoon. Vidofnir displays a sense of pride in her kind, as she initially believes that the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Scions of the Seventh Dawn]] would not be able to succeed where dragons have failed. She is graceful in admitting that she was wrong.
+
+==Etymology==
+{{Etym|Vidofnir}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

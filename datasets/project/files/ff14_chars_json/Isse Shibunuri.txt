@@ -1,0 +1,51 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Isse Shibunuri
+|release=FFXIV
+|japanese=イッセ
+|romaji=Isse
+|aka=
+|image=FFXIV Isse 2.png
+|home=
+|age=
+|dob=[date of birth]
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]
+|occupation=Farmer
+|education=
+|hobby=
+|loves=
+|hates=
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}
+|abilities=
+|limit break=
+|weapon=Bow
+|armor=
+|japanese voice actor=Kenn
+|english voice actor=Stephen Hoo
+}}
+'''Isse Shibunuri''' is a non-player character from ''[[Final Fantasy XIV]]'', first appear in its [[Final Fantasy XIV: Stormblood|''Stormblood'']] expansion. He is a villager in [[Yanxia]] who later fought to liberate [[Doma (Final Fantasy XIV)|Doma]] from the [[Garlean Empire]].
+
+==History==
+
+==Characteristics==
+===Appearance===
+===Personality===
+
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Isse.png
+FFXIV Isse Attack.png|Isse leading the villagers to attack the Imperial base in Yanxia.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

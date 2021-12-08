@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tesleen
+|release=FFXIV
+|japanese=テスリーン
+|romaji=Tesurīn
+|aka=Tesleen, the Forgiven
+|image=FFXIV Tesleen.png
+|home=[[Amh Araeng]]
+|age=
+|dob=
+|affiliation=
+|occupation=Carer 
+|race=[[Hyur|Hume]]
+|gender=Female
+|hair=Blonde
+|eye=Light brown
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|japanese voice actor=Asumi Yoneyama
+|english voice actor=Rosie Jones
+|boss page = Holminster Switch
+}}
+{{Quote|I'm Tesleen. I work as a carer at the Inn, and I've gotten to know Alisaie quite well since she took up guard duties there.|Tesleen}}
+'''Tesleen''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. She is a carer at the [[Amh Araeng#Inn at Journey's Head|Inn at Journey's Head]].
+
+==History==
+When she was a child, Tesleen and her ailing mother traveled to Amh Araeng to seek refuge at the Inn at Journey's Head, before her mother turns into a sin eater however she is given poison so that her passing is a peaceful one. Since that day, Tesleen decided to take care of the other patients who have been corrupted, so that they can live out their final days in peace.
+
+Sometime during the two years of [[Alisaie Leveilleur]]'s arrival on [[the First]], Tesleen befriended her and taught her about the purpose of the camp, with the latter deciding the aid Tesleen at the inn. 
+
+[[File:FFXIV Sin Eater 03.png|thumb|Tesleen and Halric.]]
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] arrives in [[Amh Araeng]], Tesleen asks them to escort her to the Inn. The corrupted patients sense the presence of a [[Sin eater]] nearby, and [[Halric]], a boy with corruption at an advanced stage, goes to it. The Warrior of Light and Alisaie find Halric before the Sin Eater known as the Forgiven Dissonance. Tesleen attempts to defend him, but is stabbed by the creature. She wants Halric to live on, but succumbs to her wounds and transforms into a Sin Eater herself. With what little control she has left, Tesleen apologizes to Alisaie for the outcome of the events. Tesleen and the Forgiven Dissonance fly off into the sky, heading to the direction of Lakeland.
+{{Quote|We all deserve happiness...wherever we can find it... The time left to you...is precious... No one should die...in pain... Mother...Mother, I...|Tesleen to Halric before transforming}}
+While searching for the [[lightwarden]] in [[Holminster Switch]], the Warrior of Light's party faces Tesleen, the Forgiven and defeats her.
+
+==Characteristics==
+===Appearance===
+Tesleen is a Hume with long blonde hair and light brown eyes. She wears a gray glade tunic with a small gray bag on her waist. She wields a bronze longsword in battle.
+
+===Personality===
+Tesleen is the lead caregiver at the Inn at Journey's Head, she cares greatly for her patients and keeps a positive attitude even though her job is a somber one. She is great friends with Alisae, and ever since the Warrior of Light's arrival she often teases Alisae for how much she admires them.
+
+==Gameplay==
+Tesleen, the Forgiven is fought as the second boss of {{icon|ffxiv|duty|Holminster Switch}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

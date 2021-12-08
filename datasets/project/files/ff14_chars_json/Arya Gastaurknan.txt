@@ -1,0 +1,86 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Arya Gastaurknan
+|release = FFXIV
+|japanese =アリア・ガスタルクナン
+|romaji =Aria Gasutarukunan
+|aka=Arya The Painter
+|image =FFXIV Arya Gastaurknan.png 
+|race = [[Hyur]]
+|gender = Female
+|height =62 in. (5.1 ft.) 
+|hair = Blonde
+|eye = Blue
+|age = 18
+|loves=Beautiful heights, Ships
+|hates=Undead, Ghosts
+|home = [[Limsa Lominsa]]
+|affiliation = 
+|occupation = 
+|type=npc
+|job = {{icon|ffxiv|discipline|red mage}}
+|weapon = *Mythrite Rapier
+*Schlaeger
+*Hardsilver Rapier
+|armor = 
+|abilities=Jolt, Verthunder, Veraero, Vercure, Enchanted Riposte, Enchanted Zwerchhau, Enchanted Redoublement
+}}
+{{Quote|Look! isn't it beautiful!? I've never seen anything..so…Is this truly the first time I'm seeing this view? I try to remember, but my mind is a blank page. I can be sure of nothing...|Arya}}
+'''Arya Gastaurknan '''also known as '''Arya The Painter''', is a [[Hyur|Hyuran]] non-player character in the [[Red Mage (Final Fantasy XIV)|Red Mage]] quests in ''[[Final Fantasy XIV: Stormblood]]''. Arya is rescued by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] from a group of kidnappers and learns the art of red magic under [[X'rhun Tia|X'rhun's]] tutelage.
+
+== History ==
+=== Early life ===
+When she was really young Arya's parents died and she was taken in by her uncle, he was a kind gentle man who often told stories of her parents. While on the road the two were ambushed and her uncle shielded her, only for him to be killed. In that moment she was captured and taken by the cabal.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+[[File:FFXIV Arya rescued.png|left|thumb|220x220px|Arya shortly after rescue.]]
+Arya was kidnapped by a murderous cabal, and put in a box that was being held on a ship in Aleport. The Warrior of Light and X'rhun come to investigate the ship and its crew, and come along a box with a sleeping girl inside. Unable to remember anything prior, X'rhun hopes to find an inn and discuss things there. Once there Arya falls asleep immediately due to the ordeal. X'rhun explains that the kidnappers have gotten away and that the smell coming from Arya's breath may be the cause of her memory loss. He says that once she wakes they might be able to find out more.
+
+Once Arya awakens the Warrior of Light tries to jog her memories by going on a walk, and wants to see the top of the ports wall. Here she remembers the death of her uncle and her kidnapping, after returning to the inn she suddenly remembers the assassins speaking of the rendezvous point at the Isles of Umbra. X'rhun arms Arya with an old mage staff to batter enemies with for self defense and helps defeat undead spirits and members of the cabal. She finds X'rhun and the Warrior of Light about to fight [[Lambard Calowise]], before it can occur however, she flings a fire spell in his direction and he flees. Determined to defeat the cabal, Arya begins to learn the art of red magic with the Warrior of Light.
+
+X'rhun contacts Riol to help locate the cabal and discovered that there previous shipments came from Castrum Meridianum. Arya and X'rhun sneak into the facility to find documents on the cabal, and where they will strike next. They discover that the group steals away magically gifted youths and destroys their minds to control them into powerful mages, they also discover that their next mission is to attack [[Jessie Jaye]] of the [[Garlond Ironworks]]. After telling Jessie of the danger that she's in Arya comes up with a plan to disguise herself as Jessie to further keep her out of harms way.
+
+Arya dresses up as Jessie and arrives at the airship in Mor Dhona, here Lambard and his cabal arrive only to discover that Arya is a fake. X'rhun arrives to duel him and although Lambard is wounded greater than X'rhun, he reveals his true powers and sucks the life force from X'rhun. On his knees and bleeding, Arya and the Warrior of Light defend their master and defeat Lambard and his group. With his final words Lambard gloats about how he will miss Arya's suffering, confusing the group before passing away. 
+
+=== The Color of Her Hair ===
+[[File:FFXIV Arya red hair.png|left|thumb|220x220px|Arya's sudden hair change.]]
+X'rhun continues his students training in the Dravanian Hinterlands where he plans on honing their skills on Illuminati aggressors. After the Warrior of Light defeats some goblins, X'rhun begins to worry about Arya and the two search for her, only to see her exhausted after a hard-won battle. Attempting to rouse her causes her hair to turn blood red, and she turns hostile on her friends. The two render her unconscious and return her to [[Idyllshire]] to check on her condition. Once she wakes up she remembers nothing of the attack, and X'rhun remembers how Arya's transformation reminded him of Lambards Transformation.
+
+X'rhun and the Warrior of Light search for clues to cure Arya's condition and discover that previous mages would ingest voidsent blood in exchange for supernatural powers. Along the way they create a tonic to cure her weakened state. After a venture into the [[Great Gubal Library]] they retrieve the book ''Nightkin ''which tells of a [[Mhach|Mhachi]] sorcerer of the Calowise family who forged a pact with the voidsent Lilith and consumed her blood. It is revealed that Lambard and Arya are descendants of this family and that Lilith still resides in this realm to preserve the pact. Arya receives a vivid dream of a coffin which contained Lilith, and the group decides to travel to [[Coerthas]] in search of clues.
+
+[[File:FFXIV Arya and Lilith.png|thumb|220x220px|Lilith is freed.]]
+While X'rhun is reading Ishgardian texts on the location of Lilith, the Warrior of Light and Arya travel to the Last Vigil to enjoy the sights the city has to offer. X'rhun arrives with the coffins whereabouts and the three head to Witchdrop in Coerthas. The Warrior of Light slays numerous voidsent in the chasm and finds a coffin under a mound of snow, a voice calls out saying only one with her blood may break the seal. Once opening the coffer however reveals that Lilith planned this all along to take over Arya's body, she controls Arya's mind and teleports away in a flash of light.
+
+X'rhun and the Warrior of Light discover the ritual is taking place in the ruins of the city of Mhach, and are taken there by Jessie as she feels indebted to Arya for saving her. The Warrior of Light and X'rhun defeat Lilith but Arya refuses to awaken. in her mind she is battling against Lilith's will and eventually overcomes it by remembering that there was much more she wanted to do, and decides to choose her own fate, denying Lilith's claims that it was her fate to serve as the voidsent's vessel. With the defeat of Lilith, Arya's powers have diminished and she is forced to learn [[Thaumaturge|thaumaturgy]] and [[Conjurer|conjury]] from scratch. Once she understands the fundamentals of these arts X'rhun promises to teach her the basics of red magic once more. She is happy about this however, as her achievements will finally be her own.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+X'rhun calls upon the Warrior of Light and Arya to assist him in catching grave robbers that are raiding the crimson duelists grave site. Arya begs to go with them as her magics are still potent, and X'rhun gives in as long as she stays near him. After fighting the grave robbers X'rhun is impressed by how far she has come, and depart to return the stolen goods. Arriving at the grave site, X'rhun leaves out one of his comrades swords and tells them the history of the blade. In the end he gives the blade to Arya as it helps those with low arcane talents. Even though the sword is heavier than her previous one she wields it proudly and renews her oath as a red mage.
+
+== Characteristics ==
+=== Appearance ===
+Arya is a female Midlander Hyur with blonde hair and blue eyes. When first rescued Arya wears a bridesmaids dress, and given an old staff to defend herself with. After showing a talent in magic, she is given red attire and a mythrite rapier.Later on she upgrades her outfit with a sky pirate coat of casting and the Schlaeger rapier. After losing most of her magic power she is gifted with a Hardsilver rapier which was owned by one of X'rhun's former compatriots.
+
+=== Personality ===
+Arya does not want to be a burden to her friends and will help in any way she can, she is proficient in red magic, and wants to excel to be on the Warrior of Lights level of skill. Although she is afraid of ghosts and other supernatural beings she will fight when the situation arises. She is fond of high places where she can see beautiful vistas as well as being fascinated by ships.
+
+== Gameplay ==
+Arya appears in the [[Quest Battle|special instances]] {{icon|ffxiv|quest|A Vermilion Vendetta}} and {{icon|ffxiv|quest|Stained in Scarlet}}, the first instance she only attacks enemies with auto attacks, but in the other instance she fights alongside the player as a red mage.
+
+==Behind the scenes==
+In an interview with Koji Fox on the development of ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II|Encyclopædia Eorzea Volume II]]'', he mentions how there was an error in Arya's story where they wanted to include references to her being a painter to reveal the origins of her epithet. Although it didn't make it into the main game, it is mentioned in the second book.
+
+== Gallery==
+<gallery>
+FFXIV Arya 1st outfit.png|Arya shortly after rescue in a pink dress.
+FFXIV Arya Jessie.png|Arya disguised as Jessie.
+FFXIV Arya Redcoat.png|Arya wearing her second red mage outfit.
+FFXIV Arya captured.png|Arya captured by Lilith.
+FFXIV Arya Possessed.png|Duty Failed, Arya being possessed.
+FFXIV Arya new rapier.png|Receiving her new Hardsilver rapier.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Red Mages]]

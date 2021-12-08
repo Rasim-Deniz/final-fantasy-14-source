@@ -1,0 +1,82 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Feo Ul
+|release=FFXIV
+|japanese=フェオ＝ウル
+|romaji=Feo-Uru
+|aka=Madbloom {{J|狂い咲き|Kuruizaki|Off-season Flowering}}, Titania {{J|ティターニア|Titānia}}
+|image=FFXIV SH Feo.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Il Mheg]]
+|age=
+|dob=
+|affiliation=Fae folk<br>the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]]
+|occupation=Titania
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Pixie
+|gender=<!--PIXIES ARE GENDERLESS, DO NOT FILL THIS SPACE-->
+|height=
+|weight=
+|hair=Red
+|eye=Grey-blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Minami Takahashi
+|english voice actor=Olivia Morgan
+}}
+{{Quote|Your lovely branch is useful, yes? So whenever you're in trouble, you must remember to ''make use of me''!|Feo Ul}}
+'''Feo Ul''' is a character from ''[[Final Fantasy XIV]]''.
+
+==History==
+Feo Ul is introduced in the [[Crystarium (Final Fantasy XIV)|Crystarium]] when the [[G'raha Tia|Crystal Exarch]] summons them to meet the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], who has just arrived to the First. Feo Ul makes a pact with the Warrior to help transfer their material items over from the Source, as well as carrying messages back and forth.
+
+Feo Ul is later summoned by the Warrior of Light, now dubbed the Warrior of Darkness, during their time in [[Il Mheg]]. Feo Ul shows a possessive streak against the other Fae, noting that the Warrior of Darkness is their precious sapling and that they have no interest in sharing with the other Fae, no matter who it is.
+
+Feo Ul willingly takes the Warrior of Darkness's place to become the next king of the faeries, so the latter could remain mortal. Feo Ul tells the Warrior of Darkness that because of their nature, they cannot fight for the same causes mortals fight for. Circumstances would change if it was to repay a debt, in which they may aid the Warrior of Darkness in times of great need.
+
+During the final assault on [[Vauthry]]'s floating island, Mt. Gulg, Feo Ul shows up to defend the colossal Talos from the horde of [[sin eater]]s while berating the Warrior of Darkness for not summoning them even though it was a matter of men's struggles. Feo Ul takes out their frustrations on the surrounding sin eaters with glee, clearing a path for the [[Scions of the Seventh Dawn]] to advance.
+
+Feo Ul shows up in their diminutive form to comfort the Warrior of Darkness, who is in danger of becoming the new [[Lightwarden]] of the First and offers advice on the Crystal Exarch. When trying to convince [[Bismarck (Final Fantasy XIV)|Bismarck]] of the First to aid them, the Warrior of Darkness calls on Feo Ul to help, who is delighted at finally being called, and orders Bismarck to help the Scions, whom Feo Ul has also claimed as their saplings.
+
+==Characteristics==
+===Appearance===
+{{Section}}
+
+===Personality===
+A pixie with a heart of gold, Feo Ul is kind and warm to those they consider friends. [[G'raha Tia|The Crystal Exarch]] even calls them the Paragon of pixies. Though they can be just as mischievous and childishly playful as their fellow pixies, Feo Ul is not selfish; it is simply their nature as a pixie. Pixies may be eternal, but they live for "the here and now", not bothering with futures that may or may not come.
+
+Feo Ul is protective of the Warrior of Darkness from [[Hydaelyn|the Source]], calling them their "sapling" and themself their "branch". Though this relationship could be considered how one affectionately treats a beloved object, Feo Ul does indeed care for the Warrior's well-being. Whenever the Warrior requests their assistance, Feo Ul scolds them for not doing so sooner.
+
+==Gallery==
+<gallery>
+File:FFXIV Feo Ul.png|As the new Titania.
+FFXIV Feo Ul Titania.png|Becoming Titania.
+FFXIV Feo Ul Mt. Gulg.png
+FFXIV Feo Ul Battle.png|Titania Feo Ul battling sin eaters at Mt. Gulg.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Pixies]]

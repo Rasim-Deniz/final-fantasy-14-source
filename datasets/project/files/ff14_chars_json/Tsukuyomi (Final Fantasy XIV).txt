@@ -1,0 +1,97 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Tsukuyomi (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Tsukuyomi
+|release=FFXIV
+|japanese=ツクヨミ
+|romaji=Tsukuyomi
+|aka=
+|image=FFXIV Tsukuyomi.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that soucrce in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Female
+|height=
+|weight=
+|hair=Black and white
+|eye=Blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=Castrum Fluminis (trial)
+}}
+{{Quote|Oh...it's going to be a long night.|Tsukuyomi}}
+'''Tsukuyomi''' is a [[primal]] from ''[[Final Fantasy XIV: Stormblood]]'', introduced in Patch 4.3: ''Under the Moonlight''. She is fought in {{icon|ffxiv|duty|Castrum Fluminis}}.
+
+==History==
+[[File:FFXIV Tsukuyomi 3.png|thumb]]
+The primal Tsukuyomi is brought into being as a manifestation of Yotsuyu's desire to rule over [[Doma (Final Fantasy XIV)|Doma]], after the former viceroy regains her memories through the machinations of her brother [[Asahi sas Brutus|Asahi]]. As Tsuyu (her identity during her [[Amnesia (term)|amnesia]]), Asahi gave her a mirror under the pretense of trying to jog her memory, actually a relic stolen from the [[Kojin|Red Kojin]] by [[Zenos yae Galvus]] that was host to the kami Tsukuyomi.
+{{Quote|I knew you would not flee. I see now the strength which flows from that baleful light of yours. But I am become Tsukuyomi, goddess of the moon and divinity of night. What power can compare to such celestial majesty!? I shall plunge all I despise into darkness! And within that black abyss, even your light shall flicker and fail. Come, let us cast the stalks and look upon the fate of Doma. I see a future in which the sun sets on this wretched land once and for all!|Tsukuyomi}}
+After regaining her memory and rejoining the [[Garlean Empire]], Yotsuyu used the mirror in conjunction with a hoard of [[Crystal (term)|crystals]] brought in by Asahi to become host to the kami (not unlike [[Ysayle Dangoulain|Ysayle]] and [[Shiva (Final Fantasy XIV)|Shiva]]), transforming into the primal Tsukuyomi during the prisoner exchange meeting in Castrum Fluminis. This was part of Zenos's plan; by having a primal be summoned on Doman soil inside Castrum Fluminis, even if said eikon would be easily dispatched, he could use the event to reduce support in the Populares (a pacifist Garlean group), and potentially rid the Empire of some of its enemies in the process. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is forced to fight Tsukuyomi to prevent her from once again conquering (and probably destroying) Doma.
+
+[[File:FFXIV Tsukuyomi 4.png|thumb|left]]
+During the fight, Tsukuyomi momentarily reverts to Yotsuyu, and to fuel the primal with her suffering she summons ghosts of her abusive family, foot soldiers from both Doma and Garlemald, as well as Asahi. She finally summons an apparition of Zenos himself, but is guarded from him by a specter of [[Gosetsu Daito]], hinting at her guilt over the kindness given to her by the samurai.
+
+When the primal is slain Yotsuyu, heavily injured and with white hair, falls to the ground defeated.
+
+==Characteristics==
+===Appearance===
+Tsukuyomi is a young woman resembling her human self, [[Yotsuyu goe Brutus]]. The skin of the left half of her body is pale white, while her other half is pitch black. She has glowing blue eyes and rabbit ears.
+
+She wears a traditional Japanese kimono. She wields a fan in her left hand, and a pipe in the other. A magical crescent floats behind her.
+
+===Personality===
+Tsukuyomi shares the same minds and personality with her human self.
+
+==Musical themes==
+Her battle theme consists of three parts. The first phase is called "Nightbloom", featuring a remix of the iconic ''Stormblood'' track "[[Revolutions]]". Starting up with powerful wind instrumentals and leading up to melancholic string and piano portions, it almost alludes a twist in the intertwined nature of Tsukuyomi's host about committed atrocities compared to a tragic past. "Lunacy" accompanies the second phase, using loops of piano and chords in a medium-paced, more resolved melody.
+
+"[[Wayward Daughter]]" plays as the third and final phase unfolds. It features mixed female and male chorus singing English and Japanese lyrics to a more rock opera-like hymn; the melody of the male chorus in particular is that of [[Cyan Garamonde#Musical themes|Cyan's Theme]].
+
+==Behind the scenes==
+Tsukuyomi is one of the five primals who have been summoned into a certain individual or structure as their host. The others are [[Shiva (Final Fantasy XIV)|Shiva]], [[Phoenix#Final Fantasy XIV|Phoenix]], [[King Thordan]], and [[Alexander (Final Fantasy XIV)|Alexander]].
+
+==Gallery==
+<gallery>
+FFXIV Tsukuyomi 1.png
+FFXIV Tsukuyomi 2.png
+FFXIV Tsukuyomi 5.png
+Tsukuyomi Bright Blade.png
+Tsukuyomi Dark Blade.png
+</gallery>
+
+==Etymology==
+{{Etym|Tsukuyomi}}
+
+Tsukuyomi in ''Final Fantasy XIV'' likely draws inspiration from {{W|The Tale of the Bamboo Cutter|Lady Kaguya}}, the princess of the moon from the famous Japanese story of the bamboo cutter, and has bunny-like ears alluding to the folklore of {{W|Moon rabbit|rabbits on the moon}}, effectively making the character three figures of Japanese legend at once.
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

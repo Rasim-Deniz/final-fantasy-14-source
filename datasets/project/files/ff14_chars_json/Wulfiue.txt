@@ -1,0 +1,39 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Wulfiue
+|release=FFXIV
+|japanese=ウルフュー
+|romaji=Urufyū
+|image=FFXIV Wulfiue.png
+|race=[[Hyur]]
+|gender=Female
+|age=
+|home=[[Gridania]]
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|affiliation=[[Stillglade Fane]]
+|occupation=[[Stillglade Fane|Hearer]]
+}}
+'''Sister Wulfiue''' is a non-playable character from ''[[Final Fantasy XIV]]'', she is a female [[White Mage (Final Fantasy XIV)|conjurer]] living in Fullflower Comb area near the Hawthorne Hut, [[Gridania]]. She is a member of the Conjurer's Guild and appears in the guild's quests.
+
+==History==
+After receiving the title of Hearer, Wulfiue receives the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] as his first apprentice. To teach him about the [[Wind (element)|wind]] element, Wulfiue instructs him to exterminate a swarm of bees. After accomplishing the task, Wulfiue explains that the presence of the bees was the result of a disturbance in the natural wind currents and asks him to locate and purify the source of the disturbance with conjuration. Once done, Wulfiue shares her knowledge of the wind element to Warrior of Light.
+
+[[Nolanel]], [[Joacin]] and Wulfiue are sent to purify a powerful disturbance discovered in [[South Shroud]]. [[Sylphie Webb|Sylphie]] becomes convinced that the conjuration itself is to blame for inciting nature's wrath. Fearing that the group of Heares are further angering the Twelveswood, Sylphie goes out to try to stop them. To Sylphie's surprise, they receive the help of the [[Elementals (Final Fantasy XIV)|elementals]] to succeed in clearing the massive manifestation of corrupted earth.
+
+==Characteristics==
+[[file:Wulfiue3.jpg|thumb]]
+===Appearance===
+Wulfiue is a female Midlander [[Hyur]] with dark blonde hair, brown eyes, dressing in a black robe. She also wears a black pointy hat. Her weapon is a one-handed wand.
+
+===Personality===
+{{section}}
+
+==Gameplay==
+[[File:Wulfiue in battle.jpg|thumb|Wulfiue in battle.]]
+Sister Wulfiue fights alongside the player as an ally npc during the Conjurer quests {{icon|ffxiv|quest|Trial by Wind}} and {{icon|ffxiv|quest|Like Mother, Like Daughter}}. She knows basic abilities of the conjurer class.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:White Mages]]
+[[Category:Hyurs]]

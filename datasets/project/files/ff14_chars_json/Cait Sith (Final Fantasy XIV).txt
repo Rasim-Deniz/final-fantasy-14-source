@@ -1,0 +1,38 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Cait Sith (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Cait Sith
+|release=FFXIV
+|japanese=ケット・シー
+|romaji=Ketto-Shī
+|image=FFXIV HW Cait Sith render.png
+|home=
+|age=1500+
+|affiliation=[[Mhach]]i High Voidmage Cessair
+|occupation=
+|race=Familiar
+|gender=Male
+|type=npc
+}}
+'''Cait Sith''' is a non-playable character from ''[[Final Fantasy XIV: Heavensward]]''. First introduced in version 3.1, [[As Goes Light, So Goes Darkness]], a key figure in the [[Void Ark]] subquest.
+
+==History==
+Long ago, Cait Sith was a familiar of the [[Mhach]]i High Voidmage Cessair, who foresaw the flood of [[War of the Magi (Final Fantasy XIV)|Sixth Umbral Calamity]] due to disruption on the land's [[aether]] caused by Mhach's destructive campaign against [[Nym]] and [[Amdapor]] in the War of the Magi. Her people attempted to evade the calamity by creating the [[Void Ark]] with a thousand sealed Voidsent powering it, only for it to end in disaster as not even Cessair can control the Voidsents' leader Scathach. Eventually, Cessair and 53 other void mages had to sacrifice themselves to keep Scathach and the other Voidsent sealed away with Cait Sith the only survivor. He was tasked to ensure the Void Ark would not be disturbed as it drifted in the Sea of Clouds for centuries.
+
+In the aftermath of the [[Seventh Umbral Era]], the calamity caused by [[Bahamut (Final Fantasy XIV)|Bahamut]] undid the seal that bound the Voidsent [[Diabolos (Final Fantasy XIV)|Diabolos]] in the [[Lost City of Amdapor]]. Though defeated by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Diabolos escapes and makes his way to the Void Ark where he regains his strength while removing the seals on his fellow Voidsent. When the Warrior of Light is hired by the sky pirate [[Leofard]] to search the Void Ark for treasure, Cait Sith makes his presence known when Diabolos retrieves the Queen's Coffin that contains Scathach and takes it through a voidgate. He tells his story while imploring the sky pirates help him track down the Queen's Coffin before Scathach is released.
+
+==Characteristics==
+{{Section}}
+
+==Gallery==
+<gallery>
+Cait-Sith-FFXIV.png|Concept art.
+Cait_Sith_Minion_FFXIV_Art.jpg|Artwork of [[Minion (Final Fantasy XIV)#Cait Sith Doll|Cait Sith Doll]].
+Caitsith minion render.jpg|Cait Sith Doll.
+</gallery>
+
+==Etymology==
+{{Etym|Cait Sith}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]

@@ -1,0 +1,124 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ardbert
+|release=FFXIV
+|japanese=アルバート
+|romaji=Arubāto
+|aka=Arbert, Warrior of Darkness {{j|闇の戦士|Yami no Senshi}}, Fallen Warrior {{j|光の戦士|Hikari no Senshi|Warrior of Light}}
+|image=Ardbert from Final Fantasy XIV render.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[The First]]
+|age=
+|dob=
+|affiliation=[[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]
+|occupation=Hero of the First<br>Warrior of Darkness
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hume
+|gender=Male
+|height=
+|weight=
+|hair=Light brown
+|eye=Light blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|warrior}}
+|abilities=
+|limit break=
+|weapon=Bravura Atma
+|armor=Warrior Relic Equipment 
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[Junichi Suwabe]]
+|english voice actor=[[wikipedia:Joe Dempsie|Joe Dempsie]]
+}}
+{{Quote|My real name is Ardbert. I used an alias in the Source. A daft one, looking back...|Ardbert}}
+'''Ardbert''', also known as '''Arbert''' and '''the Warrior of Darkness''', is a character from ''[[Final Fantasy XIV]]''. He is the leader of the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] and serves as the main antagonist of Patch 3.4, and later as one of the tritagonists of ''[[Final Fantasy XIV: Shadowbringers]].''
+
+==History==
+=== Early life ===
+[[File:FFXIV ShB Ardbert party.png|thumb|left|Ardbert's party.]]
+Ardbert hails from the First, one of the shards of the Source, a world thus similar to [[Hydaelyn]]. Born into an ordinary family on an island in the seas of [[Kholusia]], Ardbert was an inherently curious youth who enjoyed fishing and dreamed of seeing the world. He spent his childhood among the birds and the beasts, there being no others of his age to play with in the mountain village he called home. His father taught him how to care for all manner of animals, including [[amaro]]. Upon turning 18 he began to pursue becoming an adventurer. He was following a hobgoblin in Kholusia only for it to lead him into an ambush. At the brink of death he was met by the dwarven healer, [[Lamitt]], who healed his wounds. Realizing that her healing would make it easier for him to deal with the goblins, Ardbert asked her to join his party. Following the defeat of the hobgoblins, Lamitt joined Ardbert's quest, becoming the first of his friends.
+
+During his travels Ardbert befriended the adventurers [[Branden]], [[Renda-Rae]] and [[Cylva]], and became rivals with the elven mage [[Nyelbert]]. They took on a job into the mines of [[Amh Araeng]] to slay a beast causing tremors. Renda-Rae and Branden were separated from the rest of the group in a cave-in. After slaying the beast in the mines, they learned the stone it dropped had caused the tremors, and Nyelbert planned to use it to save his friend. In the end he destroyed it to save the people of the mountain, and was gifted a [[Crystal (term)|crystal of light]] for his sacrifice. Ardbert, seeing the anguish this act had caused him, invited the elf to join his band, and the group was complete.
+
+Ardbert met his faithful amaro companion, [[Seto (Final Fantasy XIV)|Seto]], in the city of Nabaath Areng. The thin, sickly bird had belonged to a cruel man who sold counterfeit gems, and after Ardbert and his companions exposed the merchant, Ardbert made a deal with the local authorities to buy the criminal's amaro after it was confiscated. Naming the amaro "Seto", the two would become close friends.
+
+Their adventures took them to the [[Rak'tika Greatwood]], where Renda-Rae heard that the beast Balam Quitz was sighted. She snuck off at night to face the creature alone, but Ardbert and the others showed up to help slay the beast. When Renda-Rae explained why she went off alone, Ardbert pretended to scold her and then joked about her good hearing to cheer her up. He asked her to trust in her friends and bring them along next time. She was gifted a crystal of light for trusting her friends.
+
+After amassing fame across the realm, the friends traveled to [[Voeburt]] to aid in investigating a mysterious plague. They discovered it was the court mage's doing and put him to the sword, but with his final act he cursed the princess and transformed her into a monster. Ardbert volunteered to slay her so that his friend didn't have to kill someone he held dear, only for Branden to request he himself do it, and in doing so was given a crystal of light.
+
+Following their victory in Voeburt, Lamitt sought to help those in her village from a disease known as Stoneblight. They traveled to ancient Ronkan ruins to find a magic able to cure it, and Lamitt was gifted a crystal of light. Once she returned to the village the elder was furious for her apparent transgressions against tradition and exiled her. Ardbert tried to defend her only for the elder to shut him down. In the end, she accepted her punishment and those formerly stoneblighted decided to leave with her. Ardbert comforted her by saying he was glad she was there, helmet or no.
+
+{{Quote|This day we reclaim the reins of history! This day we rid ourselves of the Ascians forever!|Ardbert}}
+Ardbert and co traveled to [[Lakeland]] to face the Shadowkeeper only to discover it was their companion, Cylva, all along. Faced with a difficult decision, Ardbert faced off against her, but refrained from killing her out of love for his friend. He pursued the [[Ascian]]s, [[Loghrif]] and [[Mitron]], who had been the ones to manipulate Cylva into doing their bidding. He destroyed Loghrif and struck Mitron with a Blade of Light, mutating him into the first [[sin eater]], which would later be known as [[Eden (Final Fantasy XIV)|Eden]]. Ardbert's wish for the Light to prevail against the Darkness caused Eden to unleash the Flood of Light.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+[[File:FFXIV Warriors Of Darkness In Game.png|thumb|left|Appearing in the Source.]]
+Following the Ascians' defeat Ardbert held himself responsible for the catastrophe that ensued. [[Elidibus (Final Fantasy XIV)|Elidibus]], the Emissary of the Ascians, told him that Ardbert could save their world by traveling to another and causing an [[Umbral Calamity]].
+
+The five heroes discard their vessels so their spirits can traverse unto the Source, their bodies kept in the crypts within [[Eulmore]]. Once on the Source in temporary bodies, the "Warriors of Darkness" are tasked with harassing the [[Beastmen|beast tribes]] and killing the Warrior of Light of the Source.
+
+{{Quote|At long last, you see. To save our world, we gave our lives. We were just adventurers trying to make our way. An odd job here, a favor there—we never aspired to be Warriors of Light. But word of our deeds spread, and soon people were calling us heroes. They placed their hopes and dreams on our shoulders and bid us fight for all that was good and right. We fought and we fought and we fought...until there was no one left to fight. We ''won''...and now our world is being erased from existence. We did ''everything'' right, everything that was asked of us, and still—''still'' it came to this! You of all people should understand! We cannot—we ''will'' not falter. We brought our world to the brink of destruction, and now we must save it.|Ardbert}}
+A final confrontation at the [[The Bowl of Embers|Bowl of Embers]] reveals to the [[Scions of the Seventh Dawn]] that the Warriors of Darkness offered up their lives in their own world to travel here. When the Warriors of Darkness begin to use their crystals of light, the Warrior of Light draws upon their own and transports them all to the realm of [[Hydaelyn (character)|Goddess Hydaelyn]]. Here, Ardbert attempts to strike down [[Minfilia Warde|Minfilia]] when she offers to save the First, but is stopped. He promises to return to the First with her, but before leaving, tells the Warrior of Light to take a different path than the one they chose.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+Ardbert returned to the First with the other Warriors of Darkness and Minfilia. She used the power of the souls of the other Warriors to halt the Flood of Light while barring Ardbert from participating much to his confusion. For a century, Ardbert wandered the realm as a shade, unable to communicate with anyone or touch anything. During that time, his body remained in the crypt while the others were reanimated as the Cardinal Virtues. The surviving residents of the First vilified Ardbert and his fellow Warriors, believing they caused the Flood, forgetting the group's past heroic deeds.
+
+[[File:FFXIV Ardbert Ghost.png|thumb|The spirit of Ardbert.]]
+When the Warrior of Light of the Source travels to the First much later (due to the time difference between the Source and the First), Ardbert is surprised that someone can finally hear him. The Scions and the Warrior of Light, whom the First's residents now know as "the Warrior of Darkness", commence vanquishing the [[Lightwarden]]s. Ardbert reveals more of his history and both warriors relate to each other's experiences. Ardbert questions the details the Ascian [[Emet-Selch]] has revealed about Hydaelyn, and comforts the Warrior in their moments of pain struggling to contain the Light within them. When not conversing with the Warrior in their room, Ardbert wanders the First, shadowing the Warrior, cursing his inability to interact with the world when he sees sin eaters attack people. He silently weeps over his old amaro friend, Seto.
+
+When the Warrior suffers a bout of pain from containing the Light, they and Ardbert make contact and spark a reaction, hinting at a greater connection between the two. A self-aware [[Amaurot|Amaurotine]] illusion reveals they can also see Ardbert and recognizes he and the Warrior to be two parts of a sundered soul. When the Warrior is on the brink of corruption from the Light within them while facing Emet-Selch, Ardbert merges his soul into the Warrior so they can contain the Light. With Ardbert speaking through the Warrior, Emet-Selch momentarily sees an Amaurotine who was an old friend of his in the Warrior's place.
+
+{{Quote|This world is not yours to end... This is our future. Our story.|Ardbert to Emet-Selch}}
+[[File:FFXIV Ardbert Final Battle ShB.png|thumb|left|Before the final battle in ''Shadowbringers''.]]
+Ardbert's final act of merging his soul with the Warrior's broke the protection placed on his body, enabling Elidibus to possess his body. Elidibus masquerades as Ardbert to exact revenge, exploiting the Scions' act of clearing Ardbert and his company's names to manipulate the residents of [[Crystarium (Final Fantasy XIV)|Crystarium]] into becoming new Warriors of Light. It is eventually revealed that the Warrior, and thus Ardbert as well, is a reincarnation of [[Azem]], the fourteenth member of the [[Convocation of Fourteen]] from the [[Ancient civilization|ancient]] Amaurot.
+
+After defeating Elidibus, the Scions prepare to return to the Source. The Warrior of Darkness returns to Seto, entrusting Ardbert's powerless Crystal of Light to the amaro. Saddened that the Ascian used his partner's body for evil deeds, he's glad that Ardbert can finally rest in peace. Seto receives closure upon sensing Ardbert as the Warrior allows him to briefly manifest through them.
+
+==Characteristics==
+===Appearance===
+Ardbert is identical in appearance to the [[Warrior of Light (Final Fantasy XIV)#"Meteor Survivor", the CG Warrior of Light|Meteor Survivor]] from the ''[[Final Fantasy XIV|A Realm Reborn]]'' promotional material, though his armor is blackened. His axe is the Bravura Atma, showing blood stains on the blade.
+
+===Personality===
+Ardbert is angry, brash and cynical. Quick to decry the notion of heroes and bemoan his role in dooming his world to a [[The Flood|Flood of Light]], he acts as a foil to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and their companions' consistent optimism. Ardbert is good at heart and treasures his companions dearly, expressing anger and frustration at being forced to play the villain during his time on [[Hydaelyn|the Source]] to save his world.
+
+{{spoiler}}
+When he meets the Warrior of Light as a spirit on [[the First]], he follows them, and through observing their actions slowly regains his sense of hope.
+{{Endspoiler}}
+
+==Gameplay==
+Ardbert is fought as the Warrior of Darkness during the Main Scenario Quest {{icon|ffxiv|quest|One Life for One World}}.
+
+In ''Shadowbringers'', Elidibus is faced while using Ardbert's body as a vessel during the Main Scenario Quest {{icon|ffxiv|quest|Faded Memories}}.
+
+==Gallery==
+<gallery>
+FFXIV Ardbert render 2.png|Alternate render for 5.1.
+FFXIV Warriors of Darkness.png|Artwork.
+FFXIV Ardbert Artwork.jpg|Artwork for ''Shadowbringers''.
+FFXIV WoD.png|The Warriors of Darkness.
+FFXIV WoD Leader.png|Ardbert
+FFXIV WoD vs Ravana.png|Ardbert attacking Ravana.
+FFXIV WoD vs Thancred.png|Ardbert versus Thancred.
+</gallery>
+
+==Etymology==
+
+Arbert and Ardbert are both alternate romanizations of Albert {{j|アルバート|Arubāto}}, his possible name in the Japanese version of the game. Albert is derived from the Germanic name Aþalberht, a compound of ''aþal'' ("noble") and ''berht'' ("bright" or "shining").
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Warriors]]
+[[Category:Warriors of Darkness]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]

@@ -1,0 +1,29 @@
+{{infobox character
+|name=Pashtarot
+|release=FFXIV
+|japanese=パシュタロット
+|romaji=Pashutarotto
+|lit=
+|image=FFXIV Pashtarot unmasked.jpg
+|home=
+|affiliation=
+|race=[[Ascian]]
+|gender=Male
+|type=npc
+}}
+{{Quote|Bahamut stirs.|Pashtarot}}
+'''Pashtarot''' is a character from ''[[Final Fantasy XIV]]''. He is one of the [[Ascian]]s introduced during the ''A Realm Reborn'' epilogue.
+
+==History==
+Pashtarot appears during the ''A Realm Reborn'' epilogue, praising [[Zodiark (Final Fantasy XIV)|Zodiark]] alongside his fellow Ascians, though he has not appeared since.
+
+==Characteristics==
+In his appearance Pashtarot is wearing the standard Ascian uniform, black leather hooded coat with purple markings and adornments. He appears without his hood and mask, revealing that his vessel has spiky blond hair.
+
+== Etymology ==
+"Pashtarot" refers to the Scion of Light "Pashtarot, Knight-Star" referred to in the profile of [[Zeromus (Final Fantasy XII)|Zeromus]] from ''[[Final Fantasy XII]]''.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Ascians]]

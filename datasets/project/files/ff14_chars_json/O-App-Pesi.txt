@@ -1,0 +1,53 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name= O-App-Pesi
+|release=FFXIV
+|japanese=オ・アパ・ペシ
+|romaji=O Apa Peshi
+|image=FFXIV O-App-Pesi 1.png
+|home=[[Gridania]]
+|affiliation=[[Stillglade Fane]]
+|occupation=Hearer
+|race=[[Padjal]]
+|gender=Male
+|hair=Brown
+|eye=Brown
+|age=36<ref name=EE116>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 116</ref>
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+
+'''O-App-Pesi''' is a [[Padjal]] in ''[[Final Fantasy XIV]]''. He was a more prominent figure in the original 1.0 storyline for [[Gridania]], but in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' he is only featured in the quest line surrounding [[Odin]] and the level 50 [[Leatherworker]] Quest.
+
+==History==
+===Early life===
+O-App-Pesi was given to the care of Stillglade Fane in accordance with ancient law. There, Brother E-Sumi-Yan raised him, and instructed him in the ways of conjury and communing with the elementals. O-App-Pesi's talents grew mightily, so much so that scholars believe he could have been Seedseer in another age. In this one, however, the birth of Kan-E-Senna precluded that possibility.<ref name=EE116/>
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV 1x O-App-Pesi.jpg|thumb|left|O-App-Pesi in version 1.0.]]
+O-App-Pesi is one of the few who knew the truth about the secret mission some gridanian soldiers were carrying out. [[Khrimm]], the son of a couple of soldiers who were participating in such a mission, discovered that they were hiding the truth about their parents' whereabouts which led him to burn a Hedgetree. O-App-Pesi and [[Lewin]] accompany a group of soldiers to the site and defeat the furious elemental but Khrimm becomes a wildlings and ends petrified. O-App-Pesi says that the Khrimm's woodsin is very strong and that to purify it, it may be necessary to sacrifice [[Dunstan]]. Fortunately, during the purification rite, Brother [[E-Sumi-Yan]] manages to purify the boy without sacrifice being necessary. 
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:FFXIV O-App-Pesi.png|thumb|O-App-Pesi in ''A Realm Reborn''.]]
+O-App-Pesi mainly appears in a quest line surrounding the primal Odin, who has been stalking the forests of the [[Black Shroud]] since the Calamity, always returning some time after his defeat. In the final quest, "Fear and Odin in the Shroud," he draws Odin to Urth's Fount in hopes of better researching the primal's unusual recurrence. After he is defeated by adventurers in a trial, E-Sumi-Yan discovers the [[Zantetsuken (weapon)#Final Fantasy XIV|Zantetsuken]] has abnormally high amounts of aetheric energy. They conclude that "Odin" is actually a host for the sword itself. Just then, Bowlord Lewin arrives informing them that the Zantetsuken had been stolen by one of his men. The Padjal conclude the man's soul was taken by the blade to become Odin anew.
+
+==Characteristics==
+Like all Padjal he has two thin horns growing from his head. He has a slightly darker skin tone than the other known Padjal, and darker, shorter hair. His eyes are pink.
+
+Not of the prestigious [[Kan-E-Senna|Senna]] family, and not [[Stillglade Fane]]'s [[E-Sumi-Yan|Guildmaster]], O-App appears as casual as any normal child, wearing a short-sleeved shirt and shorts. However, like all Padjal he is much older and wiser than he looks, and respected throughout Gridania as a valued bridge between mankind and [[Elementals (Final Fantasy XIV)|Elementals]].
+
+==Gallery==
+<gallery>
+FFXIV O-App-Pesi 2.png
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Padjals]]

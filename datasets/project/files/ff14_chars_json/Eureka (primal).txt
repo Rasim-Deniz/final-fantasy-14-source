@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Eureka
+|release = FFXIV
+|japanese =エウレカ 
+|romaji =Eureka 
+|image =FFXIV Eureka (Primal).png
+|race = [[Primal]]
+|type= npc
+}}
+'''Eureka''' is a [[primal]] from ''[[Final Fantasy XIV: Stormblood]]'' introduced in the [[Forbidden Land, Eureka (Final Fantasy XIV)|Forbidden Land, Eureka]] instances. It was imprisoned on the isle of [[Val]].
+
+== History ==
+=== Early life ===
+The primal Eureka was created during the Third Astral Era by an unknown peoples. A being with the ability to synthesise it's current "master's" wish, it drew upon aether to create many deadly objects, including primal-like weapons that would transform their users into beings confused with eikons. It was sealed away by another group of unknown individuals, but the weapons it had borne remained throughout the world, causing disruptions to society whenever they would find new wielders. One of the weapons that Eureka created was the Zantetsuken, which possessed whoever wielded it to become [[Odin (Final Fantasy XIV)|Odin]].
+
+Eventually, in the Sixth Astral Era, it would be discovered by [[Galuf Baldesion (Final Fantasy XIV)|Galuf Baldesion]]  and his associates, who would then entrap the primal and imprison it at the centre of the [[Isle of Val]], recognising the threat it posed if it fell into the wrong hands. Galuf and his companions would then seek out the weapons created by Eureka, sealing them away in a vault on the island. Eventually Galuf would go on to found the "[[Students of Baldesion]]", and the scholars who would come to join him would dedicate their efforts to experimenting and documenting the capabilities of Eureka, while also focusing on Hydaelyn and the Echo, all in effort to one day destroy the primal.
+
+Eventually its location was discovered by the [[Ascian]] [[Emmerololth]] and the plan to prevent it from falling into their hands was set in motion. Invoking a spell to throw the island into the Lifestream, Galuf had evacuated the island and defeated Emmerololth by scattering their essence into the torrent of [[aether]]. All of the people remaining on the island were taken by the Lifestream, although the primal Eureka lived on imprisoned within.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+From within the Lifestream, Eureka used most of its aether to push the Isle of Val back into the world. When [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] and [[Ejika Tsunjika]] investigated the island, they discovered elemental forces raging across it. The two searched separately for an explanation, during which time Eureka's avatar approached Ejika and gave him a blade it had created. Seeming to fall under Eureka's sway, he used the blade to destroy the [[aetheryte]] network preventing the primal from absorbing aether. With the network destroyed, Krile devised a means of restoring the ward, but she would have to disable the restraints within the headquarters of the Students of Baldesion that were keeping Eureka contained.
+
+Upon deactivating the restraints Ejika appears with Eureka's avatar. Revealing that his alliance with Eureka was a ruse, Ejika throws the blade to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] who, being immune to Eureka's control, strikes the avatar down. Ejika informs Krile and the Warrior of Light that with the avatar destroyed, and with so much aether having been expended in returning the Isle of Val to the world, the primal is weakened enough it can be destroyed. Krile objects, knowing that Ejika would have to sacrifice himself to do so, and insists that with the Ascian Emmerololth gone they could reseal Eureka and have time to find a better solution. In the end, they leave the decision up to the Warrior of Light.
+
+After following through one of the choices, the Warrior of Light then leads a raid into the Baldesion Arsenal, where the Galuf had sealed the most powerful weapons created by the primal. They manage to destroy the weapons within, and following up as a result, they are able to resolve the situation left by their previous choice, resulting in both Eureka being destroyed, and Ejika retrieved from the Lifestream.
+
+== Characteristics ==
+=== Appearance ===
+The main body of Eureka is a cube with a glowy inside and circles on each of its faces.
+
+The Eureka Avatar resembles a hooded man, similar to an Ascian.
+
+=== Personality ===
+Eureka wishes to create weapons for its master and cast down the wicked.
+
+==Gallery==
+
+<gallery>
+Primal_Eureka (Masked).png|Eureka's avatar
+</gallery>
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=K'rhid Tia
+|release=FFXIV
+|japanese=ク・リド・ティア
+|romaji=Ku Rido Tia
+|aka=
+|image=FFXIV K'rhid Tia.png
+|home=[[Limsa Lominsa]]
+|age=
+|dob=
+|affiliation=Arcanists' Guild
+|occupation=Guildmaster
+|race=[[Miqo'te]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|arcanist}}
+|abilities=
+|weapon=Grimoire
+|armor=
+}}
+'''K'rhid Tia''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the guildmaster of the [[Summoner (Final Fantasy XIV)|arcanist]] guild in [[Limsa Lominsa]].
+
+==History==
+Though ostensibly the guildmaster at Mealvaan's Gate, he is normally absent from civilization, leaving actual work to the acting guildmaster [[Thubyrgeim]]. He appears in the quest "Grimoire Fandago", where he had been sighted in Upper La Noscea, and is believed to be the key to snapping [[K'lyhia]] out of her depression. He tasks the player with several cryptic tasks throughout the the area, such as dancing before a wooden boxes near the waterfall, before presenting himself at Memeroon's Trading Post and handing over a new grimoire to be passed to K'lyhia.
+
+After the completion of the arcanist questline and the quest "Sinking Doesmaga", K'lyhia leaves Limsa Lominsa to study with K'rhid. Thubyrgeim speculates that they will make great advances in the art of arcanima.
+
+==Characteristics==
+===Appearance===
+K'rhid Tia is a male [[Miqo'te]] with white hair and fur, dressing in a maroon robe.
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Arcanists]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Guildmasters]]

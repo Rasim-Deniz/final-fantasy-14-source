@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Kotokaze Benitoki
+|release=FFXIV
+|japanese=コトカゼ
+|romaji=Kotokaze
+|aka=
+|image=FFXIV Kotokaze.png
+|home=[[Kugane]]
+|age=38
+|affiliation=[[Kugane]]
+|occupation=Bartender
+|education=
+|race=[[Hyur]]
+|gender=Female
+|hair=Dark Purple
+|eye=Green
+|type=npc
+|job=
+|weapon=
+|armor=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Kotokaze Benitoki''' is a non-player character from ''[[Final Fantasy XIV]]''. She is the bartender of the Shiokaze Hostelry in [[Kugane]].
+
+==History==
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+After the Warrior of Light and Lyse arrive in Kugane, they enter the Shiokaze Hostelry and begin asking around for [[Yugiri Mistwalker]] and [[Gosetsu Daito|Gosetsu]]. Kotokaze tells them the way of how things work in Hingashi, and that if anyone asks about them she will tell them whether they are friend or foe. Lyse accepts this social requirement and Kotokaze tells them where their friends were headed. 
+
+Kotokaze is briefly involved in the quests {{icon|ffxiv|quest|a bleak diagnosis}} and {{icon|ffxiv|quest|a drink in the tub}}, as well as helps the player character unlock [[Forbidden Land, Eureka (Final Fantasy XIV)|Eureka]] in the quest {{icon|ffxiv|quest|and we shall call it eureka}}. Additionally, she is briefly involved in the ''Stormblood'' [[Carpenter|carpenter]] storyline, delivering a letter to the Warrior of Light from [[Cemi Jinjahl]] in {{icon|ffxiv|quest|live and let dine}}.
+== Characteristics==
+=== Appearance ===
+Kotokaze is a Midlander Hyur with black hair with half her head shaved, an eyepatch over one eye, and wears a green merchant's haori.
+
+=== Personality ===
+Due to being a bartender of the Shikaze Hostelry, she hears all kinds of gossip and information and tends to eavesdrop on conversations. She may overshare at times and realize she says too much.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Kotokaze is a NPC available for [[Final Fantasy XIV Triple Triad players|Triple Triad matches]] added in patch 4.0. She is located at the Kugane (10.2, 10.1). To challenge her the player needs to complete the Main Scenario Quest {{icon|ffxiv|quest|By the Grace of Lord Lolorito}}.
+
+The match fee is 15 MGP with a reward of 25 MGP for winning. She uses the Match Rule Same. The possible reward for defeating her is {{icon|ffxiv|item|Kotokaze Card}}.
+
+{{Card FFXIV
+|name=Kotokaze
+|image=[[File:Kotokaze Triple Triad Card.png]]
+|number=164
+|total=19
+|type=None
+|description= “We would welcome your custom, miss.”
+|obtain=Won from Kotokaze, Kugane (10.2, 10.1).
+}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

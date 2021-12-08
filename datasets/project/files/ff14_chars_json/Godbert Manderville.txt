@@ -1,0 +1,119 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Godbert Manderville
+|release=FFXIV
+|japanese=ゴッドベルト・マンダヴィル
+|romaji=Goddoberuto Mandaviru
+|lit=Godbert Mandaville
+|aka=Saint of Nymeia
+|image=Godbert_Manderville.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=56<ref>''Encyclopedia Eorzea'', p. 135</ref>
+|dob=
+|affiliation=
+|occupation=Owner of the [[Manderville Gold Saucer]]
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Highlander [[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=Light brown
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|goldsmith}}
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Godbert Manderville''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. A master goldsmith, he had recently acquired a seat on this Syndicate. He is the father of [[Hildibrand Manderville]] and husband to [[Julyan Manderville]].
+
+Godbert is first seen in ''Final Fantasy XIV: A Realm Reborn'' at Camp Bronze Lake as a tourist resting in the hot springs. He features in several sidequests where players may assist him—up to and including rubbing salamander oil over his skin—and giving them a Meteor Survivor Ring in gratitude.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Godbert_Running.png|thumb|Godbert appears in Northern Thanalan.]]
+Godbert's services are needed to repair a priceless antique vase, and he is revealed to be both Hildibrand's father and a member of the Syndicate. Having been seen in Northern Thanalan where he defeated a [[chimera]], Godbert is drawn out when Hildibrand teaches the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to perform the Manderville dance. When Godbert sees his son after years spent apart he suplexes him into the ground for not informing the family of his survival. Godbert agrees to repair the vase, and refurbishes it into an even fancier vase, indignant when the vase's owner points out the vase no longer resembles its original form.
+
+[[File:Gotbert_Hunts_Ultros.png|thumb|left|Gotbert chasing after Ultros.]]
+Godbert crosses paths with his son during the events at Master Fygreis's Coliseum, taking out a chimera and then chasing after [[Ultros]] when he attempts to sneak away. Godbert comes to Hildibrand's aid when the thief appears to be about to steal what is later revealed to be a replica of the Ring of Inquiry, but ends up throwing his son out of the coliseum. When they learn the thief is making for the last item at the Manderville Gold Saucer, Godbert offers his aid but suffers the wrath of his wife Julyan.
+
+Godbert makes a quick cameo in the 2014 Starlight Celebration seasonal event quest and assists the Warrior of Light repair (or rather, craft anew) a boy's broken memento of his father. The boy recognizes the craftsmanship of an highly skilled goldsmith whose works he had seen in his father's books, but fails to recognize its origin and believes it instead to come from the Saint of Nymeia (whom Godbert was disguised as).
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Godbert reappears in [[Ishgard]], conversing with Count [[Edmont de Fortemps]]. He is accused of heresy by [[Cyr Blyme]], but recants the accusation when he realizes he might have to fight it physically, recalling an earlier incident involving the Warrior of Light. Learning that Nashu was searching for Hildebrand, Godbert joins the search for his ever wayward son who was not keeping in touch. Finding Hildebrand half-buried in snow in the Coerthas Western Highlands, Godbert performs the Meteor Dive [[Limit Break (Final Fantasy XIV)|Limit Break]] to wake him up, only to bury him deeper. He's able to pull Hildebrand out a second time, pulling out the manikin Gigi in the process.
+
+Godbert runs across Gigi again after he returns to the Western Highlands in search of the goldsmith, him and Julyan throwing snowballs at each other (and accidentally killing some of the wildlife in the process). Gigi asks Godbert to make him into a real boy, leading to the crafter to turn him into a large, musclebound specimen. He uses his strength to clothesline Hildebrand in affection before his mysterious powers reset him back to normal. After Hildebrand tells Godbert that he adopted Gigi, he is overthrilled at being a grandfather, but the two must run for their lives when Julyan expresses her displeasure by seemingly summoning demonic powers and causing her trademark pan to grow many times its size.
+
+Godbert joins the other heroes in Anyx Trine in rescuing Gigi from the Grand Sers, who seek to kill [[Hraesvelgr]] with their renewed strength. He prevents Julyan from interfering and bears witness to Gigi's true power, causing him to comically lose his clothes again. When Cyr is unhappy he cannot return to Ishgard due to looking up heretical tomes in search of Gigi's origins, Godbert offers to hire him, making him caretaker of Hildebrand's gazebo in Idyllshire.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Godbert crosses paths with the heroes at the Thavnairian Consulate in Kugane along with a Sahjattra Concern Representative. They identify a mysterious powder to be an essential ingredient to create a powerful drug called dewprism, a thimble of which is enough render anyone susceptible to any and all commands.
+
+When Godbert reappears on the Isle of Bekko in the Ruby Sea, he is under the effect of dewprism. He is with the Sahjattra Concern Representative and meets Akebono. Shortly after, Hildibrand comes to try and refresh his memory, but his words fall upon deaf ears. Godbert then swiftly dispatches Shigure, the Wolf Burglar, and Gilgamesh, and then turns on his masters, not discerning friend from foe. Hildibrand meets his father in combat and when he sings the song of his house, it causes his instincts to kick in and perform the Reverse Manderville Meteor Strike and drive his son into the ground.
+
+Godbert makes his formal appearance in the main scenario in ''[[Final Fantasy XIV: Stormblood]]'s'' patch 4.1 quests, in a drastic departure from his comedic portrayal. [[Nanamo Ul Namo]], seeking counsel from him on how to aid the recently-liberated [[Ala Mhigo]], proposes that [[Ul'dah]] spend their wealth on giving the Ala Mhigans shelter and employment. Godbert tells Nanamo to stop, noting that should Ul'dah unconditionally provide to Ala Mhigo, it would not only make them reliant on charity, but would foster resentment among Ul'dah's citizenry. He tells her that she should instead help the Ala Mhigans achieve self-sufficiency, not only helping profit Ul'dah, but would strengthen relations between the two nations.
+
+==Characteristics==
+===Appearance===
+Godbert is a male Highlander [[Hyur]] with snowy white hair and a beard. He wears a red-shaded spectacles and in public usually wears a gray coatee and black boxer shorts, while other times he wears little more than his smallclothes, showing off his muscular build. During Syndicate meetings he wears a cowl. While normally using his brute strength and wrestling skills, Godbert can also use a goldsmith's hammer as his weapon, which he can grow to a size comparable to a warhammer.
+
+===Personality===
+Godbert has "an aura of murderous rage," displaying superhuman strength and speed on occasion and the only person he fears is his wife Julyan. He is also kind, polite, and civic-minded, realizing that the foundation of wealth is built on the prosperity and happiness of an entire community, not just a few. Thus he supports the [[Starlight Celebration]] with funding (albeit anonymously) and runs the [[Manderville Gold Saucer]]—his goal is to bring joy and contentment to the realm as much as it is to attain financial success.
+
+While he's often nearly as much of a comedic stooge as his son, Godbert does not share his son's lack of skill in his chosen profession. While the results are perhaps not always what the client had in mind, Godbert's skill at goldsmithing is prodigious, surpassing even [[Gerolt]]; his skill has formed the backbone of his family's modern fortune.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Godbert appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+<gallery>
+516a Godbert Manderville.png|Godbert Manderville.
+516b Godbert Manderville.png|Godbert Manderville.
+516c Godbert Manderville.png|Godbert Manderville.
+</gallery>
+
+==Behind the scenes==
+If the player finished his sidequests in Camp Bronze Lake before meeting Godbert in the Hildibrand quest, he will recognized them as "he/she of strong yet supple fingers".
+
+Godbert is indirectly mentioned in ''[[Final Fantasy Brave Exvius]]'' in the description of the [[Final Fantasy Brave Exvius accessories#Meteor Survivor Ring|Meteor Survivor Ring]], which refers to him as an "illustrious goldsmith in [[Eorzea]]".
+
+Though he is known as a Goldsmith, his hammer is the kind of those used by [[Armorer (class)|Armorer]]s.
+
+==Gallery==
+<gallery>
+Gotbert_Kills_Chimera.png|Godbert tossing a defeated chimera away with his bare hands.
+FFXIV Suplex.gif|Godbert suplexes his son.
+Godbert's eyes.png|Godbert's eyes.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Goldsmiths]]

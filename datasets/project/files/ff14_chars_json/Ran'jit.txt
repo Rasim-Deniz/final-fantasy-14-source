@@ -1,0 +1,93 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ran'jit
+|release=FFXIV
+|japanese=ランジート
+|romaji=Ranjīto
+|aka=
+|image=FFXIV SH Ran'jit.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Eulmore]]
+|age=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur|Hume]]
+|gender=Male
+|height=
+|weight=
+|hair=Grey
+|eye=Gray
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|monk}}
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Akio Nojima
+|english voice actor=[[Wikipedia:David Rintoul|David Rintoul]]
+|occupation=General of the Eulmoran army}}
+{{Quote|Well, well... The commander of the Eulmoran Army himself. To what do I owe the honor, General Ran'jit?|The Crystal Exarch greeting Ran'jit}}
+'''Ran'jit''' is the tertiary antagonist in ''[[Final Fantasy XIV: Shadowbringers]]''. He is the general of the [[Eulmore|Eulmoran]] army on [[the First]].
+
+==History==
+Being a descendant of Eulmorans who originated from [[the First]]'s version of [[Doma (Final Fantasy XIV)|Doma]], Ran'jit served as Eulmore's general. He led the army against the [[sin eater]]s alongside the incarnations of Minfilia Warde whom he mentored. He became overprotective of his wards and was unable to bear losing the girls. Considering all resistance to the Sin Eaters futile, Ran'jit willingly imprisoned the incarnations after Vauthry rose into power.
+
+Ran'jit serves as an emissary and enforcer when the Warrior of Darkness and the [[Scions of the Seventh Dawn]] pursue the Lightwardens. During his attempts to follow them, using the chase as an excuse to go after the current incarnation of Minfilia known as [[Ryne]], Ran'jit is forced to fall back when his men are dispatched by the fae folk, and later falls in a chasm. He survives and confronts the Warrior, Ryne, and Thancred Waters while they travel south to Nabaath Areng. Furious after Ryne refuses to return with him and is intent to help the Scions, Ran'jit is held back by Thancred as they push each other to their limit before the former runs off.
+
+[[File:FFXIV Ran'jit Last Stand.png|thumb|left|Ran'jit's last stand.]]
+Ran'jit later faces the Warrior of Darkness when they infiltrate Eulmore as Vauthry's last line of defense, revealing himself as a willing servant of the despot while challenging the hero to a battle to the death. Ran'jit dies while hallucinating of being reunited with the Minfilia incarnations he had met throughout his life.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Ran'jit is a tall elderly Hume of [[the First]] with long silver hair, goatee and mustache, gray eyes and pale skin. The center of his face is scarred, evidence of his experience in past battles. Ran'jit wears gray, black and purple garments with gold accessories. 
+
+{{spoiler}}
+During his fight with Thancred and his final battle in [[Eulmore]], he merges with his serpent dragon, giving him crimson armor and garments with a red scythe as a weapon.
+{{Endspoiler}}
+
+===Personality===
+Ran'jit is a bitter, humorless and hardened man who has resigned himself to the perceived inevitable oblivion the First is facing. He believes that man's destiny is doomed, and that only through [[Vauthry]] can they be granted a measure of peace and salvation. This makes him one of the very few to serve Vauthry willingly.
+
+Despite his stoic nature, Ran'jit is a skilled fighter and tactician, respected for his experience and prowess in battle. He is disciplined and perceptive, his instincts being rarely wrong. He is especially fearless and deadly in single combat, willing to fight to the last if it means it would defeat the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]].
+
+Beneath his hardened exterior lie grief and pain over the Oracle of Light. Seeing so many young girls under his charge pass as incarnations of [[Minfilia Warde]] drove Ran'jit into despair. He became overprotective of the girls, unable to bear losing them, and was willing to imprison them to keep them safe. He especially begrudges [[Thancred Waters]], believing him unworthy of the Oracle, but most of all for freeing the current Oracle of Light and giving her hope and resolve of a better tomorrow.
+
+==Gameplay==
+Ran'jit is fought in several [[Quest Battle|Special Instances]] throughout the main scenario of ''[[Final Fantasy XIV: Shadowbringers]]''.
+
+== Behind the scenes ==
+During development Ran'jit was called "assassin grandpa". When Ran'jit forms with his dragon, the dragon becomes his outfit; this form was inspired by Kzinssie, one of the primary antagonists of ''Romancing SaGa 2''. He was developed by the monster team instead of the character team.<ref name="FFXIV">[https://www.twitch.tv/videos/560002409 The Artwork of Final Fantasy XIV: A look Behind the Screen]</ref>
+
+Ran'jit's [[boss]] form alludes to [[Golbez]] as he appeared in ''[[Final Fantasy IV]]'' and ''[[Dissidia Final Fantasy|Dissidia]]'', along with [[Baugauven]] of ''[[Final Fantasy Dimensions]]''. Ran'jit's story is also reminiscent of [[Caius Ballad]] from the ''[[Lightning Saga]]''. Both look after young girls entrusted in their care who are fated to endlessly die and be reincarnated. The majority of their motivations relate to their wards. His occupation as the top general of Eulmore, feared reputation as a warrior, loyalty to a cruel obese leader, use of electric attacks to end his recurring boss battles references General Beatrix albeit Ran'jit is vastly more cynical and antagonistic than Beatrix.
+
+Though initially appearing to be a Monk, Ran'jit's gear and fighting style changes upon becoming one with his dragon familiar, greatly resembling the [[Reaper (Final Fantasy XIV)|Reaper]] job introduced in the following expansion, ''[[Final Fantasy XIV: Endwalker|Endwalker]]''. In addition to wielding a scythe and gaining dragonscale armor—the Reaper shares its armor with Dragoons—he uses the combat animations for the Reaper's Enshrouded mode.
+
+==Gallery==
+<gallery>
+FFXIV Ran'jit 02.png|Ran'jit in [[Lakeland]].
+FFXIV Ran'jit Power.png|Ran'jit in [[Amh Araeng]].
+FFXIV SH Vauthry and Ran'jit.png|Vauthry and Ran'jit.
+FFXIV Ran'jit concept art.jpg|Concept art.
+FFXIV Ran'jit concept 2.jpg|Concept art.
+</gallery>
+
+==Etymology==
+Ran'jit is an alternate spelling of Ranjeet, a composite of ''ran'' (war) and ''jeet'' (victorious) that translates from Sanskrit to "victorious in battle".
+
+== References ==
+{{citations}}
+{{navbox characters FFXIV}}
+
+[[pt-br:Ran'jit]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Hyurs]]
+[[Category:Monks]]

@@ -1,0 +1,162 @@
+{{sideicon|FFVII|FFXIV|FFXV|Type0|TFFCC|TFFASC|PFF|FFAB|Mobius|FFUA|FFTCG}}
+[[File:Knight of the RoundFF7.png|250px|right|Knights of the Round.]]
+'''Knights of the Round''', also known as '''Knights of Round''' {{J|ナイツオブラウンド|Naitsu obu Raundo}}, is a recurring [[Summoned monsters|summon]] in the [[Final Fantasy series|series]]. It is a group of thirteen knights based on the [[#Etymology|Knights of the Round Table from Arthurian legend]].
+
+==Appearances==
+===''[[Final Fantasy VII]]''===
+{{main|Knights of Round (Final Fantasy VII)}}
+Knights of Round is the most powerful [[Summon Materia (Final Fantasy VII)|Summon Materia]]. It can be obtained from [[Round Island]], a hidden [[island]] in the northeast of the [[world map#Final Fantasy VII|map]], only be accessed with a [[Chocobo (Final Fantasy VII)|gold chocobo]], or as part of the [[Master Materia]] set received from the [[Kalm traveler]] after defeating [[Emerald Weapon (Final Fantasy VII)|Emerald Weapon]]. Though the name of the Materia is "Knights of Round" in the menu, when picking the orb up the message calls it "Knights of '''the''' Round".
+
+When [[Summon (command)#Final Fantasy VII|summoned]], thirteen medieval knights attack the enemy party. Knights of Round is a series of 13 individual attacks hitting all enemies with damage that ignores target's defensive stats each time at the cost of 250 [[MP (stat)|MP]]. At its maximum, Knights of Round can do up to 129,987 damage to a single target. It takes one use of Knights of Round to destroy most enemies. The only exceptions are the [[Weapon (Final Fantasy VII creature)|Weapons]], [[Emerald Weapon (Final Fantasy VII)|Emerald]] and [[Ruby Weapon|Ruby]], [[Safer∙Sephiroth|the final boss]], and [[Chocobo (Final Fantasy VII enemy)|chocobos]]. Knights of Round's spell power is equal to 5x the base magic damage.
+
+Though not stated in the game, the final knight is King Arthur {{J|アーサー王|Āsā-ō}} and he has a grander entrance and attack. King Arthur attacks with the weapon [[Excalibur (weapon)|Excalibur]].<ref name="ffviiuo497">{{Refbook|Final Fantasy VII Ultimania Omega|497}}</ref><ref name="ffviiuo497"/> Director [[Yoshinori Kitase]] confirmed that, despite fan theories, the Knights of Round are not the [[Cetra]] sealed away by [[Jenova]].<ref>{{Refwebsite| page url = http://kotaku.com/is-squall-really-dead-final-fantasy-producer-addresses-1800007113| page name = Is Squall Really Dead? Final Fantasy Producer Addresses The Series' Biggest Fan Theories| site url = http://kotaku.com| site name = Kotaku| access time = 17:09, June 23, 2019 (UTC)}}</ref>
+{{clear}}
+
+===''[[Final Fantasy XIV]]''===
+{{Main|Knights of the Round (Final Fantasy XIV)}}
+[[File:FFXIV Knights of the Round Battle.png|thumb|225px|right|The Primal King Thordan and his Knights Twelve.]]
+The Knights of the Round appear as the final boss of ''[[Final Fantasy XIV: Heavensward]]'' in the form of [[Thordan VII]] and the [[Heavens' Ward]] using the power of [[Nidhogg (Final Fantasy XIV)|Nidhogg's]] eye to assume the form of [[King Thordan]] and his Knights Twelve. The Knights Twelve wear armor and use abilities similar to those seen in the ''Final Fantasy VII'' summon. While King Thordan is the main enemy he uses an attack called Knights of the Round to summon the other knights (who then use one of their own moves) and uses [[Ultimate End]] as a last ditch attack.
+
+In addition, Sers [[Adelphel]], [[Grinnaux]], and [[Charibert]], are fought as individual bosses within the [[Vault (Final Fantasy XIV)|Vault]] instanced dungeon.
+
+In the Minstrel's Ballad version of the fight, Thordan uses Knights of the Round in the last phase several times, calling different knights to his aid each time.
+
+Three out of Thirteen members are named "King Thordan I", "Flavien de Fortemps", and "Sylvetrel de Dzemael". The names of the other members remain unknown.
+
+<gallery>
+FFXIV Thordan Painting.png|Painting of King Thordan I and his knights.
+FFXIV Knights of the Round.png|Thordan VII and his knights.
+FFXIV Ultimate End Charging.png|[[#Final Fantasy XIV|King Thordan]] casting [[Ultimate End]].
+</gallery>
+
+===''[[Final Fantasy XV]]''===
+[[File:Lucian-Kings-FFXV.png|thumb|Spirits of the former kings of Lucis.]]
+The Knights of the Round appear in the ''[[Final Fantasy XV Universe]]'' as the [[afterlife|spirits]] of former [[kings of Lucis]]. They reside within the [[Ring of the Lucii]], passing on their powers and knowledge to new kings that inherit the ring, or to whomever they deem worthy of wearing it.
+
+According to the ''Final Fantasy XV Scenario Ultimania'', [[Old Wall|the statues]] were created 2000 years ago to serve as coffins to each hold the soul of a dead king. From these coffins, the kings would await the coming of the "[[True King|Chosen King]]." The statues were also intended to serve as the Wall that protects the kingdom of [[Lucis]].<ref>{{Refwebsite| page url = https://medium.com/@mgarsf/final-fantasy-xv-scenario-ultimania-translation-project-history-of-eos-910f3d0c7c89| page name = Final Fantasy XV Scenario Ultimania Translation Project — History of Eos| site url = https://medium.com/@mgarsf| site name = Medium| access time = 17:09, June 23, 2019 (UTC)}}</ref>
+
+{{Spoiler}}
+In ''[[Kingsglaive: Final Fantasy XV]]'', [[Nyx Ulric]] wears the ring and beseeches the kings of old to lend him their powers so that he may defeat [[Titus Drautos|Glauca]]. The kings agree in exchange for his life. The kings aid Nyx by activating the [[Old Wall]], giant statues that come to life when possessed by the spirit of a king, which fight the giant [[Daemon (Final Fantasy XV)|daemons]] that [[Niflheim]] has set loose on [[Insomnia]].
+
+[[File:Knights-of-the-Round-FFXV.png|thumb|left|The old kings combine their powers in the afterlife.]]
+In ''[[Final Fantasy XV]]'', [[Noctis Lucis Caelum|Noctis]] travels across the world seeking the [[royal arms (Final Fantasy XV)|royal arms]] that belonged to his ancestors, each possessing the power of one of the kings. During Noctis's final battle with [[Ardyn Izunia]], the kings witness their fight beneath the [[Citadel]]. Noctis sits on the throne and summons the kings, who one by one fuse with Noctis and are absorbed by the ring, which kills him. The spirit of his father [[Regis Lucis Caelum|Regis]] delivers the final blow. In [[the beyond]], the kings join Noctis in destroying Ardyn's corrupted spirit, ending the [[Starscourge]] and restoring the light to [[Eos (Final Fantasy XV)|Eos]].
+{{clear}}
+{{Endspoiler}}
+
+===''[[Final Fantasy Type-0]]''===
+In the official novel version, the Knights of the Round appeared as a powerful [[Eidolon (Type-0)|Eidolon]] instead of [[Alexander (summon)#Final Fantasy Type-0|Alexander]]. They are thirteen 30-meter tall warriors in red armor summoned by [[Kurasame Susaya|Kurasame]], who has become a [[l'Cie]] soon after [[Caetuna]] died earlier in the story.
+
+===''[[Theatrhythm Final Fantasy Curtain Call]]''===
+[[File:TFFCC Knights of the Round.png|right|200px]]
+{{Quote|These extraordinary knights sat equal to Arthur, serving in the name of justice. Their incessant blows smash all before them. Their violence and power are the greatest of all summons. There is no opposing them.|CollectaCard}}
+The Knights of the Round appear in the rhythm-action series as the ultimate summon. Only a few characters can naturally call forth the knights, and their signature attack, Ultimate End, deals extreme damage to enemies. Because of the attack's power, failing to get a single Critical trigger in the [[Feature Drive]] will fail to summon the knights. Alternatively, equipping the Knights' Magicite ensures that any character can summon them, and that they'll be summoned successfully.
+
+The characters that can summon the Knights are:
+*''[[Final Fantasy V]]'' - [[Galuf Halm Baldesion/Theatrhythm|Galuf]]
+*''[[Final Fantasy VII]]'' - [[Cloud Strife/Theatrhythm|Cloud]], [[Aerith Gainsborough/Theatrhythm|Aerith]]
+*''[[Final Fantasy IX]]'' - [[Eiko Carol/Theatrhythm|Eiko]]
+*''[[Final Fantasy Tactics]]'' - [[Ramza Beoulve/Theatrhythm|Ramza]]
+
+====''[[Theatrhythm Final Fantasy All-Star Carnival]]''====
+The Knights of the Round return as the ultimate summon, and as before, only a few characters can summon them exclusively. Their signature attack, Ultimate End, deals extreme damage to all monsters present in the music stage.
+
+The following characters that can summon the knights are:
+
+*''[[Final Fantasy II]]'' - [[Emperor Mateus/Theatrhythm|Emperor]]
+*''Final Fantasy V'' - Galuf 
+*''[[Final Fantasy VI]]'' - [[Kefka Palazzo/Theatrhythm|Kefka]]
+*''Final Fantasy VII'' - Cloud, Aerith
+*''Final Fantasy Tactics'' - Ramza
+*''Final Fantasy Type-0 - Kurasame''
+*''Final Fantasy Record Keeper - Tyro''
+
+{{clear}}
+
+===''[[Pictlogica Final Fantasy]]''===
+{{Ability section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Airborne Brigade]]''===
+{{Ability section|Final Fantasy Airborne Brigade}}
+
+===''[[Mobius Final Fantasy]]''===
+[[File:MFF Knights of the Round FFVII.jpg|right|150px]]
+Knights of the Round (FFVII) was a summoned ability card available through the game's Card Summon draw shop. It would allow the player to use the Ultimate Boon ability, which would restore 10% of the user's HP, along with granting [[Bravery (status)|Bravery]], [[Faith (status)|Faith]], and Boost. 
+
+Knights of the Round's card started at rank 3, and could be upgraded to rank 5 through card augmentation. In addition, its Ultimate Boon could be upgraded to level 6, which would drastically reduce the ability's recast cooldown in battle.
+
+Knights of the Round granted the following extra skills and auto-abilities:
+{{multicol-begin}}
+;Extra skills
+*Enhanced Life
+*Lasting Boons
+*Quick Cast
+*Enhanced Boons
+*Extra Life
+*Duration Boost
+{{multicol-separator}}
+;Auto-Abilities
+*Enhance Light +3%
+*Enhance Dark +3%
+{{multicol-end}}
+{{clear}}
+
+===''[[Final Fantasy: Unlimited After]]''===
+The Knights of the Round are summoned by [[Kuroki Kaze|Kaze]] to destroy the Object Novas around the world.
+
+*A bladestorm of bonds, Sword Viridian!
+*The squall of fortitude, Kingdom Blue!
+*And finally, a prideful gale, Warrior Platinum!
+Followed by saying: "Slaughter! I summon you, KNIGHTS OF THE ROUND!"
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:FFTCG PR-104 Knights of the Round.png|right|100px]]
+The Knights of the Round appear on a Shine-elemental card with their ''Theatrhythm Final Fantasy Curtain Call'' artwork.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:489a Knights of the Round FF VII.png|right|131px]]
+Knights of the Round from ''Mobius Final Fantasy'' appear in the Triple Triad playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Merchandise==
+[[File:Jlist ffvii knight fig.png|right|200px|Knights of the Round in the ''Final Fantasy'' Creatures set.]]
+Knights of the Round appear in the [[Final Fantasy Creatures]] range of figurines.
+{{clear}}
+
+==Gallery==
+<gallery>
+Knights of the round ultimania.png|Knights of the Round explained in the ''Ultimania Omega''.
+Knights of the round ultimania2.png|Knights of the Round explained in the ''Ultimania Omega''.
+Knight1-ffvii-KotR.png|The first knight.
+Knight2-ffvii-KotR.png|The second knight.
+Knight3-ffvii-KotR.png|The third knight.
+Knight4-ffvii-KotR.png|The fourth knight.
+Knight5-ffvii-KotR.png|The fifth knight.
+Knight6-ffvii-KotR.png|The sixth knight.
+Knight7-ffvii-KotR.png|The seventh knight.
+Knight8-ffvii-KotR.png|The eighth knight.
+Knight9-ffvii-KotR.png|The ninth knight.
+Knight10-ffvii-KotR.png|The tenth knight.
+Knight11-ffvii-KotR.png|The eleventh knight.
+Knight12-ffvii-KotR.png|The twelfth knight.
+Knight13-ffvii-KotR.png|The thirteenth knight, Arthur.
+FFVII KOTR Arthur Model.png|Arthur with the Excalibur.
+FFVII KOTR Arthur Art.jpg|Concept art of Arthur and the Excalibur.
+PFF Knights of the Round Icon.png|Icon in ''[[Pictlogica Final Fantasy]]''.
+FFAB Ultimate End - Knights of the Round UR+.png|Ultimate End (UR+) ability card in ''[[Final Fantasy Airborne Brigade]]''.
+FFAB Summon Knights of the Round Legend CR.png|Summon Knights of the Round (CR) Legend card in ''Final Fantasy Airborne Brigade''.
+</gallery>
+
+==Etymology==
+{{Etym|Knights of the Round Table}}
+
+==References==
+{{citations}}
+
+{{navbox summons}}
+
+[[de:Ritter der Runde (FFVII)]]
+[[es:Los Caballeros de la Mesa Redonda (Invocación)]]
+[[pt-br:Knights of the Round (invocação)]]
+[[it:Knights of the Round]]
+[[Category:Recurring summons]]

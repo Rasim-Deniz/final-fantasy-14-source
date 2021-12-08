@@ -1,0 +1,111 @@
+{{sideicon|FFXI|FFXIV|PFF|Mobius}}
+{{infobox character
+|name=Iroha
+|release=FFXI
+|japanese=イロハ
+|romaji=Iroha
+|lit=
+|aka=
+|image=FFXI Iroha.jpg
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|affiliation=Reisen Shrine on Reisenjima
+|occupation=Chief priestess
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hume (Final Fantasy XI)|Hume]]
+|gender=Female
+|hair=Brown
+|eye=Brown
+<!--Gameplay details.
+ Adds details for whatever the main release is, unless infobox is used for a subpage.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|dffoo=true
+}}
+'''Iroha''' is the main character of ''[[Final Fantasy XI: Rhapsodies of Vana'diel]]'', which serves as the finale of the storylines of the first fourteen years of ''[[Final Fantasy XI]]''.
+
+== Profile ==
+=== Appearance ===
+Iroha is a [[Hume (Final Fantasy XI)|Hume]] with long brown hair tied in a low ponytail and brown eyes. She wears a white top and robe with red trim as well as black pants. She wears red and gold armor plating on her legs, arms and shoulders. She has a red and gold headband.
+
+=== Personality ===
+{{Section|Final Fantasy XI}}
+
+== Story ==
+{{spoiler}}
+The daughter of [[Tenzen (Final Fantasy XI)|Tenzen]] and Kagero, Iroha is the chief priestess of the Reisen Shrine on Reisenjima and pupil of the [[Adventurer (Final Fantasy XI)|adventurer]]. She was born in a time when almost all of [[Vana'diel]] was consumed by the [[Cloud of Darkness (Final Fantasy XI)|Cloud of Darkness]], and Iroha helped the adventurer and Tenzen mount a final defense on Reisenjima. She witnessed the adventurer become a god of light by expelling their own darkness as it assumed [[Volto Oscuro|physical form]]. Ultimately, the adventurer ceased to be while their counterpart was possessed by the Cloud with Iroha fatally wounded.
+
+Tenzen transfered the [[Phoenix|Phoenix's]] blessing to save Iroha's life, causing her to remain alone in the blackness until a spirit appeared before her and sent her back in time to Vana'diel in 898. Iroha makes her way to Reisenjima to find the adventurer by a rowboat. As she is not under the goddess's protection as a time traveler who came to an age before she was born, it causes time itself to stand against her as it attempts to correct the situation with her death during a storm at the Bastore Sea. Iroha is saved by [[Gilgamesh (Final Fantasy XI)|Gilgamesh]] who brings her to Norg where she finds the adventurer and tells them her story and gives the hero a relic from her shrine, a orb that connects the bearer to the [[Mothercrystal]].
+
+She kneels over but is revived by Phoenix through the lifestream, restoring her physical form, though the resurrection places a strain on her soul. She accompanies the adventurer and Zeid, only to learn that Volto Oscuro and the mind-controlled [[Avatar (Final Fantasy XI)|Avatar]] [[Siren (summon)#Final Fantasy XI|Siren]] had followed her to jump-start the formation of Escha. Iroha uses up most of her power to stop Volto from harming the adventurer before returning to her time and Siren is freed from Oscuro's control. Iroha later returns to the present when the adventurer searches for [[Prishe]], agreeing to meet Tenzen in Jeuno before meeting Prishe. Iroha loses her Phoenix's blessing to Volto Oscuro and fades away. While the blessing is restored by [[Alexander (Final Fantasy XI)|Alexander]], he tells the party that Phoenix's blessing cannot revive her forever, and the only way to save her is with help from [[Cait Sith (Final Fantasy XI)|Cait Sith]]. However, Cait Sith is unable to assist them as Iroha later appears at the coast, encountering the Siren of her time.
+
+After learning what occurred in her absence, Iroha convinces the adventurer to train her. After being told she can be saved from her fate by the goddess [[Altana]] herself, Iroha suggests seeing the [[Kuluu]] at the Temple of Ugglepih for clues to how they can meet the deity. They meet the spirit of [[Grav'iton]], who suggests [[Selh'teus]] may assist them. Oscuro interferes during the metaphysical meeting and drives the attending Avatars away, forcing Iroha to leave the party to capture Oscuro in the Escha version of Ru'Aun so she can conduct a ritual with Siren and her present-day self, Siren Prime. Doing this would destroy Iroha, as the process removes all time-displaced beings. Tenzen stops them at the last second with Kagero talking sense to Iroha while Oscuro escapes with help from [[Balamor]].
+
+Selh'teus is creating a mothercrystal for Reisenjima and would offer his being for its creation. Iroha meets him in the [[Empyreal Paradox]] where she witnesses both the new mothercrystal's creation along with the revelation that Oscuro is a future version of the adventurer. Iroha uses Phoenix's power to save the adventurer from being consumed by Oscuro's darkness, finding herself on Reisenjima. She recuperates in the presence of the mothercrystal that Selh'teus became before the adventurer finds her. She requests aid in driving off the monsters and Naraka that have infested the island.
+
+Once the Naraka are defeated, Iroha reveals what she remembers about the adventurer expelling their darkness and feel s guilty that only she survived. She intends to save the adventurer from their darkness with the light from the orb, and confronts Oscuro in the Ceizak Battlegrounds to force the entity into removing the darkness infused into the adventurer. Iroha is mortally wounded and found by Balamor before the adventurer arrives. She dies about to reveal important information on the orb, and her spirit is taken to the mothercrystal in Reisenjima. When the adventurer returns to the Resienjima Sanctorium to seek Selh'teus's help, Iroha learns of the darkness inside the adventurer and wishes the hero luck in facing [[Shinryu (Final Fantasy XI)|Shinryu]] to have the infused darkness extracted.
+
+When the adventurer returns from the Abyssea, Iroha realizes they sent her back in time to change the events of the Reckoning which birthed Oscuro. Iroha appears after the adventurer and Oscuro rejoin, thus restoring the Reckoning and the flow of the Winds of Time. She is at first delight to know there is a bright future, but then learns the future is unchanged, as the Cloud of Darkness has taken residence within the Reisenjima mothercrystal. She returns to the crystal to fight it and is nearly killed when the adventurer arrives to revitalize Phoenix with the energy provided by the Avatars with Selh'teus adding his power to the restoration as well. Iroha's hair and eyes turn red while she helps the adventurer defeat a fully manifested Cloud of Darkness. Iroha and everyone whom the adventurer touched revive them, and she finds them and brings them to the shrine where the others wait for them. With her mission over, Iroha bids goodbye to the adventurer and returns to her time after giving her mentor a lock of her hair containing Phoenix's blessing.
+{{endspoiler}}
+
+== Other appearances ==
+=== ''[[Aloha Iroha]]'' ===
+[[File:Aloha_Iroha.png|thumb|Iroha in the manga.]]
+Iroha appears in the series of four-panel manga illustrated by Tomokichi.
+{{clear}}
+
+=== ''[[Final Fantasy XIV]]'' ===
+[[File:FFXIV Iroha.png|thumb|Iroha.]]
+Iroha appeared during the "A Maiden's Rhapsody" event in 2015, and again when the event was repeated in 2017 and 2020. She has mysteriously awoken in [[Eorzea]] near [[Eastern La Noscea|Costa del Sol]] after the events of ''Rhapsodies of Vana'diel'', with only vague memories of her past. She is found by a reporter from [[Limsa Lominsa]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], the latter of whom agrees to help train Iroha to master the technique Amatsu: Kyori, in hopes that it might jog her memory. While journeying around the world to complete certain [[Full Active Time Event|FATEs]], she regains her memories and masters Amatsu: Kyori.
+
+Iroha recounts her past and the events of ''Final Fantasy XI'', and tells the Warrior of Light that they remind her of her [[Adventurer (Final Fantasy XI)|Master]]. Convinced that her adventures in Eorzea are but a dream, she closes her eyes, resolved to awaken once more in Vana'diel. When she opens her eyes again to find herself still in Limsa Lominsa, she believes it is the will of the Goddess Altana for her to remain in Eorzea. She resolves to continue her training until one day she can return home.
+{{Clear}}
+
+===''[[Dissidia Final Fantasy Opera Omnia]]''===
+{{main|Iroha (Opera Omnia)}}
+[[File:DFFOO Iroha.png|right|120px]]
+Iroha appears as a playable character.
+{{clear}}
+
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Iroha Illust.png|Portrait.
+PFF Iroha.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+{{clear}}
+
+===''[[Mobius Final Fantasy]]''===
+[[File:MFF Iroha FFXI.jpg|right|150px]]
+{{Section|Mobius Final Fantasy}}
+{{clear}}
+
+== Gallery==
+<gallery>
+FFXI Rhapsodies of Vana'diel Artwork.jpg|Iroha in the promotional artwork of ''Rhapsodies of Vana'diel''.
+FFXI Iroha.png|In-game model.
+</gallery>
+
+==Etymology==
+{{Etym|Iroha}}
+
+{{navbox characters FFXI}}
+{{navbox characters FFXIV}}
+
+
+[[es:Iroha]]
+[[Category:Characters in Final Fantasy XI]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Samurai]]
+[[Category:Hume in Final Fantasy XI]]

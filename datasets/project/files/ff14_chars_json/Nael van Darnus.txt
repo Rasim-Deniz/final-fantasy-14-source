@@ -1,0 +1,266 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{infobox character
+|name=Nael van Darnus
+|release=FFXIV
+|japanese=ネール・ヴァン・ダーナス
+|romaji=Nēru van Dānasu
+|lit=
+|aka=The White Raven, Legatus Darnus, Nael deus Darnus, Eula Darnus
+|image=NaelVanDarnus.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=38
+|dob=
+|affiliation=[[Garlean Empire]]
+|occupation=Legatus of the [[VIIth Imperial Legion]]
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Garlean]]
+|gender=Female{{foot|Game uses male pronouns in English}}
+|height=
+|weight=
+|hair=White
+|eye=White
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job={{icon|ffxiv|discipline|lancer}}
+|abilities=
+|limit break=
+|weapon=Bradamante
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=Nael Van Darnus (boss)
+|final boss page=Nael Deus Darnus/Legacy
+|superboss page=The Second Coil of Bahamut - Turn 4
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+{{Quote|The hour of cleansing is at hand—by my searing light shall the world be purged of its taint.|Nael van Darnus}}
+'''Nael van Darnus''', also known as '''The White Raven''' {{J|白銀の凶鳥|Hakugin no Kyōchō|Silver Wicked Bird}}, is the main antagonist of the original ''[[Final Fantasy XIV]]'' storyline. Legatus of the [[VIIth Imperial Legion]] dispatched to the western front, and boasting a distinguished parentage from his late father, a founding figure of the [[Garlean Empire]], and a descendant of the ancient [[Allagan Empire|Allagan civilization]].
+
+The true identity of "Nael" is later revealed to be '''Eula Darnus''', the real Nael's younger sister, who had been assuming identity of her late brother following his premature death.
+
+==History==
+=== Early life ===
+Born in [[Garlemald (location)|Garlemald]] as Eula Darnus, she was the eldest daughter of the House Darnus and the heir to her family's secrets of the Allagan Empire. Eula dreamed of becoming a chirurgeon, a regular position of a Garlean lady of her parentage. She followed her elder brother, Nael, into the imperial army, but her dream died when Nael returned home mortally wounded on what he claimed to be an ill-conceived mission their father ordered. Eula was unable to save her brother and, stricken with grief, she assassinated her father, making it appear as if he perished to a disease.
+
+Eula took the name and life of her late brother and rose to power, becoming Legatus in his stead. The first thing "Nael" did was to publicly execute their father's officers and guard. Rumors started to spread through Garlemald that Nael had a hand in his father's demise. However, where most Garlean leaders would condemn such behavior from their elite, Emperor [[Emet-Selch|Solus zos Galvus]] saw in Nael potential for someone who would let nothing stand to reach their goals.
+
+=== Project Meteor ===
+Ten years before the events of the original game, Nael started to investigate Allagan knowledge to solve the problem of subjugating rival nations. After restoring an old Allagan artefact kept by House Darnus, Nael saw it was capable of interacting with the lesser moon Dalamud. Nael wanted the Empire to study the lunar transmitter to recreate the forgotten spell "Meteor". The emperor approved the project and the artefact was studied in the near-eastern Bozja Citadel where the first attempt to summon Dalamud took place. The experiment wiped out the Citadel and its inhabitants in what would come to be known as the [[Bozja Incident]]. Nael witnessed the event from afar, which damaged her already broken sanity further.
+
+After Bozja's destruction Nael tried to explain to the emperor that the incident had advanced the project and that the fall of Dalamud could be controlled so it wouldn't be a threat to the Empire. However, the emperor canceled Project Meteor and deployed van Darnus' VIIth Legion to stations in the eastern theater.
+
+In the year 1572 of the Sixth Astral Era, after the Empire's failure at the [[Battle of Silvertear Skies]], Nael van Darnus, now commonly known as the White Raven, returned from the eastern theater claiming to have discovered a way to control Dalamud's fall. Nael wanted to summon the red moon on Eorzea to purify it from the massive [[beastmen]] rituals to summon their [[primal]]s. Though the project wasn't seen with good eyes by many in the Empire, the emperor resurrected it, unknowing Nael's plans with the moon, being the only one to know what Dalamud would actually bring.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV Nael Shooting.png|thumb|Nael about to attack the adventurer.]]
+After being sent to Eorzea with her VIIth Legion, the White Raven visited some camps to warn adventurers about false prophets known as Archons after learning how a man called [[Urianger Augurelt|Urianger]] was foreshadowing the upcoming Calamity. Nael met the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] who had defeated [[Ifrit (Final Fantasy XIV)|Ifrit]], asking for their name for being victorious over a [[primal]]. After claiming the changes on Dalamud were of imperial doing for the land's betterment, Darnus saw the Warrior and their party were not interested in joining the imperial cause. The Legatus drained the energy of a close aetherial gate using Bradamante and shot it towards the party who escaped before the unleashed energy destroyed the gate.
+
+The Warrior of Light used the [[Echo (Final Fantasy XIV)|Echo]] to view a memory of a Gridanian soldier's past, whom Darnus silenced for eavesdropping in a conversation between herself and [[Gaius van Baelsar]]. Nael attempted to convince Gaius that conquering Eorzea was not enough to stop the primals; the forbidden Allagan magic [[Meteor (Final Fantasy XIV)|Meteor]] should be cast upon the land to purge them. Gaius disagreed due to the unpredictable nature of Dalamud until Nael claimed to find the three tomestones needed to fully control the Meteor spell.
+
+In the aftermath of [[Garuda (Final Fantasy XIV)|Garuda's]] defeat, Darnus revealed that the primals' deaths were the key to accessing Dalamud's power, while letting the Warrior of Light live long enough to destroy the other primals.
+
+[[File:FFXIV Nael Flames.jpg|thumb|left|Nael takes her leave from Castrum Novus.]]
+After the construction of the imperial fortress [[Mor Dhona#Castrum Novum|Castrum Novum]] the lunar transmitter needed to call Dalamud upon Eorzea was placed inside it and activated. Due to the efforts of the [[Grand Company|Grand Companies]] and several adventurers, the device was destroyed. Filled with rage, Nael defeated the group and was engulfed in crimson light, the power of Dalamud itself, and claimed to not need the lunar transmitter anymore. Nael continued her attack, leaving the adventurer group wounded before walking away through the flames, saying she still has the means to purify Eorzea with the powers of Dalamud.
+
+The Grand Companies tracked down Nael's location on Rivenroad, a floating ruins from Ancient Allag near Camp Glory. An attack group was sent where Nael was using the floating island as an altar. Before the party arrived to Rivenroad on the ''Enterprise'', Nael sent fiery rocks raining from Dalamud to the countryside.
+
+{{Quote|This land is fit for but one thing...''purification!'' ...And for that would I gladly offer up both body and soul.|Nael van Darnus}}
+Hoping to annihilate the adventurers as sacrificial offerings for Dalamud, Nael confronted them. After a fierce battle Nael was defeated and bathed in Dalamud's light for more power, losing what was left of her mind and becoming a [[Nael Deus Darnus/Legacy|being of pure hatred and destruction]]. Even owning Dalamud's power, Nael was defeated and, as her last gesture in life, she manifested her devotion to the red moon before her body became pure aetherial energy and disappeared into wisps of light, leaving her gunhalberd Bradamante behind.
+
+{{Quote|The hour is come. Receive of me the gift of purity.|Nael deus Darnus}}
+[[File:Nael's nightmare.png|thumb|Nael about to kill the Warrior of Light in a nightmare.]]
+After her death Nael's shadow haunted the Warrior of Light, appearing in their nightmares, in which she killed both Garlean and Eorzean soldiers, including the [[Circle of Knowing]] and the leaders of the Eorzean Alliance before killing the Warrior him/herself. In the final days of the Sixth Astral Era, hordes of powerful monsters started to appear through all Eorzea, even within the city-states. Some of these creatures were [[voidsent]] copies of the fallen Nael van Darnus.
+
+Dalamud continued its descend until primal Bahamut broke free from the inside at the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]], unleashing over Eorzea the wide-spread destruction known as the Seventh Calamity.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|Nael...van...Darnus? Ah... That was the name of the fool who perished upon the eve of the promised age of glory. It should not be uttered within these hallowed halls. Out of love for His loyal servant, the one true deity named me Nael deus Darnus. O Lord Bahamut! Thy name is as sweet water to parched lips! How my heart swells at Thy sacred touch! This blessed sanctum is the domain of my god and His beloved children. Seek to defile its glory, and you will answer to me.|Nael deus Darnus}}
+[[File:Turn 5 Louisoix and Nael.png|thumb|Nael deus Darnus and Louisoix observing Bahamut's head.]]
+Nael deus Darnus was resurrected when the nearly destroyed Bahamut took her essence and recreated her to serve him as a guardian within the Binding Coil. Five years after the Calamity, Darnus's gunhalberd Bradamante was found by [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]], but it was stolen by what Gilgamesh described as "a demon bird", referring to Nael. Gilgamesh found a counterfeit version while Nael returned to the Binding Coil of Bahamut with her Bradamante.
+
+During the Warrior of Light's assistance in [[Alisaie Leveilleur|Alisaie's]] investigation in the first part of the Binding Coil of Bahamut, they witness Darnus alongside the late Archon [[Louisoix Leveilleur|Louisoix]] observing the head of Bahamut together, but the White Raven's figure seems to go unnoticed by Alisaie.
+
+When the Warrior of Light and Alisaie arrive in the Outer Coil, they encounter Nael waiting behind the entrance gate. Nael reveals the "original" Nael van Darnus perished on Rivenroad upon the eve of the Calamity, and that her body is but a shell Bahamut put his influence into, naming her Nael deus Darnus. Nael warns the party that should they venture deeper in the Second Coil they will have to answer to her. Nael jumps off the ledge of the entrance and disappears into the depths of the dungeon.
+
+[[File:Nael Bahamut Transformation.png|thumb|left|Nael deus Darnus transformed.]]
+Upon arriving to the Holocharts, Alisaie and the Warrior of Light are surprised to see Dalamud in the sky and find themselves at Rivenroad's floating island where deus Darnus awaits them. Telling them that their presence is an insult to her original self's resting place, deus Darnus threatens to kill them. Alisaie knocks the Legatus's helmet off with a [[Ruin (ability)|ruin]] spell, revealing Nael's face as a white-haired woman bearing the Garlean birthmark, showing that Bahamut based Nael on her original appearance as Eula when recreating her. Deus Darnus reveals the events that led to her resurrection, being an artificial being created by Bahamut with elements from her memory taken from what remained of the "original" Nael. In maddened glee, deus Darnus transforms into a wyrm-like monster and summons Bradamante to fight the Warrior of Light.
+
+[[File:Nael Impaled.png|thumb|Nael is killed by Louisoix after her defeat.]]
+Following her defeat, Nael regains her will though her affected sanity makes her confused and not recognize her own body. Alisaie believes that said female body is a manifestation of "his" memories from someone from the past. After seeing she was enslaved by Bahamut, Nael curses her weakness for succumbing to the very power she had been trying to purge from the world, but she makes clear that Project Meteor had been solely her idea. Once Alisaie introduces herself as Louisoix's granddaughter, much to her surprise, Eula warns her to steel herself if she wants to learn the truth that awaits her, and not crumble under the weight of her despair as Nael did as a child. Louisoix slays Nael with a spear of light to silence her. In her final moments Nael sees an image of Dalamud, the symbol of the plan that ultimately cost her her life, but still marvels at its beauty.
+
+{{Quote|My crimson moon... Your brilliance sears mine eyes...|Nael van Darnus's last words}}
+<!--During the events of patch 2.3 Defenders of Eorzea, it is revealed that-->Ancient [[Allag]]'s most destructive weapon, [[Omega (Final Fantasy XIV)|Omega]], was buried below the [[Carteneau Flats]]. [[Raubahn Aldynn]] speculates the reason Nael van Darnus chose that place to bring Dalamud down was to ensure the destruction of the only weapon that could have stopped her.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Ruby Weapon transformation.png|thumb|A manifestation of Nael emerges from the [[Ruby Weapon]].]]
+Despite her death and the massive destruction of the VIIth Imperial Legion at end of the Sixth Astral Era, Garlemald reformed the legion after the fall of the [[XIVth Imperial Legion]] at the [[Praetorium]] to work on the development of new [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]-like projects, which host synthetic [[auracite]]s with skilled Garlean soldiers' data within.
+
+The first prototype, the [[Ruby Weapon]], is also known by the code name "Darnus", hosting Nael's data in its core auracite. After the Warrior of Light defeats the Ruby Weapon, its pilot, [[Milisandia]], initiates the Oversoul process, making the auracite transform her into a manifestation of the fallen Legatus. She is possessed by the memories and feelings of the formerly-known Eula, making even some references to the real Nael, but is finally destroyed by the Warrior of Light.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Eula Darnus was a Garlean of high stature with fair skin, light blue eyes, and long white hair. As a pureblood Garlean, she possesses a "third eye" on her forehead.
+
+As Nael van Darnus, she wears a silver full-body armor styled after Near and Middle Eastern clothing with a horned skull-like helmet concealing her face, all similar to Garlean armor. Darnus's armor resembles those worn by the [[Archadian Judges]] of ''[[Final Fantasy XII]]'', and in particular, [[Gabranth]]'s. The upper part of the helmet has a design similar to a white raven with open wings, creature which inspired her nickname. When influenced by [[Dalamud]] (and later by [[Bahamut (Final Fantasy XIV)|Bahamut]]), Nael's eyes glow crimson. She carries her gunhalberd on her back.
+[[File:FFXIV Nael deus Darnus render.jpg|right|250px|thumb|Nael deus Darnus in ''A Realm Reborn''.]]
+After becoming Nael deus Darnus on the Holocharts she turns wyrm-like due to Bahamut's influence, getting wings and claws. Nael still keeps a humanoid part, showing her original face and a female body structure. She has purple skin and wings with golden details. She wears a tiara and her eyes are red while the Garlean eye is glowing.
+
+===Personality===
+{{Quote|Opposition must needs be put down with fire and steel.|Nael's motto}}
+Believed to be a man by everyone, Nael is ruthless even to her own people in part because of her descent into insanity, becoming an imposing figure and feared by many. She considers all beliefs as pagan ideals, showing devotion only to the lesser [[moon]] Dalamud, believing that the Empire's movement against [[Eorzea]] is of its divine intervention to purge the world. Nael considers herself the world’s salvation, seeing a potential light from nothingness.
+
+[[File:Nael van Darnus FFXIV Art 3.jpg|right|180px|thumb|Artwork of Nael van Darnus.]]
+Despite belonging to the Garlean Empire, Nael draws no distinction between friend nor enemy when met with opposition, looking everyone from high and seeing all as fools, even her own [[Emet-Selch|emperor]]. Nael enjoys theatrical mannerisms, using noble gestures while talking to those she considers inferior. The deaths of both the real Nael Darnus and Bradamante still torture the formerly-known Eula, who named herself and her weapon after them in an effort to make their names remembered at the cost of her own identity. In her suffering, she curses her own father for being the one who shattered their lives.
+
+===Abilities===
+Being one of the Garlean Legatus, Nael is one of the Empire's most accomplished warriors. She is a skilled [[Dragoon (Final Fantasy XIV)|Lancer]], having access to two of its strongest [[Final Fantasy XI weapon skills|weapon skill]]s. Her gunhalberd can drain the [[aether]] from an aetherial node and shoot it as a high energy beam. Darnus can teleport short distances without needing to attune with an [[Aetheryte]].
+
+She carries a [[Gunblade (weapon type)|gunhalberd]] named Bradamante, said to be named after a warrior maiden she had killed, while in truth it is named for the real Nael's fiancée, who impaled herself on the weapon after his death.
+
+After being powered by Dalamud, Darnus gained the ability to absorb other beings' life energy and to animate stone golems. During the final battle, she could alter the aether flux around Rivenroad to capture fragments of Dalamud and attract them to it as small meteors. By activating the ruins' magicked glyphs she gained the ability to unleash a devastating [[Megaflare|energy beam over the entire area]]; Nael deus Darnus being able to use Megaflare alludes to Dalamud imprisoning [[Bahamut]].
+
+==Gameplay==
+===Boss===
+{{See|Rivenroad|Second Coil of Bahamut - Turn 4|Unending Coil of Bahamut}}
+[[File:FFXIV Nael van Darnus Battle.jpg|thumb|right|Nael van Darnus as a boss in 1.0.]]
+Nael van Darnus was fought as the final boss of the [[Seventh Umbral Era]] storyline from the [[Final Fantasy XIV/Legacy|original version of ''Final Fantasy XIV'']]. After losing the first fight, she was powered up by Dalamud and gained access to new abilities as '''Nael deus Darnus''' {{J|ネール・デウス・ダーナス|Nēru Deusu Dānasu}}. After clearing the main storyline final fight, the player could fight a harder version of Nael van Darnus.
+
+After the Final Save maintenance on October 2012, powerful copies of Nael van Darnus started to appear among other high-level monsters at random through Eorzea, which needed cooperation of dozens of players to be defeated.
+
+In ''A Realm Reborn'', a resurrected Nael deus Darnus is confronted as the final boss of the [[Second Coil of Bahamut]]. Players who clear this high-end raid can unlock a savage version of the fight. In ''[[Final Fantasy XIV: Stormblood]]'', Nael deus Darnus is a boss in the [[Unending Coil of Bahamut]] ultimate raid.
+
+In ''Shadowbringers'', the second phase of the [[Cinder Drift]]'s trial against the [[Ruby Weapon]] shows a manifestation of Nael van Darnus, getting many of her skills and abilities. Players who clear this trial can unlock an extreme version of the fight.
+
+Nael is currently one of the most recurrent bosses in ''[[Final Fantasy XIV]]'', being fought on five occasions (seven if one counts the two modes of [[Rivenroad]]'s instance from 1.0). He shares this with [[Zenos yae Galvus]], who is also fought in five occasions (seven counting the two modes of the [[Royal Menagerie]]'s trial).
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Nael van Darnus
+|image = [[File:FFXIV TT Nael van Darnus.png]]
+|number = 9 3 9 3
+|total = 24
+|type = Garlean
+|description = "The hour of cleansing is at hand—by my searing light shall the world be purged of its taint."
+|obtain = Won from Flichoirel the Lordling, The Battlehall (3,3).
+}}
+
+===Other===
+
+[[File:FFXIV White Ravens Earrings.png|A player with the White Ravens earrings.|thumb]]
+The "White Ravens" earrings are based on the "wings" from Nael's helmet. These were available for 1.0 players who completed [[Nael Van Darnus (boss)|Rivenroad (Hard)]], and once again as a reward from [[The Rising|The Rising 2018]]. In 2019, a replica of the earrings were included in [[Mog Station]]. The earrings are said to be commissioned by the Adventurers' Guild to celebrate the fifth anniversary of the Calamity.
+{{clear}}
+
+==Musical themes==
+{{audio|filename=FFXIV Nael Second Phase.ogg|title="Rise of the White Raven"}}
+Nael van Darnus's leitmotif is "Meteor", played during her appearances, such as the conversation with Gaius van Baelsar, or when she injured the player upon the lunar transmitter's destruction. The theme reprises for her appearances in the Second Coil of Bahamut, sharing it with other antagonists in ''Stormblood''.
+
+Nael has two battle themes, each played during a stage of the final battle. "Tempest" is a rock-like variation of Nael's theme, played during the first stage of the battle. "[[Rise of the White Raven]]" is the theme of the battle's second stage, played after she loses her sanity from absorbing too much of Dalamud's power and becomes Nael deus Darnus. Both themes reappear when the player engages Nael deus Darnus in the Second Coil of Bahamut in ''A Realm Reborn''.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:Nael TCG.png|right|100px]]
+Nael appears with a dark-elemental card depicting her official render.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Nael appears as a [[Triple Triad (Portal App) cards/Final Fantasy XIV series|card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''. The card is based on the one from ''Final Fantasy XIV'', showing her wyrm-like appearance.
+
+It is obtainable at [[Y'shtola Rhul|Y'shtola]] hard mode challenge.
+
+<gallery>
+602a Nael van Darnus.png|Nael van Darnus.
+602b Nael van Darnus.png|Nael van Darnus.
+602c Nael van Darnus.png|Nael van Darnus.
+</gallery>
+{{clear}}
+
+==Behind the scenes==
+[[File:FFXIV Nael Van Darnus.jpg|150px|thumb|right|Nael's original appearance as "Legatus Darnus", a gamemaster character.]]
+Once it was decided that ''Final Fantasy XIV'' would be closed and reworked into ''A Realm Reborn'', the original version started the Seventh Umbral Era storyline, which would justify in the lore the game's closure until its relaunch. A new enemy was introduced as the main antagonist of the original version: Nael van Darnus.
+
+Nael was first mentioned in patch 1.18, though he appeared by then as a gamemaster-controlled character called "Legatus Darnus" alongside other gamemasters known as "Tribunus Luscus" and "Tribunus Atilus", telling the players to aid him to find and capture [[Urianger Augurelt]] whom he declared a false prophet. Nael appeared as a [[non-player character]] for the main scenario by first time in patch 1.19, being introduced as the main antagonist.
+
+Before Nael's face was revealed, her race was never stated in-game. Many players believed she was an [[Elezen]] due to her height, mannerisms, and bowing gesture, which is similar to the Elezen bow emote. [[:File:Nael Model Render.png|Nael's model in-game]] is actually an Elezen one, just like the majority of the Garlean armored characters'. Nael has two in-game models. Both are male Elezen, but of different tribes: one being Wildwood and other being Duskwight. Body proportions are the same.
+
+===Gender===
+Nael's gender was treated differently depending on the language. Since 1.0 Nael appeared using a male Elezen in-game model, one of the reasons she was considered as a male, getting a swap-face when removing her mask.
+
+[[File:NaelDeusDarnus Unmasked.png|thumb|left|Eula Darnus, the original identity of Nael van Darnus.]]
+In the Japanese version the lack of voice acting and gendered pronouns in 1.0 left Nael's gender a mystery that wasn't revealed until she removed her mask in ''A Realm Reborn''. In this version, after her defeat she recovers her sanity and identifies herself as female.
+
+The English version had to use gendered pronouns and the localization team chose to use male terms making Nael's face reveal a bizarre twist that went unexplained until the reveal of her identity as Eula Darnus nearly two years later. Unlike the Japanese version, Nael doesn't recover her sanity completely after her defeat, so she doesn't recognize her female body, making Alisaie to believe the body is product of "his" memories modeled by Bahamut.
+
+According to ''FFXIV A Realm Reborn - The Art of Eorzea - Another Dawn -'' (released in 2014) the developers chose her to look like a female Elezen model.<ref>https://66.media.tumblr.com/c244c4acfb7d1a42e550d4a160e260ac/105d657931d6ac12-4a/s640x960/b3cb025c5982d93eff55e6088dc133937b6d7ad0.jpg</ref>
+
+==Gallery==
+;Renders and artworks
+<gallery>
+Nael and Bahamut.png|Nael and Bahamut artwork.
+Nael Model Render.png|In-game model.
+Nael van Darnus FFXIV Art 2.jpg|Van Darnus artwork.
+Nael van Darnus FFXIV Art 4.jpg|Artwork.
+Nael Van Darnus Profile.png|Nael's profile.
+</gallery>
+
+;Screenshots
+<gallery>
+Nael red eyes.png|Nael's glowing red eyes.
+FFXIV Nael Deus Darnus.jpg|Nael deus Darnus in 1.0.
+FFXIV Nael and Gaius.png|Nael and [[Gaius van Baelsar|Gaius]] talk about what Project Meteor would bring.
+DeusDarnusDefeated.png|Nael deus Darnus's last moment.
+Adventurer Encounters Deus Darnus.png|The Warrior of Light and Alisaie encounter Nael deus Darnus.
+FFXIV Nael deus Darnus SCoB4.png|Nael deus Darnus in Second Coil of Bahamut 4.
+FFXIV Ruby Weapon 02.png|Nael returns as the pilot of Ruby Weapon.
+</gallery>
+
+==Etymology==
+"Nael" is a name of Arabic origin meaning "triumph". "Van" is based on German word ''von'' which means "from", but is also used to show that someone is a member of a noble family. ''Van'' is also the Dutch word for "from".
+
+"Eula" is a shorter form of "Eulalia," a name of Greek origin meaning "sacred red", perhaps chosen due to Nael's connection with Dalamud. [[w:c:redwall:Eulalia|Eulalia]] is also a battle cry in the bookseries ''[[w:c:redwall|Redwall]]'', which also means "triumph" or "victory."
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}[[es:Nael van Darnus]]
+[[fr:Nael van Darnus]]
+[[pt-br:Nael van Darnus]]
+[[Category:Antagonists|Darnus, Nael]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragoons]]
+[[Category:Garleans]]
+[[Category:Garlean citizens]]

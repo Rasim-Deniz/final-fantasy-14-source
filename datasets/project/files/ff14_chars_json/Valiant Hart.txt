@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Valiant Hart
+|release=FFXIV
+|japanese=ヴァリアント・ハート
+|romaji=Varianto Hāto
+|image=FFXIV Valiant Hart.png
+|race=[[Roegadyn]]
+|gender=Male
+|home=
+|type=npc
+|affiliation=
+|occupation=
+|lit=Valiant Heart
+}}
+'''Valiant Hart''' is a character from ''[[Final Fantasy XIV]]''. He is in search of [[Lalafuto III]]'s legendary treasure and the main character in {{icon|ffxiv|quest|The Greatest Story Never Told}} quest.
+
+==History==
+Valiant Hart asked the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to help locate the secret treasure of [[Lalafuto III]] which is supposedly worth a hundred million gil. To that end, it would be necessary to solve a series of puzzles hidden in a coded message, which was written by the famous explorer Winebaud.
+
+As the Warrior of Light decipher the riddles, through unknown methods the Warrior began to receive a message from the late Winebaud. After each enigma, Winebaud praises his efforts to seek the truth and shares a verse of poetry for unknown reasons.
+
+Valiant is confused by the growing complexity of Winebaud's enigmas, as well as his propensity to reward him with poetic verses.
+
+After the Warrior of Light found the treasure, Valiant Hart snatches it from the Warrior of Light, but unfortunately for Valiant the "treasure" that Winebaud spoke of was a collection of love poems written by Lalafuto III for his lover, with whom the sultan wished to escape. His search for phenomenal wealth ended in total failure with Valiant Hart screaming in rage and cursing the explorer who valued true love above all else.
+
+==Characteristics==
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

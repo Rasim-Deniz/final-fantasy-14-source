@@ -1,0 +1,13 @@
+numpy
+pandas
+networkx
+fa2
+igraph
+seaborn
+matplotlib
+wordcloud
+powerlaw
+nltk
+community
+vaderSentiment
+python-louvain

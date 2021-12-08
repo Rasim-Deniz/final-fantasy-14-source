@@ -1,0 +1,267 @@
+{{sideicon|prime=FFXIV|FFRK|FFTCG}}
+{{infobox character
+|name=Gaius van Baelsar
+|release=FFXIV
+|japanese=ガイウス・ヴァン・バエサル
+|romaji=Gaiusu Van Baesaru
+|lit=Gaius van Baesar
+|aka=The Black Wolf, Shadowhunter, Gaius Baelsar, Menacing Mercenary
+|image=Gaius van Baelsar from Final Fantasy XIV.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=56
+|dob=
+|affiliation=[[Garlean Empire]] (''A Realm Reborn'')<br/>[[XIVth Imperial Legion]] (''A Realm Reborn'')<br/>Werlyt Revolutionaries (''Shadowbringers'')
+|occupation=Legatus legionis (''A Realm Reborn'')<br/>Mercenary (''Stormblood'')
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Garlean]]
+|gender=Male
+|height=
+|weight=
+|hair=Dark Brown
+|eye=Pale Yellow
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job=
+|abilities=
+|limit break=
+|weapon=[[Gunblade (weapon type)|Heirsbane]]
+|armor=
+|ultimate weapon=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Akio Ōtsuka
+|english voice actor=[[Richard Epcar]] (''A Realm Reborn'')<br>[[wikipedia:Michael McElhatton|Michael McElhatton]] (''Stormblood'' onwards)
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=
+|final boss page=
+|superboss page=
+}}
+{{Quote|Unworthy is the ruler whose subjects seek the solace of false gods.|Gaius van Baelsar}}
+'''Gaius van Baelsar''', also known as '''The Black Wolf''' {{J|漆黒の王狼|Shikkoku no Ōrō|The Black Wolf King}}, is a non-playable character in ''[[Final Fantasy XIV]]''. He is a legatus legionis within the [[Garlean Empire]]'s army, serving as one of the generals leading the [[Garlean campaign|invasion into Eorzea]]. Gaius initially appeared as a minor antagonist during the launch of the [[Final Fantasy XIV/Legacy|original ''Final Fantasy XIV'']]. He serves a larger role in ''[[Final Fantasy XIV: A Realm Reborn]]'' as one of its primary antagonists. 
+
+Gaius believes that it's the duty of the strong to shepherd the weak, and respects those he deems competent regardless of their station. While considered more forward-thinking than his Garlean peers in his opposition to senseless devastation and [[Black Rose (Final Fantasy XIV)|indiscriminate methods of war]], his stewardship over [[Ala Mhigo]] was nevertheless characterized by brutal oppression of its native peoples. He is an accomplished general whom both enemy and ally alike cannot help but respect.
+
+==History==
+===Early life===
+Born in Garlemald, Gaius served in many campaigns under his Majesty Solus zos Galvus as tribunus angusticlavius of the XIth Legion. Through his exemplary leadership, cunning and combat ability, Gaius earned the rank of legatus of the newly formed XIVth Imperial Legion, becoming the emperor's favorite legatus and being known as the Black Wolf. He displayed his loyalty by seeing to the slaughter of nine usurpers, a deed that earned his blade the moniker Heirsbane. Due to his years of dedicated service Gaius was charged with conquering the subcontinent of Eorzea and bringing it under Garlemald's banner.
+
+Through subterfuge Gaius turned the populace of Ala Mhigo against their king and struck when the city defenses began to crumble at the prospect of civil war, allowing him to capture the city with minimal bloodshed. Gaius earned renown among Eorzea due to his abilities as a commander and his sensibilities as governing administrator by ruling the conquered stronghold as an Imperial Viceroy. He provided Ala Mhigans, like [[Fordola rem Lupis]], honorary citizenship within the Empire in return for militant service.
+
+[[File:Ff14-midgardsormr.jpg|thumb|right|The wreckage that signifies the halt of the Imperial invasion.]]
+Gaius's conquest drew to a halt after the attack on Silver Tear Falls when the XIVth Airship Fleet was destroyed in a conflict with the dragonkin and their leader, the great wyrm [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]]. By killing the great dragon the Empire had broken the magical seal preventing the [[primal]]s from being summoned. Unwilling to risk further casualties by angering the [[Beastmen|beast tribes]] and their gods, Gaius and his legion retreated to Ala Mhigo.
+
+Losing the confidence of his liege, the emperor was swayed by the plans of another legatus, Nael van Darnus, who sought to destroy Eorzea and the primals with it by casting the ancient Allagan spell, Meteor. Although Gaius was appalled by the plan he pledged to aid.
+
+[[FilE:Gaius takes Cid in.jpg|thumb|left|Gaius takes Cid in.]]
+Gaius's friend [[Midas nan Garlond]] became enraptured with Project Meteor. Seeing how it was affecting his son, Gaius took it upon himself to raise the young [[Cid nan Garlond|Cid]]. In a moment of lucidity, Midas told his friend that Cid would never be satisfied with a life of making weapons for the emperor. Mid was killed in the incident at Bozja Citadel and Cid deserted his post and defected to Eorzea.
+{{clear}}
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Quote|Impressive. As you wish.|Gaius accepting the Circle of Knowing's silent challenge to fight him}}
+When the Ala Mhigan Resistance tried to sneak into Ala Mhigo by stealing an [[Airship (term)|airship]] on Silvertear Falls, Gaius intercepted the group and killed them. He shot the adventurer's [[Path Companions|Path Companion]] with his gauntlet-mounted gun and attempted to kill them, but Yda, Papalymo, Y'shtola, and Thancred stopped him. Accepting their silent challenge, Gaius forced them on the defensive before ending the fight by signaling an Imperial Dreadnaught to open fire, injuring the adventurer and the four [[Circle of Knowing]] members.
+
+{{Quote|Oppose van Darnus and Meteor, if you wish. It is the only hope you have of sparing Eorzea from complete obliteration.|Gaius Van Baelsar}}
+[[File:FFXIV Gaius Dalamud.jpg|thumb|right|Gaius discussing Dalamud with the adventurer.]]
+Via an [[Echo (Final Fantasy XIV)|Echo]] of a [[Gridania]]n soldier who eavesdropped a conversation between Gaius and Nael van Darnus, Gaius saw Nael's plans to cast Meteor upon Eorzea as a senseless act of genocide.{{Cite|FFXIV|As revealed in one of the Seventh Umbral Era sidequests}} When he later attempted to kill the adventurer, Cid stopped him and Gaius took his leave after hitting the traitor's arm with a cannon blast when provoked.
+
+Once the companies discovered the construction of [[Mor Dhona#Castrum Novum|Castrum Novum]], the adventurer found Gaius during their investigation on a wrecked Garlean airship in Mor Dhona. The legatus congratulated the adventurer's skill in defeating his troops and allowed them to leave with some Garlean schematics related to the lunar transmitter—the machine that can control [[Dalamud]]—and return it to Cid, as that was the only hope Eorzea had to survive Meteor.
+
+[[File:XIV-Armored.jpg|thumb|left|Gaius watching the Battle of Carteneau unfold.]]
+Gaius explained this was no mercy act, and affirmed Garlemald would annihilate the primals and dominate Eorzea with or without Meteor, but he feared that Dalamud was more than what even the Empire believed it to be, and Nael van Darnus had his private agenda with it.
+
+After Nael's defeat, Gaius appeared during the pilgrimage to awaken [[the Twelve]]. He congratulated the adventurer over the victory against Nael, and told the current position of the [[VIIth Imperial Legion]], as he still hoped Dalamud could be stopped so the Empire may lay claim to Eorzea—not just its remains. As the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]] commenced, Gaius watched the events unfold from his airship before being forced to fall back when [[Bahamut (Final Fantasy XIV)|Bahamut]] devastated the land.
+{{clear}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|Eorzea... A blighted realm, riddled with false gods... Twice now it has eluded the Empire's grasp. For all the destruction it wrought, even Meteor, the Great Sin, failed to yield us control over it. And for this failure, the realm has sunk deeper into depravity. It is twisted beyond all reckoning—rotten nigh to the core. Yet it must be saved. Only Garlean rule can bring order to Eorzea. It falls to us to deliver the misguided masses from their ignorance.|Gaius van Baelsar to his subordinates}}
+[[File:FFXIV Imperial Legatus.png|thumb|Gaius with his three officers.]]
+Having survived the [[Seventh Umbral Era]], Gaius acts on his own to conquer Eorzea for himself due to the political strife over the condition of Solus zos Galvus. He comes to Eorzea with personally-obtained reinforcements from the XIVth Legion, including his three officers. After Solus passes, he is succeeded by his grandson [[Varis zos Galvus]].
+
+Revealing himself after the party defeats [[Garuda (Final Fantasy XIV)|Garuda]], the Black Wolf meets with Cid and chides his former protege for forsaking his home and family. Denouncing the wounded primal, Gaius slays her [[Ixal]] followers. Garuda unleashes her fury on the [[Amalj'aa]] and [[Kobold]] prisoners, forcing them to summon [[Ifrit (Final Fantasy XIV)|Ifrit]] and [[Titan (Final Fantasy XIV)|Titan]] so that she may devour their [[aether]] to grow even stronger. Gaius reveals his trump card for dealing with the primal threat, and with it the means to subjugate the subcontinent: the Ultima Weapon, an ancient Allagan war machine unearthed by the power of the Ascian [[Lahabrea]].
+
+[[File:Ultima Takes Down Ifrit.jpg|thumb|left|Ultima absorbing the primals.]]
+The machina subdues and absorbs the three primals as Gaius marvels at the weapon's power. Issuing an ultimatum to those who have seen Ultima's might, he urges the Eorzean Alliance to surrender while Cid and [[Alphinaud Leveilleur]] can only look upon it in horror.
+
+After the success of [[Livia sas Junius]]'s attack on the Waking Sands, the remaining Scions mount a rescue mission. As the party escapes the fortress Gaius reveals the extent of the Empire's power: the Ultima Weapon and the Scions narrowly escape its grasp only by the skill of Cid's piloting.
+
+Expecting a counterattack from the defiant Eorzean Alliance, Gaius sends his protege Rhitahtyn sas Arvina to defend the imperial outpost of [[Cape Westwind]], a site vital for communication between the Garlean castrums. Not to be caught unprepared, he tells [[Nero tol Scaeva]] to finish his maintenance on Ultima Weapon while he retires to his quarters with Livia. With [[Operation Archon (battle)|Operation Archon]] closing in on Castrum Merdianum, Gaius learns of Rhitahtyn's death and becomes enraged, accusing the soldiers of deserting their commanding officer due to his heritage. With the enemy closing in, Gaius dispatches Livia to lead the defense of the Castrum.
+
+[[File:Cid and Gaius's last meeting.jpg|thumb|Gaius reveals to Cid the truth about his father's madness.]]
+With Cid's help the adventurers confront Gaius in [[the Praetorium]]. Again coming face-to-face with Cid, Gaius reveals he still cares for the man he raised and offers him a place as his side. Admiring the adventurer's strength, he offers him regency, the right to rule the conquered Eorzea in exchange for the adventurer joining him in its subjugation. Unsurprised to be spurned, Gaius unleashes a [[Iron Giant|Magitek Colossus]] as he retreats to the heart of the fortress.
+
+{{Quote|Tell me...for whom do you fight? Hmph! How very glib. And do you believe in Eorzea? Eorzea's unity is forged of falsehoods. Its city-states are built on deceit. And its faith is an instrument of deception. It is naught but a cobweb of lies. To believe in Eorzea is to believe in nothing.|Gaius to the Warrior of Light}}
+As the adventurers penetrate the defenses Gaius challenges them as the last line of defense on their quest to destroy Ultima Weapon. Questioning their faith in the Twelve, he denounces the gods calling them no better than the [[beastmen]] and their primals, just eikons that bleed the world dry of the aether that sustains it. Revealing the ideal of the strength of mankind, Gaius declares it is the duty of the strong to shepherd the weak and that Eorzea is his by right, while challenging them to stop him.
+
+Impressed by their power, Gaius enters the Ultima Weapon, piloting the machine in the ensuing battle. The [[Warrior of Light (Final Fantasy XIV)|Warriors of Light]] aided by the [[Hydaelyn (character)|Mothercrystal]] herself overcome the Ultima Weapon and strip the primals from it. Baffled, Lahabrea reveals himself and offers to aid Gaius by activating the Heart of Sabik, the core of Ultima's true power. The warmachine unleashes a spell whose devastation rivals that of Meteor—[[Ultima (ability)#Final Fantasy XIV|Ultima]].
+
+{{Quote|Such devastation... This was ''not'' my intention...|Gaius, after Ultima is unleashed}}
+[[File:Gaius Death.jpg|thumb|left|Gaius accepting his fate in the self-destructing Praetorium.]]
+In the wake of the spell's destruction, Gaius confronts the party a final time as he curses Lahabrea, intending to finish him off next. Lahabrea tries to unleash Ultima on the party while Gaius can only watch and curse the Ascian, but the weapon is destroyed before the spell is completed. Gaius is ejected from the cockpit as the machina is destroyed. He uses his last strength to implore the adventurer to hear him out regarding the need for a strong ruler to guide the Eorzean people instead of the dangerous reliance of primals and the Twelve. Gaius accepts his fate as the Praetorium self-destructs from the damage caused by Ultima. As the flames consume him Gaius muses to Cid that his conquest ends here in ashes and smoke.
+
+{{Quote|And so my conquest ends, Cid. In smoke and ashes...|Gaius accepting his fate}}
+As he laid in the rubble, Gaius at first felt ready to join his comrades in death. After freeing himself and escaping the Praetorium, he realized he would be doing a great disservice to his friends if they perished with no justice given. He discarded his suit of armor; no longer the XIVth legatus, he lived on as a mercenary "Shadowhunter" and resolved to avenge his comrades for Lahabrea deceiving him into unknowingly bringing about a calamity to the world. While escaping the Praetorium, he encounters [[Valdeaulin]], a member of the [[Order of the Twin Adder]] whose family had been killed by the Empire's [[Black Rose (Final Fantasy XIV)|Black Rose]] tests. The two agree that Valedaulin can execute Gaius once the Ascians have been defeated, and become traveling companions.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV_Shadowhunter.jpg|thumb|200px|Shadowhunter in The Burn.]]
+Alphinaud is stranded in [[Burn (Final Fantasy XIV)|the Burn]], a desert area en route to Garlemald, after his airship is shot down. He meets a Garlean calling himself the Shadowhunter who claims to be hunting Ascians.{{Cite|FFXIV|In patch 4.3 Under the Moonlight}} The Shadowhunter wields a gunblade with formidable skill, appears to wear the white mask section of Gaius's old helmet on his belt alongside several black and red Ascian masks, and claims to have a history with the Scions. No other travel options available, Alphinaud agrees to have the Shadowhunter accompany him as he continues toward Garlemald.
+
+The Shadowhunter, Alphinaud and their companions stop at an outpost where they find numerous corpses, the remains of people killed by an experimental Garlean chemical weapon called the Black Rose, a gas that kills anyone who breathes it. The Shadowhunter berates the Garleans for using technology he thought abandoned before conceding it was likely Ascian involvement. The two agree that the Ascians must be stopped before the Black Rose can be used again.
+
+The Shadowhunter returns to The Burn just as [[Hien Rijin]] and members of [[Garlond Ironworks]] finish work on the barrier that will stop a Garlean invasion of the Far East.{{Cite|FFXIV|In Patch 4.5 A Requiem for Heroes}} Sometime prior, Alphinaud was afflicted by the same mysterious phenomenon that struck most of the Scions. The Shadowhunter approaches, carrying Alphinaud's comatose body, and the barrier is lowered to allow him entry. The Shadowhunter reveals to Hien, Alisaie and the Warrior of Light that he is Gaius Baelsar, asserting that Gaius ''van'' Baelsar died in the Praetorium (the missing particle implying his defect from Garlemald, similarly to Cid Garlond, since particles depend on one's rank in the Garlean society). He divulges information about not only the Black Rose weapon, but the discovery of an Allagan cloning facility, housing many spare bodies of the former Emperor Solus zos Galvus.
+
+While he was busy hunting Ascians, Gaius learned of a hierarchy within even the Ascian overlords, in particular, the Paragons of the Source. He reveals the presence of an unknown Ascian by the name of [[Emet-Selch]]. While his and the Scions' goals align, Gaius wishes not to drudge up past conflicts and leaves with only the assurance that they have another ally to hunt the shadows.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Gaius Estinien.png|thumb|Gaius and Estinien in the capital.]]
+Some time after the Warrior of Light travels to [[the First]], Gaius and his companions infiltrate a Black Rose production facility only to discover that the batch produced there was moved offsite. After a confrontation with Estinien Wyrmblood, Gaius proposes an alliance with the Dragoon and the two make their way to Garlemald.
+
+The pair attempts to investigate both the Black Rose production and the rumors of [[Zenos yae Galvus]] (Solus's great-grandson) being possessed by an Ascian ([[Elidibus (Final Fantasy XIV)|Elidibus]]). When Gaius and Estinien arrive at the imperial palace they are greeted by a scream of pain, Gaius recognizing it as Emperor Varis. He storms the throne room and finds Zenos impaling his father with his sword. The wounded Varis confirms that this Zenos is genuine and no longer in Ascian possession. Zenos claims that his father is no longer of any use, his presence only interfering with the hunt for the Warrior of Light. He assassinates the emperor and an enraged Gaius charges at Zenos, only for him and Estinien to be overpowered until a detachment led by Annia and Julia quo Soranus arrive. The pair escapes Garlemald amid the chaos, and Gaius parts ways with Estinien to attend to another matter requiring his attention.
+
+Gaius returns to Ala Mhigo to request a meeting with [[Raubahn Aldynn]] and the Warrior of Light. Estinien's encounter with the Arch Ultima had made him realize that the Ultima Project had continued even after his defection. He investigated the imperial base at Werlyt, confirming that the Empire was developing new magitek weapons modeled after the Ultima Weapon. One of these, the [[Ruby Weapon]], was on its way to the the Ghymlit Dark, and Gaius requests the Warrior of Light's aid in defeating it.
+
+[[File:Gaius and children 5.2.png|thumb|left|Gaius reunites with his adopted children in the wake of [[Ruby Weapon]]'s destruction.]]
+After the Ruby Weapon is defeated, Gaius and the Warrior of Light examine its remains. They are confronted by the imperial officers overseeing the Ultima Project, and Gaius recognizes them as a group of orphans he had taken in and raised years in the past. He is horrified that one of them, Milisandia, had been piloting the Ruby Weapon and was slain during the fight. The group of imperials take their leave, warning Gaius that despite their history, they are now enemies.
+
+Gaius returns to the Alliance's base of operations where he is reunited with Cid, who had arrived to study the Ruby Weapon. He sends Severa, one of his two companions, to assist Cid with his work. Valedaulin, his other companion, reminds Gaius that they have an agreement, and he will not hesitate to kill him if it looks like Gaius is thinking of returning to the Empire. When Valedaulin obtains information that the remaining Weapons are being housed in the city of [[Terncliff]], Gaius travels there aboard Cid's airship, the ''Enterprise''. Since they expect to encounter one of the Weapons guarding the city, Cid reveals his newest creation, a refurbished Allagan machine dubbed the G-Warrior. When the [[Sapphire Weapon]] bars their path, the Warrior of Light pilots the G-Warrior while Gaius, with his knowledge of Allagan technology, provides support.
+
+After the Sapphire Weapon is defeated, they land in Terncliff finding that the Imperials have already abandoned the city, taking the remaining Weapons and most of the information on the Ultima Project with them. Using the [[Echo (Final Fantasy XIV)|Echo]], the Warrior of Light learns that Ricon, another of Gaius's foster children, piloted the Sapphire Weapon. Cid discovers that the Weapons' Oversoul system is designed to kill the pilot upon activation and an enraged Gaius vows to stop the Ultima Project for good.
+
+With the information Cid is able to obtain, the Warrior of Light and Gaius track the next Weapon, the [[Emerald Weapon]], to the Imperial base at [[Castrum Marinum]]. They find the Emerald Weapon waiting to confront them, piloted by another of Gaius's foster children, Rex, and using Gaius's own data for its Oversoul. The Warrior of Light defeats the Emerald Weapon, killing Rex in the process. They find one of Gaius's foster daughters, Allie, whom her brothers had left behind so she could be rescued. Allie is taken to Terncliff with the group to recover, where she tells Gaius and the others what happened to her and her siblings after Gaius disappeared and about the current legatus of the VIIth Legion, [[Valens van Varro]].
+
+In an ironic twist, the newly-formed Werlyt Revolutionaries elect their former conqueror as their leader. Gaius informs the Warrior of Light that Allie has escaped custody and made her way to the VIIth Legion's headquarters with the intent of claiming the [[Diamond Weapon]] for herself and overthrow Valens. Learning from Valdeaulin that a Weapon has gone on a rampage at the VIIth's headquarters, Gaius decides to leave for Werlyt to save her and Alfonse by capturing the Weapon. Cid takes the group to the skies in pursuit of the Diamond Weapon while unveiling an upgraded G-Warrior, now the G-Savior, with Gaius chosen as the main pilot. The Warrior subdues the Weapon, which crashes into Werlyt. 
+
+Gaius and the Warrior head to the surface to find Allie stumbling from the wreckage. He requests that the Warrior take her to safety while Valens comes out from hiding for a final confrontation. Angered after learning that Alfonse was fused with the Diamond Weapon's core, Gaius swiftly defeats Valens, who is then grabbed by the reactivated Diamond Weapon and squeezed to death. With his revenge complete but his transformation irreversible, Alfonse gives Gaius memories from the synthetic auracite to give to Allie before he is euthanized by his father. Gaius learns from Cid that the shock of learning her brother's fate sent Allie into a catatonic state. Despite this, he resolves to fulfill his promise to Alfonse by overseeing Werlyt's restoration as part of its provisional government. Sometime later, Gaius activates the memories given to him by Alfonse and presents them to Allie, displaying holograms of their past and restoring her mind in the process.
+
+=== ''[[Final Fantasy XIV: Endwalker]]'' ===
+When the Eorzean Alliance creates a specialized unit to invade Garlemald, Gaius arrives in Ala Mhigo where they are assembling. He offers advice to the Warrior of Light, but declines joining the unit despite his desire to take part in the liberation of his homeland. He realizes that his presence would jeopardize the mission due to his reputation. He instead promises to defend Werlyt while others liberate Garlemald in his stead.
+
+Later, he gives Allagan relics that had been used by Valens in the Weapons Project to Cid in order to help complete the Ragnarok.
+
+==Characteristics==
+===Appearance===
+[[File:Gaius van Baelsar artwork from Final Fantasy XIV.png|thumb|Artwork of Gaius and his weapon.]]
+Gaius is a Garlean who wears an intimidating suit of black armor over a long red coat and a horned helmet bearing a skull-like visage and gasmask-like breathers. A [[ceruleum]] cannon is attached to the back of his left hand. His main weapon is a [[Gunblade (weapon type)|gunblade]] named Heirsbane (No. IX in Japan), said to have spilled the blood of nine aspirants to the crown.
+
+In ''[[Final Fantasy XIV: Stormblood]]'', he discards his suit of armor and rank, wearing a dark red coat adorned with with several [[Ascian]] overlord masks along with his old mask. He is a rugged middle-aged man with messy slicked back dark hair and dark yellow eyes and a silver third eye on his forehead. Though Gaius is revealed to have dark skin, he is depicted with pale skin in the "Prelude in Violet" artwork.
+
+===Personality===
+[[File:FFXIV ShB Gaius render.png|thumb|left|Gaius in ''Stormblood''.]]
+Gaius follows "might makes right" philosophy, believing it the duty of the strong to shepherd the weak and the ignorant from their weakness or heresy by strength of arms. He is loyal to his majesty the Emperor Solus zos Galvus and to his trusted lieutenants in the [[XIVth Imperial Legion]], placing faith in their capabilities and becoming outraged when they are slighted or defeated. This is particularly noteworthy concerning [[Rhitahtyn sas Arvina]], as a [[Roegadyn]] typically do not rise to such rank and esteem in the Garlean military, yet Gaius is clear in his trust and confidence in Rhitahtyn's abilities. Livia sas Junius would also develop a pathological devotion to Gaius that quickly morphed into a romantic attachment. Further, Gaius took in a number of orphans from Werlyt and raised as his own children.
+
+Despite his loyalty to his emperor, Gaius was willing to betray his orders by using the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to dispose of [[Nael van Darnus]] when he felt [[Meteor (ability)#Final Fantasy XIV|Project Meteor]] was going too far, as he would rather conquer [[Eorzea]] than destroy it.
+
+Gaius is more forward-thinking than his Garlean peers, having created the Crania Lupi regiment from Ala Mhigan-born individuals who came of age, both to maintain control over the country and to generate loyalty and opportunity for its people. He opposes the more brutal methods of war and personally ended development of the [[Black Rose (Final Fantasy XIV)|Black Rose]] when word reached of biochemical warfare, as he saw it as a tool of extermination rather than of conquest.
+
+After the events of ''A Realm Reborn'', Gaius resolved to live on as an avenger to murder the Ascians who controlled him and his men, remaining stoic and reserved. Though having abandoned his rank, he still considers himself a son of Garlemald, though he fights in the name of his homeland rather than the Empire. He is willing to lay previous grudges against the [[Scions of the Seventh Dawn]] and the Eorzean Alliance to rest if it is for the greater good. He develops a respectful partnership with the Azure Dragoon, [[Estinien Wyrmblood]], during their mission into Garlemald. The irony of working with his previous foes is not lost on Gaius. He feels the weight of his previous actions as legatus, horrified to learn that the orphans he took in and raised would create and use dangerous [[magitek]], causing havoc. Gaius abhors the way the Garlean Empire treats those who are not pure-blood Garleans, and is appalled at having once served under its banner upon discovering the extent such abuse.
+
+===Abilities===
+[[File: Gaius and Ultima Weapon.jpg|thumb|left|Gaius and Ultima Weapon.]]
+Gaius is one of the Empire's most accomplished warriors. A skilled swordsman and marksman, he wields his gunblade's dual purpose with brutal efficiency along with his arm cannon. He can fend off multiple skilled opponents simultaneously without allowing them to land a single blow (or himself landing a single blow), namely four members of the Scions of the Seventh Dawn ([[Y'shtola Rhul]], [[Papalymo Totolymo]], [[Yda Hext]] and [[Thancred Waters]]). After empowering himself Gaius gains blinding speed to vanish and reappear in a blink of an eye. He can launch cross-shaped arcs of energy from his sword and use magitek to conjure blue fire to incinerate enemies and encircle his blade.
+
+Gaius is a skilled pilot of machina, personally steering the ancient [[Allagan Empire|Allagan]] [[Magitek Armor|magitek armor]] known as [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]. He has access to at least one unnamed ship of the Imperial Dreadnaught designation, which is not encountered beyond its one appearance in the [[Final Fantasy XIV/Legacy|1.0]] story.
+
+Gaius is an accomplished general whom both enemy and ally alike cannot help but respect. He conquered [[Ala Mhigo]] during its period of unrest: when the people revolted against the King of Ruin, leaving the nation vulnerable, Gaius made his move and conquered the nation with minimal effort.
+
+==Gameplay==
+===Missions (1.0)===
+*Futures Perfect (level 46 main storyline quest).
+
+===Sidequests (1.0)===
+*"Two Vans are Better than One" (Twin Adder company quest)
+*"Alive" (Maelstrom company quest)
+*"Don't Hate The Messenger" (all versions)
+*"Living on a Prayer"
+
+===Boss===
+{{Main|Gaius van Baelsar (boss)|The Praetorium}}
+[[File:Gaius Battle Form Transformation.png|thumb|Gaius empowering himself.]]
+Gaius is fought at the end of the game both on foot and piloting Ultima Weapon. Due to the fight with Lahabrea commonly being considered a story formality due to the ease with which he is defeated, Ultima Weapon effectively acts as the main scenario's final boss.
+
+=== Battle ===
+He appears as a guest in the instance battle {{icon|ffxiv|quest|Emissary of the Dawn}} to assist Alphinaud. He fights like he did in the Praetorium and functions as a tank for Alphinaud and Maxima, identified only as a Menacing Mercenary. He possesses a colossal amount of HP and makes quick work of the lesser enemies. He is captured by the Sky Armors and must be freed before he gets overwhelmed by destroying the Sky Armors restraining him. The player is not required to destroy all Sky Armors as Gaius will eventually free himself after one of them is destroyed.
+
+Gaius appears again as an ally in the Main Scenario Quest {{icon|ffxiv|quest|Vows of Virtue, Deeds of Cruelty}}. Like in ''Stormblood'', he makes quick work of the lesser enemies, and easily overpowers Annia and Julia before splitting up from Estinien.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Gaius van Baelsar
+|image = [[File:FFXIV TT Gaius van Baelsar.png]]
+|number = 64
+|total = 28
+|type = Garlean
+|description = "Unworthy is the ruler whose subjects seek the solace of false gods."
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Indolent Imperial|Indolent Imperial]], Mor Dhona (11,17).<br>Random drop from {{icon|ffxiv|duty|praetorium}}
+}}
+
+== Musical themes ==
+The "Bite of the Black Wolf," an instrumental version of "[[Rise of the White Raven]]," is the theme of the first stage of the final battle. The theme is reused in later battles against other Legati.
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Gaius van Baelsar FFXIV.png|thumb]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+=== ''[[Final Fantasy Trading Card Game]]'' ===
+[[File:Gaius TCG.png|thumb|100px]]
+Gaius appears with a fire-elemental card with his official render.
+{{clear}}
+
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+[[File:471a Gaius van Baelsar.png|thumb|100px]]
+Gaius appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+[[File:Gaius van Baelsar FFXIV Art 4.jpg|Artwork.|thumb]]
+Gaius was known among the community as "Zulvan" since his first appearance, but a post on the company page changed his name.
+
+Gaius's armor resembles suits worn by the [[Archadian Judges]] of ''[[Final Fantasy XII]]'', and in particular, [[Ghis]]. Having also voiced [[Gabranth]] in ''Final Fantasy XII'', Gaius's voice actor Akio Otsuka jokingly said he thought he was playing a Judge again due to Gaius's similar attire.{{citation needed}}
+
+The game contains several hints that the Shadowhunter is Gaius prior to it being confirmed. The Shadowhunter bears Gaius's faceplate among his mask collection and wields Heirsbane. The Shadowhunter uses several techniques associated with Gaius, such as an improved [[Terminus Est]] and recognizes Alphinaud as both an Eorzean and a Scion, and mentions having history with the organization. The Shadowhunter has an intimate knowledge and distaste of the Black Rose weapons program, which Gaius had personally shut down years prior for being too extreme. The musical theme of the Burn, where the Shadowhunter is first met, is a rearrangement of the musical theme of the Praetorium, where Gaius was last seen.
+
+===Voice===
+Gaius is voiced by [[wikipedia:Akio Ōtsuka|Akio Ōtsuka]] in the Japanese version.
+
+He is voiced by [[Richard Epcar]] in the English version of ''A Realm Reborn''. Since patch 4.5 of ''Stormblood'', he is voiced by Michael McElhatton, who is best known for portraying Roose Bolton in HBO's ''Game of Thrones''.
+
+He shares the former two voice actors with {{KHWiki|Ansem, Seeker of Darkness|Ansem}} and {{KHWiki|Xehanort}} of the ''{{KHWiki|Kingdom Hearts (series)|Kingdom Hearts}}'' series, Epcar has voiced Ansem since ''{{KHWiki|Kingdom Hearts II}}''.
+
+==Gallery==
+<gallery>
+Gaius van Baelsar FFXIV Art 2.jpg|Artwork.
+Gaius and Tribunes FFXIV Art.jpg|Gaius and Tribunes artwork.
+Gaius Model Render.png|Gaius's 3D Model.
+FFXIV Meteor.jpg|Gaius summoning a blast from an Imperial Dreadnaught.
+FFXIV Gaius Concept.png|Concept art of Gaius.
+FFXIV Gaius Shooting.jpg|Gaius preparing to shoot his arm-cannon.
+Zulvan.jpg|Gaius confronts the Circle of Knowing.
+Gaius Van Baelsar Profile.png|Gaius's profile.
+CGArtwork RealmReborn1.png|Promo Art for ''A Realm Reborn''.
+FFXIV Prelude in Violet Artwork.jpg|Shadowhunter in "Prelude in Violet" artwork.
+FFXIV Werlyt Gaius.jpg|Gaius during the Sorrow of Werlyt trials.
+</gallery>
+
+==Etymology==
+{{Etym|Gaius}}
+
+"Van" is based on Dutch word ''van'' which means "from," and is used to show someone is of noble descent.
+
+{{navbox characters FFXIV}}
+[[es:Gaius van Baelsar]]
+[[fr:Gaius van Baelsar]]
+[[pt-br:Gaius Van Baelsar]]
+[[Category:Antagonists]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garleans]]
+[[Category:Garlean citizens]]

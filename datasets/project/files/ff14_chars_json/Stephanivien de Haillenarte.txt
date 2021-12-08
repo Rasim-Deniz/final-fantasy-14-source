@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Stephanivien de Haillenarte
+|release=FFXIV
+|japanese=ステファニヴィアン・ド・アインハルト
+|romaji=Sutefanivian do Ainharuto 
+|lit=Stefanivian de Ainhart
+|aka=Stephanivien Brighsun
+|image=FFXIV Stephanivien.png
+|race=[[Elezen]]
+|gender=Male
+|height=
+|hair=Blond
+|eye=Blue
+|designer=
+|age=30
+|home=[[Ishgard]]
+|affiliation=Skysteel Manufactory 
+|occupation=
+|type=npc
+|job={{icon|ffxiv|discipline|machinist}}
+|weapon=
+|armor=Machinists Attire
+}}
+'''Stephanivien de Haillenarte '''also known as '''Stephanivien Brightsun''' is a non-playable character in ''[[Final Fantasy XIV: Heavensward]]''. He is a son of [[Baurendouin de Haillenarte|Count Baurendouin]], and brother to [[Aurvael de Haillenarte|Aurvael]], [[Joacin Charlemend Francel de Haillenarte|Francel]], [[Laniaitte de Haillenarte|Laniaitte]], and the late [[Chlodebaimt de Haillenarte|Chlodebaimt]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Unlike his brother and sister, who became knight commanders, Stephanivien preferred to work in the Skysteel Manufactory owned by House Haillenarte. This caused much friction with his father Barendouin, who preferred he follow tradition and become a knight. Stephanivien was a visionary: he wanted to develop a technology-assisted soldiers called [[Machinist (Final Fantasy XIV)|Machinists]] that could assist knights in combat by using firearms and [[magitek]] drones. Unlike knights, who were largely from nobility, machinistry meant even lowborns could aid in war.
+
+To that end, he hired the infamous [[Rostnsthal]] of Limsa Lominsa as a marksmanship instructor, and trained the manor maid Joye as one of the first machinists, as well as gifting several commoners such as [[Hilda Ware]] with firearms with the intention of placing commoners on equal footing with the nobles who sought to rule them. His start-up guild would only take off when the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], a ward of House Fortemps, volunteered to become a machinist. Stephanivien faces stern opposition from Ishgardian tradition, including both his father Baurendouin and the rival knight [[Tedalgrinche]]. While the count eventually accepted the worth of machinists through their efforts to defend Skyfire Locks and success at the tourney between the High Houses, Tedalgrinche was far more obstructive, seeking sabotage and harassment.
+
+Eventually, Tedalgrinche accuses Stephanivien of plotting insurrection by arming civilians, and issues an ultimatum: defeat the elusive dragon Veri Seren or be judged guilty. At the appointed trial by combat, an unexpected turn of events puts Tedalgrinche and the presiding priest in peril from the vouivre's host. When Stephanivien orders machinists to protect the fallen, Tedalgrinche is confused given all he's done. While Stephanivien admits he should leave him to his fate, he believes that for machinists to truly be part of the spear and shield of Ishgard, they must protects its citizens Tedalgrinche concedes that was a knightly oath, and when the dragon is slain and the charges are dropped, he promises to not interfere with Skysteel Manufactory anymore.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Character section}}
+
+==Characteristics==
+===Appearance===
+Stephanivien is an Ishgardian elezen with blond hair and blue eyes. He wears a bandana with goggles on his head, and wears the machinist artifact gear dyed a deepwood green color. 
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Machinists]]

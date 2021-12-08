@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Midas nan Garlond
+|release = FFXIV
+|japanese = ミド・ガーロンド
+|image =FFXIV Midas Garlond.jpg 
+|race = [[Garlean (race)|Garlean]]
+|gender =Male
+|height = 
+|hair = Gray
+|eye = Gray
+|designer = 
+|age = 
+|job = 
+|weapon = 
+|armor = 
+|romaji = Mido Gārondo
+|affiliation = [[Garlean Empire]]
+|occupation = Engineer
+|type=npc
+|home = [[Garlemald (location)|Garlemald]]
+}}
+
+'''Midas nan Garlond''' is a [[Garlean]] [[non-player character]] from [[Final Fantasy XIV|''Final Fantasy XIV'']]. Midas is the father of [[Cid Garlond|Cid nan Garlond]] and the head engineer of the [[Garlean Empire]]. 
+
+==History==
+Midas is considered the "Father of Magitek" and is a famous engineer within the Empire and its provinces. When Cid was just a boy he attended an Imperial Youth Magitek Exhibition to have his creation submitted for expert appraisal. Within the Exhibition hall and during the final stage of the contest, a host of Bozjan rebels stormed the building in search of the head engineer. Cid and [[Nero tol Scaeva|Nero]] combined their two creations to stop the rebels only for Midas and the Imperial army to arrive after.
+
+At some point in time Midas became the head of Project Meteor. He accidentally woke the [[primal]] within the lesser moon [[Dalamud]] and became enthralled by [[Bahamut (Final Fantasy XIV)|Bahamut]]. Eventually, he oversaw the construction of a transmitter at [[Bozja Citadel]] designed to draw power from Dalamud. When Cid approached his father about the dangers of the project, Midas became angry with him and stormed off, warning him not to defy him again. When Cid persisted, Midas shot him in the chest. Feeling like his father had become obsessed with Project Meteor, Cid was taken in by [[Gaius van Baelsar]], and repressed the memory of his father shooting him into his subconscious.
+
+When Midas activated the transmitter, it drew a massive beam of energy from Dalamud that annihilated the entirety of the Bozja Citadel, killing Midas and the entire city-state's population in what would come to be known as the [[Bozja Incident]]. Though they never knew that Midas had been enthralled by Bahamut, the Garlean Empire still shut down the project and attempted to cover up the events that led to the disaster.
+
+==Characteristics==
+=== Appearance ===
+Midas was a old Garlean with a full bushy beard, and long gray hair. He wore a white lab coat with a purple shirt and a lavender tie.
+
+=== Personality ===
+Midas was a man devoted to his work never overlooking things or seeing flaws in the work he contributed to. He was devoted to Project Meteor until the very end.
+
+==Behind the scenes==
+A common element in ''Final Fantasy'' games is for the [[Cid]] character to have a son or grandson named some variation of [[Mid]]. ''Final Fantasy XIV'' reverses this by making Midas Cid's father instead.
+
+==Etymology==
+Midas was a king in Greek Mythology, who was given the ability to turn anything he touched into gold by Dionysus. However, use of this ability cost him his loved ones, and eventually his life.
+{{navbox characters FFXIV}}
+[[Category:Garleans]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garlean citizens]]

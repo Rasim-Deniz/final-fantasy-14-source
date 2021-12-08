@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Azami Shibunuri
+|release=FFXIV
+|japanese=アザミ
+|romaji=Azami
+|aka=
+|image=FFXIV Azami.png
+|home=Namai
+|age=
+|dob=[date of birth]
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]
+|occupation=
+|education=
+|race=[[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=Brown
+|eye=Black
+|type=npc
+|job=
+|japanese voice actor=
+|english voice actor=
+}}
+
+'''Azami Shibunuri''' is a non-player character from ''[[Final Fantasy XIV]]'', first appear in its [[Final Fantasy XIV: Stormblood|''Stormblood'']] expansion. She is a villager in [[Yanxia]] and the younger sister of [[Isse]].
+
+==History==
+
+==Characteristics==
+===Appearance===
+===Personality===
+
+{{Section}}
+
+==Etymology==
+''Azami'' (薊) means "thistle" (flower) in Japanese.
+
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

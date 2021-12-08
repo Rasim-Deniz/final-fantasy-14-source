@@ -1,0 +1,115 @@
+{{sideicon|FFXIV|prime=FFXIV}}
+{{infobox character
+|name=Raya-O-Senna
+|release=FFXIV
+|japanese=ラヤ・オ・センナ
+|romaji=Raya-O-Senna
+|aka=
+|image=FFXIV Raya-O-Senna Render.png
+|home=[[Gridania]]
+|age=21
+|affiliation=[[Stillglade Fane]]<br/>[[Order of the Twin Adder]]
+|occupation=Seedseer
+|race=[[Padjal]]
+|gender=Female
+|hair=Red
+|eye=Green
+|type=npc
+|job={{icon|ffxiv|discipline|white mage}}
+|weapon=Staff
+|armor=
+|designer= [[Ayumi Namae]]
+}}
+'''Seedseer Raya-O-Senna''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. She is the younger sister to [[Kan-E-Senna]], the Elder Seedseer of [[Gridania]] and supreme commander of the [[Grand Company|Order of the Twin Adder]]. She also has a younger brother, [[A-Ruhn-Senna]].
+
+Raya-O is proud to call herself a practitioner of white magic and can talk to [[Moogle (race)|moogles]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Raya-O-Senna Legacy.png|thumb|left|Raya-O-Senna in version 1.0.]]
+Raya-O-Senna goes alone to investigate the stolen items from Lifemend Stump and to try to recover the [[Nirvana#Final Fantasy XIV|Nirvana]] staff. Due to the mysterious nature of the thieves being a family of diremite, the Moogles do not let her expose herself to possible risk. The [[Elementals (Final Fantasy XIV)|elementals]] guide the [[Warrior of Light (Final Fantasy XIV)|adventurer]] to the place to help Raya-O-Senna recover the Nirvana in Mun-Tuy Cellars. Back with the staff, the elemental [[Oha-Sok]] that was sealed in Nirvana breaks free and tries to attack the adventurer but Raya-O pacifies him using white magic. Raya-O explains that recently there are many reports of elementals crazed with fear exhibiting an aggressiveness but [[Stillglade Fane]] can only pacify the cases within [[Black Shroud|Twelveswood]]. Raya-O invites the adventurer to help pacify the elementals throughout Eorzea and gives him a linkpearl and the Soul of the White Mage.
+
+Raya-O tries to justify the nations need to strengthen their military power to Oha-Sok, but the elemental is not convinced and leaves. Raya-O asks the adventurer to handle several cases related to the elemental's influence. Eventually, Oha-Sok reveals herself to be the elemental responsible for the [[Umbral Calamity#Sixth Umbral Calamity|Sixth Calamity]] and disappears. Raya-O believes that Oha-Sok still had hope for humanity but that her presence alone is enough to drive the elementals to sustain their anger, which would inevitably lead to catastrophe. To restore calm to the enraged elementals, Raya-O asks the adventurer to collect the garb of succor, the legendary artifacts used by the ancient white mages. Oha-Sok's return to Twelveswood has caused the elementals to intensify their fury, and Raya-O asks the adventurer to calm the elementals. Oha-Sok appears on the scene to save the adventurer and calm the wrath of her kindred. Oha-Sok then offers to stay by the adventurer's side by transforming herself into the final artifact, the Healer's Robe.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Raya-O-Senna and A-Ruhn-Senna.jpg|thumb|Raya-O-Senna and A-Ruhn-Senna at the [[Guardian Tree (Final Fantasy XIV)|Guardian Tree]].]]
+At the behest of a concerned [[E-Sumi-Yan]], the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is sent to check on Raya-O and A-Ruhn, who prepare for their ritual to pacify the Guardian Tree at Evershade. With Kan-E occupied with her duties as [[Grand Company]] leader, E-Sumi occupied as teacher of Stillglade Fane, and [[O-App-Pesi]] occupied elsewhere, they lack a third Padjal to complete the ritual. They are overwhelmed by monsters, the tree's resistance effort, and only with the Warrior of Light's help are they able to survive. The ritual will need to be reattempted. The crystallized soul of [[A-Towa-Cant]], a legendary Padjal who had left the wood to wander the world, appears and bestows upon the Warrior of Light the power of the [[White Mage (Final Fantasy XIV)|White Mage]].
+
+In spite of A-Ruhn's proud protests, Raya-O resolves to train the Warrior of Light in the art of white magic, particularly with regards to tree pacification. The Warrior is sent around [[Eorzea]] to collect the ceremonial garb once worn by A-Towa-Cant. However, one of the artifacts was stolen, and Raya-O sends her moogles to track the thieves to Redbelly Hive, where the Warrior of Light retrieves them.
+
+[[File:Raya-O-Senna_Guardian_Tree.png|thumb|left|Raya-O-Senna performing the ritual.]]
+Upon recovering all five artifacts, Raya-O realizes that the final piece, the Healer's Robe, has lost its power, but there is no time to restore it before the greenwrath grows too great. Even A-Ruhn is willing to accept that the Warrior of Light's power alone would hopefully suffice.
+
+As the three commence the ceremony, they are again attacked by the minions of the Guardian Tree, but the soul of A-Towa-Cant manifests fpr long enough to help fend them off. After imparting to the siblings words of wisdom, he returns to the soul crystal, and fully restores the power in the Healer's Robe.
+
+Raya-O reconciles with A-Ruhn, admitting that both his proud sense of tradition and A-Towa's sense of freedom are much-needed perspectives for the Padjal.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Seedseer Siblings bringing Y'shtola back.png|thumb|right|Kan-E-Senna, Raya-O-Senna, and A-Ruhn-Senna bringing Y'shtola back from the Lifestream.]]
+At the Guardian Tree, Raya-O-Senna and A-Ruhn-Senna assist Kan-E-Senna extract [[Y'shtola Rhul|Y'shtola]] from the Lifestream following her use of forbidden magic in the aftermath of the [[Ul'dahn Revolution]].
+
+Raya-O-Senna has become concerned over the Guardian Tree warning of a "taint." The last time such an event happened, it prompted A-Towa-Cant's legendary pilgrimage. They suggest seeking out a retainer that accompanied the late Seedseer for insight on how to deal with the problem. Said man has since passed on, but his granddaughter [[Eschiva]] still tends the grave of A-Towa-Cant and knows much of her grandfather's journey. She agrees to help with the situation, but shows her frustration with the other Seedseers' unwillingness to leave the Twelveswood to deal with the taint.
+
+Accompanying the Warrior of Light, they trace the taint to an unsettling woman named [[Alaqa]], who seems intent on spreading befouled [[aether]]. Following a confrontation with her, they discover a parcel of tainted flesh, which they bring to the Seedseers for advice. When they restate how they are duty-bound to remain in the Twelveswood, Eschiva lashes out at them for dithering in the face of a crisis. These words seem to affect Raya-O-Senna, who begins to wonder if it is time to make a journey outside the woods.
+
+In the level 60 WHM quest, "Healing Hands," Raya-O announces their decision to accompany Eschiva and the Warrior of Light to [[Dravania]] where Alaqa was last seen. From within the hunter's village at Tailfeather, they sense the taint to be centered to the northwest in the caverns of Mourn. When Alaqa is confronted she explains how her family was treated poorly due to [[Au Ra|their appearance]] and her plans to get revenge using the taint to animate a zombie dragon. While the undead dragon proves difficult to kill, Raya-O-Senna suggests purifying the taint with healing magic. Though its resilience causes it to revive multiple times, their efforts cleanse the taint allowing them to eliminate the zombie dragon. Alaqa surrenders in defeat at having her work destroyed.
+
+Raya-O assures her that she can still make amends for her mistakes. The Auri makes no resistance as she is brought back to [[Gridania]]n custody. With the taint removed, the Guardian Tree no longer stirs over it, and Raya-O understands better what she must do to handle future threats to the Twelveswood. She promises to visit Alaqa's cell and try to reach out to the troubled woman.
+
+==Characteristics==
+===Appearance===
+Raya-O is a female [[Padjal]] with red hair and green eyes. Like the other Padjal, she has horns growing on her head. She wears white robe and red skirt. Her weapon is a two-handed silver cudgel.
+
+===Personality===
+As the middle child of the Senna family, Raya-O takes on the "big sister" role with A-Ruhn, as their eldest sister is occupied with running Gridania. Her occasionally bossy behavior, even towards moogles, belies her patience and understanding.
+
+==Gameplay==
+===Battle===
+Raya-O fights in many of [[White Mage (Final Fantasy XIV)|White Mage]] quests. She is a White Mage who can use many high-level white magic spells.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Raya-O-Senna & A-Ruhn-Senna
+|image = [[File:FFXIV TT Raya-O-Senna & A-Ruhn-Senna.png]]
+|number = 44
+|level = ☆☆☆
+|total = 23
+|type = None
+|description = "My name may be unfamiliar to you, but doubtless you know of my sister. That would be Kan-e-Senna, Elder Seedseer of Gridania and supreme commander of the Order of the Twin Adder. Together, we are known as the three Seedseers─my sister, myself, and our younger brother, A-Ruhn-Senna."
+|obtain = Won from Buscarron, South Shroud (17,20).<br/>Bought from the Triple Triad Trader for 4,800 MGP.
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:Raya-O-Senna 4-071R from FFTCG Opus.jpg|right|100px|Raya-O-Senna [4-071R] Opus series card.]]
+Raya-O-Senna appears in ''Final Fantasy Trading Card Game'' as a Wind-elemental Backup card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Raya-O-Senna appears alongside A-Ruhn-Senna on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+515a Raya-O-Senna & A-Ruhn-Senna.png|Raya-O-Senna and A-Ruhn-Senna.
+515b Raya-O-Senna & A-Ruhn-Senna.png|Raya-O-Senna and A-Ruhn-Senna.
+515c Raya-O-Senna & A-Ruhn-Senna.png|Raya-O-Senna and A-Ruhn-Senna.
+</gallery>
+
+==Gallery==
+<gallery>
+Raya-O-Senna FFXIV Art.jpg|Artwork.
+Raya-O-Senna from Final Fantasy XIV legacy.jpg|Raya-O-Senna in version 1.0.
+FFXIV Raya-O-Senna.png|In-game render.
+FFXIV Kan-E-Senna Pedjals.png|Kan-E-Sanna addressing the citizens of Gridania with Raya-O-Senna and A-Ruhn-Senna behind her.
+Raya-O-Senna with Moogles.png|With moogles.
+Raya-O-Senna talks Moogle.png|Talks to a moogle.
+Raya in Battle.jpg|In battle.
+FFXIV TFT Senna siblings.jpg|Raya-O-Senna, Kan-E-Senna, and A-Ruhn-Senna in ''Tales from the Twilight: True of Heart''.<ref name="heart">{{ref |id=heart|author= |date= |title=Tales from the Twilight: True of Heart|url=https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/sidestory_04/#sidestory_04|publisher=Square Enix|access-date=30th September 2021}}</ref>
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:White Mages]]
+[[Category:Padjals]]

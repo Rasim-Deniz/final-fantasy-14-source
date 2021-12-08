@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=H'naanza Esi
+|release=FFXIV
+|japanese=ハ・ナンザ・エシ
+|romaji=Ha Nanza Eshi
+|image=FFXIV H'naanza Esi.png 
+|race=[[Miqo'te]]
+|gender=Female
+|height= 
+|hair=Dark Red
+|eye=Olive
+|age=38
+|affiliation=Armorers' Guild
+|occupation=Guildmaster
+|type=npc
+|job={{icon|ffxiv|discipline|armorer}}
+|weapon=Handking's Raising Hammer 
+|armor=Armorer's Gear
+}}
+'''H'naanza Esi''' is a non-playable character in ''[[Final Fantasy XIV]]''. She is the Armorer guildmaster at Naldiq & Vymelli's in [[Limsa Lominsa]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV 1x H'naanza and Sthalmann.png|thumb|left|H'naanza and Sthalmann in version 1.0.]]
+H'naanza is seen in a vision of Echo talking to [[Rostnsthal|Sthalmann]] about a ship recently built by [[Naldiq & Vymelli's]] that was to be used by the [[Knights of the Barracuda]] in the expedition to [[Seal Rock]]. In the present she is seen this time arguing with Sthalmann, who is now known as Rostnsthal. H'naanza says that the ship ran aground because it is old and would not withstand the currents of Seal Rock.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+H'naanza is the primary quest giver for the [[Armorer (class)|Armorer]] class quests.
+{{Section}}
+
+==Characteristics==
+[[File:FFXIV 1x H'naanza render.jpg|thumb|150px|Render for version 1.0.]]
+===Appearance===
+H'naanza is a Keeper of the Moon [[Miqo'te]] with pale skin and black hair. She wears a full Armorer's gown, slops, gloves, and workboots, with Ironworks Engineer's Goggles over her eyes.
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Armorers]]
+[[Category:Guildmasters]]

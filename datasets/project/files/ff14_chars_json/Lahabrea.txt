@@ -1,0 +1,143 @@
+{{sideicon|prime=FFXIV|PFF}}
+{{infobox character
+|name=Lahabrea
+|release=FFXIV
+|japanese=アシエン・ラハブレア
+|romaji=Ashien Rahaburea
+|lit=Ascian Lahabrea
+|aka=
+|image=MaskedMage.png
+|portrait=
+|sprite=
+|home=
+|age=
+|dob=
+|affiliation=[[Amaurot]]<br> Convocation of Fourteen
+|occupation= Co-Leader/Speaker of the Convocation of Fourteen
+|education=Akadaemia Anyder
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Ascian]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+|type=npc
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Shūichi Ikeda
+|english voice actor=Kyle Hebert <small>(''A Realm Reborn'')</small> <br/>Alec Newman <small>(''Heavensward'')</small>
+}}
+{{Quote|The earth is fertile, and the seeds well sown. By my will, they shall reap salvation unlike any the world has known.|Lahabrea}}
+'''Lahabrea''' is a character from ''[[Final Fantasy XIV]]'', serving as the main antagonist of ''A Realm Reborn'' relaunch, one of the main antagonists of the "Seventh Astral Era" patches, and the tertiary antagonist of ''[[Final Fantasy XIV: Heavensward]]''. He is a powerful [[Ascian]] Paragon who feels nothing but contempt and superiority toward the denizens of [[Eorzea]], leading him to underestimate the might of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Scions of the Seventh Dawn]].
+
+==History==
+===Early life===
+Lahabrea was a member of the Convocation of Fourteen, a group that served as guardians of the city of [[Amaurot]] and [[The Star|the world]]. He was an accomplished scholar unmatched in the field of Phantom Creation in Amaurot's [[Akadaemia Anyder]]. He had a particular knack for creating fire spirits, such as "[[Ifrit]]a" and an immortal bird, likely [[Phoenix]].  Falling into despair when seeing their world besieged by a calamity from within, Lahabrea joined his fellow Convocation members and devised a plan to halt the calamity: summon the will of the planet, the [[primal]] [[Zodiark (Final Fantasy XIV)|Zodiark]]. The price to accomplish this feat of summoning would be grave, and caused [[Azem|one member]] to leave in dissent. Half of their people were sacrificed to offer up the necessary [[aether]] to complete the ritual.
+
+The deity succeeded in its primary purpose, but then [[enthrallment|enthralled]] those who summoned him into becoming his devout followers. The Convocation resolved to sacrifice another half of their people to replenish their ruined world. For Lahabrea and the Convocation to restore the lives of those originally sacrificed, Zodiark would require even more aether; aether that would come from the new life being born into the world. This disturbed the dissenting member of the Convocation, who felt that the sacrificial costs were already too great, and that the world now belonged to the lives birthed in it. [[Hydaelyn (character)|Hydaelyn]] was summoned in opposition to Zodiark, and the resulting conflict ended with Hydaelyn's final attack shattering reality, sundering the world and nearly all life on it into [[Hydaelyn|the Source]] and its thirteen shards.
+
+Lahabrea survived the Sundering intact along with two of his fellow Convocation members, Emet-Selch and [[Elidibus (Final Fantasy XIV)|Elidibus]], while everything he knew and loved was either sacrificed to Zodiark, or fragmented into what they consider flawed parodies. Lahabrea works with the other Paragons and their Ascian followers to orchestrate the [[Umbral Calamity]] of the shards with the Source to restore both their god and home. Lahabrea's fanatical devotion to the Rejoining would eventually cause him to lose sight of his original goal and his power as he continuously possessed new bodies, making him weaker than his unsundered colleagues and having a separate agenda from resurrecting Zodiark.
+
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+{{Quote|The end of your tale is but the beginning of another. The tale of the Crystal's demise.|Lahabrea to the Warrior of Light}}
+[[File:Ascian ARR.jpg|thumb|185px|Lahabrea in the Adventurer's vision.]]
+During the advent of the [[Seventh Umbral Era]], [[Kan-E-Senna]] senses Lahabrea from a distance and warns the others that they are being watched. The Warrior of Light has a vision of the events of the Battle of Carteneau via the [[Echo (Final Fantasy XIV)|Echo]] while speaking to one of the leaders of the three [[Grand Company|Grand Companies]]. Lahabrea watches the events unfold, remarking how the Archons, the Grand Companies, and their [[Warriors of Light#Final Fantasy XIV|Warriors of Light]] are powerless to stop [[Bahamut (Final Fantasy XIV)|Bahamut's]] fury, and that the planet will soon be returning in its true form.
+
+The Warrior of Light encounters Lahabrea in a vision from Hydaelyn's [[Crystal (term)#Final Fantasy XIV|crystal]]: Lahabrea appears from a void and attacks the Warrior just as the vision ends. Attributing it to aether sickness, the Warrior of Light's peddler companion thinks little of it.
+
+Upon entering the final area of The [[Thousand Maws of Toto-Rak]], the Warrior of Light encounters Lahabrea in person. He offers backhanded compliments before manipulating the aether and giving the banemite Graffias even greater strength with which to kill the Warrior of Light. Only after it is defeated does [[Frixio]], the elder of the [[Sylph#Final Fantasy XIV|Sylphs]], reveal that Lahabrea planned to feed him to the vilekin they had just slain.
+
+After defeating [[Titan (Final Fantasy XIV)|Titan]], [[Y'shtola Rhul]] spies on [[Nero tol Scaeva]] and [[Rhitahtyn sas Arvina]] caught in a dispute after witnessing the Warrior of Light's triumph over the primal. She discovers Lahabrea is working alongside the [[Garlean Empire]]. Regarding the others as "fools", he vanishes only to confront the Warrior of Light later, once again inside the Stone Vigil as they attempt to retrieve [[Cid nan Garlond]]'s [[Airship (term)|airship]]. Meaning to stop them from facing [[Garuda (Final Fantasy XIV)|Garuda]] before they can, Lahabrea awakens the sleeping dragon Isgebind and disappears again. After Garuda's defeat Lahabrea stands on an imperial juggernaut, remarking how much of a marvel the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]] is as is consumes [[Ifrit (Final Fantasy XIV)|Ifrit]], Titan, and then Garuda herself.
+
+[[File:Thancred Lahabrea.jpg|thumb|185px|left|Lahabrea possessing Thancred's body.]]
+When the Warrior of Light and the Scions of the Seventh Dawn are escaping from [[Castrum Centri]], Lahabrea reveals to the group he has been possessing the body of [[Thancred Waters]] and likely has since just prior to the defeat of Titan. When the party arrives near the end of [[Praetorium]], Lahabrea reveals his organization's true intention is to revive their god by using [[Gaius van Baelsar]] and the Ultima Weapon under his control, much to the Legatus's horror.
+
+{{Quote|Pathetic. You boasted of unrivaled power. You were entrusted with the ultimate weapon. The ''ultimate magic''! And still you failed. So much for the glory of man.|Lahabrea, to the defeated Gaius}}
+[[File:Lahabrea Defeated.png|thumb|190px|Lahabrea defeated by the Adventurer and their allies.]]
+Despite using the Heart of Sabik to reactivate Ultima magic and weakening Hydaelyn's protection, the Ultima Weapon is still destroyed. As Gaius lies fallen after ejecting from the warmachine, Lahabrea chastises him for his defeat. Turning his attention to the Warrior of Light, Lahabrea rants how the planet is in a state of imbalance and how Hydaelyn is the root of the corruption, describing her as a parasite that "must be burned out if the planet is to recover". Only the return of the "one true god" can ensure this. Since the primals are vital to this plan, the Scions cannot be suffered to exist, and Lahabrea declares the Warrior of Light will not leave this place alive. Once weakened in battle, Lahabrea is purged from Thancred's body by the Crystals of Light.
+
+Assumed to have been exiled to the Void, Lahabrea meets with his fellow Ascians in a dark place to prepare for Zodiark's resurrection. The Scions later learn of Lahabrea's survival from Zodiark's emissary, Elidibus, who deems the Ascian's actions reckless, yet cannot condemn him as Lahabrea's actions enabled the discovery of those strong in the Echo. Lahabrea flanks the throne of the [[Thordan VII]] alongside Elidibus, and learns of [[Nabriales]]'s demise from the latter. Though Lahabrea comments that Nabriales's demise was his own doing, he is still shocked that it had occurred to his own kind.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Lahabrea is in the presence of Archbishop Thordan VII and the [[Heavens' Ward]] as they begin their plans, smugly commenting that the "Bringer of Light" will die, unaware that the archbishop is only using him.
+
+[[File:XIV Ascian Prime.jpg|thumb|Ascian Prime]]
+Warrior of Light overwhelms Lahabrea and [[Igeyorhm]] at the bottom of the [[Aetherochemical Research Facility]] due to his or her drastically increased strength from their trials across [[Ishgard]] in combination with the newly regained Blessing of Light from Hydaelyn. Lahabrea and Igeyorhm resort to "showing the true power of the Echo" and fuse into Ascian Prime, but are still defeated while cursing Hydaelyn. Before they can escape, the Warrior of Light traps Igeyorhm in the White Auracite and shatters her essence with the left [[Eyes of Nidhogg|eye]] of [[Nidhogg (Final Fantasy XIV)|Nidhogg]].
+{{Quote|Through the Joining, the world shall become whole again. Then all shall be as once it was—as it should ever have remained.|Lahabrea}}
+[[File:FFXIV Lahabrea Death.png|thumb|left|Lahabrea's death.]]
+Thordan VII and the Heavens' Ward arrive and reveal the right eye of Nidhogg was entombed with [[Haldrath]]'s body. Using it, the archbishop transforms into the primal King Thordan, forged by the faith of Ishgard. Intent on ending the [[Dragonsong War]] and eliminating all sources of strife in the world, his first act is to sentence Lahabrea to death: the Ascian overlord is struck down by the God-King and destroyed as his aetheric energy is absorbed by the nascent primal.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Lahabrea dresses in the standard uniform of an Ascian Overlord. He wears a single black leather hooded coat with purple markings and adornments and a red half mask over the top portion of his face. At times, a glowing red emblem appears in front of his face.
+
+===Personality===
+Lahabrea exhibits a condescending and hostile demeanor, not hesitating to use dark magic to unleash a trap against the Warrior of Light during confrontations. He at times breaks into malevolent laughter. He has a low opinion of his associates in Eorzea, at one point even dismissing the Garleans as "fools". He cares little about his fellow [[Ascian]]s. According to [[Emet-Selch]], Lahabrea had a habit of discarding host bodies when they are no longer useful, weakening himself and allowing his essence to be absorbed by [[King Thordan]].
+
+===Abilities===
+As one of the Ascian Paragons, Lahabrea is a powerful sorcerer who can call monsters from [[The Void (term)|the Void]] and cast spells like [[Shadow Flare (Final Fantasy XIV enemy ability)|Shadow Flare]] and create damaging orbs and pools of [[Dark (element)|Darkness]]. Lahabrea can teleport himself and others without the use of [[Aetheryte]] and use the power of a [[Dark Crystal (term)|Dark Crystal]] to [[Enthrall|possess]] a living host body.
+
+==Gameplay==
+{{Main|Lahabrea (boss)|Ascian Prime}}
+Lahabrea is the final boss of the main storyline of ''A Realm Reborn''. He specializes in several dark-elemental spells, like Void Pitch, Shadow Flare, and Dark Orb. His attacks lack power and he can easily be defeated by any party that managed to defeat the Ultima Weapon before him. He is later fought in the Aetherochemical Research Facility alongside Igeyorhm, with them later fusing to become Ascian Prime.
+
+Lahabrea reappears in patch 4.31 as an add in the new instance [[The Weapon's Refrain]]. If the player did not awaken [[Garuda (Final Fantasy XIV)|Garuda]], [[Ifrit (Final Fantasy XIV)|Ifrit]], and [[Titan (Final Fantasy XIV)|Titan]] and obtain the Beyond Limits for healer, melee DPS, and Tank before reaching him, he kills the entire party with either Blight, which gives the player doom, Dark IV, or uses Ultima Weapon's ability [[Ultima (ability)|Ultima]].
+
+Lahabrea's Shade appears as an add along with Igeyorhm's Shade in [[The Dying Gasp|The Minstrel's Ballad: Hades's Elegy]], during the second part of the second phase. They repeat the same mechanics seen during their boss fight in the Aetherochemical Research Facility and fuse into Ascian Prime's Shade once defeated.
+
+==Musical themes==
+{{audio|filename=FFXIV Travanchet Theme.ogg|title="Without Shadow"|align=left}}
+Lahabrea's appearances are accompanied by "Without Shadow".
+{{clear}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Lahabrea.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK_Lahabrea_FFXIV.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:468a Lahabrea.png|right|100px]]
+Lahabrea appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+[[File:FFXIV Lahabrea Unmasked.png|thumb|Lahabrea's dummied model.]]
+A [[Dummied content|dummied]] Lahabrea model with a new body can be found in the game files, but it never appeared or was mentioned in-game.
+
+===Voice===
+Lahabrea was initially voiced by [[Kyle Hebert]] in the English version. Since the release of ''Final Fantasy XIV: Heavensward'', he is voiced by [[wikipedia:Alec Newman|Alec Newman]].
+
+He is voiced by [[wikipedia:Shūichi Ikeda|Shūichi Ikeda]] in the Japanese version.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Lahabrea concept.png|Concept art.
+FFXIV Before the Fall artwork.png
+FFXIV From Astral to Umbral artwork.jpg|From Astral to Umbral Arrangement Album artwork.
+</gallery>
+
+==Etymology==
+"Lahabrea" refers to the light scion "Lahabrea, Abyssal Celebrant" referred to in the profile of [[Mateus (Ivalice)|Mateus]] in ''[[Final Fantasy XII]]''. The glyph that appears when Lahabrea is channeling magic is almost identical to the bottom portion of Mateus's, only inverted.
+
+{{navbox characters FFXIV}}
+
+[[fr:Lahabrea]]
+[[pt-br:Lahabrea]]
+[[Category:Antagonists]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ascians]]

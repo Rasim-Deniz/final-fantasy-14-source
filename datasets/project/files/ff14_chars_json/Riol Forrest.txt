@@ -1,0 +1,67 @@
+{{sideicon|FFXIV}}
+{{Infobox character
+|name =Riol Forrest
+|release=FFXIV
+|japanese=リオル・フォレスト
+|romaji=Rioru Foresuto
+|image=RiolForrest.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Blonde
+|eye=Green
+|age=37
+|type=npc
+|affiliation=[[Company of Heroes]]<br/>[[Crystal Braves]]<br/>[[Scions of the Seventh Dawn]]
+|job=
+|weapon=
+|armor=
+|occupation = 
+}}
+'''Riol Forrest''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. Once a member of the Company of Heroes that fought [[Titan (Final Fantasy XIV)|Titan]], he later agrees to join the Crystal Braves, and consequently the [[Scions of the Seventh Dawn]].
+
+== History ==
+===Early life===
+Prior to the Calamity, Riol was a member of the [[Company of Heroes]] who specialized in reconnaissance and information gathering. It was with these skills he discovered the hidden means into the [[Kobold]]'s stronghold which allowed for their confrontation with Titan. Following the Calamity and parting ways from the Company, Riol worked as a freelancer and mercenary.
+
+=== ''[[Final Fantasy XIV: A Realm Reborn]]'' ===
+Riol is first met at Camp Bronze Lake in Upper La Noscea, where the Adventurer must summon him by whistling at a designated meeting place. He supplies information on how the Company used the Kobold's [[Aetheryte]]s to access the Navel beneath the O'Ghomoro Mines in order to combat Titan once more. Using this information, [[Y'shtola Rhul|Y'shtola]] is able to manipulate a nearby Aetheryte to allow the Adventurer confront the Lord of Crags.
+
+He later is seen in Patch 2.3 ''Defenders of Eorzea'', in Limsa Lominsa. As Alphinaud began to assemble the Crystal Braves, Riol took interest in the idea and decided to sign up. He is seen at the company's inauguration in [[Revenant's Toll]] as the uniforms are passed out. He begins to lead a unit in charge of intelligence gathering within the organization.
+
+During the events of Patch 2.5 ''Before the Fall'', Riol confides to the Adventurer that [[Ilberd Feare|Ilberd]] and [[Yuyuhase Luluhase|Yuyuhase]] have been telling contradictory stories over the shipment of black market arms that were intercepted at the Burning Wall. Later, while seeking the Adventurer to aid in the defense of Ishgard, Riol mentions that [[Wilred Glasse|Wilred]] mysteriously went missing and is being accused of stealing the black market arms.
+
+Wilred's body is later found by Hoary Boulder, Coultenet, and the Adventurer at Urth's Gift. After breaking the news to Minfilia, Riol is told of the boy's death and reveals he began investigating the Crystal Braves ledger. He found several oddly named sponsors such as "Dodo Consortium", which he determined were ultimately proxies owned by Mirage Trust, [[Teledji Adeledji]]'s business. With many of the Crystal Braves secretly on the Monetarist payroll, he warns that something bad is likely to happen at the upcoming Sultana's banquet in [[Ul'dah]].
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+After the traitorous Crystal Braves are driven from the Rising Stones, Riol gathers there with the other remaining loyal members of the company. When Alphinaud arrives and attempts to disband the Crystal Braves, Riol, along with the others, professes his continued loyalty to him. Following this, this group officially joins with the Scions of the Seventh Dawn.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Riol is the one to receive word from [[Thancred Waters|Thancred]] of his hurried return from Garlemald during Patch 4.4 ''Prelude in Violet''. After the latter is incapacitated, Riol is tasked with proceeding with Thancred's plan of laying the groundwork for rumors of [[Zenos yae Galvus|Zenos's]] death within the Garlean provinces.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Riol continues to work with his spying network throughout Garlemald, tracking the movements of the Garlean Army as they continue to withdrawl from the Ghimlyt Dark and other combat zones across Eorzea and Othard. As the Scions and Eorzean beast tribes come to learn of the [[Telophoroi]], Riol shifts his focus from general observation to trying to get his people to scout and investigate.
+
+After [[Kan-E-Senna]] requests Alphinaud to recount his experiences with the Crystal Braves, Alphinaud approaches Riol and [[Alianne Vellegrance|Alianne]] at [[The Fringes|Castrum Oriens]] to ask them why they stayed with the Scions following the dissolution of the Crystal Braves. Both Riol and Alianne explain that it was Alphinaud's accountability for the tragedy and the earnest belief of protecting the world that the Scions carry that inspired them to stay. Riol specifies that his former crew practised a similar creed, of "the strong protect the weak", and that he came to realize that the Scions represent the 'strong' in various aspects, not just through brawn and physical prowess.
+
+== Characteristics ==
+=== Appearance ===
+Riol is a Midlander hyur with blonde hair. He wears an eyepatch over his left eye, and has a tattoo around his right. In his Crystal Braves uniform, he wears a blue version of Grand Company lieutenant armour, including black gloves and boots. When he leaves the Crystal Braves to join the Scions, he wears a Rivera doublet with a yellow sash, black trouses, and leather boots.
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Behind the scenes==
+Riol enjoys gambling in his spare time, and is practiced enough at cheating that "folk seldom notice, if ever"<ref>Encyclopaedia Eorzea - The World of FINAL FANTASY XIV</ref>. As he is never seen in combat, nor have any weapons programmed to his model, it is unknown what Riol's class is.
+
+==Gallery==
+<gallery>
+Riol Forrest from Final Fantasy XIV.png|Riol in his Crystal Braves uniform.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

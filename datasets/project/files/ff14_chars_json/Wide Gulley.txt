@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Wide Gulley
+|release=FFXIV
+|japanese=ワイド・ガリー
+|romaji=Waido Garī
+|image=FFXIV ARR Wide Gulley.png
+|race=[[Roegadyn]]
+|gender=Male
+|home=[[Ul'dah]]
+|type=npc
+|job={{icon|ffxiv|discipline|miner}}
+|affiliation=Miners' Guild
+}}
+
+'''Wide Gulley''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a minor character in ''A Realm Reborn'' [[miner]] questline.
+
+== History ==
+When [[Deep Canyon]] begins making several nearly impossible requests to the Miner's Guild, [[Adalberta Sterne]] asks Wide Gulley to assist the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] during the quests. Wide Gulley turns the work into a competition with the Warrior to see who can complete the quest first. In one order he ends up being attacked by monsters in [[Coerthas]] and is hospitalized.
+
+After healing from his wounds he discovers the machinations Deep Canyon was planning with the Guild and denounces his father. Wide Gulley regrets and with the help of Adalberta and the Warrior they manage to clear the Deep Canyon name.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Miners]]

@@ -1,0 +1,54 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Jandelaine
+|release=FFXIV
+|japanese=ジャンドゥレーヌ
+|romaji=Jandurēnu
+|lit=
+|aka=Aesthetician
+|image=FFXIV Jandelaine.png
+|home= [[Ishgard]]
+|age=
+|dob=
+|affiliation=
+|occupation=Aesthetician
+|race=[[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=Peach and lilac
+|eye= Pink
+|blood=
+|type=npc
+|weapon=
+|armor=
+}}
+{{Quote|As once did this very realm, from the darkest depths of unseemly ugliness shall you rise anew. Prepare yourself!|Jandelaine, when summoned}}
+'''Jandelaine''' is a minor [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. Known throughout [[Eorzea]] as the "Aesthetician", he performs beauty makeovers. Jandelaine is encountered in the side-quest {{icon|ffxiv|quest|beauty is only scalp deep}}. He later appears in the Postmoogle sidequest {{icon|ffxiv|quest|of siblings and side-whiskers}}.
+
+The Aesthetician services tweak cosmetic features for a fee of 2,000 [[gil]], including access to some exclusive hairstyles not available at [[character creation]]. These functions include adjusting hairstyle and color, eyebrows, [[Tattoo (body modification)|tattoos]] and tattoo color, facial features (e.g. scars), face paint, and lip color. More complex adjustments (such as face type or eyes) require the use of a Fantasia potion. Jandelaine's services cannot be used in [[the First]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Jandelaine is met in in [[Limsa Lominsa]], depressed over losing his beauty care tools. The [[Warrior of Light (Final Fantasy XIV)|adventurer]] must procure replacements from various guilds to snap him out of his depression, and Jandelaine enthusiastically promotes his services, giving a nearby frumpy-looking [[Lalafell]] woman a makeover. As way of thanks, he gives the adventurer a voucher and offers to make service calls whenever they desire a touch-up.
+
+Much later, Jandelaine's brother, [[Guillefresne]], is trying to get him to return to [[Ishgard]] as heir to their [[High Houses of Ishgard#House Dzemael|noble house]], which shares ancestry with House Dzemael. They follow Jandelaine to [[Gridania]], where he has already visited the Carpenter's Guild, speaking to [[Beatin]], and also follow him to the Alchemist's Guild of [[Ul'dah]], where [[Severian]] mentions having spoken to him. Both guildmasters speak highly of Jandelaine and his tour through Eorzea, how for the last five years he had been of tremendous help by assisting Eorzeans from all walks of life with their self esteem and physical appearance.
+
+When confronted, Jandelaine gives Guillefresne a makeover, granting him a regal appearance, instilling him with the confidence to take the place as family heir, while understanding Jandelaine's reasons for remaining the Aesthetician. The adventurer receives a second token as a reward for aiding the brothers in their understanding.
+
+==Characteristics==
+===Appearance===
+[[File:Jandelaine.png|Jandelaine in his signature pose.|thumb|left]]
+Jandelaine is a flamboyant Duskwight [[Elezen]] with peach and lilac hair. His eyes are bright pink. He wears a pink version of the level 50 Weaver's waistcoat, including bright yellow trousers and peach pattens. He has a pocketwatch hanging from his coat, and a black necktie. He carries scissors and a comb, which he brandishes during his work.
+
+===Personality===
+Jandelaine is a flamboyant, extravagant, and loud man, who seeks to spread the true meaning of beauty across the realm. He is proud of his work, and quick to note the physical traits of others that require his assistance.
+
+==Behind the scenes==
+An Elezen retainer in the [[Final Fantasy XIV#Legacy|legacy version]] of ''Final Fantasy XIV'' shared a name with Jandelaine, as well as Guillefresne. The two appear to be different people, as the current Jandelaine does not ever mention doing retainer work.
+
+His appearance resembles the character design of the ''[[wikipedia:JoJo's Bizarre Adventure|JoJo's Bizarre Adventure]]'' series, as he dresses in the extravagant style the manga is known for and does many of its signature character poses, including those of Dio Brando, Josuke Higashikata, Noriaki Kakyoin, Joseph Joestar, and Killer Queen.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

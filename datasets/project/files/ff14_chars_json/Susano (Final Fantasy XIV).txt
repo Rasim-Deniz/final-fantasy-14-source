@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Susano (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Susano
+|release=FFXIV
+|japanese=スサノオ
+|romaji=Susanō
+|lit=Susanoo
+|aka=Lord of the Revel {{j|豪神|Gōjin|Overpowering God}}
+|image=FFXIV SB Susano render.jpg
+|home=
+|affiliation=[[Kojin]] beast tribe
+|race=[[Primal]]
+|gender=Male
+|type=boss
+|designer=
+|japanese voice actor=Nakashima Takuya
+|english voice actor= Timothy Watson
+}}
+'''Susano''', also known as the '''Lord of the Revel''', is the [[primal]] of the [[Kojin]] beast tribe in ''[[Final Fantasy XIV: Stormblood]]''.
+
+==Profile==
+{{Quote|Lord of the Revel, summoned by the Kojin tribe in an act of desperation.<br />From the myriad of deities housed within the three sacred treasures of the Kojin, Susano stepped forth to answer their pleas for deliverance. This divinity of the sea sees battle as a celebration, but challengers will find no revelry nor mercy at the edge of his fabled blade, Ame no Murakumo.|Official site description}}
+
+==History==
+Revered by the Kojin, Susano's essence was contained within the three treasures: The sword Ame no Murakumo and the mirror kept by the Red Kojin in a treasure vault on the Isle of Zekki while the Yasakani-no-Magatama gem was lost and long sought. When the Warrior of Light obtained the Yasakani-no-Magatama and takes it to Zekki as a means to force all Red Kojin to abandon their post in the imperial army, the hero unknowningly restores Susano. Creating his physical form, Susano awards the Warriors with a contest of wills on behalf of the Red Kojin. The Warrior of Light defeats Susano, fleeing the isle while [[Alisaie Leveilleur]] holds off the Red Kojin.
+
+==Gameplay==
+{{Main|The Pool of Tribute}}
+
+==Musical themes==
+{{audio|filename=FFXIV Susano 2.ogg|title="Riot"}}
+{{clear}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+[[File:PFF Susanoo Sprite.png|170px|right]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+==Gallery==
+<gallery>
+XIV Susano artwork.png|Artwork.
+FFXIV Susano 01.png
+FFXIV Susano 02.png
+FFXIV Susano 03.png
+FFXIV Susano Ex 01.png
+</gallery>
+
+==Etymology==
+{{Etym|Susanoo}}
+
+==References==
+{{citations}}
+
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

@@ -1,0 +1,104 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Vauthry
+|release=FFXIV
+|japanese=ドン・ヴァウスリー
+|romaji=Don Vausurī
+|lit=Don Vauthry
+|aka=Innocence {{J|イノセンス|Inosensu}}
+|image=FFXIV SH Vauthry.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=Mayor of [[Eulmore]]
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hume]]/[[Sin eater]] hybrid
+|gender=Male
+|height=
+|weight=
+|hair=Blond
+|eye=Blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=Natsuko Ishikawa<ref>{{Refwebsite| page url = http://forum.square-enix.com/ffxiv/threads/402737-Gamescom-2019-Q-A-%28rough-transcript%29| page name = Gamescom 2019 Q&A| site url = http://forum.square-enix.com| site name = Final Fantasy XIV Forums| access time = 17:26, September 01, 2019 (UTC)}}</ref>
+|motion capture=
+|japanese voice actor=Yasuhiro Mamiya
+|english voice actor=Edward Dogliani
+}}
+{{Quote|Are you so determined to die? One last chance, villains: bow down and acknowledge your king. Your god!|Vauthry, about to battle the Warrior of Darkness}}
+'''Vauthry''' is a non-player character in ''[[Final Fantasy XIV]]'' and serves as the secondary antagonist of ''[[Final Fantasy XIV: Shadowbringers]]''. He is the mayor of the city of [[Eulmore]], letting his people live in luxury and bliss before the world comes to an end.
+
+==History==
+Following [[Minfilia Warde]]'s preventing [[Norvrandt]] from being consumed in the [[The Flood|Flood of Light]], [[Emet-Selch]] enacts a contingency plan for the Eighth Umbral Calamity to occur. He appears before the mayor of [[Eulmore]], taking advantage of the man's desire to keep his position indefinitely by talking him into having his unborn son be infused with the essence of a Lightwarden. Due to his innate ability to render [[sin eater]]s docile, Vauthry is thus instilled with a god complex by his father as he eventually succeeds him as the ruler of Eulmore. Vauthry uses his status to feed the citizens [[meol]] leftovers secretly made from sin eater flesh to extend his ability.
+
+Vauthry encounters the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Alphinaud Leveilleur]] while punishing Kai-Shirr for entering Eulmore under false pretenses. The two get the Mystel out the city, and Vauthry becomes enraged after Alphinaud publicly insults him. When Vauthry learns the Warrior and the [[Scions of the Seventh Dawn]] are killing the other Lightwardens, he sends his general, [[Ran'jit]], to hunt them down. When the Crystarium's guards begin interfering with Ran'jit's hunt, Vauthry summons the [[G'raha Tia|Crystal Exarch]] to Eulmore to demand an explanation.
+
+The Exarch argues that defeating the Lightwardens represents the world's only hope of survival. Vauthry disagrees, telling the Exarch that the world is beyond redemption even if the Lightwardens are slain, and that the people of the First require the hand of a God to shepherd them beyond the edge. After the Exarch refuses to stop supporting the Scions, Vauthry boasts that he has already ordered a full-scale assault on the Crystarium with the sin eaters, and the Exarch quickly leaves the meeting.
+
+The ensuing war between Eulmore and the Crystarium results in heavy causalities for both sides, including four of the Lightwardens and many of the Crystarium's guard. The Exarch and the Scions launch an assault on Eulmore itself upon learning that the final Lightwarden is there. Vauthry ushers the citizens and Ran'jit to attack them, but the citizens are subdued and the Warrior of Light slays Ran'jit. Still feeling no remorse for what he has done, Vauthry reveals himself as the last Lightwarden and flees Eulmore on wings. He decides to create a new paradise on Mt. Gulg, levitating the mountain so he could not be reached.
+
+{{Quote|Why? Why am ''I'' cast down...when it is ''you'' who are the villains? Father told me...that I am hope. I am righteousness. That I am...a ''god''... That is why I was born...as man and sin eater both... I kept the people safe! They respected me! Worshipped me! How can this be? I should be the one...looking down at you... Help me, damn you... I...am your god...|Vauthry after being defeated}}
+[[File:FFXIV Innocent.png|thumb|left|Vauthry transformed into Innocence.]]
+The Warrior of Light and the Scions enlist the aid of their [[The First|First Shard]] friends to control a Talos to reach Vauthry while fighting through his sin eater army. During the final battle, Vauthry throws a temper tantrum that awakens his full power and he transforms into the Lightwarden Innocence. Vauthry unleashes his full power, but the Warrior of Light casts him down regardless. As the Scions stand over him, the dying Vauthry expresses sadness and disbelief, unable to understand why they look down upon him with such pity or how everything his father taught him could be wrong, before dissolving into light.
+{{Clear}}
+
+==Characteristics==
+===Appearance===
+Vauthry is a morbidly obese pale-skinned man who towers above every other citizen in his city. He has long blond hair and blue eyes. A second face can be seen on his chest beneath his black and purple gold-accented robes. He wears numerous gold rings.
+
+{{Spoiler}}
+During his initial transformation into a full sin eater, Vauthry develops tiny wings on his back that are nonetheless capable of supporting his weight. Upon transforming fully into Innocence, his appearance drastically changes into a slim beautiful figure adorned in purple robes, longer flowing hair and a pair of large golden, metallic wings.
+{{Endspoiler}}
+
+===Personality===
+Vauthry sees his authority as divinely ordained and those who oppose him as villains. He lacks empathy for others and throws temper tantrums when he doesn't get his way. Vauthry's outlook and god complex stem from his upbringing: being convinced that he is a sainted bridge between man and sin eater, while unable to do any wrong despite his amoral actions. He has a misanthropic view of his subjects, the world, and the people under the domain as he believes they would inevitably destroy themselves and cause only suffering without his despotic rule in what he deems as a hopelessly broken land, and that his power to control the sin eaters grants him the right to act as he pleases.
+
+Vauthry is the only [[Lightwarden]] capable of decisive thought and strategy, unlike the other Lightwardens encountered who only possess the most basic of instinct.  This trait makes him the most powerful of the Lightwardens and by extension of sin eaters, being able to coordinate them to his will and using them to justify his sense of supremacy.
+
+==Gameplay==
+[[File:FFXIV ShB Innocence render.jpg|Innocence render.|right|180px|thumb]]
+{{Main|The Crown of the Immaculate}}
+Vauthry, as Innocence, is fought as the boss of trial {{icon|ffxiv|duty|The Crown of the Immaculate}}.
+
+A harder version of Innocence is fought in an optional Extreme battle titled {{icon|ffxiv|duty|The Crown of the Immaculate (Extreme)}}. This fight skips Innocence's human form.
+
+==Behind the scenes==
+With his portly body, sporting a long blonde tuft of hair on his otherwise bald head, and the inclusion of the Beehive club in Eulmore, Vauthry is most likely an allusion to [[Don Corneo|Don Corneo]] from the ''[[Final Fantasy VII]]'' series. This connection is furthered in the Japanese version, being known as Don Vauthry {{j|ドン・ヴァウスリー|Don Vausurī}}.
+
+==Gallery==
+<gallery>
+FFXIV SH Vauthry and Ran'jit.png|Vauthry and Ran'jit.
+FFXIV Vauthry.png|Vauthry's chambers.
+FFXIV Vauthry's Sin Eaters.png|Vauthry's sin eaters.
+FFXIV Vauthry Meal.png|Vauthry consuming meol.
+</gallery>
+
+== References ==
+{{citations}}
+{{navbox characters FFXIV}}
+
+[[pt-br:Vauthry]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

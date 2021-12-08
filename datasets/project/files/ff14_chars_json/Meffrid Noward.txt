@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Meffrid Noward
+|release=FFXIV
+|japanese=メッフリッド・ノワード
+|romaji=Meffuriddo Nowādo
+|aka=
+|image=FFXIV Meffrid Noward.png
+|portrait=
+|home=[[Ala Mhigo]]
+|age=38
+|affiliation=[[Ala Mhigan Resistance]]
+|occupation=Rebel
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=Black
+|eye=Brown
+|blood=
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|abilities=
+|weapon=Doctore's Scimitar
+|armor=
+|japanese voice actor=Kenichirou Matsuda
+|english voice actor= Matt Stokoe
+}}
+'''Meffrid Noward''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He is a leader of the [[Ala Mhigan Resistance]] and a friend of [[M'naago Rahz]] and [[Lyse Hext]].
+
+==History==
+{{Character section|Final Fantasy XIV}}
+
+== Characteristics ==
+=== Appearance ===
+Meffrid initially wears a hempen undershirt, beige weathered slops and leather sandals. During the events of ''[[Final Fantasy XIV: Stormblood]]'', Meffrid is outfitted with Ala Mhigan Resistance gear.
+
+==== Personality ====
+Meffrid can be quick to anger when he and his people are in need of assistance, shown when the Elementals reject them. When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] helps them Meffrid is thankful.
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

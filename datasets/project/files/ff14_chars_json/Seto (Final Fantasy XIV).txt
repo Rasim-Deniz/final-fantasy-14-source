@@ -1,0 +1,40 @@
+{{sideicon|FFXIV}}
+{{DISPLAYTITLE:Seto (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Seto
+|release=FFXIV
+|japanese=セト
+|romaji=Seto
+|image=FFXIV ShB Seto.png
+|home=[[Il Mheg#Wolekdorf|Wolekdorf]]
+|race=[[Amaro]]
+|gender=Male
+|type=npc
+|japanese voice actor=Mitsuaki Kanuka
+|english voice actor=Brian Protheroe
+}}
+'''Seto''' is a huge [[amaro]] in ''[[Final Fantasy XIV: Shadowbringers]]'' who lives at [[Il Mheg#Wolekdorf|Wolekdorf]]. He was once the companion of [[Ardbert]].
+
+==History==
+Seto originally belonged to a counterfeit jeweler in [[Amh Araeng|Amh Araeng]] who abused and mistreated him. Ardbert, after hunting down the man with his party for a bounty, recognized Seto's intelligence and decidesdto make the amaro his companion.<ref>[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_shadows/sidestory_06/#sidestory_06 Tales from the Shadows - A Dream Partnership]</ref> During their adventures around the world, Seto's sentience was aroused. After the world [[The Flood|was flooded with light]], society marked Ardbert as a villain; Seto, angry at everyone for ignoring Ardbert's good deeds, settled in [[Il Mheg#Wolekdorf|Wolekdorf]] to live with other amaros.
+
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] ventured to Wolekdorf in search of the crystal to break the seal of [[Titania (Final Fantasy XIV)|Titania]], Seto refused to hand it over and offered the Warrior a trial; once completed, he relied on the Warrior's resistance to the light. Seto asked the Warrior to retrieve the locket of his former master who fell into the lake. Receiving the medallion, Seto bestowed the crystal and said the Warrior's soul resembled that of his former master.
+{{Quote|I see... His journey continues. Then I will not yet bid him rest. With you, he may look forward to many more adventures. It has been a while since last I flew. Perhaps I too will go on a little adventure. Ride the winds, seek the horizon... Yes. I think perhaps I will.|Seto to the Warrior of Darkness}}
+After the battle against [[Elidibus (Final Fantasy XIV)|Elidibus]] and as the [[Scions of the Seventh Dawn|Scions]] made preparations before returning to the [[Hydaelyn|Source]], the Warrior of Darkness went back to Seto, entrusting Ardbert's powerless Crystal of Light to the amaro. Saddened that the [[Ascian]] used his partner's body for evil deeds, he was nonetheless glad Ardbert could finally rest in peace. Seto sensed his friend's soul within the Warrior of Darkness and the two briefly reconciled, motivating the amaro to start an adventure of his own one day.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Character section|Final Fantasy XIV}}
+
+==Gallery==
+<gallery>
+FFXIV ShB Ardbert party.png|Ardbert's party.
+FFXIV ShB Ardbert and Seto.png|Ardbert's spirit and Seto.
+</gallery>
+
+==References==
+{{Citations}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Amaros]]

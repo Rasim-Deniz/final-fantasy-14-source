@@ -1,0 +1,57 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Tenzen (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Tenzen
+|release=FFXIV
+|japanese=テンゼン
+|romaji=Tenzen
+|aka=
+|image=FFXIV Tenzen.png
+|home=
+|age=
+|affiliation=
+|occupation=Samurai
+|education=
+|hobby=
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|samurai}}
+|weapon=
+|armor=
+|original appearance=[[Tenzen (Final Fantasy XI)|Tenzen]] from ''[[Final Fantasy XI]]''.
+}}
+{{Q|A Hyuran man whose strength and compassion made him a legend.|[[Unsavory Imp]]'s description}}
+'''Tenzen''' is a historical character from ''[[Final Fantasy XIV]]''. He was a samurai who helped the [[Four Lords]] to seal [[Koryu]] in the past.
+
+His name and appearance allude to the [[Tenzen (Final Fantasy XI)|samurai of the same name]] from ''[[Final Fantasy XI]]''. The tales of his adventures provided by [[Suzaku]], [[Byakko]], [[Genbu]] and [[Seiryu]] imply that Tenzen may have been blessed with the [[Echo (Final Fantasy XIV)|Echo]] and the ability to understand animals.  
+
+There is also the less likely but not impossible alternative that Tenzen was a previous incarnation of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], as Suzaku (though under emotional duress at the time) has difficulty in telling the two apart during a confrontation, and the [[Four Lords]] all note similarity with the player character to Tenzen.
+
+==History==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Tenzan meets Byakko.png|Tenzen met Byakko.
+FFXIV Tenzan and Byakko.png|Tenzen and Byakko became friends.
+</gallery>
+
+==Etymology==
+{{Etym|Tenzen}}
+{{clear}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Samurai]]
+[[Category:Hyurs]]

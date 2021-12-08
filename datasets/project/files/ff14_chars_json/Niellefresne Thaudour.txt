@@ -1,0 +1,56 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Niellefresne Thaudour
+|release=FFXIV
+|japanese=ニエルフレーヌ・トドゥール
+|romaji=Nierufurēnu Todūru
+|lit=Nielfreyn Todoor
+|image=FFXIV 1x Niellefresne render.png
+|race=[[Elezen]]
+|gender=Male
+|hair=Gray
+|eye=Blue
+|home=[[Ul'dah]]
+|affiliation = Eshtaime's Lapidaries
+|occupation =
+|type=npc
+|job={{icon|ffxiv|discipline|goldsmith}}
+}}
+'''Niellefresne Thaudour''' is a [[non-player character]] from the [[Final Fantasy XIV/Legacy|original]] ''[[Final Fantasy XIV]]''. He was the former goldsmith guildmaster's son. He died before the [[Umbral Calamity|Calamity]] and he was the older brother of [[Colbernoux]]. 
+
+== History ==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV 1x Niellefresne.png|thumb|left|Niellefresne in-game.]]
+Niellefresne was running the parade at Ul'dah, chastising [[Greinfarr]] for being late. Before they could leave he was stopped by F'lhaminn and told Greinfarr to take the flower as a precaution. As the parade began all seemed to be going well until a gobbue broke free and knocked over the carriage and injured F'lhaminn. Running to her aid to check on her, she woke up and alerted him of a rampaging gobbue. [[Thancred Waters|Thancred]] jumped in to distract the beast as the two ran to safety. After its defeat the gobbue went on another rampage while Nielle and F'lhaminn gave chase. The gobbue crashed into a wall, knocking Warburton into a coma. These events are later witnessed seen by the [[Warrior of Light (Final Fantasy XIV)|adventurer]] in an [[Echo (Final Fantasy XIV)|echo]] flashback.
+
+The adventurer goes to the goldsmiths guild to sell one of the flowers from the parade. They were taken back in time and met Nielle who noticed that the flower does not wilt and paid them for compensation. In another echo he appears at the gladiator's guild speaking with Greinfarr about how Ul'dah is in need of a reformation.
+
+In what appears to be the Platinum Mirage, Thancred plays a betting game for Nielle to admit the truth to everyone present. Thancred explains there are merchants in Ul'dah looking to profit off the war with the [[Garlean Empire]], and there are people looking for fame and glory in the people's time of need. Nielle doesn't admit to any of his claims and leaves.
+
+Outside Ul'dah, [[Corguevais]] plans on taking [[Minfilia Warde|Ascilla]] back to [[Ala Mhigo]], but Nielle and the others disagree. He reveals Ul'dah is in danger soon from something worse than the empire. Uninterested in the girl, Nielle worries about the safety of Ul'dah. Corguevais blows the horn that caused the gobbue to go rampant in the parade, summoning a horde of coblyns. As he makes his escape Ascilla is left behind and is attacked by the creatures. F'lhaminn defends her, but is knocked unconscious. Nielle asks the adventurer to help them fight, and after the battle, they take F'lhaminn back to Ul'dah.
+
+The group discusses what Corguevais meant by the threat and assumes he was a Garlean spy. F'lhaminn wakes and tells the group to seek out Thancred who was investigating the Garleans. He was exiled for unknown reasons and Nielle promises to look into the matter himself.
+
+[[File:FFXIV 1x Niellefresne attacked.jpg|thumb|Niellefresne is attacked from behind.]]
+Nielle plans on resurrecting Warburton for the information he had, as well as to atone for causing his death. As he is about to prepare the corpse he is shocked about what he finds in the coffin. A robed man comes behind him and stabs him in the back. Thancred and the adventurer find him, and Nielle points to the girl Ascilla and shortly passes away.
+
+Ten years later, Colbernoux said that Niellefresne had fled with the [[Heartstrike]], a blade capable of restoring life to the dead. When Niellefresne was attacked and murdered, the Heartstrike's powers awoke, and since then, Niellefresne's body has never deteriorated. Colbernoux says that his only wish was to send a soul from his brother to the kingdom of Thal, where he could find peace. However, he doesn't know how.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[file:FFXIV SB Niellefresne spirit.png|thumb|F'lhaminn says farewell to Niellefresne.]]
+The Warrior of Light investigates this phenomenon along with F'lhaminn and several of their old companions, and discovers that the weapon used to kill him was the necromantic blade Heartstrike. Although it was designed to raise anyone struck by it as an undead, its enchantment had weakened, and instead merely preserved Nielle's body, preventing his soul from moving on. With the help of [[Severian Lyctor]], the Warrior of Light destroys the remaining enchantments on Heartstrike, allowing Nielle's soul to depart, and giving F'lhaminn and her friends the chance to say their farewells.
+
+== Characteristics ==
+=== Appearance ===
+Niellefresne is a tall [[Elezen]] with gray hair and blue eyes who wears round glasses. His clothing marks him as a well-to-do person in [[Ul'dah]], which is exactly what he is. He wears a bright red vest (likely velveteen) with dark brown leather lining over a black shirt, likely velveteen as well. His pants are silvery white and his shoes black with pointy tops.
+
+=== Personality ===
+Nielle cares deeply for [[F'lhaminn Qesh|F'lhaminn]] as the two were lovers. He worries about the well-being of Ul'dah and believes it needs to be reformed. Nielle is seen as callous when showing no remorse for the death of [[Warburton]], but deep down he cares and feels he must atone for what he's done.
+
+==Gameplay==
+Niellefresne appeared as a [[Guest]] NPC during 1.0 quests [[Quests (Final Fantasy XIV)/Legacy/Ul'dah#Flowers For All|Flowers For All]] and [[Quests (Final Fantasy XIV)/Legacy/Ul'dah#Calamity_Cometh|Calamity Cometh]]. He does not attack enemies, but will instead heal the player with Potions if their HP gets low.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Goldsmiths]]

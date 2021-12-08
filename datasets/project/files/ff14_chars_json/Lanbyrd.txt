@@ -1,0 +1,42 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Lanbyrd
+|release=FFXIV
+|japanese=
+|romaji=
+|image=FFXIV ShB Lanbyrd.png
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=Bounty hunter
+|race=[[Hyur|Hume]]
+|gender=Male
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+|weapon=Axe
+}}
+
+'''Lanbyrd''' is a character from ''[[Final Fantasy XIV]]''. He is a minor character during the Physical ranged DPS questline in the ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]'' expansion.
+
+==Profile==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Story==
+{{Spoiler}}
+Lanbyrd was hired by [[Lue-Reeq]] in his searches for Cardinal Virtue [[Renda-Rae|Andreia]], but dissatisfied with Lue-Reeq's behavior, he left the party shortly after. 
+
+Lanbyrd forms his own party and continue the searches. Seeking to recreate his old party, Andreia attacks Lanbyrd and turns him into a [[sin eater]] because he has the same characteristics as [[Ardbert]] (a Male Hume Warrior). Discovering Lanbyrd's fate, Lue-Reeq and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] confront and defeats Andreia's party and ensure their souls can rest.
+
+==Gameplay==
+Lanbyrd is fought as Immaculate Warrior, one of Andreia's Sin Eaters in a solo duty during Physical DPS role quest level 80 "Courage Born of Fear". During the fight, Immaculate Warrior focuses his attacks on Lue-Reeq casting cone-shaped AoEs.
+{{Endspoiler}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Warriors]]

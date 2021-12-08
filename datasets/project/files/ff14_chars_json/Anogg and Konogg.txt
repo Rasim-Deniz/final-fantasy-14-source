@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Anogg and Konogg
+|release=FFXIV
+|japanese=アノッグ, コノッグ
+|romaji=Anoggu, Konoggu
+|aka=
+|image=Anogg and Konogg from FFXIV.png
+|home=[[Kholusia#Komra|Komra]]
+|age=
+|affiliation=
+|occupation=
+|race=[[Lalafell|Dwarf]]
+|gender=
+*Female (Anogg)
+*Male (Konogg)
+|type=npc
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Clever and curious twins who make their home─and a nuisance of themselves─in the village of Komra. They are determined that the Warrior of Darkness help bring their master plan to fruition...whatever that may be.|Official Description.}}
+'''Anogg and Konogg''' are an older sister and younger brother, the twins are non-player characters from ''[[Final Fantasy XIV]]''. They appear in the ''[[Final Fantasy XIV: Shadowbringers]]'' expansion as relevant characters for the [[YoRHa:Dark Apocalypse]] alliance raids' storyline.
+
+==History==
+Anogg and Konogg helped chase and capture a group of watchman triplets who were stealing tools. They spent enough time without bothering the excavation site boss, who became was concerned they were up to something behind his back.
+
+The [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] meets Anogg and Konogg before the now unprotected entrance to the Machine Graveyard. They regret that the door remains locked, but soon blow up the entrance. Inside the tunnels, the party rescues a woman from a group of mysterious machines. The mysterious woman in white identifies herself as "[[2P]]", but gives no further details, instead insisting that the Warrior delve deeper into the ruins to stop the "machine lifeforms".
+
+[[File:FFXIV YoRHa Dark Apocalypse part1 01.png|left|thumb|Anogg, Konogg and 2P.]]
+Once again the group faces a sealed door and the dwarf duo explode again to make way for the [[Copied Factory]]. Exploring the Factory, the party is attacked by various hacked machines by an android called [[9S (Final Fantasy XIV)|9S]]. 2P throws 9S off the platform but ends up damaging herself. 2P reveals the she is an android and asks the party to retrieve a "key" in the depths of the ruins before losing consciousness.
+
+Anogg rushes off to chase the key. Konogg attempts to dissuade her from rushing headlong into danger at a stranger's behest, but Anogg, refuses to consider that he may have a point, and insists upon cooperating with the android, believing it to be the most expedient means of making even greater discoveries. In disagreement, the twin dwarves perform their separate searches, and with the help of the Warrior of Darkness collect components and restore a fallen pod. They discover unconscious 9S and decide to keep him intact until he wakes up again.
+
+The Warrior of Darkness returns to Komra and aids the twins in reactivating 2P, and invites them to the town carnival. Soon after, white-clad androids bombard the town, and the trio are betrayed by 2P, only to be saved by another android named [[2B (Final Fantasy XIV)|2B]]. An adventuring party pursues the androids into the Puppets' Bunker, fighting their way through the white androids and eventually confronting 2P, who becomes an amalgamation of semi-formed androids. Upon defeating 2P, the Warrior of Darkness and the dwarf twins return to Komra with 2B, and escort her to where 9S is kept. 2B confirms that 9S is her comrade and that his assistance is required to complete her mission. A group of angry townsdwarves and the elder confront the twins, but 2B intervenes, finding the argument over blame to be pointless. Anogg runs away from Komra out of guilt over the events that transpired.
+
+[[File:FFXIV Konogg Compound.jpg|thumb|Konogg collapsed before the Compound.]]
+The Warrior of Darkness meets up with Konogg again, who is accosted by a group of townsdwarves, one of which whose wife suffered a miscarriage during the machine lifeforms' attack on Komra. Konogg attempts to make amends with the couple by bringing them mead from Stilltide, but his sentiments are rejected, causing him to run away to the alien ship within the Puppets' Bunker. The Warrior finds him communing with a [[w:c:drakengard:Seeds of Destruction|mysterious white orb]], causing them to experience an [[Echo (Final Fantasy XIV)|Echo]] vision of Konogg's past; they learn that Anogg died saving her brother from a cave-in, and that Konogg found a copy of her next to the orb.
+
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Anogg and Konogg are dwarves look the same with an inverted black and white color schemes. Their black faces with large yellow eyes likes them to the traditional [[Black Mage (job)|Black Mage]] design from the [[Final Fantasy series|series]].
+
+===Personality===
+{{Section}}
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

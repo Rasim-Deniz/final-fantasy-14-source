@@ -1,0 +1,30 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=175th Order Alchemist Bi Bi
+|release=FFXIV
+|japanese=アルケミスト175 ビ・ビ
+|romaji=Arukemisuto 175 Bi・Bi
+|image=FFXIV ARR Bi Bi.png
+|race=[[Kobold]]
+|home=[[Outer La Noscea|789th Order Dig]]
+|gender=Female
+|eye=
+|age=
+|job = 
+|weapon = 
+|armor = 
+|affiliation=175th Order 
+|occupation=Alchemist 
+|type=npc
+}}
+'''175th Order Alchemist Bi Bi''' is a non-player character from ''[[Final Fantasy XIV]]''. She is an alchemist of the kobolds, as well as the girlfriend of [[789th Order Pickman Gi Gu|Gi Gu]].
+
+== History ==
+Under threats from [[13th Order Fugleman Zo Ga|Zo Ga]], Bi Bi created an oven prototype that Zo Ga could use to punish those who objected to him. After receiving help from the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] she explains to him the situation he is in and reveals his feelings about [[789th Order Pickman Gi Gu|Gi Gu]]. Later with the help of the Warrior of Light, Gi Gu deploys bombs in the ovens and gets the courage to defeat Zo Ga and save Bi Bi.
+
+==Characteristics==
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Kobolds]]

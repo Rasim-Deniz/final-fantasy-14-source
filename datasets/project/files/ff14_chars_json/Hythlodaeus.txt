@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Hythlodaeus
+|release=FFXIV
+|japanese=ヒュトロダエウス
+|romaji=Hyutorodaeusu
+|lit=
+|aka= 
+|image=Hythlodaeussan.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Amaurot]]
+|age=
+|dob=
+|affiliation=
+|occupation=Chief of the Bureau of the Architect
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Ascian|Ancient]]
+|gender=Male
+|height=
+|weight=
+|hair=Mauve
+|eye=Purple
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=Soulseer
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[Soichiro Hoshi]]
+|english voice actor=[[wikipedia:Toby Regbo|Toby Regbo]]
+}}
+{{Quote|I know only that my name is Hythlodaeus, and that this city is a recreation—a phantom moment plucked from the well of history.|Hythlodaeus}}
+'''Hythlodaeus''' is a character from ''[[Final Fantasy XIV]]''. He is met in [[Amaurot]] during the final missions of ''[[Final Fantasy XIV: Shadowbringers]]''.
+
+==History==
+=== Early life ===
+Hythlodaeus was one of the few Ancients born with the gift of "soul sight", and was sought out to be recruited into [[Amaurot]]'s Convocation of Fourteen for the seat of Emet-Selch, but turned it down in favor of his friend [[Emet-Selch|Hades]], another Ancient with soul sight. He was friends with the Ancient that held the seat of [[Azem]], whom he secretly aided at times during their travels throughout the world. When Etheirys was besieged by the [[Final Days]], Hythlodaeus was among those who were sacrificed to summon [[Zodiark (Final Fantasy XIV)|Zodiark]].
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]]{{note|Previously known as the "Warrior of Light" while on the Source}} confirmed their entry into the Capitol to confront [[Emet-Selch]], they were assaulted by the Light stored inside them by the [[Lightwarden]]s. The pain subsided when Hythlodaeus asked the Warrior to sit next to him, distracting them from the pain.
+[[File:FFXIV Hythlodaeus.png|thumb|Shade of Hythlodaeus.]]
+Hythlodaeus knew he was a Shade, theorizing that Emet-Selch had made a mistake while making him, indicating that they were friends once. Hythlodaeus could see [[Ardbert]], if only ephemerally. Hythlodaeus touched on the catastrophe that awaited the ancient Amaurotines of the [[The Star|original world]] and called it the Final Days. He described the nature of the incidents transitioning from isolated and non-related into a world-spanning threat.
+
+The Convocation of Fourteen—which at the time was Thirteen—had endeavored to create a will for the Star that required vast amounts of [[aether]], provided willingly by an already decimated Amaurotine population in the name of salvation. It had taken nearly half of the remaining Amaurotines and had birthed Zodiark from their sacrifice, halting the calamity. The Star had suffered so much that restoring life to its surface had required Zodiark to be summoned yet again, further halving the remaining Amaurotine population. After stating that he recognized the "color" of the Warrior's soul, and calling them his "new old friend", Hythlodaeus vanished.
+{{Quote|Oh, there is no need for thanks. But nor will I hear any complaints about it either. After all, I cannot say whether I act of my own volition or by the will of my recreator!|Hythlodaeus}}
+When the Warrior of Darkness returned to Amaurot to rescue [[Y'shtola Rhul]] from [[Elidibus (Final Fantasy XIV)|Elidibus]] and discovered the Convocation members' memory crystals, Hythlodaeus awaited by Emet-Selch's stone. He implored the Warrior to keep the stones. While he passed no judgment on their battle with Elidibus, he wished for the Warrior to live, that they might keep their promise to remember Amaurot. He offered the Warrior the memory stone of his old friend Azem, secretly created by Emet-Selch. While he was uncertain if the wish for the Warrior to have it was his, or a fragment of Emet-Selch's will, Hythlodaeus was certain that the stone belonged to the Warrior of Darkness.
+
+=== ''[[Final Fantasy XIV: Endwalker]]'' ===
+The real Hythlodaeus appeared on the [[Moon (Final Fantasy XIV)|moon]] along with spirits of those sacrificed to create Zodiark, recognizing the Warrior as Azem reborn and offering his aid to keep the other shades at bay. When Zodiark was destroyed, Hythlodaeus's soul passed on.
+
+==Characteristics==
+===Appearance===
+Hythlodaeus appears much like the shades of [[Ascian|Ancient]]s that populate Amaurot in the [[Tempest (Final Fantasy XIV)|Tempest]]. He towers over the Warrior of Darkness and the [[Scions of the Seventh Dawn]], wearing the signature Amaurotine gray robes and half-mask.
+
+===Personality===
+Despite being aware of being a shade, Hythlodaeus chooses to continue as normal, aware that he cannot change anything as he is. He is civil when talking to the Warrior and seeks only to confirm their resolve.
+
+In "[https://eu.finalfantasyxiv.com/lodestone/special/tales_from_the_shadows/ Tales from the Shadows]", Hythlodaeus was said to be friendly but incurably smug for little escaped his perception. He could perceive the Underworld as well as the intent, form, and [[aether]] of others. He teased [[Emet-Selch|Hades]] with coy remarks but nevertheless respected his close friend. He was humble, having denied the title of Emet-Selch despite being the keener of the pair.
+
+== Gameplay ==
+Hythlodaeus is a selectable [[Trust System]] party member for [[Ktisis Hyperboreia]]. His class is Soulseer, which fills the same role as [[Bard (Final Fantasy XIV)|Bard]].
+
+==Etymology==
+His name came from Raphael Hythlodaeus ("Hythlodaeus" meaning "Speaker of Nonsense" in Greek), a character from Thomas More's ''{{W|Utopia (book)|Utopia}}''.
+
+==Notes==
+{{Notelist}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Bards]]

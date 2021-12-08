@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Lalai Lai
+|release=FFXIV
+|japanese=ラライ・ライ
+|romaji=Rarai Rai 
+|aka=Lalai Darkeyes
+|image=FFXIV Lalai.png
+|race=Dunesfolk [[Lalafell]]
+|gender=Female
+|height= 
+|hair=Peach
+|eye=Gray
+|designer= 
+|age=24<ref name=EE233>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 233</ref>
+|affiliation=[[Order of Nald'thal]]
+|occupation=Priestess
+|job={{icon|ffxiv|discipline|black mage}}
+|weapon=Stardust Rod
+|armor=Sorcerer's Attire
+}}
+'''Lalai Lai''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is a disciple of the mage [[Ququruka Tataruka]], and is a key character in the [[Thaumaturge#Black Mage|Black Mage]] job quests.
+
+== History ==
+===Early life===
+A priestess of the [[Order of Nald'thal]]. During a visit to the [[Marasaja Pit]] to hear the confession of a prisoner, Lalai was distracted by the presence of powerful magicks. Seeking to identify the source of this arcane disturbance, she ventured into the deepest reaches of the prison. There, she encountered [[Ququruka Tataruka]], a legendary mage who had spent the past century meditating in unbroken confinement. His vast knowledge of divine myth and ancient thaumaturgy ignited in her a burning curiosity—a ravenous flame that demanded to be fed. Thus it was that her frequent duties within the Pit masked her gradual initiation into the art of black magic at the foot of her imprisoned master.<ref name=EE233/>
+
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+[[File:Lalai from Final Fantasy XIV legacy.png|thumb|left|Lalai in version 1.0.]]
+Though normally an attendant at the Milvaneth Sacrarium, it has since been closed due to damage during the Calamity and has yet to be reopened. Lalai is a major contact for the Black Mage guild, relaying instructions from Ququruka, before eventually sending the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to consult [[Kazagg Chah]]. Later, Lalai learns that Ququruka isn't quite who he claimed he is, but the man is ultimately exonerated when he explains his story with Barbatos.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Lalai discovers a note among Ququruka's personal affects regarding the whereabouts of two priceless tomes: the Books of Nald and Thal. As repositories of black magic, she wishes to secure the relics so their knowledge can be studied. They recover the Book of Nald at [[Southern Thanalan#Nald's Reflection|Nald's Reflection]], but when they search for the Book of Thal at [[Eastern Thanalan#Thal's Respite|Thal's Respite]], Lalai is shocked to discover it had been recently pilfered by an unknown thief.
+
+A Hearer named [[Zhai'a Nelhah]] is discovered to be tracking a rogue black mage named [[Waldeve]], who leads a cult called "the Defiant."
+{{Section}}
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Character section}}
+
+== Characteristics ==
+=== Appearance ===
+[[File:FFXIV Lalai without hat.png|thumb|Lalai without her hat, eyes green from spiritual possession.]]
+Lalai is a Dunesfolk [[Lalafell]] wearing an outfit in the classical image of [[Black Mage (job)|Black Mages]]. Her face is still partially visible under her hat, and she has gray eyes. When periodically possessed by the spirit of Shatotto, her eyes turn green.
+
+=== Personality ===
+Devoted to the teachings of Ququruka, Lalai is a talented mage who delves into the history and teachings of Mhach. She is a stout believer that black magic can be used for good, and can be quite defensive when others insult this class of magic.
+
+==Gameplay==
+Lalai appears as an NPC ally during the job quest {{icon|ffxiv|quest|The Defiant Ones}}, where she fights alongside the player.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:Black Mages]]

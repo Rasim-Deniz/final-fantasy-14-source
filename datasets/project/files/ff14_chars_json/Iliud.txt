@@ -1,0 +1,40 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name =Iliud
+|release = FFXIV
+|japanese =イリュド 
+|image =FFXIV Iliud.png 
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Gray
+|eye = Green
+|romaji=Iryudo 
+|lit=Ilyud
+|affiliation=[[Eastern Thanalan|Church of Saint dama Landama]]
+|occupation=Priest
+|home=[[Eastern Thanalan|Drybone]]
+|type=npc
+}}
+'''Iliud''' is a character from ''[[Final Fantasy XIV]]''. He is a priest of the Church of Saint Adama Landama in [[Thanalan]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Some time after the Calamity, Iliud had taken in an amnesiac [[Cid nan Garlond]] who was injured during the chaos of Bahamut's rampage. The man reminded him of his deceased son, and had "Marques" taken in as a priest of the church. They are first encountered when the [[Warrior of Light (Final Fantasy XIV)|adventurer]] is assisting [[Thancred Waters|Thancred]] with the investigation of people being abducted by the [[Amalj'aa]].
+
+After the Garlean raid on the Waking Sands, Iliud has a more prominent role in the story, where the player is directed to him by a dying [[Noraxia]], as per [[Minfilia Warde|Minfilia's]] last instructions. Iliud takes the adventurer in and formally introduces Marques.
+
+Shortly thereafter, [[Alphinaud Leveilleur|Alphinaud]] arrives at the church seeking both the adventurer and Cid in hopes of restoring the Scions, due to the [[Ixal]] summoning [[Garuda (Final Fantasy XIV)|Garuda]]. As Marques struggles to recall his past upon hearing his true name, Iliud gathers his toolbox. He notes that while he enjoyed their time together, others are now in need of his help. Iliud wishes the three luck as they depart to find Cid's airship.
+
+Father Iliud is last seen in the Waking Sands after the celebration over the fall of the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]. In the main scenario quests added in Patch 2.1, he later provides crucial information on locating [[F'lhaminn Qesh|F'lhaminn]].
+
+==Characteristics==
+=== Appearance ===
+Iliud is a old Midlander hyur with short gray hair and a beard. He wears round glasses, and a long black robe.
+
+=== Personality ===
+A caring person, Iliud took care of Cid after the Calamity and even the adventurer as the story progresses.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

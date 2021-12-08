@@ -1,0 +1,265 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Alphinaud Leveilleur
+|release=FFXIV
+|japanese=アルフィノ・ルヴェユール
+|romaji=Arufino Ruveyūru
+|image=Alphinaud from Final Fantasy XIV Heavensward.png
+|portrait=[[File:Alphinaud Trust Portrait from Final Fantasy XIV.png|81px|Trust portrait.]][[File:Alphinaud Trust Portrait 2 from Final Fantasy XIV.png|81px|Alternate outfit Trust portrait.]]
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=Sharlayan
+|age=16 (2.0) <ref>{{Refwebsitedead| page url = http://www.finalfantasyxiv.com/anniversary/na/detail/memoir_5.html?rgn=na&lng=en| page name = Tales from the Calamity: In Louisoix’s Wake| site url = http://www.finalfantasyxiv.com| site name = Final Fantasy XIV Official Website| access time = 20160702151736}}</ref><!--The members of the Scions of the Seventh Dawn do not age during their time on the First due their bodies being on the Source. Please do not add an age unless information can be cited from an official source. -->
+|dob=
+|affiliation=[[Scions of the Seventh Dawn]]
+|occupation=
+|education=Studium
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Elezen
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=Blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=party npc
+|job=
+{{icon|ffxiv|discipline|arcanist}} (''A Realm Reborn'')<br>
+{{icon|ffxiv|discipline|academician}} (''Shadowbringers'')<br>
+{{icon|ffxiv|discipline|sage}} (''Endwalker'')
+|weapon=Adelphoi
+<!--Behind the scenes info -->
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=[[Shinnosuke Tachibana]]
+|english voice actor=
+[[Sam Riegel]] (''A Realm Reborn'')<br>
+{{W|Colin Ryan (actor)|Colin Ryan}} (''Heavensward'' onwards)
+|other appearances=true
+|dffoo=true
+|theatrhythm=true
+|ffrk=true
+}}
+{{Quote|A member of the Scions of the Seventh Dawn, Alphinaud was the youngest individual in history to be accepted into the Studium, Sharlayan's premier academic institution. Leaving his homeland with grand dreams of delivering the world from destruction, he has suffered many a humbling experience throughout his journey, but bolstered by comrades old and new, he forges on towards his life's goal.|Official ''Shadowbringers'' website}}
+'''Alphinaud Leveilleur''' [[wikipedia:Help:IPA for French|[alfino ləvɛjœʁ]]] is a character in ''[[Final Fantasy XIV]]''. He and his younger twin sister, [[Alisaie Leveilleur|Alisaie]], are the grandchildren of [[Louisoix Leveilleur]] and the children of [[Fourchenault Leveilleur|Fourchenault]] and Ameliance Leveilleur. Alphinaud serves as a member of the [[Scions of the Seventh Dawn]] in the later portions of ''A Realm Reborn'' and is one of main companions to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] throughout the events of subsequent expansions.
+
+==History==
+===Early life===
+Alphinaud and his twin sister Alisaie were born to [[Fourchenault Leveilleur]], a [[Sharlayan]] dignitary and son of [[Louisoix Leveilleur]], in the [[Dravanian Hinterlands]]. However only a year after they were born the Sharlayan colony in Dravania was abandoned and the entire population returned to the Sharlayan motherland. As a result of leaving at such a young age, Alphinaud and Alisaie have no memory of the Dravanian Hinterlands.
+
+Alphinaud and his sister attended the Studium at a young age, with Alphinaud entering half a year before her, making him the youngest student to ever attend. He also graduated with the highest honors and was the champion of the debate chamber. Alphinaud was very pouplar while at the Studium, and even after graduating is regarded as a legend by the current students. During his time there he learned to be an artist in order to impress the female students, and according to Alisaie there was more than one occasion where a girl mistook her for her brother and asked her out.
+
+The twins were given grimoires by Louisoix before he left for Eorzea. The twins were unaware that their tomes were halves of a larger grimoire, signifying Louisoux's wish for the twins to understand each other and share a common goal.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Alphinaud and Alisaie Gridania Opening.jpg|thumb|left|Alphinaud and Alisaie in the opening cutscene.]]
+When upon a carriage the merchant riding with them mentions how Alphinaud and Alisaie are not much for conversation. The siblings do not speak to the Warrior of Light until the remembrance ceremonies, where Alphinaud explains the meaning behind each [[Grand Company|Grand Company's]] flag. Later, the twins argue over the Grand Company leaders using the ceremony to rally their troops rather than make mention of the Warrior of Light, who is the purpose for the ceremony.
+
+While Alisaie storms away, Alphinaud becomes an active member of the Scions of the Seventh Dawn. After the massacre at the [[Waking Sands]] and the seeming disbandment of the Scions, Alphinaud seeks out [[Cid nan Garlond]] to snap him out of [[Amnesia (term)|amnesia]]. He reveals his last name as Leveilleur.
+
+After recovering Cid's [[Airship (term)|airship]], the ''[[List of airships#Final Fantasy XIV|Enterprise]]'', and securing a means to fly it safely into the Howling Eye, Alphinaud accompanies the Warrior of Light and Cid to confront [[Garuda (Final Fantasy XIV)|Garuda]]. They are forced to flee with the arrival of [[Gaius van Baelsar]], an imperial legatus. Alphinaud works with the rescued Scions to take down the imperial invasion force and their [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]. After Gaius's defeat, their group is sought by various Eorzean organizations. Alphinaud suggests to [[Minfilia Warde]] they move the Scions' headquarters from [[Ul'dah]] to [[Mor Dhona]] for a neutral position.
+
+Learning of Alisaie's venture into the Coils of Bahamut, Alphinaud accompanies her to the [[Second Coil of Bahamut]], his sister unaware of his presence. When Alisaie is about to enter the [[Final Coil of Bahamut]], Alphinaud joins her and the Warrior of Light. They confront Louisoix and witness his transformation into the [[primal]] [[The Final Coil of Bahamut - Turn 3|Phoenix]]. After its defeat, they reunite with a now freed Louisoix who tells them the truth about the Calamity, and that the realm's prayers along with the remaining [[aether]] after the failed attempt to hold [[Bahamut (Final Fantasy XIV)|Bahamut]] enabled him to become the god of rebirth. Alphinaud and Alisaie receive the last of this power from their grandsire before he earns his final rest, the former helping his sister by creating a barrier to shield them from the primal's attack. The twins combine their grimoire so the Warrior of Light and his party can enter the heart of Bahamut to shut it down. In their moment of victory, Alphinaud admits to have known the truth of Louisoux's fate from deduction, and joined the expedition to spare his sister from their grandfather's fate.
+
+<!--During the events of "Through the Maelstrom"-->Alphinaud, sympathizing with [[Yugiri Mistwalker]]'s plight, arranges humanitarian aid for the Doman refugees with [[Momodi Modi]] while granting Yugiri an audience with sultana [[Nanamo Ul Namo]] and the Syndicate to plead her case. The Syndicate votes against granting the refugees asylum in Ul'dah, and Alphinaud suggests relocating the Domans to Revenant's Toll in Mor Dhona. Finding himself caught in the series of riots<!--in "Defenders of Eorzea"-->, Alphinaud asks the Warrior of Light to help him conduct a private investigation. This leads to Alphinaud learning from [[Raubahn Aldynn]] and Nanamo that the riots were instigated by [[Teledji Adeledji]], who wants the Carteneau Reclamation Bill to obtain the [[Allagan Empire|Allagan]] superweapon [[Omega (Final Fantasy XIV)|Omega]]. Alphinaud later tells the Warrior of Light he understands why his grandfather sacrificed himself for Eorzea, and vows to continue Louisoix's legacy. To better face the emerging threats to the realm, he starts a new independent Grand Company affiliated only with the Scions of the Seventh Dawn: the Crystal Braves.
+
+What Alphinaud failed to foresee was that a majority of the Crystal Braves are financed by Teledji's Mirage Trust through proxies, and that the Monetarists' bribes sway most members to their side. By the time Alphinaud learns the truth<!--in "Before the Fall"-->, he finds himself betrayed by the Crystal Braves and accused alongside his fellow Scions of the assassination of the sultana. With Raubahn holding off their pursuers, only Alphinaud and the Warrior of Light escape Ul'dah with the aid of Raubahn's son, [[Pipin Tarupin]], and an escape provided by Alisaie.
+
+They meet up with Cid who carries them to [[Camp Dragonhead]] in [[Coerthas]] on the ''Enterprise'' where they would be out of the jurisdiction of the other city-states. They meet up with [[Tataru Taru]], the only other known Scion able to escape the Crystal Braves' betrayal. Alphinaud is devastated, his arrogance and belief of shouldering Eorzea's safety resulting in this disaster. Talking to Tataru improves his mood, and he resolves to work for the future alongside the Warrior of Light as he accompanies them to Ishgard.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV HW Alphinaud Ishgard.png|thumb|200px|Alphinaud arriving in Ishgard.]]
+Though Alphinaud considered returning to Ul'dah to deal with the accusations held against him and the other Scions over Nanamo's death, [[Haurchefant Greystone]] convinces him to travel to Ishgard with the Warrior of Light and be welcomed into the home of Count [[Edmont de Fortemps]]. While the Warrior of Light is off on a mission for House Fortemps, Alphinaud and Tataru are arrested by Ser [[Grinnaux de Dzemael]] while attempting to learn of their friends' whereabouts on the charge of consorting with heretics. The Warrior of Light returns and aids Alphinaud in winning his and Tataru's freedom via trial by combat.
+
+When the Warrior of Light returns to reveal [[Thordan VII]]'s meeting with [[Ascian]]s, Alphinaud learns from Tataru that Raubahn is to be executed. Curious as to why it has not already happened, Alphinaud travels to [[Limsa Lominsa]]. He learns from [[Merlwyb Bloefhiswyn]] more of what occurred in Ul'dah since the sultana's death, and how Raubahn was taken by the Crystal Braves to [[Halatali]]. Alphinaud accompanies the Warrior of Light and Yugiri to rescue Raubahn while forced to let the Crystal Braves escape. After resolving matters, deciding to officially disband the Crystal Braves with the remaining loyal members still intent to aid him, Alphinaud learns that [[Nidhogg (Final Fantasy XIV)|Nidhogg's]] forces are going to attack Ishgard. He convinces [[Aymeric de Borel]] to not cause a sortie with the dragons, as he, the Warrior of Light and [[Estinien Wyrmblood]] seek [[Ysayle Dangoulain]]'s aid to broker a treaty with the dragons via [[Hraesvelgr]]. When Hraesvelgr expresses no interest, Alphinaud learns the full history of the legend of [[Shiva (Final Fantasy XIV)|Lady Shiva]] and how the [[Dragonsong War]] truly began.
+
+After returning to Ishgard, Alphinaud assists in the plan to free Ser Aymeric de Borel who had been arrested after confronting Archbishop Thordan VII with the truth of Ishgard's past. Though they are successful, the Archbishop flees to the [[Sea of Clouds]] and Alphinaud pursues him alongside the Warrior of Light, Cid, and [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]]. When they battle the primal [[Bismarck (Final Fantasy XIV)|Bismarck]], Alphinaud is unable to participate directly, but assists the [[Garlond Ironworks]] team about the ''Enterprise''. Though the team defeats the primal, the Archbishop takes the key to [[Azys Lla]].
+
+Needing to find another way to reach Azys Lla, Alphinaud accompanies the Warrior of Light and [[Y'shtola Rhul]] to meet with [[Matoya (Final Fantasy XIV)|Matoya]]. He is impressed by her knowledge, though miffed she initially believes him to be his sister. After gaining the information they need, the trio, joined by Estinien, travel to Azys Lla where they are confronted by the Garlean Empire's VIth Legion and battle the Imperial Legatus [[Regula van Hydrus]]. Alphinaud stays behind with Estinien and Y'shtola to hold off the Garlean forces so that the Warrior of Light can continue on to confront the Archbishop.
+
+After the Archbishop's defeat Alphinaud joins the Warrior of Light and Tataru at honoring Lord Haurchefant at his grave, and is found in Fortemps Manor where he discusses the groups' goals of locating the rest of the Scions and potentially freeing Estinien from Nidhogg's control.
+
+As Nidhogg prepares for a final assault against Ishgard, Alphinaud resolves to free Estinien from Nidhogg's possession even at the cost of his own life. He accompanies Aymeric and the Warrior of Light to appeal to Hraesvelgr for aid. Though he initially refuses, Hraesvelgr is persuaded to test the three and sets forth a trial for each. While the Warrior of Light battles Hraesvelgr himself, Alphinaud is challenged by [[Vidofnir (Final Fantasy XIV)|Vidofnir]]. Satisfied with the results of the trial, Hraesvelgr agrees to help, traveling to Ishgard with the group.
+
+After Nidhogg is defeated Estinien, able to briefly regain control of his body, asks that the Warrior of Light and Alphinaud kill him while they have the chance; they instead attempt to pry [[Eyes of Nidhogg|Nidhogg's eyes]] from Estinien's body. Assisted by Haurchefant and Ysayle's spirits, they succeed, freeing Estinien and destroying Nidhogg for good. While Estinien recovers Alphinaud stays by his bedside until he awakens, with Aymeric guessing that Alphinaud sees Estinien as the older brother he wishes he had. With the Dragonsong War finally over, Alphinaud meets with the Warrior of Light and Tataru in Fortemps Manor, stating that they can now focus on stopping the machinations of the Ascians.
+
+Alphinaud is reunited with Alisaie, who was injured in a confrontation with the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]. Upon learning from his sister that the Warriors plan on allowing the [[Ixal]] to summon Garuda as part of their plans, he journeys with the Warrior of Light to [[Xelphatol]] to thwart them. After defeating the Ixal, he and Alisaie join the Warrior of Light in pursuing the Warriors of Darkness, confronting [[Titan (Final Fantasy XIV)|Titan]] and investigating the [[Ala Mhigan Resistance]] in the process. Finally catching up to the Warriors of Darkness in the Bowl of Embers, Alphinaud battles them alongside the Warrior of Light, Alisaie, [[Thancred Waters]], and [[Urianger Augurelt]].
+
+Alphinaud returns to the Rising Stones with the other Scions. Though he is the ''de facto'' leader of the group, he insists the others view him as a comrade.
+
+[[M'naago Rahz|M'naago]], an injured Ala Mhighan Resistance member, shows up in the Rising Stones to warn Yda and the Scions of a dangerous new plan by [[the Griffin]] to launch an attack on [[Baelsar's Wall]]. Alphinaud contacts the Eorzean Alliance leaders and arranges an emergency meeting. Limsa Lominsa, Ul'dah, and Yugiri's shinobi agree to reinforce the [[Black Shroud]] in case the conflict spills over to the Twelveswood. Yda, Papalymo, and Yugiri infiltrate underground tunnels to reason with the Griffin, while Alphinaud, Hilda, and the Warrior of Light stand watch.
+
+When the attack begins on the wall by fighters wearing [[Grand Company]] uniforms, Alphinaud realizes it was a trap to incite hostilities between Garlemald and the Eorzean Alliance. He rushes to warn the other Scions while the Warrior of Light climbs the Wall. Alphinaud, Yugiri, and the others catch up as the Warrior of Light bests the Griffin who reveals himself to be Ilberd Feare. Ilberd refuses to listen to Alphinaud's pleas to call off the operation and the Scions look on with horror as the Resistance members are slaughtered by imperial war machines. Ilberd reveals he has the Eyes of Nidhogg and plans to summon a primal with them.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+When the Eorzean Alliance makes contact with the [[Ala Mhigan Resistance]], Alphinaud travels to [[Rhalgr's Reach]] alongside the Warrior of Light and the other Scions, and is present when the base is attacked by [[Zenos yae Galvus]], the crown prince of Garlemald. After this crushing defeat the Scions travel to [[Othard]] to assist in the liberation of Doma, hoping to disrupt Zenos's forces. Alphinaud travels to [[Kugane]] with the Warrior of Light, Alisaie, Tataru, and [[Lyse Hext|Lyse]], and stays in the city with Tataru to gather information while the other Scions journey to the [[Ruby Sea]] and beyond. He rejoins the others at the headquarters of the Doman resistance where he comes up with the strategy to retake Doma Castle and expel the [[Garlean campaign|Garlean occupation]].
+
+[[File:FFXIV Alphinaud healing Alisaie.png|thumb|left|200px|Alphinaud healing his sister.]]
+After Doma is liberated the Scions return to Eorzea where Alphinaud is distraught to learn Krile has been captured by the empire. He continues to work with the Warrior of Light and their allies as they push towards Ala Mhigo. After Alisaie is injured during the battle for [[Castrum Abania]], Alphinaud promises to fight for the both of them. As the Eorzean Alliance prepares to lay siege to Ala Mhigo, Alphinaud fights alongside the Warrior of Light to rescue Krile from the research laboratory. He convinces the [[Lupin]] conscripts being used by the empire to switch sides after defeating their leader and reveals a new power in the form of a Moonstone Carbuncle.
+
+Once Zenos is defeated, and Ala Mhigo freed from Garlean occupation, Alphinaud celebrates the victory with the other Scions, and is present when Lyse announces her resignation to continue leading the Ala Mhigan forces.
+
+
+To acquire funds for the reconstruction of Ala Mhigo, Alphinaud teams up with the Warrior of Light and [[Arenvald Lentinus]] to find the lost treasures of the kingdom, hidden in the [[Drowned City of Skalla]].
+
+After learning that Zenos is still alive in Garlemald, and suspecting Ascian involvement, Alphinaud travels to the imperial capital to investigate. He gains passage to Garlemald with a politically moderate imperial commander, but along the way their airship is shot down by unidentified imperial troops and he is forced to fight off waves of imperials before being assisted by a mysterious man calling himself "Shadowhunter" who indicates he is familiar with Alphinaud and the Scions, and declares that his group's only goal is to eradicate the Ascians. Left with few other options, Alphinaud follows the Shadowhunter and his teammates from the battlefield.
+
+[[File:FFXIV Alphinaud and Shadowhunter.jpg|thumb|200px|Alphinaud and Shadowhunter at an outpost.]]
+Continuing toward Garlemald, Shadowhunter, Alphinaud and their companions stop at an outpost where they find numerous people killed by an experimental Garlean chemical weapon named [[Black Rose (Final Fantasy XIV)|Black Rose]], a gas that instantly kills anyone that breathes it in. The Shadowhunter berates the Garleans for using technology he thought abandoned before conceding that it was likely Ascian involvement. Alphinaud and the Shadowhunter agree that the Ascians must be stopped before Black Rose can be used again and continue their journey toward Garlemald.
+
+Alphinaud and the Shadowhunter, now revealed to be Gaius van Baelsar, infiltrate the imperial facility where the Black Rose is being produced, destroying its current supplies. They also discover a facility where clones of [[Emet-Selch|Solus zos Galvus]] (the former emperor and founding father of Garlemald) are being created. Alphinaud falls victim to the same ailment affecting other Scions, and enters a state of unconsciousness. Gaius takes Alphinaud's comatose body to the border of Doma to return him to the Scions' care.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+The cause of the affliction affecting the Scions is revealed to have been the prior attempts by the [[G'raha Tia|Crystal Exarch]] to bring the Warrior of Light to the First, which had, instead, brought the souls of the Warrior of Light's closest allies. Though their physical bodies were left behind on the Source, their souls created corporeal bodies on the First. As time flows differently between the Source and the First, Alphinaud had been on the First for a year prior to the Warrior of Light's arrival.
+
+After arriving on the First, the Warrior of Light reunites with Alphinaud, who had been in the region of [[Kholusia]] investigating the city of [[Eulmore]]. By posing as an artist under the patronage of [[Dulia-Chai]] and her husband [[Chai-Nuzz]], Alphinaud gains access to the city.  He soon draws the ire of its leader, [[Vauthry]], and departs. When the Warrior of Light is given the new role as the [[Warriors of Darkness|Warrior of Darkness]], Alphinaud assists them in finding and defeating the [[Lightwarden|Lightwardens]] in the regions of [[Lakeland]] and [[Il Mheg]] alongside the other Scions. After the defeat of [[Titania (Final Fantasy XIV)|Titania]], the group splits up to locate the remaining Lightwardens, with Alphinaud returning to Kholusia to investigate.
+
+He is unable to gain any additional information on the location of the Lightwarden of Kholusia, and regroups with the Scions in the [[Crystarium (Final Fantasy XIV)|Crystarium]] in time to help defend Lakeland from an attack by [[sin eater]]s sent by Vauthry. The group later defeats the Lightwarden of [[Amh Araeng]] before returning to [[Eulmore]] to drive Vauthry, revealed to be a Lightwarden, from the city. The Scions travel to [[The Tempest (Final Fantasy XIV)|The Tempest]] to confront [[Emet-Selch|Emet-Selch]], one of the Ascian leaders whose previous host body had been that of Emperor Solus. Alphinaud and the other Scions use White Auracite to contain Emet-Selch, allowing the Warrior of Darkness to kill him. Alphinaud then returns to Eulmore with Lord and Lady Chai to complete the portrait they commissioned from him.
+
+Alphinaud returns to the Crystarium when the Crystal Exarch sends word that he has new information regarding sending the Scions back to the Source. He then travels with the Scions to the palace known as the [[Grand Cosmos]] to request the aid of [[Beq Lugg]], a [[Nu mou]] expert on souls. The group passes Beq Lugg's trials and gains his cooperation. Alphinaud travels to [[Amh Araeng#The Inn at Journey's Head|The Inn at Journey's Head]] with Alisaie, Beq Lugg, and the Warrior of Light to help the patients residing there and receives an urgent request from Dulia-Chai, asking him to return to Eulmore.
+
+When Alphinaud and the Warrior of Light arrive at Eulmore, Dulia-Chai explains that Chai-Nuzz disappeared shortly after being elected mayor. She fears that the pressure of the position caused him to flee, and asks that Alphinaud and the Warrior of Light find him. They discover that Chai-Nuzz had left to gain the information and help needed to effectively lead Eulmore. They return to Eulmore with him, where they witness him accept the mayorship and give a rousing speech about the city's future. Satisfied that Eulmore is in good hands, Alphinaud departs with the Warrior of Light.  When [[Elidibus (Final Fantasy XIV)|Elidibus]] begins to enact his final plan, taking over the Crystal Tower and summoning the shades of Warriors of Light from other worlds, Alphinaud and the other Scions help the Warrior of Light battle their way to the [[Crystarium (Final Fantasy XIV)|Crystarium]] to confront him.  After Elidibus' defeat, Alphinaud is able to return to his body on the Source.  
+
+Shortly after returning, the Scions are confronted by [[Fandaniel]], who appears alongside [[Lunar Bahamut]]. Fandaniel declares his intent to destroy all life on the planet, forcing the Scions to deal with this new threat. Fandaniel erects mysterious towers throughout Eorzea that temper individuals that come near them. Alphinaud reunites with Arenvald when the latter is sent alongside [[Fordola rem Lupis|Fordola]] to investigate one of these towers, as well as Estinien, who had arrived per the Scions' request aid in dealing with Lunar Bahamut. On Estinien's advice, the Scions travel to Azys Lla to convince [[Tiamat (Final Fantasy XIV)|Tiamat]] to help them. They free her from her tempering and with Tiamat's aid, Alphinaud and the other Scions defeat Lunar Bahamut, who had been attacking the [[Amalj'aa]]. Alphinaud is devastated to learn that Arenvald was injured during his mission and is in critical condition. Alphinaud is present when Estinien, on suggestion from Krile, agrees to join the Scions of the Seventh Dawn.
+
+The Eorzean Alliance requests an alliance with [[Sharlayan]] to face the current threat. To the surprise of Alphinaud and Alisae, their father, Fourchenault Leveilleur, travels to Gridania to personally deliver the answer.  To their disappointment, he not only declares that Sharlayan will not help, but also denounces his children's actions, declaring them to no longer be members of the Leveilleur family, much to Alphinaud's shock and distress.  After his departure, word arrives that Fandaniel's Telophoroi forces, including a number of Lunar Primals, are converging at the [[Carteneau Flats]]. The Scions are dispatched to deal with this threat.  Before departing, Alphinaud is met by Arenvald, who has managed to survive his injuries, but will likely be confined to a wheelchair for the rest of his life. Arenvald gives words of encouragement to Alphinaud, asking him to become the hero that he can no longer be. Alphinaud and the Scions then travel to Carteneau, successfully driving off the Telophoroi and defeating the Lunar Primals. After returning to the Rising Stones, it is agreed that if they are to find any clue to unravel Fandaniel's plans and possibly learn more about Hydaelyn, the Scions are to travel to Sharlayan directly and possibly discover any evidence to the suspicion if the Forum is indeed deliberately withholding knowledge of the Final Days.
+
+==Characteristics==
+===Appearance===
+[[File:Alpinaud & Alisaie NPC Render.png|thumb|left|Render of Alphinaud (left) and Alisaie.]]
+Alphinaud is a sixteen-year-old [[Elezen]] with white hair. He and his sister have yet to reach their final growth spurt, so they are considerably shorter than adult Elezen. He wears a large delta-shaped earring on his left ear and dark blue clothing that matches his sister's. He has a blue knot on his ponytail and green markings on his collar. He seems to be an [[Summoner (Final Fantasy XIV)|Arcanist]], as he wields a black grimoire. During ''Final Fantasy XIV: Heavensward'', at [[Tataru Taru]]'s behest, Alphinaud wears a white tunic with matching pants and boots, a blue coat with black hood and black gloves. He also has a Ruby Carbuncle [[companion]].
+
+The most distinct feature Alphinaud has from his sister, aside from the color of their ponytail and collar markings, is the color of their lips. Alisaie's are redder, being female and possibly wearing lipstick. The duo become more distinctive in ''Heavensward'' once Tataru provides them with new outfits.
+
+In ''[[Final Fantasy XIV: Shadowbringers]]'', Alphinaud is seventeen-years-old and is given a new outfit that resembles the one he was given in ''Heavensward'', only simplified and more armored and his iconic Arcanist tome changes to a wooden tome. After his journey in [[the First]] and returning to [[Hydaelyn|the Source]], Alphinaud returns to his ''Heavensward'' outfit.
+
+In ''[[Final Fantasy XIV: Endwalker]]'', Alphinaud dons a new outfit with his job change into a Sage, wearing a custom version of the relic armor dyed his usual shades of blue.
+
+===Personality===
+[[File:FFXIV SH Alphinaud 2.png|thumb|Alphinaud in ''Shadowbringers''.]]
+Alphinaud is a self-assured young man, calm and mature for his age. He shows more interest in intervening in the events of [[Eorzea]] than his sister, who prefers to watch history unfold from the shadow. Charismatic and diplomatic, he finds it easy to gain the Eorzean Alliance leaders' trust, partly thanks to his grandfather's credit. Alphinaud has a big ego, and often clashes with other nations' leaders about their ideals. Alphinaud has a tendency to listen and partake in gossip.
+
+Initially Alphinaud participates in Eorzea's affairs with his own agenda: to find out what happened to his grandfather and finish what he started to test his potential and prove himself. As he spends more time with the Scions he comes understand why his grandfather sacrificed so much for the realm, and resolves to follow in his footsteps.
+
+Alphinaud is not invulnerable to negative feelings, as he regrets his mistakes and overconfidence. He gets flustered whenever [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] or Alisaie threaten to regale embarrassing details from his earlier days in the Studium in front of the Warrior of Light. Alphinaud is annoyed and embarrassed for being mistaken for his sister, or a girl in general. Despite his differences with his sister, Alphinaud deeply cares about his twin and dreads losing her.
+
+In ''Heavensward'', Alphinaud comes to terms with the Crystal Braves' betrayal and of his own naivete, maturing during his time in [[Ishgard]]. Upon reestablishing the Scions of the Seventh Dawn, his leadership qualities come to light as its remaining members name him the guild's ''de facto'' leader, which he humbly accepts.
+
+Though good-natured and welcoming, Alphinaud can hold a grudge if someone betrays his trust for selfish desires or harms his friends. He matures into a capable leader and crafts the plan to liberate [[Doma (Final Fantasy XIV)|Doma]] from [[Garlean Empire|Garlean]] rule, and offers to go to Garlemald as a diplomat following the successful prisoner exchange. Alisaie remarks that her brother always had a flair for politics while [[Hien Rijin]] notes he has a talent at formulating plans. Despite his maturity, Alphinaud has moments of being impudent as he couldn't control his laughter at Gosetsu being tended to by an amnesiac Yotsuyu or with Alisaie's lackluster clay art piece.
+
+==Gameplay==
+===Battle===
+During the main scenario of ''Final Fantasy XIV: Heavensward'', Alphinaud participates in a number of battles alongside the player. He functions as an [[Summoner (Final Fantasy XIV)|Arcanist]] and can summon two unique variants of [[Carbuncle (summon)#Final Fantasy XIV|Carbuncle]] called Ruby and Obsidian Carbuncle.
+
+He participates in several battles during the main scenario of ''Final Fantasy XIV: Stormblood'' and reveals a third type of unique Carbuncle variant, the Moonstone Carbuncle.
+
+[[File:FFXIV Alphinaud Role-Play.png|thumb|Alphinaud in the Role-Play mode.]]
+In patch 4.3 Alphinaud becomes a [[guest|temporary playable character]] during the MSQ instance Emissary of the Dawn. He only has access to Ruin III, Physick and Tri-Shackle. Though he has no Summon command, Moonstone Carbuncle is summoned automatically to attack. The Carbuncle will also summon Shining Moonstone, independent of player control, which gives Alphinaud two minutes of increased defense and HP regen within its area of effect. His [[Limit Break (Final Fantasy XIV)|Limit Break]] Starstorm is also available.
+
+Alphinaud is the first character besides the player's to be playable. Previously, characters like [[Nanamo Ul Namo]] and the three leaders of the Grand Companies were also playable in a seasonal event, but these were actually the player character fully glamorized into their appearances. Alphinaud becoming playable marks the first time in which players can play as a young Elezen, something impossible through the character customization.
+
+In ''Shadowbringers'', Alphinaud is one of the NPCs available to join the player in dungeons as part of the [[Trust System]]. He is a healer with the unique job of "Academician"; mechanically, this is essentially Scholar with a unique pet in the form of his Carbuncle.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Alphinaud & Alisaie
+|image = [[File:FFXIV TT Alphinaud & Alisaie.png]]
+|number = 59
+|total = 24
+|type = None
+|description ="Our paths may differ, but our destination is the same. In time, I daresay we will see eye to eye."
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Swift|Swift]], Ul'dah - Steps of Nald (8,8) or [[Final Fantasy XIV Triple Triad players#Joellaut|Joellaut]], Coerthas Central Highlands (13,15).
+}}
+
+{{Card FFXIV
+|name = Stormblood Alphinaud & Alisaie
+|image = [[File:Stormblood Alphinaud Alisaie Triple Triad Card.png]]
+|number = 251
+|total = 30
+|type = Scion
+|description = “I can strike bargains, forge ties, and change minds. And where better to do these things than in the home of our old enemy?”<br>“Go, then. You've obviously made up your mind.”
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Mero Roggo|Mero Roggo]], The Dravanian Hinterlands (12, 36)
+}}
+
+==Other appearances==
+{{Main|/Other appearances|t1=Alphinaud Leveilleur other appearances}}
+Alphinaud Leveilleur has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[Alphinaud Leveilleur (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[/Other appearances#Theatrhythm Final Fantasy All-Star Carnival|Theatrhythm Final Fantasy All-Star Carnival]]'' as a playable character.
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[Alphinaud Leveilleur (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of cards.
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+
+==Other media==
+[[File:FFLS Alisaie Alphinaud.png|thumb|150px|Alphinaud and Alisaie.]]
+Alphinaud and Alisaie are referenced in ''[[Final Fantasy Lost Stranger]]'' when the [[Shogo Sasaki|protagonist]] assumes that the Elrein race could be either Elezen or [[Elvaan]].
+{{clear}}
+
+==Behind the scenes==
+Alphinaud and Alisaie's introductory appearance is only seen for new characters. This scene is cut for characters returning from [[Final Fantasy XIV/Legacy|1.0]], who will not see them until the Carteneau memorial.
+
+===Voice===
+In the English version of ''Final Fantasy XIV: A Realm Reborn'', Alphinaud was voiced by [[Sam Riegel]], credited as Sam Regal. He shares his voice actor with [[Edward Chris von Muir]] from ''[[Final Fantasy IV]]''. Since the release of ''Final Fantasy XIV: Heavensward'', Alphinaud is voiced by [[Colin Ryan]].
+
+Alphinaud is voiced by [[Shinnosuke Tachibana]] in the Japanese version.
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV SH Alphinaud (Trust).png|Alphinaud's Trust render.
+FFXIV HW Alphinaud (Trust).png|Alphinaud's alternate Trust render.
+Alphinaud Full Trust Portrait from Final Fantasy XIV.png|Full size Trust portrait.
+Alphinaud Full Trust Portrait 2 from Final Fantasy XIV.png|Full size alternate outfit Trust portrait.
+FFXIV Alfino.jpg|Concept art of Alphinaud.
+FFXIV ARR Alphinaud attire concept.png|Concept art.
+FFXIV ARR Alphinaud and Alisaie concept.png|Alphinaud and Alisaie concept art.
+FFXIV HW Alphinaud concept.png|Concept art for ''Heavensward''..
+FFXIV Alphinaud and Alisaie Artwork.png|Alphinaud and Alisaie artwork.
+FFXIV 1st Anniversary Countdown 2 Days.jpg|Artwork of Alisaie and Alphinaud for ''[[Final Fantasy XIV Online Anniversary]]''.
+FFXIV The Far Edge of Fate Artwork.jpg|Alphinaud in ''The Far Edge of Fate'' artwork.
+FFXIV SB Ala Mhigo promotional poster.jpg|Alphinaud in ''Stormblood'' promotional artwork.
+FFXIV Prelude in Violet Artwork.jpg|Alphinaud in ''Prelude in Violet'' artwork.
+FFXIV SH Alphinaud.png|Introduction for ''Shadowbringers''.
+SHB Alph and Alisae artwork.jpg|Shadowbringers artwork.
+Alphinaud Sage CG Artwork.jpg|Sage CG Artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Alphinaud ARR.png|''A Realm Reborn'' outfit.
+Alphinaud.jpg|Alphinaud in-game.
+FFXIV TFC Leveilleurs.png|Alphinaud and Alisaie from ''Tales from the Calamity - In Louisoix's Wake''.
+Alphinaud and Alisaie Ul'dah.jpg|Alphinaud and Alisaie properly meet the Adventurer again in [[Ul'dah]].
+FFXIV Alphinaud HW Outfit.png|''Heavensward'' outfit.
+FFXIV TFDW Alphinaud.jpeg|Alphinaud kneeling before a memorial bouquet in Azys Lla, from ''Tales from the Dragonsong War - Words, Deeds, Beliefs''.
+FFXIV TFS Leveilleurs.jpeg|Alphinaud and Alisaie in a flashback, from ''Tales from the Storm - A Calm After the Storm''.
+FFXIV Alisaie & Alphinaud Sleep.png|Alisaie and Alphinaud resting before the Ghimlyt Dark.
+FFXIV Alphinaud ShB.png|''Shadowbringers'' outfit.
+FFXIV Alisaie & Alphinaud Eulmore.png|Alisaie & Alphinaud in Eulmore.
+FFXIV Endwalker trailer screen 4.jpg|Alisaie and Alphinaud alongside the Warrior of Light in ''Endwalker'' trailer.
+FFXIV Endwalker trailer screenshot 6.png|Alphinaud as a Sage in ''Endwalker'' trailer.
+</gallery>
+
+==Etymology==
+Alphinaud is a combination of "Alvin," which in old-English means "Elf Friend," with the French augmentative suffix "-aud."
+{{Etym|Leveilleur}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[es:Alphinaud Leveilleur]]
+[[pt-br:Alphinaud Leveilleur]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Arcanists]]
+[[Category:Sages]]
+[[Category:Guest characters]]

@@ -1,0 +1,94 @@
+{{sideicon|prime=FFXIV|FFXIV|FFTCG}}
+{{DISPLAYTITLE:Leviathan (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Leviathan
+|release=FFXIV
+|japanese=リヴァイアサン
+|romaji=Rivaiasan
+|aka=Lord of the Whorl {{j|水神|Suijin|Water God}}
+|image=Leviathan from Final Fantasy XIV.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|boss page=Whorleater
+|recurring appearance=Leviathan
+}}
+{{Quote|Lord of all waters, revered by the ocean-dwelling Sahagin.<br />Lurking in the lightless depths, Leviathan devours all that crosses his path. In ages past, seafaring folk believed that tidal waves were a sign of the great serpent's wrath, and they sought to appease him with living sacrifices.|Official website}}
+'''Leviathan''' is the [[primal]] of the [[Sahagin#Final Fantasy XIV|Sahagin]] [[beastmen]] tribe, and a boss in ''[[Final Fantasy XIV]]''. He appears in the Main Scenario, and as a superboss in an optional "extreme" battle. Though he is mentioned a few times throughout the Main Scenario, and his servants play a big role in [[Limsa Lominsa]]'s opening storyline, Leviathan himself doesn't appear until the events of "Through the Maelstrom".
+
+==History==
+Leviathan is the patron of the Sahagin, and has a number of pirate followers known as Serpent Reavers in his service. Those [[enthrallment|tempered]] to his will are known as "drowned". The Serpent Reavers resorted to raiding [[Ul'dah]]n caravans of crystal shipments—aided by a few corrupt Brass Blades—to supply the Sahagin with sufficient crystals to summon the Lord of the Whorl. He is spotted within the Sapsa Spawning Grounds, and soon makes short work of a diversionary Maelstrom fleet.
+
+{{Quote|Mine is the power to cleanse all things! Naught can withstand the relentless onslaught of my waves!|Leviathan}}
+As he heads to open sea, Admiral [[Merlwyb Bloefhiswyn]] realizes Leviathan is trying to summon a tidal wave to strike [[Vylbrand]]. To confront the primal they'd need a ship outfitted with corrupted crystals to weaken his dominance at sea. Storm Marshall [[Eynzahr Slafyrsyn]] notes they'd need at least two ships worth of crystals to approach the primal, and recalls a tale of how the pirate Mistbeard once tethered two ships to carry a large plunder. Using the same tactic, a make-shift barge called the ''Whorleater'' is assembled in Moraby Drydocks, enabling a platform so [[Warrior of Light (Final Fantasy XIV)|Warriors of Light]] may confront the dread Leviathan at sea.
+
+Leviathan does not stay down for long, as the Sahagin resummon him. Faced with an even more powerful Lord of the Whorl, Storm Marshal Slafyrsyn prepares the Whorleater once more—and, once more, the adventurer defeats the primal.
+
+==Gameplay==
+{{Main|the Whorleater}}
+Leviathan is fought as a boss twice times at {{icon|ffxiv|duty|the Whorleater}}: first in the Through the Maelstrom arc of the Main Scenario, then in an optional Extreme battle. Both are fought at level 50 with a full party of eight.
+
+Completing {{icon|ffxiv|duty|The whorleater (Extreme)}} is optional, and grants the achievement "I Eat Whorls for Breakfast".
+
+Tidal Barding will enable a player's [[Chocobo (Final Fantasy XIV)|chocobo]] [[companion]] to resemble the Lord of the Whorl. The barding closely resembles Leviathan's pose in his concept art.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:PrimalLeviathan TCG.png|thumb|100px]]
+Leviathan appears as an Aqua-elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:392a Leviathan.png|thumb|100px]]
+Leviathan appears on a Triple Triad card in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+Leviathan was originally meant to appear as a boss in [[Final Fantasy XIV/Legacy|the 1.0 version]], but was cancelled as the fight was scheduled to release in the aftermath of the [[wikipedia:2011 Tōhoku earthquake and tsunami|2011 Tōhoku earthquake and tsunami]] and was considered disrespectful to those affected by the event.<ref>{{refvideo|page url=https://www.youtube.com/watch?v=aoOI5R-6u8k|page name=FINAL FANTASY XIV Documentary Part #2 - "Rewriting History"|site url=https://www.youtube.com|site name=YouTube|timestamp=23:16}}</ref>
+
+Square Enix's [[Eorzea Cafe]] served a dish called "Leviathan's cold blue noodle" whose description translated to: ''A dish inspired by the Water God, Leviathan. The blue soup reminiscent of a raging Rhotano Sea, and the rich flavors conjured up by the abundant array of fresh seafood will hit you like a Tsunami!''
+
+==Gallery==
+<gallery>
+ThroughTheMaelstromArtwork.jpg|Artwork of Leviathan trial battle.
+Leviathan ARR.png|Leviathan in ''Final Fantasy XIV: A Realm Reborn''.
+Leviathan (XIV).png|Close-up of Leviathan.
+FFXIV Leviathan Artwork.jpg|''A Realm Reborn'' concept art, featuring an abandoned idea of Leviathan's barbs being removable via attacks.
+Leviathan FFXIV Art 2.jpg|Artwork of Leviathan's head, fins and tail.
+</gallery>
+
+==Etymology==
+{{Etym|Leviathan}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

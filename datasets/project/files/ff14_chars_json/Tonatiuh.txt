@@ -1,0 +1,26 @@
+{{infobox character
+|name=Tonatiuh
+|release=FFXIV
+|japanese=トナティウ
+|romaji=Tonatiu
+|image=FFXIV ShB Tonatiuh.png
+|home=[[Il Mheg#Wolekdorf|Wolekdorf]]
+|race=[[Amaro]]
+|gender=Male
+|type=npc
+}}
+'''Tonatiuh''' is an [[amaro]] in ''[[Final Fantasy XIV: Shadowbringers]]''.
+
+==History==
+Tonatiuh was the amaro of a traveling merchant. One day Tonatiuh aroused his sentience and found that he could speak. When his master saw him speaking, he became afraid and abandoned Tonatiuh . Since then Tonatiuh wandered the world alone until he found out about [[Il Mheg#Wolekdorf|Wolekdorf]]. When he arrived at the location, he did not feel comfortable near other amaros speakers and fled.
+
+At the request of a amaro of Wolekdorf, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] meets Tonatiuh and the two talk, but Tonatiuh says that after all this time he prefers to live alone. After, Tonatiuh finds and eats the porxie of a [[nu mou]]. Finding that this porxie had ownership and the charge that he had eaten went to the amaros of Wolekdorf, Tonatiuh returns and to apologize. Nu Mou owner of porxie says that due to the good relationship between Wolekdorf and Nu Mou he could forgive amaro if he were one of them. With no choice Tonatiuh joins Wolekdorf and together with the Warrior of Darkness, collect the ingredients to create a new porxie.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Amaros]]

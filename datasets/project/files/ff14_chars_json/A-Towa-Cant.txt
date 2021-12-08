@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=A-Towa-Cant
+|release=FFXIV
+|japanese=ア・トワ・カント
+|romaji=A Towa Kanto
+|aka=The Wandering Padjal
+|image=FFXIV A-Towa-Cant.png
+|home=[[Gridania]]
+|age=198<ref name=EE231>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 231</ref>
+|affiliation=
+|occupation=
+|race=[[Padjal]]
+|gender=Male
+|type=npc
+|job={{icon|ffxiv|discipline|white mage}}
+|weapon=[[Thyrus]]
+|armor=Healer's Attire
+}}
+'''A-Towa-Cant''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a legendary [[Padjal]] [[White Mage (Final Fantasy XIV)#White Mage|White Mage]].
+
+==History==
+A-Towa-Cant's [[Padjal]]i nature manifested soon after birth, and his proud [[Gridania]]n family willingly entrusted his upbringing to the conjurers of Stillglade Fane. A-Towa grew to become an accomplished Hearer, but soon grew dissatisfied with the role—he came to realize that to truly protect the Twelveswood he must cleanse the source of impurities beyond the confines of the forest.
+
+Accompanied by his devout companions, A-Towa traveled far and wide, employing his mastery of white magic to purge corrupted aether, heal the sick, and salve the suffering. Ever consumed by wanderlust, the restless Padjal never returned to Gridania, and eventually met his end in the distant lands of [[La Noscea]].<ref name=EE231/>             
+
+[[File:A-Towa-Cant.jpg|thumb|A-Towa-Cant appears at the Guardian Tree.]]
+As A-Towa-Cant died, his only regret was his inability to choose himself a successor. His soul fell into slumber inside the Soul of the White Mage crystal until he was awakened by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]].
+
+A-Towa-Cant uses a portion of the Warrior of Light's power to return to the living world to assist in fending off the creatures called to disrupt The Quieting. Upon successfully quelling the Guardian Tree's wrath, his soul departs, finally able to rest in peace.{{cite|FFXIV|{{icon|ffxiv|quest|Heart of the Forest}}|name=Heart of the Forest}}
+
+His relic, the Thyrus, can later be recovered from U'Ghamoro Mines and refurbished with [[Gerolt]]'s help.
+
+==Characteristics==
+===Appearance===
+A-Towa is a white haired male Padjal, dressed in white mage robes. His wields the white mage Relic Weapon, the Thyrus.
+
+===Personality===
+A-Towa-Cant is not given much screen-time, but his brief appearance and characters that knew him or knew of him consistently report him as a white mage of great standing and respect. Conversely he was also known as a maverick among the padjal for routinely ignoring the traditions and dictates of the forest and elementals, freely leaving their home to wander the world and bring comfort with his art. This translates even post-mortem, as his Soul Crystal is inherited by and chooses the adventurer, creating quite possibly the first non-padjal white mage since the days of Amdapor.
+
+==Gameplay==
+A-Towa fights alongside the player during the level 50 White Mage class quest {{icon|ffxiv|quest|Heart of the Forest}}. He is a White Mage who can use many high-level [[White Magic]] spells.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:White Mages]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Padjals]]

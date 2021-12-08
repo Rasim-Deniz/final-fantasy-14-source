@@ -1,0 +1,134 @@
+{{sideicon|prime=FFXIV|FFRK|FFTCG}}
+{{DISPLAYTITLE:Shiva (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Shiva
+|release=FFXIV
+|japanese=シヴァ
+|romaji=Shiva
+|aka=Lady of Frost {{j|氷神|Hyōshin|Ice God}}, Saint Shiva {{j|聖女シヴァ|Seijo Shiva}}
+|image=FFXIV Shiva.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|boss page=Akh Afah Amphitheatre
+|recurring appearance=Shiva
+}}
+{{Quote|The barren hills and icy peaks of Coerthas play host to countless battles in the never-ending war between the nation of Ishgard and the Dravanian horde. As their age-old struggle wages on, a new threat has emerged: the primal Shiva, Lady of Frost. Who has summoned her, and how will the Warriors of Light stand against this mighty maiden of ice?|Official website}}
+'''Shiva''' is the patron saint and [[primal]] of the Harriers, and a [[boss]] in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' as she appears in the main scenario, and as a [[superboss]] in an optional "extreme" battle. A version of Shiva appears in ''[[Final Fantasy XIV: Shadowbringers]]'' as a boss in the Eden side quest.
+
+==History==
+===Early life===
+[[File:FFXIV Shiva & Hraesvelgr.png|thumb|left|Shiva and Hraesvelgr.]]
+According to legend, an [[Elezen]] maiden named Shiva fell in love with the dragon [[Hraesvelgr]]. As her life is but a blink of an eye compared to the ageless dragons, Shiva besought Hraesvelgr to devour her so her soul would be entwined with his for eternity. Though reluctant at first, Hraesvelgr honored Shiva's request and inspired an alliance between man and dragon that lasted for two hundred years. The calming influence of Shiva's soul kept Hraesvelgr from participating in the [[Dragonsong War]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|We whom gods and men have forsaken shall be the instruments of our own deliverance! Partake of my flesh—fill this vessel with your light! Walk amongst your brothers and sisters once more! O Saint Shiva, still the hatred within our hearts and bless us with eternal grace!|Iceheart, summoning Saint Shiva}}
+In time, demonized by the [[Ishgard|Holy See]] of committing the grave sin of laying with dragons, Shiva became a patron saint to the heresy cult that sided with the [[Dravanian Horde]]. [[Ysayle Dangoulain]], known as Lady Iceheart of the Harriers, attempts to summon Shiva's essence into her own body and becomes an avatar for her perceived vision of her faith's saint to battle the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], but is defeated and restored to her original form.
+
+When the Ishgardians attempt to build an outpost to guard the area, the Harriers drive them off and, using their store of [[Crystal (term)#Final Fantasy XIV|crystals]], enable Ysayle to transform into an even more powerful incarnation of Shiva. Despite her newfound power, the Warrior of Light defeats her again. She later allies with the Warrior to defeat [[Ravana (Final Fantasy XIV)|Ravana]] and transforms into her Shiva form, but Ravana easily defeats her.
+
+[[File:FFXIV Shiva Death.png|thumb|Ysayle as Shiva was shot to death by the Garlean flagship.]]
+Ysayle would later learn, to her shock and dismay, that the "Shiva" she summoned was but a collective manifestation of her and her fellow Heretics' beliefs and prayers. She uses this form one final time when the [[Garlean Empire|Garlean]] dreadnought ''Gration'' is chasing the ''Enterprise Excelsius'' in the skies of [[Azys Lla]] to distract the Garleans long enough for the ''Excelsius'' to escape. She is killed, but thanks the Warrior of Light for showing her the light. As a result of her assault, the ''Gration'' is forced to remain moored at Azys Lla indefinitely due the engines being sealed in [[aether]]ic ice.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Ryne Shiva.png|thumb|left|Ryne as The First's version of Shiva.]]
+During the Warrior's adventures in [[the First]], they help [[Ryne]] bring life back to [[Empty (Final Fantasy XIV)|the Empty]] by fighting versions of the primals from the Warrior's memories to restore the land's elemental aether. With only the ice element left to add, Ryne offers herself as the vessel for the First's version of Shiva upon hearing Ysayle's story. She loses control of her primal form and is saved by the intervention of [[Gaia (Final Fantasy XIV)|Gaia]].
+{{clear}}
+
+==Gameplay==
+{{main|Akh Afah Amphitheatre}}
+Ysayle's Shiva form is fought twice as a boss in {{icon|ffxiv|duty|Akh Afah Amphitheatre}}: once during the "Dreams of Ice" main scenario arc, and in an optional Extreme battle. Both are fought at level 50 with a full [[party]] of eight. Completing {{icon|ffxiv|duty|Akh Afah Amphitheatre (Extreme)}} grants the achievement "Let It Go" and "Mightier than the Frost" with a party of 8 blue mages with echo turned off and level synced to 50. 
+
+Ice Barding will grant a player's [[Chocobo (Final Fantasy XIV)|chocobo]] [[companion]] armor similar to that worn by Shiva. 
+
+In 5.3, Shiva was fought in an Unreal trial for a limited time in {{icon|ffxiv|duty|The Akh Afah Amphitheatre (Unreal)}}. The whole instance, aside from item level, item level sync, and the boss's level upscaled to level 80, is identical to its extreme difficulty. Completing it gives you a Faux's Hollows once a week. As of 5.4, Shiva Unreal is no longer available and was replaced by {{icon|ffxiv|duty|The Navel (Unreal)}}.
+
+Ryne's Shiva form is fought as the boss in {{icon|ffxiv|duty|Eden's Verse: Refulgence}}, having the ability to redress herself into a form resembling Hydaelyn or summon a replica of Hraesvelgr to equip.
+
+==Musical themes==
+The two themes that play while battling Shiva are "Footsteps in the Snow" and "[[Oblivion (song)|Oblivion]]" on the original soundtrack.
+
+The First's version of Shiva uses "Footsteps in the Snow" and its remix, along with "Return to Oblivion" as her boss themes.
+
+==Other appearances==
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Shiva & Ice Soldier FFXIV.png|thumb|200px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:PrimalShiva TCG.png|thumb|100px]]
+Shiva appears as an Ice-elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Shiva appears on Triple Triad cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+393a Shiva.png|Shiva.
+393b Shiva.png|Shiva.
+393c Shiva.png|Shiva.
+</gallery>
+==Behind the scenes==
+Square Enix's [[Eorzea Cafe]] served a dish called "Cremet d Anjou of Shiva ~no-bake cheesecake~" whose description translates to: ''A dish inspired by Ice Goddess, Shiva's Icicle Impact attack. For some reason, 'that' snowman is nestled in the lone corner of the battlefield (plate) where shelter may be taken...?''
+
+The posture that Ysayle and Ryne take prior to summoning Shiva into themselves is identical to the beginning of [[Shiva (Final Fantasy X)|her incarnation in X]]'s version of Diamond Dust.
+
+===Voice===
+Shiva, being the primal form of [[Ysayle Dangoulain|Iceheart]], is voiced by [[Sally Saffioti]] in English. Since ''[[Final Fantasy XIV: Heavensward]]'', she is voiced by [[wikipedia:Siobhan Hewlett|Siobhan Hewlett]]. She is voiced by [[Maaya Uchida]] in Japanese.
+
+The First's version of Shiva, created from Ryne, is voiced by [[Emma Ballantine]] in English and [[Kana Ichinose]] in Japanese.
+
+==Gallery==
+<gallery>
+FFXIV Shiva Concept.jpg|Concept art.
+Shiva FFXIV Art 2.jpg|Concept art.
+Ryne as Shiva from FFXIV concept art.png|Concept art for Ryne's Shiva.
+FFXIV Shiva Minion.jpg|Wind-up Shiva minion.
+FFXIV Dreams of Ice Promo.png|Shiva and Lady Iceheart in a promotion for "Dreams of Ice".
+FFXIV Heavensward Promo.png|Shiva and Lady Iceheart in a promotion for ''Heavensward''.
+FFXIV Early Shiva Render.jpg|Early, in progress, render of Shiva.
+FFXIV Shiva Screenshot.png|Shiva close-up.
+FFXIV Shiva Aurora.jpg|Dreams of Ice.
+FFXIV Shiva Screenshot2.png|Shiva in sword form.
+FFXIV Shiva Azys Lla.png|Shiva battling the ''Gration'' in [[Azys Lla]].
+FFXIV Shiva Before Diamond Dust.png|Shiva preparing the Diamond Dust.
+</gallery>
+
+==Etymology==
+{{Etym|Shiva}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]
+[[Category:Elezens]]

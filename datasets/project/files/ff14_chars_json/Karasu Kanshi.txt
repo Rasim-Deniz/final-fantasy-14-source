@@ -1,0 +1,102 @@
+{{sideicon|prime=FFXIV}}
+{{cleanup}}
+{{infobox character
+|name=Karasu Kanshi
+|release=FFXIV
+|japanese=カラス・カンシ
+|romaji=Karasu Kanshi
+|lit=
+|aka=
+|image=FFXIV Karasu.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=[date of birth]
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]
+|occupation=Ninja
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|ninja}}
+|abilities=
+|limit break=
+|weapon=Daggers
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+'''Karasu Kanshi''', also known as '''Karasu Redbeak''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is an antagonist in the [[Ninja (Final Fantasy XIV)#Ninja|Ninja]] job quests.
+
+==History==
+Karasu is claimed to be a traitor in [[Doma (Final Fantasy XIV)|Doma]] that sold their nation to the [[Garlean Empire]]. [[Oboro Torioi]] and [[Tsubame Oshidari]] arrived in Eorzea on orders to kill him for his treachery.
+
+He evades capture several times throughout the storyline, though their attempts to strike him at Aleport resulted in him failing his mission to assassinate a pirate captain. He is chastised and given a stern warning by his mysterious boss when he claims a "reunion with old friends" resulted in the mark escaped.
+
+After Oboro procured shinobi garments for the Adventurer, Karasu intercepted the shipment and hid the articles across [[La Noscea]] guarded by imperial agents as seemingly a test. He later left a note found by Oboro that he was going to strike their safehouse in Eastern La Noscea. Confronting him in Raincatcher Gully, Karasu is finally defeated. Before Oboro can execute him for his crimes, Karasu starts laughing and questions if "the dull one" truly believes he's the traitor. He claims that he was not responsible for the attack, but rather found the one who did: [[Gekkai|Master Gekkai]], who gave him a choice to serve him or die (with Karasu choosing the former). Oboro remained in disbelief over this, but before he could do anything, Karasu leaped into a ravine and seemed to kill himself by activating an explosive, claiming the truth will be found at Candlekeep Quay.
+
+Karasu later appears after Master Gekkai was slain at the shinobi's hands, now out of his garb and without face paint, having faked his death. He returns the ninja body armor he had taken earlier and tosses his ninja soulstone to Oboro. Though exonerated of his charge of treason, he declines the offer to return to the village, claiming it was always too stuffy for him and he still has much blood on his hands from when he worked under Gekkai. He departs to make his own way as a free man.
+
+During the ''Stormblood'' questline he appears as a masked black marketeer who leads the Garnet League shinobi after a scroll of forbidden summoning. He also kidnaps [[V'kebbe]] the Stray, [[Perimu Haurimu]]/Underfoot and [[Tsubame Oshidari]] as ransom for the scroll. Later he offers it to his master, [[Hanzo]], who appears to kill him with the [[Katon]] mudra.
+
+Karasu appears again at the end of the ''Stormblood ''arc during a solo duty, wherein he fights at the side of the [[Warrior of Light (Final Fantasy XIV)|Adventurer]] against his former master Hanzo.  Karasu's earlier "death" at Hanzo's hand had been merely the destruction of a mirror/clone produced by his mastery of the "fourth mudra" and what Hanzo had believed to be a jutsu exclusive to his clan.  Karasu's previous master, [[Gekkai]], had learnt the jutsu as well, and Karasu had gained sufficient mastery in it to create mirrors multiple times throughout the Ninja storyline in order to fake his own death.
+
+==Characteristics==
+===Appearance===
+Karasu is a male Hyur with long black hair, with black paint over his eyes. Unlike the other shinobi, his ninja garb is colored red rather than blue.
+
+===Personality===
+Karasu has a flair for theatrics, often narrating the situation as though he is the hero of a tale. Prone to giving nicknames, he calls the [[Warrior of Light (Final Fantasy XIV)|Adventurer]] a "[[Chocobo|horsebird chick]]" or "little chick," and refers to Oboro as the "dull one" or "dim one."  He calls [[Tsubame Oshidari]] Oboro's "sparrow."
+
+==Gallery==
+<gallery>
+FFXIV Karasu Swimsuit.png|Karasu at a hot spring.
+</gallery>
+
+{{Character section|Final Fantasy XIV}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ninjas]]
+[[Category:Hyurs]]

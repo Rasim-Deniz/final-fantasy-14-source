@@ -1,0 +1,51 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Erik
+|release=FFXIV
+|japanese=エリック
+|romaji=Erikku
+|image=FFXIV Erik.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Gray
+|eye=Yellow
+|designer=
+|age=
+|affiliation=
+|occupation=Researcher
+|type=npc
+|job=
+|weapon=
+|armor=
+}}
+'''Professor Erik''' is a non-playable character from ''[[Final Fantasy XIV]]''. Hailing from [[Ala Mhigo]], he is a researcher of military history and appears during the [[Monk (Final Fantasy XIV)#Monk|Monk]] job quests.
+
+== History ==
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+Erik seeks to study the abundance of [[aether]] at the many battlefields of Eorzea. As this is a means of opening a chakra for the monks of the [[Fist of Rhalgr]], [[Widargelt Beake]] (and in the process, the Adventurer) assist him with his research.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Once Widargelt and the Warrior of Light begin to awaken new chakra, Erik helps research the phenomenon. Professor Erik explains that the Fist of Rhalgr was once formed by two distinct sects; one of light and one of shadow. Members of the two sects once faced each other in a single combat to open all fourteen chakras. After the explanation, Erik tries to find a method for Widargelt and [[O'tchakha]] to open their final chakra without bloodshed. Due to the threat of [[H'raha]] Tia, there was no time to complete the research.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After a man dressed as [[the Griffin]] claims that he is Theobald, the son of King [[Theodoric]] and that Widargelt is actually his cousin Theodred, Erik investigates the veracity of these claims. The professor postulates that his minions are members of the Corpse Brigade─elite soldiers trained in combat against monk, who once served Theodoric as his personal guard. After his investigations. Erik through a story about his dead son, Erik teaches Widargelt that a man is not defined by his blood, but by the choices he makes. Then Erik reveals his suspicion that Theobald is actually [[Adri]]. 
+
+Erik is captured by [[Hewerald]] and is used as bait to lure the Warrior of Light into a trap. Widargelt and his disciples show up and defeat the sentries posted around the forest. Later when Adri is defeated, Erik expresses his gratitude to the Warrior of Light for helping Widargelt overcome adversity.
+
+Erik also makes a brief appearance during Orn Khai's search for his father's consort. He explains the identity of the Slumbering Wyrm, the title referring to a monk of eld, rather than an actual dragon.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Erik informs the Warrior of Light that an Ala Mhigan Resistance soldier had come asking after Widargelt's whereabouts. Fearing that Widargelt may be dragged back on the path of vengeance, the professor bids the Warrior of Light seek him. After the Warrior of Light returns with news of the Widargelt, Erik is relieved that his worries are unfounded. Erik declares his intent to observe Widargelt and [[Lyse Hext|Lyse]] as they continue striving towards their goals
+
+== Characteristics ==
+=== Appearance ===
+Erik is an old Midlander hyur with glasses and a white robe.
+
+=== Personality ===
+Erik often treats his assistants like they're uneducated, especially Widargelt, thinking he's more brawn than brain.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

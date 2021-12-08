@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Halric
+|release=FFXIV
+|japanese=ハルリク
+|romaji=Haruriku
+|aka=
+|image=FFXIV ShB Halric.png
+|home=[[Amh Araeng#Inn at Journey's Head|Inn at Journey's Head]]
+|age=
+|occupation=
+|race=[[Au Ra|Drahn]]
+|gender=Male
+|hair=White
+|eye=White
+|type=npc
+|japanese voice actor=Yuka Keicho
+|english voice actor=Carina Reeves
+}}
+'''Halric''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. He is a young Drahn contaminated by light in advanced stages.
+
+==History==
+Halric is one of the [[Amh Araeng#Inn at Journey's Head|Inn at Journey's Head]] patients due to his advanced corruption and has lost his senses and has no reaction. Hoping to at least give him a peaceful death, [[Tesleen]] buys Halric's favorite fruit and prepares to kill him before he becomes a [[Sin eater]].
+
+[[File:FFXIV Sin Eater 03.png|thumb|left|Tesleen and Halric.]]
+As a Sin Eater approaches the Inn, contaminated patients sense its presence and Halric makes his way toward the Sin Eater. In an attempt to protect him, Tesleen ends up being mortally wounded by the Sin Eater and turns into one.
+
+After the night returns to [[Amh Araeng]], patients begin to recover gradually but Halric does not appear to have improved. Following the treatment by [[Beq Lugg]], [[Alisaie Leveilleur]] creates a porxie named Angelo to try to reclaim Halric's soul. During the experiment, Halric finally shows some reaction while mentioning his mother.
+
+==Characteristics==
+===Appearance===
+Halric is a small drahn boy with pale white skin, light blonde hair, and pale yellow eyes. He wears a grayish dalmatica, armorer's slops, and sandals.
+
+===Personality===
+As he's close to being fully corrupted by the light, Halric shows no signs of his personality and sits quietly by himself not saying or reacting to anything.
+
+==Gallery==
+<gallery>
+File:FFXIV ShB Halric night.png|Halric watches the night.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]

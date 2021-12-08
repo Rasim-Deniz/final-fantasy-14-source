@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Zurvan (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Zurvan
+|release=FFXIV
+|japanese=鬼神ズルワーン
+|romaji=Kishin Zuruwān
+|lit=Zurvan the Fierce God
+|aka=The Demon
+|image=400px-Zurvan4.jpg
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=
+|recurring appearance=
+}}
+'''Zurvan, the Demon''' is a [[primal]] from ''[[Final Fantasy XIV]]'', introduced in patch 3.5, "[[The Far Edge of Fate]]". Alongside [[Sephirot]] and [[Sophia (Final Fantasy XIV)|Sophia]], it is based on a member of the [[Warring Triad]] from ''[[Final Fantasy VI]]''.
+
+==History==
+{{Quote|Worshiped by a Meracydian race of centaur-like beings, this eikon manifested upon the physical plane as an embodiment of eternal victory. And yet, despite his godlike might, Zurvan was captured. He has languished in his Allagan-made prison now for five thousand years, his primal desire for justice swelling in magnitude with each passing millennium...|Official description}}
+When [[Sophia (Final Fantasy XIV)|Sophia]] is defeated her thralls free Zurvan's thralls and begin attempting to rouse their master at full power. The [[Scions of the Seventh Dawn|Scions]] and the [[VIth Imperial Legion|VIth Legion]] cooperate to stop the thralls' ambitions by destroying the four towers that feed Zurvan [[aether]]. With three towers destroyed, [[Unukalhai]] struggles to destroy his, and [[Regula van Hydrus|Regula]] assists him only to be blindsided by a swing of an awakened Zurvan. The blow is blocked, his sword breaks, and Regula suffers a fatal wound. With his final breath he urges the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to defeat Zurvan. After a tactical retreat the Warrior of Light and a party of [[Echo (Final Fantasy XIV)|echo]]-blessed adventurers defeat Zurvan.
+
+==Gameplay==
+{{main|Containment Bay Z1T9}}
+Zurvan appears as a boss twice in {{icon|ffxiv|duty|Containment Bay Z1T9}}: first as a boss and then as a [[superboss]] in the extreme version. Both require a [[level]] 60 job and an eight-player [[party]].
+
+Defeating Zurvan in the extreme version grants the achievements "Zurvan Safari" and "Mightier than the Demon" if you complete it with a party of 8 blue mages while synced, and the echo turned off for the latter.
+
+==Creation and development==
+Zurvan, Sephirot and Sophia are based on the Warring Triad from ''Final Fantasy VI''. Zurvan is inspired by the [[Demon (Final Fantasy VI)|Demon]], his name is taken from the working name Demon had. While there is a monster called [[Zurvan (Final Fantasy VI)|Zurvan]] in the remakes of ''Final Fantasy VI'', the Zurvan in ''Final Fantasy XIV'' is based on the Warring Triad original member.
+
+==Musical Themes==
+Like with Sephirot and Sophia, a rearranged version of "[[Battle to the Death (Final Fantasy VI)|Battle to the Death]]" from ''Final Fantasy VI'', called "Battle to the Death - Heavensward," plays in the first phase of the battle against Zurvan. Two new tracks called "Penultimania" and "Infinity" play during Zurvan's second phase, unique to him. Unlike "[[Fiend (song)|Fiend]]" and "[[Equilibrium (song)|Equilibrium]]," there are two tracks in the same phase, with "Infinity" playing after Zurvan uses his signature attack, Ahura Mazda.
+
+==Gallery==
+<gallery>
+FFXIV Zurvan Attack 1.png
+FFXIV Zurvan Attack 2.png
+</gallery>
+
+==Etymology==
+{{Etym|Zurvan}}
+
+Much like the ''Final Fantasy VI'' character, Zurvan's deific title of Demon possesses a certain level of translation ambiguity; more information can be found on [[Demon (Final Fantasy VI)|the relevant page]].
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Primals in Final Fantasy XIV]]

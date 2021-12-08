@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Julchiezain
+|release=FFXIV
+|japanese=ジュルシエザン
+|romaji=Jurushiezan
+|image=FFXIV Julchiezain.png
+|home = The [[Firmament]]
+|affiliation=Rolanberry Field
+|occupation=
+|race=[[Elezen]]
+|gender=Male
+|hair=
+|eye=
+|age=
+|type=npc
+}}
+
+'''Julchiezain''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is one of the orphans who live in the [[Firmament]].
+
+== History ==
+Julchiezain, [[Lycelle]] and [[Peyraquile]] are the three oldest children who live at the Rolanberry Field orphanage. The trio believes they need to help pay for the orphanage and Julchiezain believes the best way to help is to earn coins like sellswords. Julchiezain accepts a Temple leve on his own but he is too young and inexperienced to do so. The Temple Knight then offers a tradecraft leve for children to help [[Coerthas Western Highlands#Convictory|the Convictors]] request for firewood and rope. Once the children create the supplies from the remains of the construction of the [[Firmament]], [[Jantellot de Thelomaire]]—leader of the Convictory—appears in person to receive the materials and is surprised that they were made by children. Jantellot guarantees that if the items are good, there would be more orders for that.
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

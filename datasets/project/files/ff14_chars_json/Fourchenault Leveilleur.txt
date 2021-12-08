@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{infobox character
+|name=Fourchenault Leveilleur
+|release=FFXIV
+|japanese=フルシュノ・ルヴェユール
+|romaji=Furushuno Ruveyūru
+|image=FL Endwalker Trailer.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Sharlayan]]
+|age=40
+|dob=
+|affiliation=Old [[Sharlayan]]<br>The Forum
+|occupation=Old Sharlayan Forum member
+|race=[[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=Blue
+|type=npc
+|job=
+|weapon=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Kenyu Horiuchi
+|english voice actor=Anthony Howell
+}}
+{{Quote|As Sharlayans, it is our task to observe—to ''chart'' the course of history, not to change it.|Fourchenault Leveilleur}}
+'''Fourchenault Leveilleur''' is a character in ''[[Final Fantasy XIV]]''. The eldest son of Archon [[Louisoix Leveilleur]], Fourchenault is a powerful member of the Forum. He is the father of [[Alphinaud Leveilleur|Alphinaud]] and [[Alisaie Leveilleur]], and is married to Ameliance Leveilleur. 
+
+== History ==
+===Early life===
+{{Spoiler}}
+Fourchenault has carried a deep respect of [[Sharlayan]]'s founding father, [[Nyunkrepf Nyunkrepfsyn]], throughout his forty years, eschewing war as the pursuit of barbarians alone and seeking advancement through wisdom and reason. As such, the Wildwood [[Elezen]] oft disagreed with his father, particularly when the latter established the [[Circle of Knowing]] to safeguard [[Eorzea]]'s future. Nonetheless, Fourchenault respects people's right to make their own decisions, and did not attempt to bar the way when his sire and children wished to leave for Eorzea. As with the rest of his house, Fourchenault is a talented mage. His is a formidable intellect, and can read learned discourses at nigh-unequalled speed.
+
+When Sharlayan withdrew from the Dravanian Hinterlands in the wake of [[Garlean Empire|Garlemald's]] [[Garlean campaign|invasion of Eorzea]], Fourchenault assisted in organizing the exodus, to ensure no Sharlayan remained behind.
+
+Ever since the Exodus and his children leaving with Louisoix for Eorzea, Fourchenault has not made any form of contact with his children. Whenever the twins do send letters to their homeland, it is their mother who responds. The twins state that their father had always refrained from speaking about his work in the Forum with them, making it difficult to connect with him.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+When the newly-formed [[Grand Company]] of Eorzea sends a request for Sharlayan's aid to prevent the [[Final Days]], Fourchenault arrives to [[Gridania]] as envoy of the Forum. He requests for Alisaie and Alphinaud to be present, relieved to see his children in fair health while thanking Elder Seedseer [[Kan-E-Senna]] for her hospitality. Kan-E-Senna expresses her own gratitude towards Fourchenault's father, Louisoix, for his work in Eorzea and sacrifice to save them from the [[Umbral Calamity#Seventh Umbral Calamity|Calamity]] that ravaged the land years before. Fourchenault acknowledges Louisoix's sacrifice, yet admits he disagreed with his father's decisions as they went against Sharlayan philosophy to "chart the course of history, not to change it".
+
+{{Quote|By espousing such barbaric notions, you subvert the teachings of Sharlayan and place all we have worked for in jeopardy. Alphinaud, Alisaie. As of this moment, you shall no longer bear the name of Leveilleur. How you choose to live your lives is no longer my concern. If you wish to walk the path of ruin, I will not stand in your way.|Fourchenault to Alphinaud and Alisaie}}
+He declares that Sharlayan will not aid in Eorzea's conflict against the Empire, proclaiming that these "Final Days" that the Alliance is suggesting are unfounded propaganda. Alisaie and Alphinaud attempt to reason with him from their first hand experience, but it only infuriates Fourchenault as he sees them straying from their Sharlayan values and allowing themselves to be poisoned by Louisoix's ideals. He denounces the twins as Leveilleurs before taking his leave, Alphinaud convincing an upset Alisaie that she can't change the opinions of their father and the Forum. [[G'raha Tia]], who witnessed the argument, suggests from Fourchenault's strange behavior and being envoy instead of a lesser ranked member that Sharlayan may know more than they are letting on about the Final Days.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+{{Quote|Yes, we are bound by a duty we cannot ignore. Knowing this, what would you have us do? Abandon our vital work, and join you on the field of battle? We will never choose the way of the sword. We will fulfill our mission not through strife and bloodshed, but survival. Come what may, we shall live on. We must.|Fourchenault Leveilleur}}
+{{Character section|Final Fantasy XIV: Endwalker}}
+{{Endspoiler}}
+
+==Characteristics==
+===Appearance===
+Fourchenault is a Wildwood Elezen with tan skin, long white hair, and blue eyes. He wears a {{icon|FFXIV|item|Valkyrie's Coat of Aiming}}, which is a white, blue, and black with red lining. It is decorated with gold accents and blue sashes. He wears white trousers and black formal shoes.
+
+In the ''Endwalker'' trailer, he wears a more formal uniform of the Forum, a white shirt with golden buttons and a black tie overlain his chest. He wears a long white academic dress decorated with golden aiguilettes (also know as aglets).
+
+===Personality===
+Fourchenault values Sharlayan's wisdom, careful to preserve their tradition and culture. Fourchenault does not seek to control or demand anything of others, as seen in his respect for his father and allowing him to take his children to study in Eorzea. He appears well-spoken, welcoming and even-tempered, but suddenly becomes hostile when his children question him, going so far as to disown them. His devotion to Sharlayan's creed of nonintervention has him refuse any alternative, including giving aid to the people in need or acting even to prevent the end of the world, claiming that Sharlayans' ancient ways are what makes them who they are. His claim that his nation's creed is all that they know makes him appear close-minded.
+
+Though Fourchenault once seemed to respect his sire, he now appears to hold Louisoix in complete contempt for intervening to stop the Calamity and saving Eorzea, even though his father saved countless lives and Eorzeans hold him in high regard. He even decries his father's teachings and ideals, claiming they "poisoned" his children, and glares at the Warrior of Light resentfully when they recite his father's words.
+
+== Behind the scenes ==
+Fourchenault Leveilleur first appeared in the ''Tales from the Calamity''<ref>[https://www.finalfantasyxiv.com/anniversary/na/detail/memoir_5.html Tales from the Calamity: In Louisoix’s Wake]</ref> story ''In Louisoix's Wake'', and later in ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]''.<ref>[[Encyclopædia Eorzea: The World of Final Fantasy XIV]] pg. 170</ref>
+
+At the [[Final Fantasy XIV Fan Festival|Final Fantasy XIV Digital Fan Festival 2021]], the full version of the ''Final Fantasy XIV: Endwalker'' CG trailer included the appearance of Fourchenault in the city of [[Old Sharlayan]]. He is confronted by [[Y'shtola Rhul]] over his neutrality in the face of the Final Days, but still refuses to act.<ref name="Trailer"/>
+
+== References ==
+{{citations}}
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Sages]]

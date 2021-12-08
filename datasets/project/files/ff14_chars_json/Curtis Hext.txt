@@ -1,0 +1,39 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Curtis Hext
+|release = FFXIV
+|japanese =カーティス・ヘクスト 
+|image = FFXIV Curtis Hext 2.png
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Blond
+|eye = Blue
+|designer = 
+|age = 
+|job = {{icon|ffxiv|discipline|gladiator}}
+|weapon = Weathered Burtgang
+|armor = 
+|romaji =Kātisu Hekusuto 
+|affiliation = [[Ala Mhigan Resistance]]
+|occupation = Resistance Leader
+}}
+
+'''Curtis Hext '''is a character in ''[[Final Fantasy XIV: Stormblood]].'' He was once a popular leader of the Ala Mhigan Resistance, and was also the father of [[Yda Hext|Yda]] and [[Lyse Hext]].
+
+== History ==
+[[File:FFXIV Curtis Hext.png|left|thumb|]]
+{{Section|Final Fantasy XIV}}
+
+== Characteristics ==
+=== Appearance ===
+Curtis is a highlander hyur with blond hair and blue eyes, he wears a Gazelleskin coat of fending and wields a weathered Burtgang in battle.
+
+=== Personality ===
+A stout leader, Curtis is a passionate believer in freedom. He cares for his two daughters greatly and hopes that they won't live under tyranny.
+
+A visionary man, Curtis understood very well that fighting for freedom against tyranny and hardship was only half the battle. The most important and hardest battle was building a better future for all of Ala Mhigo once the fighting was over, as he stated, "dying is easy, living is harder."
+
+{{navbox characters FFXIV}}
+[[Category:Hyurs]]
+[[Category:Characters in Final Fantasy XIV]]

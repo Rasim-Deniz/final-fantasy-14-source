@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tista-Bie
+|release=FFXIV
+|japanese=ティスタ・バイ
+|romaji=Tisuta Bai
+|aka=
+|image=FFXIV Tista-Bie.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Eulmore]]
+|age=
+|dob=
+|affiliation=
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Miqo'te|Mystel]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Tista-Bie''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. She is a honeybee from [[Eulmore#the Beehive|the Beehive]], talking to her can make High or Low matches.
+
+==History==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Tista is a young mystel woman with light purple long, braided hair. Her hairstyle is the same as [[Cinque]]'s from ''[[Final Fantasy Type-0]]''.
+
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV ShB High or Low.png|High or Low match.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Gamblers]]

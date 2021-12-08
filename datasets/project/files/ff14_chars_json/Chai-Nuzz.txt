@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Chai-Nuzz
+|release=FFXIV
+|japanese=チャイ・ヌズ
+|romaji=Chai Nuzu
+|image=FFXIV Chai-Nuzz.png
+|home=[[Eulmore]]
+|affiliation=
+|occupation= 
+|race= [[Miqo'te|Mystel]]
+|gender= Male
+|hair= Lavender
+|eye= Purple
+|type=npc
+|japanese voice actor=
+|english voice actor=
+|boss page=
+}}
+'''Chai-Nuzz''' is a non-player character from [[Final Fantasy XIV: Shadowbringers|''Final Fantasy XIV: Shadowbringers'']]. He is a resident of [[Eulmore]] and the husband of [[Dulia-Chai]]. Before coming to Eulmore, he was the director of a mining company.
+
+==History==
+Chai-Nuzz inherited and ran Daedalus Stoneworks, a mining company that worked in [[Amh Araeng]] using the golems known as Talos. He fled to Eulmore and was given the privilege of becoming a free citizen.
+
+A week before [[Alphinaud Leveilleur]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] arrive in the city, a painter by the name of [[Tristol]] worked for the Chais to create portraits of them. The pictures were to their distaste, and without a purpose in the city, the man was thrown from the balcony and into the waters below.
+
+Alphinaud is welcomed into the city as a painter for the Chais, and following his introduction to the couple, he presents the Warrior of Light as an inspiration for his artistic talent and the Chais allow them to stay and explore the city. Once Alphinaud finishes a portrait of the two, Chai-Nuzz finds it unflattering of his wife. Before he can finish scolding him, the Jongleurs announce that a villain is being punished and all are invited to witness.
+{{Section|Final Fantasy XIV}}
+
+==Characteristics==
+===Appearance===
+Chai-Nuzz is a adult male mystel with slick, short lavender hair. He has purple eyes, and wears round black glasses and a fancy purple shirt with black trimmings. 
+
+===Personality===
+As a resident of Eulmore, Chai-Nuzz indulged in the city's luxuries and is initially shown to be uncaring of people's lives, as he didn't much care for his bonded citizens being tossed out of the city. He cares for his wife and will do anything to make her happy, though is often overwhelmed by her affections. He is distrusting, or at least doubtful, of his own abilities, but is great at planning and an excellent leader.
+
+Chai-Nuzz redeems himself after organizing the creation of the giant Talos that latches onto Mt. Gulg. After being elected as the new mayor of Eulmore, he swears with all his power to dismantle the laws [[Vauthry]] put in place and reestablish the nation, for rich and poor alike.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

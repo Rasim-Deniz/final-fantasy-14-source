@@ -1,0 +1,52 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Fufucha Fucha
+|release=FFXIV
+|japanese=フフチャ・フチャ
+|romaji=Fufucha Fucha
+|image=FFXIV ARR Fufucha.png
+|race=[[Lalafell]]
+|gender=Female
+|age=44<ref name=EE123/>
+|home=[[Gridania]]
+|type=npc
+|job={{icon|ffxiv|discipline|botanist}}
+|affiliation=Botanists' Guild
+|occupation=Guildmaster
+}}
+
+'''Fufucha Fucha''' is a non-playable character from ''[[Final Fantasy XIV]]''.
+
+==History==
+===Early life===
+Though born in [[Thanalan]], an [[Amalj'aa]] raid forced Fufucha from the deserts as a child. Her family found salvation in the [[Black Shroud]], and it is widely believed that she aspired to become master of the Botanists' Guild in order to protect the forest, and repay the goodwill of the forestborn who welcomed her so many summers ago.<ref name=EE123>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 123</ref>
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV 1x Fufucha.jpg|thumb|left|Fufucha in version 1.0.]]
+[[Miounne]] introduces the adventurer to the Botanists' Guild at Greatloam Growery, where he must begin preparations for participating in the purification rites, which will serve to purify him from the woodsin. Fufucha teaches the dance of the ritual and introduces [[Zezekuta]], a [[carpenter]] who will be in charge of making the mask that the adventurer will wear. Once Fufucha finds out that the orphaned children asked the adventurer to escort them through the wood, she is relieved and thanks the adventurer for seeing that the children have returned safely.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+After the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] joined the Botanists' Guild, Fufucha teaches several lessons about the harvest and entrusts the Warrior of Light with work for the guild. Among the orders was one from the [[Order of the Twin Adder]] with the purpose of using the crops for a war effort. Unable to reconcile his conflicting feelings about the Botanists' Guild by serving the war effort that brought such turmoil to the once tranquil Twelveswood, Fufucha made the decision to resign her position as a guildmaster. Yannie, a friend of Fufucha's asks the Warrior of Light to go to [[Coerthas]] and seek advice from Roiteloin, a former Fufucha apprentice.
+
+Roiteloin deeply sympathizes with Fufucha's dilemma and devises a plan to lift Fufucha's spirits and get her to reconsider her decision. Roiteloin explains that spruce logs are extremely necessary for the people of Coerthas to rebuild houses burned by dragons. At Yannie's request, Fufucha traveled to Coerthas to see for herself how the forest can save lives even in times of war. Fufucha decides to remain in the guild and thanks him for helping her to rediscover the sense of purpose she had lost.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Fufucha recommends the Warrior of Light to [[Mujih Mewrilah]], a reporter for The Raven to write a series of articles on the actions of a first-rate botanist. At the same time, Fufucha charges the Warrior of Light with a request for help from Roiteloin.
+{{section}}
+
+==Characteristics==
+[[File:FFXIV 1x Fufucha render.jpg|thumb|150px|Fufucha render for version 1.0.]]
+===Appearance===
+===Personality===
+{{section}}
+{{Clear}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:Botanists]]
+[[Category:Guildmasters]]

@@ -1,0 +1,99 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Rhitahtyn sas Arvina
+|release=FFXIV
+|japanese=リットアティン・サス・アルヴィナ
+|romaji=Rittoatin Sasu Aruvina
+|lit=Rittoatin sas Arvina
+|aka=
+|image=Rhitahtyn sas Arvina.png
+|home=
+|age=49
+|dob=
+|affiliation=[[Garlean Empire]]<br/>[[XIVth Imperial Legion]]
+|occupation=Praefectus castrorum
+|education=
+|race=[[Roegadyn]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=boss
+|job=
+|abilities=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Though native to a territory subjugated by the Empire, Rhitahtyn nevertheless serves as praefectus castrorum of the XIVth Imperial Legion. The Roegadyn was awarded the rank by Gaius van Baelsar himself, the legatus more interested in recognizing the mercenary's exceptional martial prowess than the origin of his birth. Rhitahtyn wields a unique gunshield named ''Tartarus''.|Official description}}
+'''Rhitahtyn sas Arvina''' is an antagonist from ''[[Final Fantasy XIV]]'', and praefectus castrorum of the [[XIVth Imperial Legion]] of the [[Garlean Empire]].
+
+==History==
+[[File:FFXIV Imperial Legatus.png|left|thumb|Rhitahtyn and the Tribunes with Gaius.]]
+Unlike the Tribunes, Rhitahtyn is not a native of the Empire, but from one of the conquered lands. Despite this he rose through the ranks to his current position due to [[Gaius van Baelsar|Gaius]] valuing skill over origin. He strongly believes in Gaius's mission of conquering [[Eorzea]] to unite it under a powerful leader, stating that his homeland was in a constant state of turmoil before the Empire brought order to it.
+
+Rhitahtyn confronts [[Nero tol Scaeva|Nero]] as he spies on the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and admits his misgivings about relying on the [[Ascian]]s and the mysterious [[Lahabrea]]. He warns Nero that his loyalty should be to Garlemald first and to their new allies second.
+
+With the prisoners from the Waking Sands escaped and the Eorzean Alliance preparing its counter-offensive, Gaius awards Rhitahtyn with the command of the Imperial forces at Cape Westwind. Accepting his new position with some reluctance, Gaius reassures his protege that he would not give the position to anyone who did not earn it.
+
+[[File:Rhitahtn_Sas_Arvina.jpg|thumb|left|Rhitahtyn confronts the enemy.]]
+As one of Gaius's most valued soldiers, Rhitahtyn becomes one of the first targets of Operation: Archon who seek to defeat him and cut off communication between the Imperial Strongholds located throughout Eorzea. The Warrior of Light confronts him in the imperial outpost at Cape Westwind, where Rhitahtyn orders his soldiers to flee as they stand no chance against such a powerful opponent. He engages the party in battle himself, but is slain, his last words being his regret for failing Gaius.
+
+When the Warrior later ventures into the Aetherical Sea to find Hydaelyn, they encounter Rhitahtyn's memories manifested as monstrous being.
+
+
+==Characteristics==
+===Appearance===
+[[File:Rhitahtyn sas Arvina FFXIV Art.jpg|thumb|150px|Artwork.]]
+Rhitahtyn is a [[Roegadyn]] clad in a customized suit of armor that officers of the Imperial Army wear, his being black with gold lining and a unique helmet that features large forward-curving horns. He wields a pair of gunshields, named the ''Tartarus''.
+
+===Personality===
+A strategic genius and powerful warrior, Rhitahtyn is slow to anger and prefers to avoid needless bloodshed. He is deeply loyal to his commander, [[Gaius van Baelsar]], who promoted him into his current position despite his past as a mercenary from one of Garlean-conquered patron states.
+
+==Gameplay==
+{{main|Cape Westwind (trial)}}
+Rhitahtyn is fought in the opening stages of [[Operation Archon (battle)|Operation Archon]], during the {{icon|ffxiv|duty|Cape Westwind}} trial. He is proficient at hand-to-hand combat, his weapon of choice being a pair of gunshields. He primarily attacks with brute force by punching and kicking, but can also fire Magitek Missiles and powerful explosive shells from his shields.
+
+== Musical themes ==
+{{audio|filename=XIV Steel Reason.ogg|title="Steel Reason"}}
+The theme "Steel Reason" plays in the battle against Rhitahtyn and the other Tribunes. It was composed by [[Nobuo Uematsu]].
+{{clear}}
+
+== Other appearances ==
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+Rhitahtyn appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+518a Rhitahtyn sas Arvina.png|Rhitahtyn sas Arvina.
+518b Rhitahtyn sas Arvina.png|Rhitahtyn sas Arvina.
+518c Rhitahtyn sas Arvina.png|Rhitahtyn sas Arvina.
+</gallery>
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK_Rhitahtyn_sas_Arvina_FFXIV.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+==Behind the scenes==
+Square Enix's [[Eorzea Cafe]] served a dish called "Rhitahtyn sas Arvina" as part of its special menu served after 7 pm, whose description translated to: ''A dish made both in consideration of those looking to enjoy a large feast together with others and as an answer to adventurers disappointed that there wasn't an extreme version of 'that' boss they laid to waste. We believe there is enough here to send a group of unwary adventurers home saying "Ugh...".''
+
+==Gallery==
+<gallery>
+
+Rhitahtyn and Gaius.jpg|Rhitahtyn being given command of Cape Westwind.
+Rhitahtyn TCG.png|''[[Final Fantasy Trading Card Game]]''.
+File:RhitahtynFace.jpg|Rhitahtyn without his armor.
+
+</gallery>
+
+==Etymology==
+Rhitahtyn is a name from the Roegadyn language combined from the words ''rhit'' meaning "right" and ''ahtyn'' meaning "judge". His surname of Arvina is Latin for "fat," and is a popular choice of surname for Roegadyns with Garlean citizenship, and is shared with [[Grynewaht pyr Arvina]], who has no relation to Rhitahtyn.
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Rhitahtyn Sas Arvina]]
+[[Category:Antagonists]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Garlean citizens]]

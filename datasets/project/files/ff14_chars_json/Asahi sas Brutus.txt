@@ -1,0 +1,124 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Asahi sas Brutus
+|release=FFXIV
+|japanese=アサヒ・サス・ブルトゥス
+|romaji=Asahi sasu Burutusu
+|lit=
+|aka=
+|image=FFXIV Asahi sas Brutus.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=27
+|dob=
+|affiliation=[[Garlean Empire]]
+|occupation=Tribunus in the Imperial Military<br>
+Ambassador plenipotentiary
+|education=
+|hobby=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Male
+|height=5'6" (66.1 in.)
+|weight=
+|hair=Black
+|eye=Black
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|samurai}}
+|abilities=
+|limit break=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Junichi Yanagita
+|english voice actor=Matt McCooey
+}}
+{{Quote|Ah, where are my manners? I am Asahi sas Brutus, ambassador plenipotentiary of Garlemald.|Asahi sas Brutus}}
+'''Asahi sas Brutus''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He is a tribunus, and an ambassador of the [[Garlean Empire]], and the adoptive brother of [[Yotsuyu goe Brutus]].
+
+==History==
+Asahi Naeuri was born as the sole child and heir of House Naeuri. He was noted for his aptitude, and after his parents met with a Garlean officer, Asahi was planned to be conscripted into imperial service. Asahi was cornered by Doman soldiers opposing the Empire's invasion and was saved by Zenos. He fell in love with the crown prince and longed to get his attention despite Zenos barely acknowledging him. Over the years, Asahi became a Garlean citizen and rose to power in Garlemald, becoming a Tribunus and taking on the Garlean surname Brutus.
+
+===''Final Fantasy XIV: Stormblood''===
+[[File:FFXIV Asahi arrives.png|thumb|left|Asahi and the Populares in Yanxia.]]
+Following Doma's liberation, despite Garlemald refusing to acknowledge its sovereignty, [[Varis zos Galvus|Emperor Varis]] requests Asahi to conduct negotiations with Doma on a united front to combat the [[primal]] threat, instructing him to parley with a prisoner exchange as a sign of goodwill. Before Asahi embarks on his mission, he was summoned by who he assumed was a recuperating Zenos and receives instructions to disrupt the treaty by orchestrating the Primal summoning. Asahi soon arrives to Yanxia to relay Varis’s offer of an alliance between their nations to the young Doman lord [[Hien Rijin|Hien]] and the [[Scions of the Seventh Dawn]]. Hien initially turns down the offer, Asahi explains the Populares‘ pacifistic ideals and how both they and Varis are opposed by the nationalists of the Optimate party. Offering the prisoner exchange as a sign of trust, Asahi requests Yotsuyu with Hien reluctant to return her to Garlean custody. As Hien ponders it, he allows Asahi and his party explore his homeland of Namai with the Warrior of Light and [[Alisaie Leveilleur|Alisaie]] as escorts.
+
+While observing the destruction caused by his stepsister’s reign with desires to restore Doma to its former glory, Asahi accompanies the Scions when they come to the aid of young villagers ambushed by the Red Kojin. Asahi protects some youths and assures them that the Red Kojin's actions were a result of the Empire. Returning to the shore, Asahi is delighted to hear of Hien’s decision to the prisoner exchange, though he reasons that the amnesiac Yotsuyu may be of no use to the Empire as she is a changed person but will allow her to leave with Asahi should her memories return before the exchange. Requesting to see his sister if seeing him would restore his memories, a confused Yotsuyu receives a Kojin mirror as a parting gift. On his way back to the [[Airship (term)|airship]], Asahi pulls the Warrior of Light aside and reveals his true colors with a glare of raw anger with the ominous promise of a reckoning for what they did to Zenos. Satisfied with the Warrior unable to land a hand on him due to diplomatic immunity, Asahi report back to his superiors that things were "going easier than planned".
+
+Asahi waits at the Imperial camp and meets with Hien right before the hour, showing up with Yotsuyu to show her in good health, though still bereft of her memories. Asahi attempts to restore Yotsuyu's memories by bringing forth their parents, the encounter leaving his stepsister shaken. He later whispers to her that she will return to him soon. With one last push, he escorts their parents to the Doman Enclave, using their greed and selfishness to convince her to return to Garlean service. Though his plan works, her grief prompts her to murder her parents on the spot for showing no remorse, only greed and disgust towards her, stating that if she can't escape her nature, she'll embrace it.
+
+[[File:FFXIV Asahi Crazy.png|thumb|Asahi expresses his emotions.]]
+Asahi meets with Hien at Castrum Fluminis at the promised hour, prepared to exchange prisoners. He reveals his plan to undermine peaceful negotiations, showing off Yotsuyu restored to her former self as she uses the Kojin mirror and  supply crates containing crystals to conduct a summoning and transform herself into the [[Primal]] Tsukiyomi as part of Asahi's plan to paint Doma as violators of the treaty. Ordering his men to fall back while the Warrior defeats Yotsuyu, Asahi shoots his stepsister while gloating that Doma violated the peace terms and that Warrior can't touch him without worsening the situation. He then expresses his hatred and jealousy over Zenos giving his less-faithful stepsister more power than him, repeatedly kicking the seeming defenseless Yotsuyu's broken body.
+{{Quote|It should have been mine. The power he bestowed upon her... I should have been the one to govern Doma! ''I'' would have repaid his faith! No one alive loves him more than I! Instead, this ''harlot'' betrayed his trust! ''Useless...piece of...filth!'' Worthless whore!|Asahi}}
+[[File:FFXIV Asahi vs Yotsuyu.png|thumb|left|Yotsuyu kills Asahi.]]
+But before Asahi could finish her, Yotsuyu uses the last of her eikon power to fatally impale him with her swords and succumbs to her wounds with full knowledge that she killed the last person responsible for what she had become. With his dying breath, Asahi curses the Warrior of Light and promises that Zenos will come after them. Asahi's plans to disrupt the prisoner exchange fail when his fellow Populares subordinate Maxima overhears the details and allows the exchange to go as planned, with Varis later learning of this plot.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:5-3 patch Zenos and Fandaniel.png|thumb|Asahi‘s corpse possessed by Fandaniel.]]
+Some time after Asahi's death, the rogue [[Ascian]] [[Fandaniel]] possesses his corpse and uses it to recruit Zenos for his personal agenda. He reveals to Zenos the story of the Ancients while offering him both the Warrior and [[Zodiark (Final Fantasy XIV)|Zodiark]] for his aid.
+
+==Characteristics==
+===Appearance===
+Asahi is a young [[Hyur]]an with pale skin and short black hair and eyes. He wears a Garlean white uniform with [[Doma (Final Fantasy XIV)|Doman]] aesthetics. The sword he wields is a High steel tachi, and later on he wields a Pre-imperial Garlean Reveolver.
+
+===Personality===
+Upon his initial introduction, Asahi presents himself as kind-hearted and understanding, wishing to broker peace between Garlemald and Doma as the Empire's voice. Being of Doman blood, he is appalled at the destruction left in his stepsister's wake when he sees the ruins and disarray his home village was left in under her rule. During a battle with the Red Kojin, he shields Isse and Azami from their attacks.
+
+{{Spoiler}}
+But once left alone with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Asahi reveals his true colors as a spiteful man seeking to avenge [[Zenos yae Galvus]]'s defeat. Asahi's admiration of Zenos crosses into obsession, proclaiming none alive loves him more. This fueled his jealousy towards his sister who was given more power than him. Asahi is conniving and scheming, not above sacrificing his own parents to get what he wants. Despite being an influential voice in the Populares, he does not believe in any of their ideals while using his position as Ambassador to antagonize the adventurer to cause an international incident to violate the treaty between Garlemald and Doma.
+
+During his childhood Asahi was apathetic towards his stepsister's struggle. His jealousy and hatred towards her on the "unfairness" between them shows Asahi is spoiled and ungrateful. His parents gave him everything he needed and wanted for a life of privilege and power, but he was more loyal to Zenos. He feels entitled and deserving of Yotsuyu's rank and power.
+{{endspoiler}}
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Asahi sas Brutus
+|image = [[File:Asahi_Triple_Triad_Card.png]]
+|number = 222
+|total = 17
+|type = Garlean
+|description = “Will you surrender to anger, then? Slay an anointed emissary to avenge a fallen foe?”
+|obtain = Obtained from Hachinan, located in Yanxia (26, 12).
+}}
+
+==Behind the scenes==
+===Voice===
+Asahi is voiced by Matt McCooey in English and Junichi Yanagita in Japanese, both of whom go on to voice Fandaniel.
+
+==Gallery==
+<gallery>
+FFXIV Asahi.png|In-game render.
+FFXIV Young Asahi.png|Asahi in the past.
+FFXIV Asahi and Zenos.png|Asahi and his master, Zenos.
+FFXIV Asahi Pistol.png
+FFXIV Under the Moonlight Artwork.jpg|Asahi in ''Under the Moonlight'' artwork.
+</gallery>
+
+==Etymology==
+{{Etym|Asahi}}
+He might be intentionally named to oppose his adoptive sister [[Yotsuyu goe Brutus]] (meaning "night dew" in Japanese).
+{{clear}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Asahi sas Brutus]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Samurai]]
+[[Category:Hyurs]]
+[[Category:Garlean citizens]]

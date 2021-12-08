@@ -1,0 +1,90 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Baderon Tenfingers
+|release = FFXIV
+|japanese = バデロン
+|image = Baderon from Final Fantasy XIV.png
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Dark Red
+|eye = Light Brown
+|designer = 
+|age = 48
+|type = npc
+|job = 
+|weapon = 
+|armor = 
+|romaji = Baderon
+|affiliation = Adventurer's Guild
+|occupation = Tavern Owner
+}}
+{{Quote|This affable former mercenary runs the Drowning Wench, a beer hall found in Limsa Lominsa. Foul-mouthed yet good-natured, Baderon's soft spot for helping out fledgling heroes has earned him the trust and respect of the adventuring community.|Official description}}
+'''Baderon Tenfingers''' is a non-playable character from ''[[Final Fantasy XIV]]'', he is a [[Hyur|midlander hyur]] who works for the Adventurer's Guild in [[Limsa Lominsa]].
+
+==History==
+===Early life===
+Baderon was the only son of Lodewicus, however his father, founder of the Adventurers' Guild cast a long shadow over Baderon and he grew rebellious, leaving home when he was young. He became a skilled mercenary and threw himself into battle time and again. Eventually something changed and he decided to open a tavern and establish a spot for the Adventurers' Guild. <ref>''Encyclopedia Eorzea'', p. 194</ref>
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[file:FFXIV 1x Baderon.jpg|thumb|left|Baderon in version 1.0.]]
+When the [[Warrior of Light (Final Fantasy XIV)|adventurer]] arrives in [[Limsa Lominsa]], Baderon acts as a guide suggesting that the adventurer visits several guilds and often communicates with him via a linkshell. Baderon also provides information about the recent rumors and helps to cover up the adventurer while he is under observation by the city-state. After the adventurer passes out due to a vision of the [[Echo (Final Fantasy XIV)|echo]], a fisher called [[Blackburn (Final Fantasy XIV)|Blackburn]] carries the adventurer to Baderon's inn and asks him to pass on a message telling the adventurer to visit the [[Path of the Twelve]] in [[Ul'dah]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Baderon continues to run the Drowning Wench, assisting new adventurers of the [[Warrior (Final Fantasy XIV)|Marauder]] and [[Summoner (Final Fantasy XIV)|Arcanist]] disciplines and guiding them through Limsa Lominsa.
+{{clear}}
+
+==Characteristics==
+[[File:Baderon 1.0 from Final Fantasy XIV.png|thumb|80px|Baderon in the original release.]]
+===Appearance===
+Baderon wears a white bandana with a blue design on it, and a light blue shirt with long sleeves and a necklace.
+
+===Personality===
+Baderon was known to be rebellious when he was younger, and that changed when he got older as he is now seen as a teacher for the younger generation. He was known to be a skilled mercenary when he was younger which is where his nickname "Tenfingers" came from.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Baderon is a npc available for Triple Triad matches added in patch 2.51. He is located at [[Limsa Lominsa Upper Decks]] (11.6, 11.1). To challenge him the player needs to complete the {{icon|ffxiv|quest|A Wild Rose by Any Other Name}} quest. 
+
+The matches have the Match Rule Three Open. The possible rewards for defeating him are {{icon|ffxiv|item|Baderon Tenfingers Card}} and {{icon|ffxiv|item|Sahagin Card}}.
+
+{{Card FFXIV
+|name = Baderon Tenfingers
+|image = [[File:FFXIV TT Baderon Tenfingers.png]]
+|number = 29
+|total = 20
+|type =None
+|description = "Me da once said, if me ma 'erself was ever t' stand 'twixt 'im and a life o' 'venturin', 'e'd straightways up an' drown th' wench."
+|obtain = Won from Baderon, Limsa Lominsa Upper Decks (11, 11).<br>Random drop from {{icon|ffxiv|item|Gold Triad Card}}
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+Baderon appears in ''Final Fantasy Trading Card Game'' as Water-elemental Backup cards.
+
+<gallery>
+Baderon TCG.png|Baderon [12-108C] Chapter series card.
+Baderon 5-132R from FFTCG Opus.jpg|Baderon [5-132R] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Baderon appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+381a Baderon Tenfingers.png|Baderon.
+381b Baderon Tenfingers.png|Baderon.
+381c Baderon Tenfingers.png|Baderon.
+</gallery>
+
+==Gallery==
+<gallery>
+Baderon_Legacy.jpg|Baderon in version 1.0.
+FFXIV Baderon ARR.png|Render from ''A Realm Reborn''.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

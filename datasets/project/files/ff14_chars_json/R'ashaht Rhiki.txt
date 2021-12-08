@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=R'ashaht Rhiki
+|release=FFXIV
+|japanese=ル・アシャ大甲佐
+|romaji=Ru Asha Daikōsa
+|lit=Great Commander R'asha
+|aka = Storm Commander Rhiki {{J|血風のル・アシャ|Chifū no Ru Asha|Bloody Wind Rhiki}}
+|image=FFXIV R'ashaht Rhiki.png
+|home=[[Limsa Lominsa]]
+|age=27
+|affiliation=[[Maelstrom (Final Fantasy XIV)|Maelstrom]]
+|occupation=Storm Commander
+|race=Seeker of the Sun [[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=Dark Brown
+|eye=Brown
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+}}
+'''R'ashaht Rhiki''' is a non-player character from ''[[Final Fantasy XIV]]''. She commands the [[Maelstrom (Final Fantasy XIV)|Maelstrom]] [[Grand Company]] of [[Limsa Lominsa]].
+
+==History==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gameplay==
+Rhiki appears as an enemy before the last boss of the {{icon|ffxiv|duty|Hullbreaker Isle (Hard)}}.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+R'ashaht Rhiki is a npc available for Triple Triad matches added in patch 2.51. She is located at [[Limsa Lominsa Upper Decks]] (13.1, 12.8). To challenge her the player needs to complete the Main Scenario Quest{{icon|ffxiv|quest|For Coin and Country}}. 
+
+The matches have the Match Rules Same and Plus. The possible rewards for defeating her are {{icon|ffxiv|item|Merlwyb Bloefhiswyn Card}}, {{icon|ffxiv|item|Leviathan Card}}, and {{icon|ffxiv|item|Y'shtola Card}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Warriors]]

@@ -1,0 +1,53 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Sisipu Sipu
+|release=FFXIV
+|japanese=シシプ
+|romaji=Shishipu
+|image=FFXIV Sisipu.png
+|race=[[Lalafell]]
+|gender=Female
+|age=
+|home=[[Limsa Lominsa]]
+|type=npc
+|job={{icon|ffxiv|discipline|fisher}}
+|affiliation=Fishermen's Guild
+}}
+'''Sisipu Sipu''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the acting guildmaster of Fisherman's Bottom in [[Limsa Lominsa]], mainly on account of [[Wawalago]] not bothering to do administrative work.
+
+== History ==
+=== ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV 1x Wawalago and Sisipu.png|thumb|left|Wawalago and Sisipu in ''Final Fantasy XIV'' original.]]
+After the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] arrives in [[Limsa Lominsa]], he goes to Fisherman's Bottom to learn more about the city and meets Sisipu and [[Wawalago Momolago]]. Wawalago hires the Warrior of Light to escort Sisipu to Oschon's Torch. Once at their destination, the pair find the abandoned lighthouse with bodies. Once that the survivors return to the lighthouse, Sisipu confirms there safety and returns to Limsa Lominsa.
+
+Sisipu calls the Warrior of Light and shows him a secret fishing spot. [[Rostnsthal|Sthalmann]] appears at the scene and has a long conversation with the Warrior of Light, He says that Sisipu was present when the sahagin attacked Brookhaven and that she witnessed [[Emerick]] talking to the beastmen. After visiting Bearded Rock, the adventurer meets Sisipu again. Sisipu comments that the "key" that the Adventurer seeks was thrown into the sea but Sthalmann had long since recovered it.
+
+After the Warrior of Light officially joins the Fishermen's Guild, Sisipu passes on her task of caring for the fish to the Warrior of Light. She later learns that Wawalago cheated and humiliated several novice pullers including the Warrior of Light. Sisipu questions Wawalago about his behavior with the newcomers and the guildmaster only says that Sisipu should be the one who would understand him.
+
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Once the Warrior of Light joins the Fishermen's Guild, Sisipu trains and instructs the Warrior of Light to fish for different types of fish. After the recent sighting of a gigantic sea serpent off the coast of [[La Noscea]] has prompted the [[Maelstrom]] to ban all fishing until further notice, Sisipu forwards the Warrior of Light to investigate the rumors. Eventually, with the help of Wawalago, they discover that Mazlaya marlin is responsible for the rumors and the Warrior of Light is busy fishing for him. The Sisipu group meets the Grand Storm Marshal [[Eynzahr Slafyrsyn]] aboard one of the Brugaire Consortium's vessels to show the Mazlaya marlin. After the ban is lifted, Sisipu is grateful that the Warrior saved the fishing industry and for what he believes is the biggest contribution to the Fishermen's Guild: attracting Wawalago back to work.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Once [[Ansaulme de Rougecarpe]], an old Wawalugo companion loses his fishing rod, Sisipu instructs the Warrior of Light to find and return the rod to its owner.
+
+Ansaulme subsequently needs to fish for a highest-quality letter puffer, a fish believed to be extinct for a long time. Ansaulme asks the Warrior of Light to return to Limsa Lominsa and speak to Sisipu to see if she has any information on where the fish can be found. Sisipu's studies lead her to believe that if any letter puffers are extant today, they would be found to the west of Ishgard, in the clouds of [[Dravania]]. Sisipu suggests travel to the [[Churning Mists]], and seek further guidance from the local residents. In Churning Mists, [[Mogukk]] confirms the presence of fish in the region.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Sisipu realizes that Wawalago has been acting very suspicious lately, sneaking out of town at odd hours of the night. Concerned that the guildmaster has gone into something obscure, Sisipu asks the Warrior of Light for help in evaluating what exactly is going on. After asking Wawalago directly, the Warrior of Light returns and reports that Wawalago is meeting an companion and that companion also wants to meet the Warrior of Light.
+
+Wawalago asks to the Warrior of Light keep his business with his [[Govv|companion]] a secret from Sisipu. Wawalago explains that the Sisipu's home was already invaded by the Sahagin when she was young, and he seeks only to prevent her from reliving the pain of her past. Eventually Sisipu finds out and punishes Wawalago for his insensitivity to her true feelings and giving him the blessings to he make the journey to the east.
+
+==Characteristics==
+===Appearance===
+Sisipu is a female plainsfolk [[Lalafell]] with lilac hair. She wears a blue Fisherman's Tunic and a angler's hat with light blue trim.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+During the [[Quests (Final Fantasy XIV)/Legacy/Limsa Lominsa#Treasures_of_the_Main|Treasures of the Main]] quest in version 1.0, the adventurer needed to escort and defend Sisipu to Oschon's Torch. This instance served as a tutorial to introduce the open map to the players that started in Limsa Lominsa.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:Fishers]]

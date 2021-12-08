@@ -1,0 +1,59 @@
+{{sideicon|FFXIV}}
+{{infobox character
+|name=Hakuro Gunji
+|release=FFXIV
+|japanese=ハクロウ
+|romaji=Hakurō
+|aka=Hakuro Whitefang
+|image=FFXIV Hakuro.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]
+|occupation=Ferae Domitae Centurion
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Lupin]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|samurai}}
+|weapon=Katana
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Hakuro Gunji''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He is a large male [[Lupin]] [[samurai]], formerly servant and friend to Lord [[Hien Rijin|Hien]]. After the [[Garlean Empire|Garlean]] occupation, he and his lupin comrades were conscripted by Empire and formed the Ferae Domitae auxiliary force, in which he served as Centurion.
+
+==History==
+[[File:FFXIV_Hakuro_Road_Encounter.png|left|thumb|Hakuro orders Alphinaud and the Warrior of Light to get out of his patrol's way.]]
+While Lupin "Ferae Domitae" Auxiliaries attack the camp in [[Rhalgr's Reach]] alongside Lord [[Zenos yae Galvus]], Hakuro himself is not seen until much later when he confronts [[Alphinaud Leveilleur]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in the lands around [[Ala Mhigo]], as the then-Imperially-aligned Hakuro leads a squad of Auxiliaries to aid in the defense of Ala Mhigo.
+
+Alphinaud attempts to persuade Hakuro and his subordinates that [[Hien Rijin|Hien]] is still alive and that Doma has been liberated, but Hakuro refuses to accept him on the basis of words alone; as far as Hakuro knows, Hien is dead and to betray the Empire would lead to the death of his entire squad, alongside all of their loved ones and relatives. The only way Alphinaud and the Warrior of Light can prove that they do not need to fight is to fight the Auxiliaries.
+
+The Lupin Centurion and his soldiers prove to be formidable opponents, but Alphinaud and the Warrior of Light eventually subdue the Auxiliaries and tell Hakuro what happened during the Liberation of Doma. Accepting their words as truth and complimenting their skill, Hakuro decides to lead his squad into the city of Ala Mhigo to spread word of Doma's liberation, with the intent of causing other conscripts from Doma to abandon the fight (or even turn upon the Garleans) and significantly weakening the city's defenses as a result.
+
+Once Ala Mhigo has been fully liberated, Hakuro returns to Doma at Lord Hien's side to act as a trusted servant and advisor. With [[Gosetsu Daito|Gosetsu Everfall's]] retirement and the prisoner exchange with the empire going according to plan, Hakuro takes charge of the newly-reinforced defense forces. Hakuro is glad he did not have to turn to his [[Kurobana|brother]] for reinforcements, though he does not elaborate upon why.
+
+==Characteristics==
+===Appearance===
+Hakuro is a [[Lupin]] of exceptional height (on par with, if not exceeding, the tallest Garleans and [[Roegadyn]]) with gray fur and yellow-gold eyes. He at first wears the uniform and armor of a Garlean Auxiliary, but after the events of ''[[Final Fantasy XIV: Stormblood]]'' he resumes wearing traditional Doman/Lupin dress. He carries a katana.
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Samurai]]
+[[Category:Lupin]]

@@ -1,0 +1,65 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=2P
+|release=FFXIV
+|japanese=ツーピー
+|romaji=Tsūpī
+|aka=
+|image=FFXIV 2P.png
+|race=Machine Lifeform
+|gender=Female
+|hair=Black
+|type=npc
+}}
+{{Quote|An android in white, awakened within the excavation tunnels near Komra. She seems to be less than fond of machine lifeforms, to say nothing of the shrewd figure controlling them.|Official Description.}}
+'''2P''' is a non-player character in ''[[Final Fantasy XIV]]''. She appears in the ''[[Final Fantasy XIV: Shadowbringers]]'' expansion as an ally and later antagonist for the [[YoRHa:Dark Apocalypse]] alliance raid storyline.
+
+She is based on the original [[2B]] from [[Square Enix]]'s action RPG, ''[[Drakengard|NieR:Automata]]'', as an alternate form of 2B. She first appeared in Bandai Namco's fighting game ''[[w:c:soulcalibur:Soulcalibur VI|Soulcalibur VI]]'' as 2B's second player color scheme, leading to the fan nickname of "2P" (as in Player 2). The 2P name was made official with her reveal in YoRHa:Dark Apocalypse.
+
+==History==
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]], [[Anogg and Konogg|Anogg, and Konogg]] arrive at Machine Graveyard, they rescue 2P from mysterious machines. Although she does not provide the details, 2P insists the party delve deeper into the ruins to prevent "machine life forms from escaping".
+
+The group faces a sealed door and the [[Lalafell|dwarf]] duo detonate it to make way for the [[Copied Factory]]. An android called [[9S]] attacks the party with hacked machines, but 2P throws 9S off the platform, being damaged in the process. 2P reveals she is an android and asks the party to retrieve a "key" in the depths before losing consciousness. The key is discovered to be a Pod, an assistant machine to android life forms that can repair their bodies. Anogg and Konogg wake 2P up and show her the Pod, which she seems satisfied with.
+
+Outside, the dwarves prepare to throw their annual carnival. During the peak of celebrations, a swarm of androids dressed in white attack the village, using weapons found inside the Copied Factory. 2P thanks Anogg and Konogg for providing her with the key to the android invasion, and prepares to cut them down. [[2B (Final Fantasy XIV)|2B]] appears to save the siblings, but 2P escapes into the Puppet's Bunker while 2B gives chase.
+
+Within the Bunker, 2P joins with other android bodies to create a spherical entity known as The Compound, which the Warrior of Light takes down. The android bodies form another entity, a humanoid giant construct named Compound 2P, which attacks the Warrior of Light. After her defeat, clones of 2P are met once more inside the Bunker after Anogg attempts to investigate it, where they vanish into a large sphere and create the Tower at Paradigm's Breach.
+
+Replicas of 2P are fought once more in the Tower at Paradigm's Breach network system, though they lack any personality or individuality, being cut down as puppets of the Red Girl.
+
+==Characteristics==
+===Appearance===
+2P is an android (visually similar to a Midlander [[Hyur]] woman) with black hair cut into a bob. She wears an all white ensemble, which is a white recolor of the No.2 Type B dress, as well as stockings, boots and headband. She wears black and white gloves and wields a large samurai sword. She has a mole on her lower left cheek.
+
+===Personality===
+2P is quiet, mission focused, and diligent, much like her counterpart 2B. She focuses on the mission rather than concerns herself with asking questions about the assigned task. As she works alongside the Warrior of Light, she shows a more secretive side, outright avoiding answering questions rather than being curt or formal.
+
+After her betrayal, she appears more confident and cocky, as the control from the Red Girl seeps into her created personality. She taunts her enemies and ruthlessly attempts to cut the Warrior of Light and 2B down.
+
+==Gameplay==
+2P appears as an NPC ally in {{icon|ffxiv|duty|copied factory}}. She is not associated with any class, instead using attacks taken from 2B in ''NieR:Automata''. For the Engels boss fight, she uses her flight unit. She assists in mechanics for the bosses, calling out the attacks for players to adjust to.
+
+She later appears in {{icon|ffxiv|duty|puppets' bunker}} as the raid's last boss, first taking the form of the Compound before transforming into 2P Compound. Numerous clones of her are fought further in {{icon|ffxiv|duty|The Tower at Paradigm's Breach}}, under control of the [[Red Girl (Final Fantasy XIV)|Red Girl]].
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = 2P
+|image = [[File:2P Triple Triad Card.png]]
+|number = 303
+|total = 28
+|type = None
+|description = A woman encountered in the excavation tunnels who claims to be an android. She leads the white-clad androids in a battle against those in black, though it remains to be seen to what end.
+|obtain = Potential drop from {{icon|ffxiv|duty|copied factory}}
+}}
+
+==Gallery==
+<gallery>
+FFXIV YoRHa Dark Apocalypse part1 01.png|2P with Anogg and Konogg
+FFXIV YoRHa Dark Apocalypse.png|Promotional art for "YoHRa: Dark Apocalypse"
+FFXIV YoRHa Dark Apocalypse key visual.png|"Vows of Virtue, Deeds of Cruelty" key art
+FFXIV_2P_Androids.jpg|2P facing the android invasion
+FFXIV Wind-up 2P.png|Wind-up 2P
+</gallery>
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]

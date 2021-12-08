@@ -1,0 +1,39 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Rhesh Polaali
+|release=FFXIV
+|japanese=レシュ・ポラリ
+|romaji=Reshu Porari
+|aka=
+|image=FFXIV Rhesh Polaali.png
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|hair=
+|eye=
+|age=
+|home=[[Mor Dhona]]
+|affiliation=[[Crystal Braves]]
+|occupation=
+|type=npc
+|job=
+|weapon=
+|armor = 
+|abilities=
+}}
+'''Rhesh Polaali''' is a non-playable character from ''[[Final Fantasy XIV]]''. She plays a minor role in the Main Scenario of ''A Realm Reborn'' as a member of the Crystal Braves' 4th unit.
+
+==History==
+In [[Mor Dhona]], Rhesh is captured by Garleans and taken to Castrum Centri. She, like many others of the order who remained loyal, had moved to Mor Dhona and helped to guard the frontier hands. After being rescued by the Warrior of Light, she becomes the quest giver for the quest {{icon|ffxiv|quest|Toll Booty}}.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

@@ -1,0 +1,141 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Hien Rijin
+|release=FFXIV
+|japanese=ヒエン・リジン / リジンのヒエン
+|romaji=Hien Rijin / Rijin no Hien
+|aka=Shun
+|image=FFXIV Hien.png
+|home=Doma
+|age=24-25
+|dob=
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]
+|occupation=Prince of Doma
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=Black
+|eye=Olive
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|samurai}}
+|weapon=Kiku-ichimonji
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[wikipedia:Katsuyuki Konishi|Katsuyuki Konishi]]
+|english voice actor=[[wikipedia:Andrew Koji|Andrew Koji]]
+}}
+{{Quote|The young heir to the throne of Doma, Hien is a charismatic leader beloved of his people. Together with Gosetsu and Yugiri, he spurred his countrymen to rise up against their Garlean oppressors. But when the rebellion was crushed, Lord Hien vanished without a trace...|Official website}}
+'''Hien Rijin''' is a character from ''[[Final Fantasy XIV]]'' introduced in ''[[Final Fantasy XIV: Stormblood]]''. He is the heir to the throne of [[Doma (Final Fantasy XIV)|Doma]], succeeding the late king, his father [[Kaien Rijin|Kaien]].
+
+==History==
+
+===Early Life===
+Hien was born in an imperial occupied Doma, and due to this, didn't receive a childhood and was taught an imperial education growing up. As a young boy he noticed that many villagers were forced to repurpose [[Doma Castle (Final Fantasy XIV)|Doma Castle]] to imperial needs exhausting them until they collapsed. He implored his father to rebel and help the people, but he told his son that he would not in order for his people to survive. In order to do so himself, Hien trained in a bamboo grove with a wooden katana, practicing his swings and becoming stronger. One day a lost [[Yugiri Mistwalker|Yugiri]] approached him and questioned why he was training for combat as a child, and he answered that it was in order for him to protect his people. He led her to the eastern shore where she could return home, but she decided to visit and train with him everyday with a wooden sword of her own. 
+
+One day he sat in anger over his people's plight vowing to help them, and told Yugiri that he would be heading home early. Unconvinced, she followed him to [[Swallow's Compass]] where he snuck past the imperial guards and into the forbidden temple. He evaded the Kiyofusa but Yugiri followed suit and alerted one of the magical guards. As it aimed to strike his friend, Hien stepped in to block its sword. As she crawled to safety, he parried the blow to its side, and it dealt a rising stroke that knocked him back giving him a deep gash on his brow. Undeterred he fought the sentry and destroyed its crystal heart, allowing them a moment to escape the temple. As they are leaving however they are spotted by an imperial guard who plans on executing them for trespassing, but he is stopped by [[Gosetsu Daito|Gosetsu]] who states that the guard is at fault for letting children get past him. The guard leaves them be, and Gosetsu initially scolds him for his recklessness in trying to have the monkey king help save the villagers. He reminds him of his fathers lesson as his people could have been severely punished for deserting, and to think of the outcomes his actions may cause. Learning from this, he trained as a samurai under Gosetsu and vowed to make Doma a place of peace like Sui-no-Sato. <ref>{{ref |date=3 September, 2021 |title=The Burden of Duty |url=https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/|access-date= 4 September, 2021}} </ref>
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+[[File:FFXIV Hien 1.png|thumb|left|The party found Hien at the Azim Steppe.]]
+Hien has been hiding at the [[Azim Steppe]] since the defeat of the Doman resistance. When approached about returning to lead the Domans, he agrees if his people wish to continue the fight, not wanting them to suffer the Empire's wrath unwillingly. After being shown their desire to try once more to overthrow the imperial occupation, Hien agrees to return, though he first needs to gather an army, planning to create one from the many [[Au Ra#Xaela|Xaela]] tribes that populate the Azim Steppe.
+
+Hien allies with the Mol Tribe, and agrees to lead them to victory in the upcoming Naadam, the ceremonial battle that determines the leadership of the Steppe. Along with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Gosetsu and [[Lyse Hext|Lyse]], he meets with the leaders of several of the other [[Au Ra]] tribes and completes the trial at [[Bardam's Mettle]] before winning the Naadam for the Mol. Once the tribes unite under his leadership to the fight the Empire, Hien returns to Doma to prepare for the upcoming battle.
+
+[[File:FFXIV Hien vs Yotsuyu.png|thumb|left|Hien finishes off Yotsuyu.]]
+Hien supports [[Alphinaud Leveilleur|Alphinaud's]] plan to defeat the imperial occupation, but later modifies it to include the flooding of Doma Castle. Although destroying the castle would be a great loss to his country, doing so would mitigate casualties among his people, which he sees as far more important. The plan succeeds, and the Garlean forces are driven out. As the [[Scions of the Seventh Dawn]] prepare to return to [[Eorzea]], Hien thanks them for helping liberate his country, and promises to return the favor by helping them in the upcoming battle to defeat the imperial forces at [[Ala Mhigo]].
+
+[[File:FFXIV Hien Ala Mhigo.png|thumb|Hien leads his men to help liberate Ala Mhigo.]]
+Hien is true to his word and leads the Xaela tribes to provide crucial air support to the Eorzean Alliance at the final siege of Ala Mhigo, and he helps fight off imperial soldiers outside the throne room. Hien is present when [[Zenos yae Galvus]] is defeated and Ala Mhigo celebrates its long-desired freedom.
+
+Following Ala Mhigo and Doma's liberation from the Garlean Empire, Hien makes efforts to rebuild his homeland. Gosetsu is revealed to be alive and taking care of an amnesiac [[Yotsuyu goe Brutus]], and though Hien understands that the world had been cruel to the woman, he believes it does not excuse her crimes against Doma. Gosetsu convinces him to spare Yotsuyu due to her having no knowledge of her sins. Hien is ultimately forced to reveal that Yotsuyu is alive to his people after she runs off to fetch a piece of fruit for Gosetsu. Though the people remain fearful of her and cry for her punishment, Hien restrains them and assures she will not be allowed to leave his den unescorted.
+
+Hien is visited by a Garlean transport with a Doma signal of negotiation. Hien and his friends meet [[Asahi sas Brutus]] and the members of the Populares. Further surprising Hien and the Scions, Asahi comes with word from [[Varis zos Galvus|Emperor Varis]] that the Empire is open to peace negotiations. Skeptical of their intentions, Hien nonetheless hears their story. The Empire offers to recognize Doma's sovereignty if they outlaw summoning and wish to conduct a prisoner exchange: conscripted Doman citizens for the acting viceroy Yotsuyu. Hien refrains from answering, wishing to confer with his advisers and friends. 
+
+Asahi was merely acting on behalf of a "resurrected" Zenos, who conspires to undermine Varis's motion of peace with Doma. Asahi probes Yotsuyu into reverting to her sadistic self and gives her the means to summon a [[primal]] within herself, making her violate the terms of their peace negotiations, threatening to spark new conflict with the Empire and pin the blame on Doma. The Warrior of Light defeats Yotsuyu's primal form and confronts Asahi who reveals everything during his rant, which his second-in-command, Maxima, overhears. Yotsuyu, with the last of her life, kills Asahi, finally achieving her vengeance.
+
+[[File:Yshtola Hien and Yugiri FFXIV Patch4.4.png|thumb|left|200px|Hien, Yugiri and Y'shtola in the Burn.]]
+With the struggle over for now, Hien and the Scions meet with Maxima who, in Asahi's stead, completes the prisoner exchange, preserving the fragile peace. Wishing to learn more about the newly returned Zenos, Hien allows Alphinaud to travel with Maxima to Garlemald to investigate, however, they never hear back from him. Feeling responsible, Hien travels with the Scions in search for him. A clue and the last message from Alphinaud takes them to the wasteland of the Burn. They find the wreckage of Alphinaud's transport and the remains of their attackers, soldiers of the imperial family's personal guard. They conclude that someone in Garlemald ordered the attack.
+
+Back in Doma, Hien meets with Lyse who serves as a representative of the Eorzean Alliance. She informs the Scions and Hien that the liberated Ala Mhigo has joined the Alliance and calls for a meeting with Hien. Hien agrees but first wants to fortify his homeland's defenses in the wake of a possible Garlean invasion. Gathering friends and allies, Hien concludes that Doma cannot repel a full force invasion, as the country does not possess the resources and people necessary for such a defense. Realizing that no single nation can defeat the Empire, Hien intends to follow the example of his Eorzean friends by forging an alliance with Doma's eastern neighbors. Hien hopes that by reaching out to Hingashi, Sui-no-Sato ,and even to the conquered provinces of Dalmasca and Nagxia, they can pressure Garlemald to avoid fighting on two separate fronts. Though Hien knows not all will answer the call, he is confidant that Doma's neighbors harbor the same desire for freedom, and if made aware of what is at stake, they may agree to an alliance.
+
+Hien returns to the Burn where a barrier is raised. Almost at the same time an imperial airship lands, inside it [[Gaius van Baelsar]], now calling himself "Shadowhunter", who returns an unconscious Alphinaud to the care of the Scions and warns about the new imperial weapon: the [[Black Rose (Final Fantasy XIV)|Black Rose]].
+
+[[File:FFXIV Hien vs Elidibus.png|thumb|Hien vs Elidibus]]
+As Garlemald attacks Hien, as representative of Doma, now in the alliance against the Empire, participates alongside other representatives of the alliance in an audience with Emperor Varis zos Galvus. After the failed negotiations Garlemald continues its attack. Hien and Yugiri enter the battlefield with the Warrior of Light and during the second wave of the Garlean attack, Hien, Yugiri and Lyse face [[Elidibus (Final Fantasy XIV)|Elidibus]] using Zenos's body. They are defeated, surprised with Elidibus being able to use [[Magic (term)|magic]] in a Garlean body. The Warrior of Light arrives to continue the battle in their place.
+
+==Characteristics==
+===Appearance===
+Hien is a Midlander [[Hyur]] with messy black hair tied back in a topknot with red and orange ribbons and a beard trimmed to his jawline. On his forehead and on his right shoulder he has a cross patterned scar he received from battle. He wears a yellow fur-trimmed Dogi with misty mountain designs and a sturdy metal breast plate, including plating on the thighs, and metal shin guards. Being a Doman samurai, Hien carries Kiku-ichimonji a katana with an ornate design.
+
+===Personality===
+Hien harbors a deep sense of honor and duty to his country and initially feels great remorse for the fall of his kingdom. He believes if his people are content under [[Garlean Empire|Garlean]] rule, he would not force them into revolting just to put himself on the throne, a lesson he learned from his father at a young age. He carries a friendly and competitive attitude among his peers. He is a capable leader and puts the safety of his people above his own status. Despite his great wisdom and serious nature when in battle, Hien has a healthy sense of humor when with friends and trusted comrades. Hien's mother called him Shun when he was little, and he gets embarrassed whenever addressed as such.
+
+{{spoiler}}
+Hien decides to destroy [[Doma Castle (Final Fantasy XIV)|Doma Castle]] if it means ending the siege sooner with less bloodshed. He occasionally clashes with his trusted companion, [[Gosetsu Daito|Gosetsu Everfall]], over the subject of tradition (the latter objects the destruction of Doma Castle due to its historical significance), but Hien believes one should not be weighed down by the past when forging a new future.
+{{Endspoiler}}
+
+==Gameplay ==
+[[File:FFXIV Hien Role-Play.png|thumb|Hien in Role-Play mode.]]
+Hien fights alongside the player as a [[guest]] character in many instanced battles of the ''Stormblood'' main scenario quests, fighting as [[Samurai (Final Fantasy XIV)|Samurai]].
+
+In patch 4.5 "A Requiem for Heroes", Hien becomes a temporary playable character during the MSQ duty instance of the same name through the Role-Play mode.
+
+==Musical themes==
+{{audio|filename=FFXIV Hien.ogg|title="Cyan's Theme"}}
+An arrangement of [[Cyan Garamonde]]'s theme from ''[[Final Fantasy VI]]'' is used as Hien's theme, and much like the theme's original appearance it also serves as the theme of Doma as whole. It was arranged by [[Masayoshi Soken]].
+{{clear}}
+
+==Behind the scenes==
+The party finds Hien on a cliff similar to how [[Cyan Garamonde]] is found in the [[World of Ruin (Final Fantasy VI)|World of Ruin]] in ''[[Final Fantasy VI]]''. Both are samurai from nations called Doma.
+
+Of the leaders of the free world who resist the Garlean Empire, Hien is the only one who is part of a monarchy, having succeeded his father as leader and liberating his homeland of Doma.
+
+*[[Ishgard]] formed a republic following the abolishment of the theocracy with [[Aymeric de Borel]] becoming the elected Speaker of the House of Lords, and thereby the leader of his nation.
+*[[Nanamo Ul Namo]] is nominally the sultana of [[Ul'dah]], but she is beholden to the Syndicate council and plans to turn Ul'dah into a republic.
+*[[Gridania]] is ruled by a council of Seedseers, though [[Kan-E-Senna]] is the ''de facto'' leader of her nation.
+*[[Limsa Lominsa]] is a thalassocracy where sea captains prove themselves in a competition with [[Merlwyb Bloefhiswyn]] serving as the leading admiral.
+*Recently liberated [[Ala Mhigo]] has yet to establish a government but intends to form one modeled after Ishgard's House of Commons.
+
+==Gallery==
+
+;Artwork
+<gallery>
+FFXIV Hien Artwork.png|Artwork.
+FFXIV SB Doma promotional poster.jpg|Hien in ''Stormblood'' promotional artwork
+FFXIV Under the Moonlight Artwork.jpg|Hien in ''Under the Moonlight'' artwork
+FFXIV Hien Stormblood artwork.png|Artwork
+FFXIV SB Hien Concept.jpg|Hien concept art
+FFXIV Patch 5.5 Death Unto Dawn artwork.jpg|Hien in ''Death Unto Dawn'' patch artwork
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Hien 2.png|In-game render
+FFXIV Hien Bullet Splitter.png|Hien cuts a bullet in half
+FFXIV Hien killing Tsuyu.png|Hien threatens Tsuyu
+</gallery>
+
+==Etymology==
+''Hien'' {{J|飛燕|fmt=(j)}} means "flying swallow" in Japanese.
+
+The former Doman king, Kaien, his wife, Mina, and the prince, Hien, allude to [[Cyan Garamonde]] and his wife and son [[Elayne and Owain]] from ''[[Final Fantasy VI]]''. Kaien's name is based on the romaji of Cyan's Japanese name, Cayenne {{J|カイエン|fmt=(j)}}, Mina's name is the same as Elayne's Japanese name, Mina {{J|ミナ|fmt=(j)}}, while Hien's childhood name, Shun, is based on Owaine's Japanese name, Shun {{J|シュン|fmt=(j)}}.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Hien]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Samurai]]
+[[Category:Guest characters]]

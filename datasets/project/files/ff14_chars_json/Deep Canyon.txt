@@ -1,0 +1,33 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Deep Canyon
+|release=FFXIV
+|japanese=ディープ・キャニオン
+|romaji=Dīpu Kyanion
+|image=FFXIV ARR Deep Canyon.png
+|race=[[Roegadyn]]
+|gender=Male
+|home=[[Ul'dah]]
+|affiliation=[[Amajina & Sons Mineral Concern]]
+|occupation=Vice foreman
+|type=npc
+|job={{icon|ffxiv|discipline|miner}}
+}}
+
+'''Deep Canyon''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a minor character in ''A Realm Reborn'' [[miner]] questline.
+
+== History ==
+When [[Adalberta Sterne]] was orphaned, Deep Canyon raised her and taught her about the miners. After the [[Umbral Calamity|Calamity]], Adalberta was unexpectedly chosen as Guildmaster instead, and Deep Canyon believed she was betrayed by Adalberta.
+
+In an attempt at revenge, Deep Canyon made several impossible requests and misused his power to prey on Adalberta but was eventually denounced by [[Wide Gulley]]. With the help of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], misunderstanding is cleared up and Deep Canyon is acquitted.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Miners]]

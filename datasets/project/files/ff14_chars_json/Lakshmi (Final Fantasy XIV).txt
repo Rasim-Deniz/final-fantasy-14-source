@@ -1,0 +1,106 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Lakshmi (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Lakshmi
+|release=FFXIV
+|japanese=ラクシュミ
+|romaji=Rakushumi
+|aka=Lady of Bliss {{j|美神|Bishin|Goddess of Beauty}}
+|image=XIV Lakshmi render.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+'''Lakshmi''', also known as the '''Lady of Bliss''', is the [[primal]] of the [[Ananta]] beast tribe in ''[[Final Fantasy XIV: Stormblood]]''.
+
+==History==
+Sri Lakshmi, the Lady of Bliss, was the creator goddess of the serpentine Ananta. When the [[Garlean Empire]] conquered [[Gyr Abania]], the Ananta of the Qalyana tribe accepted their rule in exchange for peace. As their sisters of the Vira Tribe sided with the [[Ala Mhigan Resistance]], [[Fordola rem Lupis]]—acting out of prejudice—demanded their broodmother's daughter as a hostage to ensure their loyalty. After the rebels take [[Castellum Velodyna]] from the Imperials, the Qalyana intercept the Garleans fleeing with their hostage, demanding her return. This results in the maiden's death as the broodmother cries out to Lakshmi to save her daughter. As the Qalyana had spent long years crafting beautiful gems and crystals in honor of their goddess, the accumulated [[aether]] causes her to inadvertently summon Lakshmi as a primal. Lakshmi revives the broodmother's daughter an empty shell as her soul cannot be restored. When the broodmother protests, Lakshmi [[enthrallment#Final Fantasy XIV|enthrall]]s her and the other Qalyana.
+
+When the Qalyana demand all other Ananta tribes bow before the Lady of Bliss, the [[Scions of the Seventh Dawn]] intervene on behalf of the Vira. Lakshmi attempts to enthrall [[Lyse Hext|Lyse]], [[Alisaie Leveilleur|Alisaie]], and [[Alphinaud Leveilleur|Alphinaud]], but the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] uses the power of the [[Echo (Final Fantasy XIV)|Echo]] to shield them. Lakshmi begrudgingly allows them to depart rather than bask in her radiance, but the Warrior pursues and destroys her. Though Alisaie attempts to convince the Qalyana of the necessity of their actions, the broodmother is inconsolable and demands they leave her to her misery.
+
+After [[Ala Mhigo]]'s liberarion, Lyse calls a gathering of leaders from across [[Gyr Abania]] to discuss the future of their nation. The Qalyana Broodmother arrives, demanding to be part of the meeting. Though wary of her true intentions, Lyse agrees. The Broodmother summons Lakshmi in the middle of the meeting hall, having previously enthralled several guards to smuggle the necessary crystals into the room. The Warrior of Light and [[Arenvald]] use their power of the Echo to protect the gathered leaders from becoming enthralled. They are joined by Lyse, [[Raubahn Aldynn|Raubahn]], and a repentant Fordola, and together defeat Lakshmi and slay the Qalyana Broodmother.
+
+==Characteristics==
+{{Quote|The Lady of Bliss, beloved deity of the serpentine Ananta tribe.<br />Legends tell of a beauty without equal, a benevolent goddess whose coming brings the promise of halcyon days and bountiful harvests. Some believe she has imparted her life-bestowing powers to her most fervent followers—the Ananta. Lakshmi, in her infinite mercy, would shelter them from harm, granting them succor with her alluring embrace.|Official site description}}
+
+==Gameplay==
+Lakshmi is fought inside the {{icon|ffxiv|duty|Emanation}} during the main scenario questline of the ''Stormblood'' expansion. After completing the main scenario, the player may speak to the [[Wandering Minstrel]] in [[Kugane]] to unlock the {{icon|ffxiv|duty|Emanation (Extreme)}}, which is a more difficult version of the encounter with Lakshmi. Both fights require the player to use the Vril duty action in order to survive her [[Alluring Embrace]] attack and to avoid being knocked off the battle arena.
+
+In addition, Lakshmi appears as an instance boss fight during the main scenario quest {{icon|ffxiv|quest|Return of the Bull}}. The fight against her is a simpler encounter that is split into two portions, which involves defending the NPCs from the aether orbs with the Deflect duty command, followed by a more straightforward fight.
+
+==Musical themes==
+{{Audio|title="Beauty's Wicked Wiles"|filename=FFXIV Beauty's Wicked Wiles.ogg}}
+The background music for the battle against Lakshmi and her Extreme version is titled "[[Beauty's Wicked Wiles]]", composed by [[Masayoshi Soken]].
+
+==Gallery==
+;Artwork
+<gallery>
+XIV Lakshmi Art.png|Concept art
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Lakshmi 01.png|
+FFXIV Lakshmi 02.png|
+FFXIV Lakshmi 03.png|
+FFXIV Ananta 03.png|
+FFXIV Lakshmi 2.png|
+</gallery>
+
+==Etymology==
+{{Etym|Lakshmi}}
+
+The honorific "Sri" derived from Sanskrit, used before the name of a person, a god, a sacred object, or a location.
+
+{{navbox characters FFXIV}}
+{{navbox summons}}
+[[Category:Primals in Final Fantasy XIV]]

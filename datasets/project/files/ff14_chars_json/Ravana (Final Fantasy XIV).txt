@@ -1,0 +1,121 @@
+{{sideicon|prime=FFXIV|PFF|FFRK}}
+{{DISPLAYTITLE:Ravana (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ravana
+|release=FFXIV
+|japanese=ラーヴァナ
+|romaji=Rāvana
+|aka=Lord of the Hive {{j|武神|Bushin|God of Military Arts}}, Master of the Sacred Blades, Wrath of the Colony, Conqueror of the World
+|image=FFXIV Ravana Render.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|boss page=Thok ast Thok
+}}
+{{Quote|Gahahaha! Thou art bold indeed to risk thy fleshy hide so readily! Very well. I, Ravana, fourfold master of the blade, do accept thy challenge!|Ravana}}
+'''Ravana''' is a [[primal]] introduced in ''[[Final Fantasy XIV: Heavensward]]''. He is known as the savior of the [[Gnath]].
+
+Unlike other primals, Ravana was created for ''[[Final Fantasy XIV]]'' rather than being based on previous [[summoned monsters|summons]] in the [[Final Fantasy series|''Final Fantasy'' series]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Ravana is summoned into being when the Gnath's lust for war against the Dravanians reaches a fever pitch as a consequence of a dragon wounded by the [[Ishgardian]]s crashing into their nest. Ravana is the cause of the Gnath belligerently attacking the inhabitants of the Dravanian Forelands. The [[Warrior of Light (Final Fantasy XIV)|adventurer]] and [[Ysayle Dangoulain|Ysayle]], needing to see [[Hraesvelgr]], challenge Ravana to a duel with the primal vowing to quell the Gnaths' bellicosity if defeated while having his opponents promise to become his servants should he be victorious. After a hard battle, Ysayle having been defeated in her [[Shiva (Final Fantasy XIV)|Shiva]] form, the adventurer is victorious and Ravana honors his promise to have the Gnath cease their campaign.
+
+Ravana reappears in patch 3.1, battling the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]], but is easily defeated.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+A unique form of Ravana is fought once again, when he has been resummoned by Vath and Gnath alike who had been kidnapped by the [[Ascian|Telophoroi]]. This version of Ravana is known as ''Lunar Ravana'', and is defeated by [[Alisaie Leveilleur]] and [[G'raha Tia]].
+
+==Characteristics==
+{{Quote|Fourfold master of the blade, savior of the insect-like Gnath tribe.<br />A warrior and conqueror, Ravana respects strength and abhors weakness. He revels in battle with worthy opponents, and is known to wield the legendary Chandrahas blades.|Official site description<ref name="Official North American ''Final Fantasy XIV'' Website20150527">{{Refwebsite| page url = http://na.finalfantasyxiv.com/heavensward/sp/story/| page name = FINAL FANTASY XIV: Heavensward| site url = http://na.finalfantasyxiv.com/| site name = Official North American ''Final Fantasy XIV'' Website| access time = 20:12, May 27, 2015 (UTC)}}</ref>}}
+
+==Gameplay==
+Ravana is fought as a boss in trial {{icon|ffxiv|duty|Thok ast Thok (Hard)}} and {{icon|ffxiv|duty|Thok ast Thok (Extreme)}}.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Ravana
+|image = [[File:Ravana Triple Triad Card.png]]
+|number = 84
+|total = 25
+|type = Primal
+|description = Wrath of the Colony and the god and savior of the Gnath tribe. A proud warrior and conqueror, Lord Ravana exalts strength and abhors weakness in any form. Believing the rite of combat to be sacred, he revels in battle with worthy opponents while wielding the Chandrahas─legendary blades of moonlight that obey his every command.
+|obtain = Potential drop from {{icon|ffxiv|duty|thok ast thok}} and {{icon|ffxiv|duty|thok ast thok extreme}}
+}}
+
+==Musical themes==
+{{audio|filename=FFXIV Ravana 2nd.ogg|title="Unbending Steel"|align=left}}
+Ravana has two battle themes. The battle starts with "The Hand that Gives the Rose" playing in the background. The second theme "[[Unbending Steel]]" will start playing after he uses his ultimate attack.
+{{clear}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Ravana FFXIV.png|thumb|left]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Ravana appears as a [[Triple Triad (Portal App) cards/Final Fantasy XIV series|card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+604a Ravana.png|Ravana.
+604b Ravana.png|Ravana.
+604c Ravana.png|Ravana.
+</gallery>
+
+==Gallery==
+<gallery>
+FFXIV Ravana.png|Ravana's promotional artwork.
+Ravana-ffxiv-concept.jpg|Concept art.
+Ravana-ffxiv-sculpture.jpg|CG "sculpture", before texturing and animation.
+FFXIV Ravana Finisher.png|Ravana before using his ultimate attack.
+FFXIV Lunar Ravana.png|Lunar Ravana
+</gallery>
+
+==Etymology==
+{{Etym|Ravana}}
+
+His weapons, the Chandrahas, are based upon the sword said to wielded by Ravana upon being gifted to him from Shiva.
+
+==References==
+{{citations}}
+
+{{navbox summons}}
+{{navbox characters FFXIV}}
+
+
+[[es:Ravana (Final Fantasy XIV)]]
+[[Category:Primals in Final Fantasy XIV]]

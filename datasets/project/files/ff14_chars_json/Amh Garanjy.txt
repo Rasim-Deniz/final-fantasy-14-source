@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Amh Garanjy
+|release=FFXIV
+|japanese=アム・ガランジ
+|romaji=Amu Garanji
+|lit=Am Garanjy
+|aka=
+|image=FFXIV Amh Garanjy 2017.png
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|race=[[Miqo'te]]
+|gender=Female
+|hair=Pink
+|eye=Lightblue
+|type=npc
+}}
+'''Amh Garanjy''' is a non-player character from ''[[Final Fantasy XIV]]''. She appears during the [[Starlight Celebration]] seasonal event.
+
+== History ==
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Amh Garanjy is a keeper of the moon [[Miqo'te]] with pink hair and blue eyes. She wears the Starlight robe, though she has appeared in different starlight outfits over the years.
+
+=== Personality ===
+Amh is a joyous person, pleased to host the festivities of the starlight festival and come up with new ideas to make everyone happy. She has a soft spot for children and will help them if they are unhappy during the festivities.
+
+==Behind the scenes==
+Amh Garanjy shares her name with a [[Retainer (Final Fantasy XIV)/Legacy|Retainer]] from 1.0. Though both are Miqo'te from the same clan, they have different hair and skin tone, so they are actually different characters.
+
+==Gallery==
+<gallery>
+FFXIV Amh Garanjy 2018.png|2018 outfit.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

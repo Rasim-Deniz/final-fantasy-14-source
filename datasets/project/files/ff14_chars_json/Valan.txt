@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Valan
+|release=FFXIV
+|japanese=ヴァラン
+|romaji=Varan
+|aka=
+|image=FFXIV ShB Valan.png
+|home=[[Rak'tika Greatwood#Slitherbough|Slitherbough]]
+|age=
+|affiliation=[[Night's Blessed]]
+|race=[[Hyur|Hume]]
+|gender=Male
+|type=npc
+}}
+'''Valan''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. He is a [[Night's Blessed]] member.
+
+==History==
+Valan is a childhood friend of [[Quinfort]] and has always worried about him due to his friend's strange compartment. Recently to Valan's concern, Quinfort began acting stranger than usual claiming to have had a vision about a calamity. Concerned about Quinfort's sanity, Valan enlists the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]'s help and they both join Quinfort's "jorney" to save the forest. Following the advice of the Great Serpent of Ronka, the Warrior of Light defeats two members of the [[Children of the Everlasting Dark]] and the Great Serpent returns to his slumber.
+
+Later, when the warrior accompanies [[Ciuna and Phyna]] to Slitherbough. Quinfort and Valan awaits the group at the entrance of the village. Quinfort states that the Great Serpent has contacted him again and after Phyna's comment, Quinfort rushes into the forest to find the Great Serpent again. While his friend is rescued by Ciuna and the Warrior, Phyna accompanies Valan to Fanow where the group reunites again. Talking with [[Lanille]], she says that Quinfort's gift is not unknown in Fanow, and that those born with this gift are named Keeper of Whispers and should not ignore these visions. The group investigates the Great Pyramid of Ux'ner and, with the information discovered, Quinfort and Valan agrees to create an alliance between Fanow and Slitherbough to protect Rak'tika and the ruins of Ronka.
+
+{{Section}}
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

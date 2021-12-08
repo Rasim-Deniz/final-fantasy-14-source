@@ -1,0 +1,80 @@
+{{infobox character
+|name=Lina Mewrilah
+|release=FFXIV
+|japanese=リナ・ミュリラー
+|romaji=Rina Myurirā
+|lit=Rina Muriller
+|aka=
+|image=FFXIV Lina Mewrilah.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=The Raven
+|occupation=Journalist
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Miqo'te
+|gender=Female
+|height=4'9" (58.9 in.)
+|weight=
+|hair=Green
+|eye=Brown
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=[playable=Player character, optional=Optional player character, guest=Guest character, npc=Non-player character, party npc=AI controlled party member, boss=Boss]
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|And here she/he is! The liberator of both Doma and Ala Mhigo in the flesh! I am Lina Mewrilah, correspondent for The Raven. You may recognize me from my exposé on the secret lives of the Homunculi.|Lina Mewrilah}}
+'''Lina Mewrilah''' is a non-player character from ''[[Final Fantasy XIV: Stormblood]]''. A supporting character in the [[Return to Ivalice]] questline, she is a correspondent for ''The Raven'', and the sister of [[Mujih Mewrilah]].
+
+==History==
+===''[[Final Fantasy XIV: Stormblood]]''===
+Lina was sent by her editor and sister to Kugane after running afoul of the [[Black Shroud|Black Shrouds]] upstanding citizens. While in Kugane she caught wind of the newly arrived ''[[Prima Vista (Final Fantasy XIV)|Prima Vista]]'' and looked for ways to board the vessel. Before she could however, she was approached by [[Alma bas Lexentale]] a resident on the airship, who was looking for someone's aid to assist in searching for her missing father. <ref>Eorzea Encyclopedia II, p.119</ref>
+
+Lina meets and introduces the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to Alma and for the sake of privacy, the three all board the ''Prima Vista. ''Aboard the airship Alma introduces herself properly and discusses why the Majestic Imperial Theater Company fled [[Garlemald (location)|Garlemald]]. [[Cid nan Garlond|Cid]] is also aboard the airship stating that [[Jenomis cen Lexentale]] is an old friend of his from Academy days who hoped to change the empire from the inside out with his plays. Alma begins to tell the group that her father was working on a successor to the Zodiac Brave Story, as he believed the story didn't end there, and that there was a second hero alongside Delita. Lina questions this as the story most people know is about Delita and his rise to royalty.  Cid proclaims that Jenomis was infatuated with the story ever since he was young, and that after fleeing the empire he went to [[Dalmasca (Final Fantasy XIV)|Dalmasca]] to prove his theory. After a small confrontation with Alma's brother Ramza, the airship departs to Dalmasca.
+
+Taking a smaller airship to the Dalmasca Estersands, Ramza tells the group that his father believes Rabanastre wasn't the only large settlement in this region and Lina states that discovering Lesalia under the city could make them famous. Ramza calls all Eorzeans parasites feeding off of others suffering. Lina tells him that she would be the worst reporter in the world if she didn't report this to the masses and Ramza says that its time to begin the expidition and they all return to the ''Prima Vista''.
+
+Lina and Ramza joins the Warrior of Light and the entourage of adventurers into the deserted city of Rabanastre. Along the way they discover the [[Lucavi]], travel through the Garamsythe Waterways and discover the Temple Ruins of [[Lesalia]]. After the party defeats [[Argath Thadalfus]] they find Jenomis and a piece of [[Auracite]]. Before they can get to Jenomis, an airship flies overhead and [[Ba'Gamnan (Final Fantasy XIV)|Ba'Gamnan]] jumps out with his siblings and hold Jenomis hostage. They hold a knife to his throat and demand Lina give the auracite to them, she gives it to them fearfully, and the bangaa make their escape on an airship with Jenomis' journal leaving Jenomis unconscious. 
+
+After returning to the ''Prima Vista'' with Jenomis they discuss the events that transpired and what they plan on doing next without the journal to decipher the texts within their copy of the [[Durai Papers]]. After the trip Lina is convinced that Ivalice is real and believes it will be hard to convince scholars and historians of its existence.
+
+==Characteristics==
+===Appearance===
+Lina is a keeper of the moon [[Miqo'te]] with pale skin, green hair, and brown eyes. She wears a hat with a blue feather on the front, a weathered shepards tunic with cross designs, and a skirt with patrician's gaiters.
+
+===Personality===
+Lina is a journalist dedicated to her work with The Raven, before her assignment in [[kugane]] she read all she could on'' ''the'' "[[Zodiac Brave Story]]". ''She is at odds constantly with [[Ramza bas Lexentale]] due to his mistreatment and rude behavior to others, and is not afraid to scold him.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

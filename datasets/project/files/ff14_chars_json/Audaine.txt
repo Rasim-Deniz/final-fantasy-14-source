@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Audaine
+|release=FFXIV
+|japanese=オデーヌ 
+|romaji=Odēnu 
+|image=FFXIV Audaine 1st outfit.png
+|home=The [[Firmament]]
+|affiliation=[[Ishgard]]
+|occupation=
+|race=[[Elezen]]
+|gender=Female
+|hai =
+|eye=
+|age=
+|type=npc
+}}
+'''Audaine''' is a [[Non-player character|non-playable character]] from ''[[Final Fantasy XIV]]''. She is [[Marcelloix (Ishgard)|Marcelloix]]'s old wife and mother of [[Noalle]].
+
+==History==
+After Audaine and her daughter listen to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]'s advice and move to the [[Firmament]], an inquisitor takes Audaine by force to [[Ishgard]]'s entrance. A Marcelloix turned into a dragon tried to enter the city and claimed to be Audaine's husband leaving both of them at risk of being punished for heresy. [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] intervenes and takes responsibility for letting the dragon enter the city. Audaine did not forgive Marcelloix for abandoning his family but still wants to give him a second chance.
+
+==Characteristics==
+=== Appearance ===
+Audaine is a wildwood elezen with purple hair and green eyes. She wears a hempen dalmatica, whisper fine wollen boots, and cotton breeches. She is then given a adventuring sweater dyed cream yellow. 
+
+=== Personality ===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Audaine.png|2nd outfit.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

@@ -1,0 +1,58 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Mylla Swordsong
+|release=FFXIV
+|japanese=剣戟のミラ
+|romaji=Kengeki no Mira
+|lit=Mila of the Sword Fight
+|aka=First Sword Mylla
+|image=FFXIV Mylla.png
+|home=[[Ul'dah]]
+|age=27<ref name=EE140>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 140</ref>
+|dob=
+|race=Highlander [[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=Blonde
+|eye=Light Blue
+|blood=
+|laterality=
+|affiliation=Gladiators' Guild
+|occupation= Guildmaster
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|abilities=
+|weapon=
+|armor=
+}}
+{{Quote|I instruct these would-be warriors on the finer points of swordsmanship. If you like, I could teach you a thing or two as well, though I can't promise to be gentle. You'll be bruised and bloody by the time we're finished, but I guarantee you'll be stronger for it. Observe our training and see for yourself.|Mylla}}
+'''Mylla Swordsong''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the Guildmaster for [[Paladin (Final Fantasy XIV)|gladiators]] at the Coliseum in [[Ul'dah]].
+
+== History ==
+===Early life===
+Mylla is the daughter of the previous guildmaster, and entered the guild at the age of five. She became the First Sword ever since her father perished seven years ago, and does her utmost to aid the guild.<ref name=EE140/>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Mylla Swordsong-0.png|thumb|left]]
+Mylla guides the adventurer when they join the guild and when she hears of that Aldis returned to Ul'dah she is unhappy with his presence and refuses to speak with him. After discovering that the Alucran plans on killing him on false charges however, Mylla mounts up a rescue party to [[Eastern Thanalan]]. When they discover his location she throws the sword to him so he can set himself free and face [[Leavold]]. After the death of Leavold, Aldis leaves Ul'dah once more, and Mylla sends the adventurer to [[Jenlyns]] to become more proficient in swordsmanship.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Mylla is a highlander woman with blonde hair. She wears a set of plate armor.
+
+=== Personality ===
+Mylla is a stern teacher and a little rough around the edges, although she has a tough exterior she is friendly to those close to her such as [[Aldis]] and the guildmaster [[Adalberta Sterne|Adalberta]]. She seems to have a love interest in Aldis, and it is unknown if he reciprocates these feelings as he constantly teases these emotions out of her only for him to mean something completely different.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Paladins]]
+[[Category:Hyurs]]
+[[Category:Guildmasters]]

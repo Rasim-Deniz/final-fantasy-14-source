@@ -1,0 +1,69 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Hilda Ware
+|release=FFXIV
+|japanese=ヒルダ・ウェア 
+|romaji=Hiruda Uea 
+|aka=Hilda the Mongrel
+|image=FFXIV Hilda.png
+|race=Half-[[Hyur]]/Half-[[Elezen]]
+|gender=Female
+|height= 
+|hair=Violet
+|eye=Red
+|age=21
+|affiliation = 
+|occupation =
+|type=npc 
+|job={{icon|ffxiv|discipline|machinist}}
+|weapon =Steel-barreled Carbine 
+|armor = Hussar's Jackcoat (coat)<br>Hussar's Gloves (gloves)<br>Saurian Trousers (pants)<br>Adept's Thighboots (boots)
+}}
+{{Quote|To be sure, our lives won't change overnight, and it'll take effort to bridge the gulf between highborn and lowborn, but I'm confident it'll all work out in the end.|Hilda Ware}}
+'''Hilda Ware''', also known as '''Hilda the Mongrel''' is a non-playable character from ''[[Final Fantasy XIV]]'', first appears in ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+=== Early life ===
+Hilda is the bastard daughter of a highborn Elezen and a Hyuran maid. Her father refused to acknowledge her existence to the day he died. Her mother supported her and never spoke ill of her father, and because of her example, Hilda blossomed into a strong young lady with an unwavering sense of justice.<ref name=EE211>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 211</ref>
+
+Hilda is half-sister to the highborn Elezen knight, Ser Muscadain, who was conceived between Hilda's father and another highborn Elezen woman sometime before Hilda's birth. Following Hilda's father's death, Muscadain inherited his father's estate and family status. Hilda has a strained relationship with her half-brother due to their differing social status and Hilda's resentment towards her father; however, Hilda wishes to work towards building a better relationship with Muscadain in the future.
+
+Prior to the events of ''[[Heavensward]]'', Hilda had a chance encounter with the highborn [[Stephanivien de Haillenarte]], who gifted her a firearm of his making and setting her on the path of a machinist, in hopes that she would take control of her own miserable fate and become a champion to the people of the Brume as well as planting a small seed of hope that not all nobles were as bad as her father.  She would later form a group called the Hounds; a play on her own moniker as "the Mongrel".
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Hilda prepares an [[Airship (term)|airship]] to pick up the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Scions of the Seventh Dawn]] from atop [[Baelsar's Wall]]. Arriving with [[Thancred Waters]], the Scions escape as [[Ilberd Feare]]'s [[primal]] is sealed away by [[Papalymo Totolymo|Papalymo]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Hilda and her Hounds have had their status upgraded to become Ishgard's watch, having been integrated officially into Ishgard's security forces following [[Aymeric de Borel]]'s own promotion to the House of Lords after stepping down from the acting Head of State.  Hilda would turn to Stephanivien's machinists for help in training her Hounds along with herself to prove the value of the watch to the rest of Ishgard. Stephanivien assigns [[Rostnsthal]] along with the Warrior of Light to oversee their training, with the former training them from the ground up while the latter would assess their progress after training is over.
+
+==Characteristics==
+===Appearance===
+Hilda is a half [[Elezen]] half [[Hyur]], and has physical traits from both races. Superficially she is almost indistinguishable from a Hyur Midlander, the only obvious sign of her Elezen heritage being her pointed ears. She has jet black hair and ruby red eyes, the former inherited from her father and the latter from her mother. She wears a black and brown leather jacket with matching thigh-high boots, and a red scarf.
+
+Hilda is the first female mixed-race character in ''Final Fantasy XIV'', fifth in the [[Final Fantasy series|''Final Fantasy'' main series]] after [[Terra Branford]], [[Aerith Gainsborough]], [[Yuna]], and [[Lilisette]].
+
+===Personality===
+Quick-thinking, sharp-tongued and sharp-witted, Hilda is a leader to the disenfranchised lowborn. Though she may appear gruff and resentful of the High Houses, Hilda possesses a formidable spirit and an unwavering sense of justice. She is loyal to her home and countrymen and thus formed a public watch dedicated to defending the common man.
+
+Though skeptical of a new future where lowborn and highborn alike stand side by side, Hilda was nonetheless persuaded into joining [[Aymeric de Borel]]'s reforms of [[Ishgard]], becoming integral to civilian protection.
+
+==Gameplay==
+Hilda appears as a guest character in several Main Scenario Quests. She is a [[Machinist (Final Fantasy XIV)|Machinist]].
+
+==Gallery==
+<gallery>
+FFXIV_Hilda_Ware_Portrait.jpg|Concept art.
+FFXIV Hilda Rifle.png|Hilda's rifle.
+</gallery>
+
+==Etymology==
+{{Etym|Hilda}}
+
+==References==
+{{citations}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Mixed races]]
+[[Category:Elezens]]
+[[Category:Hyurs]]
+[[Category:Machinists]]

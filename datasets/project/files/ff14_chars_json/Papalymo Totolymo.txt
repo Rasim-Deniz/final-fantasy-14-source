@@ -1,0 +1,181 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Papalymo Totolymo
+|release=FFXIV
+|japanese=パパリモ・トトリモ
+|romaji=Paparimo Totorimo
+|aka=Short-tempered Thaumaturge {{j|気難しげな呪術士|Kimuzukashigena Jujutsushi}}
+|image=Papalymo NPC Render 2.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=42
+|dob=
+|affiliation=[[Circle of Knowing]]<br/>[[Scions of the Seventh Dawn]]<br/>[[Ala Mhigan Resistance]]
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Plainsfolk [[Lalafell]]
+|gender=Male
+|height=
+|weight=
+|hair=Blonde
+|eye=Blue
+|blood=
+|laterality=Right-handed
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=party npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|abilities=
+|limit break=
+|weapon=Aurifex
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=[[Eri Kitamura]]
+|english voice actor=[[Steve Staley]] (''A Realm Reborn'')<br/>[[wikipedia: Nigel Pilkington|Nigel Pilkington]] (''Heavensward'')
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=true
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|dffoo=true
+|ffrk=true
+|ffbe=true
+|gallery=
+}}
+{{Quote|This Lalafellin youth wields the powers of a thaumaturge, and is highly knowledgeable in the field of aether. Papalymo's childlike features, typical of his race, bely a biting cynicism that often puts him at odds with the perpetually cheerful Yda, the companion with whom he roves the Black Shroud.|Official website}}
+'''Papalymo Totolymo''' is a [[non-playable character]] from ''[[Final Fantasy XIV]]'', being one of the main characters of the [[Gridania]] storyline. A member of the [[Scions of the Seventh Dawn]], he is a Plainsfolk [[Lalafell]] [[Black Mage (Final Fantasy XIV)|Thaumaturge]] who travels with his fellow Scion [[Yda Hext|Yda]]. Unlike his companion, Papalymo has impeccable manners, always reminding his friend to behave.
+
+==History==
+===Early life===
+A Lalafell from the archipelago of [[Sharlayan]], Papalymo graduated second in his class at the Studium academy and came to study under Archon [[Louisoix Leveilleur]], becoming his finest pupil. His father, a fellow thaumaturge, bequeathed to Papalymo a treasure held by generations of Totolymo's house: the Aurifex staff.
+
+The Archons aided a group of Ala Mhigan refugees to stablish in Sharlayan, with Papalymo meeting a young girl called Yda who wanted to liberate Ala Mhigo. Papalymo introduced her to Louisoix, which led to her induction into the Circle of Knowing. Six years prior to the [[Seventh Astral Era]], Yda died and her younger sister Lyse talked with Papalymo to take her place. Papalymo reluctantly agreed while using his magic to imprint the real Yda's tattoo on Lyse, but secretly asked everyone to pretend that she was the real Yda at her behest.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Yda Papalymo 1X.png|thumb|left|Papalymo and Yda reach the Black Shroud.]]
+Papalymo and Yda are found in the Twelveswood after ejecting from their [[Airship (term)|airship]] while traveling to [[Gridania]]. Joined by the [[Warrior of Light (Final Fantasy XIV)|Adventurer]], Papalymo and Yda are ambushed by wolves before forced to flee from a hidden [[Treant]]. The group is saved by [[E-Sumi-Yan]] who guides them to the city.
+
+The conjurers are led to believe the duo was beckoned by the elementals, and therefore are expected to do something great for them. [[Khrimm]], a young boy enraged with the elementals, makes them suspects for a moment. Papalymo and Yda find a man called [[Dunstan]] and take him back to Gridania just in time for the purification ritual to save Khrimm. The [[Echo (Final Fantasy XIV)|Echo]] reverberates and the skies turn black, Papalymo commenting that they "should have stopped it". Yda convinces Papalymo that they still can find a way to stop it.
+
+[[File:Papalymo+Yda End of an Era.png|thumb|Papalymo and Yda pray to The Twelve for salvation.]]
+Papalymo joins forces with Yda, [[Y'shtola Rhul|Y'shtola]], and [[Thancred Waters|Thancred]] as the Circle of Knowing in the fight against the [[Gaius van Baelsar]], absorbing the Legatus's bullets on his Aurifex. If the Adventurer's home nation is Gridania, Papalymo and Yda tell him about the greater power needed to defeat the Garleans.
+
+During the [[Seventh Umbral Era|Calamity]] which leads to the Seventh Umbral Era, Papalymo and Yda are in the [[Black Shroud]] praying to [[The Twelve]] to seal the [[primal]] [[Bahamut (Final Fantasy XIV)|Bahamut]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Papalymo Yda Meet Adventurer.png|thumb|Papalymo and Yda meeting the Adventurer.]]
+Papalymo, Yda, and [[Kuplo Kopp]] inspect the [[Black Shroud|Central Shroud]] for a disturbance in the aetheric flow. They are attacked by a group of Treants and the two help the Adventurer repel them. Papalymo and Yda watch over the Adventurer when he/she faints from a surfeit of aether.
+
+After the Adventurer wakes up, Papalymo and Yda discover the corpse of a Chieftain [[Ixal]] and suspect it was responsible for the monster attack and orders Kuplo Kopp to report to E-Sumi-Yan. Papalymo and Yda bid the Adventurer farewell and return to report the situation to their leader.
+
+Papalymo and Yda meet the Adventurer again at the Guardian Tree and help him/her defeat the [[Ascian|Masked Mage]] whom they discover is one of the Ascians who have been manipulating the [[Beastmen]]. Papalymo begins to suspect something, but refuses to speak about it to Yda. Papalymo and Yda return to Gridania, where they congratulate the Adventurer at the Greenbliss festival.
+
+Later in [[Thanalan|Western Thanalan]], Papalymo and Yda reveal to the Adventurer that they are part of the Scions of the Seventh Dawn, an organization formed of the Archons and the Path of the Twelve.
+
+During the imperial attack led by [[Livia sas Junius]] to the Scions' headquarters at the Waking Sands, Papalymo is captured along with other members and is taken to Castrum Centri in [[Mor Dhona]]. He is rescued by the Adventurer, [[Biggs and Wedge (Final Fantasy XIV)|Biggs, and Wedge]], and resumes his duties with the Scions.
+
+When the Scions are betrayed by the [[Grand Company#The Crystal Braves|Crystal Braves]] and framed for the assassination of the Sultana [[Nanamo Ul Namo]], Papalymo seemingly sacrifices his life alongside Yda to buy the rest of the Scions time to escape.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:XIV HW Yda and Papalymo.jpg|thumb|Yda and Papalymo infiltrating the Ala Mhigan Resistance.]]
+Following the Scions being accused of the apparent [[Ul'dahn Revolution|regicide]] of [[Nanamo Ul Namo]], Yda and Papalymo escape and remain in hiding to investigate matters concerning a faction within the Ala Mhigan Resistance known as "the Masks" and the mysterious masked man known as the [[Ilberd Feare|Griffin]] who leads them. Papalymo reminds Yda that they can't stay there forever as they have other responsibilities.
+
+{{Quote|One world's heroes are another world's villains. One world's loss another world's gain. "Where men go as one, there is life... And where there is life... ...There is cause to hope." For every ending, every parting, marks a new beginning.|Papalymo's narration}}
+Much later, while attending one of the rallies held by one of the Griffin's promixies, Yda and Papalymo encounter [[Alphinaud Leveilleur|Alphinaud]] and the Adventurer and reunite with the Scions just in time to deal with the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]. Soon after returning to the headquarters at Mor Dhona, Papalymo requests that he hold on to the [[Tupsimati]] for safekeeping since he feels a bad omen.
+
+{{Quote|I suspect the ill tidings from Gyr Abania will be held as a turning point—the beginning to a bloody end. The business of war was ever conducted with the coin of self-sacrifice. 'Twas Master Louisoix himself who taught us that such costs are not to be ignored or denied. And so I shall embrace them. When the time comes, I will make my choice—as you will yours.|Papalymo's narration}}
+After learning of the Griffin's plot to attack [[Baelsar's Wall]], Papalymo travels with Yda and Yugiri to the Garlean fortress's secret tunnels to try to reason with the Griffin. Once the Griffin reveals his true intentions and his true identity as Ilberd, the Scions are unable to stop him from sacrificing himself and his subordinates to summon [[Shinryu (Final Fantasy XIV)|an all-powerful primal]] with the [[Eyes of Nidhogg]].
+
+[[File:Papalymo's sacrifice.png|thumb|left|200px|Papalymo sacrifices his life to prevent Shinryu's rampage.]]
+Seeing no other way to keep the primal from going on a rampage unleashing another Calamity, Papalymo orders everyone else to flee as he intends to sacrifice himself by using the Tupsimati to cast the same spell Louisoix previously used to try to contain Bahamut at Carteneau. Seeing Yda refuses to leave him, Papalymo asks her as his final will to find and follow her own path, then demanding Thancred to take her away. Papalymo casts the spell and seals the nascent primal in a cocoon of light, which drains him of his life.
+
+{{Quote|I bid thee farewell again, my dear Yda... Now, let us see how good a student I truly was...|Papalymo's final words}}
+By the time [[Omega (Final Fantasy XIV)|Omega]] is found and activated, Papalymo's life ended with all his spells fading with his death. Yda confirms Papalymo's demise when the tattoo on her neck conjured by him disappears, revealing her true identity as [[Lyse Hext|Lyse]] to honor her friend's final request to find her own path as her true self.
+
+==Characteristics==
+===Appearance===
+[[File:Papalymo CG.png|thumb|Papalymo.]]
+Papalymo is a Plainsfolk Lalafell of short and stout stature with fair skin, short blond hair, blue eyes and pointed ears. He usually wears a dark robe with white trimmings and bright yellow gauntlets (a combination normally unfeasible for the player besides the purchasable Scion Thaumaturge gear), black and yellow gaskins, and black boots with coeurl-skin trimmings. He wears a black belt with pockets and a canteen, an [[aether]]ic contraption on his chest, and a monocle on his right eye. As a member of the Circle of Knowing, he bears a dark tattoo on his neck.
+
+During his days incognito as a member of the [[Ala Mhigan Resistance]], Papalymo wore a concealing dark cowl and brown boots, retaining his yellow gauntlets but lacking the monocle.
+
+===Personality===
+{{Quote|It is precisely when things appear to be proceeding according to plan that we must needs steel ourselves for impending danger.|Papalymo}}
+Papalymo is in many ways the foil to Yda, his cynical and snarky attitude often at odds with his more animated and perky companion. He is described as "short-tempered" before being properly introduced. Papalymo is critical of the situation and privy to details.
+
+Despite their bickering, Papalymo means well and cares for his companion, as he was the one who helped conceal Lyse's identity as Yda, and branded her with the Circle of Knowing's tattoo, in the hopes that one day she could walk her own path.
+
+==Gameplay==
+===Battle===
+Papalymo fights alongside the Adventurer as a [[guest]] in some instanced story-duties of the ''A Realm Reborn'' main scenario quests. He is a [[Black Mage (Final Fantasy XIV)|Thaumaturge]] and uses his Aurifex scepter as a weapon. He can use many Thaumaturge abilities, though he can use [[Cure (ability)|Cure]] for healing as well.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Papalymo & Yda
+|image = [[File:FFXIV TT Papalymo & Yda.png]]
+|number = 48
+|total = 20
+|type = Scion
+|description = "The great beyond! I do believe we're dead, Papalymo!" "Oh, Rhalgr take you and your great beyond!"
+|obtain = '''Win:''' Vorsaile Heuloix, New Gridania (9,11) or Buscarron, South Shroud (17,20)
+}}
+
+==Voice==
+In ''A Realm Reborn'', Papalymo is voiced by [[Wikipedia: Eri Kitamura|Eri Kitamura]] in the Japanese version.
+
+He is voiced by [[Wikipedia: Steve Staley|Steve Staley]], credited as Steve Cannon, in the English version of ''A Realm Reborn''. He shares his voice actor with [[Kadaj]] from ''[[Final Fantasy VII: Advent Children]]''. In ''Heavensward'', Papalymo is voiced by [[wikipedia: Nigel Pilkington|Nigel Pilkington]].
+
+==Other appearances==
+{{main|/Other appearances|t1=Papalymo Totolymo other appearances}}
+Papalymo has appeared in the following ''Final Fantasy'' media:
+*''[[/Other appearances#Dissidia Final Fantasy NT|Dissidia Final Fantasy NT]]'' as a player icon.
+*''[[Papalymo Totolymo (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a [[Legend (Airborne Brigade)|Legend]].
+*''[[Papalymo Totolymo (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Papalymo Totolymo (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a card.
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as cards.
+
+==Gallery==
+<gallery>
+PapalymoHQ.jpg|Render of Papalymo for the original ''Final Fantasy XIV''.
+FFXIV Papalymo Minion.png|Wind-up Papalymo minion.
+FFXIV The Far Edge of Fate Artwork.jpg|Papalymo in ''The Far Edge of Fate'' artwork.
+Papalymo and Yda CG.png|Papalymo and Yda in the opening of ''A Realm Reborn''.
+FFXIV Papalymo.png|In-game render.
+UFFFXIV Papalymo.png|Papalymo with the Aurifex in ''[[Ultimate Fight Final Fantasy XIV]]''.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+
+[[es:Papalymo Totolymo]]
+[[pt-br:Papalymo]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Black Mages]]
+[[Category:Lalafells]]

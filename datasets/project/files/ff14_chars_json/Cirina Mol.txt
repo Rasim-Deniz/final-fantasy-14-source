@@ -1,0 +1,53 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Cirina Mol
+|release=FFXIV
+|japanese=シリナ
+|romaji=Shirina
+|aka=Cirina of the Laughing Reeds
+|image=FFXIV Cirina.png
+|home=[[Azim Steppe]]
+|age=21
+|affiliation=Mol Tribe
+|occupation=
+|race=[[Au Ra]]
+|gender=Female
+|height=
+|weight=
+|hair=Red
+|eye=Green
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}
+|weapon=The Singing Rainbow
+|armor=
+|japanese voice actor=Marie Miyake
+|english voice actor=Jaimi Barbakoff
+}}
+{{Quote|The Mol are lambs among wolves. Long were we content to remain apart and live quietly...|Cirina}}
+'''Cirina Mol''' is a non-player character from ''[[Final Fantasy XIV]]''.
+
+==History==
+After the fall of [[Doma (Final Fantasy XIV)|Doma]], due to a vision of her grandmother, Temulun, Cirina went to the southern mountains and found [[Hien Rijin]] near death. She took him to her village where the nurse took care of him. To pay for this kindness, Hien remained in the village.
+
+During the search for Lord Hien, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] encounters Cirina who indicates his location. Hien and the Warrior of Light's party return to a meeting with Cirina and her grandmother, and Hien proposes to help the Mol Tribe to triumph in Naadam to help of the people of Steppe and liberate its homeland. Cirina dispatches Hien, [[Gosetsu Daito|Gosetsu]], [[Lyse Hext|Lyse]] and the Warrior of Light to [[Bardam's Mettle]], which serves as an ordeal to be recognized as warriors of Steppe.
+
+When the party returns, they accompany Cirina on the Naadam assuring the Mol Tribe's victory and passing control of Azim Steppe to Cirina. As the battle draws to a close, a battalion of [[Garlean Empire|Garlean]] soldiers led by [[Grynewaht pyr Arvina]] arrive on the spot only to be defeated by an union of the Steppe warriors. After the events calm down, Cirina accompanies the Warrior of Light's party on a visit to the leaders of the other two tribes, [[Magnai Oronir]] and [[Sadu Dotharl]]. She urges the last to undo the magic barrier south of Azim Steppe by opening a direct passage for [[Yanxia]]. With the entrance open, she leaves the party.
+
+==Characteristics==
+===Appearance===
+{{Section}}
+
+==== Personality ====
+Cirina is kind, gentle and generally quiet but always eager to help those she considers friends. 
+
+Though Cirina is proud of her tribe and the Xaela's culture as a whole, she is aware that the Mol Tribe is smaller and weaker in comparison towards other tribes such as the Oronir and the Dotharl. As such, while she wishes things were different, Cirina acknowledges that her tribe's chances of winning of the Naadam are slim which is why she tried to discourage Hien and the Scions from aiding her tribe. Still, she welcomed their aid and was deeply grateful for helping the Mol win the Naadam.
+
+Cirina is also rather humble since her tribe won the Naadam, as she stated to the tribes that she and her tribe do not seek tribute or demands, only that they only honor the law of the Steppe.
+
+==Gameplay==
+Cirina of the Laughing Reeds is an allied NPC in a solo duty during the Main Scenario Quest {{icon|ffxiv|quest|Naadam}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Rangers]]

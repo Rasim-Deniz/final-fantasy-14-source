@@ -1,0 +1,93 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{DISPLAYTITLE:Xande (''Final Fantasy XIV'')}}
+{{Infobox character
+|name=Xande
+|release=FFXIV
+|japanese=始皇帝ザンデ
+|romaji=Shikōtei Zande
+|lit=Xande the First Emperor
+|image=XandeFFXIVRender.jpg
+|race=
+|gender=Male
+|height=
+|hair=White
+|eye=White
+|designer=
+|age=
+|affiliation=[[Allagan Empire]]
+|occupation=Emperor
+|type=boss
+|job=Mage
+|japanese voice actor=Kenichirou Matsuda|english voice actor=Peter Bramhill}}
+{{Quote|Mine is the power of darkness! Even the stars must bend to my will!|Emperor Xande}}
+'''Xande''' is an antagonist in ''[[Final Fantasy XIV]]'', based on the [[Xande|main antagonist]] of ''[[Final Fantasy III]]''. He appears for the first time in patch 2.3 [[Defenders of Eorzea]] as the last boss of [[Syrcus Tower (Final Fantasy XIV duty)|Syrcus Tower]].
+
+==History==
+{{Quote|What worth is wealth and power when all must inevitably be consigned to nothingness? If man has nothing, he need not know the pain of loss. So let there ''be'' nothing. Harvest more power, that the gate may be thrown full open. Let the Cloud of Darkness come and engulf the world, devouring all life, hopes, and dreams. Let all be returned to nothingness.|Xande about to decide the fate of the world.}}
+[[File:Xande Throne.png|thumb|left|Xande on his throne at the top of Syrcus Tower.]]
+Xande was the founding emperor of the [[Allagan Empire]] who desired to expand his dominion prior to death. Though he conquered much of the known world, he could never bring [[Meracydia]] under Allagan dominion. Ages later, a brilliant scientist and magician named [[Amon (Final Fantasy XIV)|Amon]] used the technologies of his people to resurrect Xande within a clone body to restore their empire to its former glory. The reborn Emperor, seeking to fulfill his ambitions from his previous life, made a pact with the [[voidsent]] of the [[World of Darkness (Final Fantasy XIV)|World of Darkness]]. With this might, Xande's forces finally subjugated Meracydia, while guidance from the [[Ascians]] allowed Xande to capture the dragons' Primal [[Bahamut (Final Fantasy XIV)|Bahamut]]. He was thus contained within the space station [[Dalamud]] and placed in orbit around the planet to collect solar energy.
+
+However, Xande sees the pointlessness of existence and decides to establish the pact in a way that the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]] would wipe out all of [[Eorzea]]. As rebellion against his tyranny mounted, Xande ordered that Dalamud transmit all of its energies to force the Voidgate open. Unable to hold the energy received, the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] leaked it into the ground and caused a colossal earthquake that brought his empire to utter ruin, and thus began the Fourth Umbral Era.
+
+Though the events of the Fourth [[Umbral Calamity]] buried Xande alive within the Crystal Tower, he returns after the [[Seventh Umbral Era]] unearths the Crystal Tower in response to Dalamud's descent. As part of the Crystal Tower story arc, the Adventurer leads a campaign to stop Xande and negate his pact with the World of Darkness.
+
+{{Quote|You fight valiantly, mortals, but to no avail. Absolute darkness draws nigh. Soon it will be unleashed, and all shall return to nothingness!|Xande}}
+After Xande's final death, a clone of him appears later during NOAH's raid to the world of darkness.
+
+==Characteristics==
+===Appearance===
+Xande has white hair, white pupiless eyes, and dark blue skin with golden yellow markings and red forearms. He appears with great muscle mass, shown by his exposed upper body, wears a blue cape, orange pants, an orange and blue sash wrapped around his waist with a demon shaped buckle at the top-center of it, and brown boots. During battle, the lines on his body glow blue, similar to Amon's outfit.
+
+Compared to Yoshitaka Amano's design for the original Xande in ''Final Fantasy III'', this version appears much more rugged and aged. His facial features are somewhat reminiscent of Highlander [[Hyur]]s and [[Roegadyn]].
+
+===Personality===
+{{Quote|Though I may have defeated death, it did not leave me unscathed. Nay, its ravening claws have scarred my soul for eternity. Never shall I know peace. Beings without will. You cannot fathom my rage. My melancholy. My ''fear''.|Emperor Xande}}
+While he initially exhibits a very confident and assertive tone during battle, an [[Echo (Final Fantasy XIV)|Echo]] flashback from late in his reign shows he was pensive and brooding despite having finally conquered Meracydia. He confides to his soulless clone servants that the process of dying and being revived left him spiritually scarred, having realized his accomplishments in life is destined to fade away after death. This [[nihilism|nihilistic]] view ultimately led to his decision to reduce the world to nothingness.
+
+==Gameplay==
+{{main|Xande (Final Fantasy XIV boss)|Syrcus Tower (Final Fantasy XIV duty)}}
+Emperor Xande is featured as the final boss of {{icon|ffxiv|duty|Syrcus Tower}}.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Xande
+|image = [[File:FFXIV TT Xande.png]]
+|number = 7 9 4 6
+|total = 26
+|type = None
+|description = "Xande, the first emperor of Allag, was resurrected from the sleep of death by the technologist Amon. Exhuming the ruler's body from his tomb, Amon cultivated the inert vessel for immortality, enlarging and strengthening Xande's form. After the emperor's successful rebirth, clones were made to serve as doubles."
+|obtain = Random drop from Syrcus Tower.<br>Won from Klynthota Skarnfruskwyn, Mor Dhona (30-13).
+}}
+
+==Musical themes==
+{{audio|filename=XIV FFIII Boss Battle Theme.ogg|title="Tumbling Down"}}
+"Tumbling Down" plays during the battle with Xande. It is a rearranged version of "[[Battle 2 (Final Fantasy III)|Battle 2]]", the boss theme from ''Final Fantasy III''.
+{{clear}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+
+Xande appears in ''Final Fantasy Trading Card Game'' as Fire-elemental forward cards.
+
+<gallery>
+Xande XIV TCG.png|Emperor Xande [15-012S] Chapter series card.
+Emperor Xande 2-007L from FFTCG Opus.jpg|Emperor Xande [2-007L] Opus series card.
+</gallery>
+{{clear|left}}
+
+==Behind the scenes==
+===Voice===
+Xande is voiced by Peter Bramhill in English and Kenichiro Matsuda in Japanese.
+
+==Gallery==
+<gallery>
+Xande FFXIV Art.jpg|Concept art.
+Crystal Tower Bosses FFXIV Art.jpg|Artwork of Xande along with the other bosses of the Crystal Tower.
+Xande.png|Xande ready to fight the Adventurers.
+FFXIV Aura Cannon.png|Aura Cannon.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[es:Xande (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

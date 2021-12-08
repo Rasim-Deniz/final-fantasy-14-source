@@ -1,0 +1,74 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Magnai Oronir
+|release=FFXIV
+|japanese=マグナイ・オロニル
+|romaji=Magnai Oroniru
+|aka=Magnai the Older
+|image=FFXIV Magnai.png
+|home=[[Azim Steppe]]
+|age=27
+|affiliation=Oronir Tribe
+|occupation=
+|race=[[Au Ra]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+|abilities=
+|weapon=Scale of the Father
+|armor=
+|japanese voice actor=Taku Yashiro
+|english voice actor=[[Wikipedia: Daniel Fraser (actor)|Daniel Fraser]]
+}}
+{{Quote|Ahh, war. To wield power, to make men kneel before you. There is no better feeling.|Magnai}}
+'''Magnai Oronir''', also known as '''Magnai the Older''', is a [[non-player character]] from ''[[Final Fantasy XIV]]''.
+
+==History==
+When Magnai discovered that [[Hien Rijin|Hien]], [[Gosetsu Daito|Gosetsu]], [[Lyse Hext|Lyse]], and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] have entered [[Bardam's Mettle]], which serves as a trial to be recognized a warrior of the Steppe, Magnai sent his warriors to escort the group to pay tribute. He tasked the group to learn about the lore of his tribe. In a final task Gosetsu and the Warrior of Light were sent to spy on the Dotharl Tribe, and once the duo returned with [[Sadu Dotharl|Sadu]]'s words, Magnai permitted for the group to leave.
+
+Magnai participated in Naadam, leading his tribe, but in the climax of the battle the Warrior of Light defeated him, guaranteeing the victory of the Mol Tribe. Magnai lost his position to [[Cirina Mol]] and joined the other warriors of Steppe to expel the imperial soldiers who arrived at the scene. He offered the support of his tribe to help Hien liberate his [[Doma (Final Fantasy XIV)|homeland]].
+
+==Characteristics==
+===Appearance===
+Magnai is a Xaela [[Au Ra]] with light brown skin, sharp golden eyes, and black hair brushed back similar to his horn shape. He is incredibly tall, wearing the Nomad's fending gear of a long brown coat with several belted straps, a feather-down collar, and steel gauntlets and boots. In battle, he wields an axe named Scale of the Father, which shares a model with {{icon|ffxiv|item|the axe of crags}}.
+
+=== Personality ===
+Magnai is prideful and conceited, looking down upon others, be they another Xaela tribe or from another land. He especially enjoys lording over the other tribes since his own won the last annual Naadam. Magnai respects the culture and traditions of the Azim Steppe and will abide to its laws.
+
+Though Magnai does not trust outsiders, he respects strength. As a member of the Oronir, Magnai takes pride in his tribe's ways and its strong warriors. He respects a good challenge no matter the battle or the opponent, but can be a sore loser. In spite of his earnest desire to take a wife, Magnai is hopeless and picky with women (preferring elegant, demure, softspoken warriors), and his failures with wooing the opposite sex have left him obsessive and rash in his quest to find his Nhaama.
+
+==Gameplay==
+Magnai the Older is fought as an enemy during the Mains Scenario Quest {{icon|ffxiv|quest|Naadam}}, and in the final phase of the quest he becomes an allied NPC.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Magnai
+|image = [[File:Magnai_Triple_Triad_Card.png]]
+|number = 172
+|total = 21
+|type = None
+|description = “We shall not speak as equals. Born of the Sun are Oronir, and born of the earth are you.”
+|obtain =  Won from [[Final Fantasy XIV Triple Triad players#Ogodei|Ogodei]], The Azim Steppe (22, 20)
+}}
+
+==Behind the scenes==
+A [[Minion|minion]] of Magnai is obtainable through [[Synthesis (Final Fantasy XIV)|crafting]], though players must progress far enough through the [[Namazu]] daily crafting quests to attain the materials required. It will nod in approval if female players pet him, but walk away if male players pet him.
+
+==Gallery==
+<gallery>
+TFS Magnai Sadu.jpeg|Magnai and Sadu.<ref name="nhaama">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/sidestory_04/#sidestory_04 Tales from the Storm - O Nhaama, Where Art Thou]''</ref>
+FFXIV Magnai Battle.png|Magnai preparing for battle.
+FFXIV Magnai War.png|Magnai fighting.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Warriors]]

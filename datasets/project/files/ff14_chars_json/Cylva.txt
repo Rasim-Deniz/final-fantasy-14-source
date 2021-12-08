@@ -1,0 +1,73 @@
+{{sideicon|FFXIV}}
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Cylva
+|release=FFXIV
+|japanese=サイエラ
+|romaji=Saiera
+|aka=Cyella
+|image=FFXIV ShB Cylva.png
+|home=[[World of Darkness (Final Fantasy XIV)|The Thirteenth]]<br/>[[Crystarium (Final Fantasy XIV)|Crystarium]] in [[the First]]
+|age=
+|dob=
+|affiliation=[[Warriors of Light]]<br/>[[Ascian]]s
+|occupation=Shadowkeeper (formerly)<br/>Barwench
+|race=[[Elezen|Elf]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|Gladiator}}
+}}
+'''Cylva''' is a character in ''[[Final Fantasy XIV: Shadowbringers]]''. Though she has no immediate role in the Main Scenario Quest, she is inexorably tied to the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Light of the First]] and [[The First|their world]] as a whole.
+
+==History==
+===Early life===
+[[File:FFXIV Loghrif and Mitron.png|thumb|left|Loghrif and Mitron take Cylva to the First.]]
+Cylva hailed from the Thirteenth, one of reflections of the Source that came into existence as the result of [[Hydaelyn (character)|Hydaelyn]] defeating her counterpart [[Zodiark (Final Fantasy XIV)|Zodiark]]. Cylva lost her home when the Thirteenth was consumed in darkness and became [[The Void (term)|the void]] due to [[Igeyorhm|Igeyorhm's]] machinations. She was saved at the last second by the [[Ascian]]s [[Loghrif]] and [[Mitron]], with her and [[Unukalhai]] as their world’s only survivors. Loghrif and Mitron convinced Cylva that she could help them in saving the remaining worlds through causing [[Umbral Calamity|Rejoinings]], but she was not told the full process. Brought to the First, Cylva established herself as a villainous mastermind known as the Shadowkeeper with the task to secretly groom the world’s young adventurers into [[Warriors of Light]].
+
+[[File:FFXIV ShB Cylva defeat.png|thumb|Ardbert defeats Cylva.]]
+Cylva created the cover of an unassuming yet mysterious mercenary when she threw her lot with [[Ardbert]] and his friends as their numbers grew while gaining their Crystals of Light. Eventually, she revealed herself as the cause of all the troubles they had dealt with and bared steel against them. Though Ardbert defeated her, he spared her due to their past camaraderie as he and his companions turn their weapons on Loghrif and Mitron. The battle ended with the Ascians’ apparent demise and the unintentional triggering of a [[The Flood|Flood of Light]], with Ardbert and his companions ending up being recruited by Elidibus.
+
+Cylva remained on the First out of guilt of her actions and allowing herself to be manipulated by the Ascians, rendered immortal due the nature of her coming of the First as she spent a century witnessing her friends and their heroic efforts being warped over time into deeds of villainy in the wake of the Flood. Sometime after the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] appeared and the [[Crystarium (Final Fantasy XIV)|Crystarium]] was established, Cylva had hung up her sword and armor and became a barwench. But Cylva’s sorrows were far from over as she would learn that Eulmore’s new ruler [[Vauthry]] reanimated Ardbert’s companions as powerful [[sin eater]]s called Cardinal Virtues, with Cylva setting up a new hunt board to entice potentially strong adventurers in the hopes they could defeat the zombified warriors.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Several years later, a particularly powerful warrior hailing from [[Hydaelyn|the Source]] began slaying the Cardinal Virtues alongside other sinners. This new "[[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]]" sparked hope in her, sensing that they possessed Hydaelyn's gift like her friends had. As the Cardinal Virtues were destroyed and the night sky returned, Cylva approached the Warrior and invited them to take a trip across [[Norvrandt]].
+
+[[File:FFXIV ShB Cylva identity.png|thumb|Cyella reveals her true identity.]]
+Across their travels, she detailed how Ardbert's group formed and grew over time, and how each of them gained a Crystal of Light. Throughout her stories she hinted at the presence of another smiling companion, the untold tale of the sixth warrior. She concluded the journey at Lakeland where she revealed of her role as the Shadowkeeper, just as she did a century ago. She begged the Warrior of Darkness to kill her, the final, unpunished villain responsible for the Flood and the tarnishing of her friends' memory. The Warrior refused as Ardbert's group had all been comrades in arms and Cylva's guilt was genuine. They suggested she continue to live on to tell the true tale of the Warriors of Light and ensure their memories live on as originally intended. Relieved and grateful, Cylva returned to the Crystarium as Cyella, later admitting that even if they were to fight, she had grown too weak, only just having enough strength to wear her old armor and brandish her sword.
+
+Cyella feels a burden lift when the Warrior of Darkness gathers the Crystarium to tell the true story of the Warriors of Light in the First. Her friends can again be celebrated as the heroes they were. When she sees Ardbert himself mysteriously arrive, her happiness is replaced with wary confusion. He later returns with a starshower raining over the Crystarium, 'Ardbert' declaring everyone bearing witness as Warriors of Light. Cyella visits the Warrior of Darkness at night to speak of what they saw. The adventurer reveals the Ascian Elidibus had taken Ardbert's corpse and is using it for nefarious ends. She asks the Warrior to again save the world and restore Ardbert’s good name.
+
+Due to Cyella's weakened state, she cannot participate in the final battle of Norvrandt. When Elidibus is defeated and peace returns to the land, Cyella is content to continue serving as a wench of the Crystarium. Though no one is left alive to try and corrupt the tale of the original Warriors of Light, she would ensure their good name is retained nonetheless, and thanks the Warrior of Darkness for all they had done.
+
+Cyella asks the Warrior to give her the crystals once belonging to Lamitt, Nyelbert, Branden, and Renda-Rae, as she feels they should stay on the First. After discussing the matter with [[Giott (Final Fantasy XIV)|Giott]], [[Taynor]], [[Cerigg]], [[Granson]], and [[Lue-Reeq]], revealing Cyella's identity and history to them in the process, the Warrior of Darkness agrees and entrusts the crystals to her care.
+
+A short time later, Cyella reunites with [[Unukalhai]], who had journeyed to the First to see her. They discuss the possibility of restoring their world from the void with [[Beq Lugg]]. With Taynor's help, they gain the information needed to begin working on a solution, though Beq Lugg warns them it may take years.
+
+==Characteristics==
+===Appearance===
+Cylva is physically identical to the CG female Wildwood [[Elezen]] that appeared in promotional artwork for [[Final Fantasy XIV/Legacy|''Final Fantasy XIV'' 1.0]] as well as a brief appearance in the opening. As the Shadowkeeper, she wore the Deepshadow Fending armor set with a Deepshadow Blade as her main arm. When she battled [[Ardbert]] and his companions, she transformed into a shaggy, gray-furred canine-like beast with three mouths and a multitude of eyes. When using certain attacks, a shadowy outline of her Elf form can be seen poking out.
+===Personality===
+{{Section}}
+
+==Gameplay==
+{{main|Eden's Promise: Litany}}
+Cylva is an NPC party members in each of the instanced Role Quests save Branden's. She is a Gladiator, serving as the group's main tank.
+
+The extra quest, {{icon|ffxiv|quest|Shadow Walk With Me}}, unlocks when all Role Quests have been completed and the Shadowbringers 5.0 MSQ is cleared. Clearing this quest also unlocks the option to talk to Cyella during the cutscenes in Echoes of a Fallen Star.
+
+A [[primal]] incarnation of her monstrous form as the Shadowkeeper is fought in {{icon|ffxiv|duty|litany}}.
+
+<gallery>
+FFXIV Cylva in battle.png|Cylva as an ally in battle.
+FFXIV Shadowkeeper render.png|The Shadowkeeper in Eden's Promise: Litany.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Paladins]]

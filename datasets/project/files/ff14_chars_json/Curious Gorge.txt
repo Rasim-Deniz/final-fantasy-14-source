@@ -1,0 +1,77 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Curious Gorge
+|release = FFXIV
+|japanese = キュリアス・ゴージ
+|romaji = Kyuriasu Gōji
+|aka = The Northerner
+|image = FFXIV Curious Gorge.png
+|race = [[Roegadyn]]
+|gender = Male
+|height = 
+|hair = Dark Green
+|eye = Green
+|designer = 
+|age = 23<ref name=EE223>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 223</ref>
+|affiliation = [[Company of Heroes]]
+|occupation = Job Master
+|type=npc
+|job = {{icon|ffxiv|discipline|warrior}}
+|weapon =Bravura 
+|armor = Fighter's Attire
+}}
+{{Quote|You can call me Curious Gorge—well, you can call me whatever you damn please if you don't value your neck. I hail from the far north, beyond the highlands of [[Coerthas]], where the mountains stand tall and the flames burn hotter than the pits of hell. My reasons for coming to this land are twofold. One, to pay a debt to an old comrade from the days before the Calamity by protecting the villages here. Two, to spread the battle techniques perfected by my ancestors, that our proud line of warriors does not end with me.|Curious Gorge}}
+
+'''Curious Gorge''', also known as '''The Northerner''', is a [[Non-player character]] from ''[[Final Fantasy XIV]]''. A scion of a tribe of [[Marauder#Warrior|Warriors]], he traveled to [[La Noscea]] in hopes of teaching the arts and putting his skills to the test. Curious Gorge is usually seen near a waterfall in [[Eastern La Noscea]], at the northern part of the Bloodshore. While he can be spoken to at any time, he doesn't have a major role until the quest to unlock Warrior where it is learned Curious Gorge possesses the Soul of the Warrior and is seeking to train his arts to marauders in [[Eorzea]].
+
+== History ==
+=== Early life ===
+Born in [[Abalathia's Spine]] to the descendants of warriors, Curious Gorge seeks to restore the glory of his ancestors. Along with his brother, [[Broken Mountain]], he strives to unlock the secrets of ancient techniques and master the all-but-forgotten art of the warrior. Some years after his elder sibling had departed their homeland to share their martial knowledge with the rest of [[Eorzea]], Curious Gorge tired of merely training, and left the mountains to put his skills into practice. He joined the acclaimed [[Company of Heroes]], where his fledgling talents soon reached their full potential. Though the company disbanded following the [[Umbral Calamity#Seventh Umbral Calamity|Seventh Umbral Calamity]], Curious Gorge continued his mercenary career, taking every opportunity to reintroduce to the world the brutal majesty of the warrior's way.<ref name=EE223/>
+
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+[[File:Curious Gorge from Final Fantasy XIV legacy.png|thumb|left|Curious Gorge in version 1.0.]]
+Hailing from the north, and suspected to be a marauder once in the Company of Heroes, Curious Gorge arrives in Costa del Sol following the Trail of his brother who succumbed to the rage of the Warrior tribe's "Inner beast". Controlling and Harnessing the inner beast's strength is a lost art hidden within tomes that the two brother's have inherited. After failing to stop his brother's rage, Curious Gorge aids the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] on the beach with [[Solkwyb Saelsmyndsyn]] fending off the giant turtles that may have been influenced by his brother's aura. After securing victory, Curious Gorge is impressed by the Warrior's fighting potential and offers to teach them the lost art of his people. He vows to win back his ancestor tribe's tarnished reputation when the proud warriors were shunned and labeled as savage beasts, more violent and brutal than the fiends of which they fought. Following him to the Hidden Falls, he teaches the Warrior powerful skills and to find the lost Warrior armor scattered around Eorzea. He occasionally sends the Warrior to [[Wineport]] to aid in the defense of the city from hostile forces.
+
+Curious Gorge begins to second guess his own abilities and refuses to teach the Warrior of Light further when he sees them almost fully clad in the ancient suit of armor. He fears the responsibility of watching the Warrior succumb to the same weakness he hasn't mastered himself. This all changes when he asks the Warrior to aid him in defending Wineport, this time from his brother's onslaught. They defeat Broken Mountain and Curious Gorge loses control of his own inner beast, begging the Warrior of Light to defeat him in combat.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+While recovering at [[Camp Bronze Lake]], Curious Gorge and Broken Mountain accept the Warrior of Light's mastery of the inner beast and ask them to aid in their search and dissection of its secrets. Gorge feels he is inching closer to the uncontrollable urge and doubts he can muster self control, finding himself unfit to protect others. With encouragement and a couple of slaps from the Warrior, the brothers protect [[Limsa Lominsa]] from [[Kobold]] and [[Sahagin]] threats alike. No longer fearing their inner potential, their successes impress the Storm Marshal Eynzahr who encourages the pair to train the Maelstrom members in the ways of the Warrior. Their dreams of repairing their tribe's reputation and spreading their ancestors' teachings now realized, Curious Gorge vows to one day be powerful enough to defeat the Warrior of Light in combat.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV Curious Gorge 001.png|thumb|Curious Gorge after seeing Dorgono.]]
+Due to the reputation gained from the Maelstrom, Curious Gorge and Broken Mountain are challenged by an anonymous band of marauders who are none other than a barely disguised [[Wyrnzoen Saelsmyndsyn|Wyrnzoen]] and his entourage. During the battle [[Dorgono Qerel|Dorgono]], one of the marauders, is possessed by her inner beast and easily throws Wyrnzoen, [[Broenbhar]] and even Curious Gorge into the waters of the pier. Broken Mountain recognizes that she had been taken over by the inner beast and with the help of Warrior of Light, they manage to stop her. Broken Mountain agrees to train her to control her inner beast but Curious Gorge finds herself unable to train her and chooses to train on her own. Later Curious Gorge reveals that after meeting Dorgono, his inner beast fell asleep and he can no longer awaken it.
+
+After Dorgono succeeds in controlling her inner beast and returns to her home, Curious Gorge follows her to [[Azim Steppe]]. Upon finding her, they discover that she Dorgono been mistaken for the exiles who attacked her clan. Dorgono decides to avenge her clan to regain their trust and enlists the help of Curious Gorge and Warrior of Light. While preparing for battle, Curious Gorge realizes that the reason his inner beast fell asleep was because he fell in love with Dorgono. He confesses his love to Dorgono during the battle against the Chaghan and manages to awaken his inner beast. After the battle Curious Gorge loses control of the inner beast and Dorgono falls in love with him. Curious Gorge manages to regain his conscience when Dorgono confesses her love for him.
+
+Dorgono asks Curious Gorge to return with her to start over as part of the Qerel clan but he refuses. The control of his inner beast still eludes him, and he cannot tolerate the idea of hurting the one he loves most. Curious Gorge says he will return to Eorzea to continue his training. Dorgono says goodbye to the two of them and leaves to finally reunite with her people.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+{{icon|ffxiv|quest|once, twice, three times a warrior}}
+
+With his brother fallen ill and struggling to handle his inner beast, Curious Gorge seeks a way to help him feel better. He expresses a worry to the Warrior of Light that he also fears Dorongo has fallen for someone, but that he can’t be certain.
+
+He comes across the Warrior of Light with Dorongo, her father, and Broken Mountain, not long after Dorongo's father cures Broken Mountain of his ailment. In his uncertainty, Curious Gorge mistakes the amicable smile that the Warrior of Light and Dorongo share as something romantic, and nearly lets loose his inner beast out of rage. Dorongo thrashes him, giving him a proper scolding for doubting her, as she is in love with him. 
+
+== Characteristics ==
+=== Appearance ===
+Curious Gorge is a Hellsguard [[Roegadyn]] with reddish skin and a bandage over his nose. He wears a full set of Warrior battle garb and is in possession of a Bravura.
+
+=== Personality ===
+Willing to throw himself into any battle, Curious Gorge is a skilled axeman, but when the battlehigh overtakes him, he succumbs to his inner beast and loses control. Because of this he feels unworthy of being a warrior and doubts himself.
+
+== Gameplay ==
+In the Warrior quest "How to Quit You" in version 1.0, Curious Gorge was faced alongside several Cliffdivers in Silver Bazaar. Curious Gorge had access to all the abilities of the Marauder and Warrior. A common strategy was for a tank to run Curious Gorge around a building while the group killed the Cliffdivers first.
+
+In ''A Realm Reborn'' the {{icon|ffxiv|quest|How to Quit You}} quest returns as a job quest, and Curious Gorge is faced again, this time in Wineport. Curious Gorge serves as an allied NPC in the Warrior quests {{icon|ffxiv|quest|Duty and the Beast}} at level 52, {{icon|ffxiv|quest|And My Axe}} and  {{icon|ffxiv|quest|Curious Gorge Meets His Match}} at level 60, and and {{icon|ffxiv|quest|The Heart of the Problem}} at level 70.
+
+== Etymology ==
+His name is a reference to German-American author [[Wikipedia:H.A. Rey|H.A. Rey]]'s line of children's books called ''[[Wikipedia:Curious George|Curious George]]'' and the associated character featured within them.
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Warriors]]

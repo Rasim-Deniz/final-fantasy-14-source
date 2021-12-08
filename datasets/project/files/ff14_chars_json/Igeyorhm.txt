@@ -1,0 +1,88 @@
+{{sideicon|FFXIV|prime=FFXIV}}
+{{infobox character
+|name=Igeyorhm
+|release=FFXIV
+|japanese=アシエン・イゲオルム
+|romaji=Ashien Igeorumu
+|lit=Ascian Igeyorhm
+|aka=
+|image=FFXIV Igeyorhm.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Ascian]]
+|gender=Female
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=Boss
+|boss page=Igeyohrm (boss)
+|final boss page=Ascian Prime
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Ai Orikasa
+|english voice actor=Gemma Whelan
+}}
+{{Quote|For the glory of Lord Zodiark.|Igeyorhm}}
+'''Igeyorhm''' is a character from ''[[Final Fantasy XIV]]'', and one of the [[Ascian]] overlords. Though briefly seen during the events of ''A Realm Reborn'', she doesn't have significant story involvement until ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+In [[World of Darkness (Final Fantasy XIV)|the Thirteenth]], Igeyorhm's victory over the inexperienced [[Unukalhai|Bringer of Light]] flooded the world in darkness and rendered it a [[World of Darkness (Final Fantasy XIV)|nigh-empty void]]. The Ascians deemed the Thirteenth unable to be [[Umbral Calamity|rejoined]] with [[Hydaelyn]], as its surviving denizens transformed into voidsent. Igeyorhm sought to redeem herself by aiding Lahabrea in preparing Hydaelyn for their agenda.<ref>''Encyclopedia Eorzea'', p. 213</ref>
+
+Igeyorhm watches the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] defeat the [[primal]] [[Ravana (Final Fantasy XIV)|Ravana]], and is seen again in the company of Archbishop [[Thordan VII]] after the fall of [[Bismarck (Final Fantasy XIV)|Bismarck]], where she notes the Blessing of Light has been regained at weaker intensity. Using a dark energy beam, she forces the Warrior of Light to relinquish the key to [[Azys Lla]], enabling the archbishop to open the way to the forbidden continent.
+{{Quote|Tell me: why do you despise the primals so? They are the embodiment of mortal will—of mortal desire. Plainly, you ''desire'' a foe to despise. And 'tis well that you do, for it is from the vortex of ceaseless conflict that Lord Zodiark shall be reborn.|Igeyorhm}}
+[[File:XIV Ascian Prime.jpg|thumb|Ascian Prime]]
+At the bottom of the [[Aetherochemical Research Facility]], Igeyorhm and Lahabrea confront the Warrior of Light. After being overwhelmed by the Warrior's strength and fully reactivated Blessing, they fuse into an Ascian Prime who is defeated and separates, with Igeyorhm suggesting they flee. The Warrior of Light traps her in a shard of White Auracite before using the immense powers of the [[Eyes of Nidhogg|Eye of Nidhogg]] to shatter the crystal, destroying Igeyohrm for good.
+
+==Characteristics==
+===Appearance===
+Igeyohrm dresses similar to her black-robed brothers, albeit with a different design on her red mask.
+
+She has the same hairstyle as [[Lightning (Final Fantasy XIII)|Lightning]] from the ''[[Final Fantasy XIII]]'' series.
+
+===Personality===
+Much like [[Lahabrea]], Igeyorhm is confident and cold, and like her fellow Ascians, she is devoted to her god, [[Zodiark (Final Fantasy XIV)|Zodiark]]. She is arrogant, refusing to accept or believe in defeat.
+
+==Gameplay==
+{{See|Igeyohrm (boss)|Ascian Prime}}
+Igeyorhm and Lahabrea are fought as the penultimate boss of ''Heavensward'', at the end of the Aetherochemical Research Facility. After reduced to half health, they fuse into the powerful Ascian Prime.
+
+Igeyorhm's Shade appears as an add along with Lahabrea's Shade in [[The Dying Gasp|The Minstrel's Ballad: Hades's Elegy]], during the second part of the second phase. They repeat the same mechanics seen in the Aetherochemical Research Facility. Upon being defeated, they fuse into Ascian Prime's Shade.
+
+==Musical themes==
+{{audio|filename=FFXIV Travanchet Theme.ogg|title="Without Shadow"|align=left}}
+Igeyohrm's appearances are all accompanied by "Without Shadow".
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Igeyorhm Unmasked.png|Igeyorhm unmasked.
+FFXIV Igeyorhm unmasked.jpg|Igeyorhm  in ''A Realm Reborn'' epilogue.
+FFXIV Igeyorhm glyph.jpg|Igeyorhm's glyph.
+</gallery>
+
+==Etymology==
+"Igeyohrm" refers to the light scion "Martyr Igeyohrm" referred to in the profile of [[Shemhazai]] from ''[[Final Fantasy XII]]''. The glyph that appears when Igeyohrm is channeling magic is almost identical to the bottom portion of Shemhazai's, only inverted.
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Igeyorhm]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Ascians]]

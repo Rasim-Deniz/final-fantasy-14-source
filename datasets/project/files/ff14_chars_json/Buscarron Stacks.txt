@@ -1,0 +1,52 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Buscarron Stacks
+|release=FFXIV
+|japanese=バスカロン・スタックス 
+|romaji=Basukaron Sutakkusu
+|lit=Baskaron Stacks
+|image=FFXIV Buscarron Stacks.png 
+|home=[[South Shroud]]
+|affiliation=Buscarron's Druthers
+|occupation=Bartender
+|race=[[Hyur]]
+|gender=Male
+|height= 
+|hair=Dark Brown
+|eye=Brown
+|age=48<ref name=EE210>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 210</ref>
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+}}
+'''Buscarron Stacks''', also known as '''Buscarron Strongarm''', is a non-playable character in ''[[Final Fantasy XIV]]''. He runs a rest-stop and tavern in South Shroud called Buscarron's Druthers.
+
+==History==
+Buscarron is a retired lancer of the [[Wood Wailers]] who has set up a tavern and hamlet near Quarrymill. Buscarron once saved a young [[Laurentius Daye|Laurentius]] from a wild beast. Though he became a regular customer, Laurentius himself seems to have forgotten this incident, and Buscarron has not had the heart to remind him.<ref name=EE210/>
+
+He met during the Main Scenario quests for aid in tracking down the missing [[sylph]] elder [[Frixio]]. While he looks into the matter, he has the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] perform some errands on his behalf, such as suppressing a potential bar fight and tracking down his old friend Teteroon. After bringing [[Qiqirn]] Firewater as a gift from the latter, Buscarron informs the Warrior of Light that sylphs have been sighted nearby.
+
+He is shocked when he hears that [[Garlean Empire|Garleans]] were encountered at the place of the sighting, and concludes they were tracking the sylphs. As this is too deep in [[Gridania]]n territory for Garlean patrols to reach, he suspects an insider is helping them. He recalls a patron of his within Laurentius, who suddenly has been spending an unusually high amount of money - above that of a normal Wood Wailer salary. After the Warrior of Light caught him in the act and compelling him to give up, Buscarron mentions Laurentius had turned himself in to the Twin Adders. He then mentions that Frixio was recently seen, having fled into the [[Thousand Maws of Toto-Rak]].
+
+Buscarron is also met during the level 25 [[Dragoon (Final Fantasy XIV)|Lancer]] quest "Questions and Lancers," being one of three master lancers that [[Ywain Deepwell]] wished the Warrior of Light to speak to. Buscarron asks that the Warrior of Light bring a bottle of Fullflower mead to a nearby monument called Mistalle's Lance. Upon doing so, the tavernkeeper tells about Mistalle, who codified the art of the Lancer and convinced the Gridanians to allow foreign lancers to share their military techniques with the guild, including foreign students (such as the Warrior of Light).
+
+== Characteristics ==
+=== Appearance ===
+Buscarron is a male midlander Hyur with greying hair and an eyepatch. He wears a red hempen undershirt and grey pants.
+
+===Personality===
+{{Section}}
+
+== Gameplay ==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Baderon is a npc available for Triple Triad matches added in patch 2.51. He is located at [[South Shroud]] (18.1, 19.8). To challenge him the player needs to complete the Main Scenario Quest {{icon|ffxiv|quest|Into the Beast's Maw}}. 
+
+The matches have the Match Rule Order. The possible rewards for defeating him are {{icon|ffxiv|item|Papalymo & Yda Card}}, {{icon|ffxiv|item|Raya-O-Senna & A-Ruhn-Senna Card}} and {{icon|ffxiv|item|Demon Wall Card}}.
+
+His tavern is also among the places where player vs. player Triple Triad matches can be held.
+
+==References==
+{{citations}}
+
+{{navbox FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

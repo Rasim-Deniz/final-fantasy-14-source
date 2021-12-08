@@ -1,0 +1,77 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Zhloe Aliapoh
+|release=FFXIV
+|japanese=シロ・アリアポー
+|romaji=Shiro Ariapō
+|lit=Shiro Ariapo
+|image=FFXIV Zhloe Aliapoh.png
+|home=[[Idyllshire]]
+|age=21
+|dob=
+|affiliation=Menphina's Arms
+|occupation=
+|hobby=
+|loves=Pineapples
+|race=[[Miqo'te]]
+|gender=Female
+|height=~58.9 {{tooltip|ilms|inches}}
+|weight=
+|hair=Light brown
+|eye=Light blue
+|type=npc
+}}
+'''Zhloe Aliapoh''' is a [[non-player character]] in ''[[Final Fantasy XIV]]'' who runs a orphanage in the ''Hard Place'' cellars known as Menphina's Arms. She runs her trading business on the main floor of the building. She has a sister named [[Khloe Aliapoh|Khloe]].
+
+==History==
+Zhloe was born into poverty and had to work for Geimlona's sister to pay off her family's debt. As their parents passed in the [[Umbral Calamity|calamity]], Zhloe struggled to take care of Khloe by herself. After paying off her family's debt she rented a room and set up shop in the ''Hard Place'' where she started an orphanage and began her trading business.
+
+Zhloe meets the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] on the behalf of Geimlona.{{cite|FFXIV|Arms Wide Open}} They want the Warrior to assist in Zhloe's trading business to help pay off [[Rowena|Rowena's]] loans from opening up the orphanage. She has been skipping out on meals and buying clothes. Her business runs like Rowena's House of Splendors where she trades collectible items for crafting or gathering scripts, and sells the collectible items to buyers around [[Eorzea]]. Currently she is trying to sell Exotic treasures of Near Eastern design that are popular with [[Ishgard]]ian nobles.
+
+With the sales from the Near Eastern collectibles, Zhloe announces they can stay open for just a few more days, and plans on working even harder to keep the orphanage going.{{cite|FFXIV|Custom Deliveries}} With the Warrior of Light agreeing to continue helping, Zhloe wants to celebrate with week old pineapple pudding. [[T'kebbe]], a child from the orphanage, tells Zhloe that she deserves it for how hard she works to keep them fed. The child wonders who the Warrior of Light is and Zhloe introduces them. T'kebbe is excited to meet another adventurer like her parents who were the strongest adventurers she had ever seen, defending Idyllshire from monsters, but she hasn't seen them since they said they were going to hunt a "leet mark". She was happy to meet miss Zhloe as she was scared and lonely all by herself, but considers her to be a big sister, even if she forgets to unlock the door and feed them. She takes her leave as she is going to listen to a story about dragons.
+
+With T'kebbe gone, Zhloe reveals that search parties have been searching for T'kebbe's parents with no luck. She knows she shouldn't keep her hopes up, but doesn't have the heart to tell T'kebbe the truth. When her parents disappeared, T'kebbe rushed out to the city gates and waited day and night. When Zhloe found her, she was sniffling and shivering in the cold, and the sight inspired her to open an orphanage. Thanks to the Warrior of Light Zhloe can pay the rent, but Menphina's Arms is long away from financial stability. Zhloe wants to spread her trading business across the realm and has found a new client: Master Gegeruju of Gegeruju Shipping. Her idea is to bring refreshing relics from the lands of [[Coerthas]].
+
+The Coerthan Souvenirs have been a hit with the people of Costa del Sol, and with the gil Zhloe has bought books and writing tools for the orphanage. Zhloe hopes the children will cultivate their minds and one day strike out on their own. She thanks the Warrior of Light for their hard work. Reaching out to further clients Zhloe has set her sights on a bigger client: the Maelstrom. She has heard that the admiral needs anything she can gather for war games. The material sent to the Maelstrom was a "godsend" and every piece has been sold, overflowing Zhloe's coffers. With the procured money she can give the children one square meal a day, blankets and bedding free of mold and moth holes, and actual shoes, though she can't treat herself to a bowl of pudding every day and in-between those days she will eat nothing.
+
+Menphina's Arm's has been cleared of debt, and thanks to the Warrior of Light the business is thriving. T'kebbe comes in looking sad, and Zhloe asks if she had forgotten to give her lunch again. T'kebbe explains she told her friend that her nameday was coming, which made her cry because she doesn't know when her nameday is, and she started crying too. She reveals that when she came to Menphina's Arms she cried in her bed every night and tried to smile in front of Zhloe, but knew her parents were never coming back. She wants to do what Zhloe does and cheer her friend up, but doesn't know how because she can't give them her own nameday. Zhloe suggests T'kebbe's nameday can be the nameday of the friends that don't have a nameday so they can celebrate together. T'kebbe is delighted and runs off.
+
+Zhloe begins sniffling, and has the Warrior of Light craft gifts for the children. On T'kebbe's nameday, she thanks Zhloe and the Warrior for the presents, and tells them it's her best nameday since her parents gave her a wind-up [[Moogle (race)|moogle]]. Her friend was also happy about her nameday, as she got to see a dragon. Khloe runs in surprised to see the Warrior of Light working with her sister, and tells T'kebbe she has another story to share. T'kebbe says goodbye and reminds Zhloe to to forget their dinner tonight. Zhloe didn't know the Warrior of Light was sharing their stories with Khloe, but it explains why her stories were more exciting. She tells the Warrior of Light that Khloe smiles a lot even though she's lonely, because she is always working. She proclaims that she can spend more time with her now that Menphina's Arms is going strong and listen to her new stories.
+
+==Characteristics==
+===Appearance===
+Zhloe Aliapoh is a Keeper of the Moon [[Miqo'te]] who wears a Hidekeeps Apron dyed snow white, Astral Silk Bottoms of Casting dyed honey yellow, and Ironworks Boots of Casting dyed sylph green.
+
+===Personality===
+Zhloe is scatterbrained, often forgetting what she was talking about, and not remembering to feed the kids at the orphanage. She works hard to clear her family's debts, and set up an orphanage funded by her trading business. She is caring to the children of [[Idyllshire]].
+
+==Gameplay==
+[[File:FFXIV Zhloe Aliapoh (Custom Deliveries).png|thumb|150px|Custom Deliveries portrait.]]
+{{main|Custom Deliveries}}
+Zhloe is part of the Custom deliveries addition. Every week the player delivers collectible items to her and receives crafting and gathering scrips, in addition to experience and gil. To participate in her custom deliveries players need to be on a crafter or gatherer job [[level]]ed to 55.
+{{Clear}}
+
+==Gallery==
+<gallery>
+FFXIV Zhloe Moonfire Faire.png
+FFXIV Zhloe Khloe T'kebbe 2019 Moonfire Faire.png
+FFXIV Shiro Kuro Chakebi.png|Artwork of T'kebbe, Khloe and Zhloe.
+</gallery>
+
+==Etymology==
+Zhloe's Japanese name is Shiro {{J|シロ|Shiro|White}} spelt in {{w|katakana}}. As a counterpart to this her younger sister Khloe's Japanese name is Kuro {{J|クロ|Kuro|Black}} spelt in the same manner.
+
+Zhloe's English name appears to be derived from her Japanese name read literally which could be rendered as "Shilo", with an added "e" that approximates Zhloe. Similarly, Khloe's Japanese name could be rendered as "Klo", which with the addition of the same "e" approximates Khloe.
+
+Aliapoh is a Keeper of the Moon Miqo'te surname, shared with the cousins [[Leih Aliapoh|Leih]] and [[Jihli Aliapoh]].
+
+Khloe's surname is a protracted reference to the ''[[Final Fantasy XI]]'' non-player character [[Mihli Aliapoh]], a [[Mithra]] that acts as [[Serpent General|Waterserpent General]] and is available as an alter-ego party member through [[Trust Magic]].
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Custom Delivery NPCs]]

@@ -1,0 +1,83 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{infobox character
+|name= Nashu Mhakaracca
+|release=FFXIV
+|japanese=ナシュ・マカラッカ
+|romaji=Nashu Makarakka
+|image=Nashu Mhakaracca.png
+|affiliation=
+|occupation = Assistant
+|race= [[Miqo'te]]
+|gender= Female
+|hair= Black
+|eye= Violet
+|age = 21
+|job = 
+|type=npc
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Nashu was Hildibrand's faithful assistant up until his disappearance five years ago. Today, she carries on in the gentleman hero’s stead, offering the people of Eorzea her sleuthing services.|Official website}}
+'''Nashu Mhakaracca''' is a minor [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. She is a [[Miqo'te]] comic-relief character, sidekick to [[Hildibrand Manderville]], and older sister to [[Songbirds]] member Masha Mhakaracca. Together she and Hildibrand are involved in quests related to the [[Warrior of Light (Final Fantasy XIV)|adventurer]]'s [[inn]] rooms in version 1.xx, and the Inspector Hildibrand story in 2.xx and in 3.xx.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Character section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+After Hildebrand was presumed dead following his ill-conceived trip to [[Dalamud]], Nashu resolved to carry out her employer's work as an inspector. With the aid of the adventurer, she hopes to solve the mystery of the dapper zombies. It is discovered the zombie leader is none other than Hildebrand believing himself to be one of them due to amnesia. Nashu uses bombs in a risky gambit to restore his memory, which works. Nashu provides Hildibrand with a new set of clothes and resumes her role as his side-kick as he investigates the phantom thief of a thousand faces.
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Nashu is a Keeper of the Moon Miqo'te with black hair, gray eyes, with a bandage on her left cheek. She wears a pink half-robe with gray stockings and shoes. While believing that Hildibrand died, Nashu changed her attire into a business dress similar to the man with the intent to carry his legacy, but switched back to her old attire after he was revealed to be alive and regained his memory. She reappears in the business suit during the "episode previews."
+
+===Personality===
+While those who meet Hildibrand learn of his idiocy and lack of competence soon after, Nashu is in awe of his "talents" as an investigator. Proving to be as much of a scatterbrain as her employer, taking extremes on matter, Nashu fixates on pumpkins and has a short attention span. Despite these traits, she tends to be a bit more observant than Hildibrand, like when she pointed out that the fake Lewenhart had gloves on while the real one does not.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Hildibrand & Nashu
+|image = [[File:FFXIV TT Hildibrand & Nashu.png]]
+|number = 62
+|total = 27
+|type = None
+|description =
+|obtain = Won from Hab, [[Thanalan|Southern Thanalan]] (24,40).
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+Nashu appears in ''Final Fantasy Trading Card Game'' as Lightning-elemental Backup cards.
+
+<gallery>
+Nashu TCG.png|Nashu [15-102U] Chapter series card.
+Nashu 4-107R from FFTCG Opus.jpg|Nashu [4-107R] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:395a Hildibrand & Nashu Mhakaracca.png|right|100px]]
+Nashu appears on a Triple Triad card with Hildibrand in ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+[[File:Hildibrand.png|Nashu and Hildibrand in version 1.0.|thumb]]
+Hildibrand and Nashu were created for the quests required to unlock private inn rooms, which were released March 8th, 2012 as part of patch 1.21. Due to positive fan reception, they have become recurring characters for inn-related quests, and reprise in ''A Realm Reborn'' as part of their own side story. The duo was originally not planned to appear in ''[[Final Fantasy XIV: Heavensward]]'', but due to fan demand, quests involving them were implemented during its patch cycle, though shorter and lacking any attached trials.
+
+Nashu has a sister named Masha Mhakaracca who is an up and coming Songstress for the song and dance trio of troubadours called the 'Songbirds'. During the 2016 Little Ladies Day event, Masha was one of the Songstresses performing for the city of Ul'dah along with her two other companion entertainers, Ulala and Narumi. Players were able to vote for their choice of leadership for the Songbirds, with Masha being one of three options.
+
+==Gallery==
+<gallery>
+Nashu_Outfit_1.png|In-game render.
+Nashu.png|Nashu in a cutscene.
+Nashu_Outfit_2.png|Alternate outfit.
+Nashu_Hildibrand_Enkidu.png|Nashu in the coliseum mystery promo with Hildibrand and Enkidu.
+FFXIV Nashu Barber.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

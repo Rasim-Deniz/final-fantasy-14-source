@@ -1,0 +1,114 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Oboro Torioi
+|release=FFXIV
+|japanese=オボロ・トリオイ
+|romaji=Oboro Torioi
+|aka=Oboro Moonrise {{J|月夜のオボロ|Tsukiyo no Oboro|Oboro of the Moonlight}}
+|image=Oboro.png
+|home=[[Doma (Final Fantasy XIV)|Doma]]
+|age=24<ref name=notes33/>
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]
+|occupation=Ninja
+|education=Shinobi training
+|race=[[Hyur]]
+|gender=Male
+|hair=Black
+|eye=Olive
+|type=npc
+|job={{icon|ffxiv|discipline|ninja}}
+|weapon=Yoshimitsu
+|armor=Ninja Attire
+}}
+'''Oboro Torioi''', also known as '''Oboro Moonrise''', is a non-playable character in ''[[Final Fantasy XIV]]''. He is a [[Ninja (Final Fantasy XIV)#Ninja|Ninja]] from [[Doma (Final Fantasy XIV)|Doma]] and the guildmaster of the Ninja guild. He was introduced in Patch 2.4 "[[Final Fantasy XIV#Dreams of Ice|Dreams of Ice]]", with the release of {{icon|ffxiv|discipline|rogue}} and {{icon|ffxiv|discipline|ninja}}.
+
+==History==
+===Early life===
+Though Doma was already under [[Garlean Empire|Garlemald]] at the time of his birth, Oboro was raised in a secluded village where he his master [[Gekkai]] instructed him in the art of ninjutsu. Blessed with equal measures of innate talent and dogged determination, he rose through the ranks and was awarded the title of jonin, given only to the most skilled shinobi.
+
+When [[Kaien Rijin|Lord Kaien]] led his rebellion, Oboro proudly fought by his side. After a hard-fought battle, they reclaimed [[Doma Castle (Final Fantasy XIV)|Doma Castle]], and it seemed for a fleeting moment that Doma's liberation had been won. Victory, however, was brief—owing in part to the actions of a fellow shinobi, who had already defected to the Empire. [[Zenos yae Galvus|Zenos']] [[XIIth Imperial Legion]] was upon them, and Lord Kaien's revolt was crushed. 
+
+Oboro survived, and upon returning home, the elders tasked him with making for Eorzea, and pursueing the traitor who had betrayed his homeland.{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Oboro}}|name=notes33}}
+
+===''[[Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Oboro_offering.png|thumb|Oboro asking the adventurer to join the ninja guild.]]
+Oboro and [[Tsubame Oshidari]] establish a safehouse at the docks of Raincatcher Gully near Wineport under the guise of "travelers from the south seas". The Rogue's Guild sends the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to investigate them.
+
+The ninja are in conflict with a man named [[Karasu Kanshi|Karasu Redbeak]], where they clash in Upper La Noscea. After he escapes, Oboro comes clean on his and Tsubame's story. The Soul of the Ninja resonates with the Warrior, and so Oboro agrees to teach them Ninjitsu, beginning with the mudra ''Ten''. As the adventurer gains skill, Oboro teaches the mudra ''Chi'', and explains how to combine them into ninjutsu techniques.
+
+Later, at Fool Falls in Upper La Noscea, Karasu interrupts a planned training session, resulting in the two driving him and Imperial shadows off. Oboro confesses his history with Karasu and how the Garleans massacred their village after he sold them out, and discovering his master's body, disfigured beyond recognition. Karasu is going to assassinate a notorious pirate leader in Aleport on behalf of his Imperial superiors, and they unsuccessfully attempt to corner him in the port town.
+
+As the Warrior of Light becomes more adept at the skills of a Ninja, Oboro orders a new set of ninja gear from Doma. Karasu's agents intercept the courier, who hid his cargo throughout La Noscea, and challenges the Warrior to defeat the Imperial agents guarding them. Once every piece except for the body armor is retrieved, Karasu is not present at the meeting place, Oboro only discovering a memo indicating the Garleans are attacking the safehouse. Oboro quickly teaches the third mudra ''Jin'' before rushing back to Eastern La Noscea.
+
+With the doorman injured, they trail Karasu into the rain forest, where Tsubame is kneeling and injured. Karasu appears and taunts Oboro. They finally take him down, and as he sits defeated, Oboro proclaims to execute Karasu for betraying their village. A laughing Karasu proclaims he did not betray the village to Garlemald, but found the one who did: their former master Gekkai, who had faked his death and forced him to serve. Karasu hints that a showdown will occur at Candlekeep Quay, and seemingly commits suicide with explosives.
+
+Though the Ninja had fulfilled their stated mission, Oboro remains troubled by Karasu's words. As they prepare to depart for Doma, Oboro wants some times to think. Tsubame implores the Warrior of Light to look for him and find out what troubles him. At Fool Falls, Oboro confesses to still feeling turmoil despite defeating Karasu, and wants to find the truth. Remembering what Karasu said, Tsubame suggests they shadow Oboro and find out what transpires.
+
+At Candlekeep Quay, Oboro confronts a group of Imperial agents. Their leader confirms to being the Imperial spymaster in Doma. The older man, Gekkai, turns and suggests he be addressed as master for old times' sake. When Oboro presses him for his defection, the man claims that Ninja have always served various masters, and admits he prefers Imperial culture. He taunts how Oboro is confronting him and his agents alone. Tsubame and the Warrior of Light make their appearance and assist Oboro in battling his turncoat master.
+
+After Gekkai is slain, Karasu appears out of his ninja garb. Though exonerated, he declines Oboro's offer to return to their village, as he still has blood on his hands from when he worked under Gekkai and feels he'd rather find a new life. He tosses his old soulstone to Oboro, and returns the body armor he confiscated earlier. In gratitude for helping him confront the true traitor and helping him reach presence of mind, Oboro teaches one final skill to the Warrior of Light.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Oboro is pleased to meet with the Warrior of Light once more, sensing they have surpassed his expectations, and that he lacks any further ninjutsu to teach them. He invites them to join him with his meeting [[Jacke Swallow]], the leader of the Rogue's Guild, and the Warrior of Light's previous teacher. Jacke proclaims that there is a thief in La Noscea, and one who is notably not Eorzean—likely another shinobi. He asks the Warrior of Light and Oboro to investigate the robberies and who may be responsible.
+
+Hired by a [[Lalafell]] named [[Mulfa Kelfa]] to search for his missing orb, they track the thief to the [[Middle La Noscea|Woad Whisper Canyon]], where Mulfa Kelfa turns on Oboro and the Warrior of Light. Their suspect makes quick work of the turncoats, and her assistant [[Akagi]] reveals her to be [[Yuki Yatsurugi|Princess Yuki Yatsurugi]] of Doma, who is searching for the true bandits who took her family’s treasures. She refuses the help of the shinobi, proclaiming that the rogue shinobi who assisted Garlemald in crushing the Doman resistance.
+
+Akagi requests the Rogue's Guild assistance in spite of Yuki's resistance, asking them to save her from certain injury. As Yuki pursues a connection to La Noscea's black markets, the Warrior of Light seeks to clear the obstacles ahead of her, but Yuki makes quick work of the pirates. Oboro continues to shadow Yuki in her excursions alongside the Warrior of Light. They fight a man named [[Redway|Redway the Relinquished]], who seeks to stop Yuki, and they dispel his lightning magic. After learning from Jacke that Yuki's final treasure is to be sold at an auction, they speak to a connection of Jacke's, who tells them that Redway will be quick to attack the pair if they approach the pirates, as he is incredibly vigilant and volatile. They discover that the dagger Yuki is searching for has been taken to [[Ishgard]], where Oboro plans to confront the pirates by chasing them to [[Dravania|the Smouldering Wastes]]. After the shinobi use a lavender incense to knock out the crew and Yuki recovers her dagger, Redway appears and holds the group hostage, taking Yuki with him as ransom. Akagi, wounded by the pirates, begs Oboro and the Warrior of alight to rescue her.
+
+Oboro and the Warrior of Light trick Redway into trying to send his sellswords to kill them, and confront him properly. Oboro, furious that Redway would kill their countrymen just to feel superior to traditional shinobi, kneels to be taken hostage to try and save Yuki's life. Akagi and the Warrior of Light chase the pirates, where Yuki, Oboro, and a vassal of the Yatsurugi family are held hostage. Captain Rosalinde kills Redway, leaving the shinobi to recover among themselves.
+
+Before Yuki can embark for Doma, she seeks Oboro out to thank him for his diligence and compassion, and for helping her realize how to trust others. She will write a letter of unity between her house and the village Oboro hails from. As she leaves, Oboro realizes the village elders will discover he is on new missions and not taking a break, and chases after her.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Character section|Final Fantasy XIV: Stormblood}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+===={{icon|ffxiv|quest|oboro's big idea}}====
+Oboro is met once more in his hideout in Eastern La Noscea, wearing a "shite-eating grin" and gleefully talking to himself about locating Karasu to obtain the stolen forbidden scroll. When he notices the Warrior of Light's arrival, he says that their visit is a gift from the heavens, as the two of them will be able to track Karasu down just like old times.
+
+Following Jacke's tip that Karasu is in the Hermit's Hovel of [[Outer La Noscea]], the two make their way across the island. He explains his plan to distract Karasu as he bathes, and have the Warrior of Light steal back the scroll as he is distracted. As the Warrior of Light finds a suitable hiding spot, Karasu exits the Hovel and finds Oboro offering peace and a bottle of Hingan rice wine. Though Karasu doesn't believe his offer of peace to be genuine, Oboro insists that if the forbidden mudra is separated by Karasu's travelling, then it may never fall into the wrong hands again. He also insists that his ninjutsu skills will never match that of Karasu's, and he knows Karasu would never risk his freedom to steal the whole scroll. Karasu is aghast that Oboro is "finally" saying intelligent things. As they partake in the wine and bathe together, the Warrior of Light steals back the scroll, and the two reconvene at [[Outer La Noscea#The Long Climb|The Long Climb]], where Oboro confirms the legitimacy of the scroll.
+
+They reunite with Jacke at the hideout, where he invites them to celebrate at the [[Limsa Lominsa#Bismarck]]. Oboro reflects on how defeating Karasu has left him with seeking a new mission. He asks the Warrior of Light what they have been doing since their last mission together, and they tell him of their time in the [[The First|First]] and confronting [[Renda-Rae]].
+
+At the Bismarck, an intoxicated Oboro tells his story of outwitting Karasu several times. Suddenly, a second Oboro appears— wearing nothing but his undergarments. He insists that the Oboro they are dining with is an imposter. The Warrior of Light says that the one in his undergarments is the real Oboro, which Jacke agrees to, that only the real Oboro would be willing to run through Limsa Lominsa almost entirely naked. The clothed Oboro reveals himself to be a shapeshifted Karasu, who transforms into a crow to escape.
+
+Jacke takes the group back to the Rogue's Guild, where he gives Oboro gaudy clothing from his closet. Oboro explains that Karasu has a higher tolerance of Hingan rice wine than he does, and Oboro only realized what had happened when he woke in the Hovel with no scroll and no clothing. Invigorated, he swears that he will capture Karasu again, and leaves the Rogue's Guild, bright clothes and all.
+
+====[[Resistance Weapon|Save the Queen - The Blades of Gunnhildr]]====
+Oboro and Tsubame arrive to assist the [[Bozjan Resistance]] by the order of the Eastern Alliance against the [[IVth Imperial Legion]]. They fight alongside the Resistance, where they assist in collecting valuable materials from Imperial forces. They pursue the Onmyoji [[Yamatsumi pyr Urabe]] and join with [[Atori Moribe]]'s forces to combat [[Gilbrisbert quo Buteo]]. Oboro assists further in the attack on the [[Dalriada]].
+
+==Characteristics==
+===Appearance===
+Oboro is a midlander [[Hyur]] with black hair, olive eyes, and a scarred face. He wears the traditional garb of a ninja, a purple-black set of chainmail, tekko, hakama and kyahan. When in his "casual disguise" clothes, he wears a purple Riveria doublet, black sarouel, and black shoes. When training, he wears nothing but black knickers. In {{icon|ffxiv|quest|oboro's big idea}}, he wears a bright pink open shirt and metallic gold Elezen-style Hempen underwear.
+
+In battle, he wields two twin daggers named Yoshimitsu, which is available to the player as a Ninja [[Relic Weapon (Final Fantasy XIV)|relic weapon]].
+
+===Personality===
+Oboro bears a generally stern countenance, but being a stranger to [[Eorzea]], he is unfamiliar with local customs. Though serious-minded, he is passionate about defending others, and would sooner give his own life than risk one of another. His reckless nature brought upon by his unwavering loyalty to others has earned him the admiration of other shinobi. Oboro struggles with romance due to his devotion to work, but he has begun to pick up on the Eorzean manner of courtship.
+
+==Gameplay==
+{{Section}}
+
+During the [[Resistance Weapon|Save The Queen]] story, Oboro and Tsubame appears in {{icon|ffxiv|duty|Zadnor}} as allied NPCs. They fight alongside the Resistance in the Skirmishes {{icon|ffxiv|fate|parts and parcel}}, {{icon|ffxiv|fate|a just pursuit}}, {{icon|ffxiv|fate|mean-spirited}}, and in {{icon|ffxiv|fate|a relic unleashed}}. They can also be seen alongside the resistance during the invasion of  {{icon|ffxiv|fate|the dalriada}}.
+
+==Behind the scenes==
+Oboro's weapon of choice is a pair of twin daggers named Yoshimitsu, named for the armorer who crafted the blades. The weapon is available for players who follow the [[Relic Weapon (Final Fantasy XIV)|Zodiac weapon storyline]] post-''A Realm Reborn''. 
+
+===Etymology===
+{{Etym|Oboro}} It also means "moonrise" when translated into Chinese as ''Long''.
+
+His family name Torioi means "bird chaser" in Japanese.
+
+==Gallery==
+<gallery>
+Oboro private cloth.png|Private cloth.
+FFXIV Oboro Training.png|Oboro's training.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ninjas]]
+[[Category:Hyurs]]

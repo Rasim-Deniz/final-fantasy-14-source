@@ -1,0 +1,70 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Radovan
+|release=FFXIV
+|japanese=ラドヴァン
+|romaji=Radovan
+|aka=Weary Swordsman, Radovan the Undaunted, Prisoner 1441
+|image=FFXIV Radovan-0.png
+|race=[[Hrothgar]]
+|gender=Male
+|height=
+|hair=Light Brown
+|eye=Blue and green
+|age=
+|home=[[Bozja]]
+|affiliation=
+|occupation=Bodyguard/Adventurer
+|type=npc
+|job={{icon|ffxiv|discipline|gunbreaker}}
+|weapon=Weathered Lion Heart
+|armor=Bodyguard's Attire
+|abilities=Demon Slice, Brutal Shell, Keen Edge, Savage Claw, Wicked Talon, Provoke, Shirk, Aurora, Solid Barrel, Final Bastion
+}}
+{{Quote|It seems my gunblade has caught your eye. You may have seen Garleans wielding something similar, but this is the genuine article.|Radovan to the Warrior of Light}}
+'''Radovan''' also known as '''Radovan the Undaunted''' is a [[Hrothgar]] non-player character in ''[[Final Fantasy XIV: Shadowbringers]]'', he appears in the [[Gunbreaker]] questline as the job mentor. 
+
+==History==
+===Early life ===
+Radovan was forced to serve the [[Garlean Empire]] as a military conscript with no other choice as his family was being held hostage. <ref>Quest: The Makings of a Gunbreaker</ref> While off in another province Radovan disobeyed a direct order and was thrown in a garlean gaol. Like many of the inmates he was fitted with a magitek shock collar, that the wardens could use anytime they pleased. <ref>Quest: For Better or Worse</ref> After sometime in confinement he was approached by [[Vitus quo Messalla]] leader of the Alaudae, who offered him a chance to be free if he worked under him. Unwilling to serve Garlemald once again Radovan refused and was tortured relentlessly leaving him with a condition of paralysis that would return to him at random times.
+
+Over the course of ten years Radovan dug a few inches every night but ended up going the wrong way and ended up in [[Sophie (Final Fantasy XIV)|Sophie's]] cell. After he broke through her wall it caused a commotion in the gaol and the two used the racket to escape. After being freed Radovan planned on returning to his family only to find out that Bozja Citadel was destroyed in the early stages of project Meteor. Unable to deal with his grief Radovan planned to end his life, only to be stopped by Sophie. With a newfound purpose Sophie and Radovan fled Garlean territory and into [[Eorzea]]. 
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:Radovan and Sophie Ul'dah Quest.png|left|thumb|Radovan and Sophie assisting an Ul'dahn client.]]
+When the Warrior of Light searches for a gang of bandits he finds them attacking Radovan and Sophie in the [[East Shroud]]. After fending them off the two introduce themselves to the [[Warrior of Light]] and Radovan asks if they would like to become a Gunbreaker. The three travel to [[Gridania]] where Radovan and Sophie can register as adventurers. After finishing a job protecting a talented singer the two travel to [[Ul'dah]], where they rescue a boy from slave traders, and then onto [[Limsa Lominsa]] to escort a prisoner. 
+
+Ending up in [[Ishgard]] the group is tasked with escorting a scientist that will help create ceruleum heaters by [[Garlond Ironworks]]. Since the one being escorted is a garlean defector he is being hunted down by the Alaudae, a group of criminal consripts that fight in the hopes of a reduced sentence. He asks Sophie to stay behind as it will be difficult protecting her and the scientist, to her she believes he's saying that she's a burden and storms off. After leaving Radovan admits that it was a ploy to have her stay out of harm's way, as he considers her to be family. The three travel to the Observatorium where the scientist will arrive by airship. Upon meeting the scientist [[Cato Mammula]], Radovan is surprised only for the group to question his reaction. He says it is nothing but is seemingly seem lost in thought. After leaving the tower the group is attacked by a group of Alaude where Radovan protects Cato from his assailants. During the fight Reese is injured and can no longer assist protecting the engineer, leaving it up to Radovan. He sets off to take Cato to Ishgard alone but secretely plans to take him to a remote location. The Warrior of Light tracks him down where he plans to execute the scientist for assisting in the Meteor Project that destroyed his homeland. The Warrior of Light convinces him not to kill him and Radovan walks off.
+[[File:Radovan Protects the WoL.png|thumb|Radovan blocks the lethal blow.]]
+After Sophie and the Warrior take Cato to Ishgard they take a job from an anonymous person in [[Coerthas Western Highlands]]. Once they meet up with him they are captured by magitek restraints and the anonymous person is revealed to be Vitus himself, who plans on executing the Warrior of Light there. Before he can however Radovan blocks the blow with his sword and frees his comrades. Vitus orders his soldiers to attack the group but Radovan uses a device to shock the soldiers, a device he had Cato make that works with their magitek collars. The commander gloats before killing his own men and declares he will face them on his own.
+
+During the fight Vitus gains the upper hand by knocking all of them to their knees and preparing his next ability, with no other options Radovan requests Sophie's assistance in forming a barrier, and with her assistance he uses Final Bastion to protect the party, and allows the Warrior of Light to finish Vitus on his own.
+
+After the battle he reveals that he knew the Alaude were going to attack the Warrior instead of Cato, as he saw them watching from afar when he pretended to want to kill Cato. He asked the scientist to construct the device to stop the Alaude and reveals that he didn't want to kill Cato, but wanted him to admit to his crimes. The party returns to Ishgard and thank Cato while congratulating the Warrior for being an outstanding Gunbreaker and that they have little to gain from joining Radovan and Sophie on assignments. He has the Warrior escort them to Revenant's Toll in hopes of attracting more adventurers into the art. 
+
+[[File:Meeting Rostik.png|left|thumb|Radovan meets Rostik.]]
+After the Warrior of Light's adventure in [[The First]], he tells the pair of their friend [[Thancred Waters|Thancred]] who became a gunbreaker. This surprises Radovan and believes that others must've survived and begins searching for his comrade. After retracing their steps, they reach Ishgard where Reese tells the group he is with Cato outside of [[Coerthas Central Highlands|Camp Dragonhead]]. Afraid that his comrade is going to kill the engineer, the group heads to Providence Point to stop him. Cato reveals to the group that he is not in danger and [[Rostik Liubasch|Rostik]] was looking for his aid in rebuilding Bozja Citadel. Rostik states he too put the past behind him and asks Radovan if he will join him in rebuilding his homeland. Sophie is saddened by this and turns away, but after Radovan declines and says he won't turn his back on family, Sophie smiles. Radovan reminds Rostik of Thancred and laughs, before bidding the group farewell.
+
+==Characteristics==
+=== Appearance===
+Radovan is a male helion Hrothgar with light brown hair and a scar on the right side of his mouth. He is outfitted with Bodyguard armor, and wields the Weathered Lion Heart in battle.
+
+===Personality===
+Radovan is a smart man, as he once served as a bodyguard in Ilsabard he can deduce any possible threats before a mission, and finds the best way to protect his charges. He is known to be very observative and tends to overshare his homelands history, much to Sophie's boredom. Since he has been through thick and thin with his partner, he considers her to be family.
+
+==Gameplay==
+Radovan appears in the solo duties [[Hired Gunblades]] and [[Steel against Steel]]. In battle he will use typical Gunbreaker abilities while also using Provoke and Shirk. In his fight against Vitus he will use a unique Gunbreaker Limit Break called Final Bastion that protects the party from harm.
+
+<gallery>
+FFXIV Meeting Radovan.png|Saving Radovan and Sophie.
+Radovan_protects_Cato.png|Radovan and Reese Protect Cato from harm.
+FFXIV Final Bastion.png|Radovan using Final Bastion.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hrothgar]]
+[[Category:Gunbreakers]]

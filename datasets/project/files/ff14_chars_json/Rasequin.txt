@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Rasequin
+|release=FFXIV
+|japanese=ラスクイン
+|romaji=Rasekuin
+|image=FFXIV Rasequin.png
+|home=[[Ishgard]]
+|affiliation=Rolanberry Field
+|occupation=Temple Knight (formerly)
+|race=[[Hyur]]
+|gender=Male
+|hair=
+|eye=
+|age=
+|type=npc
+}}
+'''Rasequin''' is a non-playable character from ''[[Final Fantasy XIV]]''.
+
+== History ==
+Rasequin, [[Gontrandoix]] and [[Pehainel]] were Temple Knights. When the [[Dravanian Horde]] descended on [[The Steps of Faith]], they suffered serious injuries and had to retire as knights. Currently, the trio helps retired soldiers find work and care for orphans.
+
+After the New Nest works are completed in the [[Firmament]], a citizen sees the trio as a suspicious group close to the children and asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] for help. The misunderstanding is cleared up and they reveal that they were just playing and preparing the meal for the orphaned children.
+
+== Characteristics ==
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

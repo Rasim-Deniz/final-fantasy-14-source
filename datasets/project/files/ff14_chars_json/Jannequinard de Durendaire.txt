@@ -1,0 +1,77 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Jannequinard de Durendaire
+|release = FFXIV
+|japanese =ジャンヌキナル・ド・デュランデル
+|aka = Jannequinard the Succedent
+|image =FFXIV Jannequinard.png 
+|race = [[Elezen]]
+|gender = Male
+|height = 
+|hair = Red
+|eye = Lavender
+|designer = 
+|age = 32
+|job = {{icon|ffxiv|discipline|astrologian}}
+|weapon = Silver Star Globe
+|armor = 
+|romaji =Jan'nukinaru do Dyuranderu 
+|affiliation = [[Ishgard#House Durendaire|House Durendaire]]
+|occupation = Astrologian
+|type=npc
+|home = [[Ishgard]]
+|lit=Jankinar de Durander
+}}
+'''Jannequinard de Durendaire''', also known as '''Jannequinard the Succedent''', is a non-playable character from ''[[Final Fantasy XIV]]''. An heir of [[High Houses of Ishgard|House Durendaire]] of [[Ishgard]], he is interested in promoting [[Sharlayan]] [[Astrologian (Final Fantasy XIV)|astrology]] despite the staunch conservatism of the Holy See (and his own incompetence).
+
+==History==
+===Early life===
+Being a younger heir to House Durendaire, Jannequinard resigned himself to modest expectations and slacked off accordingly. His only real passion was sparked when studying in [[Sharlayan]], where he met the astrologian Rufin, whose goal was to sharing the art with [[Eorzea]]ns. Even after [[Rufin]] was found dead in [[Coerthas]], Jannequinard tried to keep his dream alive and kept the man's journal.
+
+His efforts were futile. The staunchly conservative mindset in the Holy See was loathe to accept any new ideas. Ishgardian astrology for the most part was dedicated to tracking the [[Dravanian Horde]]'s movements by observing the dragon star. As Sharlayan astrology has nothing to do with that particular branch, none of his colleagues gave him the time of day, least of all his uncle, Chief Astrologian [[Forlemort]] of the Observatorium. Nevertheless, his high standing in House Durendaire ensured Jannequinard remained at his post in the Astrologicum.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] meets Jannequinard when inquiring about astrology. Jannequinard is delighted to finally have someone open-minded about his field, and asks they pay a visit to the Observatorium to learn of the whereabouts of a Sharlayan party that is late to arrive. After some convincing, Forlemort reveals the party was waylaid by pirates and had to detour through the [[Black Shroud]]. As a precaution, Jannequinard sends his retainer, [[Quimperain]], to escort them to Ishgard, and asks the Warrior of Light to meet up with him.
+
+Outside Quarrymill, the elder Professor Mace passes his soul crystal to the Warrior of Light as the stars foretold, prompting his granddaughter [[Leveva Byrde|Leveva]] to train them. As Mace was too old to effectively share his knowledge, Leveva elects to share her knowledge within the Holy See. Despite his two-decade head start, Jannequinard proves to be far less an apt pupil than the Warrior of Light, as he often shirks Leveva's training.
+
+He instead attempts to arrange for a symposium for Leveva to speak on Sharlayan astrology, something that goes nowhere. The Vault caves in and places it in Falcon's Nest, where no one shows up. Their efforts to demonstrate astrology's healing potential on knights and convictors eventually prompts the hunters of Tailfeather to seek their aid, and Jannequinard allows them to support the knights attempting to drive out beasts from the abandoned village of Hemlock. They meet [[Sevestre Albright|Sevestre]] there, the man attempting to get Leveva extradited back to the Old World.
+
+Jannequinard soon realizes Leveva is the daughter of his old friend Rufin, and later gives her his diary. From it, she learns of Sevestre's hand in Rufin's death. After besting the time mage in the abandoned colony, Leveva coerces him into silence with the incriminating evidence contained in her father's journal.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Character section|Final Fantasy XIV: Stormblood}}
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+Upon the Warrior of Light's return from the [[The First|First]], Jannequinard greets them with the information his most recent card reading informed him of a "dangerous wind from the east". Soon after, [[Kyokuho Moribe]] arrives on a visit back to Ishgard, and is visibly distressed, as he wonders if Leveva is pursuing someone romantically, as according to his own card reading, Leveva was in love.
+
+After the following Leveva and finding her (allegedly) staring wistfully out into the snow-covered city of Ishgard, Kyokuho drops to his knees in despair. Jannequinard finds him on the floor and says there is no need to kneel in his presence. As Jannequinard and Kyokuho leave to further plan, Leveva finds the Warrior of Light to inform them she knew they were watching. The two return to the Atheneaum, where she scolds both Kyokuho and Jannequinard for making assumptions about her love life, as she declares herself married to astrology. As Kyokuho falls to his knees in despair once more, Jannequinard makes the belated epiphany that Kyokuho was the dark wind from the east coming to visit him.{{cite|FFXIV|{{icon|ffxiv|quest|Love, Astrologically}}|name=ast80}}
+
+== Characteristics ==
+=== Appearance ===
+Jannequinard is a Wildwood [[Elezen]] noble with dark skin, lavender eyes, and dark red hair. He wears a monocle on his right eye, a blue and white Halonic alb, and dyed versions of the sleeves, pants, and shoes of Astrologian's Level 60 gear. In battle, he uses a silver star globe.
+
+=== Personality ===
+Jannequinard is a talkative individual who loves the sound of his own voice. He is polite in most company, though often talks over others and occasionally loses the point of conversation. While he has a genuine interest in Sharlayan astrology, he doesn't retain much information taught to him — such as taking fifteen years to open more than one seal of the heavens, whereas the Warrior of Light accomplishes this in less than a fortnight. He is seen as being very late for lessons as well, where he leaves several children in the Firmament waiting for him for several (both in-game and out of game) hours.
+
+He is very flirtatious, and is mentioned to have many relationships with various nobles across Ishgard. He holds immense respect for [[Leveva Byrde]], yet emphasizes that she is far too young for him to pursue any romantic relationship.
+
+===Abilities===
+Jannequinard has a very basic grasp of astrology despite over fifteen years of alleged experience. His understanding is limited to understanding terms and names, but not their purposes or capabilities. In combat, he will prioritize combat spells, often leaving healing to the player or other characters in combat.
+
+One of Jannequinard's favorite past times is fishing, and once owned a pair of gold fishing goggles encrusted with jewels.{{cite|FFXIV|{{icon|ffxiv|levequest|The Goggles, They Do Naught}}.}}
+
+== Gallery ==
+<gallery>
+FFXIV Jannequinard Quimperain.png|Jannequinard with Quimperain at [[Coerthas Western Highlands|the Convictory]]
+FFXIV Jann Teaching.png|Jannequinard teaching astromancy to kids in the Firmament
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Astrologians]]
+[[Category:Elezens]]

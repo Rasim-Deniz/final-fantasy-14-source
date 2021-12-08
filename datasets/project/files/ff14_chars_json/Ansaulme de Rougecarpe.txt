@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Ansaulme de Rougecarpe
+|release=FFXIV
+|japanese=アンソールム
+|romaji=Ansōrumu
+|image=FFXIV Ansaulme de Rougecarpe.png
+|race=[[Elezen]]
+|gender=Male
+|affiliation=House Rougecarpe
+|age=
+|hair=Blond
+|eye=Sea-green
+|home=[[Ishgard]]
+|type=npc
+|job={{icon|ffxiv|discipline|fisher}}
+}}
+'''Ansaulme de Rougecarpe''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the main character in the [[fisher]] questline during the ''[[Final Fantasy XIV: Heavensward|Heavensward]]'' expansion.
+
+== History ==
+===Early life===
+Ansaulme is the first-born son of House Rougecarpe. Ansaulme left his home to travel the world, and when his father died, Ansaume's younger brother took over the business of the house due to his absence. However, he is still the rightful heir to his family’s name, as he possesses the ring bearing his family's crest, given to the firstborn. 
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+When Ansaulme visits his old friend, [[Wawalago Momolago]] in [[Limsa Lominsa]], Ansaulme briefly ends up losing his fishing rod. At [[Sisipu Sipu|Sisipu]]'s request, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] returns the rod to Ansaulme. Wawalago tells the achievements of the Warrior of Light to Ansaulme who is fascinated and invites the Warrior to visit his homeland, [[Ishgard]].
+
+Once in Ishgard, Ansaulme directs the Warrior of Light to several fishing holes in the region in search of rare fish. During the journey, they meet the current chief of House Rougecarpe who tells them about the current tyrannical regent. Ansaulme promises to end his brother's reign of terror, finally accepting his inheritance.
+
+[[Reyna Breakhook]]—a friend of Ansaulme's—meets Ansaulme and reveals that Ansaulme's brother asked her to murder him and that he also plans to destroy House Rougecarpe's ancient fishing holes. Ansaulme is relieved that his brother's wrath is directed at him and not at their house’s servants, but his decision to expel his brother due to fishing holes hardens.
+
+To reclaim his title, Ansaulme would need to prove his identity, and the only way to do that is to present the Rougecarpe Ring, an old treasure of his house passed from father to son since time immemorial. Unfortunately, Ansaulme accidentally lost this ring in the [[Sea of Clouds]], where it was swallowed by a passing cloudfish. Ansaulme asks the Warrior of Light to ask his moogle friend, [[Mogukk]], if he heard word of a ring being found in a fish.
+
+Mogukk reveals that it was he who caught the fish that swallowed the ring. Unfortunately, he lost the ring in a bet with a local [[Vanu Vanu]] fisherman. Ansaulme with the help of the Warrior of Light find the Vanu Vanu on a floating island, but unfortunately the ring was once again swallowed by a ferocious fish. After the fish is hooked and the Warrior of Light recovers the ring, Ansaulme can finally take over his inheritance and protect his people, and his fish.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Ansaulme meets with Wawalago to report that it was not possible to determine anomalies from the specimens that the Warrior of Light fished. Wawalago then assumes that this can only mean that the problem can be attributed to his spawning sites, Ansaulme is impressed by his deductive powers, encouraging Wawalago to travel to the Far East to investigate for himself. Subsequently, Ansaulme takes time out of his struggle for succession to witness the realization of a great fishing festival that would hunt predators and solve the problem in the spawning grounds.
+
+==Characteristics==
+===Appearance===
+Ansaulme is a Wildwood [[Elezen]] with blond hair and dark sea green eyes. He has a short beard across his chin, and wears a brown feathered fisherman's cap. He wears  gathering gear consisting of a white long sleeved shirt beneath a green vest, overlaid with another light blue vest, and a white cloth shawl around his shoulders. He wears a brown shoulder pouch that carries his fishing bait, and beige trousers with tall beige thigh-high boots. He wears blue fingerless gloves and carries his fishing pole.
+
+===Personality===
+Ansaulme is an eager fisherman, thrilled to share the tricks and secrets he’s learned when it comes to fishing. He has a passion for all things nature, and gets along best with other fishers. He has lots of sympathy for those being mistreated, especially by those he calls family — he is furious to hear about his brother making the lives of others miserable.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Fishers]]

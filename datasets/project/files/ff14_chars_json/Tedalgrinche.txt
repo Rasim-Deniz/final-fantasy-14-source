@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tedalgrinche 
+|release=FFXIV
+|japanese=テダルグランシュ
+|romaji=Tedaruguranshu
+|lit=Tedalgransh
+|aka=The Pale Knight of Ishgard
+|image=FFXIV Tedalgrinche.png
+|home=
+|age=Mid 30s
+|affiliation=[[High Houses of Ishgard#House Dzemael|House Dzemael]]
+|occupation=Knight of House Dzemael
+|race=[[Elezen]]
+|gender=Male
+|hair=Blond
+|eye=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=
+|armor=
+}}
+'''Tedalgrinche''' is a non-playable character in ''[[Final Fantasy XIV: Heavensward]]''. He is a knight of [[High Houses of Ishgard#House Dzemael|House Dzemael]], and recurring antagonist in the [[Machinist (Final Fantasy XIV)|Machinist]] storyline and is also speculated to lead a secret double life as the Pale Knight of Ishgard, otherwise known as Heleon de Molay.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Lord Tedalgrinche first appears in the quests "Securing the Locks" when the machinists succeed in driving off Svara from Skyfire Locks, issuing a challenge to [[Stephanivien de Haillenarte|Stephanivien]] to participate in an upcoming tourney. An unscrupulous knight, Tedalgrinche hires thugs to harass and vandalize Skysteel Manufactory. Despite this, the Warrior of Light and other machinists manage to succeed in the tourney during the quest "The Power of a Tourney."
+
+While this firmly ensured [[Baurendouin de Haillenarte|Count Baurendouin's]] trust in his son's work, Tedalgrinche would not let up on his feud. He holds Joye's father hostage so she would follow into an arranged marriage with a worker at Falcon's Nest; The guard he posted was easily intimidated into abandoning post, allowing her father to convince her to return to the Manufactory. He then resorts to accusing Stephanivien of arming civilians into insurrection, and makes sure to sidestep attempts to prove his wrong-doing. Tedalgrinche informs them the charges will be dropped only by a trial by combat against the dragon Veri Seren, an elusive vouivre who has been plaguing trade routes recently.
+
+On the day of the trial in the [[Coerthas Western Highlands]], an unexpected turn of events leads to the machinists defending Tedalgrinche and an attending priest from Veri Seren and his host. After a long battle, the dragon is defeated, and Tedalgrinche begrudgingly accepts the machinists valor, promising not to interfere with the Skysteel Manufactory any longer.
+
+==Characteristics==
+===Appearance===
+Lord Tedalgrince stands tall amongst many of the other Elezen within the Holy See of Ishgard and shares the similar quality of long outwards poking ears. The play will see the man carrying medium to long flicking hair in a sun-yellow blond, accompanied by a pair of turquoise eyes. The model is adorned in the standard chain mail armour model in House Dzemael colours.
+
+===Personality===
+The elezen is often coming across as the utmost worst stereotype that Ishgard would come to offer as he is consistently making crude remarks and upholding an utter disregard for the lives of others. This however has been the personality found in almost all those who are involved with House Dzemael adding to their condition of deception and villainy.
+
+Interestingly enough his personality is nearly identical to the character Ser Heleon de Molay, while both also share a similar appearance which has lead to the speculation and online fanaticism that these characters are in fact the same person as they are never seen in the same quest or zone. Square Enix have yet to confirm this theory.
+
+{{Character section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Paladins]]

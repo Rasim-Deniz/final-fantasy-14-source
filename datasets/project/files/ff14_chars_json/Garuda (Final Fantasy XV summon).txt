@@ -1,0 +1,83 @@
+{{sideicon|prime=FFXV|FFXIV}}
+{{DISPLAYTITLE:Garuda (''Final Fantasy XV'' summon)}}
+{{infobox summon
+|name=Garuda
+|japanese=ガルーダ
+|romaji=Garūda
+|release=FFXV
+|aka=Messenger of the Winds {{J|風の御使|Kaze no Mitsukai}},<!--in desc when acquiring the summon--> Messenger {{J|二十四使|Nijūyonshi}}<!--called just Messenger in the dialogue-->
+|image=FFXIV-XV_Garuda_Full_Appearance.png
+|race=[[Messenger]]
+|gender=Female
+|summoners=[[Noctis Lucis Caelum]]
+|acquired=[[Adventurer from Another World]]
+|summonabilities=Call of the Crosswinds {{J|風の八衢|Kaze no Yachimata}}
+|recurring appearance=Garuda (summon)
+|japaneseva=Sayaka Ohara
+|englishva=[[Julia McIlvaine]]
+}}
+{{Quote|O Chosen King... Follow my voice and repel the fiend of the wicked winds!|Messenger}}
+'''Garuda''' is a special summon for [[Noctis (Final Fantasy XV party member)|Noctis]] introduced in [[Final Fantasy XV patches|patch 1.27]] as a reward for those who complete the ''[[Final Fantasy XIV]]'' collaboration quest [[Adventurer from Another World]]. As part of the collaboration the ''Final Fantasy XIV'' counterpart of Garuda [[Garuda (Final Fantasy XV boss)|appears as a boss]]. She is the only summon in ''Final Fantasy XV'' who is not an [[Astral]].
+
+==Profile==
+Garuda is a birdlike humanoid creature with dark skin and brown feathers around her head and collar with longer red-tipped plumes at the back. She wears a silver headgear that covers the upper half of her face and gives her the appearance of a bird's peak and large pink round bird's eyes. Her lips are green and gold and the lower half of her body has a reptilian look with scales. Her hands have talons like those of a bird of prey and her feet have a pointed claw, which combined with the {{w|dewclaw}} at the back gives the appearance of a high-heeled shoe.
+
+She has numerous sets of ornamental wings, which are not feathered, and appear for decoration rather than for flight: the middle of her back has the wings of a bird whose filigree patterns imitate the shape of feathers. She also has wings like those of a butterfly's extending from her lower back right below the bird's wings, above what looks like an ornamental bird tail. Her ankles have small butterfly wing attachments at the back. Her bare chest has white markings in the shape of wings and she wears a loincloth and knee guards in the style and color of her headgear. The Messengers are depicted with [[angel]] wings in an illustration in [[Cosmogony]], but Garuda is the only known Messenger to actually have wings.
+
+She communicates telepathically with Noctis with an ethereal voice that no one else hears, similar to how [[Shiva (Final Fantasy XV)|Gentiana]] communicated with him during [[Ramuh (Final Fantasy XV)|Ramuh's]] Trial.
+
+==Story==
+{{spoiler}}
+{{Quote|I am a Messenger of the will of the gods. I was defeated by the gods and awakened by a traveler from another world. Over my long slumber, my name has been forgotten. I shall therefore take on the name of the goddess of storms. Henceforth, I am Garuda. Together with the gods, I shall bring the winds of dawn to your era of twilight.|Garuda}}
+[[File:Messenger Garuda statue in FFXV.png|thumb|Statue of the Messenger of the Winds.]]
+[[Niflheim]] has a statue of Garuda fenced off in the abandoned [[Perpetouss Keep]]. According to a note found at the keep, the base captain had brought the statue in, but some people who worked there had deemed it "junk" and had wanted to dispose of it.<!--Oversize Refuse Collection Request--> [[Ignis Scientia]] calls it an artistic interpretation of the emissary of the winds, and that the only tomes that mention her are of dubious origin, no one sure if she ever existed. [[Prompto Argentum]] comments that Niflheim must believe she did as they have been researching the statue. [[Y'jhimei]] says there is a strange power slumbering within it, but they don't have the time to look into the statue further as the [[Ixal]] who have taken over Perpetouss Keep are going to summon a [[primal]].
+
+The statue comes to life during Noctis's fight with the [[Garuda (Final Fantasy XIV)|''Final Fantasy XIV'' primal version of Garuda]]. The emissary of the winds communicates with him telepathically, saying he can summon her to deal the final blow. After doing this, she speaks with him again, describing herself as an ancient [[Messenger]] of the Astrals who was awakened from her slumber by a traveler from another world. Her true name has been lost to history, so she takes on the name of "Garuda" and vows to use her powers to aid Noctis as the [[True King]].
+{{Endspoiler}}
+
+==Battle==
+[[File:Final Fantasy XV - NEW Summon Garuda (FF15 New Summoning) PS4 Pro|thumb|right|335 px]]
+{{Quote|Noctis acquired the Mark of the Vortex, a symbol of the ancient Messenger's favor. Noctis can now summon the ancient Messenger of the Winds. Press and hold {{button|ps|L2}} when the button is displayed in battle.|Description}}
+After the collaboration quest is completed, Noctis is given the [[Final Fantasy XV key items#Mark of the Vortex|Mark of the Vortex]] to summon her. Her signature attack is Call of the Crosswinds that envelops the battlefield in a tornado.
+
+Summoning conditions:
+*According to a tweet by Square Enix,<ref name="twitter">{{Refwebsite| page url = https://twitter.com/FFXVJP/status/1075311523436756992| page name = Final Fantasy XV Official Japanese Twitter on Garuda's summon conditions| site url = https://twitter.com/FFXVJP| site name = @FFXVJP on Twitter| access time = 21:56, December 24, 2018 (UTC)}}</ref> Garuda is summoned when [[Noctis (Final Fantasy XV party member)|Noctis]] is in [[Final Fantasy XV statuses|Danger]] state while [[Gladiolus (Final Fantasy XV party member)|Gladiolus]], [[Ignis (Final Fantasy XV party member)|Ignis]] and [[Prompto (Final Fantasy XV party member)|Prompto]] are not in Danger or incapacitated. However, this appears to not be true, with players reporting summoning her even when not in Danger.<ref>https://www.youtube.com/watch?v=6PNy_JNWnIM</ref>
+*Chance of summoning Garuda is boosted when wielding a weapon obtained from [[Y'jhimei]]'s trading post or the ''Final Fantasy XIV'' [[attire]].<ref name=twitter/>
+*Garuda can be summoned once an in-game 24hr period.
+*Garuda can be summoned almost anywhere summoning is enabled, including dungeons.
+
+The summoning conditions are alluded to in the [[Final Fantasy XV key items|key item]] description to the Mark of the Vortex: ''Proof that Noctis has received the blessing of Garuda. Once per day, she can lend him her strength when he finds himself in danger.''
+{{clear}}
+
+==Other appearances==
+===''[[Final Fantasy XIV]]''===
+[[File:FFXIV_Garuda_FFXV.jpg|thumb|Garuda from Eos.]]
+Garuda the Messenger from Eos appears as a boss in the quest [[Messenger of the Winds]], as part of the [[A Nocturne for Heroes]] event.
+{{clear}}
+
+==Behind the scenes==
+At the end of "Adventurer from Another World", Garuda claims that she was 'defeated by the gods,' and that her name 'has been forgotten.' Notes in ''[[Final Fantasy XV: Episode Ardyn]]'' posit that during the [[War of the Astrals]], the Messengers fought alongside their respective Astrals, with those who served [[Ifrit (Final Fantasy XV)|Ifrit]] erased from history in the aftermath.<ref>[[Archives (Episode Ardyn)|Archives]] in ''Episode Ardyn'':<br/>Chief Besithia's Journal | The Messengers<br/>M.E. 716-V-2nd<br/>While few written records referencing the Divine Host of Messengers remain, our excavatory expedition to Taelpar Crag has uncovered some interesting information via word-of-mouth while investigating the surrounding area. Based on what we've learned, the demigods fought alongside the deities they served in the War of the Astrals, with the followers of the traitorous Infernian being all from erased from the annals of history after suffering defeat at the hands of the other gods. Little else is known about the Messengers, but I'm determined to discover more about these fascinating creatures.</ref>
+
+===Voice===
+Garuda is voiced by Sayaka Ohara in Japanese and by Julia McIlvaine in English, who is the wife of [[Ray Chase]], Noctis's voice actor.<ref>{{Refwebsite| page url = https://twitter.com/RayChase/status/1073330122608959489| page name = Tweet by Ray Chase| site url = https://twitter.com/RayChase| site name = Ray Chase's Twitter| access time = 16:51, December 15, 2018 (UTC)}}</ref>
+
+==Gallery==
+<gallery>
+FFXIV-XV_Garuda.png|Close Up.
+FFXIV-XV_Garuda_smirk.png|Garuda smirk.
+FFXIV-XV_Garuda_Call_Of_The_Crosswinds.png|Call Of The Crosswinds.
+|''Final Fantasy XIV'' version of Garuda in the collaboration event.
+</gallery>
+
+==Etymology==
+{{etym|Garuda}}
+
+==References==
+{{citations}}
+
+{{navbox FFXV}}
+
+[[ru:Гаруда (Final Fantasy XV)]]
+[[Category:Summons]]
+[[Category:Messengers]]
+[[Category:Final Fantasy XV]]

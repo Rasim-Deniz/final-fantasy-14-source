@@ -1,0 +1,134 @@
+{{sideicon|FFV|FFVI|FFIX|FFXI|FFXII|XIIRW|XIII2|prime=FFXIV|FFXV|Type0|TFF|TFFCC|PFF|FFRK|FFTCG|ChocoME}}
+[[File:Enkidu-ffvi-ios.png|right|Sprite of Enkidu in ''Final Fantasy VI'' (iOS).]]
+{{Quote|Gilgamesh's partner Enkidu often comes to his master's aid, healing him or offering other support, even across dimensions. His appearance may change, but whether he be man or dog, his loyalty never wavers.|''[[Theatrhythm Final Fantasy]]'' [[CollectaCard]] description.}}
+'''Enkidu''' {{J|エンキドゥ|Enkidu}}, sometimes known as '''Enkido''', is the recurring partner of [[Gilgamesh (character)|Gilgamesh]], appearing in various ''[[Final Fantasy series|Final Fantasy]]'' titles. He has taken many different forms from a canine to a winged demon, but retains the same green color palette.
+
+==Appearances==
+===''[[Final Fantasy V]]''===
+[[File:Abductor-ffv.gif|right]]
+{{main|Enkidu (Final Fantasy V)}}
+Enkidu is one of the [[Abductor]] enemies that fights alongside [[Gilgamesh (Final Fantasy V boss)|Gilgamesh]] in a battle against him.
+{{clear}}
+
+===''[[Final Fantasy VI]]''===
+{{See|Gilgamesh (character)#Final Fantasy VI}}
+[[File:FFVI Android Gilgamesh Magicite - Enkidu.png|thumb|Enkidu being summoned (Android).]]
+Enkidu appears in the [[Finest Fantasy for Advance|GBA port]] and succeeding versions, as one of four possible attacks when [[Gilgamesh (Final Fantasy VI)|Gilgamesh]] is summoned. It deals the most damage out of the four attacks, having a Spell Power of 200 and ignoring target's defense. After all three swords have dropped onto the battlefield, and if Gilgamesh uses this attack, all swords will glow in their associated colors before Enkidu attacks the enemy party. Enkidu has the same sprite that he had in ''Final Fantasy V''.
+
+<gallery>
+EnkiduFFVI.png|Enkidu being summoned (GBA).
+</gallery>
+{{clear}}
+
+===''[[Final Fantasy IX]]''===
+[[File:Enkido's-message-FFIX.JPG|thumb|Enkido's message.]]
+Although Enkidu is never seen, there is a message left for [[Gilgamesh (Final Fantasy IX)|Gilgamesh]] regarding the [[Excalibur II]] and the [[Excalipoor (weapon)|Excalipur]] in [[Memoria (Final Fantasy IX)|Memoria]] by someone named Enkido:
+
+{{Quote|To Brother Gil - Bro, I found the sword, like you told me. But there were two. One of 'em had a lame name, Something II. It was a dingy, old thing with flashy decorations, something you'd probably like. So I went with Excalipur. I'll be back after I find the Tin Armor.|Enkido}}
+{{clear}}
+
+===''[[Final Fantasy XI]]''===
+Enkidu is a member of the [[Golem (Final Fantasy XI)|Golem]] genus found on the floating island of [[Tu'Lia]]. This is the only instance where Enkidu is not in some way related to [[Gilgamesh (Final Fantasy XI)|Gilgamesh]].
+
+===''[[Final Fantasy XII]]''===
+[[File:XII enkidu render.png|right|150px|Enkidu.]]
+[[Enkidu (Final Fantasy XII)|Enkidu]] is a dog-like pet of [[Gilgamesh (Final Fantasy XII)|Gilgamesh]], who appears as an [[Hunt (Final Fantasy XII)#Elite Marks|Elite Mark]]. He is fought in both battles against him.
+
+====''[[Final Fantasy XII: Revenant Wings]]''====
+[[File:Rockwolf.png|right]]
+[[Enkidu (Revenant Wings)|Enkidus]] are the names of the [[Rock Wolf|Rock Wolves]] [[Gilgamesh (Revenant Wings)|Gilgamesh]] calls to his side at the [[Gates of Shattered Time]].
+
+===''[[Final Fantasy XIII-2]]''===
+[[File:Bashosen-artwork-ffxiii-2.png|right|80px]]
+Although he doesn't appear in person, one of the swords [[Gilgamesh (Final Fantasy XIII-2)|Gilgamesh]] wields, the Bashosen, is modeled after Enkidu's design in ''Final Fantasy V''. ''[[Final Fantasy XIII-2 Ultimania Omega]]'' reveals that Gilgamesh had it custom-made while he was a weapons craftsman in [[Cocoon (Final Fantasy XIII)|Cocoon]], referring to his [[Retail Network]] shop in ''[[Final Fantasy XIII]]''.
+{{clear}}
+
+===''[[Final Fantasy XIV]]''===
+A chicken named Enkidu is introduced with [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]] in the second part of the [[Hildibrand Manderville|Inspector Hildibrand]] series of sidequests, added in patch 2.2. Gilgamesh reveals that this isn't the true Enkidu, but simply a rooster he painted green to remind him of his former companion out of loneliness. When the party fights Gilgamesh for the first time, several green chickens roam the battlefield and chase any players that Gilgamesh transforms into toads, causing minor damage. Enkidu and Gilgamesh flee upon defeat by jumping off the bridge at Griffin Crossing in [[Ishgard]].
+
+What looks to be the "real" Enkidu appears as a boss in the Hildibrand sidequests for patch 2.5, resembling the original design from ''Final Fantasy V'', though now referred to as female. She is inadvertently summoned to [[Eorzea]] in the same manner as a [[primal]] when Gilgamesh prays to be reunited with her while in the vicinity of numerous Fire Crystals. She fights alongside Gilgamesh in the instanced trial "Battle in the Big Keep", but is defeated by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Once the pair is defeated, it is possible for the player to receive the rooster version of Enkidu as a [[Minion (Final Fantasy XIV)|minion]].
+<gallery>
+FFXIV Enkidu Minion Patch.png|Enkidu the chicken.
+Primal Enkidu.png|Enkidu the primal
+</gallery>
+{{clear}}
+
+===''[[Final Fantasy XV]]''===
+[[File:Enkidu-Gladiolus-DLC-FFXV.png|Enkidu.|thumb]]
+{{Main|Enkidu (Final Fantasy XV)}}
+Enkidu is a boss in ''[[Final Fantasy XV: Episode Gladiolus]]'' DLC. It is a winged monster fought on a bridge. If the player successfully parries and counterattacks, they can ride on top of it.
+
+According to the ''Final Fantasy XV: Episode Carbuncle'' Comic 13, one theory for the origin of the [[Shield of the King]]'s bird [[Tattoo (body modification)|tattoo]] is to honor Enkidu, a close companion of [[Gilgamesh (Final Fantasy XV)|Gilgamesh]], the first [[Shield of the King]].<ref>{{Refwebsite| page url = https://www.famitsu.com/matome/ff15/EPC_13.html| page name = 『FINAL FANTASY XV エピソード カーバンクル』第13話| site url = https://www.famitsu.com| site name = Famitsu| access time = 20:02, January 16, 2019 (UTC)}}</ref> [[Verstael Besithia]] once sent a team to explore the [[Taelpar Crag]] where they came across Enkidu, defending the gorge from outsiders.<!--journals in Ep Ardyn-->
+{{clear}}
+
+===''[[Final Fantasy Type-0]]''===
+[[File:Enkidu-type0-psp-model.png|right|100px|Enkidu.]]
+Enkidu is [[Gilgamesh Ashur]]'s companion. The two having known each other since their youth. Enkidu serves as a guide and a royal adviser for Gilgamesh, who is the [[Royalty|king]] of the [[Lorican Alliance]]. Enkidu is 240 cm tall.
+
+According to [[Rubicus]], Enkidu was almost banished from his homeland as the result of his daughter having become pregnant with [[Ryid Uruk]], but Gilgamesh detained him and made him his adviser. Enkidu died in 832 at the age of 58, protecting Gilgamesh during a ''coup d'état''.
+
+[[File:FFT0 Enkidu.png|left|130px|Concept art.]]
+''Final Fantasy Type-0'' is the only installment that acknowledges Gilgamesh's childhood. Some fans believe that after being banished to [[The Void (term)|the rift]], Gilgamesh began acquiring "faithful sidekicks" that he'd name Enkidu in memory of his childhood friend.
+
+In ''[[Final Fantasy Awakening]]'' where he is playable alongside Gilgamesh, Enkidu fights with knuckles similar to [[Eight]]. Unlike Eight, Enkidu focuses more on punches and uppercuts, similar to a boxing fighting style, and brute force where he quickly tackles his opponent as part of his special skill. The player may struggle to defeat him due to his higher defense, endurance and durability. Like [[Jack (Type-0)|Jack]], his strongest skill unleashes projectiles in his chest while in mid-air to damage all enemies, but also drains his enemies' HP and appears stronger in terms of draining the opponents' health. He is immune to freezing when either a mage or [[Caetuna]] hit him with freeze magic. Enkidu can be used in later chapters, and is an enemy during Enemy Invasion and the Samsara Realm. 
+
+In the Augite System, Enkidu has his other form, [[Stars (Awakening)|Stars]]. It shows a scene where Enkidu beats his enemies to see the [[Azure Dragon Crystal]], which transforms him and demonstrates his powers.
+
+In the Japanese version, Enkidu is voiced by Hiroshi Shirokuma. In the English version, he is voiced by [[wikipedia:Liam O'Brien|Liam O'Brien]]. In both versions, he shares his voice actor with [[Caius Ballad|Caius]] from ''[[Final Fantasy XIII-2]]'' and ''[[Lightning Returns: Final Fantasy XIII]]''.
+{{clear}}
+
+===''[[Theatrhythm Final Fantasy]]''===
+[[File:Theatrhythm Enkidu.png|right|100px]]
+Enkidu returns with his original appearance as a boss monster. He is often fought during "[[Battle at the Big Bridge]]", although he can appear at random in other [[Battle Music Sequence]]s (BMS).
+{{clear}}
+
+====''[[Theatrhythm Final Fantasy Curtain Call]]''====
+Enkidu appears as an enemy in [[Battle Music Sequence]]s.
+
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Record Keeper]]''===
+<gallery>
+FFRK Gilgamesh & Enkidu FFV.png|''FFV'' boss sprite.
+FFRK Ultimate Gilgamesh & Enkidu FFXII.png|''FFXII'' boss sprite.
+FFRK_Enkidu_FFXV.png|''FFXV'' boss sprite.
+</gallery>
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear|left}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:Enkidu2 TCG.png|right|100px]]
+Enkidu from ''Final Fantasy Type-0'' appears on a card. His card is is earth-elemental because the Enkidu-Gilgamesh duo is associated with the [[Black Tortoise Crystal]] in ''Final Fantasy Type-0'', a [[Crystal (Type series)|Crystal]] reminiscent of the traditional [[Earth Crystal (term)|Earth Crystal]].
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Enkidu appears on Triple Triad cards in the version playable via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+085a Enkidu.png|Enkidu from ''Final Fantasy V''.
+384a Gilgamesh & Enkid.png|Enkidu with Gilgamesh from ''Final Fantasy XIV''.
+</gallery>
+
+===''[[Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha]]''===
+Enkidu is a human character in "The Wolf that Fell in Love", a guard with a golden armor who lives in Barnad. It is unknown if he helps Gilgamesh due to the missing translations. He seems like a friend of [[Volg]].
+
+He is fought twice: the first being in earlier pages and the last, almost near the end.
+
+When Gilgamesh forces [[Irma|Princess Irma]] to marry him and Volg and [[Chocobo (Chocobo series)|Chocobo]] interfere in the ceremony, as the room is set on fire, Enkidu appears but is crushed by a boulder that had fallen from the ceiling. When Gilgamesh is fought, Volg proclaims that he wouldn't let Enkidu's death in vain.
+{{clear}}
+
+==Etymology==
+{{Etym|Enkidu}}
+
+==References==
+{{citations}}
+
+{{navbox enemies}}
+
+
+[[de:Enkidu]]
+[[Category:Gilgamesh]]
+[[Category:Primals in Final Fantasy XIV]]
+[[Category:Unseen characters]]
+[[Category:Recurring enemies]]

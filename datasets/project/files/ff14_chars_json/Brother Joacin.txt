@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Joacin
+|release=FFXIV
+|japanese=ジョアシャン
+|romaji=Joashan
+|image=FFXIV Joacin.png
+|race=[[Elezen]]
+|gender=Male
+|age=
+|home=[[Gridania]]
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|affiliation=[[Stillglade Fane]]
+|occupation=[[Stillglade Fane|Hearer]]
+}}
+
+'''Brother Joacin''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a Hearer who appears during [[White Mage (Final Fantasy XIV)|Conjurer]] questline.
+
+==History==
+Joacin instructs [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] on the element of [[Water (element)|water]]. During the lessons, a [[Wood Wailers|Wood Wailer]] brings word of an attack by a herd of antelope stags and Joacin orders Warrior of Light to hurry to Josselin's Spire to help the wounded soldiers.
+
+[[Nolanel]], Joacin and [[Wulfiue]] are sent to purify a powerful disturbance discovered in [[South Shroud]]. [[Sylphie Webb|Sylphie]] becomes convinced that the conjuration itself is to blame for inciting nature's wrath. Fearing that the group of Heares are further angering the Twelveswood, Sylphie goes out to try to stop them. To Sylphie's surprise, they receive the help of the [[Elementals (Final Fantasy XIV)|elementals]] to succeed in clearing the massive manifestation of corrupted earth.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{section}}
+
+==Gameplay==
+Brother Joacin is an ally npc during the conjurer quest {{icon|ffxiv|quest|Like Mother, Like Daughter}}.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:White Mages]]

@@ -1,0 +1,76 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Nabriales
+|release=FFXIV
+|japanese=アシエン・ナプリアレス
+|romaji=Ashien Napuriaresu
+|lit=Ascian Napriales
+|image=FFXIV Nabriales 01.png
+|home=
+|affiliation=
+|race=[[Ascian]]
+|gender=Male
+|type=npc
+|japanese voice actor=[[wikipedia:Masumi Yoshida|Masumi Yoshida]] 
+|english voice actor=[[Gideon Emery]]
+}}
+{{Quote|Unlike the others, I am not given to waiting. I shall take that staff and bring about the next Rejoining.|Nabriales}}
+'''Nabriales''' is a character from ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. He is one of the [[Ascian]]s introduced during the epilogue of 2.0's story arc, and later appears in Patch 2.5 as an antagonist seeking [[Tupsimati|Louisoix's staff]].
+
+==History==
+{{Quote|'Tis not a question of whether Eorzea's champion shall yield, but of when.|Nabriales}}
+Nabriales, along with many other Ascians, join Lahabrea in a dark environment that obscures their faces in shadow. They comment how [[Bahamut (Final Fantasy XIV)|Bahamut]] has been stirring again after the fall of the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], and that the other [[primal]]s will soon follow as the Reckoning comes.
+
+<!--At the conclusion of Patch 2.1's story arc,-->Nabriales later questions Elidibus's intentions for approaching Minfilia and the Warrior of Light, as he does not share Elidibus's interest in how these mortals have grown powerful in [[Echo (Final Fantasy XIV)|the gift]].
+
+<!--In 2.3,-->Nabriales and the other Ascians meet after [[Ramuh (Final Fantasy XIV)|Ramuh]] yields to the Warrior of Light. He is later seen masked (though initially unnamed) commenting on Iceheart withdrawing after being defeated in the form of [[Shiva (Final Fantasy XIV)|Shiva]], and noting Lahabrea "will be pleased" (to his chagrin).
+
+[[File:Beamoflightnabriales.png|thumb|The Adventurer casts a beam of light on Nabriales using the Tupsimati.]]
+During the events of ''Before the Fall'', Nabriales confronts the Warrior of Light and [[Moenbryda]] in Northern Thanalan, sensing that the Warrior is no longer blessed by [[Hydaelyn (character)|Hydaelyn's]] (due to [[Midgardsormr (Final Fantasy XIV)|Midgardsormr's]] actions), and therefore no longer a threat to the Ascians. As Hydaelyn's Blessing also kept the Ascians from attacking the [[Scions of the Seventh Dawn]] directly, Nabriales decides to go to The Rising Stone where he wounds Moenbryda when she attempts to strike him down. Nabriales reveals his intention to use the stone tablet fragment embedded in [[Tupsimati]] and begin the next [[Umbral Calamity]].
+{{Quote|What!? Nooo! It...it cannot end! I am eternal! I am immortaaaaaal!|Nabriales before being destroyed}}
+Since Minfilia refused to relinquish the item, and knowing Elidibus would be furious, Nabriales simply spirits away her and the staff to the Chrysalis in the Aetherial Rift. Following him into the portal, the Warrior of Light defeats Nabriales and returns Minfilia to the Rising Stones. Nabriales follows, reconstituting himself while explaining he will keep returning for the staff no matter how many times he's banished. Moenbryda tosses Minfilia a White Auracite to trap Nabriales in while the Warrior of Light uses Tupsimati to fire a [[aether]]-filled blast at the crystal. With not enough aether to shatter the crystal, Moenbryda transfers her own life force into the staff giving it the amount needed to erase the Ascian.
+{{clear}}
+
+== Characteristics==
+=== Appearance ===
+Nabriales wears a black leather hooded coat with purple markings and adornments. He initially does't wear a mask, and while is face is always obscured in shadow, his form is that of a Midlander [[Hyur]] male with light brown or blond hair. He is later seen with a red, almost ribcage-like mask, with notable sideburns. In battle, a red emblem appears over his face.
+
+=== Personality ===
+Nabriales has a pretentious and smug air about him, and he speaks in a nasal tone. He has a low opinion of [[Lahabrea]], at one point describing him as an "overweening presence." He seems to yield to [[Elidibus (Final Fantasy XIV)|Elidibus]], as he refrains from killing [[Minfilia Warde|Minfilia]] because the Emissary "would never let him hear the end of it." By his own admission, Nabriales is more impatient than his fellow Ascians, and immediately moved to assault the Scions of the Seventh Dawn upon sensing the Warrior of Light's loss of Hydaelyn's blessing while the other Ascians were content to wait and focus on other schemes.
+
+=== Abilities ===
+Being an Ascian, Nabriales is a sorcerer able to wield [[Dark (element)|Dark]] magic. He possesses some manner of [[Time Magic|time magic]], able to temporarily trap the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in a plane with meteorites raining from the sky.
+
+== Gameplay ==
+{{Main|Chrysalis (Final Fantasy XIV)}}
+Nabriales is encountered as a major story boss in Patch 2.5 ''Before the Fall'', in the Chrysalis trial. He is considerably more difficult than the encounter with Lahabrea at the [[Praetorium]].
+
+Nabriales' Shade appears as an add during [[The Dying Gasp|The Minstrel's Ballad: Hades's Elegy]], during the first part of the second phase. His Shade repeats the mechanics seen in The Chrysalis.
+
+== Voice ==
+Nabriales is voiced by [[wikipedia:Masumi Yoshida|Masumi Yoshida]] in the Japanese version.
+
+He is voiced by [[wikipedia:Gideon Emery|Gideon Emery]] in the English version, who also voices [[Urianger Augurelt]] from ''[[Final Fantasy XIV]]'' and [[Balthier]] from ''[[Final Fantasy XII]]''.
+
+== Musical themes ==
+{{audio|filename=FFXIV Travanchet Theme.ogg|title="Without Shadow"|align=left}}
+Nabriales's appearances are all accompanied by "Without Shadow".
+{{clear}}
+
+== Gallery ==
+<gallery>
+FFXIV Nabriales 02.png
+nabriales.png
+FFXIV Nabriales glyph.png|Nabriales glyph.
+FFXIV Nabriales unmasked.jpg|Nabriales unmasked.
+</gallery>
+
+== Etymology ==
+"Nabriales" refers to the light scion "Nabriales, the Majestic" referred to in the profile of [[Cúchulainn (Final Fantasy XII)|Cúchulainn]] from ''[[Final Fantasy XII]]''. The glyph that appears when Nabriales is channeling magic is the bottom portion of Cúchulainn's glyph, only inverted.
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Nabriales]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Ascians]]

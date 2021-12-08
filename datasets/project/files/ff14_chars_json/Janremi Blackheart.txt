@@ -1,0 +1,42 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Janremi Blackheart
+|romaji=Endoku no Janremi
+|japanese=怨毒のジャンレミ
+|lit=Janremi of the Grudge Poison
+|release=FFXIV
+|image=Janremi_Blackheart.jpg
+|affiliation=
+|race=Elezen
+|gender=Male
+|height=
+|hair= Grey
+|eye= Grey
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+|weapon=Plundered Guisarme}}
+'''Janremi Blackheart''' is a non-playable character from ''[[Final Fantasy XIV]]''. He' is a bandit who appears in the [[Gridania]]n story.
+
+==Story==
+===[[Final Fantasy XIV: A Realm Reborn]]===
+Janremi makes his appearance only in the Gridanian path of the opening story.
+
+A [[chocobo]] egg has been stolen from Camp Bentbranch Meadows. [[Luquelot]] asks an [[Warrior of Light (Final Fantasy XIV)|adventurer]] to find it. The egg thief appears to be a man from Luquelot's homeland of [[Ishgard]], Janremi Blackheart. The adventurer follows the thief's trail to the [[Tam-Tara Deepcroft]], and after he attempts to attack them, the adventurer defeats him, bringing the egg back to the stables.
+
+==Characteristics==
+===Appearance===
+Janremi is a Wildwood [[Elezen]] with gray hair, dressing in a light brown cotton shirt and green tights. He uses the lance Plundered Guisarme as his weapon, and has dark brown paint across his face that looks like claw marks.
+
+==Gameplay==
+Janremi Blackheart is fought in the [[Quest Battle|Special Instance]] in {{icon|ffxiv|quest|Leia's Legacy}} during the early Gridanian story. He's a lancer who can use some of the basic skills of lancer class. 
+
+His spirit can later be fought in the {{icon|ffxiv|duty|Palace of the Dead}} in the form of the Ishgardian Pikeman.
+
+== Gallery ==
+<gallery>
+File:Undead Janremi.png|Janremi within the Palace of the Dead. 
+</gallery><br />{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Elezens]]
+[[Category:Dragoons]]

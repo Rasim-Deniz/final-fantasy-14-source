@@ -1,0 +1,83 @@
+{{infobox character
+|name=Noah van Gabranth
+|release=FFXIV
+|japanese=ノア・ファン・ガブラス
+|romaji=Noa fan Gaburasu
+|lit=Noah van Gabrath
+|aka=
+|image=FFXIV Gabranth 2.png
+|home=Arnsbeirgs, Landis<ref name="notes50"/>
+|age=48<ref name="notes50"/>
+|affiliation=[[Garlean Empire]]
+|occupation=Legatus
+|education=
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|original appearance=[[Gabranth]]
+}}
+'''Noah van Gabranth''' is a non-player character from ''[[Final Fantasy XIV]]''. He is a Legatus of the [[Garlean Empire]]'s [[IVth Imperial Legion]]. Thirty years prior to the events of the game, he led the attack on the [[Dalmasca (Final Fantasy XIV)|Kingdom of Dalmasca]]. Now he and the IVth Legion rule Dalmasca, [[Othard#Nagxia|Nagxia]], and [[Bozja]] in the Empire's name.
+
+==History==
+===Early life===
+[[File:FFXIV Gabranth and Basch.png|thumb|left|Basch and Noah.]]
+Noah van Gabranth and his father [[Basch van Gabranth]] are not native Garleans, but hail from the [[Republic of Landis]]. Basch's fervent loyalty to the Empire allowed him to achieve the rank of Legatus, a position normally reserved to those of Garlean blood. Basch commanded the IVth, but when his health took a turn for the worse thirty years ago, Noah was given command of the Legion at only twenty years old, one of the youngest to ever do so. The IVth is set apart from the rest of the imperial legions by being comprised primarily of non-native Garleans, their preference to not use [[magitek]], and their unwavering loyalty to Noah over the Empire.
+
+As leader of the IVth Legion, Noah van Gabranth led his legion against the kingdom of Dalmasca with [[Airship (term)|airships]]. After seizing many cities, only the [[Nalbina Fortress#Final Fantasy XIV|Nalbina Fortress]] remained, halting the invaders with a magical barrier. For half a year the legion laid siege to the fortress, eventually conquering it at the cost of 70,000 Dalmascan soldiers. Two years after the fall of Rabanastre, Basch passed away and Noah was promoted to Legatus of the IVth Legion. Many believe it was the conquest of Dalmasca that earned him his position, but others argue that he was appointed at recommendation of Emperor [[Emet-Selch|Solus zos Galvus]] out of recognition for his father's service.
+
+For thirty years the Empire struggled to contain violent uprisings, eventually culminating in the infamous Barheim Incident that claimed countless lives. Unable to reassert control, Noah turned to the XIVth legion for assistance. When [[Varis zos Galvus]] became the Emperor of Garlemald, he appointed Noah and the IVth to quell uprisings in remote provinces, as if to keep them at arm's length. [[Marsak]] believes Varis suspected ulterior motive from how the Gabranths sought to gain such fervent adoration of the IVth Imperial Legion.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV IVth Legion Lighthouse.png|thumb|The IVth Legion and Constructs.]]
+Noah and a group of scientists investigate the top of the [[Ridorana Lighthouse]], built atop the ancestral Garlean city of [[Goug (Final Fantasy XIV)|Goug]]. He learns about the constructs his ancestors used and plans on sharing his findings to Emperor Varis.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+In [[Valnain (Final Fantasy XIV)|Valnain]], the Dalmascan city that is the base of operations for the IVth Legion, Noah received word that the people of [[Bozja]] were beginning an uprising by crafting recreations of their people's ancient weapons. Noah ordered his second in command [[Menenius sas Lanatus]] to proceed as planned, as the weapons could not hold up to the "lady of blades" that the IVth possessed. Noah knew the Empire was fated to fall, but stated his intent to establish an even grander and mightier nation in its place, made possible by the very power Garlemald abhors.
+
+Over the course of fighting on the [[Bozjan Southern Front]], the [[Bozjan Resistance]] learns that Noah's goal is to create a new nation where people's race or social class mean nothing, a true land of equals, and he will use the power of the [[primal]] Queen [[Gunnhildr]] to do it. When the IVth was ordered to return to the Garlean capital after the death of Emperor Varis, Noah refused and publicly declared his plans, officially making him a traitor to the Empire.
+[[File:FFXIV IVth Airships.png|left|thumb|The ''Dalriada'' and IVth fleet arrive.]]
+After Queen Gunnhildr's defeat and [[Misija Votyasch|Misija's]] capture by the Bozjan Resistance, Noah arrives in Bozja with an airship fleet and the massive ''[[Dalriada]]'' as its flagship.
+
+The ''Dalriada'' docked in [[Zadnor]], where the IVth immediately went to excavating Allagan ruins for the [[Diablo Armament]], a creation comparable to the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]. The combined forces of the Eastern Alliance fought the IVth at Zadnor and stormed the ''Dalriada'', culminating in the Diablo Armament's defeat, the destruction of the airship, and the death of Menenius. The IVth Legion had lost the fight and Bozja had won its freedom. Back in Valnain, Noah didn't mourn for Menenius, claiming he knew the price of serving for Noah's ideals. As Noah informed [[Lyon rem Helsos]] that he knew his own time grew short, Garlean soldiers arrived with weapons excavated from Bozjan ruins. He also blamed Lyon for their failure in Bozja and had him incarcerated.
+
+After losing Bozja, Noah and the IVth found themselves struggling to defend against the Eastern Alliance. Depleted and run ragged after multiple battles, and with no reinforcements on the way as they had seceded from Garlemald, morale fell to an all-time low and the IVth stood in danger of losing a vital outpost. Six months after the fight in Bozja,{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Lyon, Part II}}|name=notes44}} Lyon, taking extreme umbrage at being held responsible for the IVth's defeat, plotted a mutiny against the leader which he had once sworn undying loyalty toward. He escaped his imprisonment with the help of co-conspirators and snuck into Noah's chambers in the dead of night. After an exchange of words between the two Noah's mind was made up -- he succumbed to Lyon's blade with no resistance.
+
+The deed done, Lyon set [[Castrum Valnaini]] ablaze and fled the scene to destinations unknown. Gabranth's body and armor would later be discovered by the Dalmascan resistance, though he was not immediately identified both because of the burns from the fire and because so few had ever seen him without his helmet before in the first place. But in the end the identity of the corpse was discovered, and news of Noah van Gabranth's death spread across the land.
+
+Bereft of their charismatic leader the once-proud IVth Legion crumbled, some two-thirds surrendering to the resistance and the remaining fighting valiantly before being unceremoniously defeated. The long and bitter struggle came to an end, and the IVth Legion's territories of Dalmasca, Nagxia, and Bozja were free.
+
+And yet there are those who believe that Gabranth did not perish that day, and that the corpse found belongs to another. So it is that the people of Dalmasca still live in fear of the "ghost of Gabranth."{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Noah}}|name=notes50}}
+
+Moreover, before his death Menenius came to believe that Noah had found a pawn to guide Dalmasca in his desired direction.{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Menenius, Part II}}|name=notes45}}
+
+==Characteristics==
+===Appearance===
+Noah is yet to be seen with his helmet off in the present, but artwork showing him with his father 30 years ago shows that he used to resemble his ''[[Final Fantasy XII]]'' counterpart [[Gabranth|Judge Gabranth]] with longer hair. His suit of armor is also the same as ''Final Fantasy XII's'' Gabranth's. He wields a pair of blades, specifically the Wootz Scimitars.
+
+Despite being a Hyur, he still uses an Elezen model like many Garlean characters, though he is not Garlean.
+
+=== Personality ===
+Noah van Gabranth is more open and humble in comparison to other Garlean Legati the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] has encountered, as he rose to his position through hard work, skill and determination rather than through blood. Nonetheless, Noah is an effective and ruthless commander, his conquest of Dalmasca and the fervent loyalty of his legion standing as proof of this. In a similar vein to [[Gaius van Baelsar]], Noah valued and respected those under his command for their skills and loyalty, unconcerned of their race, status or origins. He is not as prideful as most Garlean commanders as when the situation in Barheim became too difficult for him to control alone, he called in reinforcements in the [[XIVth Imperial Legion]] to reassert order. Noah is loyal to his own cause rather than that of the Empire or its policies. Having long foreseen the Empire's decline, he has taken steps to ensure the territories he has conquered become his own new kingdom once the Garlean Empire falls.
+
+==Gallery==
+<gallery>
+FFXIV Gabranth.png|Gabranth as seen in one of [[Ba'Gamnan (Final Fantasy XIV)|Ba'Gamnan]]'s hallucinations.
+</gallery>
+
+==Etymology==
+Noah van Gabranth is named after Judge Gabranth from ''Final Fantasy XII'' who went by "Noah" before joining the [[Archadia|Archadian Empire]].
+
+{{Etym|Noah}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garlean citizens]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]

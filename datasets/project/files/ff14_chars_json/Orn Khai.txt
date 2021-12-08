@@ -1,0 +1,39 @@
+{{infobox character
+|name=Orn Khai
+|release=FFXIV
+|japanese=オーン・カイ
+|romaji=Ōn Kai
+|image=FFXIV SB Orn Khai.png
+|home=[[Dravanian Forelands]]
+|affiliation=[[Hraesvelgr]]'s brood
+|age=40s
+|race=Dragon
+|gender=Male
+|eye=
+|type=npc
+}}
+
+'''Orn Khai''' is a character from '' [[Final Fantasy XIV]] ''. He is a young Dragonling of [[Hraesvelgr]]'s Brood and the son of [[Vedrfolnir]]. Orn Khai is the main NPC for [[Dragoon (Final Fantasy XIV)|Dragoon]] questline in the ''[[Final Fantasy XIV: Stormblood|Stormblood]]'' expansion.
+
+==History==
+===''[[Final Fantasy XIV: Stormblood]]''===
+Orn Khai meets [[Heustienne de Vimaroix]] during her exile. Orn Khai keeps company for Heustienne and helps her control dragon blood. With the recent end of the [[Dragonsong War]], Orn Khai wishes to find his father's consort, [[Faunehm]]. Rewarding Orn Khai's help, Heustienne asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to help with the searches. With Faunehm's only information being that she "flew east", Orn Khai and the Warrior of Light investigate various dragon legends. The searches lead the pair to [[Azim Steppe]] where they finally find Faunehm, but due to resisting [[Nidhogg (Final Fantasy XIV)|Nidhogg]]'s call for a long time she has lost her senses. The pair team up with [[Estinien Wyrmblood]] and face Faunehm in her attempt to recover, but this role turns out to be her father [[Vedrfolnir]] who appears in the middle of the fight to resolve the situation. With the mission completed, Orn Khai says goodbye and thanks the Warrior of Light.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Orn Khai meets again with the Warrior of Light in [[Coerthas Central Highlands]], after he hears about Warrior's adventures in [[The First]], Orn Khai wonders if Nidhogg's soul has found peace. The pair travel to Zenith to meet Faunehm and learn about who Nidhogg was in the past. After hearing the story, Orn Khai takes advice from Faunehm and makes his way to Ohl Tahn in search of the region's flowers. Once collected, the pair leaves the flowers in [[Ala Mhigo]] palace (where Nidhogg's eyes, the last trace of was destroyed) in honor of the great wyrm and promises to pass on the story of his legacy.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Gameplay==
+During the {{icon|ffxiv|quest|Dragon Sound}} quest, Orn Khai supports the Warrior of Light by healing him during battle.
+
+==Behind the scenes==
+According to Orn Khai, his name in Dravanian translates as "One born of Sorrow", expressing his father's sadness that Faunehm had left.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

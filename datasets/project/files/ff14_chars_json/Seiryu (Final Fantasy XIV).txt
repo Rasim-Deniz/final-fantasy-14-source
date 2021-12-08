@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Seiryu (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Seiryu
+|release=FFXIV
+|japanese=青龍
+|romaji=Seiryū
+|lit=Azure Dragon
+|aka=
+|image=FFXIV Seiryuu.png
+|home=
+|age=
+|dob=
+|affiliation=[[Four Lords]]
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|race=Auspice
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=boss
+|japanese voice actor= 
+|english voice actor=
+|boss page=
+}}
+'''Seiryu''' is one of the [[Four Lords]] from ''[[Final Fantasy XIV]]'' and appears as a boss, and as a [[superboss]] in an optional extreme battle.
+
+==History==
+Seiryu lived on one of the islands in the [[Ruby Sea]], one day a great catastrophe befell the residents on the island and believed it to be because of the power of Seiryu. Here the people revered the snake and to prevent any misfortunes from befalling their land they sacrificed family and loved ones to the snake. Instead of killing them however, Seiryu just whisked them away from the island. Over time the islanders believed the snake to be the root of their problems and had hired mercenaries to dispose of the Auspice. Unhappy with having to spill needless blood Seiryu defended himself until the samurai known as [[Tenzen (Final Fantasy XIV)|Tenzen]] came. Having been defeated in battle Seiryu waited for the final blow, but was instead asked by Tenzen to join him. With Tenzen gone and [[Koryu]] sealed within the reisen temple Seiryu returns to a life of peace.
+
+Once the three other lords have been defeated, Seiryu is called upon to the temple where the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] can calm the final lords aramitama. Having chosen his battleground Seiryu reveals to them that he will succumb to his aramitama to defeat Koryu once and for all. Becoming blinded by his ordeals, the two fight with the Warrior of Light becoming victorious. Having realized his mistake the two travel to the temple to restore the wards. Before Koryu breaks free, the Four Lords transform into their battle forms, and use their power to restore the seal. With all seemingly well and good Koryu breaks free and teleports everyone into another area, here the beast attacks them and [[Genbu (Final Fantasy XIV)|Genbu]] defends the attack, however it is too strong for him and is killed by the blast. The rest of the lords request the Warrior of Light and friends leave the temple to safety, but the Adventurer leaps out to face Koryu themselves. Here the beast attempts to take them all out at once, but the attack is stopped by the spirit of Tenzen, with the help of the Warrior of Light's power they restrain Koryu long enough for [[Soroban]] to summon Genbu into his body, and have the four lords seal the beast.
+
+==Characteristics==
+{{Section}}
+
+==Gameplay==
+{{main|The Wreath of Snakes}}Seiryu appears as a boss twice in {{icon|ffxiv|duty|wreath of snakes}} as a boss and as a superboss in the extreme version both require a level 70 job and a eight player party.
+
+Defeating Seiryu in the extreme version grants players with the achievement "Seiryu, Say me".
+
+==Gallery==
+<gallery>
+FFXIV Seiryu concept.jpg|Concept art.
+FFXIV Seiryuu 1.png
+FFXIV Seiryu Snake form.png 
+FFXIV Seiryu backstory.png
+</gallery>
+
+==Etymology==
+{{etym|Seiryu}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Four Lords]]

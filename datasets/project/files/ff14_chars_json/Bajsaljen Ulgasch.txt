@@ -1,0 +1,62 @@
+{{Infobox_character
+|name =Bajsaljen Ulgasch
+|release = FFXIV
+|japanese =バイシャーエン・ウルガッシュ
+|romaji=Baishāen Urugasshu
+|aka=Bajsaljen the Righteous
+|image =FFXIV Bajsaljen.png 
+|race =[[Hrothgar]]
+|gender =Male
+|height =
+|hair =Brown
+|eye =Blue and Green
+|designer = 
+|age =54
+|home=[[Bozja]]
+|affiliation =[[Bozjan Resistance]]
+|occupation =Resistance leader
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|weapon=Prester
+|abilities=Medica II, Magicked Mark, Conjured Stone, Deep Essence of the Victor}}
+{{Quote|Bajsaljen, leader of the Bozjan resistance. Not the best choice for the job, if I'm to be frank, but I will bear the title all the same.|Bajsaljen's introduction}}
+'''Bajsaljen Ulgasch''' also known as '''Bajsaljen the Righteous''' is a [[non-playable character]] from ''[[Final Fantasy XIV: Shadowbringers|Final Fantasy XIV: Shadowbringers.]]'' He is the leader of the [[Bozjan Resistance|Bozjan resistance]] that currently resides in [[Gangos]], that located southeast of [[Bozja Citadel]]. 
+
+==History==
+===Early life===
+Bajsaljen was born in Bozja, under the empire's rule. He followed in his late father's footsteps in becoming a doctor, and was taken to the capital for his accomplishments, taking an education in medicinal sciences. He was deployed into the [[IVth Imperial Legion]] as a medic, and was awarded citizenship because of it.
+
+Following his draft into the military, he met his wife and started a family.
+
+Bajsaljen was assigned to quell an uprising in [[Nagxia]] and during his time there he learned his family was killed in the beginning stages of the [[Seventh Umbral Era|meteor project]]. He defied orders trying to find his wife and children, and ended up in chains. He expected to be locked up forever, but the military had need for more medics. Before rejoining the military he abandoned it with other soldiers to join the resistance.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Bajsaljen requests assistance from the Eorzean Alliance to defy the Garlean Empire and receives aid in the form of [[Gerolt Blackthorn]] and [[Mikoto Jinba]] to recreate the [[Gunnhildr's Blades]] of eld. The two were not enough, as they didn't have the power to walk in people's memories, and requested the aid of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Once the Warrior arrives, Bajsaljen explains the predicament they are in. An ancient people used a certain treatment to ail illnesses of the mind, which could be used to retrieve long lost information, such as the inscriptions on the gunhildr's blades that were lost in the Bozja incident. [[Cid Garlond]] could have seen the weapons before the city's destruction, and although Bajsaljen is reluctant at first, he agrees to request Cid's help.
+
+Cid arrives and following the adventure into his memories, Mikoto describes the inscriptions to Gerolt. Bajsaljen apologizes for believing all Garleans were untrustworthy, and hopes they can change their children's future, Cid believing they would be the ones to pen the coming history of their people. Bajsaljen thanks the group for assisting in forging the weapons, and hopes to see the Warrior of Light in future battles against the empire.
+
+Some time later, Bajsaljen bequeaths the newly forged Resistance Weapons to certain storied Bozjan Resistance warriors, creating a new group of Gunnhildr's Blades. Using their growing fame, he rallies the resistance cells under one banner and organizes a siege on [[Castrum Lacus Litore]], the [[IVth Imperial Legion]]'s foothold in Bozja. Though they make some ground, the battle reaches a stalemate until the Warrior of Light is called to the field. Bajsaljen introduces the new Blades to them and informs them that Mikoto and the Bozjan archaeologist [[Misija Votyasch]] are trying to recharge the crystal focus to have it ready to heal the minds of the soldiers. Bajsaljen participates in skirmishes and pushes the line forward when he sees an opportunity, the Warrior working in conjunction with the Blades.
+
+Though the battle seems to be turning in their favor, Misija is revealed to be a double agent, kidnapping Mikoto and stealing the crystal focus. Unable to send forces after them, Bajsaljen believes Mikoto has been taken to Castrum Lacus Litore, and prepares for a final assault. They receive word that [[Menenius sas Lanatus]], the Castrum supervisor, has been called away, allowing the resistance a to strike. Bajsaljen leads the charge alongside his second in command, [[Marsak Apella]], the Blades, and the Warrior, defeating [[Sadr rem Albeleo]] and fending off [[Lyon rem Helsos]]. 
+
+Before they can celebrate their capture of the Castrum, Misija appears with captive Mikoto. Holding the scholar hostage, she forces the Warrior to use their [[Echo (Final Fantasy XIV)|Echo]] to delve into the memories held within the relic Save the Queen. As Bajsaljen prepares the Blades to surprise her, an [[primal|eikon]] appears which, under Misija's command, [[enthrallment#Final Fantasy XIV|tempers]] them, much to Bajsaljens shock. The tempered Blades turn on their companions, and Misija attempts to claim Bajsaljen and Marsak as well, but the Warrior of Light holds the eikon off, allowing Marsak to rescue Mikoto. Before the contest of wills between the eikon and the hero can come to a head, the resistance receives the unexpected aid of [[Bwagi Ennze Panca]], who shoots Misija and causes the eikon to disperse. Bajsaljen orders a full scale retreat before Misija recovers and resummons the abomination.
+
+Back at base camp, Bajsaljen listens as the Warrior and Mikoto explain the origins of the eikon, who is an incarnation of Queen Gunnhildr, as well as the betrayal of her Blades during the Fourth Umbral Era. Bajsaljen is shocked by the loss of the Blades. Unable to contend with the primal and the bolstered forces of the IVth legion since Menenius has returned, Bajsaljen orders the main resistance force to retreat to Gangos while he formulates a new plan of attack.
+
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Bajsaljen is part of the lost tribe of [[Hrothgar]]. He has white fur covering his body, and brown hair. He has a handlebar mustache for whiskers, and wears alliance gear of fending dyed nophica green.
+
+===Personality===
+Bajsaljen is the kind leader of the Bozjan resistance, and is determined to retake his homeland from the [[Garlean Empire]]. As someone who lived his entire life under Garlean rule, he can be skeptical of their assistance, but will come around to it if the need arises.
+
+==Gameplay==
+[[File:FFXIV Magick Mark Bajs.png|thumb|Bajsaljen using Deep Essence of the Victor.|alt=]]
+Bajsaljen will appear in some skirmishes in the {{icon|ffxiv|duty|Bozjan Southern Front}} where he will heal players in the vicinity with Medica II, Conjured Stone, Magicked Mark, and Deep Essence of the Victor which will grant a player a buff increasing their chances to deal critical damage and haste for thirty seconds. He will also appear in the open dungeon of {{icon|ffxiv|duty|Castrum Lacus Litore}} aiding players.
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hrothgar]]
+[[Category:White Mages]]

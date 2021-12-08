@@ -1,0 +1,79 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Y'mhitra Rhul
+|release=FFXIV
+|japanese=ヤ・ミトラ・ルル
+|romaji=Ya Mitura Ruru
+|aka=Y'mhitra the Learned
+|image=FFXIV Y'mhitra.png|Y'mhitra at Apkallu Falls.
+|home=[[Sharlayan]]
+|age=26
+|affiliation=[[Sons of Saint Coinach]]
+|occupation=Archaeology
+|race=Seeker of the Sun [[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=White
+|eye=Teal
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|weapon=Budding Oak Wand 
+|armor=
+}}
+'''Y'mhitra Rhul''', also known as '''Y'mhitra the Learned''', is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]'' who is a resident of [[Gridania]] and member of the [[Sons of Saint Coinach]]. Like her half-sister [[Y'shtola Rhul|Y'shtola]], Y'mhitra is a [[White Mage (Final Fantasy XIV)|conjurer]]. Y'mhitra is the main quest giver for the [[Summoner (Final Fantasy XIV)|Summoner]] job.
+
+==History==
+===Early life===
+Y'mhitra is the seventh of twelve sisters, and attended the Studium where she specialized in the field of archaeology. Upon graduating she joined the Sons of Saint Coinach, and traveled to [[Eorzea]] to survey the surrounding ruins. They discovered [[Allagan Empire|Allagan]] [[Allagan Tomestone|tomestones]] detailing the existence of summoners. Excited, Y'mhitra relocated to Gridania to deepen her understanding of the summoning arts.<ref>''Encyclopedia Eorzea'', p. 235</ref> In the Sixth Astral Era, Y'mhitra's location in Gridania was occupied by [[Louisoix Leveilleur]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Through her guidance, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] can revive the Allagan art of summoning the essence of [[primal]]s into egi. Having become proficient in [[Arcanist|arcanima]], Y'mhitra takes the Warrior to the Sagolii Desert where the essence of [[Ifrit (Final Fantasy XIV)|Ifrit]] can be summoned as an egi using the soul crystal. By defeating the entity, Ifrit-Egi can be summoned into battle. Once [[Titan (Final Fantasy XIV)|Titan]] is defeated, Y'mhitra will take him or her to Finder's Bluff in North Shroud where Titan-Egi is summoned and bent to the Warrior's will. A dark summoner accosts them, demanding they surrender the soul crystal, but they fend him off and escape.
+
+She later learns it was a man named [[Tristan Nightflicker]], and asks the Warrior of Light to investigate his activities near Little Ala Mihgo. This leads to an attack by his associates that must be driven off. Once [[Garuda (Final Fantasy XIV)|Garuda]] is slain at the Howling Eye, Y'mhitra has Garuda-egi summoned atop the Floating City of Nym in Outer La Noscea.
+
+Y'mhitra sends the Warrior of Light to her colleagues at Saint Coinach's Find in [[Mor Dhona]], who have unearthed garbs once worn by summoners of old. The Warrior confronts Tristan in the Singing Shards, where he was making deals with an [[Ascian]] to obtain power. In exchange for several crystals, the Ascian agrees to teach him how to summon the egi of an ancient primal, [[Belias]]. Y'mhitra and the Warrior of Light confront him and his new primal.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Y'mhitra & Y'shtola.png|thumb|Y'mhitra meets Y'shtola again after the seedseers brought her back from the Lifestream.]]
+Y'mhitra becomes instrumental in Y'shtola's return from Eorzea's Lifestream since [[Kan-E-Senna]] needed someone similar to her sister to hone in on her being. When [[Alphinaud Leveilleur]], [[Tataru Taru]] and the Warrior of Light learn that Y'shtola's [[aether]]ial signature went to the Twelveswood, they seek out the help of the Elder Seedseer, Kan-E-Senna, who informs them the process is not simple, and mentions the possibility of a family member aiding it. Tataru exclaims that Y'shtola has a half-sister, Y'mhitra, who joined the Sons of Saint Coinach and is in Gridania. Y'mhitra tells the group that when she heard what happened to "Shtola" (her personal way of addressing her sister) she unsuccessfully attempted to make contact with her. Though Y'shtola and herself are of different mothers, they share the same father, and Y'mhitra agrees to help bring her back.
+
+With Y'mhitra's presence, Kan-E-Senna, [[Raya-O-Senna]] and [[A-Ruhn-Senna]] locate Y'shtola in the Lifestream and retrieve her. Y'mhitra accompanies her unconscious sister while Kan-E-Senna advises the others to wait till she comes to.
+
+Y'mhitra continues her role as an advisor to summoners. [[Rammbroes Zasertylsyn]] presents her with a tomestone containing information on more of Allagan summoning arts, and notes the Singing Shards might be suitable for drawing a lightning-aspected egi. They fail to draw Ramuh-egi to the site to commit Austerities of Lightning.
+
+There have been sightings a of a dark mage attacking travelers with Ifrit-egi in [[Thanalan]]. Working with [[Dancing Wolf]] of the Immortal Flames, they corner and defeat the mage in Northern Thanalan. Dancing Wolf explains it is the body of Tristan's brother, who was [[Enthrallment#Final Fantasy XIV|tempered]] by Ifrit. The Ascian of the Twelfth Chalice appears, irritated at losing another pawn, and reveals to be behind the incidents.
+
+During her research on Summoner arts, Y'mhitra learned the reason they couldn't call forth Ramuh-egi was due to limited capacity of a summoner's lifeforce (having already harnessed three egis). She learns of another technique, called Trance, that can bypass these restrictions and allow the summoner to harness the power of a primal directly. To combat the Ascian threat, she concludes the best option would be the [[Bahamut (Final Fantasy XIV)|Dreadwyrm Bahamut]] itself, whose fury was felt across the land in the [[Umbral Calamity|Calamity]]. By sneaking into the [[Carteneau Flats]], she has the Warrior of Light meditate on Bahamut's influence. The Ascian of the Twelfth Chalice attack with various egi, but once the Dreadwyrm Trance is mastered and his egi are destroyed, the Ascian flees.
+
+Noting his sudden cowardice, Y'mhitra suspects lesser Ascians cannot possess living hosts like the overlords (such as [[Lahabrea]]) in the event their old body is slain. Thinking they would need corpses to persist—and the restricted Carteneau Flats would not have any available—he wasn't going to risk dissipation. She claims another technique is available, located in the [[Great Gubal Library]]. Outside the old facility the Ascian returns with three others to assist him. This was all part of Y'mhitra's plan: by tricking them into an ambush, and knowing the Warrior of Light needed to be in the heat of battle to master the Dreadwyrm Trance (the library was a ruse), she lured them into the secluded Hinterlands with no readily available corpses. The four Ascians are destroyed thanks to the Warrior's new mastery of Deathflare.
+
+==Characteristics==
+===Appearance===
+Y'mhitra is a [[Miqo'te]] with white hair and fur. She wears a cyan half-robe and black tights. Her weapon is a one-handed conjurer wand.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+[[File:QYmitra1.png|thumb]]
+As a conjurer, Y'mhitra helps the player to fight the egis in many of Summoner job quests, by providing healing support and guidance.
+{{clear}}
+
+==Other media==
+[[File:DFF2015 Sage of Dawn B.png|right|70px|Alternate costume for Y'shtola.]]
+One of [[Y'shtola Rhul (Dissidia NT)|Y'shtola's]] costumes in ''[[Dissidia Final Fantasy NT]]'' resembles Y'mhitra, with a blue top that consists of grayish patterns, black trousers and white shoes.
+{{clear}}
+
+==Etymology==
+Y'mhitra's name might come from the word "[[Mithra]]", the name of the cat race in ''[[Final Fantasy XI]]''. Y'mhitra is from the same clan as Y'shtola: the Jaguar.
+
+==References==
+{{Reflist}}
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:White Mages]]
+[[Category:Miqo'te]]

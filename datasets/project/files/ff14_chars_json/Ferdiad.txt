@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Ferdiad
+|release=FFXIV
+|japanese=フェルディア
+|romaji=Ferudia
+|image=Ferdiad.png
+|race=[[Voidsent]]
+|gender=
+|age=
+|home=
+|affiliation=
+|occupation=
+|type=npc
+|job=
+}}
+'''Ferdiad''' is a character from ''[[Final Fantasy XIV]]''. Originally serving as the final boss of the dungeon [[Amdapor Keep (Hard)]], he later appears in ''[[Final Fantasy XIV: Heavensward]]'' as an antagonist during the [[Shadow of Mhach]] storyline.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+When the [[Warrior of Light (Final Fantasy XIV)|Adventurer]] purged [[Amdapor Keep]] of the violent cultists, the Lambs of Dalamud, they inadvertently completed a ritual that the group had prepared. The cultists' spilled blood was the final ingredient needed to summon a host of powerful [[voidsent]], led by Ferdiad. The Adventurer is sent back to the Keep in order to deal with this new threat, eventually facing Ferdiad in battle. Although they defeat and seemingly destroy him, after they leave, Ferdiad's laughter is heard echoing through the halls, implying that he survived the encounter.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:Ferdiad in Mhach.png|thumb|left|Ferdiad confronts the Adventurer's group in Mhach.]]
+During the Shadow of Mhach storyline, the Adventurer travels to [[The Weeping City of Mhach]] alongside [[Leofard]] and [[Cait Sith (Final Fantasy XIV)|Cait Sith]], in search of a powerful artifact capable of easily defeating voidsent, known as the Nullstone. After they defeat the enemies that bar their path and obtain the Nullstone, they are suddenly confronted by Ferdiad, who has [[Radlia]] as a hostage. Recognizing the Adventurer from their earlier encounter, Ferdiad offers thanks to [[Diabolos (Final Fantasy XIV)|Diabolos]] for giving him the chance for revenge, and demands the Nullstone in exchange for Radlia's life. Leofard manages to use a bluff to convince Ferdiad that he doesn't care about Radlia, and goads the voidsent into attacking him, leaving him open for Cait Sith to use the Nullstone against him. Though injured by the Nullstone's power, he manages to flee.
+
+[[File:Diabolos and Ferdiad.png|thumb|Ferdiad reports to Diabolos.]]
+Ferdiad is later seen meeting with Diabolos above the city. He reports his failure to Diabolos, apologizing and promising to redeem himself by destroying the Adventurer the next time they meet. The two voidsent then depart the city.
+
+Ferdiad is encountered again in the fortress of [[Dun Scaith]], in a more powerful form called Ferdiad Hollow, where he is killed by the Warrior of Light.
+
+==Characteristics==
+===Appearance===
+Ferdiad is a powerful voidsent who has the appearance of a demonic jester. He has horns and other protrusions that resemble the outfit traditional worn by harlequins, and carries a large, scythe-like staff.
+
+==Gameplay==
+Ferdiad is fought as the final boss of the dungeon {{icon|ffxiv|duty|Amdapor Keep (Hard)}}. In ''Heavensward'', Ferdiad Hollow is fought as a boss of the alliance raid {{icon|ffxiv|duty|Dun Scaith}}.
+
+==Etymology==
+Ferdiad was a figure from Irish Mythology. He was a friend and rival of Cuchulainn and a fellow pupil of the warrior woman Scáthach. This is reflected in the Shadow of Mhach storyline, as [[Cúchulainn]] appears as a fellow voidsent boss during the quest, and Ferdiad works to free the game's version of [[Scáthach]].
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

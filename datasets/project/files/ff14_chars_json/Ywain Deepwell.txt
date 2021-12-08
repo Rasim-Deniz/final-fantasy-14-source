@@ -1,0 +1,55 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Ywain Deepwell
+|release=FFXIV
+|japanese=イウェイン・ディープウェル 
+|romaji=Iuein Dīpuueru
+|image=FFXIV Ywain.png 
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Blonde
+|eye=Brown
+|age=36<ref name=EE122>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 122</ref>
+|affiliation=Lancers' Guild
+|occupation=Guildmaster
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+|weapon=Hart Guisarme 
+|armor=
+}}
+{{Quote|I am Ywain, the master of the Lancers' Guild. My charge is to oversee the training of those who seek to master the polearm. I served as a Wood Wailer until circumstances forced me to hang up my spear. It was then that I took up my post here, upon the recommendation of my former Captain. That was shortly after the Calamity. I must confess that I was none too pleased to leave the front lines at first, but with time I came to appreciate my new role, and now I would not exchange it for any other. To see young lancers fulfilling their potential is a fine thing indeed, and to know that your have helped them is finer still.|Ywain}}
+'''Ywain Deepwell''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the Guildmaster for [[Dragoon (Final Fantasy XIV)|lancers]] at the [[Wood Wailers]] Barracks in [[Gridania]].
+
+== History ==
+=== Early life ===
+Ywain was once a [[Wood Wailers|Wood Wailer]] but was discharged from service when he took the blame for a lapse of judgement by [[Landenel Peaumasquier]], his dearest friend and son of a criminal. [[Swethyna Brookstone]] later learned of his innocence and offered an apology and urged him to return from roaming as an adventurer.<ref name=EE122/>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Ywain is the taskmaster for all the Lancer class quests, most of which emphasizes teaching courage to remain steadfast in the face of adversity. These lessons are often complicated by [[Foulques]], a lancer with a grudge against the guild.
+
+Upon completion of all Lancer quests, Ywain will send the adventurer to assist [[Alberic Bale|Ser Alberic]] of [[Ishgard]], leading to the [[Dragoon (Final Fantasy XIV)#Dragoon|Dragoon]] job quests.
+
+== Characteristics==
+=== Appearance ===
+Ywain is a Midlander Hyur with swept back sandy blonde hair, he also has a long scar running across his nose. He wears a blue and white acton and wields a lance known as the Hart Guisarme in battle.
+
+=== Personality ===
+Ywain is a tough teacher, but wants his students to be courageous in the face of danger, he is often helpful of his students, and if they are not fit for lancework he will tell them.
+
+== Gallery ==
+<gallery>
+FFXIV Ywain Deepwell.png
+</gallery>
+
+== Etymology ==
+Sir {{w|Ywain}} is a Knight of the Round Table and the son of King Urien in Arthurian legend.
+
+==References==
+{{citations}}
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lancers]]
+[[Category:Hyurs]]
+[[Category:Guildmasters]]

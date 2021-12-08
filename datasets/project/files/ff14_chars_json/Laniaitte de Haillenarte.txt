@@ -1,0 +1,60 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Laniaitte de Haillenarte
+|release=FFXIV
+|japanese=ラニエット・ド・アインハルト
+|romaji=Ranietto do Ainharuto 
+|lit=Laniette de Ainhart
+|aka=
+|image=FFXIV Laniaitte.png
+|race=[[Elezen]]
+|gender=Female
+|height=
+|hair=Red
+|eye=Blue
+|designer=
+|age=
+|home=[[Ishgard]]
+|affiliation=[[High Houses of Ishgard#House Haillenarte|House Haillenarte]]
+|occupation= 
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=Adamantite Winglet
+|armor=
+}}
+
+'''Lady Laniaitte de Haillenarte''' is a non-playable character in ''[[Final Fantasy XIV: Heavensward]]''. She is a daughter of [[Baurendouin de Haillenarte|Count Baurendouin]], and sister to [[Joacin Charlemend Francel de Haillenarte|Francel]] and [[Stephanivien de Haillenarte|Stephanivien]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Laniaitte commands the Rose Knights stationed at Camp Cloudtop, an outpost in the floating islands of the [[Sea of Clouds]]. She is first met when the Warrior of Light is tasked with aiding Emmanellain's duty of assisting House Haillenarte, Knowing Emmanellain, her first order is to have the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] ensure he won't become a liability, while adventurer then handles the actual work for the Rose Knights.
+
+She expresses gratitude for when the adventurer and [[Haurchefant Greystone|Haurchefant]] cleared her brother Francel of the accusations of heresy. During the tasks offered, she explains about the unusual environment, the troubles with [[Vanu Vanu]], and admits that since Camp Cloudtop is on the opposite side of the [[Dragonsong War]], this post is often seen as a dead end for knights (due to minimal risk of dragon attack.)
+
+==Characteristics==
+===Appearance===
+Laniaitte is an Ishgardian elezen with red hair and blue eyes. She wears chainmail armor, and wields an adamantite winglet sword in battle, and a shield with her houses sigil on it.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Laniaitte is a NPC available for Triple Triad matches added in patch 3.1. She is located at the [[Sea of Clouds]] (17.0, 37.3). To challenge her the player needs to complete the sidequest {{icon|ffxiv|quest|Honoring the Past}}. 
+
+The match fee is 30 MGP with a reward of 110 MGP for winning. She uses the Match Rules Same and Plus. The possible rewards for defeating her are {{icon|ffxiv|item|Paissa Card}} and {{icon|ffxiv|item|Dhalmel Card}}.
+
+{{Card FFXIV
+|name=Laniaitte de Haillenarte
+|image=[[File:Laniaitte de Haillenarte Triple Triad Card.png]]
+|number=130
+|total=19
+|type=None
+|description=“Ye gods! I knew you were clever, but I never realized you were capable of this!”
+|obtain=Won from [[Marielle]], The Sea of Clouds (17.3, 37.7)
+}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Paladins]]

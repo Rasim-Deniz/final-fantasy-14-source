@@ -1,0 +1,171 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Yugiri Mistwalker
+|release=FFXIV
+|japanese=霧隠のユウギリ
+|romaji=Kirigaku no Yūgiri
+|lit=Yuugiri who hides in the mist
+|image=FFXIV Yugiri Stormblood.png
+|home=[[Doma (Final Fantasy XIV)|Doma]]
+|age=26
+|affiliation=Doma
+|occupation=[[Hien Rijin|Hien]]'s retainer
+|race=[[Au Ra]]
+|gender=Female
+|height=
+|weight=
+|hair=Black
+|eye=Green
+|type=npc
+|job={{icon|ffxiv|discipline|ninja}}
+|weapon=Unmarked Yoshimitsu Blades
+|designer=[[Ayumi Namae]]
+|japanese voice actor=[[Rina Satō]]
+|english voice actor=Paulette Ivory (''A Realm Reborn'')<br>[[wikipedia: Sian Blake|Sian Blake]] (''Heavensward'')<br>[[wikipedia: Eleanor Matsuura|Eleanor Matsuura]] (''Heavensward/Stormblood'')
+}}
+{{Quote|Hailing from the nation of Doma on the shores of Othard, Yugiri and her countrymen have fled their war-torn home and the oppression of Garlean rule in search of refuge.<br /><br />With supplies and hopes for survival dwindling, Yugiri seeks council with Eorzea's leaders, that they too may call this land their home.|Official website}}
+'''Yugiri Mistwalker''' is a character from ''[[Final Fantasy XIV]]'', a female [[Au Ra]] Raen. Introduced in [[Final Fantasy XIV patch notes|patch 2.2]], she is a [[Ninja (Final Fantasy XIV)#Ninja|Ninja]] who leads a group of refugees that fled from [[Doma (Final Fantasy XIV)|Doma]] to [[Eorzea]]. Many of her fellow refugees note how she pushes herself for their cause. Due to the support vouched by [[Alphinaud Leveilleur]] and the [[Scions of the Seventh Dawn]], Yugiri pledges her assistance out of gratitude. She attempts to maintain a calm, even temperament, although sometimes her bewilderment at certain aspects of Eorzea gets the better of her.
+
+==History==
+===Early life===
+Yugiri was born in the [[Ruby Sea|Sui-no-Sato]] from Ihanami and Yunagi. Witnessing the horrors of the empire, she left her village in search of strength to fight the Garleans through the way of the shinobi. Through years of training she reached the rank of jonin, and having mastered the ninjutsu, received the epithet "Mistwalker". She was dispatched to assist the Doman Liberation Front, and met Lord Kaien and his son, and their loyal samurai [[Gosetsu Daito]]. The war ended with the fall of Doma. Obeying the orders of her lord, Yugiri leads several refugees on a long and arduous journey to find a new home for them.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Yugiri Kasasagi Kikyo.png|left|thumb|Yugiri arrives in Vesper Bay with Kasasagi and Kikyo.]]
+Yugiri arrives in Eorzea and requests to meet the leader to the bemused citizens in the Vesper Bay village. [[Urianger Augurelt]] overhears the commotion outside the Waking Sands and relays this to the other Scions, who request the Warrior of Light to investigate. They find her being turned away at the Royal Promenade of [[Ul'dah]]. Alphinaud overhears her story, and invites her and the Warrior of Light to discuss it at the Quicksand. Yugiri explains she's from a galleon of refugees of Doma, a vassal of the [[Garlean Empire]]. A war of succession had broken out, implying that Emperor [[Emet-Selch|Solus zos Galvus]] had passed away. Doma attempted to revolt only to be put down by other Garlean forces and razed as a warning to other nations, the survivors fleeing across the sea in galleons.
+
+Alphinaud arranges a meeting with the sultana and the Syndicate. While Yugiri's plea for sanctuary is endorsed by [[Teledji Adeledji]], it is declined by a majority vote due to lingering distrust of the [[Ala Mhigo|Ala Mhigan]] refugees that had been invited years ago. Discussing the matter with [[Raubahn Aldynn]] and [[Teledji Adeledji]] at the Hall of Flames, Alphinaud suggests the refugees could be relocated to Revenant's Toll in [[Mor Dhona]], which has ample room, in exchange for frontier work. Teledji agrees to foot the bill for transporting them, while [[Minfilia Warde]] makes arrangements with the Adventurer's Guild.
+
+[[File:FFXIV Thancred & Yugiri.png|thumb|Thancred and Yugiri battling the sahagins.]]
+In gratitude for their support, Yugiri pledges her blade to the Scions' cause, and accompanies them to investigate the reawakening of [[Leviathan (Final Fantasy XIV)|Leviathan]]. During the confrontations with the [[Sahagin#Final Fantasy XIV|Sahagin]] she demonstrates a proficiency with blades that resembles [[Thancred Waters|Thancred]]'s knife skills. Minfilia later confirms of Thancred's less savory history with [[Limsa Lominsa]]'s underground where he learned his skills, and arranges for Yugiri (and the Warrior of Light) to meet with this shadowy guild. Intrigued, Yugiri promises to teach the Eorzeans her combat style, hoping to run a dojo someday.
+
+[[File:Yugiri.png|thumb|left|Yugiri unmasked.]]
+When the Scions are betrayed by the [[Crystal Braves]] and framed for the assassination of Sultana [[Nanamo Ul Namo]], Yugiri rescues [[Tataru Taru|Tataru]] and brings her to [[Camp Dragonhead]] in [[Coerthas]] to join with the Warrior of Light and Alphinaud. Her mask is torn off, revealing her face. She promises to use the resources of the Doman ninjas to assist the remaining Scions.
+{{clear}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Yugiri Halatali.png|thumb|Yugiri accompanies the surviving Scions to rescue Raubahn at Halatali.]]
+Yugiri and her ''shinobi'' help the Warrior of Light and Alphinaud investigate the location of [[Raubahn Aldynn]]'s prison and discover he is imprisoned in [[Halatali]]. Yugiri accompanies the Warrior and Alphinaud in battling the Crystal Braves led by [[Ilberd Feare]] and they free Raubahn from the dungeon.
+
+Yugiri returns to aid the Scions in investigating [[the Griffin]]'s plot to attack [[Baelsar's Wall]]. She accompanies [[Yda Hext|Yda]] and [[Papalymo Totolymo|Papalymo]] as they infiltrate secret tunnels underneath the Wall to try to reason with the Griffin. While on the way the Griffin launches the attack, and Alphinaud realizes it was a false flag operation due the attackers wearing [[Grand Company]] uniforms. Alphinaud rushes off to warn them as the Warrior of Light assaults Castrum Oriens to climb the Wall.
+
+Yugiri and the Scions catch up to the Warrior of Light as he or she defeats the Griffin, who reveals himself to be Ilberd. As Ilberd summons a great [[primal]] above the Wall, Yugiri and the others escape as Papalymo sacrifices himself to seal away the primal in a cocoon of light. Yugiri later joins [[Y'shtola Rhul]] and a grief-stricken Yda to monitor the sealed primal
+
+Gosetsu sails to Eorzea in search of Yugiri and asks her to return to Doma because her services are needed help assist their mutual master, but she refuses because she still has work to do in Eorzea. Gosetsu joins Yugiri and helps the Scions in activating the [[Omega (Final Fantasy XIV)|Omega]] and repelling [[Shinryu (Final Fantasy XIV)|Shinryu]]. Later Gosetsu and Yugiri lament the dire state of the war against the empire. Rallying their spirits, they turn their eyes eastward in the coming fight to liberate their home.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After Yugiri and Gosetsu arrive in [[Othard]], Yugiri leaves on a mission to find Lord Hien. She returns to House of the Fierce and meets with the Warrior of Light, Gosetsu, [[Alisaie Leveilleur|Alisaie]], Alphinaud and Lyse. Yugiri reveals she found Hien in [[Azim Steppe]], but he refuses to return unless his people want to turn against the empire.
+
+[[File:FFXIV Yugiri vs Zenos.png|thumb|Zenos parries Yugiri's attack.]]
+Later Yugiri and Warrior of Light rescue the villagers summoned by the empire and the words of an elder and Yugiri raise their morale. Thoughtful of recent events, Yugiri tells her motives for the Warrior of Light, but the conversation is cut short when an imperial [[Airship (term)|airship]] is sighted heading in the direction of Doma Castle. The imperial airship brings [[Zenos yae Galvus]] (the crown prince of Garlemald), and even in a disagreement with Gosetsu, Yugiri decides use the opportunity to assassinate him in the shadows. As Zenos passes through the village, Yugiri and Warrior of Light try ambush him, but Yugiri's attack is parried and Zenos defeats both easily. As Zenos is about to finish them off, the villagers raise their weapons against him, and Alisaie and Gosetsu appear to the rescue.
+
+Once his people decide to raise their weapons against the empire, Yugiri, Gosetsu, Lyse and Warrior of Light make their way to Azim Steppe in search of Lord Hien. With the help of [[Cirina Mol]], a friend of Hien, the group meets him and Yugiri reports on recent events. Respecting the decision of his people, Hien finally decides to return to [[Yanxia]].
+
+Yugiri participates in the battle at [[Doma Castle (Final Fantasy XIV)|Doma Castle]] and witnesses Gosetsu's sacrifice. Once Doma is freed, Yugiri returns to Eorzea, and alongside Hien, assists in liberating Ala Mhigo. Yugiri stays by Hien's side and locates Gosetsu, who has survived and is with an amnesiac Yotsuyu. When the Garlean Empire sends [[Asahi sas Brutus]] as ambassador to negotiate with Doma, Yugiri follows the negotiations that are part of Asahi's machinations to get Yotsuyu to summon primal [[Tsukuyomi (Final Fantasy XIV)|Tsukuyomi]]. After witnessing the summoning, Yugiri is present during the return of the prisoners of war and the farewell of Gosetsu.
+
+In search for missing Alphinaud, Yugiri accompanies Hien, Alisaie, Y'shtola, and the Warrior of Light to [[Burn (Final Fantasy XIV)|the Burn]]. She identifies the imperial coat on the Garlean soldiers' bodies there, and attends the meeting that decides to form an alliance of the eastern nations. Yugiri, alongside [[Hakuro Gunji|Hakuro]], departs to make the proposal to the other factions.
+
+[[File:FFXIV Yugiri vs Elidibus.png|thumb|Yugiri vs Elidibus.]]
+Once Garlemald begins its attack on Ala Mhigan borders, Yugiri participates in the battle, and alongside Hien and Lyse faces [[Elidibus (Final Fantasy XIV)|Elidibus]], the [[Ascian]] in possession of Zenos's body. The party is easily defeated and are evacuated from the battlefield while the Warrior engages the enemy.
+
+After the fighting at Ghimlyt dies down, Yugiri accompanies Hien back to Doma where he organizes the Eastern Alliance. She is briefly seen when Hien is introducing the Warrior to the Bozjan Resistance envoy.
+
+== Characteristics ==
+=== Appearance ===
+Yugiri is a Raen Au Ra with fair skin and pearl white scales and talons. During her time as a refugee in Eorzea she often wears light ''shinobi'' garbs. During the mission to liberate Doma, Yugiri wears light chain mail and armor fit for a ninja, a custom-colored version of the Level 70 Ninja relic gear. Upon her introduction Yugiri often wore a black mask whenever interacting with others.
+
+Though Yugiri wears the Level 70 Ninja relic gear in ''Stormblood'', it features a unique color scheme that cannot be replicated with dyes.
+
+=== Personality ===
+Yugiri Mistwalker is quiet, honorable, humble yet decisive and determined, a pinnacle of what a ninja should be. Though she bears great sadness in the fall of her homeland, she remained true to her lord's command in safeguarding the refugees from occupied Doma. Though she found a second home in Eorzea, specifically the Scions of the Seventh Dawn, Yugiri longs to return to her homeland.
+
+Eternally grateful to the Scions for taking her people in, Yugiri strives to honor their kindness by aiding them in whatever they need and refuses to return home until her mission with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in Eorzea is complete.
+
+{{spoiler}}
+Upon her return to Doma, Yugiri is saddened to see her people so fearful and broken as a result of the [[Garlean campaign|Garlean occupation]]. Though Yugiri attempts to light the fires of rebellion within the people, her attempts are met with depression and anger, shattering her dream of a rebellion to free Doma. However, her dedication and loyalty to Doma inspire the people to stand up to the empire.
+
+Yugiri is steadfastly loyal to her master, [[Hien Rijin|Lord Hien]], seeing him as the rightful leader of Doma. Since the liberation, Yugiri has become Hien's eye's and ears, if not right-hand woman.
+{{endspoiler}}
+
+==Gameplay==
+[[File:FFXIV Yugiri Battle.png|thumb|Yugiri's battle stance.]]
+Yugiri is a [[guest]] in several main scenario quests. She fights with a pair of daggers and can use [[Ninja (Final Fantasy XIV)|Rogue]] abilities.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Yugiri Mistwalker
+|image = [[File:Yugiri Triple Triad Card.png]]
+|number = 71
+|total = 18
+|type = None
+|description = “To whom much is given, much is expected...”
+|obtain =  Won from [[Final Fantasy XIV Triple Triad players#Yellow Moon|Yellow Moon]], Ul'dah - Steps of Thal (14, 13).
+}}
+
+{{clear}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Yugiri Illust.jpg|Portrait.
+PFF Yugiri.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+
+==Behind the scenes==
+Because the Au Ra character models were not ready even for demonstration until December 2014, while patch 2.2 was released some nine months prior, on a technical level the model used to represent Yugiri in her appearances in patches 2.2 and 2.4 is actually that of a heavily-modified female [[Miqo'te]], using a custom-built tail, gloves, tunic and headpiece. The headpiece ensures no facial expressions are obvious, but the general posture, idle, and talk animations for Yugiri used the standard Miqo'te animation skeleton. Even with her face revealed, in 2.55 she still used a Miqo'te animation skeleton; in ''Final Fantasy XIV: Heavensward'', she began using a true Au Ra model. Datamining the files revealed that beneath her veil was that of a Miqo'te with Yugiri's unique hairstyle.
+
+The art released in December 2014 for the Au Ra features a different design for the tail compared to Yugiri's placeholder model, suggesting that some design changes for the Au Ra may have occurred between 2.2's release and the formal Au Ra reveal at Tokyo Fan Fest nine months later.
+
+A slight "flop" in Yugiri's horns was noted when she moved in 2.2 leading many to suspect they were ears rather than horns. The Au Ra horns are rigid, including on Yugiri unmasked, and the "floppiness" of her horns has since been fixed.
+
+The line spoken by Yugiri when she first sees Leviathan, "Heavens forfend!" resembles a line spoken by Y'shtola when she sees a giant sea serpent during the opening cutscene for Limsa Lominsa in [[Final Fantasy XIV/Legacy|1.0]].
+
+===Voice===
+In the English version, Yugiri was voiced by [[Paulette Ivory]] in ''Final Fantasy XIV: A Realm Reborn''. She was voiced by [[wikipedia:Sian Blake|Sian Blake]] in the initial launch of the ''Final Fantasy XIV: Heavensward'' expansion. Following Blake's death in December 2015, Yugiri is voiced by [[wikipedia:Eleanor Matsuura|Eleanor Matsuura]] as of 3.5.
+
+Yugiri is voiced by [[Rina Satō]] in the Japanese version.
+
+==Gallery==
+;Artworks
+<gallery>
+FFXIV Yugiri Stormblood artwork.png|Artwork from ''Stormblood''.
+StormbloodJapaneseCoverArtwork.jpg|Artwork from ''Stormblood''.
+FFXIV Stormblood Yugiri Artwork.png|Artwork from ''Stormblood''.
+FFXIV SB Doma promotional poster.jpg|Yugiri in ''Stormblood'' promotional artwork.
+FFXIV Under the Moonlight Artwork.jpg|Yugiri in "Under the Moonlight" artwork.
+FFXIV HW Yugiri concept.png|Concept art.
+FFXIV HW Yugiri portrait concept.png|Concept art.
+FFXIV SB Yugiri concept.png|Concept art for ''Stormblood''.
+FFXIV Yugiri Minion.png|Yugiri minion.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Stormblood FMV.png|[[Gosetsu Daito|Gosetsu]] and Yugiri in a ''Stormblood'' FMV.
+Yugiri Vesper Bay.png|Yugiri with one of her followers, Kasasagi.
+FFXIV Gosetsu & Yugiri.png|Gosetsu and Yugiri.
+FFXIV Yugiri Ala Mhigo.png|Yugiri on a yol in Ala Mhigo.
+FFXIV Yugiri Masked.png|Yugiri in her disguise.
+Yugiri's_Tail.png|Yugiri's tail.
+FFXIV Yugiri.png|Yugiri's in-game render (3.X).
+FFXIV Yugiri 4.0.png|Yugiri's in-game render (4.X).
+FFXIV Yugiri Private.png|Private outfit.
+FFXIV TFT Yugiri Hien.jpg|Yugiri and Hien in the Doman Enclave.<ref name="duty">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/sidestory_01/#sidestory_01 Tales from Twilight - The Burden of Duty]''.</ref>
+</gallery>
+
+==Etymology==
+{{J|夕霧|Yūgiri|fmt=r(j)}} means "evening mist" in Japanese.
+
+Her nickname "Mistwalker" might be a reference to [[wikipedia:Mistwalker|Mistwalker Corporation]], the video game development studio founded by [[Hironobu Sakaguchi]].
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Yugiri Mistwalker]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ninjas]]
+[[Category:Au Ras]]

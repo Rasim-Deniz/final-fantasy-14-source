@@ -1,0 +1,49 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Kai-Shirr
+|release=FFXIV
+|japanese=カイ・シル
+|romaji=Kai Shiru
+|aka=
+|image=FFXIV ShB Kai-Shirr.png
+|home=[[Kholusia]]
+|age=
+|affiliation=[[Eulmore|The Beehive]]
+|race=[[Miqo'te|Mystel]]
+|gender=Male
+|type=npc
+|japanese voice actor=Mutsuki Iwanaka
+|english voice actor=Charlie Rix
+}}
+
+'''Kai-Shirr''' is a [[non-playable character]] from ''[[Final Fantasy XIV]]'', first appearing in the expansion ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]''. In patch 5.1 ''Vows of Virtue, Deeds of Cruelty'', Kai-Shirr became a client for the Custom Deliveries system.
+
+==History==
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+
+===Custom Deliveries===
+{{Section|Final Fantasy XIV}}
+
+==Characteristics==
+===Appearance===
+Kai-Shirr is a blue haired mystel with blue eyes. He wears a hempen tunic with knee high culottes and brown leather shoes.
+
+===Personality===
+Initially introduced as a troublemaker who intended to steal Alphinaud's idea to get into [[Eulmore]], Kai-Shirr is just a boy who wanted to get into the city to see his friends and fulfill the promise of being together again in paradise. Over time he grows as a person and assists in making the city thrive.
+
+==Gallery==
+<gallery>
+FFXIV ShB Kai-Shirr captured.png|Alphinaud questioning Kai-Shirr
+FFXIV ShB Kai-Shirr Eulmore.png|Kai-Shirr, injured
+FFXIV Kai-Shirr (Custom Deliveries).png|Custom Deliveries portrait
+FFXIV ShB Kai-Shirr Friends.jpg|Kai-Shirr with his friends
+FFXIV ShB Kai-Shirr Beehive.jpg|Kai-Shirr in the Beehive
+</gallery>
+
+==Etymology==
+His name may be derived from the Chinese phrase 开始 (kāi shǐ), which means "start/to begin" (anew).
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Custom Delivery NPCs]]

@@ -1,0 +1,51 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Jenlyns Aesc
+|release = FFXIV
+|japanese =ジェンリンス・エスク 
+|romaji =Jenrinsu Esuku 
+|image = [[File:FFXIV_Jenlyns_01.png|thumb|250px|]]
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Blonde
+|eye = Blue
+|designer = 
+|age = 29
+|home=[[Ul'dah]]
+|affiliation = [[Sultansworn]]
+|occupation = Captain
+|job = {{icon|ffxiv|discipline|paladin}}
+|weapon =Cobalt Winglet 
+|armor =Gallant 
+}}
+
+'''Jenlyns Aesc''', also known as '''Jenlyns Straightblade''', is a [[non-player character]] in ''[[Final Fantasy XIV]]''. He is the captain of the Sultansworn and the trainer for [[Paladin (Final Fantasy XIV)#Paladin|Paladins]].
+
+== History ==
+Jenlyns is met during the quest "Paladin's Pledge," where he seeks to recruit a free Paladin in response to a sensitive matter concerning a traitor in the Sultansworn who stole the Oathkeeper. As part of the initiation, the Adventurer must light a brazier on the outskirts of Little Ala Mhigo and defeat the undead creatures drawn to it. While completing the trial, a mysterious Roegadyn claiming to be a free Paladin hands over a stone. Jenlyns later realizes that man was the traitor.
+
+As the adventurer trains in the paladin arts, Jenlyns reveals the traitor was his predecessor, [[Solkzagyl]], whom had originally inspired him to join the Sultansworn. He explains that Solkzagyl was seemingly a puppet under the Monetarists, due to a number of Paladins being poisoned by a group called Death's Embrance, employed by them.
+
+Shortly after the adventurer obtained pieces of ceremonial garb of the Paladin, Jenlyns states the traitor was seen near Forgotten Springs, and asks that the Adventurer go parley with him. Upon arriving at the meeting spot, Jenslys appeared with several Sultansworn and accused the Adventurer of being a traitor in league with the monetarists. After fending them off in self-dense, a mysterious assassin tries to finish Jenlyns off with an arrow, only to be blocked by Solkzagyl himself. He explained that Jenlyns was blinded by his conviction that he couldn't see that he was being manipulated by the Monetarists, who framed Solkzagyl over the theft of the Oathkeeper. As Jenlyns passes out from his injuries, Solkzagyl carries him off to recover.
+
+In the final quest, "Keeping the Oath," Jenlyns explains that since the Monetarists want him dead after he learned about Death Embrace, he states he will allow them to learn he is heading to [[Snowcloak]], where the intends to fight off the assassins. He then mentions Solkzagyl wanted a word in Central Thanalan. Speaking with the senior Paladin, he declares that Jenlyns will die if he tries to fight off the assassins alone, and intends to to go his aid. He asks then what path the Adventurer will choose.
+
+At Snowcloak, the Adventurer catches up to Jenlyns and Solkzagyl, who prepare to fight off the unusual assassins: voidsent. Realizing a mage must be responsible, they search the area until they discover a strange grimoire. The arcanist reveals himself and is fought off by the trio of paladins. With the threat gone, Solkzagyl declines the offer to return to his post as captain, stating that having left the order he can't return, and believes Jenlyns has proven himself qualified as captain thanks to his training of the Adventurer. Back in Ul'dah, Jenlyns states he believes the Monetarists will likely back off after the what transpired at Snowcloak. He then presents a gallant surcoat, believing that as a free Paladin the adventurer has earned it.
+
+== Characteristics ==
+=== Appearance ===
+Jenlyns is a male midlander hyur with blonde hair. He wears a gallant surcoat as befitting a high ranking Paladin.
+
+=== Personality ===
+{{Section}}
+
+== Gameplay ==
+Jenlyns is normally seen in the Royal Promenade, where he issues the job quests for Paladins.
+
+He is fought as a boss in the Paladin quest level 45 {{icon|ffxiv|quest|Parley in the Sagolii}}, and later fights alongside the player during the Paladin quest level 50 {{icon|ffxiv|quest|Keeping the Oath}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Paladins]]
+[[Category:Hyurs]]

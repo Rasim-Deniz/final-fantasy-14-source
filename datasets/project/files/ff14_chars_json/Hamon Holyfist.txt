@@ -1,0 +1,68 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name= Hamon Holyfist
+|release=FFXIV
+|japanese=拳聖のハモン
+|romaji=Kensei no Hamon
+|lit=Hamon Holyfist
+|image=FFXIV Hamon Holyfist.png
+|home=[[Ul'dah]]
+|affiliation=Pugilists' Guild
+|occupation=Guildmaster
+|race=Midlander [[Hyur]]
+|gender=Male
+|hair=White
+|eye=Brown
+|age=Has claimed to be 60 for at least the last decade.<ref name=EE140>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 140</ref>
+|job={{icon|ffxiv|discipline|pugilist}}
+|type=npc
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+
+'''Hamon Holyfist''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. He is the [[Monk (Final Fantasy XIV)|Pugilist]] Guildmaster who resides in [[Ul'dah]] and gives the quests for the Pugilist storyline.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Once Warrior of Light joins the Pugilists' Guild, Hamon trains them and introduces [[Chuchuto Chuto|Chuchuto]], his assistant and first student. In the middle of training, the Warrior of Light discovers that an illicit drug called somnus is being smuggled into Ul'dah via [[Black Brush Station]]. Instead of the lesson he had planned, Hamon orders the Warrior of Light to track down and arrest the smugglers.They discover that one of the smugglers is actually [[Rurukuta]], a missing pugilist who discovered that Hamon was weak and decided to leave the guild. Hamon admits that he is weak due to his age. Despite having discovered the truth about Hamon's condition, Chuchuto respects him no less and wishes to rekindle the fire of passion within Hamon.
+
+Recent events have made Hamon deeply depressed. Chuchuto believes that if Warrior of Light were to train the way Hamon did before, they can serve to cheer up their master again. Chuchuto asks the Warrior of Light to bring wasp stings, and this reminds Hamon of his youth and expresses his fervent desire to be like his old self again. Hamon demands that the Warrior of Light fight him.  As soon as the fight is over, his former rival, [[Weggfarr]], arrives on the scene with Rurukuta. Having mocked Hamon's efforts, Weggfarr challenges him to a public rematch, with the Pugilists' Guild itself as the prize for the winner. And Hamon is determined to face Weggfarr again. 
+
+During a training session, Chuchuto and the Warrior of Light are attacked by Rurukuta and his minions. The duo manage to defeat Rurukuta and learn his true agenda.  Rurukuta only wants his master to live, even if it means swallowing his pride and running away from the impending fight. Aware that Hamon is in good hands, Rurukuta says goodbye. Although he appreciates Rurukuta's feelings, Hamon is more determined than ever to face Weggfarr.
+
+Once Weggfarr returns to Ul'dah, he is knocked down by Hamon before he even uses his axe. Not wanting to admit defeat, Weggfarr resorts to using a substance he calls pluton to increase his strength and comes at you in a frenzy. With Rurukuta fighting alongside the Warrior of Light, they defeat Weggfarr and his minions. Having realized his mistakes, Rurukuta declares that he will embark on a journey of self-discovery. Hamon asks that the Warrior of Light continue to dedicate themselves to their training, so that one day they can become a legend in their own right.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[Widargelt Beake|Widargelt]] invites Hamon and his disciples to hold a cross-discipline match between the monks and the pugilists. Hamon, Chuchuto and Rurukuta travel to [[Fringes|the Fringes]] but the match is cancelled before it even happens due to the intervention of [[Adri]] and his subordinates. Later, Hamon's party finds out about the duel between Widargelt and Adri and they go there to offer their forces to defeat Adri's subordinates. 
+
+==Characteristics==
+===Appearance===
+Hamon Holyfist has gray hair, a mustache and a beard. Hamon wears a black skullcap, and has black fisticuffs. He is a muscular old man and likes to display a proud appearance.
+
+===Personality===
+{{Quote|You mean to say you do not know Hamon Holyfist, the man who once ruled the bloodsands!? ...Hmmm, mayhap it was before your time. Aye, I used to be champion of the Coliseum, but these days I train young hopefuls as master of the Pugilists' Guild.|Hamon, in response to being asked about himself by the Adventurer}}
+As a former Coliseum star, Hamon Holyfist is boastful and self-centered. Even when helping train students, Hamon thinks about his own agenda, be it sending his students around the city to pick up discarded [[gil]] or asking them to practice on training dummies in the middle of the street to draw a crowd. His penchant for skirtchasing often gets the better of him. He has a warm and caring side, which he displays when he speaks of his students, such as the two he personally adopted off the street, Chuchuto and Rurukuta. He takes great pride in the accomplishments of his students, such as the Warrior of Light, whom he refers to as the second coming of the Holyfist.
+
+==Gameplay==
+Hamon Holyfist is fought during the level 20 Pugilist quest {{icon|ffxiv|quest|Keeping the Spirit Alive}}. He tests the players' skill to rediscover his true self. Every time he is defeated, he will revive at full health, and a few levels higher. This repeats until the quest is concluded.
+
+Hamon is fought again during the level 30 Pugilist quest {{icon|ffxiv|quest|Return of the Holyfist}}, in the first duty. He must be defeated three times; the first time, the ability snap punch must be used three times to demonstrate the flow of the monk's combinations. The second and third times, Hamon must be defeated. Hamon grows stronger and in his third fight, will use the ability Hundred Fists to massively increase his attack speed.
+
+Hamon is an allied NPC in level 70 monk quest {{icon|ffxiv|quest|The Power to Protect}}.
+
+==Behind the scenes==
+In the English translation, he makes a reference to the 1996 ''Doom'' comic during the level 15 quest "The Spirit Is Willing," quoting "These toads are huge, which means they have huge guts" and "Rip and tear through your foe with a Haymaker!"
+
+==Etymology==
+''[[wikipedia:Hamon (swordsmithing)|Hamon]]'' {{J|刃文|Hamon|blade pattern}} is a visual effect created on the blade by the hardening process. 
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Pugilists]]
+[[Category:Hyurs]]
+[[Category:Guildmasters]]

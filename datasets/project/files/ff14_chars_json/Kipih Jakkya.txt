@@ -1,0 +1,76 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Kipih Jakkya
+|release=FFXIV
+|japanese=キピ・ジャッキヤ
+|romaji=Kipi Jakkiya
+|lit=
+|aka=
+|image=FFXIV Kipih Jakkya.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=Reporter of ''The Raven''
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=Blonde
+|eye=Green
+|type=npc
+|job=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Greetings, adventurer. I'm Kipih Jakkya, reporter for The Raven. You have heard of Gridania's leading tabloid, I trust?|Kipih Jakkya}}
+'''Kipih Jakkya''' is a character from ''[[Final Fantasy XIV]]'', first appearing in [[Final Fantasy XIV/Legacy|the original version]] as a gamemaster-controlled character and then in ''A Realm Reborn'' as a [[non-player character]].
+
+She is a reporter for the Gridanian magazine ''The Raven'', usually being involved in some special events.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+Kipih served as a reporter during the Sixth Astral Era, she began her reporting job as the arrival of the next calamity began. She reported on the happenings around Eorzea and interviewing adventurer's about the coming umbral era. But as voidsent began appearing at aetheryte camps and the war with garlemald reaching its climax, she feared Eorzea was no longer safe and wrote a final report. Nearing those final days she fled with her younger brother to the Gridania's border where she was safe from the cataclysm Bahamut caused. She returned to Gridania following the primal's rampage, learning that some of her close friends and colleagues perished, but continued to live on despite the hardships she faced. {{Section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+====''[[Lightning Strikes (Final Fantasy XIV)|Lightning Strikes]]''====
+{{Section|Final Fantasy XIV}}
+
+====''[[A Nocturne for Heroes]]''====
+{{Section|Final Fantasy XIV}}
+
+====''[[Rising Calm]]''====
+{{Section|Final Fantasy XIV}}
+
+==Characteristics==
+===Appearance===
+Kipih is a seeker of the sun miqo'te with blonde hair and bright green eyes. she wears a tunic with the top half being blue with bird like patterns with a belt and bags along her waist. She wears thigh high leggings, black shoes and wears a hat with a large blue feather on the front. 
+
+===Personality===
+Kipih has a curious personality about what goes on in Eorzea and writes about them for the raven, she cares about others and her little brother.{{Section}}
+
+==Behind the scenes==
+During the events of the [[Seventh Umbral Era]], Kipih Jakkya mentioned she has a little brother.
+
+It is implied that the [[Lightning Returns: Final Fantasy XIII garbs#Miqo'te Dress|Miqo'te Dress]] garb Lightning can wear in ''[[Lightning Returns: Final Fantasy XIII]]'' was given to her by Kipih Jakkya while she was in Eorzea.
+
+==Gallery==
+<gallery>
+FFXIV Rising 2021.jpg|Kipih in the Rising 2021 artwork.
+</gallery>
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

@@ -1,0 +1,66 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{DISPLAYTITLE:Phlegethon (''Final Fantasy XIV'')}}
+{{Infobox character
+|name=Phlegethon
+|release=FFXIV
+|japanese=ティターン
+|romaji=Titān
+|lit=Titan
+|aka=Acheron
+|image=FFXIV Acheron.png
+|race=
+|gender=Male
+|height=
+|hair=
+|eye=
+|designer=
+|age=
+|affiliation=[[Allagan Empire]]
+|occupation=
+|type=boss
+|job=
+|weapon=
+|armor=
+}}
+{{Quote|Famous even among these endless conflicts was the rebellion led by the mighty general Phlegethon. Imperial annals paint him as a murderous villain, but the writings of the commonfolk reveal Phlegethon's status as a hero of the people. Adored though he was, the revolutionary leader was eventually captured by agents of the empire. Scholarly records give a chilling account of how his body was forcibly altered through sorcery and science, his mind broken and conditioned to obey.|NOAH Report: Phlegethon}}
+'''Phlegethon''' (known as '''Acheron''' before version 2.3), is a boss in ''[[Final Fantasy XIV]]''. He is fought in the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower: Labyrinth of the Ancients]] and is fought in the upper area of the Labyrinth after the first three bosses, [[Bone Dragon (Final Fantasy XIV)|Bone Dragon]], [[Thanatos (Final Fantasy XIV)|Thanatos]] and [[King Behemoth (Final Fantasy XIV)|King Behemoth]], are defeated.
+
+==History==
+According to legend, Phlegethon was the hero of an Allagan uprising before he was sealed within [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] the while augmented with his people's technology. After the event of the [[Seventh Umbral Era]], [[Garlond Ironworks]] funded the Adventurers' journey into the Labyrinth of the Ancients where they face Phlegethon at the Hall of the Inexorable leading to the base of the Tower itself.
+
+==Characteristics==
+Phlegethon appears as a giant, golden humanoid wielding a large curved blade and black patterns or tattoos across his body. His blueish cape seems to be attached to his red collar. He has yellow hair.
+
+==Gameplay==
+{{main|Phlegethon (boss)|The Labyrinth of the Ancients}}
+Phlegethon is battled in a large circular arena with a gutter circling it. In the gutter sits three buttons that for most of the fight are submerged in Lava.
+
+In the {{icon|ffxiv|duty|Syrcus Tower}}, players can obtain tanking gear named after Phlegethon that makes them resemble him.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:Acheron XIV TCG.png|right|100px]]
+Phlegethon appears in ''Final Fantasy Trading Card Game'' with an earth-elemental card.
+{{clear}}
+
+==Behind the scenes==
+Phlegethon is based on the version of [[Titan (Final Fantasy III)|Titan]] from ''[[Final Fantasy III]]'' in coloring and ability set, who served as the boss of the "Ancients' Maze". Because both "Titan" and "Hecatoncheir" are used as terms and names in ''Final Fantasy XIV'' already, "Acheron" was the only available name from that enemy set. During the creation of the second part of Crystal Tower, the Japanese development team forgot that the name was already used in the English version and put in a version of the very same gray-skinned [[Acheron (Final Fantasy III)|Acheron]] enemies from the earlier game, complete with the name. Rather than have Acheron refer to two different enemies depending on the game version, or have two enemies named Titan, the character was renamed Phlegethon (see etymology below).<ref>http://forum.square-enix.com/ffxiv/threads/178311-The-Sad-Tale-of-Phlegethon-and-Acheron</ref>
+
+==Gallery==
+<gallery>
+Unknown Crystal Tower Boss FFXIV Art.jpg|Concept art.
+Crystal Tower Bosses FFXIV Art.jpg|Phlegethon and the other bosses of the Crystal Tower.
+FFXIV Phlegethon (boss).png|Phlegethon in-game.
+</gallery>
+
+==Etymology==
+{{Etym|Phlegethon}}
+
+{{Etym|Acheron}}
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

@@ -1,0 +1,40 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Chieftain Moglin
+|release=FFXIV
+|japanese=長老モグリン
+|romaji=Chōrō Mogurin
+|lit=Elder Moglin
+|image=FFXIV Moglin.png
+|home=[[Churning Mists#Moghome|Moghome]]
+|affiliation=
+|age=
+|race=[[Moogle (race)|Moogle]]
+|gender=Male
+|eye=
+|type=npc
+}}
+'''Chieftain Moglin''' is a [[Moogle (race)|moogle]] from ''[[Final Fantasy XIV]]''. He is the chieftain of the moogles in the [[Churning Mists]], first appears in the main scenario of ''[[Final Fantasy XIV: Heavensward]]''.
+
+{{See|Moglin}}
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Section}}
+
+==Characteristics==
+===Appearance===
+===Personality===
+
+==Gameplay==
+Chieftain Moglin is fought as the first boss of {{icon|ffxiv|duty|Sohr Khai}} as part of [[Hraesvelgr]]'s trial.
+
+==Gallery==
+<gallery>
+FFXIV Moglin Bed.png|Moglin on his bed.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Moogles]]

@@ -1,0 +1,106 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Fordola rem Lupis
+|release=FFXIV
+|japanese=フォルドラ・レム・ルプス
+|romaji=Forudora Remu Rupusu
+|aka=The Butcher {{j|髑髏の処刑人|Dokuro no Shokeinin|Skull's Executioner}}, Fordola Lupis
+|image=FFXIV Fordola.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Ala Mhigo]]
+|age=19
+|dob=
+|affiliation=[[Ala Mhigan Resistance]]<br/>[[Garlean Empire]] (former)
+|occupation=Commander of the Imperial army (Former)
+Conscript of the Ala Mhigan Resistance
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=Olive
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=Scimitar, gunblade
+|armor=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[wikipedia:Marika Hayashi|Marika Hayashi]]
+|english voice actor=[[wikipedia:Annabel Scholey|Annabel Scholey]]
+}}
+{{Quote|A young soldier born and raised during the imperial occupation of Ala Mhigo, Fordola was promised the world—education, training, citizenship—in exchange for service. Scorned as traitors by their people and savages by their Garlean masters, she and others like her struggle to forge their own path in an unforgiving world.|Official website}}
+'''Fordola rem Lupis''' is a [[non-player character]] from ''[[Final Fantasy XIV]]'', and the secondary antagonist of ''[[Final Fantasy XIV: Stormblood]]''. She is a traitor to her homeland of [[Ala Mhigo]] and now serves under the [[Garlean Empire]], stationing in Ala Mhigan territories as commander of the [[Crania Lupi]].
+
+==History==
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV Fordola and Dad.png|thumb|left|Fordola's father protecting her from the Ala Mhigans.]]
+Fordola's father had believed that collaboration with the Empire was the most peaceful way for Ala Mhighans to survive despite the rage most citizens felt. After his death at the hands of an angry mob when he was protecting her, Fordola became hardened and embittered, believing her father deserved better. Fordola resolved to make the Garleans respect her and her people despite the hardship and humiliation she had faced.
+
+When Ala Mhigo was under the command of [[Gaius van Baelsar]], he appointed Fordola and other Ala Mhigans born from dignitaries as honorary citizens of the Empire by serving in the Garlean militant group known as the Crania Lupi. Despite their rank they are looked down upon as traitors to their people (who call them "Skulls") and as savages by most imperials. Fordola and her comrades believe their actions are for the good of the Ala Mhigan people and work towards their goal of being accepted by both Ala Mhigans and imperials regardless of what it takes.
+
+After overseeing an Ala Gannha villager give tributium to her platoon, Fordola is present when the crown prince of Garlemald, Zenos yae Galvus, arrives to Ala Mhigo Castle. She piques his interest when she offers a means to eliminate the [[Ala Mhigan Resistance]], following that action of working with Raubahn Aldynn to take out prototype [[Magitek]]. This involves a direct attack on [[Rhalgr's Reach]], with Fordola spearheading the assault. She deals a blow to the rebels by killing Meffrid and injuring [[Conrad Kemp]]. She is defeated by the Warrior of Light, until Zenos arrives personally to deal with the rest of the Resistance.
+
+{{Quote|I want to make them pay! All of them! Everyone who ever mocked or looked down on me—I want the power to make them pay!|Fordola}}
+[[File:FFXIV Fordola gets Gunblade.png|thumb|Fordola receives a gunblade as a reward from Zenos.]]
+Later capturing [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Mayer Baldesion]], Fordola is awarded with one of Zenos's men's gunblades and is entrusted with Castellum Velodyna. There, either out of ignorance or to ensure the [[beastmen]]'s loyalty would not sway to their Vira cousins, Fordola takes the Qalyana broodmother's daughter Anamika hostage. After losing Velodyna when the Resistance and the Alliance stage Operation Rhalgr's Beacon, Fordola is forced to fall back with Anamika before being surrounded by the Qalyana. Anamika is accidentally killed and the Ananta primal Lakshmi is summoned, forcing Fordola and her men to flee. Fordola returns to Ala Mhigo palace to accept whatever punishment awaits her. Zenos spares her once having her admit her deepest desire is to make those who looked down on her suffer, and has her be turned into a [[Resonant]] by [[Aulus mal Asina]].
+
+Arriving to Castrum Abania during the attack on the Specula Imperatorius, Fordola relays Zenos's order to fire on Imperatorius's main tower, knowing that her own people would be killed. When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the Scions of the Seventh Dawn infiltrate Castrum Abania and storm the control center, Fordola admits her actions to Lyse while revealing her new powers. Fordola wounds [[Alisaie Leveilleur]] before escaping in a Magitek while giving the Warrior of Light's group Zenos's invite to Ala Mhigo Castle for a "royal hunt". When the Scions infiltrate the Resonatium where Krile is held as the Alliance and Resistance capture the capital city, Fordola confronts them. The group uses [[Urianger Augurelt]]'s [[aether]]ic siphon to weaken Fordola for Lyse to subdue while others free Krile. Fordola is taken to Alliance custody and she lives as a prisoner to see Ala Mhigo no longer under [[Garlean campaign|Garlean occupancy]].
+
+The incensed Ala Mhigans attempt to take Fordola's life after someone leaks info about her captivity. They are stopped by Raubahn, who convinces them to stand down citing Fordola may be aware of the whereabouts of the prisoners still within imperial custody. The Warrior of Light, Lyse, M'naago, Arenvald and [[Alphinaud Leveilleur]] visit her cell to discuss the prisoner situation. Fordola claims to want nothing but death as this would unite Ala Mhigo, but Arenvald questions her resolve as she could have died at any time, but chose not to. Fordola denies his claims when the Warrior of Light's [[Echo (Final Fantasy XIV)|Echo]] triggers, allowing them to witness her past upbringing and what caused her to side with the Empire. Fordola's Resonant powers cause her to see the Warrior's life and memories, and she is left aghast at what she witnessed and felt; the pain of losing her father dwarfed by the endless fighting and numerous betrayals and losses the Warrior of Light has suffered up until now. Unable to grasp why the Warrior still fights on, Lyse leaves Fordola to continue thinking about her next decision.
+
+Lyse rushes to her cell and frees Fordola from confinement while giving her a weapon as Lakshmi had been summoned within the throne room with the intent of enthralling everyone present. She grabs the weapon and joins in the fight, joining her Resonant power with that of Arenvald's and the Warrior of Light's Echo to shield the bystanders. With their combined might they fell the primal. She is confronted by Ala Mhigans and her Resonant power causes her to experience the pain they felt at the hands of her Skulls. With her job done, Fordola drops her weapon and starts to return to her cell. She is stopped by Raganfrid, who reminds her that she is not forgiven for her misdeeds—but on behalf of everyone present—extends his gratitude for saving them from the primal's enslavement. For once in her life Fordola has received gratitude from her countrymen, shedding a tear before returning to her confinement.
+
+Fordola is conscripted by Raubahn as a weapon to aid the Eorzean Alliance against primal uprisings, as well as serving her sentence outside of a cell. As a precaution, she is fitted with a cursed choker that would strangle her should she slip loose. She is dispatched in a party alongside Arenvald to southern Thanalan in response to a summoning of [[Ifrit (Final Fantasy XIV)|Ifrit]] and defeats the primal.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+In the Level 80 [[Summoner (Final Fantasy XIV)|Summoner]] quest "To Be Second Best", the Warrior and Arenvald visit Fordola in her cell at Jajasamu's request to learn of their thoughts on fighting primals. Upon hearing of the Warrior's journey in [[the First]], Fordola laments that though she wanted Resonant powers, she was burdened with guilt over those who were sacrificed. She now believes that she can honor them by using her powers for good.
+
+Following [[Fandaniel]] and [[Fandaniel's towers|his towers]]' appearances across the Source, Fordola and Arenvald are assigned by Raubahn to investigate them. They journey to the tower at [[Paglth'an]] and discover [[Amalj'aa]] prisoners whom Arenvald attempts to free, but unintentionally causes them to summon [[Ifrit (Final Fantasy XIV)|Lunar Ifrit]]. Arenvald shields Fordola from the lunar primal, leaving him paralyzed from the waist-down. She later lambasts Alphinaud for his idealism, only to be called out by [[Estinien Wyrmblood]], empathizing with her for her realistic but darkened views, but pointing out that idealists like Alphinaud have the conviction to rise above others. After bringing a wheelchair-bound Arenvald to [[Gridania]] to meet with Alphinaud, Fordola, having been moved by Estinien and Alphinaud's words, encourages Arenvald to stop feeling sorry for himself and find other ways to make the most of his life.
+
+==Characteristics==
+===Appearance===
+Fordola boasts both the dominating physique and the unflinching stance of an Ala Mhigan warrior. She wears light, segmented armor whose lack of ornamentation denotes her status as both a conscript and a commander. In battle she wields a scimitar and a small buckler shield. Her face is wrought into determined expressions, complemented by a warrior's face paint and orange hair, streaked with yellow. Fordola possesses the same [[Tattoo (body modification)|tattoo]] as her father, likely to honor his memory and remind her what she is fighting for. Unlike [[Zenos yae Galvus]], Fordola only possesses one eye that turns [[Resonant]].
+
+===Personality===
+Fordola is forged in hardship and tempered by suffering. She carries a single-minded desire to see Ala Mhigans accepted by mainstream Garlean society and considers collaboration with the Empire to be her people's only hope. After years of conscription and servitude to the Garlean military—one who treated her as dispensable cannon fodder—she has become brutal and unrelenting in her loyalty to the Empire. This manifests in bitterness, rashness, and a fear of her own self-sacrifice. Above all else Fordola desires to survive to see her people raised above their current squalor. She is driven by the memory of her father's death.
+
+{{spoiler}}
+When defeated and imprisoned by the resistance, Fordola remains defiant, wanting to be executed, feeling she has nothing left to live for. [[Lyse Hext]], despite her lingering grudge towards her, believes there is hope for Fordola in redeeming herself. Fordola brushes off these attempts, but ultimately aids the [[Scions of the Seventh Dawn]] and the resistance against the [[primal]] [[Lakshmi (Final Fantasy XIV)|Lakshmi]], proving that despite her crimes, Fordola remains loyal to her homeland. Some time after being conscripted by [[Raubahn Aldynn]], she feels guilt over wanting her "tainted" powers and over those who were sacrificed for research, but resolves to honor the fallen by using her Resonant abilities against primal uprisings.
+
+Though having defected and working to redeem herself, Fordola remans rather hard-hearted and cold, even with those who believe she has potential, such as Arenvald Lentinus who wishes to befriend her. Her experiences ultimately darkened her view of the world, believing that the battlefield is no place for the weak-hearted or the idealistic.
+{{Endspoiler}}
+
+==Gallery==
+;Artworks
+<gallery>
+FFXIV SB Fordola Concept.jpg|Concept art.
+FFXIV Fordola Artwork.png|Artwork.
+FFXIV SB Ala Mhigo promotional poster.jpg|Fordola in ''Stormblood'' promotional artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Fordola 02.png|Close-up.
+FFXIV Fordola Resonant Eye.png|Fordola's Eye of Resonance.
+FFXIV Fordola Magitek Aircraft.png|Fordola on an imperial magitek aircraft.
+FFXIV Young Fordola.png|Young Fordola with her parents.
+FFXIV Fordola joining the Imperial Army.png|Fordola joining the Imperial Army.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Fordola rem Lupis]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]
+[[Category:Garlean citizens]]

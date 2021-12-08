@@ -1,0 +1,24 @@
+{{sideicon|prime=FFXIV}}
+{{Quote|Their journey brought them to a wide chasm, whereupon Thordan and his people set to building a bridge. It was then that a dark shadow descended upon them─the great wyrm Nidhogg. Heedless of his own safety, Thordan fearlessly charged at the colossal beast. Alas, he was pushed into the chasm by one of his own, a man seduced by the wyrm, and fell to his death.|[[Alberic Bale|Ser Alberic Bale]].}}
+'''King Thordan I''' is a historical character in ''[[Final Fantasy XIV]]''. During the days of the founding of the Holy See of [[Ishgard]], King Thordan fell in battle with the wyrmking [[Nidhogg (Final Fantasy XIV)|Nidhogg]]. His son [[Haldrath]] took up his lance and exacted revenge by removing the wyrmking's eye. While most of his backstory is elaborated in the [[Dragoon (Final Fantasy XIV)#Dragoon|Dragoon]] job quests in the form of the legend of the founding of Ishgard, ''[[Final Fantasy XIV: Heavensward|Heavensward]]'' revealed a dark truth behind the story.
+
+==History==
+[[File:FFXIV Thordan Painting.png|250px|right|Thordan stylized]]
+Thordan, first of his name, lived in the time of founding of the city-state of Ishgard during the beginning of the Sixth Astral Era. Two hundred years prior, through [[Shiva (Final Fantasy XIV)|Saint Shiva]] allowing her beloved [[Hraesvelgr]] to devour her so their souls would remain together, there was peace between the dragons and the Landlords. Knowing that the source of a great wyrm's power is in their eyes, King Thordan coveted the power.
+
+With his Twelve Knights, they betrayed [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]] and murdered her to obtain her eyes, consuming them. [[Nidhogg (Final Fantasy XIV)|Nidhogg]] was the first to learn of this treachery and attacked them in an epic battle. Thordan and four of his knights were slain, with Nidhogg driven off by the loss of his eyes. When Haldrath decided to abdicate the throne in remorse for what they had done, he and three others chose to go their seperate ways. The remaining four knights became stewards of Ishgard and founded the four High Houses.
+
+In time, the truth behind Thordan's conflict with the wyrmking was altered and revised by church scripture: King Thordan would be depicted as a visionary who led their ancestors to Coerthas in search of the "Promised Land," with Nidhogg setting upon them as they attempted to build the Steps of Faith. Thordan fearlessly engaged the colossal wyrm in battle that lasted seven days and cost him the lives of half of his twelve knights, but was pushed into the chasm by his men who was enthralled by the wyrmking. Then Thordan's son Haldrath took his father's spear and avenged him by taking one of Nidhogg's eyes. All other details, including what became of Nidhogg's other eye and the time of peace with dragons were omitted from written history, with only the highest church officials being aware of what really happened.
+
+For a millenium, the legend of King Thordan and his Twelve Knights endured as a pillar of faith among the Ishgard's commonfolk, as they suffered centuries of war by Nidhogg and his horde. Archbishop [[Thordan VII]] would ultimately utilize the faith in the legend of King Thordan and his Twelve Knights to become [[Knights of the Round (summon)|a primal]].
+
+
+{{navbox characters FFXIV}}
+
+[[Category:Unseen characters]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Knights]]
+[[Category:Elezens]]
+[[Category:Kings]]
+
+[[pt-br:Thordan I]]

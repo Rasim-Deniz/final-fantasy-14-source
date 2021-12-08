@@ -1,0 +1,85 @@
+{{sideicon|prime=FFXV}}
+{{DISPLAYTITLE:Garuda (''Final Fantasy XV'' boss)}}
+{{infobox  enemy
+|name=Garuda
+|release=FFXV
+|japanese=ガルーダ
+|romaji=Garūda
+|image=Primal Garuda (XV).png
+|location=[[Perpetouss Keep]]
+|type=Boss
+|original=Garuda (Final Fantasy XIV)
+}}
+{{Quote|Wretched insects of this alien world... Rejoice...and fall to your knees in supplication! I, the supreme deity Garuda, shall rule over the skies and fill them with storms!|Garuda}}
+'''Garuda''' is a [[boss]] and a [[superboss]] in [[Adventurer from Another World]] [[collaboration]] quest with ''[[Final Fantasy XIV]]'' in ''[[Final Fantasy XV]]'' added in [[Final Fantasy XV patches|patch 1.27]]. Her battle is called The Howling Eye in reference to the battle against her in the MMORPG.
+
+Garuda is a [[primal]] from [[Eorzea]] summoned into existence by the [[Ixal]] beastmen at [[Perpetouss Keep]]. The player party fights her as the final boss of the quest and can challenge her Lv.120 form after for an additional challenge (but will still receive only one [[Allagan Tomestone]]).
+
+Garuda is immune to Libra and doesn't have a [[Bestiary (Final Fantasy XV)|bestiary]] entry, making her stats (bar her [[level]], which is 45 for the normal battle) unobservable. The Lv.120 battle is on a "time limit", as it ends if she destroys too many [[Meteor of the Six|meteorshards]] before unleashing her hurricane attack. She is supported by [[Razor Plume]]s, [[Chirada (Final Fantasy XV)|Chirada]] and [[Suparna (Final Fantasy XV)|Suparna]]. [[Y'jhimei]], who [[guest|supported the party]] as a healer in previous battles, does not take part against Garuda.
+
+The boss battle(s) can be repeated.
+
+==Battle==
+{{Quote|Behold as my gales drown out your arrogant protestations. Tremble as my winds tear you limb from limb! Surrender yourselves unto me... I would feast upon your aether. NONE SHALL STAND AGAINST THE WIND!|Garuda}}
+Garuda is weak to one-handed swords.
+
+The battle arena starts with four meteorshards that can be used for [[Warp (Final Fantasy XV)|point-warping]], but Garuda's attacks damage them (though their health is hidden from the player). Garuda damages the meteorshards via her summoned plumes or through attacking them. She won't specifically target the shards, but they get damaged if fighting is happening around them, and thus the player is advised to lure her away from their vicinity to preserve them for longer.
+
+Garuda is a flying opponent and when she soars up high, [[Noctis (Final Fantasy XV party member)|Noctis]]'s [[warp-strike|warp-striking]]+airstepping is the only/best way of damaging her. The player can target the main body and the wings separately, and breaking her wings yields [[Vortex Feather (Final Fantasy XV)|Vortex Feathers]] for use in Y'jhimei's trading post.
+
+[[File:Garuda and her supports from FFXV.png|thumb|Garuda and her copies.]]
+While ground-level she attacks with punches and kicks at those near to her and does a pirouette that damages those in her vicinity. She can fly upward, disappear and drop down energized plumes only to reappear elsewhere on the battlefield. When far away she can blast a powerful wind attack that travels across the ground. When fighting Noctis midair, she swipes her wings in wide arcs and might use herself as a "bullet" to plunge down to return to being a ground-based opponent, damaging everyone on her way down. Garuda's Aerial Blast is a powerful hurricane that knocks the party off their feet and deals more damage the closer the player is to her when she uses it.
+
+She can "copy" herself by manifesting her supports, Chirada and Suparna, who only use melee attacks and are much weaker than her and largely act as distractions. Rather than being weak to one-handed swords like the real Garuda, they are weak to greatswords. Garuda also summons Razor Plumes that may wander about aimlessly or circle her as both a guard and distraction. The real Garuda is distinguishable from the "copies" at a glance by the Razor Plumes that only accompany the genuine article. If the player kills her supports, Garuda might summon them again.
+
+When her wing breaks when soaring, she may plummet to the ground and be vulnerable for a time, unable to fight back. When she is vulnerable, the player can initiate a [[cross chain]] against her.
+
+She is immune to magic from the [[Ring of the Lucii]].
+
+===Level 45===
+If all meteorshards are shattered the [[Garuda (Final Fantasy XV summon)|Messenger of the Winds]] summon sequence is triggered. If the party is entirely [[Final Fantasy XV statuses#Down|KO'd]], the Messenger sequence still triggers, and the party is healed to full health for the player to initiate the summon command. Summoning ends the battle even if the summon did not do enough damage to actually deplete Garuda's health.
+
+===Level 120===
+The Lv.120 variant of Garuda ignores [[Magitek Exosuit]]s' protection, and thus the player is better off using another [[attire]].
+
+Garuda will use Aerial Blast when at half health. She appears to the center of the arena and conjures massive tornadoes, which shatter all the meteorshards. If there are fewer than two shards left, the battle ends with the player's loss. Thus, to win the "superboss" encounter the player should work fast. This mechanic alludes to the ''Final Fantasy XIV'' fight, where players need the crystal pillars to remain intact when Garuda casts Aerial Blast to survive it. In ''Final Fantasy XV'', the player is booted from the battle if Garuda conjures her hurricane with only one or no meteorshards left standing.
+
+To win the Lv.120 encounter, the player must deplete her health to 0. The summoning prompt may still initiate, and the summon is always the Messenger of the Winds, but the summon does not necessarily end the battle like in the Lv.45 battle; if the summon didn't do enough damage to defeat Garuda, the battle will continue. The summoning prompt can appear even when Noctis is not in [[Final Fantasy XV statuses#Danger|Danger]] state.
+
+===Strategy===
+{{Quote|Your insolence shall not go unpunished!|Garuda}}
+Equipping a powerful one-handed sword is good, such as [[Balmung (Final Fantasy XV)|Balmung]], [[Ultima Blade (Final Fantasy XV)|Ultima Blade]] or [[Ragnarok (Final Fantasy XV)|Ragnarok]] if the player has them. For the Lv.120 variant, the player can get the [[Gaze of the Vortex (Final Fantasy XV)|Gaze of the Vortex]] from the trading post that deals more damage in aerial attacks and always criticals.
+
+The player should try to prevent too many of the meteorshards from shattering before Garuda uses her Aerial Blast by not fighting Garuda in their immediate vicinity too much.
+
+When she is on ground level, the player can try and get behind her for blindside-strikes and [[Link-strike|links]]. Because the Lv.120 battle can end instantly if too few meteorshards still stand when she uses her special attack, it is important to deal a lot of damage fast; linked attacks are the most powerful moves the player can do, especially with the Limitless Link [[Ascension (Final Fantasy XV)|Ascension]] node unlocked. It is best to unleash offensive [[Technique (Final Fantasy XV)|Techniques]] only when she is ground-based to make sure they hit; [[Gladiolus (Final Fantasy XV party member)|Gladiolus's]] [[Impulse (Gladiolus ability)|Impulse]] tends to be powerful, especially with Limit Break unlocked in the Ascension. [[Ignis (Final Fantasy XV party member)|Ignis's]] [[Overwhelm (Final Fantasy XV)|Overwhelm]] tends to miss a lot of the hits as Garuda moves about so much.
+
+[[File:Garuda in flight from FFXV.png|thumb|Armiger against Garuda.]]
+When she summons minions, it may be best to ignore them and keep focus on Garuda as the battle is won when she falls. Using [[Armiger]] or [[Armiger Unleashed]] when available is effective. When she soars into the air, the player should warp-strike her and keep fighting while in midair. The player can use Armiger midair, but the Armiger Chain won't hit if she is too high up.
+
+MP can be replenished by point-warping to the meteorshards.
+{{clear}}
+
+==Musical themes==
+The theme that plays in her battle is "[[Fallen Angel (song)|Fallen Angel]]", Garuda's boss music from ''Final Fantasy XIV''.
+
+==Gallery==
+<gallery>
+Garuda boss from FFXV.png
+Garuda boss face from FFXV.png
+Garuda boss battle from FFXV.png
+Meteorshard warp spot in FFXV.png|Meteorshards are warp spots.
+Garuda vulnerable from FFXV.png|Garuda vulnerable.
+Garuda cross chain from FFXV.png|Cross chain against Garuda.
+Garuda Lv120 variant from FFXV.png|Lv.120 variant.
+Death on Lv120 Garuda from FFXV.png|Garuda is immune to the Death spell.
+</gallery>
+
+==Etymology==
+{{Etym|Garuda}}
+
+The [[Garuda (Final Fantasy XV summon)|Emissary of the Winds]] summoned at the end of Garuda's boss battle adopts the name Garuda for herself.
+
+[[ru:Гаруда (босс Final Fantasy XV)]]
+[[Category:Bosses in Final Fantasy XV]]
+[[Category:Superbosses]]

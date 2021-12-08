@@ -1,0 +1,65 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Khloe Aliapoh
+|release=FFXIV
+|japanese=クロ・アリアポー
+|romaji=Kuro Ariapō
+|lit=Klo Ariapo
+|aka=
+|image=FFXIV Khloe Aliapoh.png
+|home=[[Idyllshire]]
+|age=13
+|dob=
+|affiliation=
+|occupation=
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=Light brown
+|eye=Light blue
+|type=npc
+}}
+'''Khloe Aliapoh''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. She is the younger sister of [[Zhloe Aliapoh]] and resides in [[Idyllshire]] running a shop where she can hear stories from adventurers.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Khloe meets the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] at her stand and is surprised to see them as they are a legend told in many stories. She loves listening and telling stories to cheer up a friend who is sad that her adventurer parents haven't returned from a mission. Recently her stories haven't had the same effect like they used to, so she believes her stories have gotten too similar. She came up with the idea to ask adventurers to share their stories so she can come up with her own, and will trade them with things [[Rowena]] gives her. Khloe gives the Warrior of Light a notebook called "Wondrous Tails" as she has a tail and she tells tales.
+
+When the Warrior of Light performs custom deliveries Khloe is surprised to find them working with her sister, and runs off to share stories about dragons with [[T'kebbe]].
+
+==Characteristics==
+===Appearance===
+Khloe is a young [[Miqo'te]] girl with light brown hair and light blue eyes. She wears a white jacket with a yellow scarf, and white pants with a yellow sash covering her waist.
+
+===Personality===
+Khloe loves to share stories and tries to cheer her friends up with them, because she likes to see her friends happy. Because her sister is busy with Menphina's Arms Khloe became lonely, though smiles through the rough times.
+
+==Gameplay==
+{{Main|Wondrous Tails}}
+Khloe can be found in Idyllshire (X:5.7 Y:6.1). Once per week, players may obtain a Wondrous Tails journal containing objectives to fulfill.
+
+==Gallery==
+<gallery>
+XIV Khloe Aliapoh.png
+FFXIV Khloe Moonfire Faire.png
+FFXIV Zhloe Khloe T'kebbe 2019 Moonfire Faire.png
+FFXIV Shiro Kuro Chakebi.png|Artwork of T'kebbe, Khloe and Zhloe.
+FFXIV Taito Khloe Aliapoh Figure.png|TAITO figure.
+</gallery>
+
+==Etymology==
+Khloe's Japanese name is Kuro {{J|クロ|Kuro|Black}} spelt in {{w|katakana}}. As a counterpart to this her older sister Zhloe's Japanese name is Shiro {{J|シロ|Shiro|White}} spelt in the same manner.
+
+Khloe's English name appears to be derived from her Japanese name read literally which could be rendered as "Klo", with an added "e". Similarly Zhloe's japanese name could be rendered as "Shilo", which with the addition of the same "e" approximates Zhloe.
+
+Absent the above context, "Khloe" is an alternative spelling of the Greek-derived Chloe, a female given name that was originally an epithet of the goddess Demeter.
+
+Aliapoh is a Keeper of the Moon Miqo'te surname, shared with the cousins [[Leih Aliapoh|Leih]] and [[Jihli Aliapoh]].
+
+==Behind the scenes==
+Khloe's surname is a protracted reference to the ''[[Final Fantasy XI]]'' non-player character [[Mihli Aliapoh]], a [[Mithra]] that acts as [[Serpent General|Waterserpent General]] and is available as an alter-ego party member through [[Trust Magic]].
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

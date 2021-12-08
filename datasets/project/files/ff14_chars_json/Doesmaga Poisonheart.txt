@@ -1,0 +1,38 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Doesmaga Poisonheart
+|release = FFXIV
+|japanese =毒心のデュースマガ 
+|romaji =Dokushin no Dyūsumaga 
+|lit=Dyusmaga of the Poison Heart
+|image =FFXIV Doesmaga.png
+|race = [[Roegadyn]]
+|gender = Male
+|height = 
+|hair = Red
+|eye = Red
+|affiliation = 
+|occupation =Captain 
+|type =npc
+|job = {{icon|ffxiv|discipline|marauder}}
+|weapon = Mythrite War Axe
+|armor =
+}}
+
+'''Doesmaga Poisonheart''' is a non-playable character from ''[[Final Fantasy XIV]]''. A notorious pirate captain, he is an antagonist in the [[arcanist]] class quests.
+
+== History ==
+Doesmaga is first in the quest "Over the Rails," where it is learned he was commandeering the merchant vessel ''Morningstar'' being inspected by Mealvaan's Gate assessors. His appearance traumatized [[K'lyhia]] into fainting, forcing them to retreat, while he threw her grimoire into the sea. He had been exiled some years ago, and was not expected to have returned to Lominsan waters.
+
+After helping K'lyhia come to terms with her past, she devises a plan to capture Doesmaga by arranging to infiltrate his vessel as a dancing girl, with the player posing as a wine merchant. After defeating him and his lackeys on deck, she predicted his avenue of escape, and ensured the Yellowjackets would be waiting to capture him after he lept overboard to an escape vessel.
+
+== Characteristics ==
+Doesmaga is a roegadyn wearing a typical pirate garb, consisting of a black bliaud with yellow trim and a buccaneer's tricorne. He wirlds a large axe in combat.
+
+==Etymology==
+In the Roegadyn language, his first name translates to "Two Stomach."
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character|name = Foulques
+|release=FFXIV
+|japanese=雲水のフールク
+|romaji=Unsui no Fūruku
+|lit=Folk of the Cloud Water
+|aka=Foulques of the Mist
+|image=FFXIV Foulques.png
+|race=Duskwight Elezen
+|gender=Male
+|height=6'6" (79.5 in.)
+|hair=White
+|eye=Pink
+|affiliation = Lancers' Guild
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+}}
+{{Quote|If you fear for your safety, I suggest you run back to the guild and bemoan the world's frightfulness to the many brave souls who cower there. Ywain will doubtless consider it a supremely courageous act. Yet know that a lancer may forge true courage only in the midst of great danger.|Foulques}}
+'''Foulques of the Mist''' is a non-playable character from ''[[Final Fantasy XIV]]''. A rogue lancer, he appears as an antagonist in the [[Dragoon (Final Fantasy XIV)|Lancer]] class quests.
+
+== History ==
+Foulques appears throughout the Lancer quests with a chip on his shoulder towards the guild. He argues that the lancers are "cowards" and that true courage can only be obtained in the heat of battle, in contrast to [[Ywain]]'s insistence that it lies in composure and resolve. He frequently complicates the Guildmaster's training sessions for the Adventurer, often by making matters more difficult than intended, such as moving the stone of courage into the voidsent-infested Spirithold or taking novice lancers hostage to force the Adventurer to comply with his instructions.
+
+In spite of his bravado, he shows his true weakness when confronted by the Lord of the Bramble Patch, a giant boar used to test lancer's resolve. While the Adventurer remained steadfast in the face of danger, Foulques was knocked down and left cowering.
+
+In the final Lancer quest, Foulques had attacked a group of novice lancers in the Central Shroud, unleashing a pack of lindwurms. Tracking him to Alder Springs, the Adventurer confronts the deranged lancer, who reveals the truth behind his grudge. After robbing the guild with several compatriots, Foulques was overcome with guilt and convinced the others to confess their crime. When he came forward, they turned on him and placed the blame entirely on his shoulders, and due to the Gridanian prejudice against Duskwights he was the only one imprisoned. After escaping, he swore revenge on the Guild and warns the Adventurer that it is only a matter of time before they too are betrayed.
+
+Having decided that the Adventurer is the only lancer with "true courage," Folques declares that by killing them he will attain the pinnacle of courage himself. With Folques maddened with rage, the two engage in a fierce duel, which culminates in Foulques falling into a chasm.
+
+==Characteristics==
+=== Appearance ===
+Foulques is a Duskwight Elezen with dark gray skin and white hair. He wears horn scale mail, Hetairos Amguards, and Mythril Sollerets.
+
+=== Personality ===
+Foulques is initially seen as arrogant, challenging and defeating members of the Lancer's Guild boasting over his victories. He attempts to manipulate the adventurer by challenging their pride or threatening others so that they will accept him as their "true mentor." He insists that courage is only found in the face of overwhelming odds and certain death, though when faced with imminent defeat he himself freezes up. In their final encounter, he admits to the Adventurer his sense of self-loathing.
+
+==Gameplay==
+Foulques of the Mist is an allied NPC in lancer quests level 15 {{icon|ffxiv|quest|A Dangerous Proposition}} and level 20 {{icon|ffxiv|quest|Lance of Destiny}}. Foulques is faced in lancer quest level 30 {{icon|ffxiv|quest|Proof of Might}}.
+
+Foulques appears in {{icon|ffxiv|duty|Palace of the Dead}} as an enemy known as a "Duskwight Lancer" muttering words he said before his death.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

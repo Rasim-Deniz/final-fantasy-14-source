@@ -1,0 +1,52 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Nhaza'a Jaab
+|release=FFXIV
+|japanese=ナザ・ア・ジャーブ
+|romaji=Naza a Jābu
+|aka=Ebon Claw
+|image=FFXIV Nhaza'a Jaab.png
+|race=Keeper of the Moon [[Miqo'te]]
+|gender= Male
+|height= 
+|hair=Light blond
+|eye=Aqua
+|age=
+|affiliation=
+|occupation=Sellsword
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=
+|armor=
+}}
+'''Nhaza'a Jaab''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. A dreaded sellsword of dark repute known as the '''Ebon Claw''', he is the main antagonist of the Allied Beast Tribe final quests.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Nhaza'a Jaab is on a skiff with a captured [[Sahagin]] clutchling. Clutchfather [[Novv]] boards his ship intent on rescuing his son, but a diversion caused by the vessel striking rocks leaves Nhaza'a an opening to throw knives at Novv, who falls into the water.
+
+Later investigations of his activities in Outer La Noscea reveal he has access an [[Airship (term)|airship]], and a run-in with the Ehcatl Nine reveals he is flying a rare [[Garlond Ironworks]] Model 1569-II. This allows Nhaza'a to be traced to his employer in [[Ul'dah]], Memeriga of the "Laughing Alchemists". The Sister of Ash [[Loonh Gah]] discovers he is staying at a room in the Platinum Mirage. Confronting him in his private room, Nhaza'a reveals Memeriga is preparing to raise an army of undead [[beastmen]] at the Invisible City in Eastern Thanalan.
+
+During the showdown, Nhaza'a Jaab confronts the leaders of the friendly beast-tribes atop the ruins. He deflects Novv's spear into the chasm with a sword swipe, and [[Hamujj Gah]] takes the initiative, using elder [[Frixio]]'s wards to deflect his knives. With the sellsword caught off guard, Novv uses an [[Ixal]] blade to deliver an explosive strike against Nhaza'a, who feigns defeat and falls off the cliff. He appears on his airship, vowing revenge as he flees. Several [[kobold]] bombs are on board the ship, and he realizes too late as [[789th Order Pickman Gi Gu]] detonates them, destroying the airship.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+The Vath Deftarm looks for the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to expand their Adventurer's Guild. The Warrior of Light guides them to the [[Moogle (race)|Moogles]]. Ohl Deeh turns up and reports that Gullinbursti has attacked a Temple Knight. They go investigate and find Gullinbursti isn't his usual self and flies off. Their investigation takes them to Coerthas and the Sea of Clouds, where they find Linu Vali and Nhaza'a Jaab himself.
+
+A few Gundu warriors arrive to assist, but Nhaza'a shoots them to demonstrate what has happened to Gullinbursti, turning them against the Warrior of Light. The Warrior and Linu Vali restore them to their normal selves with a new dance. They go to Azys Lla, where [[Tiamat (Final Fantasy XIV)|Tiamat]] tells them that Gullinbursti has flown north. They find him sleeping, along with Nhaza'a and his employer, Drusus mal Soranus. Drusus orders Nhaza'a to kill the Warrior of Light and their friends, only for Nhaza'a to decline and have Gullinbursti burn him instead. Mogzin arrives, only to be burned as well. Shocked, Ohl Deeh roars at Gullinbursti, bringing him back to his senses. Linu Vanu and Linu Vali arrive and destroy Nhaza'a's gun, prompting him to flee in a Manacutter. The Vath Deftarm snipes him down.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Kageyama hires Nhaza'a Jaab to obtain a trio of mythical treasures known as the Three Wonders—a mermaid's flesh, the Jewel of Fair Souls, and the Philosopher's Fin—so that Kageyama might trade them for a noblewoman's hand in marriage. After stealing Tsukumo from the [[Kojin]] Kabuto, Nhaza'a retires to [[Kugane]]'s hot springs to rest. There he finds the [[Ananta]] princess Alpa and, concluding that she is "close enough" to a mermaid, kidnaps her. With J'olhmyn, Kabuto, and the Warrior of Light in pursuit, Nhaza'a makes for the Dawn Throne in the [[Azim Steppe]] and kidnaps the Namazu Gyorei for her fins.
+
+Nhaza'a returns to Kageyama's ship in Kugane to deliver the "Three Wonders", but as he prepares to kill Alpa, he is intercepted by J'olhmyn, the Warrior of Light, Kabuto, and several Namazu. Though he contemplates fighting, the Sekiseigumi's arrival instead prompts him to flee in a small boat. He bails out after M'zhet Tia hurls a grenade into the boat and a shark drags him under. M'zhet later finds his mask floating in the water.
+
+==Characteristics==
+===Appearance===
+Nhaza'a Jaab is a Keeper of the Moon [[Miqo'te]] with dark skin, blond hair, and pale blue eyes. He wears a black shirt, white trousers, black leather boots, and a black eye-piece over his left eye that gives a sinister red glow. In private he tends to lounge around naked save for leopard-print undergarments.
+
+===Personality===
+Nhaza'a is sadistic and cruel, often taunting and belittling his foes. He has no qualms about performing [[Memeriga]]'s dirty work, and shows no remorse for complicating in the deaths of hundreds of innocent beastmen. His true desire is to find a worthy foe to match his strength.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Miqo'te]]

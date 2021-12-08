@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Jihli Aliapoh
+|release=FFXIV
+|japanese=ジリ・アリアポー
+|romaji=Jiri Ariapō
+|image=FFXIV Jihli Aliapoh.png 
+|race=[[Miqo'te]]
+|gender=Female
+|height=~62.6 {{tooltip|ilms|inches}}
+|hair=Blue
+|eye=Green
+|designer=
+|age=
+|job=
+|weapon=
+|armor=
+|affiliation=
+|occupation=
+|type=npc
+|home =}}
+'''Jihli Aliapoh''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. She runs the [[Hatching-Tide]] event after receiving a supposed prophetic dream from the [[Twelve Archons]] that had them perched on colorful eggs.
+
+== History ==
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Jihli Aliapoh is a Keeper of the Moon [[Miqo'te]] with white-streaked blue hair and green eyes. She wear a [[chocobo]] egg cap, and a pink and white striped coatee. In the 2019 event she changes her outfit, completely revealing her hair and wearing a [[spriggan]] jacket.
+
+=== Personality ===
+{{Section}}
+
+== Behind the scenes ==
+Jihli Aliapoh's name and race are a reference to [[Mihli Aliapoh]], the [[Mithra]] [[Serpent General|Waterserpent General]] non-player character from ''[[Final Fantasy XI]]''.
+
+== Gallery ==
+<gallery>
+2019 Hatching Tide.jpg|2019 artwork
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

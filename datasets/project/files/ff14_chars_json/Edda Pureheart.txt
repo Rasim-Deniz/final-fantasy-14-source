@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Edda Pureheart
+|release=FFXIV
+|japanese=純白のエッダ
+|romaji=Junpaku no Edda
+|lit=Pure White Edda
+|image=Edda.jpg
+|race=[[Hyur]]
+|gender=Female
+|height=
+|hair=Dark Brown
+|eye=Brown
+|affiliation= 
+|occupation=
+|home=[[Abalathia's Spine]]
+|age=16<ref name=EE209>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 209</ref>
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|weapon=Elm Cane 
+|armor=Pilgrim's Set 
+}}
+{{Quote|Look, Avere! All these people have come to make you a gift of their souls! Isn't that kind of them?|Edda Pureheart}}
+'''Edda Pureheart''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. She is an adventurer who appears in the main story and reappears later in the optional story of the [[Tam-Tara Deepcroft]] (Hard Mode). Following this, she returns in the story of the [[Palace of the Dead]].
+
+==History==
+Edda was a Midlander from a poor village on Abalathia's Spine and was sixteen when she decided to leave behind her life of sweeping dirt floors and scrubbing loincloths to become an adventurer. She left with her childhood friend and betrothed, Avere, traveling into the unknown.<ref name=EE209/>
+
+[[File:Edda_Uldah.png|thumb|left|Edda meets the Adventurer in Ul'dah.]]
+Edda was a member of a group of adventurers traveling [[Eorzea]] to gain glory and fame just like the Warrior of Light. She is met exhausted at the entrance of the [[Sastasha]] dungeon, having had to run to town to buy potions for her group that was most likely unsuccessful in their mission. She and the rest of the team are seen at the entrance of the Tam-Tara Deepcroft dungeon, and after the Warrior of Light completes their mission there, Edda and her team are seen at the Carline Canopy with the exception of Avere, their team leader. The group breaks into an argument, revealing Avere was killed on their last mission, which the team are quick to blame on Edda and her lack of skills before disbanding and going their separate ways. Bordering on grief, Edda had kept Avere's severed head.
+
+Edda is later seen at [[Ul'dah]] where she meets the Warrior of Light face-to-face. The Warrior learns Avere was her fiancé. She explains he had admired the Warrior of Light for all their achievements, motivating him to become one as well. She explains that upon taking a proper look at the Warrior, she again felt motivated to become a strong adventurer, before heading back home to continue her training. Returning home to bury her beloved she turned to madness, refusing to be parted with her beloved's head, and turned to forbidden arts from an ancient tome obtained during her travels. With this tome she brought Avere back from the dead.<ref name=EE209/>
+
+[[File:Edda & Avere.png|thumb|Edda and Avere, the latter in his new body.]]
+Edda becomes overcome with grief and begins sending invitations out to her [[wedding]] to Avere in the Tam-Tara Deepcroft. Paiyo Reiyo, one of the recipients, finds this suspicious, and teams up with the adventurer to put an end to Edda's plans. The Warrior of Light learns she has performed a ritual to bring back a demonic version of Avere. After the Warrior disposes of this demon, Edda panics and her robe catches on fire from the candles around the arena. She slips, tumbling into the abyss with an eerie smile on her face.
+
+After the Warrior of Light reports back to Paiyo Reiyo, informing him of Edda's fate, Paiyo sees an apparition of Edda in high contrast next to a lit brazier, slowly lifting her head to reveal a wicked smile. Paiyo runs off in terror with the Warrior of Light turning to look at what frightened him and seeing nothing.
+
+Some time later, when the Warrior of Light ventures into the Palace of the Dead, Edda's spirit, now wearing an all-black outfit and an eye-patch, observes them. Upon reaching the fiftieth floor of the Palace, Edda confronts them in battle, stating they have overstayed their welcome. After she is defeated, her spirit reappears, with her original appearance. Recognizing the Warrior of Light, she expresses confusion as to where she is, as the last thing she remembers is falling and seeing a figure in black. Her spirit vanishes, leaving behind a ring.
+
+After leaving the Palace of the Dead, the Warrior of Light takes the ring to Paiyo Reiyo, who is still haunted by his experiences in the Tam-Tara Deepcroft. He recognizes it as Edda's engagement ring, and asks the Warrior of Light for help in locating Avere's matching ring. With both rings, Paiyo Reiyo and the Warrior take them to have a small memorial ceremony outside of Limsa Lominsa, hoping to finally lay Edda and Avere's spirits to rest. After the ceremony, the Warrior of Light hears Edda's voice thanking them.
+
+Edda's appearance in the Palace of the Dead was orchestrated by [[Nybeth Obdilord]], a powerful undead sorcerer from another world. Obsessed with cheating death, Nybeth had used Edda in his experiments on resurrection, feeling that her strong soul made her a perfect test subject. He is slain by the Warrior of Light, putting the entire ordeal to rest.
+
+==Characteristics==
+===Appearance===
+Edda is a Midlander [[Hyur]] with dark brown hair and brown eyes, dressing in a brown cotton robe and a brown pointy hat. Her weapon is a two-handed conjurer cane. Later in the story, Edda reappears with her new set of clothes, the Pilgrim set. In the Palace of the Dead, she wears a black gothic dress, a black pointy hat adorned with flowers, boots, and an eye patch. She also wields a silver scythe.
+
+=== Personality ===
+An ambitious adventurer, Edda sought a better life through adventuring and looked up to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. She easily forgives her comrades such as Liavinne who doesn't always see eye to eye with her.
+
+{{spoiler}}
+After the death of her beloved, Edda was wrought with grief and descended into madness. She became uncaring toward life, using people as sacrifices to bring Avere back.
+{{endspoiler}}
+
+==Behind the scenes==
+The Tam-Tara Deepcroft (Hard) is the first of two dungeons (the other being [[the Wanderer's Palace (Hard)]]) as of Patch 2.5 where the adventurers don't perform the [[Victory pose#Final Fantasy XIV|victory pose]] after clearing the dungeon due to the fate of Edda in the end of her story.
+
+At night, there is less than a 1% chance that Edda's ghost will appear for a few seconds in any of the three city-states. She can only be seen by the players who finished Tam-Tara Deepcroft (Hard).
+
+==Gallery==
+<gallery>
+FFXIV Edda and Avere concept.png|Concept art.
+FFXIV 1st Anniversary Countdown 6 Days.jpg|Edda and Avere's artwork for ''Final Fantasy XIV'' 1st Anniversary event.
+FFXIV Edda Party.png|Edda's party at the entrance of Sastasha.
+Edda Creepy.png|Edda with her new looks.
+Edda Smiles.png|Edda in the Tam-Tara Deepcroft (Hard).
+Edda Falls.png|Edda falls off the cliff.
+Edda Palace of the Dead.png|Edda and Avere in the [[Palace of the Dead]].
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:White Mages]]

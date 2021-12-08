@@ -1,0 +1,34 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Qhota Nbolo
+|release=FFXIV
+|japanese=
+|romaji=
+|image=Qhota Nbolo.png
+|race=[[Miqo'te]]
+|gender=Female
+|home=[[Ul'dah]]
+|type=npc
+}}
+{{Quote|See anything you like, adventurerrr? Don't be shy, sweetling, I won't bite. Unless you want me to.|Qhota Nbolo}}
+'''Qhota Nbolo''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is a dancer who lives in [[Ul'dah]]. She only appeared in the original ''Final Fantasy XIV'' and gone missing since the fall of [[Dalamud]].
+
+==Story==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Qhota Nbolo is a female Keeper of the Moon [[Miqo'te]] with pink hair and tail. She wears a white shirt, red pants, and a pair of leather caligaes.
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Gallery==
+<gallery>
+Qhota_Nbolo_talking.png|Qhota Nbolo talking to the adventurer.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dancers]]
+[[Category:Miqo'te]]

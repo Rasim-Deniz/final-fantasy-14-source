@@ -1,0 +1,99 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Unukalhai
+|release=FFXIV
+|japanese=ウヌクアルハイ
+|romaji=Unukuaruhai
+|lit=Unukualhai
+|aka=
+|image=Unukalhai.png
+|portrait=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=Violet
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+}}
+'''Unukalhai''' is a [[Non-player character|non-playable character]] from ''[[Final Fantasy XIV]]''. He is a mysterious boy who claims to have come to aid the [[Scions of the Seventh Dawn]] against the [[primal]] threat.
+
+== History==
+===Early life===
+[[File:Unukalhai and Elidibus.png|thumb|250px|Unukalhai and Elidibus]]
+Unukalhai was born on the thirteenth reflection of [[Hydaelyn]], the world that became known as [[The Void (term)#Final Fantasy XIV|the Void]]. Despite being gifted with the [[Echo (Final Fantasy XIV)|Echo]], he was barely more than a child when the world ended, and was unable to stop the [[The Flood|Flood of Darkness]] from transforming his world. Unukalhai was rescued by [[Elidibus (Final Fantasy XIV)|Elidibus]], the Emissary of the [[Ascian]]s, who explained the importance of maintaining the [[Dualism|balance between light and darkness]]. Unukalhai continued to serve as Elidibus's disciple, swearing to never allow what happened to his world happen to any other.
+
+Around this time Unukalhai met [[Cylva]], a woman from his world who had also been saved by Ascians, namely [[Mitron]] and [[Loghrif]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+After the defeat of [[Thordan VII]], the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is told that a visitor is waiting for them in the Scions' headquarters, the Rising Stones. They find a young, masked man who introduces himself as Unukalhai. He claims to have been sent by his master to aid the Scions of the Seventh Dawn in facing the coming threat of the "eikons", primals that were summoned during the Third Astral Era. Known as the [[Warring Triad (Final Fantasy XIV)|Warring Triad]], they were defeated and imprisoned by the [[Allagan Empire]], and sealed on the floating island of [[Azys Lla]]. The actions of Archbishop Thordan VII, who tried to gain their power for himself, has weakened their seals, making it possible for them to break free—a process the Garlean Empire may hasten in their attempts to uncover the secret of binding primals. [[Urianger Augurelt]] corroborates this explanation.
+
+Before the Triad can be dealt with, the Warrior of Light is told to defeat the primals [[Bismarck (Final Fantasy XIV)|Bismarck]] and [[Ravana (Final Fantasy XIV)|Ravana]], who have been resummoned by their respective worshipers. Unukalhai wants to assist, offering instruction on how to confront them, including two enigmatic gems associated with each primal.
+
+When it comes time to deal with the Warring Triad directly, Unukalhai instructs the Warrior of Light to journey to Azys Lla alongside Krile, Urianger and [[Y'shtola Rhul]].{{cite|FFXIV|"The Gears of Change"}} He leads them to Containment Bay S1T7 where [[Sephirot]], the first of the Triad to risk being awakened, is held. While Y'shtola and Urianger distract the Garlean forces patrolling the area, the Warrior of Light, Unukalhai, and Krile unseal and defeat Sephirot within its containment.
+
+While leaving the area, Unukalhai is approached by [[Regula van Hydrus]]. Unukalhai criticizes the Garleans' attempts to control the power of the primals. Regula rebuffs this lecture, but leaves without a fight. Krile inquires about Unukalhai's motives and background, and though he shows a brief flicker of emotion, he quells it without revealing anything of his past. After returning to the Rising Stones, Unukalhai reveals more of the background of Sephirot, and offers the Warrior of Light an [[Allagan Tomestone]] that will allow them to enter a combat simulation pitting them against a stronger version of the eikon.
+
+Unukalhai brings word to the Warrior that Regula van Hydrus has broken the wards that Urianger used to seal off the [[Aetherochemical Research Facility]].{{cite|FFXIV|"Revenge of the Horde"}} Conferring with the Scions, Unukalhai believes van Hydrus is after the "Genesis Expression", one of the most powerful pieces of Allagan technology, and recommends pursuing and, if possible, slaying him. The Warrior of Light, Unukalhai, Urianger, Y'shtola, and Krile venture into the facility, fighting off waves of Garlean troops. Krile is injured, and Unukalhai stays behind to protect her, earning her trust and gratitude. Although the Warrior of Light defeats van Hydrus and prevents him from retrieving the Allagan tomelith, he escapes.
+
+Urianger asks to speak to the Warrior of Light and Unukalhai in private, revealing that he deduced it was Unukalhai who broke the seal on the facility, hoping to lure Regula van Hydrus into a trap where he could be killed. Unukalhai admits this to be the case and Urianger chides him, claiming that had he trusted the Scions enough to tell them his plan, it may have succeeded. Urianger asks the Warrior of Light to forgive Unukalhai and to conceal it from the other Scions.
+
+To atone for his lack of honesty, Unukalhai shares some of his personal history with the Warrior of Light, and reveals that he, too, possesses a form of the Echo. He hails from a conflict-ridden land where he learned [[Magic (term)|magic]] to survive until his master recruited him. He tells the story of another world where people believed they could harness the power of primals using [[Auracite]] leading to the destruction of their world. The fear of it happening to [[Eorzea]] causes him to despise van Hydrus and the Garlean Empire.
+
+The second of the Warring Triad, the goddess known as [[Sophia (Final Fantasy XIV)|Sophia]], is about to awaken.{{cite|FFXIV|"Soul Surrender"}} The Warrior of Light again travels to Azys Lla with Urianger, Y'shtola and Krile, and they find several of Sophia's thralls whom the Allagans had sealed alongside her. While Urianger and Y'shtola deal with the thralls, Unukalhai, Krile and the Warrior enter Containment Bay P1T6, and defeat Sophia.
+
+While the Scions prepare to leave, Unukalhai stays behind to shut off the life support for Sophia's remaining thralls to prevent another summoning. He later explains he knew it had to be done, but did not want the Warrior of Light to have to sully themselves with such a distasteful task. Y'shtola explains that all of the Scions, including the Warrior, know what has to be done in the battle against the primals, and are willing to do what is necessary, including the slaying of thralls. Unukalhai admits that he had been mentally placing the Warrior of Light on a pedestal, seeing them more as the embodiment of an ideal than as an individual, and promises to not underestimate their resolve in the future. He presents the Warrior of Light with a Tomestone containing data on Sophia, allowing them to challenge a simulation of a stronger version of the goddess.
+
+When it comes time to confront [[Zurvan (Final Fantasy XIV)|Zurvan]], the final member of the Warring Triad, Unukalhai again journeys to Azys Lla with the Warrior of Light, Urianger, Y'shtola, and Krile.{{cite|FFXIV|"The Far Edge of Fate"}} Regula van Hydrus confronts them, offering an alliance. Having decided that the Allagan method of containing primals was flawed, and thus useless to the Empire, he wishes to destroy Zurvan and his thralls. The Scions reluctantly agree to the alliance, and travel to Containment Bay Z1T9 where Regula's troops are already fighting Zurvan's thralls. During the battle Regula sacrifices himself to save Unukalhai, believing that Unukalhai's powers are better suited than his to end the primal threat.
+
+After Zurvan's defeat, Unukalhai, ashamed of his self-perceived weakness compared to the Scions, asks them to meet him back at the Rising Stones where he unmasks and reveals his past. The Scions, after learning that he faced the end of his world alone, tell Unukalhai that he no longer has to fight by himself, and welcome him as a member of the Scions of the Seventh Dawn. Despite the newfound friendships he has forged, Unukalhai insists on putting his mask back on. He presents the Warrior of Light with a Tomestone containing data on Zurvan, allowing them to challenge the final, and most difficult, simulation battle.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:Unukalhai on The First.png|thumb|Unukalhai on The First]]
+After learning that [[Elidibus (Final Fantasy XIV)|Elidibus]] has died, Unukalhai admits to the Warrior of Light that he has mixed feelings regarding the news. Looking for a new purpose, he decides to reunite with [[Cylva]]. With the help of the Warrior of Light, Urianger, and [[Beq Lugg]], he journeys to the First and meets Cylva in the [[Crystarium (Final Fantasy XIV)|Crystarium]]. They discuss the possibility of restoring their world, similar to the way the First was beginning to recover from [[The Flood|the Flood of Light]]. To ascertain the feasibility of such a undertaking, Beq Lugg suggests checking on the current conditions of the Thirteenth by opening a voidgate. Since [[Taynor]] can create voidgates, they ask him for help. Unukalhai uses [[Nyelbert]]'s crystal to learn how to open the gates as well. Together, Taynor and Unukalhai open a gate large enough to gather the information needed. Beq Lugg begins to work on a way to restore the Thirteenth, but warns it could take years to find a solution. Despite this, Unukalhai is pleased with their progress. In the meantime, Taynor invites Unukalhai to join him and his friends in protecting the First, to which he happily agrees to. He can subsequently be found with Cylva in the Crystarium.
+
+== Characteristics ==
+=== Appearance ===
+The majority of Unukalhai's physical features are obscured by white robes and a mask, somewhat similar to the [[Amaurot]]ine in appearance. He appears to be a [[Hyur]], and is mentioned as appearing to be a young man. When he finally unmasks, he is revealed to have shoulder-length, white hair, and violet eyes. After relocating to [[the First]], he no longer wears a mask and obtains new green and white robes.
+
+=== Personality ===
+Unukalhai is stoic and businesslike, revealing little of his personality and motives. Only once, when [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] questions of his true goal, does he show a flicker of emotion, which he quickly quells. He disdains the [[Garlean Empire]] and their reckless attempts to control the power of the primals. He often speaks of his master, on whose behalf he claims to have arrived, but does not reveal who or where this master is. After moving to the First, he becomes more open and enthusiastic, quickly befriending [[Taynor]] and displaying an eagerness both for restoring his own world as well as protecting the First.
+
+== Etymology ==
+Unukalhai is the traditional name of [[wikipedia:Alpha Serpentis|Alpha Serpentis]], the brightest star in [[wikipedia:Serpens|Serpens]], a constellation often represented as being held by [[wikipedia:Ophiuchus|Ophiuchus]]. As Ophiuchus is the symbol associated with Elidibus, this is a reference to his connection to the ''Final Fantasy XIV'' character [[Elidibus (Final Fantasy XIV)|of the same name]].
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

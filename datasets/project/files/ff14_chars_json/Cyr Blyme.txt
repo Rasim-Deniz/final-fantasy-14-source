@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Cyr Blyme
+|release=FFXIV
+|japanese=キール・ブライム
+|romaji=Kīru Buraimu
+|image=FFXIV_HW_Cyr.png
+|home=
+*[[Ishgard]]
+*[[Idyllshire]]
+|age=20
+|affiliation=
+|occupation=Inquisitor
+|education=Saint Endalim's Scholasticate
+|race=[[Hyur]]
+|gender=Male
+|hair=
+|eye=
+|blood=
+|laterality=
+|type=npc
+|job=
+}}
+'''Cyr Blyme''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. He is a character of [[Hildibrand Manderville|Hildibrand]] sidestory in ''[[Final Fantasy XIV: Heavensward]].''
+
+==History==
+===Early life===
+Cyr is a brilliant graduate of Saint Endalim's Scholasticate, he should have joined the upper echelons of the Holy See by rights. However, he made one small mistake on an important missive, and found himself consigned to the inquisition instead. Cyr worked long and hard as an assistant, and became a true inquisitor when his superior, [[Charibert de Leusignac]], was invited to join the [[Heavens' Ward]]. Now of twenty years, he labors tenaciously to ensure the longevity of his organization. 
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+After reading a report by Ser [[Redwald Younge]] on the sight of a suspected half-naked heretic, Cyr began to investigate the heretic. Cyr is seen accusing [[Godbert Manderville]] of being the heretic but Lord [[Edmont de Fortemps]] intervenes. Upon learning of [[Nashu Mhakaracca|Nashu]] and [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] search for Inspector [[Hildibrand Manderville]], Cyr proposes join forces and continue the search in [[Coerthas Western Highlands#Falcon's Nest|Falcon's Nest]]—where the first reported sightings of Cyr's quarry originated—as it is possible that both seek the same man. During the search, the party encounters a [[Gentle Dead Men|Gentle Dead Man]] who have the ability to track down their beloved lord through some kind of etheric bond they share. As the others rush off, eager to find the inspector, Cyr try to determine if zombification is a sickness which must be purged. The party finds Hildibrand buried in the snow and Godbert appears to arouse his son, to Cyr's surprise, besides Hildibrand is alive he was also just hibernating making Cyr question the reality. During Hildibrand's awakening a memoryless mammet is found and Hildibrand names him [[Gigi]] and promises to help him recover his missing memories.
+
+Cyr's superiors at the Supreme Sacred Tribunal of Halonic Inquisitory Doctrine have decided that, in the interest of public safety, the mammet Gigi must be seized and subjected to thorough examination. Should it be determined that the mammet is of heretical origin, it is to be destroyed. In predictable fashion, Cyr's attempt to convince Hildibrand to surrender Gigi into his custody somehow leads to a debate on the mammet's gender. The commotion serves to draw Lord Edmont out from nearby Fortemps Manor, who agrees with the inspector that the mammet is clearly a boy. Upon learning of the inquisition's interest in Gigi, the count suggests that Hildibrand adopt the mammet as a ward, and even offers to stand as witness  and Cyr can only look on in horror as Gigi is formally granted the patronage of House Manderville.
+
+After a series of unbelievable events involving the Inspector, Cyr proclaims himself the only sane man in a world gone mad. Though he has failed in everything he set out to achieve, he takes solace in the fact that Gigi was able to overcome his personal crisis... before berating himself for appearing to care about the feelings of a mammet. He duly departs for the city to inform his superiors of recent events, as ridiculous and unproductive as they proved to be. Inquisitor Cyr's supervisors are understandably displeased with his “gross mishandling of the situation.” Nevertheless, they remain convinced that Gigi is the product of heretical machinations, leaving Cyr with no option but to continue his investigation. While he does not share his superiors' view, he does believe there is something very unusual about the mammet and the powers he─it wields. Mayhap, one day, he will find the answers he seeks.
+
+Cyr has finally been charged with a duty which does not directly concern Inspector Hildibrand and his heretical mammet Gigi. In recent days there have been rumors that incidents involving charlatans masquerading as knights of the Heavens' Ward. Cyr recruits Hildibrand to help with the investigations, and due to the report of an elderly maiden—who was a victim of the imposters—the imposters are taking shelter in [[Idyllshire]].
+
+After an exceedingly eventful journey in which the party narrowly escapes death at the hands of the [[Dravanian Horde|Dravanians]], the [[Gnath]], and the [[Illuminati]], the party arrive safely in Idyllshire. In a surprising and not at all suspicious turn of events, the Warrior of Light and Cyr receive rather detailed information regarding the [[Grand Sers]]─the impostors you seek─from an elderly treasure hunter who bears a striking resemblance to the elderly maiden in Ishgard. Upon hearing Cyr make note of this fact, the treasure hunter abruptly declares that a three-headed goobbue is behind Cyr and flees.
+
+{{Section}}
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

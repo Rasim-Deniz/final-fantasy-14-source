@@ -1,0 +1,38 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ellie Ryse
+|release=FFXIV
+|japanese=エリー・ライズ
+|romaji=Erii Raizu
+|image=FFVIV_Ellie_Ryse.jpg
+|affiliation=
+|occupation=Journalist
+|race=[[Hyur]]
+|gender=Female
+|hair=
+|eye=
+|age=24
+|job=
+|type=npc
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Ellie Ryse''' is a minor [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. She is a reporter from the ''Mythril Eye'' newspaper of [[Ul'dah]] who appears in the [[Hildibrand Manderville|Hildibrand]] storyline.
+
+==History==
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Orphaned alongside her sister [[Cecy]], Ellie became a reporter who passes information regarding the phantom thief's activities to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. While her role is generally to serve as a foil to Hildibrand's buffoonery and [[Briardien]]'s overconfidence, Ellie is eventually revealed to be the mastermind behind the phantom thief, revealed to be Cecy. Ellie and her sister are later revealed to be gathering four special items after their family had been wronged by [[Ul'dah]]. Though arrested after her gang of zombies were pacified by Hildibrand and his Gentlemen of Light, seeing the artifacts' magic through him, Ellie expresses feelings towards Briardien.
+{{Character section}}
+
+==Characteristics==
+===Appearance===
+Ellie is a female midlander [[hyur]] with purple hair and green eyes. She wears a silk shirt, dark brown trousers, and a feather with a cap.
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

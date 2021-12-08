@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:9S (''Final Fantasy XIV'')}}
+{{infobox character
+|name=9S
+|release=FFXIV
+|japanese=９Ｓ
+|romaji=Nain Esu
+|lit=
+|aka=YoRHa No.9 Type S {{J|ヨルハ九号Ｓ型|Yoruha Kyū-gō S-gata}}, Android {{J|アンドロイド|Andoroido}}
+|image=FFXIV ShB 9S render.png
+|affiliation= YoHRa
+|occupation=
+|race=Android
+|gender=Male
+|hair=Silver
+|eye=Grey
+|laterality=
+|type=npc
+}}
+{{Quote|Deep within the Copied Factory awaits this android clad in black, flanked by a veritable army of machines and all too eager to confront 2P...|Official Description.}}
+'''9S''' is a non-player character from ''[[Final Fantasy XIV]]''. He appears in the ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]'' expansion as a character for the [[YoRHa:Dark Apocalypse]] alliance raids' storyline.
+
+==History==
+9S attacks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]]'s party as soon as they enter the [[Copied Factory]] through hacked machines. Once all its machines are defeated, 9S faces [[2P]] directly and manages to damage her before being thrown off the platform. She rips off his bandana, showing his furious face.
+
+Once the Warrior group returns on the platform, they find that somehow 9S has managed to scale the platform again but is now unconscious. His body is carried back to Anogg's Lair, where he and 2P both recover. 
+
+He is only reawaken after [[2B (Final Fantasy XIV)|2B]] reunites with him, rousing him from slumber to save [[Anogg and Konogg|Konogg]], the [[Dig Site Chief]], and the Warrior of Darkness from the 2P clone army. 9S, 2B and Anogg lead the Warrior of Darkness through the newly created Tower at Paradigm’s Breach, a tower of pure white with a digital network leading to the sky. He provides hacking support by uploading 2B and the Warrior of Darkness into the network, clearing obstacles and analyzing opponents. At one point, the [[Red Girl (Final Fantasy XIV)|Red Girl]] interferes with his hacking, forcing him out of the network. 
+
+After manifesting into a giant 2B-and-Red Girl fusion known as Her Inflorescence, 9S sacrifices himself alongside 2B and Anogg to close the rift between worlds, sealing themselves on the other side to keep the invasion at bay.
+
+Konogg discovers while on his pilgrimage that 2B and 9S knew they would have to sacrifice themselves to close the rift, infiltrating 2P's android army in order to establish physical copies of themselves on the [[The First|current world]].
+
+==Characteristics==
+===Appearance===
+Though an android, 9S appears built as a slender, short young man. Like other YoRHa models, he has silvery-white hair, with his in a bowl (or mop) cut. A standard-issue combat visor conceals his light blue eyes, and he wears a black uniform with silver buttons, knee length shorts, and a long sleeve coat.
+
+9S’ in-game model is based on the female Midlander [[Hyur]] model, in order to make him resemble his original appearance in ''NieR:Automata''. However, he is still written as male, and has his original animations from ''NieR:Automata'' to give him a unique walking animation.
+
+===Personality===
+9S is curious about the world around him— especially in regards to machine lifeforms, a natural effect of being a Scanner type model of YoHRa units. When speaking with others, 9S is generally optimistic and eager to be of help to others. He shares a similar curiosity for technology and new information as Anogg and Konogg.
+
+==Gameplay==
+==={{icon|ffxiv|duty|copied factory}}===
+9S is fought as final boss in alliance raid The Copied Factory. He is engaged as '''9S-Operated Walking Fortress''', in a large construct of Stubby mounted guns equipped with lasers and heat exhausts. 
+
+He is able to hack the arms of the fallen Engles to cleave the player characters. At several points in the fight, he will decouple his flight unit from the fortress in order to bombard the alliance. He will also send hacked units towards the alliance, which must be dispatched before he can charge his missiles to cause an instant wipe to the alliance.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = 9S
+|image = [[File:9S_Triple_Triad_Card.png]]
+|number = 268
+|total = 28
+|type = None
+|description = A child encountered in the Copied Factory. Appearing as a young boy clad in black garb, it is in fact an android─an advanced machine designed in imitation of mankind. 9S was witnessed to be controlling machine lifeforms within the factory, though to what end it remains unknown.
+|obtain = Clear The Copied Factory.
+}}
+
+==Behind the scenes==
+9S' uniform is obtainable as various class gear drops in {{icon|ffxiv|duty|copied factory}} for male characters only. 
+
+Several items relating to 9S are available as item drop in {{icon|ffxiv|duty|tower at paradigm's breach}}: a unique hairstyle based on his iconic map cut, which is unisex; a furniture item used for player [[Housing|housing]] featuring 9S and 2B as stuffed plushies; and a [[Minion (Final Fantasy XIV)|minion]] in his likeness.
+
+==Gallery==
+<gallery>
+FFXIV 9S-operated Walking Fortress.png|9S-operated Walking Fortress
+FFXIV 2B and 9S.jpg|2B and 9S at the entrance of the Puppet's Bunker
+FFXIV Wind-up 9s.png|Wind-up 9S
+</gallery>
+
+==External links==
+*[[w:c:nier:YoRHa No.9 Type S|''9S'' at the NieR Wiki]]
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]

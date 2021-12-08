@@ -1,0 +1,51 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Sauldia
+|release=FFXIV
+|japanese=ソールディア
+|romaji=Sōrudia
+|lit=
+|aka=
+|image=FFXIV ShB Sauldia.png
+|home=Kingdom of Voeburt
+|age=
+|dob=
+|affiliation=Kingdom of Voeburt
+|occupation=Princess
+|race=[[Au Ra|Drahn]]
+|gender=Female
+|height=
+|weight=
+|hair= Blonde
+|eye=Turquoise
+|type=npc
+}}
+
+'''Sauldia''' is a character from ''[[Final Fantasy XIV]]''. She was a princess from the Kingdom of Voeburt and Pauldia's older sister.
+
+==History==
+[[File:FFXIV ShB Branden and Sauldia.png|thumb|left|Branden fails to protect the princess Sauldia.]]
+Due to the current crisis in her kingdom—a series of mysterious incidents in which innocent souls were irrevocably transformed into malformed beasts—Sauldia handpicked a young recruit named [[Branden]] to serve as her protector while she embarked on an investigation into the series of mysterious incidents. Branden served as the princess's bodyguard for a while, until he failed in his duty to protect her during one of the many investigations.
+
+Although Sauldia has recovered completely, Branden was stripped of his knighthood and cast out. Branden later returns to the kingdom with his new companions and identifies the culprit behind the mysterious transformations being [[Tadric]], court magician and loyal servant of the royal family.
+
+[[File:FFXIV ShB Sauldia cursed.png|thumb|Sauldia is transformed into a beast.]]
+Although the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Light]] managed to defeat Tadric. In a final act, Tadric curses Sauldia and turns her into a beast. Still maintaining some of her conscience, Sauldia asks Branden to kill her and despite being the most painful decision of his life, Branden offers the rest to Sauldia's soul.
+{{Clear}}
+
+==Characteristics==
+===Appearance===
+Sauldia is a female drahn with dark scales, she has blonde hair and turquoise colored eyes. She wears a diamond crown and a mole brown colored dress.
+
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV ShB Sauldia 2.png
+FFXIV ShB Branden and Sauldia 2.png|Branden returns to Voeburt.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]

@@ -1,0 +1,291 @@
+{{sideicon|prime=FFXIV|DFFOO|FFRK|FFTCG}}
+{{infobox character
+|name=Alisaie Leveilleur
+|release=FFXIV
+|japanese=アリゼー・ルヴェユール
+|romaji=Arizē Ruveyūru
+|image=FFXIV ST Alisaie.png|Version 3.4
+|portrait=[[File:Alisaie Trust Portrait from Final Fantasy XIV.png|81px|Trust portrait.]][[File:Alisaie Trust Portrait 2 from Final Fantasy XIV.png|81px|Alternate outfit Trust portrait.]]
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|other appearances=false
+|dffoo=true
+|ffrk=true
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Sharlayan]]
+|age=16 <ref name=age>{{Refwebsitedead| page url = http://www.finalfantasyxiv.com/anniversary/na/detail/memoir_5.html?rgn=na&lng=en| page name = Tales from the Calamity: In Louisoix’s Wake| site url = http://www.finalfantasyxiv.com| site name = Final Fantasy XIV Official Website| access time = 20160702151736}}</ref>
+|dob=
+|affiliation=[[Scions of the Seventh Dawn]]
+|occupation=
+|education=Studium
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Elezen
+|gender=Female
+|height=
+|weight=
+|hair=White
+|eye=Blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=party npc
+|job=
+{{icon|ffxiv|discipline|arcanist}} (''A Realm Reborn/Heavensward'')<br>
+{{icon|ffxiv|discipline|red mage}} (''Stormblood'' onwards)<br>
+|abilities=
+|limit break=
+|weapon=Adelphoi (''A Realm Reborn'')<br>
+Eorzean Blade (''Heavensward'')<br>
+Clarion (''Stormblood'')
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=[[Rie Murakawa]]
+|english voice actor=
+[[Simone Bee]] (''A Realm Reborn'')<br>
+[[Bethan Walker]] (''Heavensward'' onwards)
+}}
+{{Quote|A woman of action whose dynamic approach is in stark contrast to that of her more diplomatic twin brother, Alphinaud. Inspired by those she has lost in her many travails, she strives to better herself for the sake of those she can yet save.|Official ''Shadowbringers'' website}}
+'''Alisaie Leveilleur''' is a character in ''[[Final Fantasy XIV]]''. She and her older twin brother, [[Alphinaud Leveilleur|Alphinaud]], are the grandchildren of [[Louisoix Leveilleur]] and the children of [[Fourchenault Leveilleur|Fourchenault]] and Ameliance Leveilleur. Her first major appearance is in the [[Binding Coil of Bahamut]] quests.
+
+Up to the events of ''[[Final Fantasy XIV: Heavensward]]'', Alisaie was largely absent from the [[Scions of the Seventh Dawn]] affairs, but upon dealing with the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] and the events leading up to ''[[Final Fantasy XIV: Stormblood]]'', she returns to aid the Scions and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]].
+
+==History==
+===Early life===
+Alisaie and her twin brother Alphinaud were born to [[Fourchenault Leveilleur]], a [[Sharlayan]] dignitary and son of [[Louisoix Leveilleur]], in the [[Dravanian Hinterlands]]. However only a year after they were born the Sharlayan colony in Dravania was abandoned and the entire population returned to the Sharlayan motherland. As a result of leaving at such a young age, Alphinaud and Alisaie have no memory of the Dravanian Hinterlands.
+
+Alisaie and her brother attended the Studium at a young age and were given grimoires by Louisoix before he left for Eorzea. The twins were unaware that their tomes were halves of a larger grimoire, signifying Louisoux's wish for the twins to understand each other and share a common goal.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Alphinaud and Alisaie Gridania Opening.jpg|thumb|left|Alphinaud and Alisaie in the opening cutscene.]]
+Alisaie and Alphinaud came to [[Eorzea]] to seek answers for Louisoix Leveilleur's actions. At the ceremony for the Warriors of Light, Alisaie became livid over the pettiness of the [[Grand Company|Grand Companies]], arguing with her brother over how its leaders are using the ceremony to rally their troops rather than make mention of the heroes. While Alphinaud would eventually join the Scions of the Seventh Dawn, Alisaie stormed off on her own.
+
+[[File:Alisaie Binding Coil of Bahamut.png|thumb|Alisaie leads a group of adventurers to the Binding Coil of Bahamut.]]
+Following [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon's]] and the resurrected [[primal]]s' defeat, the Warrior of Light was sent to meet a contact to investigate the awakening of an unknown primal. The contact was Alisaie who has kept tabs on the Warrior's exploits. Determined to discover the ultimate fate of Bahamut, she requested the Warrior of Light's help in exploring the [[Binding Coil of Bahamut]] below Castrum Occidens. She was left with more questions than answers after seeing Louisoix somehow alive in the ruins. Joined by Alphinaud in the [[Final Coil of Bahamut]], Alisaie learned the truth of their grandfather's transcendence into [[Phoenix]]. The twins worked together to hold Bahamut back so the Warrior of Light could destroy the primal's Crystal Core.
+
+Alisaie began to understand her grandfather better and sought to continue his legacy of protecting Eorzea in her own way. During this time Alisaie caught wind of the [[Crystal Braves]]' betrayal, the impending [[Ul'dahn Revolution|assassination attempt]] on Sultana [[Nanamo Ul Namo]] during a banquet which Alphinaud and the other Scions were to attend, and the framing of the Scions for tha act. While she was unable to prevent the events from occurring, Alisaie was able to send a carriage to rescue Alphinaud and the Warrior of Light from the forces of [[Ul'dah]]. As they fled, Alphinaud lamented that his sister was always there to save him while he should have been the one protecting her.
+
+During her journey following Bahamut's defeat, Alisaie learned the art of red magic from [[X'rhun Tia]]. She was quick to apply her already admirable magic abilities to the discipline, but initially struggled with the swordplay aspect. More common rapiers failed to suit her, so she resorted to summoning aetherial blades from her grimoire instead.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV 3.4 MSQ - Beneath a Star-filled Sky.png|thumb|Alisaie, the Warrior of Light, and Ga Bu mourn their losses at [[Outer La Noscea|Camp Overlook]].]]
+Alisaie learned of the Warriors of Darkness and their primal hunts as she heads to the Twelveswood to investigate. Discovered while spying one of the Warriors meeting with [[Elidibus (Final Fantasy XIV)|Elidibus]], she was rescued by [[Thancred Waters]]. Alisaie ended up being poisoned by the Ranger of Darkness, [[Renda-Rae|J'rhoomale]], and thus Thancred brought her to [[Ishgard]]. Before being taken for treatment, Alisaie warned the Warrior of Light and Alphinaud that the Warriors of Darkness were planning to allow the [[Ixal]] to summon [[Garuda (Final Fantasy XIV)|Garuda]], prompting them to travel to [[Xelphatol]] to stop them. By the time Alphinaud and the Warrior of Light returned to Ishgard, having stopped the Ixal and learning the Warrior of Darkness' goals, Alisaie had recovered. After receiving a new outfit from Tataru, she joined the Scions despite acting hostile towards [[Urianger Augurelt]]. 
+
+While accompanying the Warrior to prevent Patriarch Za Da from summoning [[Titan (Final Fantasy XIV)|Titan]], Alisaie befriended a [[Kobold (Final Fantasy XIV)|kobold]]ling named Ga Bu, who's parents were among the intended sacrifices to facilitate the summoning, but they arrived to late and Ga Bu accidentally summoned Titan himself in his despair. Following Titan's defeat, Ga Bu was left in a catatonic state, leading all to surmise he had been tempered. Alisaie however refused to give up on the child, and implored the [[Maelstrom (Final Fantasy XIV)|Maelstrom]] to take him into their care rather than put him to the sword as was procedure for tempering victims. Alisaie would make occasional visits to Ga Bu to check for any signs of recovery to no avail.
+
+The Scions continued investigation of the Warriors of Darkness led them to [[Southern Thanalan]], where they would catch up with and battle the Warriors in the [[Bowl of Embers]]. As the battle began, Alisaie revealed her red mage training, summoning a magical sword to defeat the Warriors of Darkness alongside the Warrior of Light, Alphinaud, Thancred, and Urianger. She then travelled to the Rising Stones, the headquarters of the Scions of the Seventh Dawn, where she officially joined the group and approved of her brother's restructuring of the organization as a fellowship.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+When the Scions travelled to [[Othard]] to help with the liberation of Doma, Alisaie accompanied the Warrior of Light, Alphinaud, Tataru, and [[Lyse Hext|Lyse]]. Urianger gave her a custom-made rapier so that she would no longer have to use her aether to summon a blade.
+
+After arriving in [[Kugane]], Alisaie crossed Othard with the Warrior of Light and Lyse. In the [[Ruby Sea]] she assisted the Warrior of Light in gaining the cooperation of the [[Confederacy]] and received a blessing from the [[Kojin]], which allowed her to breathe underwater. After joining forces with [[Hien|Lord Hien]] and the Doman resistance, she helped prepare for the upcoming battle to retake [[Doma Castle (Final Fantasy XIV)|Doma Castle]] from [[Garlean campaign|Garlean control]] and worked alongside her brother to disable the [[magitek]]-generated shields that protect the castle.
+
+Once Doma was liberated, Alisaie returned to Eorzea and continued to assist the Eorzean Alliance and Ala Mhigan Resistance as they pushed toward the city of Ala Mhigo. During the battle to take [[Castrum Abania]], Alisaie fought [[Fordola rem Lupis]] and was injured when Fordola displayed [[Resonant|new abilities]]. Although not life-threatening, the injuries were severe enough to prevent her from participating in the final battle for Ala Mhigo. After the defeat of [[Zenos yae Galvus]], and the end of the Garlean occupation of Ala Mhigo, Alisaie was recovered enough to celebrate the victory with the other Scions.
+
+After Alphinaud left with [[Maxima quo Priscus|Maxima]] on a diplomatic voyage to Garlemald, Alisaie couldn't help but worry, exacerbated when they lose contact with him over [[Burn (Final Fantasy XIV)|the Burn]]. Shortly after, the Scions begin to fall victim to a mysterious illness that sees their souls beckoned from their bodies. When Alisaie and the Warrior accompanied Hien to witness the activation of Seiryu's Wall in the Burn, they were met by [[Gaius van Baelsar]] bringing her unconscious brother back to the care of the Scions, having fallen to same affliction as the other Scions. Gaius explained he helped Alphinaud during the fall of his airship and warned of the Empire's new biological weapon: the [[Black Rose (Final Fantasy XIV)|Black Rose]]. With the rest of the main Scions unconscious, Alisaie acted as their representative in the audience with [[Varis zos Galvus|Emperor Varis]], and participated in the battle against Garlemald in the [[Ghimlyt Dark]]. After the first wave was defeated, Alisaie herself fell victim to the illness, leaving the Warrior of Light alone.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:SHB Alph and Alisae artwork.jpg|thumb|Alisaie and Alphinaud artwork for ''Shadowbringers''.]]
+It was revealed that Alisaie and the rest of the Scions had their souls taken to a parallel world of the Source known as the First, where they became 'corporeal spirits'. As a result of time dilation between the worlds, Alisaie learned that the other Scions had already been there years before she arrived. She learned of the plight the people of the First faced in the [[sin eater]]s and from Urianger learned  of the coming [[Eighth Umbral Calamity]] that would kill the Warrior of Light. Stuck on the First with no other recourse, Alisaie assisted the others in finding a way to change the future. She devoted her energy to studying the enemy and headed to the arid lands of [[Amh Araeng]] where the [[Minfilia|Oracle of Light]] halted [[the Flood]] almost a century prior. 
+
+She made herself known as a wandering sellsword and guard, protecting caravans in the region from sin eater incursions before coming across the Inn at Journey's Head, where the light-afflicted victims of the eaters gathered to live out the rest of their mortal life, before taking their last meal instead of becoming sin eaters themselves. Sympathetic towards these lost souls, and the carers that had dedicated their lives to ensuring their comfort, Alisaie became a guard for the inn, carrying out odd jobs here and there to relieve the burden. She became close friends with the head carer, [[Tesleen]], and shared tales with her of the Warrior of Light. 
+
+This arrangement continued for almost a full year until the [[G'raha Tia|Crystal Exarch]] succeeded in summoning the Warrior to the First. When seeking out their comrades to determine if the situation of the world is as the Exarch described, the Warrior journeyed to Amh Araeng to reunite with Alisaie. The Warrior met with Tesleen and escorted her back to the Inn before encountering Alisaie as she hunted down a lesser eater. She explained the nature of sin eaters to the Warrior and the purpose of the Inn. When a large group of sin eaters attacked, Tesleen was stabbed by a greater sin eater while trying to defend one of her charges, [[Halric]], and Alisaie and the Warrior could only watch in horror as Tesleen transformed into a sin eater before their eyes. Knowing that simply culling the sin eater forces one at time would do little to prevent further tragedies, Alisaie left her post at the Inn and returned to the [[Crystarium (Final Fantasy XIV)|Crystarium]] with the Warrior to find a more permanent solution. 
+
+After both Alisaie and Alphinaud had returned, the Exarch explained to the Warrior the nature of the Rejoinings that drove the destructive force of each Umbral Calamity. The excess Light of the First caused the Eighth Umbral Calamity and thus needed to be removed. The majority of this Light was held within the strongest sin eaters known as Lightwardens, who were also responsible for ever present clouds of Light in the sky. Guard Captain [[Lyna]] arrived with news that the nearby village of [[Holminster Switch]] was under attack by a sin eater horde. Alisaie joined her brother, the Warrior, the Exarch and Lyna in defending the village during which they slew both the eater that transformed Tesleen and Tesleen herself. They defeat the sin eater leading the charge, the Lightwarden Philia, who dissolved into light, which was absorbed by the Warrior. Instead of transforming into a new warden, the Warrior appeared to extinguish the light, and the clouds of of light in the sky dispersed revealing the night in all its beauty. As the party returned to assist the residents of the city acclimate to this change, Alisaie remained behind at Holminster to keep her mind busy and pay respects to Tesleen.
+
+Before eventually returning to the Source once a method was safely devised, Alisaie learned a means to treat those infected by sin eaters like Halric. Following her return and recuperation, Alisaie decided to apply her treatment to those tempered by the primals. She travelled to [[Azys Lla]] with the Warrior and G'raha, where they found data on eikonic corruption authored by the [[Allag]]an researcher Owen. With [[Garlond Ironworks]] able to decipher Owen’s research and develop a spell which G’raha augmented with his memory transference, Alisaie was able to cure Ga Bu of his tempering. From there, Alisaie’s group was joined by Alphinaud and Y’shtola as they gained Master Matoya’s help in creating a Mother Porxie to mass-produce porxies for their allies’ use in ending the primal threat.
+
+Despite having a means to combat the primals and contending to local complications in the city states, Alisaie and the Scions encounter the rogue Ascian, [[Fandaniel]], and his newly created primal, Lunar Bahamut, in Ala Mhigo. Fandaniel pledged his services to Zenos and plans to not restore the Source as it once was, but to destroy it by restarting the Final Days. Forced to flee in the wake of Lunar Bahamut's power, Fandaniel delivers his message from Zenos, demanding a "reunion" with the Warrior of Light. Returning to the Rising Stones, the Scions agree to find and recruit Estinien again to battle the Lunar primal. As Krile and Tataru work in finding the Azure Dragoon, the Scions discover that strange towers have appeared all over the three continents of the known world to forcibly [[Enthrallment#Final Fantasy XIV|temper]] people into serving Zenos and Fandaniel.
+
+As the Resistance deploys agents to discover the towers' purpose, Alisaie, G'raha and the Warrior intercept Estinien in Ishgard, who evaded Krile and Tataru at first, but desired an airship after being informed of Lunar Bahamut. Alisaie meets the dragoon her brother spoke so much about, but to her annoyance, Estinien mistakes her for Alphinaud. Unlike her brother, Alisaie would not admire Estinien but find him overtly blunt and gruff. Estinien intends to seek the aid of the one who could equal the Lunar primal in strength: Bahamut's broodmate, [[Tiamat (Final Fantasy XIV)|Tiamat]]. To free Tiamat from Bahamut's lingering enthrallment, Alisaie, G'raha and the Warrior remove her bindings and cast their cure over the ancient dragon. They gain her assistance and Estinien rides upon Tiamat towards the primal imposter of her fallen mate, having been sighted near a tower outside the borders of Ul'dah.
+
+The Scions race towards Amalj'aa territory as Lunar Bahamut lay wastes upon their forces. With the aid of Tiamat and Estinien, they bring Lunar Bahamut down, saving the Amalj'aa, who agree to a truce with the Eorzean Alliance. The Scions and Estinien return to the Rising Stones to rest, but meet with Krile who intends to travel to the isolationist nation of Sharlayan to recruit their aid in gathering whatever knowledge they can on Hydaelyn and in preventing the Final Days from happening again. She asks that Estinien join the Scions of the Seventh Dawn to aid her comrades, to which the dragoon agrees.
+
+After welcoming Estinien to their order, the Scion are invited to Ala Mhigo for a meeting with the Alliance leaders as well as the Beast Tribe representatives. They reach an accord in combating the Empire and the Ascian [[Fandaniel]], naming their newly formed alliance the Grand Company of Eorzea. To help facilitate this alliance and better develop communications, Kan-E Senna asks Alphinaud for his expertise in organizing the grand company, to which he agrees. To help in this, Alisaie interviews former members of the Crystal Braves, some of whom were harsh but nonetheless gave them the critique Alphinaud was looking for. As they deliver their report, Alisaie is shocked to learn Sharlayan sent an envoy to Gridania to deliver the Forum's answer, and this envoy is, in fact, their father.
+
+In Gridania, Alisaie and her brother reunite with their father, [[Fourchenault Leveilleur]]. Though the twins are happy to see him, they are dismayed that his disposition and that of Sharlayan's remains unchanged: they would observe history, not intervene to change it, even when the world itself is in peril. Though the twins attempt to convince Fourchenault of the threat the Telophoroi pose and of their goal in restarting the Final Days, he remains unmoved, claiming Alisaie and Alphinaud have forgotten their Sharlayan roots and have adopted their grandfather's "foolish" ways. Fourchenault renounces his children as Leveilleurs, leaving Alisaie devastated. Alphinaud says she can't change the opinions of their father and the Forum, and G'raha Tia suggests from Fourchenault's strange behavior, and being envoy instead of a lesser ranked member, that Sharlayan may know more than they are letting on about the Final Days. Krile informs them that the Forum ignored her warnings of the Final Days, and forbade anyone from discussing with the Scions.
+
+Regardless of their father's words and Sharlayan's continued isolation, Alisaie lends her skills in curing the [[Enthrallment#Final Fantasy XIV|tempered]] when word reaches them that the Telophoroi have launched an invasion into Xelphotol and Coerthas. There they discover that Fandaniel intends to use aether glyphs to siphon the land of aether which his Lunar Primals would then destroy. Alisaie and G'raha fight off Lunar Ravana before he can destroy a glyph, with their allies meeting similar success. With his plan in tatters, Fandaniel takes his leave, causing the majority of his forces to disperse. With the fighting largely over, Alisaie attends to the tempered, some of whom she couldn't save, and though she and the other Scions are dismayed by the losses, her spirits alight after hearing words of gratitude from the Beast Tribes and the Alliance.
+
+The Scions return to the Rising Stones to discuss their next action and agree that Sharlayan may possess the knowledge they need to combat the Telophoroi and forestall the Final Days. Alisaie, Alphinaud and the Warrior of Light depart for Sharlayan.
+
+==Characteristics==
+===Appearance===
+[[File:Alpinaud & Alisaie NPC Render.png|thumb|left|Render of Alisaie (right) and Alphinaud.]]
+Alisaie is a sixteen-year-old<ref name=age/> [[Elezen]] with white hair and blue eyes. She wears a large delta-shaped earring on her right ear and dark blue clothing that matches her brother's, distinguished by a red knot in her ponytail and purple markings on her collar. Though she carries a white grimoire, Alisaie mainly uses a magically conjured blade for a weapon.
+
+Alisaie's lips are redder than Alphinaud's, and her hair style is horizontally mirrored to his. The twins become more distinctive in ''[[Final Fantasy XIV: Heavensward]]'' once [[Tataru Taru]] provides them with new outfits. Alisaie is given a tan trench coat with a gray cloak from the waist, silver pendant and gray knee-high boots. The siblings' identical appearance is poked fun at when Alisaie is mistaken for her brother by his female admirer during their learning years at home, and when [[Estinien Wyrmblood]] meets her for the first time, again mistaking her for Alphinaud and remarking on how "rugged" she has become.
+
+In ''[[Final Fantasy XIV: Shadowbringers]]'', Alisaie is seventeen years old and is given a more distinct outfit, with a bright red dress, white thigh-high boots, a small tan coat that covers her shoulders and arms, red accessories and a new rapier that reflects her status as a [[Red Mage (Final Fantasy XIV)|Red Mage]]. Alisaie's Red Mage weapon is a uniquely recolored version of the Hailstorm Rapier that can be purchased in [[Idyllshire]]. Though the augmented version can be dyed, it only affects the metallic parts of the weapon. After returning to [[Hydaelyn|the Source]] from [[the First]], Alisaie returns to her original gear and clothing she wore in ''Heavensward'' and ''Stormblood''.
+
+In ''[[Final Fantasy XIV: Endwalker]]'', Alisaie receives a new outfit comprised of a white short jumpsuit, a cropped leather jacket with a longer trail in the back, and thigh high white boots with armored kneepads. The look is accessorized by her red leather gloves, red belts on her waistline, and a large dark blue belt across her chest.
+
+===Personality===
+[[File:FFXIV SH Alisaie 2.png||thumb|Alisaie in ''Shadowbringers''.]]
+Alisaie is strong-willed, cynical and, at times, emotional. She is compassionate, concerned for a traumatized [[Kobold]]ling that lost his parents, and leaving a bouquet of flowers in memory of her grandfather, [[Nael van Darnus]], and [[Bahamut (Final Fantasy XIV)|Bahamut's]] children.
+
+By her own admission, Alphinaud was always the more clever of the two while she is more direct. This distinction is most pronounced when she summons an [[aether]]ial blade to attack the Warriors of Darkness, rather than summoning a [[Carbuncle (summon)|carbuncle]] like her brother. Unlike her brother, Alisaie had little interest in the affairs of the city-state's politics, tiring of their petty power struggles. She strikes out on her own while her brother joins the Scions of the Seventh Dawn, but upon reuniting she becomes more involved, especially with the missions against the Warriors of Darkness and to liberate [[Doma (Final Fantasy XIV)|Doma]] and [[Ala Mhigo]].
+
+Though Alisaie loathes politics, she has proven to be quite persuasive when negotiating, or at least when striking a deal. She has a humorous side, often teasing Alphinaud (in a similar vein to [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]]) and making cynical comments. Although this seems like petty sibling rivalry, it shows that she knows and understands Alphinaud unlike anyone else. Alisaie resents being compared to her brother or being mistaken for a boy. She deeply cares for him as he does for her, and when Alphinaud goes missing during a diplomatic mission to [[Garlemald (location)|Garlemald]], Alisaie constantly worries for his whereabouts, even stating that should he die on her, she will never let him hear the end of it. From the latter parts of ''Stormblood'' through ''Shadowbringers'', Alisaie becomes irritated by those around her and even defensive, angrily grabbing Alphinaud by his collar after jokes about seeing a bratty pixie as reminding him of his childhood, to sounding outright snappy when her idolism of the Warrior of Light is brought up in embarrassing context.
+
+During her time in The First, Alisaie befriends [[Tesleen]] and [[Halric]], two of the many light-corrupted patients at the Inn at Journey's Head who seek to live out their final days before becoming [[sin eater]]s in peace. It is implied that Alisaie's attachment to them and the other patients stems in part from her inability to help Ga Bu back in Eorzea. After witnessing Tesleen's transformation, Alisaie's determination to undo the Flood and aid the Warrior of Darkness in their struggle grows. If brought into [[Holminster Switch]] as part of a Trust, she will express sorrow at having to fight the corrupted Tesleen, wishing her peace after the battle.
+
+Alisaie is the more pragmatic and direct of the two, most often concerned with the possible ramifications of a mission. Like Alphinaud, Alisaie greatly respects the Warrior of Light, and is especially grateful for their support during trying moments. She views the Scions' core members as close friends and cares greatly for their well-being.
+
+===Abilities===
+[[File:FFXIV Elisaie RDM.png|thumb|left|Alisaie with her Red Mage rapier.]]
+According to her biography, Alisaie excels at two fields over her brother: fencing and swimming. During her journey Alisaie learns the art of Red Magic, applying her already admirable fencing abilities to the discipline, summoning aetherial blades from her grimoire.
+
+Since her time on the First, Alisaie has developed the ability to summon a porxie-shaped familiar named Angelo, with whom she is able to channel large amounts of aether into and rebalance another person's own aether, thus relinquishing them from a primal's control.
+{{clear|left}}
+
+==Gameplay==
+[[File:FFXIV Alisaie RDM.png|thumb|Alisaie as a Red Mage in ''Stormblood''.]]
+Alisaie appears as an NPC ally and Trust party member in certain instanced [[Duty|duties]]. In ''Final Fantasy XIV: Heavensward'', she carries an Arcanist codex, but never fights as an arcanist. In battles she functions as a Paladin, wielding an aetherial sword she summoned from her codex.
+
+In the beginning of ''Final Fantasy XIV: Stormblood'', Urianger gives her a new aetherial rapier. From that point onward, and throughout the entirety of ''Stormblood'', Alisaie abandons the arcanist combat style and uses Red Mage abilities.  
+
+As one of the characters that can be used in the "Trust" system, introduced in the third expansion ''Final Fantasy XIV: Shadowbringers,'' she reprises the role of Red Mage, dealing magic damage while using healing and resurrection abilities if necessary. Fitting to her aggressive personality, Alisaie will use the "[[Limit Break (Final Fantasy XIV)|Limit Break]]" whenever it becomes available. 
+
+In the Main Scenario Quest instance, Death Unto Dawn, Alisaie is playable in the second part of the battle. Though she lacks the Mana Gauge, she is able to use the Enhanced version of the melee rotation as part of her Scorch combo while also being able to cast all of the four elemental spells as part of her Verflare Combo. She also has access to an AoE melee attack called Crimson Savior.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Alphinaud & Alisaie
+|image = [[File:FFXIV TT Alphinaud & Alisaie.png]]
+|number = 59
+|total = 24
+|type = None
+|description = "Our paths may differ, but our destination is the same. In time, I daresay we will see eye to eye." 
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Swift|Swift]], Ul'dah - Steps of Nald (8,8).<br>Won from [[Final Fantasy XIV Triple Triad players#Joellaut|Joellaut]], Coerthas Central Highlands (13,15).
+}}
+
+{{Card FFXIV
+|name = Stormblood Alphinaud & Alisaie
+|image = [[File:Stormblood Alphinaud Alisaie Triple Triad Card.png]]
+|number = 251
+|total = 30
+|type = Scion
+|description = “I can strike bargains, forge ties, and change minds. And where better to do these things than in the home of our old enemy?”<br>“Go, then. You've obviously made up your mind.”
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Mero Roggo|Mero Roggo]], The Dravanian Hinterlands (12, 36)
+}}
+
+==Other appearances==
+===''[[Dissidia Final Fantasy Opera Omnia]]''===
+{{Main|Alisaie Leveilleur (Opera Omnia)}}
+[[File:DFFOO Alisaie.png|thumb|150px]]
+Alisaie appears as a playable character.
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+{{Main|Alisaie Leveilleur (Record Keeper)}}
+Alisaie appears as a playable character.
+<gallery>
+FFRK Alisaie sprites.png|Spritesheet.
+</gallery>
+{{Clear}}
+
+===''[[War of the Visions: Final Fantasy Brave Exvius]]''===
+Alphinaud appears in vision cards from ''[[War of the Visions: Final Fantasy Brave Exvius]]''.
+;Scions of Shadow
+[[File:Scions of Shadow from WotV vision card.png|thumb|Scions of Shadow.]]
+{{Q|Ala Mhigo is at last free from imperial rule, but that liberty may prove fleeting as the Empire moves to both reclaim this bloodied nation and subjugate all of Eorzea. In their hour of need, however, they cannot turn to the Warrior of Light. Nor to the Scions, who yet slumber, their souls adrift. The realm is left to struggle without its saviors, for they have been beckoned beyond time and space─beckoned to the First.|Vision card description}} 
+Scions of Shadow is an UR-rarity vision card. It was illustrated by Akihiko Yoshida.
+{{-}}
+;Bringers of Shadow
+[[File:Bringers of Shadow from WotV vision card.png|thumb|Bringers of Shadow.]]
+{{Q|In order to restore darkness to the Norvrandt of the First, in danger of being consumed by the Flood of Light, the Shadowbringers fight against fate itself. <br>Adventurers who became known as the legendary Warriors of Darkness, the Scions, and the Oracle of Light come together to try to subdue the grotesque Sin Eaters.|Vision card description}} 
+Bringers of Shadow is an UR-rarity vision card. It was illustrated by SQUARE ENIX.
+{{-}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+Alisaie appears in ''Final Fantasy Trading Card Game'' as Fire- and Lightning-elemental Backup cards.
+
+<gallery>
+Alisaie TCG.png|Alisaie [12-003U] Chapter series card.
+Alisaie 5-161S from FFTCG Opus.jpg|Alisaie [5-161S] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Alisaie appears alongside [[Alphinaud Leveilleur|Alphinaud]] on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+470a Alphinaud & Alisaie.png|Alisaie and Alphinaud.
+470b Alphinaud & Alisaie.png|Alisaie and Alphinaud.
+470c Alphinaud & Alisaie.png|Alisaie and Alphinaud.
+</gallery>
+
+==Other media==
+===''[[Final Fantasy Lost Stranger]]''===
+[[File:FFLS Alisaie Alphinaud.png|thumb|150px|Alisaie and Alphinaud in ''Final Fantasy Lost Stranger''.]]
+Alisaie and Alphinaud are alluded to when the [[Shogo Sasaki|protagonist]] assumes that the Elrein race could be either Elezen or [[Elvaan]].
+{{clear}}
+
+==Behind the scenes==
+Alphinaud and Alisaie's introductory appearance is only seen for new characters. This scene is cut for characters returning from [[Final Fantasy XIV/Legacy|1.0]], who will not see them until the Carteneau memorial.
+
+Depending on the player's progress in the Coils of Bahamut, when talked to in ''Final Fantasy XIV: Heavensward'', Alisaie may comment on the feat. If the player did not complete the Final Coils by the time of Soul Surrender story, Alisaie expresses that together they didn't find out much about the coils, avoiding spoilers for that storyline.
+
+===Voice===
+Alisaie is voiced by [[Rie Murakawa]] in the Japanese version.
+
+She is voiced by [[Simone Bee]] in the English release of ''Final Fantasy XIV: A Realm Reborn'', and then by [[Bethan Walker]] from ''Final Fantasy XIV: Heavensward'' onwards.
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV SH Alisaie (Trust).png|Alisaie's Trust render.
+FFXIV ST Alisaie (Trust).png|Alisaie's Trust alternate render.
+Alisaie Full Trust Portrait from Final Fantasy XIV.png|Full size Trust portrait.
+Alisaie Full Trust Portrait 2 from Final Fantasy XIV.png|Full size alternate outfit Trust portrait.
+Alisaie RDM artwork.png|Alisaie artwork.
+FFXIV ARR Alphinaud and Alisaie concept.png|Alphinaud and Alisaie concept art.
+FFXIV Alphinaud and Alisaie Artwork.png|Alphinaud and Alisaie artwork.
+FFXIV 1st Anniversary Countdown 2 Days.jpg|Artwork of Alisaie and Alphinaud for ''[[Final Fantasy XIV Online Anniversary]]''.
+FFXIV Alisaie Minion.png|Alisaie minion.
+FFXIV The Far Edge of Fate Artwork.jpg|Alisaie in ''The Far Edge of Fate'' artwork.
+FFXIV SB Doma promotional poster.jpg|Alisaie in ''Stormblood'' promotional artwork.
+FFXIV SH Alisaie.png|Introduction for ''Shadowbringers''.
+Alisaie EW CG Artwork.jpg|CG Artwork for Endwalker.
+</gallery>
+
+;Screenshots
+<gallery widths="185">
+Alisaie.jpg|Alisaie's first appearance in ''A Realm Reborn''.
+Alphinaud and Alisaie Ul'dah.jpg|Alphinaud and Alisaie meet the Adventurer again in [[Ul'dah]].
+FFXIV TFC Leveilleurs.png|Alisaie and her brother in ''Tales From the Calamity - In Louisoix's Wake''.
+FFXIV Alisaie HW Outfit.png|Alisaie's ''Heavensward'' outfit.
+FFXIV TFDW Alisaie.jpeg|Alisaie in her travels from ''Tales From the Dragonsong War - A Malm In Her Shoes''.
+FFXIV Alisaie vs Turtle.png|Alisaie battling a Kojin.
+FFXIV TFS Leveilleurs.jpeg|Alisaie and Alphinaud in a flashback, from ''Tales From the Storm - A Calm After the Storm''.
+FFXIV TFS Scion girls.jpeg|Alisaie, Lyse, and Y’shtola in Mor Dhona, from ''Tales From The Storm - A Calm After the Storm''.
+FFXIV Alisaie & Alphinaud Sleep.png|Alisaie and Alphinaud resting before the Ghimlyt Dark.
+FFXIV Alisaie & Alphinaud Eulmore.png|Alisaie & Alphinaud in Eulmore.
+FFXIV Aetheric Sever.png|Alisae's signature ability Aetheric Sever.
+Alisae Crimson Savior.png|Alisaie using Crimson Savior.
+FFXIV Endwalker trailer screenshot 3.png|Alisaie in ''Endwalker'' trailer.
+</gallery>
+
+==References==
+{{Reflist}}
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[es:Alisaie Leveilleur]]
+[[pt-br:Alisaie Leveilleur]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Arcanists]]
+[[Category:Red Mages]]
+[[Category:Paladins]]
+[[Category:Guest characters]]

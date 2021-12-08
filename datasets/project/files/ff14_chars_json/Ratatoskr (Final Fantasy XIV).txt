@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Ratatoskr (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ratatoskr
+|japanese=ラタトスク
+|romaji=Ratatosuku
+|lit=Ratatosk
+|aka=
+|release=FFXIV
+|image=FFXIV Ratatoskr Painting.png
+|home=
+|age=
+|affiliation=[[First Brood]]
+|race=Dragon
+|gender=Female
+|height=
+|weight=
+|eye=
+|type=npc
+|designer=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Ratatoskr''' was a great wyrm in ''[[Final Fantasy XIV]]'', one of the [[First Brood]]. One of the seven wyrms born of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]], she was slain a thousand years ago.
+
+==History==
+Early in the Sixth Astral Era, several tribes who followed Halone arrived in [[Coerthas]] in search of "The Promised Land." Being the dominion of dragons, they feuded with the natives until Saint Shiva's love for [[Hraesvelgr]] inspired a time of peace. The [[Ascian]]s helped destroy that peace two centuries later by revealing to [[Thordan I|King Thordan]] the power of a great wyrm's eyes. The King invited Ratatoskr to speak to them on behalf of the dragons, and she expressed their desire to peacefully coexist. However, when the King asked her about her brood-brother [[Nidhogg (Final Fantasy XIV)|Nidhogg]], she truthfully answered that he did not believe mankind capable of protecting the world and felt that only the seven great wyrms could accomplish that task.
+
+Seeing that Nidhogg held them in such contempt, and fearing the dragons would seek to supplant them, Thordan and his Knights Twelve betrayed and murdered Ratatoskr, ripping out her eyes to consume them for their power. Nidhogg attempted to avenge her and though Thordan and four of the knights were slain, Nidhogg's eyes were gouged out. He told Hraesvelgr of the treachery so to receive his brood-brother's eye and continue his campaign of vengeance against the descendants of Thordan and his Knights Twelve: the Holy See of [[Ishgard]].
+
+As Ishgardian citizens are ultimately descended from the Knights Twelve, including the lowborn, an element of Ratatoskr's power in them could be activated by dragon blood. Many heretics opposed to Holy See doctrine would consume dragon blood to transform into humanoid dragons, such as aevis, syrictae, or diresaurs, and side with the [[Dravanian Horde]].
+
+==Etymology==
+{{Etym|Ratatoskr}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Ratatoskr (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]
+[[Category:Unseen characters]]

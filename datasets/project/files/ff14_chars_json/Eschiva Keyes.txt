@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Eschiva Keyes
+|release=FFXIV
+|japanese=エシヴァ・キイス
+|romaji=Eshiva kīsu
+|aka=Eschiva the Aetherial
+|image=FFXIV Eschiva.png
+|race=[[Hyur]]
+|gender=Female
+|age=
+|home=[[Gridania]]
+|affiliation=
+|occupation=
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+}}
+'''Eschiva Keyes''', also known as '''Eschiva the Aetherial''', is a [[non-player character]] from ''[[Final Fantasy XIV: Heavensward]]''. She appears as a major character in the White Mage job quests.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Eschiva's grandfather was a retainer for the elder seedseer [[A-Towa-Cant]], who accompanied the padjal in his journey across the realm. By the time of the present day, the man had passed on, but Eschiva took up his task of tending A-Towa-Cant's grave. The Warrior of Light seeks her out when the Guardian Tree begins warning of a taint that threatens Twelveswood, similar to what prompted A-Towa-Cant's original journey.
+
+Eschiva meets with the other Seedseers, who frustrate her when they state they are bound to the forest and cannot act themselves. She accompanies the Warrior of Light to the Northlands to determine the source of the taint, by following the water table. Tainted aether is first encountered outside Camp Dragonhead, where they assist House Fortemps Knights in fending off beasts maddened by it. It is then traced to the [[Coerthas Western Highlands]], where the people of Falcon's Nest mention of an unsettling woman that reeked of death who had passed through recently.
+
+While cleansing tainted aether near the frozen Banepool, they come across an [[Au Ra|Auri]] woman named [[Alaqa]] near the corpse of a dragon. The stench of death was overwhelming as they approached her, who made cryptic remarks. Eschiva felt unsettled by the woman, and suspected she may be linked to the taint appearing.
+
+At the [[Dravanian Forelands]], they learn that tainted aether appeared as she passed through, confirming her suspicions. Alaqa is encountered in Avalonia Fallen, where they discover a hunk of tainted flesh after she escapes. They take it back to the Seedseers in the [[Black Shroud]]. The Seedseers' hesitation to leave the Twelveswood ultimately cause her to lash out, as the padjal are the ones who should be protecting the people of Twelveswood.
+
+These words cause [[Raya-O-Senna]] to reconsider their next path. She along with [[A-Ruhn-Senna]] decide the best course of action is to make their first journey out of Twelveswood and accompany them to Dravania, where Alaqa was last seen. From within Tailfeather, the taint is discerned to be situated in the caverns of Mourn. They find Alaqa with her creation: a zombie dragon, sustained by the taint. The four put an end to her machinations by purifying the taint and finishing off the undead scalekin. With that, Alaqa surrenders to Raya-O-Senna.
+
+After they return to Camp Tranquil in the [[South Shroud]], Eschiva announces she will be escorting A-Ruhn-Senna on a pilgrimage across the realm, like A-Towa-Cant once did.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gameplay==
+Eschiva appears in several White Mage quests as an NPC ally. She uses lancer abilities, and functions as a tank for the player during these instanced duties.
+
+{{Character section}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

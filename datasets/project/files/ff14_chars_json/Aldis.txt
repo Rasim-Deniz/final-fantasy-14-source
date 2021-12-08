@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Aldis
+|release=FFXIV
+|japanese=ナルの剣 アルディス
+|romaji=Naru no Ken Arudisu
+|lit=Aldis, Nal's Sword
+|aka=Sword of Nald, Black Lotus
+|image=FFXIV Aldis.png
+|home=[[Ul'dah]]
+|race=[[Hyur]]
+|gender=Male
+|hair=Black
+|eye=Brown
+|affiliation=Gladiators' Guild
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}<br>{{icon|ffxiv|discipline|samurai}}
+|weapon=Frenzy
+}}
+'''Aldis''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. A former gladiator, he appears throughout the [[Paladin (Final Fantasy XIV)|Gladiator and Paladin]] class/job quests.
+
+== History ==
+=== Early Life ===
+Aldis was a popular Coliseum gladiator, where he was frequently partnered with his friend [[Leavold]]. They were known respectively as the Swords of Nald and Thal, in reference to Ul'dah's patron twin deities [[Nald'thal]]. They wielded twin blades forged for them by famed blacksmith [[Gerolt Blackthorn]], with Aldis's blade being named Frenzy. Aldis would come to be known as one of the greatest swordsmen of the realm, and become romantically involved with Mylla Swordsong, the daughter the Gladiators' Guildmaster.
+
+Though accounts vary on the specifics{{note|The story behind Aldis' exile told in ''Final Fantasy XIV'' differs from that found in ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'' p.53. Both are presented here.}}, in the year [[Final Fantasy XIV timeline|1570 of the Sixth Astral Era]], Aldis became embroiled in a match fixing scandal just as the Guildmaster met an untimely death. One account tells that the Guildmaster fell ill, with suspicions that Aldis had poisoned him. Another tells that Aldis had killed the Guildmaster in a fixed bout on the bloodsands. Either way, Aldis found himself a wanted criminal and fled Ul'dah. Mylla would remain behind and take up her father's position as Guildmaster.
+
+In reality, Leavold had framed his partner for both the match-fixing and the Guildmaster's death. He had done this in retaliation for Aldis refusing to throw an earlier bout between the two of them from which Leavold stood to make a hefty purse had he won. Unfortunately for Leavold, with Aldis gone, his stock on the bloodsands plummeted, and he ultimately retired from the Coliseum.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Seven years later, Aldis learned that Leavold had taken leadership of a band of thieves known as the [[Alacran (Final Fantasy XIV)|Alacran]]. Under Leavold's leadership, the Alacran had grown to become the most feared criminal organization in [[Thanalan]]. Seeking to finally bring Leavold to justice, Aldis returned to Ul'dah, having a fraught reunion with Mylla and meeting an [[Warrior of Light (Final Fantasy XIV)|adventurer]] pupil of hers.
+
+Having learned of Aldis' return, Leavold placed a bounty on his head, leading to a series of indiscriminate assaults and murders on men even vaguely matching Aldis' description, and a brazen attack in broad daylight on the crowded Quicksand tavern in Ul'dah. When Aldis managed to continually evade these assassination attempts, Leavold resorted to once again framing him for a crime he did not commit, this time a plot to assassinate Sultana [[Nanamo Ul Namo]].
+
+Arrested by the Brass Blades, Aldis was taken to Highbridge to be executed. Finding evidence of the frame-up, the adventurer and the Gladiators' Guild rushed to Highbridge, where they freed Aldis. Anticipating the Guild's interference, Leavold and the Alacran attacked and a large battle ensued, Aldis once again emerging victorious over his former partner. Satisfied with having ruined Aldis' life, Leavold opted to take his own rather than be arrested, and Aldis watched helplessly as Leavold flung himself from Highbridge.
+
+Despite Mylla's wishes, Aldis chose not to remain in Ul'dah, as he had still not been cleared of the match fixing scandal, and her associating with him would tarnish the Guild's reputation. He instead left to root out what remained of the Alacran. His efforts seem to have been a success, as the Alacran has not been heard of since.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV Aldis as Black Lotus.png|thumb|left|Aldis reveals his identity as the Black Lotus.]]
+In his travels, Aldis would come to hear tales of how the adventurer who had previously aided him against the Alacran had become a [[Paladin (Final Fantasy XIV)|paladin]] of renown called the Warrior of Light. He also learned that the Sultana was reviving the prestigious Ul Cup, a gladiator tournament as old as Ul'dah itself that had not been held in generations. Unable to resist the temptation, Aldis set out to join the Ul Cup in the hopes of meeting the Warrior of Light in the tourney.
+
+As he was still a wanted man in Ul'dah, Aldis acquired a face covering helmet and less distinctive sword, and entered the tournament under the pseudonym Black Lotus. Fighting his way through the Nald group, Black Lotus would advance to the finals to face the Warrior of Light after defeating Mylla in the quarterfinals. However, a young war orphan he had taken into his care would be kidnapped in an attempt to make him withdraw from the tournament, causing him to reveal himself to the Warrior and Mylla in order to rescue the boy.
+
+Before the tournament final could go on as planned, shrewd spectators in the crowd were able to correctly suss out that Black Lotus was the famed Sword of Nald based on his distinctive fighting style. While Aldis' supposed crimes threatened to end the tournament, the Sultana bid it go forward with Mylla and the Warrior's reassurance. The Warrior of Light would emerge victorious over Aldis, and as a reward for winning the tournament requested that the Sultana pardon Aldis, which she granted.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Though free to remain in Ul'dah, Aldis once again chose to leave in order to hone his skills and challenge the Warrior again, much to Mylla's dismay. He would come to find himself in the [[Othard|Far East]], where he would learn the way of the [[Samurai (Final Fantasy XIV)|samurai]].
+
+[[File:FFXIV Aldis in samurai stance.png|thumb|Aldis in samurai stance.]]
+Returning to Ul'dah once more to challenge the Warrior, Aldis would throw the match before the Warrior of Light even drew their blade, realizing they were still no match for them. Acknowledging that the Warrior's drive to protect that they hold dear was the source of their strength, Aldis finally chose to remain in Ul'dah to protect that which was most dear to him—the Gladiators' Guild, as a dumbfounded Mylla was left to protest.
+
+== Characteristics ==
+=== Appearance ===
+Aldis is a highlander hyur with black hair and a goatee, he has a noticeable scar on his left cheek. He wears a red open shirt and wields a red and black sword named Frenzy.
+
+=== Personality ===
+Aldis is seen as carefree and reckless returning to [[Ul'dah]] and the Gladiators' guild even though he is forbidden. He is a skilled swordfighter and is flirtatious with [[Mylla Swordsong|Mylla]].
+
+==Gameplay==
+Aldis fights alongside the player in the ''A Realm Reborn'' quests {{icon|ffxiv|quest|That Old Familiar Feeling}} and {{icon|ffxiv|quest|The Rematch}}. He is fought as the final opponent of the ''[[Final Fantasy XIV: Stormblood|Stormblood]]'' paladin quests in {{icon|ffxiv|quest|Raising the Sword}}.
+
+==Gallery==
+<gallery>
+FFXIV Black Lotus.png|The Black Lotus.
+FFXIV Aldis samurai.png|Aldis as a samurai.
+</gallery>
+
+==Notes==
+{{notelist}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Paladins]]
+[[Category:Samurai]]

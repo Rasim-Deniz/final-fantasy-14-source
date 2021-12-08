@@ -1,0 +1,52 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Adkiragh
+|release = FFXIV
+|japanese =アドキラー 
+|image =FFXIV Adkiragh.png 
+|race = [[Au Ra]]
+|gender = Male
+|height = 
+|hair = Pink
+|eye = Turquoise
+|type=npc
+|designer = 
+|age = 
+|job = 
+|weapon = 
+|armor = 
+|romaji =Adokirā 
+|affiliation = 
+|occupation = Bartender
+|japanese voice actor = 
+|english voice actor = 
+}}
+'''Adkiragh Adarkim '''is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He is the bartender of the Hard Place in [[Idyllshire]].
+
+== History ==
+=== Early life ===
+Adkiragh lived on the [[Azim Steppe]] within the Adarkim tribe, he had grown distant from his brother Bulugan and left the steppe for Eorzea. He runs the Hard Place in Idyllshire where he wears a pig head to hide his face.
+
+=== Custom deliveries ===
+Realizing that the Hard Place is receiving less visitors since most adventurers have moved on to [[Rhalgr's Reach]], Adkiragh searches for new ways of bringing business back to his establishment. {{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Adkiragh is dressed in a gold extravagant outfit wearing a golden pig helmet. Under his clothing reveals that he's a Xaela Au Ra, with a multitude of scale patterns on his face and pink hair.
+
+=== Personality ===
+{{Section}}
+
+== Gallery ==
+<gallery>
+FFXIV Adkiragh Adarkim (Custom Deliveries).png|Custom Deliveries portrait.
+FFXIV Adkiragh maskless.png|Adkiragh without his mask
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Custom Delivery NPCs]]

@@ -1,0 +1,49 @@
+{{sideicon|FFXIV}}
+{{infobox character
+|name= Julyan Manderville
+|release=FFXIV
+|japanese=ジュリアン・マンダヴィル
+|romaji=Jurian Mandaviru
+|image=Julyan Manderville.png
+|affiliation=
+|occupation = 
+|race= [[Hyur]]
+|gender= Female
+|hair= Blonde with red highlights
+|eye= Red
+|age = 
+|job = {{icon|ffxiv|discipline|culinarian}} <br>{{icon|ffxiv|discipline|dark knight}}
+|type=npc
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Julyan Manderville''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. She is [[Godbert Manderville]]'s wife and the mother of [[Hildibrand Manderville]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Julyan_Frying_Pan.png|thumb|left|Julyan revealing herself while taking out Cecy.]]
+Julyan only watches her son's misadventures from the shadows, but eventually stops being an observer and takes action by taking out Cecy with a frying pan. Julyan uses this moment to knock out both her husband for failing to protect their son and then Gilgamesh when he attempts to ambush the group. Julyan is last seen running with [[Nashu Mhakaracca]] after Hildibrand when he ends up being jettisoned.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+She later appears in Coerthas Western Highlands with Godbert, having a snowball fight. Upon knowing she is now the grandmother of GiGi, she is overcome with rage, acquiring a black aura and glowing red eyes, making both her son and her husband flee from her. When Gigi saves everyone from falling stones, she is engulfed in her murderous black aura and red eyes. She then calms down and acknowledges that Hildibrand did good by Gigi, only to get angry again when he inadvertently calls her old. She then sends Hildibrand flying into the air in the direction of [[the Far East]].
+
+==Characteristics==
+===Appearance===
+Julyan is a female midlander [[hyur]], younger than her husband. She has blond hair arranged in pigtails with the tips dyed red. Her weapon of trade is a frying pan.
+
+===Personality===
+While a doting mother to Hildibrand, Julyan is terrifying when mad as even her husband fears her. Julyan is stronger than her husband as she can easily defeat [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]] by knocking him through a wall with only a frying pan. She is known to be adverse to being implied as old and anyone, even her family, are subject to her wrath upon even indirect implication she is old.
+
+==Gallery==
+<gallery>
+Julyan_&_Gilgamesh.png|Julyan knocking Gilgamesh into a wall.
+Evil Julyan.png
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Julyan Manderville]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

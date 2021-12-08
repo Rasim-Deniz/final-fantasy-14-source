@@ -1,0 +1,97 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Regula van Hydrus
+|release=FFXIV
+|japanese=レグラ・ヴァン・ヒュドルス
+|romaji=Regura Van Hyudorusu
+|lit=Regula van Hudors
+|image=Regula.png
+|home=
+|age=44
+|dob=
+|affiliation=[[Garlean Empire]]<br/>VIth Imperial Legion
+|occupation=Legatus
+|race=[[Garlean]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+|type=npc
+|job=
+|japanese voice actor=Jurota Kosugi
+|english voice actor=Stephen Campbell Moore
+}}
+'''Regula van Hydrus''' is a major [[List of antagonists|antagonist]] in ''[[Final Fantasy XIV: Heavensward]]''. The Legatus of the [[VIth Imperial Legion]], he seeks the secrets of [[Azys Lla]] so the [[Garlean Empire]] can use the [[Allagan Empire|Allagan]] knowledge kept within to trap [[primal]]s to stop their cycle of rebirth.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Regula.png|thumb|left|Regula in the Sea of Clouds.]]
+Regula is the son of an influential Garlean family and was childhood friends with Varis zos Galvus. He supported Varis his entire life and helped him ascend to emperor during the War of Succession.
+
+The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Alphinaud Leveilleur]] arrive in the [[Sea of Clouds]] in pursuit of Archbishop [[Thordan VII]]. Seeking the key to Azys Lla in the possession of the primal [[Bismarck (Final Fantasy XIV)|Bismarck]], Regula confronts the pair alongside Emperor Varis Zos Galvus. They are forced to withdraw when [[Lucia goe Junius|Lucia]] comes to their aid in a suit of [[Magitek Armor]].
+
+When the Warrior of Light's party breaks the barrier to Azys Lla, Regula ambushes them aboard a massive Garlean [[Airship (term)|airship]], the ''Gration''. Though [[Ysayle Dangoulain]], in her primal form of [[Shiva (Final Fantasy XIV)|Shiva]], saves them and damages Regula's dreadnaught, she is slain by an onslaught of fire power. The ''Gration'' is forced to remain moored at Azys Lla due to the engines being frozen.
+
+The Warrior of Light encounters Regula on the surface of Azys Lla near the Garlean outpost at the Gamma Quadrant, and engages him in battle alongside Alphinaud, [[Y'shtola Rhul]], and [[Estinien Wyrmblood]]. Regula orders his troops to keep them engaged while he goes on ahead to the [[Aetherochemical Research Facility]] where he engages the Warrior of Light once more in battle, but flees upon defeat.
+
+[[File:FFXIV Regula Flagship.png|thumb|Regula appears after the Warrior of Light defeated Sephirot.]]
+After the Warrior of Light, [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]], and [[Unukalhai]] defeat the primal [[Sephirot]], Regula confronts Unukalhai.{{cite|FFXIV|The Gears of Change}} Although he rebuffs Unukalhai's condemnation of the empire's attempt to control the primals' power, he leaves without a fight. When the wards that [[Urianger Augurelt]] created to seal off the Aetherochemical Research Facility are removed, Regula enters the facility with a troop of Garlean soldiers hoping to find the "Genesis Expression", one of the most powerful pieces of Allagan technology.{{cite|FFXIV|Revenge of the Horde}} Unbeknownst to him, the wards had been removed by Unukalhai, who had hoped to lure Regula into a trap to kill him. The Warrior of Light, Krile, Y'shtola, Urianger, and Unukalhai follow him in. The Warrior defeats Regula and, cornered by the [[Scions of the Seventh Dawn]], he ridicules their arguments against the Empire's activities, but states that dying won't help his emperor's plans and escapes.
+
+When the Scions arrive on Azys Lla to defeat [[Zurvan (Final Fantasy XIV)|Zurvan]], the final remaining member of the [[Warring Triad (Final Fantasy XIV)|Warring Triad]], Regula approaches them and offers to join them in an alliance.{{cite|FFXIV|The Far Edge of Fate}} Having decided that the Allagan technology used to bind primals is flawed, and thus unworthy to obtain for his emperor, he now seeks to destroy Zurvan. Together with the Scions he ventures into Containment Bay Z1T9 where his troops are already battling Zurvan's awakened thralls. Regula rushes to protect a vulnerable Unukalhai, but is mortally wounded by Zurvan. With his dying words he implores the Warrior of Light to continue to protect the world from primals, and encourages Unukalhai to use his powers to do the same.
+
+After Zurvan's defeat Regula's men prepare to bear his body back to Garlemald while the Scions are left to acknowledge that courage and sacrifice exist even among their enemies.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+After the defeat of [[Gaius van Baelsar]] and the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], Garlemald continued to work on the development of new [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]-like projects, which host synthetic [[auracite]]s with skilled Garlean soldiers' data within. The second of these encountered by the Warrior of Light, the [[Sapphire Weapon]], housed Regula's data in its core.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Regula is an imposing man encased within his dark blue and black suit of armor. He wields a large [[Gunblade (weapon type)|gunblade]] known as "The Bastard". At the time of ''[[Final Fantasy XIV: Heavensward]]'' he is 44 years old. Like the other Garlean Legates, his armor closely resembles those worn by the [[Archadian Judges]] of ''[[Final Fantasy XII]]'', and in particular, [[Zargabaath]].
+
+===Personality===
+Regula is known as a man of honor, and his loyalty to [[Varis zos Galvus]] is well documented. Though he disdains those who oppose the will of the Empire, he is not above making alliances with former enemies if it is for the common good.
+
+===Abilities===
+Regula is known for his skill in the art of ancient Garlean sword techniques. His other great love is music, in which it is said that he is equally skilled.
+
+==Gameplay==
+===Boss===
+Regula van Hydrus is fought as a boss with the aid of Alphinaud, Estinien and Y'shtola at the Dreadnought Landing zone in Azys Lla. He is fought later as the first boss in 3.0, and again as a boss in 3.3, the last two in the Aetherochemical Research Facility.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Regula van Hydrus
+|image = 
+|number = 119
+|total = 30
+|type = Garlean
+|description = “Come! Show me your power, champions of Eorzea!” 
+|obtain = Won from Idle Imperial, [[Azys Lla]] (x28,y31).
+}}
+
+==Gallery==
+<gallery>
+FFXIV Regula Airship.png|Regula on the Imperial flagship.
+</gallery>
+
+==Etymology==
+Regula's full name translates as "Rule of the Serpent." {{Etym|Regula}}
+
+''Van'' means "from" or "of" in Dutch (equal to German word ''von''), used by those of noble descent.
+
+{{Etym|Hydrus}}
+
+==References==
+{{citations}}
+{{navbox characters FFXIV}}
+
+[[es:Regula van Hydrus]]
+[[pt-br:Regula van Hydrus]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists|Hydrus, Regula]]
+[[Category:Garleans]]
+[[Category:Garlean citizens]]

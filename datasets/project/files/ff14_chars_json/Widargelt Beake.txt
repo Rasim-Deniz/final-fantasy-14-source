@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Widargelt Beake
+|release=FFXIV
+|japanese=ウィダルゲルト・ビーク 
+|romaji=Uidarugeruto Bīku 
+|aka=Theodred, Widargelt the Watcher
+|image=FFXIV Widargelt.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Brown
+|eye=Gray
+|designer=
+|age=26<ref name=EE220>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 220</ref>
+|home=[[Ala Mhigo]]
+|affiliation=[[Ala Mhigan Resistance]]<br/>[[Fist of Rhalgr|The Fist of Rhalgr]]
+|occupation=Job Trainer
+|type=npc
+|job={{icon|ffxiv|discipline|monk}}
+|weapon=Unfinished Replica Sphairai
+|armor=Melee Attire
+}}
+'''Widargelt Beake''', also known as '''Widargelt the Watcher''' and his birth name, '''Theodred''', is a non-playable character in ''[[Final Fantasy XIV]]''. A [[monk (job)|monk]] affiliated with the Fists of Rhalgr and member of the [[Ala Mhigan Resistance]], he appears in the [[Monk (Final Fantasy XIV)#Monk|Monk]] job quests.
+
+==History==
+===Early life===
+Widargelt was born as Theodred, the nephew of Theodoric, the Mad King of [[Ala Mhigo]].  When the king began his purge of the royal family, his parents hid him among the monks at the Temple of the Fist, where he named Widargelt and raised as a monk. He grew up unaware of his true name and identity as the last living member of the Ala Mhigan royal family.
+
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+[[File:Widargelt.png|thumb|left]]
+Widargelt is employed by Professor [[Erik]] who researches the military history of [[Eorzea]]. As these battlefields contain much [[aether]] used to awaken chakra, Widargelt primarily aids the professor as a means to aiding the Ala Mhigan Resistance. During the quest "Brother from Another Mother," Widargelt recognizes the pugilist [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] open chakra at the ruins of Sil'dih, and entrusts a soul crystal to harness the power.
+
+Widargelt is disappointed with Erik's approach, and asks the Warrior of Light to help him liberate Ala Mhigo. In his reckless pursuit of power, Widargelt attempts to attack the Warrior at Lake Silvertear in hopes of opening his chakra to the aether from the [[Battle of Silvertear Skies]]. The Warrior of Light fends him off, opening the seventh chakra in the process. Professor Erik arrives and punches Widargelt, scolding him for trying to repay the [[Garlean Empire]]'s violence with escalating violence.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Having learned from his folly, Widargelt attempts to rebuild the Fists of Rhalgr in Mor Dhona. He has since taken two new pupils: [[D'zentsa]] and [[O'tchakha]]. Unbeknownst to him, they were members of the shadow sect of the Fists of Rhalgr, in training under [[H'raha Tia]]. The shadow sect sought out Widargelt and the Warrior of Light in hopes of opening additional chakra beyond the seventh (a process that also worked in reverse).
+
+H'raha Tia's ruthless discipline is exposed when Widargelt finds O'tchakha wounded after being forced to fight D'zentsa in mortal combat. As they were unwilling to go through it, she now fears for D'zentsa's life. Widargelt hopes he can convince H'raha Tia to see reason, but O'tchakha is doubtful. H'raha is the only living monk that has opened all fourteen chakras, making him unparalleled among the survivors of the order.
+
+Refusing to let O'tchakha sacrifice herself to the Warrior of Light, Widargelt concludes the best way to confront H'raha is by working together, hoping their combined strength will be enough to overcome his mastery. At the ruins outside Little Ala Mhigo, H'raha awaits with the captive D'zentsa. Unwilling to be swayed by Widargelt's words, the shadow master attacks. The Warrior of Light's fourteenth chakra opens, evening the scales and enabling them to triumph over the master of shadow. Convinced that the Fists of Rhalgr have more paths open to them, Widargelt resolves to reunite the light and shadow sects.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+The Ala Mhigan Resistance invites Widargelt to rejoin the cause, and although he refuses the offer, the event has got him thinking about what he can do to help his homeland. Eventually, Widargelt reveals that he intends to go to [[Gyr Abania]] with the mission of reviving the Fist of Rhalgr.
+
+[[FIle:Widargelt vs Adri from Final Fantasy XIV.png|thumb|Widargelt faces Adri.]]
+Widargelt wants to have an exhibition match against the Pugilists' Guild, and invites [[Hamon Holyfist]] and his pupils to meet with him. These plans are interrupted by a man wearing the garb of [[The Griffin]] who claims to be Theobald, the son of King [[Theodoric]]. He issues a warning against reviving the Fist of Rhalgr, and goes on to reveal that Widargelt is actually his cousin Theodred. Theobald then leaves, but not before declaring his intention to rule Ala Mhigo. This is false, and his true identity is revealed to be [[Adri]], a former friend of Widargelt. Adri and his men are defeated by the combined force of the monks and pugilists.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Some time during the Warrior of Light's journey in [[the First]], Widargelt finds Adri, who died fighting the Corpse Brigade in spite of his wounds, and buries him in Little Ala Mhigo. After learning of [[Lue-Reeq]]'s decision to choose his own path, Widargelt receives an invitation from [[Lyse Hext|Lyse]] to meet with her in [[Rhalgr's Reach]]. In the [[Temple of the Fist]], she wants to have Widargelt train her and other members of the [[Ala Mhigan Resistance]] in the ways of the monk. The two prepare to have a sparring match.
+
+==Characteristics==
+===Appearance===
+Widargelt is a highlander male with brown hair. He wears a full set of Monk temple garb. During ''Final Fantasy XIV: Heavensward'', he upgrades to the Tantra garb.
+
+===Personality===
+Initially Widargelt appears as quiet and speaks little to the adventurer, but is devoted to his cause to retake Ala Mhigo.
+
+==Gameplay==
+Widargelt the Watcher was fought in [[Quest Battle|special instance]] in level 50 Monk quest "[[Return of the King... of Ruin]]" in version 1.0. In ''A Realm Reborn'', this same battle happens in quest level 50 Monk quest {{icon|ffxiv|quest|Five Easy Pieces}}.
+
+Widargelt is an ally npc in the Monk quests level 54 {{icon|ffxiv|quest|Against the Shadow}}, level 60 {{icon|ffxiv|quest|Appetite for Destruction}} and level 70 {{icon|ffxiv|quest|The Power to Protect}}.
+
+==Gallery==
+<gallery>
+FFXIV 1x Widargelt.png|Widargelt in version 1.0.
+FFXIV HW Widargelt.png|Widargelt in ''Heavensward''.
+Widargelt from FFXIV ShB.png|Widargelt in ''Shadowbringers''.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Monks]]

@@ -1,0 +1,49 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Nybeth Obdilord
+|release=FFXIV
+|japanese=屍術師ニバス
+|romaji=Shijutsu-shi Nibasu
+|lit=Necromancer Nivas
+|image=Nybeth.png
+|race=[[Hyur]] (Lich)
+|gender=Male
+|height= 
+|hair=White
+|eye=White
+|designer= 
+|age=Unknown 
+|affiliation = 
+|occupation =
+|type=boss
+|job=Necromancer
+|weapon= 
+|armor=
+|original appearance = [[w:c:ogrebattlesaga:Nybeth Obdilord|As a character in ''Tactics Ogre: Let Us Cling Together'']]
+}}
+'''Nybeth Obdilord''' is a character from ''[[Final Fantasy XIV]]''. He is a powerful, undead sorcerer from another world who serves as the primary antagonist of the [[Palace of the Dead]] storyline.
+
+==History==
+[[File:FFXIV Nybeth life.png|thumb|left|Nybeth in life.]]
+Nybeth Obdilord was a powerful necromancer and lich in another world, obsessed with overcoming death and resurrecting the dead. Traveling to [[Hydaelyn]] through unknown means, he set up base in the Palace of the Dead within the [[Black Shroud]], where he continued his dark experiments on raising the dead. After numerous failures, he chose [[Edda Pureheart|Edda]] as his next test subject, believing that her strong soul would be ideal for his work. Although he was successful in partially resurrecting her, he was unsatisfied by her condition and puzzled why her soul seemed to be yearning to pass on, not understanding why anyone would willingly choose death.
+
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] enters the Palace of the Dead, Nybeth senses Edda's soul being connected to them in some way, and sends her to confront them as a test. The Warrior of Light defeats Edda on the 50th floor of the Palace, freeing her soul, and eventually confronts Nybeth himself on the 100th floor. Nybeth is defeated and questions the Warrior of Light's motives, insisting that everyone should appreciate his efforts in beating death, before dissipating.
+
+The Warrior of Light is shown some writing, believed to have been written by Nybeth. However, as Nybeth hails from a different world, the language he used is unknown in Eorzea. Using the [[Echo (Final Fantasy XIV)|Echo]], the Warrior of Light used the papers to see brief glimpses of Nybeth's past, including his apparent motive to resurrect his dead love.
+
+==Characteristics==
+===Appearance===
+Nybeth appears as a withered corpse, dressed in tattered robes with the remnants of a red headband wrapped around his head. Despite his decrepit state, he still has a white mustache and beard.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+Nybeth serves as the final boss of the {{icon|ffxiv|duty|Palace of the Dead}} storyline, and is fought on the 100th floor of the dungeon. He can cast powerful spells, as well as summon undead creatures as adds.
+
+==Behind the scenes==
+Nybeth originates from ''[[w:c:ogrebattlesaga:Tactics Ogre: Let Us Cling Together|Tactics Ogre: Let Us Cling Together]]''. A villainous necromancer, he is fought several times by that game's protagonist. He eventually transforms into a lich and is confronted once more in that world's version of the Palace of the Dead, where he is seemingly defeated. His appearance in ''Final Fantasy XIV'' would imply that he survived and found a means to travel to Hydaelyn.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

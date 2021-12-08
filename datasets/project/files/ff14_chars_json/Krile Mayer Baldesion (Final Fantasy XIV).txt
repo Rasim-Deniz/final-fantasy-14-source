@@ -1,0 +1,145 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Krile Mayer Baldesion (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Krile Mayer Baldesion
+|release=FFXIV
+|japanese=クルル・マイア・バルデシオン
+|romaji=Kururu Maia Barudeshion
+|lit=Kururu Mayer Baldesion
+|aka=
+|image=FFXIV Krile.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=Isle of Val
+|age=22
+|dob=
+|affiliation=
+*[[Students of Baldesion]]
+*[[Scions of the Seventh Dawn]]
+|occupation=
+|education=Graduated at the Studium
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Lalafell]]
+|gender=Female
+|height=
+|weight=
+|hair=Dark brown
+|eye=Light blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|abilities=
+|limit break=
+|weapon=Staff
+|armor=Cloak of Nine Lives
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=[[Yoshino Nanjo]]
+|english voice actor=[[Gemma Lawrence]]
+}}
+{{Quote|This steadfast member of the Scions of the Seventh Dawn possesses the Echo, her gift manifesting as the ability to sense the intent of others. Krile also belongs to the Students of Baldesion, and is the adopted granddaughter of Galuf, the institution's late founder. In choosing to safeguard the world from peril, it is his legacy that she seeks to uphold.|Official ''Endwalker'' website}}
+'''Krile Mayer Baldesion''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is a friend of [[Minfilia Warde|Minfilia]] who, though mentioned throughout ''A Realm Reborn'', does not make an appearance in person until Patch 3.1 [[As Goes Light, So Goes Darkness]].
+
+Being one of the few known survivors of the disappearance of the Isle of Val, she helps the surviving [[Scions of the Seventh Dawn]] locate the members that have, up until this point, remained missing.
+
+==History==
+===Early life===
+Krile was raised in the orphanage of the famous Archon [[Galuf Baldesion (Final Fantasy XIV)|Galuf Baldesion]] and was adopted by him. Krile discovered she possessed the [[Echo (Final Fantasy XIV)|Echo]] at the age of twelve. In her, it manifested as a sensitivity to the whispers of the soul, and her adolescence was a dark time hounded by the thoughts of others. Troubled by his adoptive daughter's plight, Galuf directed his research organization, the [[Students of Baldesion]]. to study Krile's powers. At first the subject of experiments, Krile eventually joined the Students as a member, and came to terms with her powers. It was in this effort that she grew close to [[Minfilia Warde]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Minfilia mentions Krile several times and it is implied the two were communicating during the escape from Castrum Centri, and that she arranged for an artificial black crystal to be transported when [[Lahabrea]] was revealed to be possessing Thancred.
+
+Krile is mentioned by name after contact with the Students of Baldesion is abruptly cut off, and [[Urianger Augurelt|Urianger]] learns the Isle of Val disappeared due to unknown magicks. In "Defenders of Eorzea," Minfilia learns Krile was found alive, though her condition was ambiguous.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|I am terribly, terribly sorry to have kept you all waiting!|Krile}}
+[[File:FFXIV Krile Idyllshire.png|thumb|Krile arrives in Idyllshire.]]
+Krile meets with Alphinaud, Y'shtola, and the Warrior of Light outside [[Idyllshire]]. Having learned how Y'shtola was retrieved from the Lifestream, Krile believes she can trace Thancred's teleportation due to her skill in the Echo. To do this, she needs the power of Matoya's Crystal Eye (a very old [[Crystal (term)|Crystal of Light]]) to augment her senses.
+
+She traces Thancred's last known location to the [[Dravanian Forelands]]. Asking the hunters and Vath, they learn a peculiar [[Hyur]] gentleman was seen recently in the forest. They encounter the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] confronting [[Ravana (Final Fantasy XIV)|Ravana]] at Lost ast Gnath and Krile and the Warrior of Light have an Echo vision of the mysterious band confronting an [[Ascian]]. When the leader of the group suddenly acts hostile, Thancred appears to aid them in driving the figures away.
+
+With Thancred reunited with the Scions, Krile departs to visit Matoya while the others return to [[Ishgard]]. <!--After completing the quest "As Goes Light, So Goes Darkness,"-->She heads for the Rising Stones to devise a way to track Minfilia and discovers there could be a way to find her, in much the same way they had located Y'shtola and Thancred, by tuning into [[Hydaelyn (character)|Hydaelyn]]'s signature, since it seems likely that the Mothercrystal had pulled Minfilia to her.
+
+Thancred accompanies Krile to [[Praetorium]], where there should be trace elements of Hydaelyn's power from the time she shielded the Warrior of Light and their allies from [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon's]] attack. Krile probes Thancred for his motivations, wondering if he is in love with Minfilia. Irritated, Thancred assures his devotion is not out of romantic love, but due to his failure to protect her when she was younger; something which cost Minfilia her father. Krile apologizes, but insists she had to know what is motivating the rogue for her to trust him.
+
+They travel to the aqueducts of Sil'dih to verify that the Mothercrystal's intercessions could indeed be tracked, by matching the signature that they found in Praetorium. After gathering the appropriate data, Krile determines that Minfilia could be found by entering the Aetherial Sea. The Sharlayans had build a structure on a potential entry point, and they need Matoya's help to get there, who agrees on the condition that only the Warrior of Light would go, while the others remain behind to help her with her work. When the Warrior returns to report on Minfilia's apparent demise, Krile is present. Alphinaud begins to mourn the loss of their leader, but Matoya chides him, and reminds them all that they must be ready to not only die for their cause, but that others may too. Y'shtola, annoyed by Matoya's lecturing, leaves with Krile in tow.
+
+Krile later bears witness to the first peace conference between Ishgard and the dragons, along with the other Scions. The conference is interrupted by the appearance of [[Nidhogg (Final Fantasy XIV)|Nidhogg]], whose rage is so all-consuming that Krile can feel it through the Echo. After the crisis, Y'shtola and Krile discuss their current predicament, Krile lamenting her cowardice in the face of the courage the Eorzeans seems to have in spades. Believing that Matoya's words are plaguing her ally, Y'shtola assures Krile that her master had only said as such to steel their resolve, and prepare them for yet greater conflicts to come. A bemused Krile notes Y'shtola's similarity to her teacher, much to the latter's chagrin.
+
+When Unukalhai senses that [[Sephirot]] is beginning to stir, he calls on the Warrior of Light and the Scions to assist in quelling him. Krile's skills in the Echo make her immune to Sephirot's tempering and thus she assists in deactivating the eikon's restraints, and bears witness to the Warrior of Light's fight. After their victory, she admits that she was so frightened by Sephirot's power that it took all her willpower to not flee. Nonetheless, she is glad she stayed as she could witness the Warrior's abilities. She probes the young Unukalhai of his motivations, and gets him to show a modicum of emotion by making him believe she can read his mind. Though she apologizes for the farce, she insists on the importance of discovering the boy's intentions, along with the identity of his so-called master. Unukalhai, however, refuses to reveal anything, retreating into stoicism.
+
+Krile appears with Y'shtola to tell Alphinaud that it may be possible to free [[Estinien Wyrmblood|Estinien]] from Nidhogg's possession. During the [[Warring Triad (Final Fantasy XIV)|Warring Triad]] storyline she accompanies the Warrior of Light, Y'shtola, Urianger, and Unukalhai into the [[Aetherochemical Research Facility]] in pursuit of [[Regula van Hydrus]], who had gained access to the facility. When she is injured Unukalhai stays behind to protect her, earning her trust and gratitude. This prompts Urianger, who had deduced that Unukalhai had secretly allowed van Hydrus into the facility in the hopes that he would be killed by the Scions, to request that the Warrior of Light keep the knowledge of Unukalhai's deception a secret, not wanting the friendship he saw developing between the two to be jeopardized.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+During an [[Ala Mhigan Resistance]] attack, Krile heals Y'shtola's wounds but ends up captured by [[Fordola rem Lupis]] and is held prisoner of the empire in Resonatium. Krile is rescued during a Lyse infiltration to the location.
+
+After the liberation of Ala Mhigo, Krile recruits the Warrior of Light to join her expedition to the [[Forbidden Land, Eureka (Final Fantasy XIV)|Forbidden Land, Eureka]], a mysterious island that had recently appeared.  She suspects that the island is actually the reappearance of her home, the Island of Val, and is proven right once they arrive.  During the course of the expedition, she is reunited with her old colleague [[Ejika Tsunjika]], and discovers the truth behind the island's disappearance and reappearance.
+
+After the Scions begin to lose consciousness, Krile examines their bodies and cannot sense their presence. She uses Master Matoya's Crystal Eye to try to locate their soul trail to no avail. When the battle at Ala Mhigo borders begins, Krile remains searching for other ways to locate the Scions.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Some time after the Warrior of Light departs for [[the First]], Krile and Tataru track Estinien down to [[Kugane]] to recruit him to investigate [[Black Rose (Final Fantasy XIV)|Black Rose]]. Failing this, Krile fakes an Echo vision of witnessing something embarrassing from Estinien's past, blackmailing him into agreeing.
+
+Krile monitors the Scions' bodies while their souls are on the First, but notices an aetherial anomaly developing in them, and surmises the continued separation between their bodies and souls will eventually kill them. She conveys this information to Tataru and the Warrior of Light.
+
+Krile is present when Estinien returns to report on the situation in [[Garlemald (location)|Garlemald]]. Through the Echo, Krile witnesses Zenos's return as his [[Resonant|Resonance]] allowed him to transcend his humanity, allowing him to reclaim his original body and granting him powerful magics. Krile calls the Garlean Prince an Ascian in all but name, becoming concerned that Zenos's murdering of Emperor Varis plunged the Empire into a civil war. Though Krile and Tataru attempt to prolong Estinien's services, the dragoon declines, noting that he is needed elsewhere. Regardless of the chaos that has engulfed the Empire, Krile remains to look after the Scions' physical bodies.
+
+G'raha Tia and Urianger propose reuniting the Scions' souls with their physical forms using White Auracite to act as containers, which the Warrior of Light would transport back to the Source. Though Krile finds the plan ingenious, she notes some flaws. The Scions take her thoughts in mind but time becomes a luxury when both their bodies and souls begin to weaken as a result of being apart for so long. The Warrior of Light and the Scions in the First create auracite containers for their souls and, after defeating [[Elidibus (Final Fantasy XIV)|Elidibus]], return their souls to their bodies. The Warrior of Light also brings the container holding the soul and memory of G'raha Tia that dwelt on the First to the Crystal Tower and merges it with his present self. Krile aids the Warrior in this endeavor and also to provide magical wards for the Crystal Tower. She is left exhausted, requesting Tataru to make some sweet tea. She is later present when the Scions formally welcome G'raha Tia as a member of the Scions of the Seventh Dawn.
+
+Krile aids the Scions in battling the rogue Ascian, [[Fandaniel]], who not only pledged his support to Zenos, but aims to restart the Final Days to destroy the Source. Using a new type of primal called Lunar Bahamut, Krile and Tataru look for Estinien who evades the two after learning of Lunar Bahamut. The Warrior of Light, G'raha, Alphinaud and Alisaie find him in Ishgard and recruit his aid. Following Lunar Bahamut's fall with the aid of Tiamat, Estinien travels to the Rising Stones with the Scions to meet Krile. She acknowledges that while they may have caused a setback for Fandaniel and Zenos, the war is not over due to the mysterious towers that have appeared over the continents that temper people into Zenos and Fandaniel's service. Further, she is concerned over Hydaelyn's prolonged silence, wondering if something is blocking her from communing with her champions. Krile intends to return to Sharlayan to ask for aid in combating Fandaniel and learn everything they can about Hydaelyn, regardless of the nation's well-known and lamented policy of non-intervention. Despite this, Krile hopes that with the Source itself in danger, the scholars will aid them. Already having the blessing of the Alliance leaders, she would act as their ambassador. As her being away would leave the Scions short a member, Krile asks Estinien to join the Scions of the Seventh Dawn, to which the dragoon agrees.
+
+Her journey to Sharlayan would ultimately be fruitless, as the Forum completely ignored her warnings of the Final Days. Krile found it almost unnerving that every member of the Forum she could meet refused to consider her words and would be shocked to learn that the Forum had forbidden anyone who might be sympathetic from discussing with the Scions of the Seventh Dawn, arousing her suspicions that the Forum knows more about the Final Days than what they announced. Regardless of her vain attempt to convince the Forum, Krile makes contact with the Scions who just finished a meeting with Sharlayan's ambassador, [[Fourchenault Leveilleur|Fourchenault Levelieur]], who delivered their nation's message in refraining from interacting with the rest of world and adhering to maintain their stance on nonintervention, even as the world would burn. She agreed with G'raha's suspicion that the Forum is hiding something recounting their secretive and standoffish behavior in regards to the Final Days. Even so, Krile is optimistic that the Scions will find a way forward but suggests that the Warrior of Light and select members of the Scions join her in Sharlayan to discover what they can to aid them against Fandaniel and prevent the Final Days from happening again.
+
+==Characteristics==
+===Appearance===
+[[File:Krile FFXIV.png|thumb|left|Krile in a cutscene.]]
+Krile is a [[Lalafell]] with light blue eyes and long brown hair tied in a high ponytail, though this is only seen in her artwork. She wears a unique White Mage robe with large animal ears that are considered symbols of the echo. Her robe is based on her ''[[Final Fantasy V]]'' namesake's [[White Mage (Final Fantasy V)|White Mage]] appearance {{Show image|FFV Krile White Mage iOS.png}}.
+
+===Personality===
+Krile is a kind and intelligent woman, and highly knowledgeable in a number of fields. She can read people and enjoys teasing others. She brings up [[Alphinaud Leveilleur]]'s past to embarrass him, notes [[Thancred Waters]]'s affection for Minfilia, tricks [[Unukalhai]] into dropping his stoic facade, and likens [[Y'shtola Rhul]] to her master, [[Matoya (Final Fantasy XIV)|Matoya]], which annoys the usually calm [[Miqo'te]]. Nonetheless, Krile cares for her friends deeply, working tirelessly to aid them. She is quick to apologize to Thancred and Unukalhai for her probing when they seem to take offense, explaining she only does this to get a better sense of her companions' personalities and motivations, so that it is easier to trust them.
+
+Krile was Alphinaud's mentor in the Sharlayan Academy, and though she teases him she does think fondly of him and approves of how he has matured, knowing he'd come rescue her if she were in danger. She has a great deal of patience and a level head, but on rare occasions can lose her cool and even the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is not beyond her scolding.
+
+Krile seems to hold a great deal of misgivings towards the nation of Sharlayan and its policy of non-intervention, finding the Forum's refusal to aid the Eorzean nations during the Calamity and mass exodus following the empire's conquest, to be their most shameful acts.{{clear}}
+
+==Behind the scenes==
+Krile's design is based on [[Krile Mayer Baldesion (Final Fantasy V)|Krile Mayer Baldesion]], the playable character from ''[[Final Fantasy V]]''. Krile's name in Japanese is "Kururu" (fitting Lalafellin naming conventions). In the English script, she admits that "Krile" wasn't her original given name. When she reveals she has the Echo, she notes that while it grants her the ability to understand all languages, contrary to what some believe this does not extend to understanding animals. Krile in ''Final Fantasy V'' can converse with animals. As revealed in an Echo vision in the Forbidden Land of Eureka Anemos, Krile is the granddaughter of a partially seen character named Galuf Mayer Baldesion, who founded the self-named organization of the Students of Baldesion. The Krile of ''Final Fantasy V'' also has a grandfather named [[Galuf Halm Baldesion|Galuf]].
+
+[[File:FFXIV Krile Healing.png|Krile healing Y'shtola with her white magic.|thumb]]
+Krile is host to one of the few moments where the Warrior of Light's class affects the outcome, specifically healing Y'shtola. If the Warrior of Light is not a healing class during that cutscene, they will ask to help hold her down. However, if they are a healing class she scolds them for standing about and asks them to help heal her.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV HW Krile render 2.png|Alternative render.
+FFXIV Krile concept.png|Concept art.
+</gallery>
+
+==Etymology==
+{{Etym|Krile}} Her Japanese name is Kururu. {{Etym|Kuru kuru}}
+
+{{Etym|Mayer}}
+
+{{navbox characters FFXIV}}
+
+
+[[es:Krile Mayer Baldesion (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:White Mages]]

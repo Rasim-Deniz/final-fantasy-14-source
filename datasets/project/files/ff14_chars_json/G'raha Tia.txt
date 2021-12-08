@@ -1,0 +1,136 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=G'raha Tia
+|release=FFXIV
+|japanese=グ・ラハ・ティア
+|romaji=Gu Raha Tia
+|lit=
+|aka=Raha, Crystal Exarch {{J|水晶公|Suishō Kō|Crystal Lord}}
+|image=FFXIV G'raha Tia.png
+|portrait=[[File:Crystal Exarch Trust Portrait from Final Fantasy XIV.png|81px|Crystal Exarch's Trust portrait in Holminster Switch story mode. Also G'raha Tia's alternate outfit.]][[File:Crystal Exarch Trust Portrait 2 from Final Fantasy XIV.png|81px|Crystal Exarch's Trust portrait in the Grand Cosmos.]][[File:G'raha Tia Trust Portrait from Final Fantasy XIV.png|81px|G'raha Tia's Trust portrait.]]
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=24 (A Realm Reborn, physical age)<br>324 (as of 5.0, mental age)
+|dob=
+|affiliation=[[Students of Baldesion]]<br>[[Sons of Saint Coinach]]<br>[[Scions of the Seventh Dawn]]
+|occupation=Historian and marksman<br>Leader of the [[Crystarium (Final Fantasy XIV)|Crystarium]]
+|race=[[Miqo'te]], of Allagan descent
+|gender=Male
+|height=
+|weight=
+|hair=Reddish brown
+|eye=Red (Allagan Eye), his left eye originally cyan
+|blood=
+|laterality=
+|type=party npc
+|job={{icon|ffxiv|discipline|All-Rounder}}
+|abilities=
+|limit break=
+|armor=
+|ultimate weapon=
+|element=
+|designer=Natsuko Ishikawa<ref>{{Refwebsite| page url = http://forum.square-enix.com/ffxiv/threads/402737-Gamescom-2019-Q-A-%28rough-transcript%29| page name = Gamescom 2019 Q&A| site url = http://forum.square-enix.com| site name = Final Fantasy XIV Forums| access time = 17:26, September 01, 2019 (UTC)}}</ref>
+|motion capture=
+|japanese voice actor=Yuma Uchida
+|english voice actor=[[Wikipedia:Jonathan Bailey (actor)|Jonathan Bailey]]
+}}
+{{Quote|The future is where my destiny awaits.|G'raha Tia}}
+'''G'raha Tia''' is a character from ''[[Final Fantasy XIV]]''. He is introduced in the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] quests as a historian and marksman with the [[Students of Baldesion]], and has a greater role in the events of ''[[Final Fantasy XIV: Shadowbringers]]''.
+
+==History==
+===Early life===
+Although raised in [[Sharlayan]], G'raha Tia was born much further away, in [[Corvos]] on the continent of [[Ilsabard]]. Long ago the [[Allagan Empire]] brought many tribes of Miqo'te there to serve as slaves. While many Miqo'te returned to Eorzea during the Age of Endless Frost that froze the seas, G'raha's tribe remained in Corvos to protect the Allagan technology there from being misused.
+
+Corvos would eventually be conquered by the [[Garlean Empire]]. When the imperial House Darnus began searching for Allagan relics, the tribe feared discovery by the empire and buried their ties to ancient Allag. As a bearer of the Allagan Eye, G'raha was sent to Sharlayan and entrusted to the custody of friends in the [[Students of Baldesion]].
+
+Unlike many of the game's other characters from Sharlayan, G'raha did not attend the Studium.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+To pass the magic barriers at the entrance to the  [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]], the Warrior of Light is tasked with acquiring elemental-charged aethersand from various sources. G'raha's unseen voice tells the Warrior of Light he already claimed the water-blessed ore sought in Urth's Gift.{{Cite|FFXIV|G'raha is encountered off-screen during the quest "A Performance for the Ages".}} He directs the Warrior to find a wind aethersand shipment at the [[Ixal]]i Logging Grounds in North Shroud. After fighting off the [[beastmen]] to claim the prize, the "unseen voice" congratulates the Warrior of Light for being entertaining and tells him or her to inspect Proud Creek for the reward. The item turns out to be water aethersand, with G'raha promising they will "meet again soon". Once the Warrior of Light returns the sand to [[Cid nan Garlond]] and [[Rammbroes]] back in [[Mor Dhona]], G'raha Tia formally introduces himself and dubs the Crystal Tower investigation team NOAH ("Nominated Observers of Artifacts Historical"), after an ancient Allagan scholar.
+
+Later meeting [[Doga (Final Fantasy XIV)|Doga]] and [[Unei (Final Fantasy XIV)|Unei]], G'raha Tia learns that he possesses the lineage of Allagan nobility. After Doga, Unei and [[Nero tol Scaeva|Nero]] are abducted by the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]] at the top of the Crystal Tower and taken into the [[World of Darkness (Final Fantasy XIV)|World of Darkness]], he returns to camp with the rest of NOAH to figure out a way to rescue them.
+
+[[File:FFXIV G'raha seal himself.jpg|thumb|left|G'raha seals the Crystal Tower with himself inside.]]
+Once Cid opens a portal to the World of Darkness, G'raha ventures through it with the Warrior of Light. Upon the Cloud of Darkness's defeat, they discover Doga and Unei who intend to remain to sever the Cloud's ties to [[Eorzea]]. Before sending the group off, the duo infuse a portion of their blood into G'raha to grant him control over the Crystal Tower. This allows G'raha to learn the last will of Salina, an ancient princess who used Allagan technology to infuse her DNA into G'raha's ancestor so that his family could restore the Crystal Tower as a beacon of hope. G'raha seals the Crystal Tower with himself inside, intending to guide the Eorzeans once they have reached the same technological level as the ancient Allagans. He bids farewell to his companions before sealing the door to the tower.
+
+{{Quote|Well, now I must rest. Recalling so much has put me in the mood for sleep. Farewell, my friends. I eagerly await a future born of your courage and the ancients' wish.|G'raha Tia}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:Crystal Exarch art.jpg|thumb|Artwork for ''Shadowbringers''.]]
+By the time the Crystal Tower is reopened two centuries into the future, G'raha has partially fused with the tower to prolong his life as its keeper. He learns of the [[Umbral Calamity|Eighth Umbral Calamity]] that claimed the life of the Warrior of Light and the Scions along with the endless conflict that followed. Acting on a hypothesis proposed by Cid, G'raha sends himself and the Crystal Tower to the First some time after the [[The Flood|Flood of Light occurred]]. Taking on the identity of the Crystal Exarch, G'raha establishes the [[Crystarium (Final Fantasy XIV)|Crystarium]] as a haven for the people of Lakeland.
+
+G'raha attempts to summon the Warrior of Light to the First via the Calling, but ends up summoning the Scions instead. Due to the time difference, the Scions end up appearing years apart from each other. G'raha confides in [[Urianger Augurelt]], telling him everything, and asking him to be his accomplice in a scheme to prevent the First's [[Umbral Calamity]]—with full knowledge that the negation of the Eighth Umbral Calamity would erase him and send the Scions back to their world fully restored.
+
+When the Warrior of Light finally arrives on the First, G'raha, in the guise of the Crystal Exarch, acts as the Scions' guide and leader, directing their efforts in defeating the [[Lightwarden]]s. When the final Lightwarden is defeated, G'raha reveals his true plan: steal the light that the Warrior had absorbed from the Lightwardens. With it, he would transport himself and the Crystal Tower to the [[Dimensional Rift]] where the light could be safely expunged, killing him and returning the Scions to [[Hydaelyn|the Source]]. His plan is thwarted by [[Emet-Selch]], who had figured out his true identity and origin. When the Warrior of Darkness is preparing to battle Emet-Selch, G'raha uses his powers to summon heroes from other worlds to fight alongside them. After Emet-Selch's defeat, G'raha returns to the Crystarium, where he continues to aid the Scions in finding a way to return to the Source.
+
+In time, G'raha, with the help of [[Beq Lugg]], works out a method to send the stranded Scions back to the Source using crystals infused with his own blood. He creates spirit vessels for each of the Scions, plus an additional one for himself, intending to take the first as a safety precaution. However, drawing upon the Crystal Tower's energy to such a degree causes G'raha's body to further crystallize.
+
+G'raha's spirit vessel is seized by the Ascian [[Elidibus (Final Fantasy XIV)|Elidibus]], who uses it to conduct the Crystal Tower and summon spectral versions of otherworldly heroes, having them relentlessly hunt down the Warrior of Darkness. Coming to the Warrior's aid as they overpower Elidibus, G'raha uses the last of his strength to finish off the Ascian, using the Crystal Tower like White Auracite. G'raha gives the Warrior his Spirit Vessel containing his soul and memories, content to have fulfilled his mission. He cryptically hints to the Warrior honoring his last request before fully crystallizing.
+{{Quote|Yours is a long road, my friend, and it stretches on to places beyond imagining. With your every step, these grand adventures shall grow more distant and faint. And there may come a day when you forget the faces and voices of those you have met along the way. On that day, I bid you remember this... That no matter how far your journey may take you, you stand where you stand by virtue of the road you walked to get there. For in times of hardship, when you fear you cannot go on... The joy you have known, the pain you have felt, the prayers you have whispered and answered—they shall ever be your strength and your comfort. This I hope—I believe, here at memory's end.|G'raha Tia to the Warrior of Darkness}}
+After the Warrior brings the Scions back to the Source, they revive the still resting G'raha at the Crystal Tower, which is warded with [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]]'s assistance. Days after recuperating from being fused with his future self's soul and memories, G'raha pledges himself to the Scions as their newest member and agrees to accompany them on future adventures.
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV SH The Crystal Exarch.png|thumb|left|The Crystal Exarch.]]
+G'raha is a male [[Miqo'te]] with a muscular build and reddish brown hair. His left eye is cyan and his right eye is red, being referred to as an "Allagan Eye" or the "Royal Eye". He carries a bow and a quiver of arrows. After a storyline event, his left eye becomes red as well. G'raha bears the trademark neck [[Tattoo (body modification)|tattoos]] (Archon's Mark) of a [[Sharlayan]] sage, as well as an arm tattoo resembling the eye worn by the members of the [[Scions of the Seventh Dawn]]. In his case, they may simply be symbols of the Students of Baldesion as a whole.
+
+As the Crystal Exarch, his body has partially [[Crystallization|crystallized]] and his robe conceals his tail. He wears a black robe alongside a red and white toga with golden accents. It has a hood to obfuscate his face. He wears a pair of wrapped sandals, and has wrapped his left arm in the same material. He carries a hefty golden staff that doubles as a walking cane, which has an intricate and mysterious design befitting his visage. The crystallization begins to overtake more of his body and clothing with glowing cracks due to overexerting himself in his work.{{cite|FFXIV|Patch 5.3}} By the time of the climatic battle of [[Norvrandt]], most of his body and clothing, save for his face, is crystallized and cracking at the seams until it finally consumes him.
+
+After his soul and memories merge with his original self, G'raha regains his normal physical appearance now sporting a new outfit with embellishments from his Exarch attire with gold and blue jewelry and a black scarf.
+
+===Personality===
+[[File:G'raha Tia 5.3 render from Final Fantasy XIV.png|thumb|G'raha's appearance back on the Source.]]
+G'raha is eccentric, initially playing a game with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] while gathering the aethersand, and whimsically naming the combined investigation team after an ancient [[Allagan Empire|Allagan]] sage.
+
+As the Crystal Exarch, despite his youthful appearance, his mannerisms border on that of a wise older figure, giving both the people of the [[Crystarium (Final Fantasy XIV)|Crystarium]] and the Warrior of Light guidance for the duration of their stay in [[the First]]. He is not without his own form of pleasant beguilement. Often inspiring those around him to action with words of encouragement, he is an effective leader revered by the people of the Crystarium as a source of wisdom. He is cordial, respectful and inviting toward the Warrior of Light as well as the other Scions and is concerned for their safety and health during their stay in the First.
+
+Despite his good intentions, G'raha is secretive and does not reveal his identity or endgame until he feels this is necessary. This creates a sense of uneasiness to some of the Scions, [[Y'shtola Rhul]] stating that he speaks in riddles and half-truths. Nonetheless, G'raha proves himself devoted to the cause and to his friends. Upon joining the Scions of the Seventh Dawn, G'raha has shown an eagerness to help his friends in their endeavors. He becomes embarrassed anytime someone mentions his admiration towards the Warrior of Light or any of the other legendary heroes he has read about, such as Lyse Hext and Estinien Wyrmblood.
+
+==Gameplay==
+[[File:FFXIV Trust G'raha Tia.png|right|120px]]
+The Crystal Exarch is available as a [[Trust System]] NPC for [[Holminster Switch]] and [[Grand Cosmos|The Grand Cosmos]]. He is able to fill any role as a [[Paladin (Final Fantasy XIV)|Paladin]], [[White Mage (Final Fantasy XIV)|White Mage]], or [[Black Mage (Final Fantasy XIV)|Black Mage]]. Before patch 5.1, after completing ''Shadowbringers<nowiki>'</nowiki>'' main scenario, he could no longer be selected. After completing patch 5.3 he could be selected again as a level 80 all-rounder for any trust dungeon.
+
+In the Main Scenario Quest, "Death Unto Dawn", G'raha Tia is a playable character in the fourth part of the solo instance. His role is a mix of Black and White Mages. While battling Lunar Ravana, he must use Break on certain adds that are attacking the Confluence, while keeping Alisaie healed up.
+{{clear}}
+
+==Behind the scenes==
+The name G'raha coined for the investigation of the Crystal Tower, NOAH, is an [[Final Fantasy XIV allusions/Final Fantasy series|allusion]] to [[Noah (Final Fantasy III)|Noah]] from ''[[Final Fantasy III]]''. That name also alludes to the Abrahamic character, [[wikipedia:Noah|Noah]], who saved lives during a great flood, reflecting G'raha's story in ''Shadowbringers''.
+
+Additionally, G'raha Tia's role in the Crystal Tower storyline [[Final Fantasy XIV allusions/Final Fantasy series|alludes]] to [[Desch]] from ''[[Final Fantasy III]]'', an amnesiac who joins the party as they explore the mysterious Tower of Owen, as he feels drawn to the tower. When they reach the top, Desch recovers his memories, and realizes that he is the last of the Ancients who built the tower. He chooses to remain inside, seemingly sacrificing his life, to repair it and prevent a destructive earthquake. Similarly, G'raha Tia realizes his heritage after exploring the mysterious Crystal Tower, and chooses to stay within to maintain it and protect the outside world from it. A character named Desch is mentioned during the Heaven-On-High story, who is revealed to be the man that Princess Salina of Allag fell in love with, making him a distant ancestor of G'raha Tia.
+
+G'raha Tia is the second character in ''Final Fantasy XIV'' to originate from an optional questline before being promoted to an integral character in a later expansion, the first being [[Estinien Wyrmblood|Estinien]]. As of 5.3 however, the Crystal Tower raid had been fully integrated into the Main Scenario Quest. Before, if the player cleared the Crystal Tower raid before entering the ''Shadowbringers'' main scenario, dialogue options expanded for the Warrior of Light to immediately suspect that the Exarch is G'raha. Following Emet-Selch's defeat, the player can call G'raha by his real name again, who will cry tears of joy. Additional interactions included showing the Exarch their {{icon|ffxiv|item|wind-up g'raha tia}}, where if the player had not yet completed the Crystal Tower raids, the Exarch would be visibly uncomfortable and ask that the Warrior of Light not show him it, as it brought up unwelcome memories.
+
+==Gallery==
+<gallery widths="185">
+Crystal Exarch Full Trust Portrait from Final Fantasy XIV.png|Crystal Exarch's full size Trust portrait in Holminster Switch story mode. Also used as G'raha Tia's alternate outfit.
+Crystal Exarch Full Trust Portrait 2 from Final Fantasy XIV.png|Crystal Exarch's full size Trust portrait in the Grand Cosmos story mode.
+G'raha Tia Full Trust Portrait from Final Fantasy XIV.png|G'raha Tia's full size Trust portrait.
+FFXIV SH G'raha Tia (Trust).png|G'raha Tia's Trust render.
+FFXIV Crystal Exarch.png|Crystal Exarch.
+FFXIV G'raha Tia Exarch.png|Unhooded Crystal Exarch.
+FFXIV SH Crystal Exarch 2.png|Unhooded Crystal Exarch render.
+FFXIV G'raha Tia Exarch Boroboro.png|Injured model.
+FFXIV SH Crystal Exarch.png|Introduction for ''Shadowbringers''.
+FFXIV Shadowbringers trailer screenshot 24.png|Crystal Exarch in the ''Shadowbringers'' trailer.
+FFXIV Shadowbringers trailer screenshot 27.png|Crystal Exarch in the ''Shadowbringers'' trailer.
+FFXIV G'raha Tia Death.png|G'raha Tia at Mt. Gulg.
+Exarch The Reach of Darkness.png|Casting the Reach of Darkness.
+FFXIV Exarch Cover.png|Exarch using Cover.
+FFXIV TFTS Graha.jpeg|G'raha Tia in an alternative timeline during the Eighth Umbral Calamity.<ref name="tomorrow">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_shadows/sidestory_08/#sidestory_08 Tales from the Shadows - An Unpromised Tomorrow]'</ref>
+FFXIV Endwalker trailer screenshot 18.png|G'raha Tia in the ''Endwalker'' trailer.
+</gallery>
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:G'raha Tia]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Bards]]
+[[Category:Paladins]]
+[[Category:White Mages]]
+[[Category:Black Mages]]

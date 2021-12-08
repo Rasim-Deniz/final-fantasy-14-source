@@ -1,0 +1,68 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Maxima quo Priscus
+|release=FFXIV
+|japanese=マキシマ
+|romaji=Makishima
+|lit=
+|aka=Maxima the Neoteric
+|image=FFXIV Maxima.png
+|home=[[Garlemald (location)|Garlemald]]
+|age=34
+|affiliation=[[Populares]]
+|occupation=Officer of the imperial army
+|race=Garlean
+|gender=Male
+|hair=Dark brown
+|eye=Light pink
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=Gunblade
+|japanese voice actor=Ryota Takeuchi
+|english voice actor=Gunnar Cauthery 
+}}
+'''Maxima quo Priscus''', also known as '''Maxima the Neoteric''', is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He is the second-in-command to [[Asahi sas Brutus]]'s diplomatic contingent representing the [[Garlean Empire]], tasked with making peace with [[Doma (Final Fantasy XIV)|Doma]] following its liberation.
+
+==History==
+===Early life===
+Born as a pure-blooded Garlean and progressive parents, Maxima joined the Garlean army, but was horrified by the treatment of imperial subjects. Maxima aligned its interests with the [[Populares]], a collective that seeks to reform the rights of the common population. Shortly thereafter, his parents died under suspicious circumstances and so Maxima resigned from his own family, so as not to put his loved ones in danger.<ref>Encyclopedia Eorzea volume 2</ref>
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV Asahi arrives.png|thumb|left|Maxima arrives in Yanxia as a member of Asahi's ambassador group.]]
+His honorable side is showcased when he fulfills the original prisoner-exchange and peace treaty with Doma after Asahi's evil machinations become known. He is more open-minded than most Garleans, as after hearing that crown prince [[Zenos yae Galvus]] was killed by the [[Scions of the Seventh Dawn]], he does not gainsay their eye-witness accounts, only confirming to them that Zenos (in reality, the [[Ascian]] [[Elidibus (Final Fantasy XIV)|Elidibus]] in possession of Zenos's body) met with the negotiation party before they departed. He also welcomes [[Alphinaud Leveilleur|Alphinaud]] when he offers to go to Garlemald as a Doman emissary.
+
+Upon defecting the Empire after nearly getting assassinated by the Emperor's personal guard and witnessing brutal acts of oppression in the provinces, Maxima realizes the true nature of his homeland. He is grateful towards the Eorzean Alliance, [[Ala Mhigo]] specifically, for granting him and his party asylum.
+
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] tells Maxima that the Garlean Empire was founded by the Ascians for the purpose of spreading chaos, he almost refuses to believe it. After hearing that Emperor [[Varis zos Galvus]] himself confirmed this to the Alliance, he accepts it as fact while strengthening his resolve to aid the Eorzean Alliance in defeating the Ascians that manipulate his homeland and people.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Following [[Estinien Wyrmblood|Estinien]]'s report to the Scions of Varis's death at the newly resurrected Zenos's hands, Maxima arrives at the Rising Stones to escort the Warrior of Light and [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] to a meeting between [[Gaius van Baelsar|Gaius Baelsar]] and [[Raubahn Aldynn]] in Ala Mhigo.
+
+==Characteristics==
+===Appearance===
+Maxima is rather tall, though somewhat thin of frame and long of face, lacking the "warrior's" build common to some other Garleans.  He wears rounded partially-rimmed glasses over his light-pink eyes, as well as sporting a well-trimmed goatee on his chin, along with the normal pureblood Garlean's third eye in his forehead.  His long dark-brown hair is pulled back into a knot at the back of his head, with a number of locks of hair protruding from it in various directions.
+
+As an officer of the Garlean Empire, Maxima wears their typical blackened plate armor, though he and his companions forego the typical Garlean helmets for the duration they are seen. He carries a typical Garlean gunblade at his hip.
+
+After leaving his position in the Garlean Empire, he wears light armor consisting of leather pads worn over normal cloth clothing, with quite a number of pouches affixed to belt, as well as a couple affixed to a bandoleer of sorts that also serves to hold a layered plate of armor over his right shoulder.  He wears a leather neckwrap of sorts with an unknown silver insignia on it.  Having discarded his gunblade, he now carries only a small curved dagger sheathed on his left thigh.
+
+=== Personality ===
+Maxima is a respectable, honorable, and dutiful Garlean of the Populares faction who desires to change the Empire's policy of expansion and exploiting other nations.  He is quite content to be branded a traitor by his homeland in exchange for preventing the war and violence between Garlemald and other countries from escalating further, and ideally to put an end to it entirely.  His actions are driven by a love for his homeland and a wish to see Garlemald become a nation of peace.
+
+==Gallery==
+<gallery>
+FFXIV Prelude in Violet Artwork.jpg|Maxima in ''Prelude in Violet'' artwork.
+FFXIV Maxima Ala Mhigo.png|Maxima wearing Ala Mhigans clothes.
+</gallery>
+
+==Etymology==
+Maxima is the plural form of "maximum".
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Gladiators]]
+[[Category:Garlean citizens]]
+[[Category:Garleans]]

@@ -1,0 +1,64 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Leofard Myste
+|release=FFXIV
+|japanese=レオファード・ミスト
+|romaji=Reofādo Misuto
+|image=FFXIV Leofard.png
+|occupation=Sky Pirate
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Black
+|eye=White
+|designer=
+|age=32
+|affiliation=Redbills
+|type=npc
+|job={{icon|ffxiv|discipline|machinist}}
+|weapon=Pre-Imperial Garlean Revolver 
+|armor=
+}}
+'''Leofard Myste''' is a non-playable character in ''[[Final Fantasy XIV]]'', first appearing in patch 3.1 "[[As Goes Light, So Goes Darkness]]". He is a [[Sky pirate (Final Fantasy XIV)|sky pirate]] and an important character in the [[Void Ark]] Alliance Raid.
+
+==History==
+===Early life===
+Leofard was an orphan adopted by a highborn widow who treated him as her own son. She was a kind, soft-spoken woman with health problems, and rarely every able to venture outside, instead spending hours reading to Leofard about tales of adventure and glory in faraway lands. Before her death, she asked Leofard to go off to enjoy his own adventures, and to live life free as a bird.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Leofard hunts down a group of thieving sky pirates in the Sea of Clouds. He assists the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] by flying over the pirates, knocking them over with the speed of his manacutter. He shoots the thieves for disrespecting the code of conduct and tarnishing the name of a sky pirate. The merchant thanks him and says his master will repay him. Leofard tells him that his master probably knows a merchant or two who knows his crew, and a reward will reach him. Leofard tells the Warrior of Light that it's not common for someone to beat him to a scene, but he didn't expect less from a famed adventurer. Leofard was tracking the Warrior down to have a word with them: he proposes the Warrior of Light to help him on an adventure.
+
+Leofard meets with [[Radlia Keene]], rival captain of the Talons, at his crew's hideout. Radlia wants Leofard to work under her because of his famed reputation, but Leofard refuses, not wanting to be someone else's lackey. She doesn't believe Leofard's crew will survive without her own, but he tells her their crew is murderous and untrustworthy. Frustrated with Leofard, Radlia leaves Leofard's quarters. When the Warrior of Light arrives Leofard tells them that he promised high adventure and that they'll be boarding the Sea of Clouds' very own ghost ship. He believes the ship may be an [[Allagan Empire|Allagan]] relic, but no one has made it out alive. After the Warrior of Light agrees to explore the ghost ship, they meet up with the crew member [[Utata Uta]], who is working on a way to track the vessel. After obtaining the "Ectocompass", the crew and the Warrior of Light's party head to the ghost ship.
+
+Once clearing the ghost ship, the crew discovers a sizable cache of treasure - as well as a voidsent beast, known only as [[Diabolos_(Final_Fantasy_XIV)|Diabolos]]. A cat-like creature named [[Cait Sith (Final Fantasy XIV)|Cait Sith]] arrives to rescue Leofard and the crew, who evacuate the ghost ship.
+
+At the Parrock, Cait Sith explains that the ship is overrun by [[Final Fantasy XIV enemies/Voidsent|voidsent]], who plan to open a large gate into their current world. As the team plans their next move, Radlia and her Talons holds Utata hostage, in order to ransom for the Ectocompass. He slips a tracking linkpearl into the compass before giving it to Radlia, in order to track their movements. After trailing the Talons, this leads the Redbills and the Warrior of Light to the [[Weeping City of Mhach]], the last known location of the Talons, where Cait Sith explains that the Nullstone within will help them defeat any voidsent.
+
+Upon arriving and defeating the voidsent adversaries, a voidsent known as [[Ferdiad]] appears holding Radlia hostage. Threatening to kill Radlia, it demands the Nullstone. After deceiving the voidsent into thinking Radlia's life is meaningless to Leofard, he orders Cait Sith to use the Nullstone. The voidsent escapes, and Leofard returns to the Blue Window with the Warrior of Light and Radlia. At the Redbill's ship, Leofard demands Radlia explain why her crew went to Mhach. Radlia explains she was searching for the Nullstone as well. Leofard takes the book that Radlia's crew was studying.
+
+While Cait Sith studies the tome, the Redbills come under attack by Diabolos. Leofard is injured in the fight, but is soon rescued by Radlia and her newly restored crew. Though upset he must stay behind, Leofard orders his crew to join the Talons and make for [[Dun Scaith]].
+
+As Diabolos rises in the wake of its defeat, Leofard appears on his manacutter and crashes into Diabolos, buying Cait Sith enough time to use the weapon created by his master to defeat the voidsent. As the voidsent is defeated, Leofard lays on the ground of the courtyard, pleased at their success. When the crew returns to the Parrock, he mourns the loss of his manacutter, melancholic that the vessel he named for his late mother would be lost in combat. He gives Cait Sith his Redbill handkerchief as a new cape, initating him as a new Redbill.
+
+He and his crew wish the Warrior of Light farewell, promising to meet them again some time, for whenever the Redbills plan on engaging in a new tremendous adventure.
+
+==Characteristics==
+===Appearance===
+Leofard is a dark-skinned [[Hyur]] Midlander with black hair and white eyes. He wears red goggles, a Kudzu tunic with a redbill handkerchief, and trousers. When in combat, Leofard uses a pre-imperial [[Garlemald (location)|Garlean]] revolver. He rides a red painted manacutter he calls Raimille, named after his late mother.
+
+===Personality===
+Leofard is a cocky, sarcastic, and daring sky pirate who seeks glory and riches. Though he puts on an air of untouchable confidence, he is passionate and values the lives of his crew more than selfish victory, such as when the Talons hold Utata hostage and when the Parrock is under attack. He is quick to argue if he feels his pride is being questioned.
+
+==Gallery==
+<gallery>
+FFXIV Leofard concept.png|Concept art.
+FFXIV Leofard Gun.png|Leofard aiming at the enemy.
+FFXIV Leofard Stacia.png|Leofard and Stacia.
+FFXIV Leofard room.png|Leofard in his chambers, with his mother watching over him.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Sky Pirates]]
+[[Category:Machinists]]

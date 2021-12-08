@@ -1,0 +1,68 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Wawalago Momolago
+|release=FFXIV
+|japanese=ワワラゴ・モモラゴ
+|romaji=Wawarago momorago
+|image=FFXIV Wawalago.png
+|race=[[Lalafell]]
+|gender=Male
+|age=65
+|home=[[Limsa Lominsa]]
+|affiliation=Fishermen's Guild
+|occupation=Guildmaster
+|type=npc
+|job={{icon|ffxiv|discipline|fisher}}
+|armor=Fisher's Shirt
+}}
+'''Wawalago Momolago''' is a non-playable character from ''[[Final Fantasy XIV]]''. Officially, he is the guildmaster of Fisherman's Bottom in [[Limsa Lominsa]]. However, since he doesn't bother with actually ''running'' the guild, [[Sisipu]] handles administrative tasks instead.
+
+==History==
+===Early life===
+Wawalago used to fish in his native [[Thanalan]], when he came across a pirate ship during an expedition and ended up kidnapped and put to work under the mast. Wawalago managed to win his freedom with his sharp intelligence. He came to settle in [[Limsa Lominsa]], where he enjoys a life without fantasy until today.
+
+=== ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV 1x Wawalago and Sisipu.png|thumb|left|Wawalago and Sisipu in ''Final Fantasy XIV'' original.]]
+With the growing increase in [[Sahagin]]'s attack, Wawalago began hiring adventurers to outsmart the Fishermans' Guild pullers. Wawalago hires the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to escort Sisipu to Oschon's Torch and return.
+
+Wawalago made a tendency to provoke newly initiated handles to perform peculiar tasks. Once the Warrior of Light joins the Fishermans' Guild, Wawalago asks the Warrior to dance half naked for the fish. Subsequently due to complaints from the pullers, Wawalago decides to open a big sale.
+
+With the end of the sale approaching, Wawalago offered to extend the time limit for veteran pullers while denying the novice extension request. When questioned by Sisipu, Wawalago states that she should be the one who would understand him.
+<!--I really couldn't understand the conclusion of this arc as well as the reason the Wawalago, the name of the fisher final quest is "Polishing the Mast" in case you want to try to understand and and complete this section.-->
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Wawalago occasionally appears [[Fisher]] class quests, mostly to give advice on catching certain kinds of fish. In the last major Fishing class quest, he tasks the player with catching a Mazlaya Marlin from the Bloodshore to clear up a temporary lockdown by the Maelstrom following a "sea serpent" scare.
+
+In "The Beast of Brewer's Beacon" quest, Ascelyn a learner of lore, asks Wawalago to catch a monstrous fish that he believes is the origin of the Nepto Dragon legends. Wawalago says he is too old to fish for heavy things and asks the Warrior of Light to do the task. After the Warrior of Light catches the titanic sawfish and Navigator's brand, Wawalago officially recognizes the Warrior as a fisherman with enough skill to catch an Old One, if such a need arises.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Wawalago is visited by an old friend named [[Ansaulme de Rougecarpe]]. Wawalago presents and tells the achievements of the Warrior of Light to Ansaulme who is fascinated and invites the Warrior to visit his homeland, [[Ishgard]].
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Wawalago started sneaking out of the city at night to meet [[Govv]]—a young Sahagin who befriended Master Wawalago after ending up on the wrong end of his fishing line. To Wawalago's surprise, Sisipu notices his strange behavior and asks the Warrior of Light to assess what exactly is going on. Wawalago explains and says that Govv wants to meet the Warrior of Light.
+
+Govv is seriously concerned about the sudden and surprising disappearance of a fish species known as "the shooting star of the seas" in the Sahagin language. With a clear vote of confidence from the guildmaster, Govv accepts the help of the Warrior of Light. Wawalago asks to the Warrior of Light keep his business with Govv a secret from Sisipu. He explains that the girl's home was already invaded by the Sahagin when she was young, and he seeks only to prevent her from reliving the pain of her past. 
+
+Wawalago recruits [[Reyna Breakhook]] as a capable cooperator to help with the search. Reyna reduced the possible location of the breeding beds of the shooting stars to a region on the [[Ruby Sea]] and accompanies the Warrior of Light to [[Hingashi]]. Talking to local fishermen, Reyna learns that the Sahagin's so-called shooting stars are known by the Hingan people as harutsuge and asks the Warrior to capture some in order to gain more insight into the cause of their disappearance. Eventually Sisipu finds out and punishes Wawalago for his insensitivity to her true feelings and giving him the blessings to he make the journey to the east.
+
+In [[Isari]], Warrior of Light learns that formerly Isari fishermen and their [[Kojin]] friends held an annual event known as the Wadatsumi festival. The festivities involved the capture of giant plesiosaurs and their traditional religious practices were banned twenty-five years ago, when the [[Garlean Empire]] arrived. Upon hearing the story, Wawalago deduces that the festival's ban has resulted in an overpopulation of plesiosaurs, who are undoubtedly hunting the harutsuge pups before they can reach their maximum size. As such, it would be logical that reliving the festival would restore harutsuge to the seas.
+
+==Characteristics==
+[[File:FFXIV 1x Wawalago render.jpg|thumb|Render from version 1.0.]]
+===Appearance===
+Wawalago is a male dunesfolk [[Lalafell]] with grey hair and a curled moustache. He wears a full set of Fisherman's attire. 
+
+===Personality ===
+A laidback womanizer, he prefers to spend his time instructing fishers and slacking off. This causes no end of grief for Sisipu, who has to pick up the slack.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Wawalago is a NPC available for Triple Triad matches added in patch 3.0. He is located at [[Limsa Lominsa Lower Decks]] (8.1, 15.3).
+
+The matches have the Match Rules Swap and Chaos. The possible reward for defeating him is {{icon|ffxiv|item|Lucia goe Junius Card}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:Fishers]]
+[[Category:Guildmasters]]

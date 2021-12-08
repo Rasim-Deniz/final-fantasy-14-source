@@ -1,0 +1,162 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:The Final Coil of Bahamut - Turn 3}}
+{{Table incomplete|FFXIV|FFXIV}}
+{{Image needed}}
+{{infobox duty FFXIV
+| name = The Final Coil of Bahamut - Turn 3
+| japanese = 大迷宮バハムート：真成編３
+| romaji = Dai Meikyū Bahamūto: Shinseihen 3
+| lit = The Great Labyrinth of Bahamut: Truth Part 3
+| image = Final Coil of Bahamut - Turn 3 banner image from Final Fantasy XIV.png
+| expansion = ''[[Final Fantasy XIV: A Realm Reborn|A Realm Reborn]]''
+| patch = 2.4
+| location = [[Northern Thanalan]]
+| type = Raid
+| level = 50
+| level sync = 50
+| itemlevel = 120
+| time = 90 minutes
+| dps = 4
+| healer = 2
+| tank = 2
+| roulette = 
+| tomestones = {{FFXIV rewards|poetics|30}}
+| quest = Fragments Of Truth
+| bosses = *[[Phoenix#Final Fantasy XIV|Phoenix]]
+}}
+
+'''The Final Coil of Bahamut - Turn 3''', also known in-game as the '''IC-06 Main Bridge''' and as '''Turn 12''' or '''T12''' among players, is a {{icon|ffxiv|duty|raid}} turn in ''[[Final Fantasy XIV]]'', and the penultimate turn of the [[Final Coil of Bahamut]]. In this turn, players face off against [[Louisoix Leveilleur]], who has been enslaved as the [[primal]] [[Phoenix#Final Fantasy XIV|Phoenix]] by [[Bahamut (Final Fantasy XIV)|Bahamut]].
+
+==Story==
+{{Quote|At 8,872 yalms below the surface, your party arrives within Bahamut's cavernous regeneration chamber. As Alisaie moves to disable the internment hulk, she finds her way barred by her grandsire, the Archon Louisoix. The man once gave his life that the realm might be spared; if you would honor his legacy, you must now strike him down.}}
+
+==Objectives==
+#Defeat Phoenix.
+
+==Progression==
+{{infobox duty boss FFXIV
+|name=Phoenix
+|japanese=フェニックス
+|romaji=Fenikkusu
+|image=FFXIV Primal Phoenix.jpg
+|level=50
+|hp=1,099,699
+|enrage=11:30
+|abilities=Blackfire, Bluefire, Brand of Purgatory, Flames of Rebirth, Flames of Unforgiveness, Fountain of Fire, Rebirth, Redfire, Revelation, Whitefire
+}}
+
+=== Phase 1 ===
+
+At the start of the encounter, Phoenix should be tanked in the centre of the arena with all players clustered tightly around Phoenix's target indicator - damage dealers should be at the rear, healers to one side and the offtank to the opposite side.
+
+A few seconds after the start of the encounter, a Bennu will spawn underneath Phoenix - this needs to be killed as soon as possible. Bennus will continue to spawn throughout the first two phases of the encounter, and their corpses should not be stacked up - ideally, these will be placed in the Northeast, Northwest, Southeast and Southwest areas of the arena.
+
+After this, Phoenix will use Blackfire - this targets three people (the offtank, a healer, and a damage dealer) and does not provide an indication of who is targeted. Once the Blackfires have appeared, all players should move away from them.
+
+Whitefire targets three players (these may be different from those targeted by Blackfire) with a white AoE marker - these three players will each need to hit a Blackfire with the AoE effect to inflict HP Down on it to allow it to be killed.
+
+Every so often, Phoenix will cast Revelation on his current target, dealing heavy damage and applying 'Revelation Resistance Down', which should be handled with a tank swap - being hit with Revelation with the debuff active deals extreme damage with cannot be survived without an immunity cooldown.
+
+=== Phase 2 ===
+
+After Phoenix reaches 80% health, he no longer uses Blackfire or Whitefire. Instead, he gains three new abilities:
+
+At the start of this phase, a player will receive the 'Brand of Purgatory' debuff. This debuff needs to be passed on to another player whenever Phoenix begins casting 'Flames of Unforgiveness', or it will kill the bearer at the end of the cast. The debuff can be passed by walking through another player - both players will take damage from the transfer, and once the cast of 'Flames of Unforgiveness' completes, the original bearer of the debuff will take damage.
+
+Bluefire targets a random damage dealer with a blue marker. After a few seconds, they will drop a large blue AoE at their feet which all players must move away from. A few seconds later, that AoE condenses into a smaller puddle which must still be avoided.
+
+Redfire occurs shortly after Bluefire, spawning a fiery sphere and tethering it to a random damage dealer. The sphere will travel towards the tethered player and, if it connects, deals a large amount of fire damage and applies a raid-wide damage over time effect. This effect can be mitigated by having a player stand in the Bluefire pool to get the debuff, and then intercepting the fiery sphere as it travels towards the target.
+
+Bennus will continue to spawn and Revelation will continue to be used throughout this phase.
+
+=== Phase 3 ===
+
+At 52% health, Phoenix will fly upwards and appear at the northern side of the arena, untargettable and wreathed in flame. This flame instantly kills anyone who stands in it.
+
+Phoenix will continuously cast 'Flames of Rebirth' during this phase, with each cast increasing in power. After each cast of this ability, any dead Bennus that haven't been defeated twice during this phase will be revived, casting a maximum HP buff on other nearby Bennus as they rise. Once a Bennu dies, the tanks should move any living Bennus away from its body so that they are not buffed when that Bennu resurrects. This phase ends when all Bennus have been permanently slain, marked by the wreath of flame around Phoenix dissipating and Phoenix casting Rebirth.
+
+=== Phase 4 ===
+
+Phoenix will no longer cast Redfire or Bluefire - however he gains a number of new mechanics:
+
+A Fountain of Fire will spawn every so often somewhere close to Phoenix - this will tether to Phoenix or any player who stands in the fountain. Every few seconds, the Fountain applies a stacking debuff to the player standing in it, increasing the damage of further pulses from the fountain. If there is no player in the Fountain, the pulse will grant a Flames of Rebirth stack to Phoenix. Players will need to alternate who stands in the fountain to ensure nobody dies from too many stacks of the debuff.
+
+A smaller Phoenix clone will appear in the centre of the arena and perform a charge towards the outside - this should be avoided. Additionally, a number of Phoenix hatchlings appear and tether to random players - the hatchlings will fly in a straight line through the tethered player and off the arena, so these should be pointed away from other players.
+
+Phoenix will also periodically cast Flames of Rebirth during this phase, gaining a stack of the associated buff. Any player that dies during this phase will also provide a stack of the Flames of Rebirth buff to Phoenix - those stacks increase the damage dealt by Flames of Rebirth.
+
+Brands of Purgatory and Revelations both still occur as normal in this phase.
+
+=== Phase 4 Intermission ===
+
+Every so often, Phoenix will fly away and drop area of effect circles on the ground, while his smaller minions target charges around the arena. These should be easy to dodge, and no other mechanics occur during these intermissions.
+
+=== Enrage ===
+
+After approximately eleven and a half minutes, Phoenix stops using all other abilities, and continuously casts Flames of Rebirth until the raid wipes or he dies.
+
+==Enemies==
+*Phoenix
+**Bennu
+**Phoenix-egi
+**Fountain of Fire
+**Whitefire
+**Blackfire
+
+==Loot==
+{{#invoke:FFXIV Data|LootTable|
+
+Dreadwyrm Gloves of Casting
+|
+Dreadwyrm Tassets of Fending
+|
+Dreadwyrm Sarouel of Fending
+|
+Dreadwyrm Breeches of Aiming
+|
+Dreadwyrm Greaves of Maiming
+|
+Dreadwyrm Bracelet of Slaying
+|
+Dreadwyrm Bracelet of Casting
+|
+Dreadwyrm Ring of Aiming
+|
+Dreadwyrm Ring of Healing
+|
+Dreadwyrm Shield
+|
+Dreadwyrm Coronet of Fending
+|
+Dreadwyrm Chapeau of Aiming
+|
+Dreadwyrm Cyclas of Striking
+|
+Dreadwyrm Gloves of Healing
+|
+Dreadwyrm Slops of Scouting
+|
+Dreadwyrm Earring of Slaying
+|
+Dreadwyrm Earring of Casting
+|
+Dreadwyrm Choker of Healing
+|
+Carbontwine
+|Faded Copy of From the Ashes
+}}
+
+==Quests==
+{{#invoke:FFXIV Data|QuestList|Fragments Of Truth}}
+
+==Gallery==
+<gallery>
+FFXIV Final Coil T3.png
+</gallery>
+
+==Etymology==
+{{Etym|Phoenix}}
+
+{{Etym|Bennu}}
+{{navbox activities FFXIV}}
+[[Category:Superbosses]]

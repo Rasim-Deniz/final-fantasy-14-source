@@ -1,0 +1,34 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=
+|release=FFXIV
+|japanese=エゼルII世
+|romaji=Ezeru Ni-sei
+|image=FFXIV ShB Ezel II.png
+|home=
+|affiliation=Dreamspinners
+|occupation=
+|race=[[Porxie]]
+|gender=Male
+|hair=
+|eye=
+|type=npc
+|lit=Ezel the Second
+}}
+'''Ezel II''' is a non-playable character from ''[[Final Fantasy XIV: Shadowbringers]]''. He is an major character in [[pixie]] beast tribe questline.
+
+==History==
+[[File:FFXIV Tyr Beq and Ezel II.jpg|left|thumb|Tyr Beq and Ezel II.]]
+Ezel II helps [[Tyr Beq]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] investigate the mystery behind [[Lyhe Mheg]]'s gate seals. Since he is unable to devour the nightmares of [[Norvrandt]]'s children, with the help of Tyr Beq they invoke a manifestation of nightmares for the Warrior of Darkness to face. Ezel II also investigates [[Titania (Final Fantasy XIV)|An Lad]] (the reincarnation of Titania), who declares themself responsible for events until they overcome their trauma and can live in Lyhe Mheg.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gameplay==
+During the {{icon|ffxiv|quest|As the Heart Bids}} quest, Ezel II helps the player as an allied in a solo duty. During duty the player needs to use the Solicit Siphon Snout command so that Ezel II devours the shadows.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Porxies]]

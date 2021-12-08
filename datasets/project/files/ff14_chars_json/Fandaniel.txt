@@ -1,0 +1,116 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Fandaniel
+|release=FFXIV
+|japanese=アシエン・ファダニエル
+|romaji=Ashien Fadanieru
+|lit=Ascian Fadaniel
+|aka=Amon, Hermes
+|image=FFXIV Fandaniel.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=27 (physically)
+|dob=
+|affiliation=[[Zenos yae Galvus]]
+[[Telophoroi]]
+|occupation=
+Chief overseer of Elpis
+|race=[[Ascian]]
+|gender=Male
+|height=5'6" (66.1 in.)
+|hair=Black
+|eye=Black
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Yoshitsugu Matsuoka<br>Junichi Yanagita (Asahi's body)
+|english voice actor=Jeremy Ang Jones<br>Matt McCooey (Asahi's body)
+|abilities=}}
+{{Quote|And I, faithful Fandaniel, labor only to advance my lord's ambitions.|Fandaniel to Zenos}}
+'''Fandaniel''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. He is a rogue [[Ascian]] who allies himself with [[Zenos yae Galvus]]. He is introduced in ''[[Final Fantasy XIV: Shadowbringers]],'' and is one of the main antagonists of ''[[Final Fantasy XIV: Endwalker]]''.
+
+== History ==
+===Early life===
+The man known as Hermes filled the seat of Fandaniel for the [[Convocation of Fourteen]], a group that served as guardians of the city of [[Amaurot]] and [[The Star|the world]]. Prior to his current position, Hermes was in charge of Elpis, a facility designed to create new life that would be introduced to Etheirys. In his search for meaning, he created the Meteia using his research on Dynamis to travel across the universe to find other civilizations. When [[Emet-Selch]] approached him induct him into the Convocation, Hermes learned from [[Meteion]] that his creations have concluded that life is meaningless and have resolved to sing a song to wipe out everything. Hermes helped Meteion escape while inflicting himself and those present, save [[Venat (Final Fantasy XIV)|Venat]], with a memory alteration device to remove all traces of what they had learned. 
+
+When the [[Final Days]] began, Hermes deduced the stagnation of the [[aether]] currents created the blasphemies and devised that creating [[Zodiark (Final Fantasy XIV)|Zodiark]] would forestall the calamity before ending up in the [[primal]]'s [[Enthrallment#Final Fantasy XIV|enthrallment]]. He was fragmented like mostly everything else when the newly-summoned [[Hydaelyn (character)|Hydaelyn]] imprisoned Zodiark, with his being divided among [[Hydaelyn|the Source]] and its thirteen shards.
+
+The fragment of Hermes that remained on the Source was reborn in the final years of the Third Astral Era as Amon, a skilled technologist and magician of the [[Allagan Empire|Allagan civilization]], who sought to restore his nation to its former glory. He executed his vision by resurrecting the exhumed body of the first Allagan Emperor, [[Xande (Final Fantasy XIV)|Xande]], to return the empire to prosperity and conquest. Amon did not see his actions had rendered the revived Xande nihilistic, as the emperor formed a pact with the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]] to destroy Hydaelyn. Approached by Emet-Selch and awakened to his past life memories, Amon bore witness to the Fourth [[Umbral Calamity]] while placing a [[Amon (Final Fantasy XIV)|clone of himself]] in the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]] before its collapse. The ordeal convinced Amon to embrace Xande's ideals, intending to exploit the Ascians as "Fandaniel" until a chance to finish what Xande had begun would present itself.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+{{Quote|Because I want wretched creatures who ask such meaningless questions to die! You! And you! And you! I want you ''all'' to die! And I want to die too! Oh yes, I want to die and take everyone with me in a paroxysm of pain and suffering! I'm different, you see. From the ancients who clung to dear life. And from you. So don't bother trying to reason with me. You will find I have no reason. Or creed. Or any such tripe. I just want to destroy the world. But please ''do'' resist with all your might. It will add to my enjoyment.|Fandaniel}}
+[[File:5-3 patch Zenos and Fandaniel.png|Fandaniel's first appearance in Asahi sas Brutus's body.|thumb]]
+Following the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light's]] victory over Emet-Selch, Fandaniel briefly appeared before Zenos yae Galvus, whose act of patricide had thrown the [[Garlean Empire]] into civil war. Fandaniel offered his services while directing Zenos to an ideal prey in Zodiark, telling the prince the story behind his dreams of the end days of Amaurot. After Zenos killed his way back to the palace and destroyed most of the other contenders for the throne, Fandaniel formally introduced himself in his new body and expressed his intent to discredit any remaining Populares aware of [[Asahi sas Brutus]]'s death. Upon discovering that [[Elidibus (Final Fantasy XIV)|Elidibus]] had perished, Fandaniel gleefully announced to Zenos he was no longer beholden to the Paragons' plans, and they were free to do as they pleased with the Source.
+
+Fandaniel left to set up Zenos's "hunting ground" by recreating the conditions of the Final Days, first using the corpse of [[Varis zos Galvus]] as a medium to summon [[Anima (Final Fantasy XIV)|Anima]] through the [[Garlean (race)|Garleans']] faith in their late emperor. Anima tempered most Garlean citizens under its control to reconstruct the wartorn capital into the [[Tower of Babil (Final Fantasy XIV)|Tower of Babil]], Fandaniel using parts of Varis's body to create spires that served a similar effect. He used captive [[Beastmen|beastkin]] and the Meracyadian dragons to summon altered versions of their primals and transmitted the siphoned aether to the tower to breaking the bounds of an incomplete Zodiark whose existence still prevented the Final Days from unfolding.
+
+The Warrior of Light and the [[Scions of the Seventh Dawn]] encountered Fandaniel in [[Ala Mhigo]] with the first of the tower's primals, [[Lunar Bahamut (Final Fantasy IV)#Final Fantasy XIV|Lunar Bahamut]]. He revealed his desire to destroy the Source and all life in it, including his own. Before departing, he delivered Zenos's demand to meet the Warrior for a final confrontation, threatening to raze every [[Eorzea]]n city with Lunar Bahamut should his patron be denied. While later reporting to Zenos of Lunar Bahamut's defeat and the unlikelihood of its recreation, Fandaniel revealed the other Lunar primals were on the move while impressed of Zenos's choice of weapon.
+
+=== ''[[Final Fantasy XIV: Endwalker]]'' ===
+Fandaniel encountered the Warrior while observing events around the [[Tower of Zot (Final Fantasy XIV)|Tower of Zot]], trapping one of the alchemists developing Warding Scales in it. He revealed his former life as the Allagan Amon while taking his leave. He later reported to Zenos the tower's destruction by the Scions' hands and instructed him to prep Garlemald for a potential invasion by the [[Grand Company]]. Fandaniel questioned Zenos's motivation while explaining his own reason of ochrestating the end days.
+
+When the Warrior and their allies arrived to the Garlean capital, Fandaniel spirited the Warrior away and used [[Aulus mal Asina]]'s technology to temporarily place them in a soldier's body, while Zenos took the Warrior's body to kill their friends and motivate them into a rematch. However, the Warrior caught up in time and stopped Zenos, so Fandaniel switched their bodies back and left. Soon after, the Scions launched an assault on the Tower of Babil and defeated Anima, confronting Fandaniel and Zenos. Using the Tower's power, Fandaniel managed to break four of the five brands to Zodiark's seal.
+
+Fandaniel and Zenos teleported to the [[Moon (Final Fantasy XIV)|moon]] to personally break the final seal, but were briefly delayed due to Hydaelyn altering their trajectory. Having intended for Zenos to take Elidibus's place as Zodiark's heart, Fandaniel decided to merge into the primal himself and subvert the collective will of the souls that formed him. Fandaniel used Zodiark's power to battle the Warrior, but was defeated. Fandaniel revealed his true goal: using the Warrior to weaken Zodiark's body enough for Fandaniel to compel the elder primal to destroy itself. Zodiark ripped out its heart, killing itself and Fandaniel, making way for the Final Days to commence. In his final moments, Fandaniel took delight in fulfilling Xande's vision of the world's destruction.
+
+The Warrior [[time travel|traveled to the past]] to learn the true cause of the Final Days, playing a role in the attempt to detain Hermes before he cast his memory alteration spell. When the Warrior later ventured into the Aetherical Sea to find Hydaelyn, they encountered Amon's memories manifested as "Amon the Undying" in a final attempt to block them from reaching Hydaelyn. After defeating Amon, the Warrior of Light restored Amon's full memories as Hermes who began to regret his actions. The revenge-driven spirit of Asahi cast Amon into oblivion, so that the Ascian would begin his search for meaning again even if he was reborn. 
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV Fandaniel glyph.png|Fandaniel's glyph.|thumb]]
+As Amon, he wore an extravagant attire that consisted of a suit with a blue cravat, striped leggings, shoes, a large white cape draped over his shoulder, and a skull-like mask with a swept-back feather hat.
+
+Possessing the body of [[Asahi sas Brutus]], Fandaniel appears as a young pale [[Doma (Final Fantasy XIV)|Doman]] [[Hyur]]an with short black hair. The white and red tattered robes he wears while assuming his host's identity are dyed versions of the healing set of Facet gear, which are alternate versions of the Diabolic gear available at [[Dun Scaith]], uniquely wearing the Marid Hood of Scouting. Following [[Lunar Bahamut#Final Fantasy XIV|Lunar Bahamut]]'s appearance and demise, Fandaniel begins wearing the Cryptlurker's casting set dyed maroon, wearing a modified version of the Healing hood with the mask removed.
+
+As is common with Ascians, Fandaniel can conjure a unique red emblem in front of his face, his own based on [[Hashmal (Final Fantasy XII)|Hashmal]]'s glyph from ''[[Final Fantasy XII]]''. {{Show image|Hashmal Glyph Art.jpg}}
+
+=== Personality ===
+{{Quote|Imagine it! Bound no more by the shackles of moldering memories—of damnable duty! Free at last to live for the moment!|Fandaniel}}
+Fandaniel is a flamboyant, whimsical, and impulsive sadist with a flare for theatrics. He considers himself an artist in the horrors he creates via his mastery of aether manipulation. Unlike the other Ascians, whom he is in direct odds with, Fandaniel identifies more with his previous life as Amon than his original self, with no interest in restoring the world [[The Star|as it was before]] the sundering. Despite appearing loyal to Zenos, he only sees the Garlean prince as a means to an end. However, Fandaniel is genuinely devoted to Xande and the Allagan Empire as he strove to save the latter during its decline.
+
+Much of Fandaniel's nilihism derives from witnessing the Fourth Umbral Calamity unfold, pushing him over the edge while embracing Xande's ideals. He desires to destroy himself and everything else out of sorrow and spite by killing an incomplete Zodiark, a stark contrast to how his fellow Ascians cling to life and intended to release their deity once made whole.
+
+==Gameplay==
+{{main|The Dark Inside}}
+Fandaniel is fought while using Zodiark's body as a vessel as the first trial boss of ''Final Fantasy XIV: Endwalker'' in The Dark Inside. He can also be faced in Extreme difficulty in The Minstrel's Ballad: Zodiark's Fall.
+
+He is later fought in his original incarnation, Hermes, as the final boss of the dungeon [[Ktisis Hyperboreia]], and then as Amon the Undying, a lich version of his Amon incarnation, as the final boss of the dungeon [[The Atiascope]].
+
+== Musical themes ==
+{{audio|filename=FFXIV Travanchet Theme.ogg|title="Without Shadow"|align=left}}
+Like the other Ascians, Fandaniel’s appearances are accompanied by "Without Shadow".
+{{clear}}
+
+==Behind the scenes==
+===Voice===
+Fandaniel is voiced by Jeremy Ang Jones in English and Yoshitsugu Matsuoka in Japanese. While possessing Asahi's corpse, he is Matt McCooey in English and Junichi Yanagita in Japanese.
+
+==Gallery==
+<gallery>
+Amon_XIV_Artwork.png|Amon Artwork.
+FFXIV Endwalker trailer screenshot 7.png|Fandaniel in the ''[[Final Fantasy XIV: Endwalker|Endwalker]]'' expansion trailer.
+FFXIV Endwalker trailer screenshot 14.png|Fandaniel in the ''Endwalker'' expansion trailer.
+</gallery>
+
+==Etymology==
+"Fandaniel" refers to the Scion of Light "Fandaniel, The Protector", mentioned in the profile of [[Hashmal (Final Fantasy XII)|Hashmal]] in ''[[Final Fantasy XII]]''.
+
+The name "Fandaniel" comes from Hebrew, and does not correspond directly to any extant theophoric name, either given or angelic, and may be based on the root name "Daniel" (דניאל), which means "God (El) is my judge". There is no obvious Hebrew root word that makes up the p-n-d or p-d-n phonemes (Hebrew, as a Semitic language, does not have written vowels), which means that the name is a compound word. In Hebrew there is no letter that corresponds to the English "P" (it is written by giving the letter Fay, פ, with a dot called a dagesh in the middle, or פּ), while Japanese does have a "P" syllable, but given that Fandaniel is written in Japanese with the kana for "Fa" this likely means that the Hebrew equivalent would indeed be "Fa"—or פ, without the dagesh.
+
+There are two likely spellings in Hebrew—either פהדניאל (Fadaniel, like the Japanese) or פנדניאל (Fandaniel, like the English). If the former, then the "Fa" would come from the Hebrew root p-n-h ("to turn") and the name would translate to mean something like "to turn from my God's judgement" in relation to his personality. If the latter, the "p-n" might come from the archaic Hebrew "פן" and then translate as "lest God be my judge" or "lest my God judge me".
+
+{{Etym|Amon}} 
+
+{{Etym|Hermes}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ascians]]
+[[Category:Antagonists]]
+[[de:Fandaniel]]

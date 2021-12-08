@@ -1,0 +1,29 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=13th Order Fugleman Zo Ga
+|release=FFXIV
+|japanese=フューグルマン13 ゾ・ガ
+|romaji=Fyūguruman 13 Zo・Ga
+|image=FFXIV ARR Zo Ga.png
+|race=[[Kobold]]
+|home=[[Outer La Noscea|U'Ghamaro Mines]]
+|gender=Male
+|job = 
+|weapon = 
+|armor = 
+|affiliation=13th Order
+|occupation=Fugleman
+|type=npc
+}}
+'''13th Order Fugleman Zo Ga''' is a non-player character from ''[[Final Fantasy XIV]]''. He is the antagonist of the [[Kobold (Final Fantasy XIV)|Kobold]] Beast Tribe quests.
+
+== History ==
+Zo Ga exiled the 789th Order because of her incompetence at work and refused any attempt at their later efforts. Zo Ga also forces [[175th Order Alchemist Bi Bi|Bi Bi]] to create an oven prototype that he could use to punish opposing him. Following an attempted attack on Camp Overlook, Zo Ga discovers Bi Bi's involvement with the 789th Order and arrests her. [[789th Order Pickman Gi Gu|Gi Gu]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] invade the mines and blow up all the ovens, when Zo Ga ambushes the duo he ends up defeated by Gi Gu.
+
+==Characteristics==
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Kobolds]]
+[[Category:Antagonists]]

@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Leavold
+|release = FFXIV
+|japanese =リーヴォルド 
+|image = FFXIV Leavold 2.png 
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Gray
+|eye = Silver
+|designer = 
+|age = 
+|job = {{icon|ffxiv|discipline|gladiator}}
+|weapon = 
+|armor = 
+|romaji =Rīvorudo 
+|affiliation = Alacran
+|occupation =
+|type=npc
+}}
+'''Leavold''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV]]''. A former gladiator, he later came to lead a crime organization called the [[Alacran (Final Fantasy XIV)|Alacran]] and appears as an antagonist in the Gladiator class quests.
+
+== History ==
+[[File:FFXIV Leavold.png|thumb|left|]]
+Leavold was a part of the gladiators guild seven years ago and was friends with [[Mylla]] and Aldis who was his coliseum partner. There was rumors going around that Aldis was fixing a match for a large sum of gil and that didn't go well with the crowd, at the same time Mylla's dad fell ill and passed away although it was rumored to be Aldis that poisoned him and he fled. All of this was Leavold's doings and pinned it on Aldis, he lied about his reason for leaving the coliseum and joined the Alacran eventually becoming its leader.
+
+Aldis appears back in Thanalan and Leavold catches wind of his arrival, he has mercenaries and others in his organization to kill the man but they are killing any hyur men with swords, drawing attention to the Gladiator's Guild. A bounty was set on a man in the Silver Bazaar, and Leavold went in with a group to assassinate him, although stopped by Mylla and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] he leaves satisfied. 
+
+Annoyed with Aldis escaping his grasp, he pays monetarists to secure his death by framing him with attempting to assassinate the Sultana. As he watches the execution takes place Mylla and a group of gladiators appear to free Aldis, Aldis makes it to the top of the Scaffolding, and duels Leavold. Leavold appears to have the upper hand in battle, but Aldis goes for the final blow and defeats Leavold. Not wanting Aldis's pity he gloats about how Aldis has lost everything, and falls backwards off into a cliff.
+
+== Characteristics ==
+=== Appearance ===
+Leavold is a Midlander hyur with gray hair, silver eyes and a gray tattoo on the right side of his face. He wears a purple robe with leather armor on his arms and legs, he also wields the twin blade that [[Aldis]] wields.
+
+=== Personality ===
+Leavold is a tricky person using his connections to take advantage of a situation or gain an upper hand against his enemies, he's lied to his friends to obtain a higher status
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Paladins]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]

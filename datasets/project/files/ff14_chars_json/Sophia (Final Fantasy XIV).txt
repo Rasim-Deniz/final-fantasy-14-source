@@ -1,0 +1,110 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Sophia (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Sophia
+|release=FFXIV
+|japanese=女神ソフィア
+|romaji=Megami Sofia
+|lit=Goddess Sofia
+|aka=The Goddess
+|image=FFXIV Sophia.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Warring Triad (Final Fantasy XIV)|Warring Triad]]
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=[[Rie Tanaka]]
+|english voice actor=Cindy Robinson
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=Containment Bay P1T6
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+'''Sophia, the Goddess''' is a [[primal]] from ''[[Final Fantasy XIV]]'', who appears in version 3.4, "[[Final Fantasy XIV#Soul Surrender (3.4)|Soul Surrender]]". She is a member of the [[Warring Triad (Final Fantasy XIV)|Warring Triad]] and as such is based on the [[Goddess (Final Fantasy VI)|Goddess]] from ''[[Final Fantasy VI]]''.
+
+==History==
+{{Quote|History tells of a Meracydian nation comprised of a multitude of races, the foundations of which were built on the worship of a single deity. The "Goddess," as she was simply known, graced the souls of her worshipers with perfect equilibrium, binding their disparate societies in gilded chains of harmony.|Official description}}
+Sophia was created near the end of the Third Astral Era by the collective faith of the numerous races of a Meracydian nation to repel invaders from the [[Allagan Empire]]. Though powerful, Sophia was captured and imprisoned with the other members of the Warring Triad in [[Azys Lla]], where advanced Allagan technology drains her power while keeping her physical form intact. After the Allagan Empire fell, the Warring Triad remained in suspended animation for centuries until the actions of Archbishop Thordan VII weakened their seals with Sophia being the second to nearly escape after [[Sephirot]]'s defeat.
+
+Guided by [[Unukalhai]], the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] venture to Containment Bay P1T6 to unseal and defeat Sophia before she can escape and unleash unthinkable catastrophe.
+
+==Musical themes==
+Like Sephirot, a rearranged version of "[[Battle to the Death (Final Fantasy VI)|Battle to the Death]]" from ''Final Fantasy VI'' plays in the first phase of the battle against Sophia. A new song called "[[Equilibrium (song)|Equilibrium]]" plays during Sophia's second phase (when she uses her signature attack, The Scales of Wisdom), unique to her.
+{{clear}}
+
+==Behind the scenes==
+Sophia, like [[Sephirot]] and [[Zurvan (Final Fantasy XIV)|Zurvan]], is based on their [[Warring Triad|''Final Fantasy VI'' counterparts]]. Sophia is inspired by the [[Goddess (Final Fantasy VI)|Goddess]]. Her name is taken from the working name she was initially given before simply being called Goddess in ''Final Fantasy VI''.
+
+===Voice===
+Sophia's Japanese voice actor is [[Rie Tanaka]].<ref name="twitter-tanakarie-201609162303">{{Refwebsite| page url = https://twitter.com/tanakarie/status/777025183047561216| page name = 田中理恵 (Tanaka Rie)| site url = http://www.twitter.com/| site name = Twitter| access time = 23:23, September 17, 2016 (UTC)}}</ref>
+
+Her English voice actor is Cindy Robinson. Her German voice actor is Anna Amalie Blomeyer.
+
+==Gallery==
+<gallery>
+File:Sophia-Warring-Triad-FFXIV.png|Sophia, the Goddess.
+File:Upper Sophia.png|Upper half of Sophia.
+File:Lower Sophia.png|Lower half of Sophia.
+</gallery>
+
+==Etymology==
+In the original concept artwork {{Show image|Goddess ffvi concept art.jpg}} for ''Final Fantasy VI'' by [[Tetsuya Nomura]], the Warring Triad are named beyond their basic titles. Goddess is named Sophia. ''Sophia'', Greek for wisdom, is a central idea in Hellenistic philosophy and religion, particularly Gnostic Christianity (which much of Sophia's concept, dialogue and "flavor", such as ability names, further reference), Platonism, Orthodox Christianity, Esoteric Christianity, as well as Christian mysticism, and is commonly represented as a goddess.
+
+In Gnosticism, Sophia is an Aeon who created the Demiurge which in turn created the material world.
+
+{{Etym|Megami}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Primals in Final Fantasy XIV]]

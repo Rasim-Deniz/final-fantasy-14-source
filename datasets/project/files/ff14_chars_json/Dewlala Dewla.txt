@@ -1,0 +1,42 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Dewlala Dewla
+|aka=Prioress of the Order of Nald'thal
+|release = FFXIV
+|japanese =デュララ・デュラ 
+|romaji =Dyurara Dyura 
+|image = FFXIV Dewlala.png
+|race = [[Lalafell]]
+|gender = Female
+|height = 
+|hair =
+|eye =
+|designer = 
+|age = 52
+|affiliation = [[Order of Nald'thal]]<br/>[[Syndicate]]
+|home=[[Ul'dah]]
+|occupation = Head of the Order of Nald'thal<br/>Prioress of Milvaneth Sacrarium
+|type=npc
+|job = {{icon|ffxiv|discipline|thaumaturge}}
+}}
+'''Dewlala Dewla''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. A member of the [[Ul'dah]] Syndicate, she is the head of the Order of Nald'thal.
+
+== History ==
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+{{section}}
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Dewlala appears at the Waking Sands following [[Raubahn Aldynn|Raubahn's]] rescue from [[Ilberd Feare|Ilberd's]] attempted execution of him. She reveals [[Nanamo Ul Namo]] is still alive, due to Lolorito arranging for the the lady-in-waiting to swap the poison with a potent sleeping potion, subverting [[Teledji Adeledji]]'s assassination attempt. When Raubahn expresses his rage at Lolorito's machinations, Dewlala urges his restraint, reminding him that for all of Lolorito's scheming, it was his actions that ultimately saved Nanamo's life.
+
+She later appears with Lolorito when Raubahn confronted the sultana's lady-in-waiting at the Silver Bazaar, where he explained everything and presented him the antidote.
+
+== Characteristics ==
+===Appearance===
+{{Section}}
+
+===Personality===
+A genuine and honorable pragmatist, Dewlala Dewla walks the precarious and narrow path between the Monetarists and the Royalists. Despite her neutrality, she supports the sultanate, and has largely remained above the Syndicate's infighting. Dewlala's foremost concern as a leader on the Syndicate is the welfare of the nation. Thus, when the Syndicate's enmity grows too great, she has been known to act as a mediator, which is proven when she puts down the clash between Rauhban and Lolorito for the betterment of the nation.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

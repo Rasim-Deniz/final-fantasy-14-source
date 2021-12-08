@@ -1,0 +1,89 @@
+{{sideicon|FFXIV}}
+{{infobox character
+|name=Fran Eruyt
+|release=FFXIV
+|japanese=フラン・エルト
+|romaji=Furan Eruto
+|image=FFXIV_Fran_Render.jpg
+|home=[[Dalmasca (Final Fantasy XIV)|Dalmasca]]
+|age=
+|dob=
+|affiliation=Lente's Tears
+|occupation=General
+|education=
+|race=[[Viera (Final Fantasy XIV)|Viera]]
+|gender=Female
+|height=
+|weight=
+|hair=White
+|eye=Red
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}
+|weapon=Maple Longbow
+|abilities=Feather Shots, Swallowtail, Nighthawk
+<!--Behind the scenes info -->
+|Job={{icon|ffxiv|discipline|archer}}
+|original appearance=[[Fran]] (from ''Final Fantasy XII'')
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Fran Eruyt''' is a non-player character from ''[[Final Fantasy XIV|Final Fantasy XIV,]]'' introduced in ''[[Final Fantasy XIV: Stormblood|Final Fantasy XIV: Stormblood.]]'' She serves as a supporting character in the "[[Return to Ivalice]]" and "[[Save the Queen]]" questlines. She is based on the character [[Fran]] from ''[[Final Fantasy XII]]''.
+
+==History==
+===Early life===
+As Viera last names are the names of their home village, this indicates that Fran originates from Eruyt Village.
+
+Though Fran seldom discusses her background, from her remarkable leadership and proficiency as both a tactician and warrior, it is presumed the general of [[Lente's Tears]] has many years of experience and most likely an age to match. She is believed to be a former member of the [[Dalmasca (Final Fantasy XIV)|Dalmascan]] peacekeeping forces, an organization primarily charged with protecting the royal family and the capital of [[Royal City of Rabanastre (Final Fantasy XIV)|Rabanastre]], with their jurisdiction limited to the confines of the city.
+
+Even among such a specialized group, Fran was assigned to a unit that dealt with organized crime and the most hardened offenders. Fran and her comrades were known as the [[Saraab]] and their operation was separate from the rest of the peacekeepers. While the organization was established to protect the royal family and the capital, the Saraab's activities included maintaining public safety and order throughout the kingdom. Were a threat to the realm to arise, the Saraab had the authority to take any measures necessary, even if said threat involved members of the nobility or the royal family itself.
+
+As such, the Saraab worked in isolation, with the identity of its members only known to those belonging to the unit. Even towards the end of the war with [[Garlean Empire|Garlemald]], members of the royal fusiliers, such as [[Ba'Gamnan (Final Fantasy XIV)|Ba'Gamnan]] and [[Bwagi Ennze Panca]], never came into contact with Fran. She led one particular group within the Saraab whose duties included protecting designated persons from the shadows, pursuing suspected rebels and cult members, and preventing attempted espionage by foreign nations.{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Fran}}|name=notes48}}
+
+The final task assigned to Fran's group was the "assassination" of [[Ashelia B'nargin Dalmasca (Final Fantasy XIV)|Princess Ashelia]], a secret mission to fake the princess's death to protect the royal bloodline. [[Ba'Gamnan (Final Fantasy XIV)|Ba'Gamnan]] and several other fusiliers witnessed the staged assassination, and spread the false news of her death. Even the ones who handled the princess's supposed corpse were Fran's subordinates. The mission was carried out under the permission of Princess Ashelia's twin brother, [[Rasler B'nargin Dalmasca|Prince Rasler]], who knew that defeat to the Empire would mean the execution of the entire royal family. Were the people of Dalmasca allowed to know Ashelia was still alive, they would be incensed to fight the Garleans to the last man, despite there being no hope of victory. Rather than watch his people die in vain, he devised a means of spiriting her away, even concealing his plan from his father, the king. The princess was put into a deep sleep using a method passed down among Fran's kin until the day arrived for the kingdom to be reborn.
+
+When Ashelia finally awoke 30 years later, she had lost many of her memories but could still remember her identity and purpose. She often found herself assailed by images of the past. In the years that had passed, Fran had become a general of Lente's Tears, and she continued in this role while also acting as advisor to Ashelia.<ref name="notes48"/>
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Fran encountered the same fusiliers who had, unbeknownst to them, cooperated in faking the princess's death thirty years ago. To compound Fran's feelings of guilt, their leader, Ba'Gamnan, had undergone a hideous transformation and was subsequently killed, denying her the opportunity to make amends with him. Although thirty years had passed since Ba'Gamnan was deceived into believing the princess was killed, Fran could not escape the feeling that had she revealed the truth to him, the terrible fate that befell him could have been averted.
+
+Another of the fusiliers, [[Bwagi Ennze Panca]], became a loyal friend to Fran. While he and his comrades are unaware Ashelia is the princess, they believe her to be a descendant of the royal bloodline. It remains to be seen whether their feelings of joy remain unchanged upon learning the truth, but Fran is prepared to face the consequences of her actions.<ref name="notes48"/>
+
+As the party around [[Jenomis cen Lexentale]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] searches a way into the legendary [[Orbonne Monastery (Final Fantasy XIV)|Monastery of Orbonne]], [[Bwagi]] mentions how one of the generals of the Dalmascan resistance could prove helpful. Bwagi, the Warrior of Light and [[Montblanc (Final Fantasy XIV)|Montblanc]] travel to the depths of the [[Royal City of Rabanastre (Final Fantasy XIV)|Royal City of Rabanastre]]. Within the Garamsythe Waterway, the general is introduced as Fran, the Warrior's first encounter with a Viera. At first distrustful of them for acting in the name of a [[Garlemald (location)|Garlean]] family, Fran offers a parley where she states her conditions in return for her assistance. She dismisses the trio to have them arrange things with Hancock and the Alliance's leaders and plan the deal nonetheless. In truth, Fran knew that her demands toward the Eorzean Alliance, East Aldernard Trading Company, and Doma would be rejected; as Bwagi explains, it was all to show the princess that if she was serious about leading the resistance, they had to show her just what she was getting herself into.
+
+After the discussion proves fruitless, the party returns to the ''Prima Vista''. Fran arrives along with Bwagi, willing to offer assistance nonetheless, and apologizes for the previous deception, acknowledging how their intentions were honest for trying to meet her condition despite the odds. [[Alma bas Lexentale|Alma]] joins them after her rest and becomes possessed by the [[auracite|auracite's]] powers, before a rift drags her away. Fran points them to the location within [[Golmore Jungle (Final Fantasy XIV)|Golmore Jungle]] where the Orbonne Monastery is located to pursue Alma. As the group attempts to approach the facility, a temporarily sober Alma reappears and pleas Ramza for help before the rift opens anew. Mikoto and Ramza rescue her, only for Ramza to be dragged away through the portal.
+
+Fran, Montblanc and the Warrior of Light explore the depths, defeat [[Ultima (Ivalice)#Final Fantasy XIV|Ultima, the High Seraph]], rescue Ramza, and uncover the truth of the story of the [[Zodiac Braves]]. After stopping at the ''Prima Vista'' to return Ramza to his family, Fran and Bwagi return to Dalmasca.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Fran comes to [[Zadnor]] to aid the [[Bozjan Resistance]] in their fight against the mutual enemy of both [[Bozja]] and Dalmasca, Garlemald's [[IVth Imperial Legion]]. She arrives in the nick of time, saving [[Mikoto Jinba]] from a fall from an airship. Fran participates in the assault on the ''[[Dalriada]]'' and the fight against [[Menenius sas Lanatus]], [[Lyon rem Helsos]], and the [[Diablo Armament]]. After the destruction of the ''Dalriada'' and Diablo Armament both, Fran joins in the festivities with the resistance at [[Gangos]] where she thanks the Warrior of Light on behalf of the Dalmascan people, and proposes they work together again in the future.
+
+Six months after the battle at Zadnor, [[Noah van Gabranth]] is declared dead, seemingly killed by [[Lyon rem Helsos]], and the IVth Imperial Legion breaks apart.{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Noah}}|name=notes50}} The time to reveal the truth of the Princess Ashe has yet to arrive, and Fran will continue to keep the truth from her allies.<ref name="notes48"/>
+
+==Characteristics==
+=== Appearance===
+Fran retains her appearance from ''Final Fantasy XII'', being a dark-skinned Viera with long white hair and black-tipped leporine ears, and wearing armor that resembles metallic lingerie, and stiletto heels with claw motifs. In battle she wields a Maple Longbow.
+
+===Personality===
+Fran has a stern personality, as general of a resistance group she negotiates terms in a way that benefits her people and has a strong distaste for Garleans.
+
+She is racked with guilt over keeping the truth of Princess Ashelia a secret because of the people it has hurt, but continues to do so for [[Dalmasca (Final Fantasy XIV)|Dalmasca's]] sake.<ref name="notes48"/>
+
+==Gallery==
+<gallery widths="185">
+FFXIV Fran.png|In-game render.
+FranEruyt FFXIV FieldRecord.png|Fran Eruyt's Field Record entry.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Viera]]
+[[Category:Rangers]]

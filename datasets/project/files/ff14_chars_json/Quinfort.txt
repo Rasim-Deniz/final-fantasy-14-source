@@ -1,0 +1,33 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Quinfort
+|release=FFXIV
+|japanese=キンフォート
+|romaji=Kinfōto
+|aka=
+|image=FFXIV ShB Quinfort.png
+|home=[[Rak'tika Greatwood#Slitherbough|Slitherbough]]
+|age=
+|affiliation=[[Night's Blessed]]
+|race=[[Au Ra|Drahn]]
+|gender=Male
+|type=npc
+}}
+'''Quinfort''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. He is a [[Night's Blessed]] member.
+
+==History==
+Quinfort since from an early age had an easy in use of arcane arts but acted strangely. He is currently studying to be a priest, but to the concern of his childhood friend, [[Valan]], Quinfort began to believe that he had the vision of a Calamity and was chosen to prevent it. At Valan's request, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] tries to find a way to heal Quinfort and accompany him on his 'journey'.
+
+Quinfort makes his way through the forest to his vision location and 'summons' The Great Serpent of Ronka. Believing the Serpent warned about the [[Children of the Everlasting Dark]], the Warrior investigates the activities and defeats two suspicious members of the organization. With the disappearance of the Great Serpent, Quinfort believes she has completed her duty and so returns to slumber.
+
+[[File:FFXIV Great Serpent of Roka.png|thumb|The Great Serpent of Ronka.]]
+Later when the Warrior accompanies [[Ciuna and Phyna]] to Slitherbough. Quinfort foresees their arrival and waits for the group at the village entrance. Quinfort states that the Great Serpent has contacted him again and following Phyna's comment, Quinfort rushes into the forest to meet the Great Serpent again. After being rescued by Ciuna and the Warrior, the party goes to Fanow with the Great Serpent. In consulting [[Lanille]], she says that Quinfort's gift is not unknown in Fanow, and that those born with this gift are appointed Keeper of Whispers and should not ignore the visions. The group investigates the Great Pyramid of Ux'ner and with the information uncovered, Quinfort agrees to create an alliance between Fanow and Slitherbough to protect Rak'tika and Ronka's ruins. Once Quinfort loses the Great Serpent again, he believes it has completed her mission and has returned to his slumber.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]

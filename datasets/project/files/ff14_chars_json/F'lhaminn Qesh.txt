@@ -1,0 +1,100 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=F'lhaminn Qesh
+|release=FFXIV
+|japanese=フ・ラミン・ケシュ
+|romaji=Fu Ramin Keshu
+|lit=
+|aka=Lhaminn {{j|ラミン|Ramin}}, Songstress of Ul'dah
+|image=F'lhaminn 1.0 render from Final Fantasy XIV.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=37
+|dob=
+|affiliation=[[Scions of the Seventh Dawn]]
+|occupation=Receptionist
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=White
+|eye=Pink
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Come and get your flowers! Flowers for all! Enjoy the festivities!|F'lhamin in ''Final Fantasy XIV/Legacy''}}
+'''F'lhaminn Qesh''' is a character from ''[[Final Fantasy XIV]]''. A [[Miqo'te]], she was widely renowned as the Songstress of [[Ul'dah]] before her retirement. Afterward, she joined the [[Scions of the Seventh Dawn]], and later she was a collaborator of [[Troupe Falsiam]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:FFXIV Legacy F'lhamin.jpg|thumb|F'lhaminn speaking to the adventurer (1.0).]]
+F'lhaminn—the Songstress of Ul'dah—and her lover [[Niellefresne Thaudour|Niellefresne]]—whom she called Nielle—set a beast loose at a parade in the hopes of gaining political power by putting the beast down quickly. The beast ended up killing [[Warburton]], [[Minfilia Warde|Ascilia's]] father.<ref>{{Refwebsite| page url = https://www.youtube.com/watch?v=wAifwGuWAro&list=PLLfhkR8m8wYshIqe6HJd7VO7tCi-3M-hy&index=1| page name = Flowers for all|site url = http://www.youtube.com|site name = Youtube|access time = 02:27, September 25, 2019 (UTC)}}</ref> After hearing about Warburton's death from [[Thancred Waters|Thancred]], F'lhaminn begins to feel guilty about her role in this, and plans on taking Ascilia in her care.<ref>{{Refwebsite| page url = https://www.youtube.com/watch?v=yPgBJedKN3s&list=PLLfhkR8m8wYshIqe6HJd7VO7tCi3Mhy&index=3| page name = Golden Sacrifices|site url = http://www.youtube.com|site name = Youtube|access time = 02:33, September 25, 2019 (UTC)}}</ref> Before she can however, [[Corguevais]] takes the girl to Black Brush in an attempt to take her back to [[Ala Mhigo]]. F'lhaminn arrives after everyone else and admits her fault to Ascilia, only for her to call out in hatred. Corguevais blows a horn, summoning a horde of coblyns, and takes off on a chocobo carriage, leaving Ascilia behind. The horde of cobylns attack Ascilia, but F'lhaminn comes in to shield her from the blows, rendering her unconscious. After the battle she is taken to Frondale's Phrontistery to recover. Once she wakes up, she tells the group to find Thancred, as he might know of the coming threat. 
+
+F'lhaminn overhears that Nielle plans on resurrecting Warburton and in spite of her injuries rushes out to find and stop him. Along the way she meets Thancred, and he looks for him in her stead.<ref>{{Refwebsite| page url = https://www.youtube.com/watchv=X7JdbKUsFLk&list=PLLfhkR8m8wYshIqe6HJd7VO7tCi-3M-hy&index=4| page name = Calamity Cometh|site url = http://www.youtube.com|site name = Youtube|access time = 02:36, September 25, 2019 (UTC)}}</ref>
+Wrought with grief after discovering her lover dead, she believed him to be asleep to keep carrying on. Only after raising Ascilia did she accept that he was truly dead.<ref>''Stormblood'' Quest- Do Goldsmiths Dream of Gilded Sheep</ref>
+
+The [[Goldsmith]] quest line revolves around a story of F'lhaminn and [[Colbernoux]], Niellefresne's brother; F'lhaminn's difficulty accepting his loss; and Colbernoux's feelings for her and for his brother.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+F'lhaminn was thought perished in the [[Seventh Umbral Era|Calamity]], but her body was never found. It is eventually revealed that she did survive, and roamed the land for years.
+
+After the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] saves her from a ravaging [[Goobbue (Final Fantasy XIV)|Goobbue]], F'lhaminn agrees to plead the case to move the Scions of the Seventh Dawn to [[Mor Dhona]], on one condition: to help her gather the final ingredient to her perfume. After her perfume is done, she returns to The Waking Sands to see her daughter. She convinces Minfilia to relocate to Mor Dhona and joins them in their new base, The Rising Stones, where she cooks Ul'dahn cuisines for them.
+
+F'lhaminn was able to warn Tataru to run and escape the coming [[Crystal Braves]] and [[Brass Blades]] forces. [[Ocher Boulder]] in the [[Rising Stones]] reveals that F'lhaminn has escaped to [[Thavnair]] under the protection of his brother, [[Hoary Boulder]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Some time after the incident where a rebel faction seized control of the [[Vault (Final Fantasy XIV)|Vault]] in [[Ishgard]], [[Tataru Taru]] receives word that F'lhaminn, Hoary Boulder, and [[Coultenet]] are on their way back to Eorzea. The Warrior of Light is forced to tell her that Minfilia is still missing, a fact which distresses her, though she remains calm, trusting the Scions. F'lhaminn then rejoins the others at the Rising Stones. After Minfilia leaves to stop the Flood of Light in the First, F'lhaminn hears her voice, saying "thank you".
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+F'lhaminn is a part of the [[Alchemist (Final Fantasy XIV)|Alchemist]] quest line. During an investigation into the enchanted blade [[Heartstrike]], [[Severian]] and the Warrior of Light check the body of Niellefresne at F'lhaminn's permission. The blade has killed him but prevented his body from decomposing. After F'lhaminn says her final good-byes to him, the Heartstrike is destroyed, thus breaking the curse on him and returning him to [[aether]].
+
+F'lhaminn gifts the [[Doman Adventurers' Guild]] with matching hats before they depart for the [[Doman Enclave]]. She had considered the four children her own.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+In the [[Dancer (Final Fantasy XIV)|Dancer]] quest line, it's revealed that during her stay in Thavnair, F'lhaminn met [[Nashmeira (Final Fantasy XIV)|Nashmeira]]—whom she called Meira—and became fast friends, helping her to plan [[Troupe Falsiam]]'s tour of [[Eorzea]]. At the end of their tour, she meets the Warrior of Light again, and tells them how surprised she was when she learned they'd joined the troupe as a dancer.
+
+After learning of Minfilia's final passing, F'lhaminn asks the Warrior of Light to accompany her to the Church of Saint Adama Landama, where Minfilia's father is buried.  Together, they bury a gemstone that had special meaning to Minfilia and say their final goodbyes.
+
+==Characteristics==
+===Appearance===
+Although a Seeker of the Sun, F'lhaminn has an appearance of a Keeper of the Moon Miqo'te, with white hair and pink eyes. In an interview with [[Michael-Christopher Koji Fox|Koji Fox]], he says that it's possible that she is of mixed heritage.{{Citation needed}} She wears a purple dress with gold trimmings and a pink skirt.
+
+===Personality===
+F'lhaminn is seen as a caring adoptive mother to [[Minfilia Warde|Minfilia]], having taken her in when she was younger.
+
+==Gameplay==
+During the [[Quests (Final Fantasy XIV)/Legacy/Ul'dah#Court_in_the_Sands|Court in the Sands]] quest in version 1.0, the adventurer needed to escort and defend F'lhaminn to Camp Black Brush. This instance served as a tutorial to introduce the open map to the players that started in Ul'dah.
+
+==Gallery==
+<gallery>
+F'lhaminn_Legacy.jpg|F'lhaminn in version 1.0.
+FFXIV F'lhaminn ARR.png|Version 2.1
+FFXIV F'lhaminn Heavensward.png|Version 3.0
+</gallery>
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

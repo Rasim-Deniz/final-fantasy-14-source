@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Beq Lugg 
+|release = FFXIV
+|japanese = ベーク＝ラグ
+|romaji = Bēku-Ragu
+|aka = Seeker of Solitude {{J|宮殿の隠者|Kyūden no Inja|Palace Hermit}}
+|image = FFXIV Beq Lugg.png 
+|race = [[Nu mou]]
+|gender = N/A
+|height = 
+|hair = 
+|eye = 
+|designer = 
+|age = 
+|affiliation = 
+|occupation = 
+|type=npc
+|japanese voice actor = Mariya Ise
+|english voice actor = Jaimi Barbakoff
+}}
+'''Beq Lugg''' is a [[non-player character]] in ''[[Final Fantasy XIV: Shadowbringers]]''. They are a [[Nu mou]] who distanced themselves from the world of men and isolated themselves in an abandoned palace.
+
+==History ==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Beq Lugg is a Nu Mou with the typical long ears and mole like nose. They wear a red robe with a yellow sash at the waist and blue pants. When encountered in the [[Grand Cosmos]], they take the form of a robed creature with tentacles.
+
+=== Personality ===
+Beq Lugg is a talented mage, bringing many objects to life to attack and impede the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Although they are reluctant to assist man once more, they are convinced by the Warrior of Light. They also serve as a great teacher, such as when they teach [[Alisaie Leveilleur|Alisaie]] how to conjure a porxie.
+
+==Gallery==
+<gallery>
+File:FFXIV Beq Lugg disguise.png|Beq Lugg in disguise
+</gallery>
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Nu mou]]
+[[Category:Characters in Final Fantasy XIV]]

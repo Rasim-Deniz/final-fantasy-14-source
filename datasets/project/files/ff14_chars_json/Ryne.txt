@@ -1,0 +1,162 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ryne
+|release=FFXIV
+|japanese=リーン
+|romaji=Rīn
+|aka=Minfilia {{J|ミンフィリア|Minfiria}}
+|image=FFXIV SH Ryne (Trust).png|Ryne
+|portrait=[[File:Minfilia Trust Portrait from Final Fantasy XIV.png|81px|Minfilia's Trust portrait in Dohn Mheg and the Qitana Ravel story mode.]][[File:Ryne Trust Portrait from Final Fantasy XIV.png|81px|Ryne's Trust portrait.]][[File:Ryne Trust Portrait 2 from Final Fantasy XIV.png|81px|Ryne's alternate outfit Trust portrait.]]
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+Oracle of Light
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hume
+|gender=Female
+|height=
+|weight=
+|hair=
+Blonde (Minifilia)<br>
+Red (Ryne)
+|eye=
+Glowing sapphire (Minfilia)<br>
+Blue (Ryne)
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=guest
+|job={{icon|ffxiv|discipline|oracle of light}}
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=[[Kana Ichinose]]
+|english voice actor=[[Emma Ballantine]]
+|quotes=true
+}}
+{{Quote|Although this young woman has both the name and the piercing blue eyes of the Scions' erstwhile Antecedent, the nature of their connection is not entirely clear. What does this Minfilia wish to achieve? What hopes are caught within the tangled skein of her destiny?|Official ''Shadowbringers'' website}}
+'''Ryne''', also known as '''Minfilia''' or '''Minfilia of the First''', is a character from ''[[Final Fantasy XIV]]''. She appeared in the third expansion ''[[Final Fantasy XIV: Shadowbringers]]''. Despite originally sharing her name and hair color with [[Minfilia Warde]], she is actually one of the many girls in [[the First]] who became Minfilia's reincarnation while revered as the "Oracle of Light".
+
+==History==
+[[File:FFXIV SBG Girl.png|thumb|left|"Minfilia" being spirited out of Eulmore.]]
+The current reincarnation of Minfilia showed up around ten years before the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light/Darkness]] was summoned from [[Hydaelyn|the Source]]. She was taken to [[Eulmore]] at a young age and trained by [[Ran'jit]] in the ways of her predecessors, having no memory of her birth name. [[Thancred Waters]] rescued her after he arrived to the First, taking her on as an apprentice in his [[sin eater]] hunter career. He emotionally distanced himself from the girl after the original Minfilia temporarily used her body to explain her intent to fade while the girl would inherit her power.
+
+{{Q|‪I don't know about the world...but I never asked to be saved. However much it hurts, and however hard it gets, it's my life, and I want to live it on my own terms! And those "mad fools" you want me to abandon? The ones I've traveled with, fought with, and may one day die with—they feel the same. So no, I will ''not'' be deceived! No matter what you say, I refuse to believe it's all for nothing! They're everything to me. All I have and all I need. And I would gladly do anything for them. Let us pass, or kill me. I'm not leaving here without them.|"Minfilia" to Ran'jit}}
+[[File:FFXIV Minfilia x Minfilia.png|thumb|"Minfilia" meets with the spirit of the original Oracle of Light.]]
+Eventually joining the [[Scions of the Seventh Dawn]] in their hunt for the remaining [[Lightwarden]]s, the girl decided to awaken her full potential as the Oracle of Light to help track them down despite knowing that either she or Minfilia would cease to exist as a result. Standing up to Ran'jit allowed the girl to find resolve to follow her own path to aid the Scions and restore her home. Minfilia accepted her reincarnation's answer, the girl's appearance changing from blonde with the glowing blue eyes, to red hair and regular blue eyes. On Thancred's suggestion, to move on with her new life, she adopted the name Ryne.
+
+Following [[Emet-Selch]]'s death, Ryne sensed a light emanating from [[Empty (Final Fantasy XIV)|the Empty]] with her and Thancred discovering the first sin eater, [[Eden (Final Fantasy XIV)|Eden]]. Ryne used her power as the Oracle of Light to revive Eden and place it under her control to use its amassed [[aether]] to gradually restore the Empty. Eden's reactivation provoked [[Gaia (Final Fantasy XIV)|Gaia]] to attack under the influence of the [[voidsent]]. She lost consciousness following her battle with the Warrior. As Gaia joined the group to regain her memory, Ryne tried befriending her, and succeeded when she revived Gaia from a deep sleep. Ryne later offered herself as host to the First's version of [[Shiva (Final Fantasy XIV)|Shiva]] upon hearing the story of [[Ysayle Dangoulain]], only to lose control and be saved by Gaia's intervention.
+
+Learning of [[Elidibus (Final Fantasy XIV)|Elidibus]] posing as [[Ardbert]] to rally the populace to become Warriors of Light, Ryne joined the Scions in uncovering the [[Ascian]]'s scheme as they were only left with more questions. Ryne assisted the Scions fight the many Warriors of Light summoned from the many worlds, supporting her friends through [[Heroes' Gauntlet|the regions of Norvrandt]] and paving the way for the Warrior of Darkness to have their final battle with Elidibus atop the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]].
+
+After the Warrior's group defeated some [[primal]]s, elemental aether was slowly returning to the Empty. The Ascian [[Mitron]] reappeared from Eden and revealed that Gaia used to be [[Loghrif]], his partner. Mitron wanted Gaia to return to her true self, and when she refused, he forcefully fused with her to create Eden's Promise. The Warrior of Light/Darkness defeated Eden's Promise, and Gaia was freed. Mitron was finally vanquished. With the Empty now being gradually restored, Ryne and Gaia became proper friends, with Thancred and [[Urianger Augurelt|Urianger]] relieved that she would not be alone after they returned to their world.
+
+When it was time for the Scions to go home, Thancred and Ryne said their goodbyes at Amh Araeng. After they returned to the [[Crystarium (Final Fantasy XIV)|Crystarium]], Thancred gave Ryne his [[Gunblade (weapon)|gunblade]] before returning to [[Eorzea]].
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV SH Minfilia 2.png|thumb|150px|Ryne as "Minfilia".]]
+Ryne is a teenage girl, around the same age as the Leveilleur twins, with long blonde hair and glowing sapphire eyes. She wears a pure white dress, a pink ribbon tied on a small bit of braided hair on her right side, and a pair of combat boots.
+
+After inheriting the powers of the Oracle of Light, Ryne gains red hair and pale blue eyes. This appearance is assumed to be her original look restored to her as a parting by the Oracle of Light.
+
+===Personality===
+{{Quote|Coming together, providing for one another—that's the only way forward I can see. Since all of our heroes are gone, we'll just have to make heroes of ourselves.|Ryne}}
+Much like the Minfilia from the Source, Ryne is kind and caring, wishing to help those in need and those she can still save. As she is still young and constantly overseen, Ryne is shy and reserved, relying on others for comfort and support, leading to self-doubt and worrying about her worth. After seeing the resolve and determination of the Warrior of Darkness and the Scions of the Seventh Dawn, Ryne gains a new sense of resolve, which leads her to stand up against Ran'jit.
+
+Her relationship with Thancred Waters, her liberator and protector, is complex. As Ryne is not the Minfilia he knows and holds dear, Thancred struggled to accept Ryne. Though he followed through Minfilia's wishes in protecting Ryne as he once did for her, he still kept her at a distance and was reluctant to have her embrace her role as the Oracle of Light. This led Ryne to believe that Thancred hated her. However, after hearing her words of resolve and determination against Ran'jit, Thancred apologizes for his earlier behavior.
+
+After meeting Gaia for the first time, Ryne wants to befriend her. Although Gaia had acted coldly towards her, she helps Ryne returns to her own self after losing control as Shiva. They become friends afterwards, and Gaia's memories about her friendship with Ryne help her to not be overwhelmed by Mitron's machinations.
+{{clear}}
+
+==Gameplay==
+Minfilia/Ryne can be recruited to the player's party via the [[Trust System]]. Her job "Oracle of Light" functions like a [[Ninja (Final Fantasy XIV)|Rogue]]. Her Trick Attack ability ignores the direction requirement and will always inflict the "Vulnerability Up" debuff. She can use [[Banishga|Banish III]], which is a replacement for Suiton, enabling her to use Trick Attack without Hide.
+
+She will not use her [[Limit Break (Final Fantasy XIV)|limit break]] if the player is filling a DPS role in the party, as she will defer to the player's judgment instead.
+
+[[File:FFXIV Ryne Shiva.png|thumb|Ryne as "Shiva".]]
+Thancred will not use Cartridge-based skills unless Minfilia/Ryne is also in the team, owing to his inability to charge cartridges on his own.
+
+Ryne is also fought as the boss of [[Eden's Verse: Refulgence]], where she assumes the form of [[Shiva (Final Fantasy XIV)|Shiva]] with the ability to "redress" into a replica of [[Hydaelyn (character)|Hydaelyn]]. In Savage mode, she gains a third outfit based on [[Hraesvelgr]], granting her attacks based on those used by dragons seen throughout the game.
+
+==Musical themes==
+{{Audio|title="Return to Oblivion"|filename=Return to Oblivion.ogg}}
+"Footsteps in the Snow" plays when Ryne assumes her Shiva form, with a remix of it, "Return to Oblivion", serving as her boss theme.
+{{clear}}
+
+==Other appearances==
+===''[[War of the Visions: Final Fantasy Brave Exvius]]''===
+Ryne appears in vision cards from ''[[War of the Visions: Final Fantasy Brave Exvius]]''.
+;Vision cards
+;Scions of Shadow
+[[File:Scions of Shadow from WotV vision card.png|thumb|Scions of Shadow.]]
+{{Q|Ala Mhigo is at last free from imperial rule, but that liberty may prove fleeting as the Empire moves to both reclaim this bloodied nation and subjugate all of Eorzea. In their hour of need, however, they cannot turn to the Warrior of Light. Nor to the Scions, who yet slumber, their souls adrift. The realm is left to struggle without its saviors, for they have been beckoned beyond time and space─beckoned to the First.|Vision card description}} 
+Scions of Shadow is an UR-rarity vision card. It was illustrated by Akihiko Yoshida.
+{{clear}}
+;Bringers of Shadow
+[[File:Bringers of Shadow from WotV vision card.png|thumb|Bringers of Shadow.]]
+{{Q|In order to restore darkness to the Norvrandt of the First, in danger of being consumed by the Flood of Light, the Shadowbringers fight against fate itself. <br>Adventurers who became known as the legendary Warriors of Darkness, the Scions, and the Oracle of Light come together to try to subdue the grotesque Sin Eaters.|Vision card description}} 
+Bringers of Shadow is an UR-rarity vision card. It was illustrated by SQUARE ENIX.
+{{clear}}
+
+==Gallery==
+;Artwork
+<gallery widths="185">
+FFXIV SH Artwork.png|Artwork for ''Shadowbringers''.
+FFXIV ShB Characters Yoshida Akihiko.png|Artwork for ''Shadowbringers''.
+FFXIV SH Minfilia.png|Introduction for ''Shadowbringers''.
+FFXIV Minfilia Oracle Art 01.png|A painting of a previous incarnation of Minfilia.
+FFXIV Minfilia Oracle Art 02.png|A painting of a previous incarnation of Minfilia.
+FFXIV Ryne Artwork.jpg|Character artwork.
+FFXIV SH Minfilia (Trust).png|Minfilia's Trust render.
+Minfilia Full Trust Portrait from Final Fantasy XIV.png|Minfilia's full size Trust portrait in Holminster Switch story mode.
+Ryne Full Trust Portrait from Final Fantasy XIV.png|Ryne's full size Trust portrait.
+Ryne Full Trust Portrait 2 from Final Fantasy XIV.png|Ryne's full size alternate outfit Trust portrait.
+Ryne as Shiva from FFXIV.png|Ryne as Shiva in Eden's Verse: Refulgence
+Ryne and Hraesvelgr from FFXIV.png|Ryne and Hraesvelgr's manifestation in Eden's Verse: Refulgence (Savage).
+Ryne as Shiva from FFXIV concept art.png|Concept art of Ryne as Shiva.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Loli Minfilia.png|In-game render (Minfilia).
+FFXIV Ryne.png|In-game render (Ryne).
+FFXIV Minfilia Eulmore Soldier.png
+FFXIV Minfilia Thancred Head Pet.png
+FFXIV Minfilia Ryne.png|New hair and eyes.
+FFXIV Ryne Thancred Head Pet.png
+FFXIV Ryne Healing.png|Ryne healing a citizen of Eulmore.
+FFXIV Ryne Hydaelyn.png
+FFXIV Ryne Hydaelyn 2.png
+FFXIV HraeRyne.png
+</gallery>
+
+==Etymology==
+According to Urianger, Ryne's name is translated from the fairies' [[language]] as "Blessing".
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Ryne]]
+[[Category:Guest characters]]
+[[Category:Oracles]]
+[[Category:Ninjas]]
+[[Category:Characters in Final Fantasy XIV]]

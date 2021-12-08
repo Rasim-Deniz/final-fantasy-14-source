@@ -1,0 +1,69 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{DISPLAYTITLE:Amon (''Final Fantasy XIV'')}}
+{{Infobox character
+|name=Amon
+|release=FFXIV
+|japanese=異才のアモン
+|romaji=Isai no Amon
+|lit=Amon the Prodigy
+|image=Amon XIV.png
+|race=
+|gender=Male
+|height=
+|hair=
+|eye=
+|designer=
+|age=
+|affiliation=[[Allagan Empire]]
+|occupation=
+|type=boss
+|job=
+|weapon=
+|armor=
+}}
+{{Quote|My, my, such unruly guests. 'Twould seem a little diversion is in order.|Amon}}
+'''Amon''' is a boss from ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. He is the third boss of [[Syrcus Tower (Final Fantasy XIV duty)|Syrcus Tower]], based on the optional boss [[Amon (Final Fantasy III)|Amon]] from ''[[Final Fantasy III]]''; who in turn looks like [[Hein (Final Fantasy III)|Hein]], a major villain in the latter game.
+
+==History==
+During the latter days of the Third Astral Era, the [[Allagan Empire|Allagan civilization]] began to go into decline and stagnated. [[Fandaniel|Amon]] was a skilled technologist and magician in those days, and tried to revitalize the ancient Allag through an unusual plan: by resurrecting the first Allagan Emperor [[Xande (Final Fantasy XIV)|Xande]] back from the dead to lead his civilization into glory days once again. He exhumed the Emperor from his tomb and, using advanced cloning technology which he had developed, successfully revived Xande. Under the reborn Emperor's leadership, the empire returned to prosperity and resumed many of his original ambitions from his first life, eventually conquering Meracydia.
+
+Unfortunately, the resurrection had scarred Xande's soul due to his memory of death. This brooding led to the Emperor making a covenant with the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]] to open a Voidgate and reduce [[Hydaelyn]] to nothingness. To accomplish this, he needed extra solar energy collected by [[Dalamud]] and its [[Bahamut (Final Fantasy XIV)|captive Elder Primal]] channeled to the Syrcus Tower to open the door to the World of Darkness. This proved to be too much for the tower to contain, and the excess energy released triggered a massive earthquake that destroyed the Allagan Empire and ushered in the Fourth Umbral Era.
+
+Prior to the event, Amon was appproached by [[Emet-Selch]] who revealed to him that he was the reincarnation of [[Fandaniel]] of [[Amaurot]]. Emet-Selch convinced Amon to take his place among the [[Ascian]]s and talked into creating a clone of himself to enter Syrcus Tower in his stead. When the tower sank into the earth as a result of the earthquake, the Amon clone placed himself, Xande, and the tower's inhabitants in suspended animation until the tower was unearthed when Dalamud fell during the Seventh Umbral Era.
+
+==Characteristics==
+===Appearance===
+He resembles the original Amon in appearance, but is a giant humanoid whose body bears glowing blue lines similar to the Allagan designs seen throughout the Crystal Tower and [[Binding Coil of Bahamut|the Binding Coil]].
+
+===Personality===
+The Amon clone has many of the personality traits that the original Amon possessed prior to his transition to Fandaniel, including his whimsical aspects. Throughout the battle, his mannerisms is like a showman performing for his guests, and his arena likewise suits it with a red carpet and spotlights to herald the minions he summons. Fittingly, a set of gear exclusively for [[Bard (Final Fantasy XIV)#Bard|Bards]] is based on his attire.
+
+==Gameplay==
+{{main|Amon (Final Fantasy XIV boss)|Syrcus Tower (Final Fantasy XIV duty)}}
+Amon is the third boss of the {{icon|ffxiv|duty|Syrcus Tower}}, and final obstacle before Emperor Xande himself.
+
+==Musical themes==
+Like the other mid-bosses in Labyrinth of the Ancients and Syrcus Tower, the track "Nemesis" plays during the battle with Amon.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+
+Amon appears in ''Final Fantasy Trading Card Game'' as Fire- and Lightning-elemental Forward cards.
+
+<gallery>
+Amon XIV TCG.png|Amon [15-004R] Chapter series card.
+Amon 2-098L from FFTCG Opus.jpg|Amon [2-098L] Opus series card.
+</gallery>
+
+==Gallery==
+<gallery>
+Amon_XIV_Artwork.png|Artwork.
+Amon In-game.png|In-game render.
+</gallery>
+
+==Etymology==
+{{Etym|Amon}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

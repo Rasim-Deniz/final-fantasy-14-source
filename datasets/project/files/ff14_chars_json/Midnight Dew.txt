@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Midnight Dew
+|release=FFXIV
+|japanese=ミッドナイト・デュー 
+|romaji=Middonaito Dyū 
+|image=FFXIV Midnight Dew.png 
+|race=[[Roegadyn]]
+|gender=Female
+|height=
+|hair=Purple
+|eye=Violet
+|age=29
+|home=[[Idyllshire]]
+|affiliation=
+|occupation=Treasure Hunter
+|type=npc
+|job=
+|weapon=
+|armor=
+}}
+'''Midnight Dew''' is a [[non-player character]] from ''[[Final Fantasy XIV: Heavensward]]''. She is a senior treasure hunter in [[Idyllshire]].
+
+== History ==
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+When [[Sharlayan]] evacuated the [[Dravanian Hinterlands]] following the fall of [[Ala Mhigo]], the abandoned settlement attracted many treasure hunters, including the nomadic goblins. Making an arrangement with other scavengers, they decided to stop migrating and create a settlement under the gate of the Cenotaph called Idyllshire.
+
+Midnight Dew is one such treasure hunter, who helps break the ice between [[Slowfix Cointoss|Slowfix]] and [[Y'shtola Rhul|Y'shtola]] during their first meeting.
+
+== Characteristics ==
+=== Appearance ===
+Midnight is a tall hellsguard roegadyn woman with purple hair and violet eyes. She wears an open white vest with shoulderguards and thavnairian gloves, pants, and shoes.
+
+=== Personality ===
+{{Section}}
+
+== Gameplay ==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Midnight Dew is a NPC available for Triple Triad matches added in patch 3.0. She is located at Idyllshire (5.5, 6.6). To challenge her the player needs to complete the sidequest {{icon|ffxiv|quest|Over My Dead Gobbie}}. 
+
+The match fee is 30 MGP with a reward of 124 MGP for winning. She uses the Match Rule Roulette. The possible rewards for defeating her are {{icon|ffxiv|item|Matoya Card}} and {{icon|ffxiv|item|Belladonna Card}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

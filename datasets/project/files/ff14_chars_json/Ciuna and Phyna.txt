@@ -1,0 +1,34 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ciuna and Phyna
+|release=FFXIV
+|japanese=シュナ、ファイナ
+|romaji=Shuna, Faina
+|aka=
+|image=FFXIV ShB Ciuna and Phyna.png
+|home=[[Rak'tika Greatwood#Fanow|Fanow]]
+|age=
+|affiliation=Fanow
+|race=[[Viera (Final Fantasy XIV)|Viis]]
+|gender=Female
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}}}
+'''Ciuna''' and '''Phyna''' are characters from ''[[Final Fantasy XIV: Shadowbringers]]''. They are [[Viera (Final Fantasy XIV)|Viis]] twins involved in a sidequest in [[Rak'tika Greatwood]].
+
+==History==
+Worried about her students, [[Lanille]] asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] to accompany them during a ceremony. Ciuna and Phyna perform the ceremony to renew their ties with Greatwood through prayer, but because their deposes contradict, the ceremony failed and ended up invoking spirits of opposing elements. In reporting what happened to Lanille, she advises the Warrior to investigate if there is any problem between Ciuna and Phyna. The Warrior discovers that Ciuna wants to protect her home and Phyna yearns to explore the outside world. Before starting the ceremony again, Lanille tells the wins they need to be in harmony for the ritual to succeed. Since both agree to follow different paths, they perform the ceremony without unforeseen events. Phyna decides to stay with Ciuna until the time to leave the forest arrives.
+
+Ciuna and Phyna explore beyond the borders of Yx'Maja and make their way to Slitherbough and meet with [[Quinfort]] and [[Valan]] at the village entrance. Quinfort has had the vision of a calamity and must meet again with the Great Serpent of Ronka. Due to a comment from Phyna, Quinfort rushes deep into the forest to meet the Serpent. While Phyna takes Valan to Fanow, Ciuna and the Warrior of Darkness go rescue Quinfort. The group meets in Fanow and asks advice to from Lanille, who says that Quinfort's gift is not unknown in Fanow, and that those born with this gift are named Keeper of Whispers and should not ignore these visions. The party investigates the Great Pyramid of Ux'ner and, with the information discovered, agree to create an alliance between Fanow and Slitherbough to protect Rak'tika and the ruins of Ronka.
+
+==Characteristics==
+===Appearance===
+Phyna and Ciuna appear to be identical twins. They are Viis in early adulthood, with light blue hair and fur and relatively short upright ears.  They wear matching shoulder-length hairstyles, with a lock each each temple closed within a thin clasp or wrap. Ciuna wears several daisies on these locks of hair. Phyna has lilac eyes, while Ciuna's are mint green. They sport the traditional Viis [[Tattoo (body modification)|tattoos]] on their inner arms, and wear a traditional Viis hunters' outfit, with a long shin-length feathered skirt, double-pointed heels with toe "claws", and a cropped triangular top extending over their shoulders. They carry ornate recurve bows and full quivers of arrows, marks of their hunting prowess.
+
+===Personality===
+Phyna is optimistic and mirthful, being willing to befriend even strangers to their closed community, a rare trait among the Viis. Ciuna, by contrast, is pragmatic and prideful, wanting to accomplish the tasks set before them without the help of their new adventurer acquaintance.  Ciuna eventually warms up to their new friend, however.
+
+Phyna has long been curious about the world outside of the Viis community of Fanow. She wishes to explore the world and to find and ally with Viis that have left Fanow behind, an act that has historically equivalent to voluntary but permanent exile from the community. Ciuna is dedicated to the Viis' ancient charge to defend Yx'Maga, the [[Qitana Ravel]] temple, and the knowledge contained therein.  She is at first conflicted about Phyna's unspoken wish to leave Fanow, but comes to accept it, and to cherish the time they have left. She decides to make of Fanow a village that will accept the return of those Viis that have left the village behind, to end the custom of permanent exile for those that depart.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Viera]]

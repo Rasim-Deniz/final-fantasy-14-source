@@ -1,0 +1,167 @@
+{{sideicon|prime=FFXIV|PFF|FFRK|FFTCG}}
+{{infobox character
+|name=Ysayle Dangoulain
+|release=FFXIV
+|japanese=イゼル・ダングラン
+|romaji=Izeru Danguran
+|aka=Lady Iceheart
+|image=Ysayle.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Dravania]]
+|age=24
+|dob=
+|affiliation=Dragon Heretics
+|occupation=Heretical revolutionary
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Elezen]]
+|gender=Female
+|height=
+|weight=
+|hair=Gray
+|eye=Ice blue
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|japanese voice actor=[[Maaya Uchida]]
+|english voice actor=
+*[[Salli Saffioti]] ''(A Realm Reborn)''
+*[[Siobhan Hewlett]] ''(Heavensward)''
+|other appearances=true
+|ffrk=true
+}}
+{{Quote|Better known as Iceheart, Ysayle stands as leader of the heretics—those who have pledged their allegiance to the dragons. Denouncing the teachings of the Holy See, she means to put an end to the Dragonsong War.|Official website}}
+'''Ysayle Dangoulain''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. Also known as '''Lady Iceheart''' {{j|氷の巫女|Kōri no Miko|Shrine Maiden of Ice}}, she leads the heretics—those who have pledged their allegiance to the [[Dravanian Horde|dragons]]. Denouncing the teachings of the [[Ishgard|Holy See]], she means to end the [[Dragonsong War]]. Like the [[Warrior of Light (Final Fantasy XIV)|adventurer]], she is one of [[Hydaelyn (character)|Hydaelyn]]'s chosen.
+
+==History==
+===''[[Final Fantasy XIV]]''===
+Ysayle manifested the [[Echo (Final Fantasy XIV)|Echo]] at young age. While frightened of seeing visions of a woman and dragons, the [[Seventh Umbral Era]] buried her hometown of Falcon's Nest and Ysayle's people sought refuge in [[Ishgard]]. They were turned down and everyone Ysayle knew and loved died in an avalanche. She went to [[Dravania]] where she met the dragon from her visions, [[Hraesvelgr]], before meeting [[Marcechamp]] and making her home in Tailfeather.
+
+Ysayle learned of the nature of her visions as she resolved to restore the peace between her people and the dragons so no child would suffer as she did. Under the name of Lady Iceheart, she gained a following of heretics dedicated to [[Saint Shiva]] that became active throughout [[Coerthas]] during the Seventh Astral Era.
+
+[[File:iceheart.png|thumb|Ysayle inside the Snowcloak.]]
+While rarely appearing, Ysayle makes her presence known<!--during "Dreams of Ice"--> when she has the heretics waylaid shipments of [[Crystal (term)#Final Fantasy XIV|crystals]], with [[Alphinaud Leveilleur]] learning her plan to summon Saint Shiva as a [[primal]], and alerts the [[Scions of the Seventh Dawn]]. With the new crisis, the Scions and Crystal Braves join the Temple Knights in infiltrating the Harriers den around [[Snowcloak]].
+
+After scouting through a treacherous tunnel leading through the glacier, the Warrior of Light encounters Ysayle near an [[aether]]yte crystal. Introducing herself, she states her intention to end the Dragonsong War and questions the Warrior's resolve of allowing the bloodshed continue. Before she teleports away, she declares what the heretics are doing is for the greater good of [[Eorzea]]. Further pursuit is halted as she seemingly disabled her destination aetheryte.
+
+{{Quote|You should never have come here, Warrior of Light. I labor only to forge a lasting peace. A peace you would deny us out of ignorance and blind faith. No matter. If it is our fate to be at odds, then it is ''mine'' to strike you down.|Iceheart}}
+With the aid of an expert from [[Sharlayan]] named [[Moenbryda Wilfsunnwyn|Moenbryda]], an experimental teleport using white auracite is used to trace Ysayle to the [[Akh Afah Amphitheatre]]. Believing she is summoning Saint Shiva's spirit, Ysayle transforms into the primal Shiva. After forced back to her original form, Ysayle condemns the Warrior of Light as a blind fool like those in Ishgard. She asks the Warrior seek out the [[Midgardsormr (Final Fantasy XIV)|Keeper of the Lake]] and to not "squander [[Hydaelyn (character)|Mother's]] [[Echo (Final Fantasy XIV)|gift]]". As she fades into a portal, she recites the words of the Mother crystal: "Hear... Feel... Think..."
+
+{{Quote|You fight in a war you do not understand—a pawn of liars and schemers. And they are no less ignorant than you! Following the creed of their fathers without question, never thinking to ask why. Trapped in a delusion of their own creation and blind to the truth.|Iceheart to the adventurer}}
+Ysayle reappears<!--in "Before The Fall"--> when she and her harriers break the outermost ward of Daniffen's Collar at the Gates of Judgement, right as the Dravanian Horde mobilizes under [[Nidhogg (Final Fantasy XIV)|Nidhogg's]] roar. This enables Nidhogg's champion, the great dragon Vishap, to launch an attack on the Steps of Faith in an attempt to disable the remaining wards. After Vishap is slain by the Warrior of Light and the main host is driven off, Estinien vows to hunt her down.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|I will make this right. I am neither a saint nor a savior—just another sinner. Yet I will not forsake this cause. I cannot. I will see this cycle broken and peace restored. I... We can do naught else, for we are now as one...|Iceheart}}
+Ysayle confronts the Warrior of Light at [[Coerthas Western Highlands]] and [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]] appears before her, much to her surprise. He tells her that while their goals are the same, their paths are different, and reveals he knows she possesses the echo. She regrets the loss of innocent life in her last attack, having underestimated the rancor in the hearts of the dragons. Ysayle explains the story of the Dragonsong War to the Warrior of Light and why she wants to end it before taking her leave.
+
+Ysayle later encounters the Warrior, [[Alphinaud Leveilleur|Alphinaud]], and Estinien in the Cinders after they light a heretic signaling fire, intending to draw her out. Curious, she listens to Alphinaud's plan: to travel in hope of trying to resolve the matters between Ishgard and Dravania peacefully. Ysayle reveals the story of Saint Shiva and Hraesvelgr and two-hundred long peace that was broken by [[Thordan I|King Thordan]], and that Nidhogg's stolen eye is the cause of the war. Estinien reveals to her the true reason not being just his eye, and Ysayle agrees to take them to Churning Mists where Hraesvelgr has sequestered himself.
+
+Finding their path blocked until the voracious [[Gnath]] and their primal god, [[Ravana (Final Fantasy XIV)|Ravana]], are dealt with, Ysayle accompanies the Warrior of Light and challenges him to a duel to have him order the Gnath to halt their campaign. When Ravana accepts, Ysayle assumes her primal form to engage him in combat. She overestimates her strength and is defeated. Though the Warrior of Light is victorious, her confidence is shaken. The party heads to Sohm Al, regrettably being forced to kill Nidhogg's mate Tioman along the way.
+
+Arriving in the Churning Mists, they find Hraesvelgr who refuses to aid them as Nidhogg's fury will never be sated until every Ishgardian is either dead or converted into a dragon. Though Ysayle attempts to persuade Hraesvelgr by claiming that she is the soul of Shiva reborn, Hraesvelgr laughs off her delusion and reveals the "Shiva" whose form she assumed was nothing more than "a deity of [her] own making." This shatters Ysayle's faith, and she remains behind while the Warrior of Light and Estinien travel to The Aery to confront Nidhogg.
+
+After defeating Nidhogg, the party returns to Hraesvelgr with Ysayle learning the dragon gave his eye to his brother to have his war. Wrecked by this further betrayal, and unable to understand Hraesvelgr's emotions on the subject, Ysayle condemns the dragon for his actions before he orders her to leave while the influence of Shiva's soul allows him to show mercy. Accompanying the Warrior of Light to Ishgard, Ysayle talks the heretics into falling back by revealing Nidhogg's death and the time for the peace they fought for has come. Though the knights of Ishgard attempt to arrest her as she leaves, they are stopped by Estinien and [[Haurchefant Greystone|Lord Haurchefant]].
+
+{{Quote|O goddess born of mine own hopes and dreams. For the last time, I beseech You! Fill this vessel with Your light! Still the hatred within our hearts and bless us with eternal grace!|Ysayle beckons Shiva for the last time.}}
+[[File:FFXIV Ysayle Death.png|thumb|Ysayle's last moment.]]
+Later, the Warrior of Light and company attempt to breach the barrier surrounding [[Azys Lla]]. Having made her peace with Hraesvelgr before he is alerted by Estinien's use of the Eye of Nidhogg, Ysayle rides on the greatwyrm's back to aid the ''Enterprise'' when it comes under assault by the [[Garlean Empire|Garlean]] airship ''Gration''. Intent to atone for spilling blood in the name of a "false cause", Ysayle jumps off Hraesvelgr and transforms into Shiva a final time to assault the ''Gration'' with Hraesvelgr's dragons as her support. Though she disables the Garlean airship enough for them to stop their pursuit of the ''Enterprise'' while her aides are destroyed, Ysayle is blasted out of the sky by cannonfire and falls while reverting to her original form. Dying, she breaks up into a luminous, blue aether that spills into the heavens.
+
+<!--During a cutscene of the patch 3.3 main story quest An End to the Song-->When the Warrior of Light and Alphinaud attempt to wrest the eyes of Nidhogg from the armor of Estinien to separate him from the wyrm, a noncorporeal being in the form of Ysayle lays their hand upon Alphinaud's own. The eyes are removed from the armor, presumably with the aid of Ysayle and Haurchefant, before they are then cast into the abyss beneath the Steps of Faith.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Ysayle is an [[Elezen]] woman with pale skin, long flowing gray hair, icy blue eyes, and pale blue lips. Unlike the other heretics, she wears a blue jacket with a skirt.
+
+===Personality===
+Ysayle is devoted to her cause in ending the Dragonsong War, going so far as to take the lives of innocents for her goal. Although she is fervent on her ways she is not afraid to learn the truth.
+
+Though Ysayle at first appears to be the zealous leader of the Ishgardian Heretics that the Holy See branded her as, she only desires to end the Dragonsong War and unite dragon and man in peace. While she hates the orthodox leadership for propagating a lie on the origins of the war, Ysayle never wanted Ishgard's total destruction as [[Nidhogg (Final Fantasy XIV)|Nidhogg]] did, only for the truth to be revealed and peace be restored. Her role as the leader of the Heretics shrouds a lonely soul, as after losing her family and people in an avalanche, Ysayle desired only for the warmth of companionship.
+
+As an idealist for peace and for Ishgard to answer for their crimes against dragonkind, Ysayle often gets into arguments with those who prefer to make war upon their foes. As such, she quarrels bitterly with [[Estinien Wyrmblood]]. However, over time, the two come to an understanding after learning the full truth of the Dragonsong War. 
+
+Originally, Ysayle possessed a deep faith in [[Shiva (Final Fantasy XIV)|Saint Shiva]], revering her for her sacrifice in bringing peace between Man and Dragon. Even after her faith is shattered, Ysayle believes that man and dragon can live in peace again.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Lyse
+|image = [[File:Ysyale Triple Triad Card.png]]
+|number = 77
+|total = 21
+|type = None
+|description = "We whom gods and men have forsaken shall be the instruments of our own deliverance!"
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Marcechamp|Marcechamp]], The Dravanian Forelands (31, 23).
+}}
+
+==Behind the scenes==
+===Voice===
+Ysayle is voiced by [[Salli Saffioti]] in the English version. Since the release of the English version of ''[[Final Fantasy XIV: Heavensward|Heavensward]]'', Ysayle is voiced by [[Siobhan Hewlett]].
+
+She is voiced by [[Maaya Uchida]] in the Japanese version. She shares all of her voice actors with her [[Shiva (Final Fantasy XIV)|Shiva]] incarnation.
+
+===Musical themes===
+"Footsteps in the Snow" is a prominent theme that plays whenever Ysayle assumes her Shiva form and played during the first phase of the boss battle. The song is reused in ''Final Fantasy XIV: Heavenward'' during Ysayle's battle against the Garlean Airship. Her boss theme as Shiva is [[Oblivion (song)|Oblivion]].
+{{clear}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Ysayle.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Record Keeper]]''===
+{{main|/Record Keeper}}
+[[File:FFRK Ysayle.png|thumb]]
+{{Quote|Known as Lady Iceheart, Ysayle leads a group of heretics who oppose Ishgard. She possesses the Echo, and can summon Shiva to use her body as a vessel.|Character profile}}
+Ysayle is a playable character who could be initially recruited during the [[Challenge Event]] [[The Dragonsong War - Dreams of Ice]] as a First Time Reward for completing the event's Thok ast Thok stage on Classic difficulty.
+{{Clear}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+Ysayle appears in ''Final Fantasy Trading Card Game'' as Ice-elemental Backup cards.
+
+<gallery>
+LadyIceheart TCG.png|Lady Iceheart [15-030U] Chapter series card.
+Ysayle 6-022R from FFTCG Opus.jpg|Ysayle [6-022R] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Ysayle appears as a [[Triple Triad (Portal App) decks/Y'shtola Normal mode|Normal Mode card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+595a Ysayle.png|Ysayle.
+595b Ysayle.png|Ysayle.
+595c Ysayle.png|Ysayle.
+</gallery>
+
+==Gallery==
+<gallery>
+FFXIV Iceheart concept.png|Concept art.
+FFXIV Dreams of Ice Promo.png|Lady Iceheart and Shiva in a promotion for ''Dreams of Ice''.
+FFXIV Artwork Dreams of Ice.png|Full artwork for ''Dreams of Ice''.
+FFXIV Heavensward Promo.png|Lady Iceheart and Shiva in a promotion for ''Heavensward''.
+FFXIV Ysale 2.png
+FFXIV Ysayle Minion.png|Lady Iceheart minion.
+FFXIV TFDW Ysayle Hraesvelgr.png|Ysayle and Hraesvelgr.<ref name="dramer">''[https://na.finalfantasyxiv.com/lodestone/special/2015/short_stories/?utm_source=lodestone&utm_medium=pc_playguide&utm_campaign=na_2015short_stories#sidestory_02 Tales From the Dragonsong War - The Dreamer and the Dream]''</ref>
+FFXIV TFDW Ysayle.png|Ysayle in Azys Lla.<ref name="dreamer" />
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Summoners]]
+[[Category:Elezens]]

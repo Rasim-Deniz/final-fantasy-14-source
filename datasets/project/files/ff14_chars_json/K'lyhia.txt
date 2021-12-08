@@ -1,0 +1,65 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=K'lyhia
+|release=FFXIV
+|japanese=ク・リヒャ
+|romaji=Ku'rihya
+|aka=Foreseer K'lyhia
+|image=FFXIV K'lyhia 1.png
+|home=[[Limsa Lominsa]]
+|age=
+|dob=
+|affiliation=Arcanists' Guild
+|education=
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=Pink
+|eye=Blue
+|type=npc
+|job={{icon|ffxiv|discipline|arcanist}}
+|abilities=
+|limit break=
+|weapon=Grimoire
+|armor=
+}}
+'''Foreseer K'lyhia''' is a non-playable character from ''[[Final Fantasy XIV]]'', she is an [[Summoner (Final Fantasy XIV)|arcanist]] from Mealvaan's Gate in [[Limsa Lominsa]]. She appears in many arcanist guild quests.
+
+==History==
+[[File:K'lyhia.jpg|thumb|left|K'lyhia in the first class quest of Arcanist.]]
+K'lyhia is an assessor working at Mealvaan's Gate. She was assigned by [[Thubyrgeim]] to oversee the [[Warrior of Light (Final Fantasy XIV)|adventurer]]'s first assignment with a cargo assessment training exercise near Zephyr Drift in Middle La Noscea. The adventurer will later be assigned to assist her in an official inspection of goblin traders suspected of carrying black market goods, which she predicts will turn violent.
+
+At arcanist level 15, she will teach how to summon a [[Carbuncle (summon)#Final Fantasy XIV|Topaz Carbuncle]], in preparation for an upcoming assignment: the inspection of the suspicious merchant vessel ''Morningstar''. Though the crew was subdued, before they can check the cargo, it is discovered to be commandeered by an old nemesis, [[Doesmaga Poisonheart]]. K'lyhia faints from the shock of the encounter, and her grimoire is tossed overboard. It was later revealed that she had previously had been a prisoner of the pirate, and the grimoire was a gift from the guildmaster [[K'rhid Tia]].
+
+After recovering her grimoire from a black market merchant at Oschon's Torch, it was discovered to have been too heavily damaged by seawater to be of use, causing K'lyhia to sink into despair. Thubyrgeim asks to find the absentee guildmaster, seen recently in Upper La Noscea. After following his cryptic tasks, he presents a replacement grimoire for K'lyhia, and asks the adventurer perform a dance emote for her so she knows who it is from.
+
+With her new grimoire and restored confidence, K'lyhia orchestrates a plan to capture Doesmaga off Bloodshore and bring him into Lominsan custody. Following her complex instructions at Costa del Sol to prepare her trap, the adventurer arranges for sneak aboard Doesmaga's vessel, with the adventurer posing as a wine merchant and her as a dancer. After besting him and his men atop the deck of his ship, Doesmaga tried to flee overboard on a lifeboat, only to be cornered by Yellowjackets she had arranged to move in based on her predictions of his moves. With the pirate outlaw now in custody, K'lyhia announces her intent to seek out the guildmaster and leaves on a sailboat.
+
+==Characteristics==
+===Appearance===
+K'lyhia is a female Seekers of the Sun [[Miqo'te]] with pink hair and fur, dressing in a navy blue half-robe, black tights, brown boots and ringbands. Her weapon is a black cover grimoire.
+
+===Personality===
+K'lyhia is shy and bookish, with an intensely ''academic'' understanding of reality and personal relationship.  Her mind is constantly considering strategies, counter plays, stratagems, feints, and potential attack patterns, even for social interactions, and her speech regularly includes reference to her calculated probabilities of various outcomes, including social reactions.  Her guiding star is a quote from the eccentric and wayward guildmaster of the Arcanist Guild, [[K'rhid Tia]]: “Strategy is a tool used to manipulate one’s situation into the desired reality.”  As a result, K'lyhia possesses an incredibly sharp mind for strategy and tactics, though K'lyhia herself admits that she is not always the most apt at applying those strategies in combat, and thus leans on her adventurer friend to help enact her brilliant strategies.  Acting guildmaster [[Thubyrgeim Guldweitzwyn|Thubyrgeim]] believes that K'lyhia's talent for strategy often blinded her to her own emotions.
+
+K'lyhia's experiences at the hands of the pirate Doesmaga and his ilk left her speechless and frozen in terror, even after being rescued from the pirates.  She was lifted out of her terror by K'rhid's gift to her of an arcanist's grimoire, and teaching her the ways of an arcanist, a way to regain control of her reality.  This grimoire became K'lyhia's most treasured possession.  Meeting Doesmaga after those many years, even with the arcanist teachings at her back, left her extremely shaken, and the loss of her precious grimoire doubly so.  After her grimoire is recovered but found to be irreparably damaged, she subsequently falls into a deep depression, stating that her mind is no longer filled with the possibilities and plans of attack.  Only the gift of a new grimoire from K'rhid, nearly identical to her original, restored her confidence, and she returned to being her usual sharp and calculating self.
+
+The defeat and capture of Doesmaga, finally bringing closure to that chapter of her life, opened K'lyhia's eyes to some of the limitations of her previous strategies.  "It is not enough to wish to shape reality; one must also have a complete understanding of the reality one wishes to obtain".  Acting guildmaster Thubyrgeim believes this experience finally awaked her to her "self-imposed fetters", though K'lyhia still retains her highly-analytical personality.
+
+==Gameplay==
+K'lyhia can be seen fighting alongside the adventurer in many arcanist class quests. She is an arcanist who fights with her Topaz Carbuncle.
+
+==Gallery==
+<gallery>
+FFXIV K'lyhia 2.png|Dancing girl render.
+K'lyhia_Arcanist_Guild.jpg|K'lyhia at the Arcanist Guild.
+K'lyhia_&_Topaz_Carbuncle.jpg|K'lyhia in battle.
+K'lyhia_Goblin.jpg|K'lyhia lecturing a goblin.
+K'lyhia_Dancer.jpg|K'lyhia disguised as a [[Dancing Girl (character)|Dancing Girl]].
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Arcanists]]
+[[Category:Miqo'te]]

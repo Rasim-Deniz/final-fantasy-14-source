@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Briardien de Manseauguel
+|release=FFXIV
+|japanese=ブリアルディアン
+|romaji=Buriarudian
+|image=FFXIV Briardien.png
+|affiliation=
+|occupation=Consulting Inspector
+|race=[[Elezen]]
+|gender=Male
+|hair=Silver
+|eye=Blue
+|age=26
+|type=npc
+|job=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|My plan is so flawless that not even your bungling can interfere this time.|Inspector Briardien}}
+'''Inspector Briardien de Manseauguel''' is a [[Non-player character|non-playable character]] in ''[[Final Fantasy XIV|Final Fantasy XIV: A Real Reborn]]''. He was introduced in Patch 2.2. to serve as a rival to [[Hildibrand Manderville]].
+
+==History==
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Briardien introduces himself to Durilda, offering his services in investigating the duelist's threat to steal the Treaty Blade. He later shows up, and much to his annoyance, explains his plan to Hildibrand to catch the thief: distribute several counterfeit Treaty Blades as decoys to lure out the duelist in Coerthas. He reluctantly agrees to let Hildibrand, Nashu, and [[Gilgamesh (Final Fantasy XIV)|"Greg"]] watch the road outside the Observatorium. As Hildibrand and "Greg" argue over who claimed the ''Bradamante'', Briardien concludes the latter's words about winning in duels. He asks the player and allies to deal with the man in red on the big bridge at Griffin Crossing.
+
+With the culprit seemingly dealt, Briardien hands the Treaty Blade to Durilda who departs. The real Durilda walks up, having been waiting on the docks. Briardien finds a discarded mask and realizes they've been had. A calling card is flung through Vesper Bay, landing squarely in Briardien's forehead. The card reveals the thief plans to steal the "lapis maiden's virtue".
+
+Briardien arrives in Costa del Sol offering to help catch the phantom thief at the wedding of Lady Arabelle, based on the previous taunt.{{cite|FFXIV|"A Case of Indecency", added in Patch 2.3.}} As he reviews the key attendants who may be the thief in disguise, Briardien is annoyed to notice that Hildibrand was already attending and fraternizing with the Brass Blades. During their investigation, an unfortunate incident on the beach involving Nashu's bombs and (poor) transcripts of the investigation results in an explosion that Briardien misinterprets as an attempt on his life by the phantom thief.
+
+Later, they learn that the thief tried to attack Arabelle's attendant, Lewenhart, and was wounded in the hand (and thus would be wearing gloves). As wedding goes underway, Briardien tasks Hildibrand with delaying the bride's arrival while he searches for the gloved interloper. Hildibrand appears at the wedding, (poorly) disguised as the bride. He accuses the groom, Vannes, of being the disguised thief based on some dubious logic and is chased off by the Brass Blades. As the [[crossdressing|cross-dressed]] Hildibrand flees, "Vannes" grabs the disguised Arabelle, Briardien noticing he wears a glove on his right hand. The Man of a Thousand Faces steals her necklace and transforms into a white-clad bandit and escapes. They learn the necklace was a treasure called "Azeyma's Virtue", prompting Briardien to note they must take care to read between the lines on the phantom thief's next challenge.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Briardien reappears in the 3.15 Scholasticate side story quest, reuniting with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]].
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Briardien is a Wildwood Elezen with silvery hair. He wears a linen bliaud with white gloves and brown gaskins. He wears glasses, which often sparkle during a close-up.
+
+===Personality===
+In contrast to Hildibrand's buffoonery, Briardien maintains a serious, suave, and professional tone—no matter what situation the former gets him into. He can be arrogant and others may find him insufferable, and is sometimes overconfident about his plans. Unlike Hildibrand, Briardien is skilled at his job, with his intuition and ability at piecing together the situation from evidence rarely steering him wrong. He respects competence in others, finding the Warrior of Light to be one such individual whom he abstains from his condescending demeanor.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

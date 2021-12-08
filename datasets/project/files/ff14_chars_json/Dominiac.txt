@@ -1,0 +1,39 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Dominiac
+|release=FFXIV
+|japanese=ドミニアク
+|romaji= Dominiaku
+|image=FFXIV HW Dominiac.png
+|home=[[Coerthas Western Highlands#The Convictory|The Convictory]]
+|affiliation=[[Ishgard]]
+|occupation=Commanding officer
+|race=[[Elezen]]
+|gender=Male
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+}}
+'''Dominiac''' is a character from ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+Dominiac seeks to help [[Aymeric de Borel|Ser Aymeric]] reform Ishgard but due to lacking noble blood, Dominiac found himself unable to achieve that goal unless acknowledged for a great achievement. Dominiac goes to the Convictory but things do not go as expected becoming a commanding officer. With information from the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Dominiac makes a plan to use weak dragon bodies to lure larger dragons until they can gradually defeat a powerful dragon. Dominiac leaves the execution of the plan to a new recruit in the Convictory, [[Saintrelmaux]] while Warrior of Light assists him. Dominiac remains the Convictory following the progress of the mission.
+
+The body of a wyvern killed by the Warrior of Light is stolen by a nobleman, willing to give in to the nobleman's demands to return the body, Dominiac sends Saintrelmaux in command of a troop to negotiate. The deal ends with a dragon being lured to the body and killing the nobleman, and later the Warrior of Light defeating the dragon. Once all is over, Dominiac informs [[Ishgard]] about the events and decides to change the Convictory to the home of elite fighters.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+Dominiac is a NPC available for Triple Triad matches added in patch 3.0. He is located at [[Coerthas Western Highlands]] (16.6, 22.6). To challenge him the player needs to complete the sidequest {{icon|ffxiv|quest|A War without End}}. 
+
+The matches have the Match Rule Order. The possible rewards for defeating him are {{icon|ffxiv|item|Deepeye Card}} and {{icon|ffxiv|item|Griffin Card}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

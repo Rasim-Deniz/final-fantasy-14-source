@@ -1,0 +1,35 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ayleth
+|release=FFXIV
+|japanese=アイレス
+|romaji=Airesu
+|image=FFXIV HW Ayleth.png
+|home=[[Coerthas Western Highlands#The Convictory|The Convictory]]
+|affiliation=[[Ishgard]]
+|occupation=
+|race=[[Hyur]]
+|gender=Female
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}
+}}
+'''Ayleth''' is a character from ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+Ayleth believed in the Brume. One day her beloved was accused of theft by a nobleman and killed in the ensuing trial. Motivated to change the way things happen, Ayleth realizes that the only way to change that would be from the top. After the [[Calamity]], Ayleth took care of a woman who entrusted her with a ring before she died. Ayleth joins the Convictory to be recognized by Holy See.
+
+With [[Dominiac]] focused on his secret plan to draw and hunt Dravanians by using their corpses, Margyt and Ayleth go against their own and seek the assistance of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Ayleth accompanies the Warrior of Light to where a large dragon was spotted. The Warrior of Light kills the dragon that killed the scouts and collects its tooth. Ayleth runs away with the tooth and tries to trade with a nobleman for status but is deceived and loses the tooth. Regretfully, Ayleth and Margyt descend to change the world together.
+
+The same nobleman who stole the tooth now steals the wyvern body that Dominiac was using in his plan. In an attempt to recover the body, Dominiac sends Ayleth into a troop under [[Saintrelmaux]] to negotiate with the nobleman. During negotiation a dragon is attracted to the body and kills both the nobleman and some knights. After the events, Ayleth reveals the ring and Saintrelmaux recognizes that this was his mother's ring. Glad to hear Ayleth took care of his mother, Saintrelmaux promises that together they will be able to change the world.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

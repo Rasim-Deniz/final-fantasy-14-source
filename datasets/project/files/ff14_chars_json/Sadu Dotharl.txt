@@ -1,0 +1,74 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Sadu Dotharl
+|release=FFXIV
+|japanese=サドゥ
+|romaji=Sadu
+|aka=Sadu Heavenflame
+|image=FFXIV Sadu.png
+|home=[[Azim Steppe]]
+|age=
+|affiliation=Dotharl Tribe
+|occupation=Khatun
+|race=[[Au Ra]]
+|gender=Female
+|hair=Platinum blond
+|eye=Light blue
+|type=npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|abilities=Stellar Chuluu summon
+|weapon=Scintillant Staff
+|armor=Bloodhempen casting set
+|japanese voice actor=Rie Tanaka
+|english voice actor=[[Wikipedia: Beatriz Romilly|Beatriz Romilly]]
+}}
+'''Sadu Dotharl''', also known as '''Sadu Heavenflame''', is a [[non-player character]] from ''[[Final Fantasy XIV: Stormblood]]''. She is the leader of the [[Au Ra|Dotharl]] tribespeople in the [[Azim Steppe]].
+
+==History==
+===Early life===
+As the Dortharl believe that newborn children are the reincarnations of their ancestors, Sadu was given her name when the glimmer of the same great warrior was seen in her eyes. She was raised to be a tremendous fighter, and earned the respect of her fellow kinsmen with her ferocity and absence of any fear.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+
+==Characteristics==
+=== Appearance ===
+Sadu is a Xaela [[Au Ra]] with long pale-blond hair, rich blue skin, and light blue eyes. She wears a Bloodhempen gown of casting, made of blue hempen cloth with long feathers woven into a skirt. Her hand wraps are made of similar feathers, and she wears short blue trousers and golden strapped sandals. In battle, she wields a {{icon|ffxiv|item|scintillant staff}}, a thaumaturge's arm with a crook made of bones.
+
+=== Personality ===
+As a member of the Dotharl, Sadu is very proud of her heritage and tribe's way of life. Though she is happy to explain her tribes' customs and culture to others, she will not suffer anyone questioning and mocking them. In addition, she holds a low opinion of the Oronir, her tribes' rivals. Despite this, Sadu respects strength and power, no matter who they are, such as her newborn friendship with peaceful-yet-resilient Cirina of the Mol tribe.
+
+Most of all, Sadu greatly desires combat, be it one-on-one or during the annual Naadim. She feels great satisfaction whenever a strong opponent provides a challenge. As a result, she is always eager to meet and fight the Warrior of Light, the Azim Steppe's latest Khagan.
+
+Sadu is crass and sharp with her words, using local Steppe insults to tease her opponents and rivals. Much like the rest of her tribe, Sadu is disinterested in abiding by gender expectations, as (per the Dotharl belief of reincarnation) she has lived in past lives as both a man and a woman.
+
+==Gameplay==
+Sadu is engaged as both an enemy and an ally during the {{icon|ffxiv|quest|Naadam}} duty, where she is able to summon large walls known as Stellar Chuluus, which she channels with aether in order to flatten her enemies. After the Dotharl are repelled from the ovoo and invading Garlean forces attempt to engage with the Steppe, Sadu turns her magic on the Imperials and requires protection by the player in order to complete the incantation.
+
+Sadu is fought once again in the first half of the solo instance [[The Will of the Moon]] duty. The first four phases will be straightforward, but the last phase she will summon a meteor which will instantly K.O. if she is not defeated in time. She will summon 3 targetable adds. If one is defeated, she will cast Circle of Lift to revive it, which also consumes roughly 40% of her HP.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Sadu
+|image = [[File:Sadu_Triple_Triad_Card.png]]
+|number = 170
+|total = 21
+|type = None
+|description = “None are braver than the Dotharl, for we do not fear death.”
+|obtain =  Won from [[Final Fantasy XIV Triple Triad players#Munglig|Munglig]], The Azim Steppe (12, 33)
+}}
+
+==Behind the scenes==
+A [[Minion (Final Fantasy XIV)|minion]] of Sadu is obtainable through [[Synthesis (Final Fantasy XIV)|crafting]], though players must progress through the [[Final Fantasy XIV quests/Doman Reconstruction Quests|Doman Enclave Reconstruction]] questline to at least its third stage in order to obtain the materials required.
+
+==Gallery==
+<gallery>
+TFS Magnai Sadu.jpeg|Magnai and Sadu.<ref name="nhaama">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/sidestory_04/#sidestory_04 Tales from the Storm - O Nhaama, Where Art Thou]''</ref>
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Black Mages]]

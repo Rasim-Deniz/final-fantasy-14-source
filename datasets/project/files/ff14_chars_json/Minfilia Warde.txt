@@ -1,0 +1,204 @@
+{{sideicon|prime=FFXIV}}
+{{For|type=the character introduced in ''[[Final Fantasy XIV: Shadowbringers]]''|Ryne}}
+{{infobox character
+|name=Minfilia Warde
+|release=FFXIV
+|japanese=ミンフィリア・ウォード
+|romaji=Minfiria Wōdo
+|lit=
+|aka=Ascilia {{j|アシリア|Ashiria}}, The Word of the Mother {{j|星の代弁者|Hoshi no Daibensha|Voice of the Star}}, Oracle of Light {{j|光の巫女|Hikari no Miko|Maiden of Light}}
+|image=Minfilia NPC Render.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=27
+|dob=
+|affiliation=
+*[[Path of the Twelve]]
+*[[Scions of the Seventh Dawn]]
+|occupation=
+*Acting Antecedent of the Path of the Twelve
+*Antecedent of the Scions of the Seventh Dawn
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Highlander Hyur
+|gender=Female
+|height=
+|weight=
+|hair=Blonde
+|eye=Sapphire
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|miner}}
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+*[[Miyuki Sawashiro]] (''A Realm Reborn'', ''Heavensward'')
+*Yuna Kamakura (''Shadowbringers'')
+|english voice actor=
+*[[Amy Bolton]] (''A Realm Reborn'')
+*[[wikipedia: Zoë Tapper|Zoë Tapper]] (''Heavensward'' onwards)
+|gameplay=
+|gallery=true
+|other appearances=false
+|ffrk=true
+|ffbe=true
+}}
+{{Quote|A woman whose gentle eyes and caring demeanor conceal a steely determination. Amidst the chaos that reigns in the wake of the Calamity, Minfilia seeks to find a hero who will help to usher in an era of enduring peace. She is said to harbor a keen interest in preternatural phenomena.|Official website}}
+'''Minfilia Warde''' is a prominent [[non-player character]] in ''[[Final Fantasy XIV]]''. She was once the leader of the [[Path of the Twelve]], an organization of people touched by the [[Echo (Final Fantasy XIV)|Echo]], and guided walkers of the Path how to use it to bring about peace. She first appeared in [[Final Fantasy XIV storylines#Ul'dah|Ul'dah's main storyline]] as Ascilia, daughter of [[Warburton]].<ref>{{Refwebsite| page url = http://forum.square-enix.com/ffxiv/threads/57049-CG-Midlander?p=936498&viewfull=1| page name = Thread: CG Midlander| site url = http://forum.square-enix.com/ffxiv| site name = Official ''Final Fantasy XIV'' forums| access time = 19:55, July 09, 2019 (UTC)}}</ref> Minfilia somewhat abruptly exited the story as the [[Seventh Umbral Era]] plotline began to take precedence to set up ''A Realm Reborn''.
+
+In the ''Final Fantasy XIV: A Realm Reborn'' re-release, the Path of the Twelve has merged with the [[Circle of Knowing]] to form the [[Scions of the Seventh Dawn]], with Minfilia at the head.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Ascilila Profile.jpg|thumb|Ascilia as young girl.]]
+Minfilia was met as Ascilia when [[F'lhaminn Qesh|F'lhaminn]] handed her a basket of flowers. After the commotion a rampaging [[Goobbue (Final Fantasy XIV)|goobbue]] almost trampled her until her father, Warburton, intervened. He later fell into a coma from his injuries. Desperate to find out who was responsible, Ascilia confronted the man named [[Corguevais]], who had set the goobbue free, but found no solace in their meeting. Warburton perished from his injuries, and Ascilia was taken in by F'lhaminn. The peace was shattered when she learned her new adopted mother was part of the same group that had released the goobbue that killed Warburton.
+
+Allying with the necromancer [[Niellefresne]], Minfilia attempted to find a way to bring her father back from the dead. The plan failed after a mysterious robed man killed Niellefresne.
+
+{{Quote|You have a rare and special gift, {{foot|[adventurer]|first and last names of the adventurer}}, and it is that gift that has led you here to us.|Minfilia}}
+Upon learning of the adventurer's ability to use the Echo, Minfilia offered them to join the Path in working behind the scenes to use this rare talent for peace. After the adventurer joined and chose a Path Companion, Minfilia gave them a few missions, including an investigation into Garlean activities in the [[Sylph]]s' home of [[Black Shroud/Legacy|Black Shroud]] and a dispatch to [[Gridania]] to meet with the [[Ashcrown Consortium]].
+
+[[File:Minfilia Legacy.png|thumb|left|Minfilia talking to the adventurer.]]
+It came to the Path's attention that the [[Garlean Empire]] had labeled [[Eorzea]]'s indigenous Beast Tribes as the enemies of Eorzea, for they mean to summon their [[Primal|"eikons"]] to defy all invaders, including the three city-states.{{cite|FFXIV|Quest "Forever Taken"}} Because walkers of the Path can use the Echo to communicate with the beastmen, they were branded heathens. Sparking controversy within the Path itself, Minfilia implored the walkers to agree to an alliance with the tribes to combat Garlemald.
+
+The majority of the Path responded negatively, fearing that cooperation with Beast Tribes would cast them out of society regardless of Garlemald's declaration. The adventurer and their Path Companion were among the few who followed Minfilia in this radical endeavor, although attempts to sway the [[Amalj'aa]], and their eikon, [[Ifrit (Final Fantasy XIV)|Ifrit]], ended in failure. After a battle between an [[Ala Mhigo|Ala Mhigan]] resistance and the empire ended poorly,{{cite|FFXIV|During the quest "Future's Perfect"}} Minfilia used it as a reminder to the adventurer that Garlemald is simply too powerful for any one city-state, and that an alliance with the Beast Tribes was their only chance.
+
+The [http://www.finalfantasyxiv.com/anniversary/na/detail/memoir_4.html?rgn=na&lng=en Tales from the Calamity] series, posted on the ''Final Fantasy XIV'' Anniversary site, revealed Minfilia had met [[Louisoix Leveilleur]] shortly before the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]]. He warned that if he does not return, she must be prepared to lead others in his stead, and to await "[[Warrior of Light (Final Fantasy XIV)|one who bears the light]]" and shares her gift of the Echo. [[Kan-E-Senna]] later recovered his staff, the [[Tupsimati]], which Minfilia would keep in her solar.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|So you are the adventurer of whom I've heard so much. Well met, friend. My name is Minfilia, and I lead the Scions of the Seventh Dawn. I have awaited your coming. Please, be at ease. You are among friends here.|Minfilia Warde}}
+Following the Seventh Umbral Calamity, the [[Grand Company|Grand Companies]] retain their alliance and focus on rebuilding. The Scions of the Seventh Dawn was formed from the merger of the Path of the Twelve and the Circle of Knowing to deal with the [[primal]]s and aid the Grand Companies fend off the Garleans.
+
+The adventurer (either newly created or a [[Warriors of Light#Final Fantasy XIV|Warrior of Light]]) is directed to the Waking Sands, the Scions' headquarters, upon exhibiting signs of the Echo. Because Minfilia is blessed with the Echo, she is the first to recognize the Warrior of Light (the adventurers who were saved by Louisoix) while all others have forgotten their names and faces. She explains that Louisoix's spell wiped everyone's memories of the survivors, information she also likely gained through the Echo.
+
+Minfilia directs the Warrior of Light on a number of missions as a Scion of the Seventh Dawn, sending them to slay primals as well as to keep the peace. Shortly after [[Titan (Final Fantasy XIV)|Titan]] is slain, a Garlean strike team led by [[Livia sas Junius]] raids the Waking Sands, intent on capturing Minfilia and other Scions to study the Echo. Although they surrender, Livia goes back on her word and kills the remaining personnel while Minfilia, [[Papalymo Totolymo|Papalymo]], [[Tataru Taru|Tataru]], and [[Urianger Augurelt|Urianger]] are taken to Castrum Centri.
+
+[[File:Minfilia hostage.jpg|thumb|Minfilia in Castrum Centri.]]
+After Minfilia proves uncooperative, Livia plans to transfer them to [[Castrum Meridianum]]. As the Garleans ready them for transport, Minfilia warns she would take her own life if any of her friends are harmed. The Warrior of Light and the remaining Scions rescue them and escape the stronghold in [[Cid nan Garlond|Cid's]] ''[[List of airships#Final Fantasy XIV|Enterprise]]''. With [[Gaius van Baelsar]]'s ultimatum issued, Minfilia convinces the leaders of Eorzean city-states to reject it and plan a counter-attack to destroy Gaius's [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]].
+
+[[File:Minfilia New Room.png|thumb|Minfilia in the Scions' new office in Revenant's Toll.]]
+After the Ultima Weapon has been destroyed, the Scions of the Seventh Dawn become too public to remain effectively neutral while headquartered near [[Ul'dah]] and relocate to Revenant's Toll in [[Mor Dhona]], as it is outside the jurisdiction of any city-state. The Warrior of Light tracks down F'lhaminn, who reunites with her foster daughter and stays with the Scions at their new headquarters.{{cite|FFXIV|"A Realm Awoken"}}
+
+Minfilia packs up the Tupsimati in preparation to move when she encounters the [[Ascian]] [[Elidibus (Final Fantasy XIV)|Elidibus]], who expresses his interest in her and the others possessing Echo. He posits their understanding of its true nature could eliminate the conflict between their people. As he turns to leave, Minfilia rushes after him, but he stuns her with dark energy. She dispatches the Warrior of Light to track Elidibus down, and the Ascian restates his belief that the Echo is a gift regardless if the Warrior trusts him or not.
+
+As they settle in their new headquarters, [[Urianger Augurelt]] reveals troubling news: the Isle of Val in [[Dravania]] and their associates in the [[Students of Baldesion]] have seemingly disappeared.
+
+[[File:Minfilia Through the Maelstrom.png|thumb|Minfilia witnesses the arrival of Leviathan.]]
+Minfilia provides the [[Au Ra]] [[Yugiri Mistwalker]] and the [[Doma (Final Fantasy XIV)|Doman]] refugees asylum in Mor Dhona after the Syndicate turned them down. Out of gratitude, the Doman shinobi joins the Scions into the investigation of [[Leviathan (Final Fantasy XIV)|Leviathan's]] summoning.{{cite|FFXIV|"Through the Maelstrom"}}
+
+Unlike in previous circumstances, Minfilia insists on accompanying the other Scions to the Sapsa Spawning Grounds in hopes of understanding what Elidibus meant by "the true nature of the Echo". During the ritual, they observe a [[Sahagin#Final Fantasy XIV|Sahagin]] priest utilizing an advanced form of the Echo where he escapes death from [[Merlwyb Bloefhiswyn|Admiral Merlwyb's]] gunshot by transferring his essence into fellow Sahagin. As the primal Leviathan emerges from the waters, his form begins to dissipate and is absorbed by the Lord of the Whorl.
+
+[[File:Minfilia Krile Alive.png|thumb|Minfilia hearing good news about Krile.]]
+After the defeat of [[Ramuh (Final Fantasy XIV)|Ramuh]], Minfilia and Urianger outline a theory on how the immortal Ascians might be permanently slain by trapping them in the material world.{{cite|FFXIV|WDefenders of Eorzea"}} She learns that her friend [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] of the Students of Baldesion is alive, though in unknown condition. She gives [[Alphinaud Leveilleur]] her blessing to create the Scions new Grand Company, the Crystal Braves.
+
+Minfilia asks the Warrior of Light to aid Alphinaud in managing the Crystal Braves, which is still undermanned.{{cite|FFXIV|"Dreams of Ice"}} When Ser [[Aymeric de Borel]] requests an audience, she gives the go ahead for them to meet with him at Camp Dragonhead. She arrives in Coerthas once the danger of Lady [[Ysayle Dangoulain|Iceheart]] becomes clear, and researches the history of [[Shiva (Final Fantasy XIV)|Saint Shiva]], though the histories are contradicting and uncertain. With Iceheart cutting off pursuit at the Aetheryte in [[Snowcloak]], Minfilia summons an expert on teleportation from [[Sharlayan]] named [[Moenbryda]] for assistance. With Moenbryda's white [[auracite]] enabling pursuit to the Akh Afah Amphitheatre and defeating Shiva, the Scions realize this may be the key they need to combating the Ascian threat.
+
+The Ascian [[Nabriales]] captures Minfilia during his attack on the Rising Stones to steal Tupsimati.{{cite|FFXIV|"Before the Fall"}} The Warrior of Light rescues her, and Nabriales is slain thanks to Moenbryda sacrificing her life to destroy him after he's sealed inside white auracite. Moenbryda's death devastates Minfilia, but she understands she needs to maintain her duties during the upcoming attack on [[Ishgard]] by the [[Dravanian Horde]].
+
+After the city is [[Defense of Ishgard|defended]], she attends a celebration in Ul'dah alongside the other Scions and city-state leaders. They are betrayed by the Crystal Braves, who on behalf the Monetarists assassinate [[Nanamo Ul Namo]] and frame the Scions for the crime. Pursued by a force of both Crystal and Brass Blades, they escape into a secret tunnel through the Sil'dih Aqueducts.
+
+[[File:FFXIV Minfilia's Death.png|thumb|left|Minfilia becoming the Word of the Mother.]]
+The other Scions seemingly sacrifice themselves to allow the Warrior of Light and Minfilia to get away. As they near the end of the tunnel, Minfilia receives a message from [[Hydaelyn (character)|Hydaelyn]] to return to [[Y'shtola Rhul|Y'shtola]] and [[Thancred Waters|Thancred's]] side. Minfilia instructs the Warrior of Light to continue without her, returning to her allies' side before being caught in the energies of Y'shtola's Flow spell. Ending up in the Mother Crystal's realm in the Aetherial Sea, Minfilia offers her body for the weakened Hydaelyn and becomes "The Word of the Mother".
+{{Clear}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|We speak now with one Voice. One Will. One Word. Unto thee we bequeath the most precious of gifts: the truth which lieth at the heart of this world.|The Word of the Mother to the Warrior of Light}}
+[[File:FFXIV Minfilia Returns.png|thumb|Minfilia's body being used by Hydaelyn.]]
+After the Warrior of Light defeats Archbishop [[Thordan VII]] and reunites with Y'shtola and Thancred, the Scions of the Seventh Dawn are joined by Minfilia's close friend, Krile. With her help, the Scions discover the truth of Minfilia's fate in Ul'dah, and attempt to find her with whatever knowledge of the Aetherial Sea they can obtain from the Antitower. The Warrior of Light is transported to the Mother Crystal's realm and learns of Minfilia's new existence as "The Word of the Mother". She reveals the existence of [[Zodiark (Final Fantasy XIV)|Zodiark]], Hydaelyn's dark counterpart, and urges the Warrior to stop the Ascians, sending him or her back to the Source.
+
+Though disheartened to learn of Minfilia's apparent fate, the leading Scions promise to fulfill her wishes and defeat the Ascians once and for all while covering it up by telling their allies that they reached a dead end.
+
+[[File:FFXIV Minfilia The Flood.png|thumb|left|Minfilia's final moments.]]
+Some time later, Urianger manipulates both the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] and the Scions into a confrontation. The power of the crystals held by the Warriors of Darkness combines with that of the Warrior of Light, transporting everyone present into the Mother Crystal's realm. Revealed to have been feigning to be a double agent for the Ascians, Urianger reveals his plan for Minfilia to travel to [[the First]] with the Warriors of Darkness to quell the [[The Flood|Flood of Light]] consuming it. Minfilia agrees with full knowledge that she will likely never return to the Source, bidding farewell to her friends while thanking F'lhaminn for everything she did for her.
+{{Clear}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Minfilia Oracle Art 01.png|thumb|A depiction of a Minfilia reincarnation battling Sin Eaters.]]
+Once on the First, Minfilia sacrifices herself to still the flood from consuming [[Norvrandt]] by placing the [[sin eater]] [[Eden (Final Fantasy XIV)|Eden]] into a deep slumber. This process requires her to absorb the spirits of the Warriors of Darkness, but she rejects [[Ardbert]] as her link to Hydaelyn allows her to see his role in the Warrior of Light's battle against the Ascians.
+
+Following her demise to halt the Flood of Light, Minfilia became revered by the residents of the First as the Oracle of Light. Her time as the Word of Mother had made her an incorporeal being like the Ascians, allowing Minfilia to reluctantly reincarnate herself into numerous young girls. With each vessel's death, Minfilia resurfaces fifteen years later and takes over her current vessel to continue protecting the First. Minfilia's incarnations fought off the sin eaters alongside [[Eulmore]] until the reign of [[Vauthry]], who imprisoned [[Ryne|her current incarnation]] underneath the city. After Thancred rescues her, Minfilia momentarily possesses the young girl and explains her intention of letting the girl assume her place as the Oracle of Light instead of taking over her body, if she is willing to make her own destiny.
+
+{{Quote|If ever you should falter, remember this: no one, however powerful, is immune to the whisperings of doubt and despair. Do not give in to them, but do not deny them either. Look instead to the light within, that you may continue to serve as a beacon to others.|Oracle of Light to the girl}}
+[[File:FFXIV Minfilia x Minfilia.png|thumb|left|Minfilia and Ryne.]]
+When the girl, later named Ryne, decides to awaken as the Oracle of Light, Minfilia appears before her and the Warrior of Light. She elates over the girl's resolve to follow her own path in saving the First. Minfilia leaves the Warrior with cryptic advice concerning them and Ardbert, and then ceases to be while making Ryne her successor.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV Minfilia 3.2.png|thumb|The Word of the Mother.]]
+Minfilia is a [[Hyur#Highlanders|Highlander Hyur]] who keeps her blonde hair in a ponytail with long bangs hanging down the sides of her face. In [[Final Fantasy XIV/Legacy|the original ''Final Fantasy XIV'']], she wore a pink half-top, brown culottes, and fingerless gloves. As she was never seen in battle, she could dress more casually than most characters. In ''A Realm Reborn'', Minfilia shows her toned midriff, and her attire is more decorated. During a trip to the snowy [[Coerthas]], she wears a purple highlander coat.
+
+After becoming the emissary to [[Hydaelyn (character)|Hydaelyn]] in ''[[Final Fantasy XIV: Heavensward]]'', Minfilia wears a simple white dress. Her hair has grown out and her eyes have a strange solid texture and lack pupils.
+
+===Personality===
+[[File:Minfilia ARR.jpg|thumb|left|Minfilia's portrait from ''A Realm Reborn''.]]
+In the original ''Final Fantasy XIV'', Minfilia's official title was "Acting Antecedent" of the Path of the Twelve. Antecedent is a synonym for "predecessor", which implied she was someone with the Echo who came before others, including the [[Warrior of Light (Final Fantasy XIV)|adventurer]], and guided them with the wisdom of seniority. Though wise and diplomatically savvy, her would-be followers often undermined her, including the adventurer's [[Path Companions|Path Companion]]. This showed a lack of formality within the Path of the Twelve, as well as shaky leadership on her part, no matter how sound her ideals may have seemed. Her controversial wish to see the five races join forces with the [[beastmen|Beast Tribes]] against the Empire was never realized.
+
+Five years following the [[Umbral Calamity|Calamity]], Minfilia is shown more respect as the leader of the Scions of the Seventh Dawn, particularly by her peers in the Circle of Knowing. She is more cheerful now that she needn't keep the organization a secret, although she is not aloof to the gravity of the growing conflict. Minfilia is warm and welcoming to the adventurer.
+{{clear}}
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Minfilia
+|image = [[File:FFXIV TT Minfilia.png]]
+|number = 56
+|level = 4★
+|total = 25
+|type = Scion
+|description = "No doubt you're ripe to burst with questions, but have patience-all will be revealed in time."
+|obtain = Won from Gegeruju, Eastern Las Noscea (35,30).<br/>Random from Silver Triad Card.
+}}
+
+==Other appearances==
+{{Main|/Other appearances|t1=Minfilia Warde other appearances}}
+Minfilia has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as an ally and a summonable [[Legend (Airborne Brigade)|Legend]].
+*''[[Minfilia Warde (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Minfilia Warde (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of cards.
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+
+===Other media===
+Minfilia appears on a sticker set for the [[LINE]] communications app. The sticker set she appears in is titled "ファイナルファンタジーXIV.<ref>https://store.line.me/stickershop/product/9085/ja</ref>
+
+<gallery>
+LINE FFXIV Sticker.png|
+LINE FFXIV Sticker2.png|
+LINE FFXIV Sticker3.png|
+</gallery>
+
+==Behind the scenes==
+In ''A Realm Reborn'', Minfilia's original goal of uniting the Beast Tribes would be partially achieved by the adventurer participating in all the Beast Tribe quests added in various patches. This alliance would not be against Garlemald, but rather an unscrupulous and sinister merchant in Ul'dah.
+
+[[File:FFXIV Rising Vendor.png|thumb|Rising Vendor.]]
+The Rising Vendor during the first anniversary of ''A Realm Reborn'' event "The Rising" was a woman who resembled the 1.0 Minfilia. A [[Minion (Final Fantasy XIV)#Wind-up Minfilia|Wind-up Minfilia]] [[Minion (Final Fantasy XIV)|minion]] is among her wares.
+
+Minfilia makes an appearance in the special [[Ultimate Fight Final Fantasy XIV]] trailer, summoned by [[Yda Hext]] to have the Scions of the Seventh Dawn team up on Livia Sas Junius. After the fight Minfilia hogs the spotlight and makes the [[victory pose]] despite not actually participating in the fight, a gag on players' complaints that Minfilia never does anything important despite ostensibly being a major character.
+
+===Voice===
+Minfilia is voiced by [[Amy Bolton]] in the English version of ''A Realm Reborn''. She is voiced by [[wikipedia: Zoë Tapper|Zoë Tapper]] from ''Heavensward'' onwards.
+
+In ''A Realm Reborn'', Minfilia is voiced by [[Miyuki Sawashiro]] in the Japanese version. She shares her voice actress with [[Raffaello]] from the DS version of ''[[Final Fantasy Fables: Chocobo's Dungeon]]'', [[Sice]] from ''[[Final Fantasy Type-0]]'', [[Quistis Trepe]] from ''[[Final Fantasy VIII]]'' as she appears in ''[[World of Final Fantasy]]'', and [[Aranea Highwind]] from ''[[Final Fantasy XV]]''.
+
+==Gallery==
+{{main|/Gallery|t1=Minfilia Warde gallery}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+
+[[es:Minfilia]]
+[[pt-br:Minfilia]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

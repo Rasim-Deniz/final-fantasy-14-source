@@ -1,0 +1,63 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Jehantel Fointeaume
+|release=FFXIV
+|japanese=ジェアンテル・フワントーム
+|romaji=Jeanteru Fuwantōmu 
+|aka=Jehantel the Godsbow
+|image=FFXIV ARR Jehantel.png
+|race=Wildwood [[Elezen]]
+|gender=Male
+|height=
+|hair=
+|eye=
+|age=68<ref name=EE227>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 227</ref>
+|home=[[Gridania]]
+|affiliation=
+|occupation=
+|type=npc
+|job={{icon|ffxiv|discipline|bard}}
+|weapon=Artemis Bow
+|armor=Canvas Shepherd's Tunic
+}}
+
+'''Jehantel Fointeaume''' is non-player character in ''[[Final Fantasy XIV]]''. He appears in the [[Bard (Final Fantasy XIV)|Bard]] questline. Jehantel is a former captain of [[Gods' Quiver]].
+
+==History==
+===Early life===
+Once captain of the [[Gods' Quiver]], Jehantel earned the name "Godsbow" for his almost preternatural skill in archery. It was several decades ago during an expedition to hunt down [[Ixal]] that Jehantel contradicted a direct order and ranged into enemy territory alone. While he was absent, however, his squad was attacked and slaughtered to the last. The gifted bowman spent the days following the ambush wracked by guilt, the regret eventually driving him away from the Gods' Quiver and into a life of aimless wandering. 
+
+Jehantel returned to the [[Black Shroud|Twelveswood]] many years later, claiming to have embraced the calling of a simple minstrel, and it is through his rebirth as a bard that the secrets of forgotten battlesongs have returned to the land.<ref name=EE227/>
+
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+After Jehantel's return, several members of the Gods' Quiver wanted to become his disciples, but they all returned disappointed because Jehantel offered to teach them poetry and verse. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] agreed to listen to Jehantel's teachings. Jehantel introduces a moogle named Pukno Poki and the Warrior of Light helps Pukno Poki recover a stolen charm. Jehantel explains that the recovered item is known as the Soul of the Bard and invites the Warrior of Light to become a bard. 
+
+Jehantel teaches about the origin of bards and various ways to learn melodies. Jehantel spots an Ixali van and a battle begins. Jehantel remembers his fallen companions and is unable to shoot with his bow. Later Jehantel explains that due to the death of his companions he could never again summon the will to bend back his bow.
+
+Jehantel declares that the Warrior of Light deserves the choral attire, which he received from Pukno Poki when they first met in Twelveswood. But because he has lost the will to live, Jehantel has scattered his robes across the land. 
+
+[[File:FFXIV 1x Jehantel requiem.png|thumb|Jehantel sings a requiem in version 1.0.]]
+After long years, Jehantel has finally mustered the courage to confront his inner demons and invites the Warrior of Light to accompany him on a pilgrimage to the scene of his regiment's death. Once arriving at Griffin Crossing in [[Coerthas Central Highlands]], the Warrior of Light leaves a bouquet of Nymeia lilies. The place is attacked by Ixals and faced with the prospect of losing another beloved companion, Jehantel manages to shoot it with his bow. And after long years of regret and crushing guilt, the bard is finally able to sing a requiem for his fallen comrades. Thanks to the inspiring presence of the Warrior of Light, Jehantel has decided to give what he can to the Gods' Quiver and live fully for the years he has left. 
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gameplay==
+Jehantel is an ally NPC during the level 50 Bard quest {{icon|ffxiv|quest|Requiem for the Fallen}}.
+
+==Gallery==
+<gallery>
+FFXIV Jehantel.png|Jehantel in version 1.0.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Bards]]

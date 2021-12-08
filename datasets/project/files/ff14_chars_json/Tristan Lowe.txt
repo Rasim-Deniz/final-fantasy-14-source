@@ -1,0 +1,54 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Tristan Lowe
+|release=FFXIV
+|japanese=トリスタン・ローウ
+|romaji=Torisutan Rōu
+|aka=Tristan Nightflicker
+|image=FFXIV Tristan.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=White
+|eye=Red
+|age=27
+|affiliation = 
+|occupation = 
+|type=npc 
+|job={{icon|ffxiv|discipline|summoner}}
+|weapon=Ifrit's Grimoire 
+|armor=Evoker Attire
+}}
+'''Tristan Lowe''', also known as '''Tristan Nightflicker''', is a [[non-player character]] from ''[[Final Fantasy XIV]]''. A summoner clad in dark garb, he is the antagonist of the [[Summoner (Final Fantasy XIV)#Summoner|Summoner]] job quest storyline.
+
+==History==
+Tristan is a mysterious Dark Summoner who attacks the [[Warrior of Light (Final Fantasy XIV)|adventurer]] and [[Y'mhitra Rhul|Y'mhitra]] shortly after they acquire Titan-egi. Demanding they hand over something he claims to belong to him, they drive him off and retreat. Y'mhitra later learns he was a man named Tristan, but when attempting to investigate his background near Little Ala Mihgo one of his thugs attacks the adventurer.
+
+[[File:Tristan and Ascian.png|thumb|225px|Tristan meeting with the Ascian.]]
+They corner him at the Singing Shards of [[Mor Dhona]], where he is making deals with an [[Ascian]]. Handing over several relics, the Ascian imparts him knowledge of an ancient [[primal]], [[Belias#Final Fantasy XIV|Belias]], which he summons in egi form to attack the adventurer and take the [[Soul Crystal (Final Fantasy XIV)|Soul Crystal]]. During the battle he absorbs the egi to empower himself. Once defeated, Tristan rants how he needs this power to destroy the primals. He reveals he was once a member of the Brass Blades, and was forced to execute his brother who was [[Enthrall|tempered]] by [[Ifrit (Final Fantasy XIV)|Ifrit]]. After revealing his past, Tristan summons Ifrit-Egi to kill himself in an explosion in front of the adventurer and Y'mhitra.
+
+==Characteristics==
+===Appearance===
+Tristan is a male [[hyur]] midlander with white hair and tanned skin. He wears the Evokers attire dyed a black color.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+[[File:Tristan and Belias XIV.jpg|thumb|right|190px|Tristan summoning Belias-Egi.]]
+Tristan is a Summoner and uses a variant of Ifrit's Grimoire as his weapon in battle.
+
+Tristan Nightflicker is fought as a boss during the {{icon|ffxiv|quest|Primal Burdens}} Summoner job quest. During the first phase Tristan is accompanied by the Belias-Egi. When Belias-Egi is out on the battlefield, Tristan will only cast [[Ruin (ability)|Ruin]] and [[Ruin II]] and use Rouse to boost Belias-Egi's attack power.
+
+After Belias-Egi has been defeated, Tristan will absorb the its power and begin using Rotten Meat and Armageddon, a variant of the Starstorm [[Limit Break (Final Fantasy XIV)|limit break]]. He will call an Onyx Claw to cast both [[Fire II]] and [[Fire III]] on the player.
+
+==Gallery==
+<gallery>
+Tristan Defeated.png|Tristan defeated.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Summoners]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]

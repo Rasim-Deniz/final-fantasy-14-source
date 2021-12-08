@@ -1,0 +1,125 @@
+{{sideicon|prime=FFXIV|TFFASC|FFRK|FFTCG}}
+{{DISPLAYTITLE:Titan (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Titan
+|release=FFXIV
+|japanese=タイタン
+|romaji=Taitan
+|aka=Lord of Crags
+|image=Titan XIV CG.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|boss page=Navel
+|recurring appearance=Titan
+}}
+{{Quote|The indomitable will of the earth made manifest, beloved of the kobold clans.<br />Compassionate and gentle, Titan is as a father to his tunnel-dwelling worshippers. But woe betide those fool enough to provoke this colossus─for when his anger is waked, the very earth trembles and heaves under the unstoppable fury of his mountainous bulk.|Official Site description}}
+'''Titan''' is the [[primal]] of the [[Kobold (Final Fantasy XIV)|Kobold]] [[Beastmen|beast-tribes]] in ''[[Final Fantasy XIV]]'', also known as the '''Lord of Crags''' {{j|岩神|Ganshin}}. He is encountered as a [[boss]] a number of times in ''A Realm Reborn.''
+
+Though Titan along with [[Leviathan (Final Fantasy XIV)|Leviathan]] were originally planned to appear in [[Final Fantasy XIV/Legacy|Version 1.0+]], due to real-life circumstances they did not debut until the game was rebooted as ''A Realm Reborn''.
+
+{{See|Titan}}
+
+==History==
+[[File:Titan XIV.jpg|thumb|left|Titan.]]
+Titan awakens shortly after the [[Warrior of Light (Final Fantasy XIV)|adventurer]] investigates the incidents at [[Haukke Manor]]. Meeting with Admiral [[Merlwyb Bloefhiswyn]] at [[Maelstrom (Final Fantasy XIV)|Maelstrom]] headquarters, she admits to both the adventurer and [[Y'shtola Rhul|Y'shtola]] that she broke the treaty with the Kobolds as part of the efforts to rebuild after the [[Seventh Umbral Era|Calamity]], which has prompted the summoning of the primal.
+
+Seeking out of the Company of Heroes who slew the Lord of Crags when he was first summoned years ago, the veteran members set up a long list of minor tasks—culminating in a banquet for Master [[Gegeruju]]—to test the adventurer's resolve in defeating the primal. After learning all the crucial information needed, Y'shtola rigs an [[Aetheryte]] set up by Kobolds in [[Upper La Noscea]] to access The Navel where the god of the Kobolds await.
+
+Upon entering the vast underground chamber, the Lord of Crags chastises the adventurer for ignoring the pleas of his children, before noticing that [[Ifrit (Final Fantasy XIV)|Ifrit]] has already been slain. Condemning the sons of man, Titan engages the adventurer before being banished back to [[aether]]. As they turn to leave, Y'shtola notices several [[Garlean Empire|Garlean]] officers spying on the fight.
+
+Titan returns at the Howling Eye, where [[Garuda (Final Fantasy XIV)|Garuda]] forces captured Kolbolds and [[Amalj'aa]] to summon him and Ifrit under torture so that [[Gaius van Baelsar]] can have the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]] absorb the three primals one by one. Following the Ultima Weapon's destruction, the Kobolds summon Titan once more before the adventurer uses the Aetheryte set up in U'ghamoro Mines to banish the primal once again. As the adventurer discovers a mysterious ritual focus, the Kkobolds continue their attempts to summon Titan, as they are urged by the [[Ascian]]s to conjure Titan with greater amounts of aether in their despair.
+
+Titan is summoned again when the second Order Patriarch Za Da began to sacrifice his own people to summon their god, but the primal is summoned by the despair-filled emotions of a Koboldling named Ga Bu who could not save his parents from being slaughtered.{{cite|FFXIV|Soul Surrender}} Titan acts on Ga Bu's feelings of rage and attacks human and Kobold alike before being defeated by the adventurer once more.
+
+==Gameplay==
+===Boss===
+{{main|The Navel}}
+Titan is fought as a boss three times at {{icon|ffxiv|duty|the Navel}}: first midway through the main scenario, then in a Hard version in a sidequest, and finally an optional Extreme battle. While the latter two versions are fought at [[level]] 50 with a full party of eight, the initial storyline fight is at level 34 with only four players.
+
+{{icon|ffxiv|duty|The Navel (Hard)}} is required to restore a [[Relic Weapon (equipment)|Relic Weapon]], and the later main scenario quests starting from "Before the Fall" require it—along with {{icon|ffxiv|duty|The Bowl of Embers (Hard)}} and {{icon|ffxiv|duty|The Howling Eye (Hard)}}—to have been previously completed.
+
+Completing {{icon|ffxiv|duty|The Navel (Extreme)}} is optional, and grants the achievement "Earth to Earth."
+
+Titan also appears as a mechanic in the fight against the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]] in {{icon|ffxiv|duty|The Praetorium}}, which uses him along with Ifrit and Garuda to perform combination attacks. In both fights, he is the second primal to be ejected from the Weapon.
+
+Titan appears as one of the bosses in {{icon|ffxiv|duty|The Weapon's Refrain (Ultimate)}}, with mechanics even harder than extreme or Eden 4 Savage.
+
+===Summon===
+[[File:Titan-Egi.jpg|thumb|Titan-Egi.]]
+The [[Summoner (Final Fantasy XIV)#Summoner|Summoner]] job can summon Titan-Egi as melee combat pet. It is unlocked in the Level 35 job quest "Austerities of Earth," after defeating the Egi. It replaces Topaz Carbuncle.
+{{clear}}
+
+==Other appearances==
+===''[[Theatrhythm Final Fantasy All-Star Carnival]]''===
+[[File:TFFASC Primal Titan.jpg|thumb|150px]]
+{{Enemy section|Theatrhythm Final Fantasy All-Star Carnival}}
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Titan FFXIV.png|thumb]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:PrimalTitan TCG.png|thumb|100px]]
+Titan appears as an Earth-elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Titan appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+386a Titan.png|Titan.
+386b Titan.png|Titan.
+386c Titan.png|Titan.
+</gallery>
+
+===Other media===
+Square Enix's [[Eorzea Cafe]] served a dish called "Big hamburger of Titan" whose description translates to: ''A burger reminiscent of the imposing Titan, packed to the brim with goodness. Eat it adventurer style by holding it firmly in place before taking a big bite. Place it under the weight!''
+
+==Etymology==
+{{Etym|Titan}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]
+[[de:Titan (FFXIV)]]

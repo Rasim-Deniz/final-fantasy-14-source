@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Drake Rhodes
+|release = FFXIV
+|japanese =ドレイク・ローズ 
+|image =FFXIV Drake Rhodes .png
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Brown
+|eye = Green
+|designer = 
+|age =23<ref name=EE208>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 208</ref>
+|type=npc
+|job = {{icon|ffxiv|discipline|blacksmith}}
+|weapon =
+|armor = 
+|romaji =Doreiku Rōzu 
+|affiliation =  
+|occupation =  
+|lit=Drake Rose
+}}
+Drake Rhodes is a non-playable character in [[Final Fantasy XIV|''Final Fantasy XIV'']] where he serves as [[Gerolt Blackthorn|Gerolt's]] apprentice.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Drake serves under Gerolt Blackthorn as his assistant, he helps produce kettles and armor that are sold all around Eorzea. 
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Drake appears within the Eureka instance pyros and hydatos where he assists the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in understanding logos actions and the logos manipulator. 
+
+==Characteristics==
+=== Appearance ===
+Drake is a midlander hyur with short brown hair and green eyes. He wears a gray vest with white trimmings and blacksmith gloves.
+
+=== Personality ===
+Drake is considered a genius weaponsmith and patient enough to learn skills from Gerolt by just watching him.
+
+== References ==
+{{citations}}
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Blacksmiths]]

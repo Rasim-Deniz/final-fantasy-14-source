@@ -1,0 +1,99 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=A-Ruhn-Senna
+|release=FFXIV
+|japanese=ア・ルン・センナ
+|romaji=A Run Senna
+|image=FFXIVARR A-Ruhn-Senna.png
+|home=[[Gridania]]
+|age=18
+|dob=
+|affiliation=[[Stillglade Fane]]<br/>[[Order of the Twin Adder]]
+|occupation=Seedseer
+|race=[[Padjal]]
+|gender=Male
+|hair=Red
+|eye=Green
+|type=npc
+|job={{icon|ffxiv|discipline|white mage}}
+|weapon=Staff
+|designer= [[Ayumi Namae]]
+}}
+{{Quote|We all of us can accomplish far more than we dare imagine.|A-Ruhn-Senna}}
+'''Seedseer A-Ruhn-Senna''' is a [[non-player character]] from ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. He is featured most prominently in the quest line for [[White Mage (Final Fantasy XIV)|White Mages]] and appears in a few major scenes in [[Gridania]]. He is the younger brother of [[Kan-E-Senna]] and [[Raya-O-Senna]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+E-Sumi-Yan asks the Warrior of Light to protect Raya-O-Senna and A-Ruhn-Senna who are on their way to Everschade, where they would perform a ritual to contain the fury of the great elemental that dwells within the Guardian Tree. Joining the two Seedseers, the Warrior of Light helps them in battle against hostile forest creatures. After the crystallized soul of [[A-Towa-Cant]], a legendary Padjal who left the forest to wander the world appears and grants the Warrior of Light the power of the White Mage, Raya-O-Senna becomes convinced that the Warrior of Light's arrival was ordered by the legendary A-Towa-Cant, and wishes him to join her and her brother in realizing the Quieting and restoring peace to Twelveswood. 
+
+Although A-Ruhn is against the idea, Raya-O decides to train the Warrior of Light in the art of white magic. A-Ruhn not convinced by his sister's words, escapes to the Bramble Patch on his own to prove that the Warrior of Light's powers are not necessary. Raya-O-Senna, fearing for her brother's safety, requests that the Warrior of Light go looking for him. Only after suffering injuries in his reckless quest to appease the forest alone and witnessing the Warrior of Light communicating with an elemental, A-Ruhn accepts the Warrior of Light's participation in the ritual.
+
+As the three commence the ceremony, they are again attacked by the minions of the Guardian Tree, but the soul of A-Towa-Cant manifests for long enough to help fend them off. After imparting to the siblings words of wisdom, he returns to the soul crystal, and fully restores the power in the Healer's Robe. Raya-O reconciles with A-Ruhn, admitting that both his proud sense of tradition and A-Towa's sense of freedom are much-needed perspectives for the Padjal.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Seedseer Siblings bringing Y'shtola back.png|thumb|right|Kan-E-Senna, Raya-O-Senna, and A-Ruhn-Senna bringing Y'shtola back from the Lifestream.]]
+At the Guardian Tree, A-Ruhn-Senna and Raya-O-Senna assist Kan-E-Senna in extracting [[Y'shtola Rhul]] from the Lifestream following her use of forbidden magic in the aftermath of the [[Ul'dahn Revolution]].
+
+A-Ruhn-Senna is also involved in the new White Mage job quests. The Guardian Tree has begun warning of a "taint," and the last time such an event happened, it prompted A-Towa-Cant's legendary pilgrimage.
+
+The Warrior of Light and [[Eschiva]] later bring back a hunk of tainted flesh after their confrontation with [[Alaqa]]. The Seedseers remind they are duty-bound to remain in the Twelveswood, leading to Eschiva lashing out at them for dithering in the face of a crisis. These words seemed to affect Raya-O-Senna, who begins to wonder if it is time for them to make a journey outside the woods.
+
+In the level 60 WHM quest, "Healing Hands," Raya-O-Senna and A-Ruhn-Senna make their first trip outside the Twelveewood, where they travel to the [[Dravanian Forelands]] where Eschiva and the Warrior of Light last encountered Alaqa. They sense the taint is centered on the caverns of Mourn.
+
+Within the volcanic caves, the four confront the Auri necromancer, who states this is for vengeance on how her people had been treated in the past. The taint is used to sustain a zombie dragon, which is resilient to being killed. The solution is to cleanse the tainted aether using White Magic, though the process takes several tries as the undead dragon keeps resurrecting. Eventually the taint is purified, allowing the zombie to slain for good. Alaqa surrenders at this development, and is taken back to Gridanian custody.
+
+With the crisis averted, A-Ruhn-Senna decides to follow A-Towa-Cant's footsteps by undertaking a pilgrimage across the world, with Eschiva as his bodyguard.
+
+==Characteristics==
+===Appearance===
+[[File:A-Ruhn-Senna FFXIV Art.jpg|thumb|150px|Artwork.]]
+As a [[Padjal]], A-Ruhn has the tell-tale horns. He has bright red hair, though his bangs cover his eyes. His off-white robes are similar to Raya-O's, though slightly thicker.
+
+===Personality===
+Though older than he looks, A-Ruhn's status as the youngest of the Senna siblings shows in his stubborn pride as a Padjal, which often puts him in disagreement with his more flexible sister, Raya-O. His interactions with Kan-E are seldom witnessed, as her duties as Elder Seedseer keep her occupied.
+
+He is respected by Gridania as a medium between mankind and the [[Elementals (Final Fantasy XIV)|Elementals]] of the [[Black Shroud]].
+
+==Gameplay==
+===Battle===
+A-Ruhn-Senna appears in a number of White job quests as an ally NPC.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Raya-O-Senna & A-Ruhn-Senna
+|image = [[File:FFXIV TT Raya-O-Senna & A-Ruhn-Senna.png]]
+|number = 44
+|level = ☆☆☆
+|total = 23
+|type = None
+|description = "My name may be unfamiliar to you, but doubtless you know of my sister. That would be Kan-e-Senna, Elder Seedseer of Gridania and supreme commander of the Order of the Twin Adder. Together, we are known as the three Seedseers─my sister, myself, and our younger brother, A-Ruhn-Senna."
+|obtain = Won from Buscarron, South Shroud (17,20).<br/>Buy from Triple Triad Trader for 4,800 MGP.
+}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:A-Ruhn-Senna 4-050R from FFTCG Opus.jpg|right|100px|A-Ruhn-Senna [4-050R] Opus series card.]]
+A-Ruhn-Senna appears in ''Final Fantasy Trading Card Game'' as a Wind-elemental Backup card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+A-Ruhn-Senna appears alongside Raya-O-Senna on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+515a Raya-O-Senna & A-Ruhn-Senna.png|A-Ruhn-Senna and Raya-O-Senna.
+515b Raya-O-Senna & A-Ruhn-Senna.png|A-Ruhn-Senna and Raya-O-Senna.
+515c Raya-O-Senna & A-Ruhn-Senna.png|A-Ruhn-Senna and Raya-O-Senna.
+</gallery>
+
+==Gallery==
+<gallery>
+FFXIV TFT Senna siblings.jpg|Raya-O-Senna, Kan-E-Senna, and A-Ruhn-Senna in ''Tales from the Twilight: True of Heart''.<ref name="heart">{{ref |id=heart|author= |date= |title=Tales from the Twilight: True of Heart|url=https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_twilight/sidestory_04/#sidestory_04|publisher=Square Enix|access-date=30th September 2021}}</ref>
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Padjals]]
+[[Category:White Mages]]

@@ -1,0 +1,40 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Redwald Younge
+|release=FFXIV
+|japanese=レッドワルド・ヤング
+|romaji=Reddowarudo Yangu
+|image=FFXIV Redwald.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=
+|eye=
+|age=37
+|home=[[Coerthas Western Highlands#Falcon's Nest|Falcon's Nest]]
+|affiliation=[[High Houses of Ishgard#House Durendaire|House Durendaire]]
+|occupation=Falcon's Nest Commander
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+|weapon=
+|armor=
+}}
+'''Ser Redwald Younge''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the one who commands the garrison at [[Coerthas Western Highlands#Falcon's Nest|Falcon's Nest]].
+
+== History ==
+After the calamity, Falcon's Nest Camp was abandoned and Redwald is charge of commanding Falcon's Nest and has two main duties: rebuilding the old camp and looking for heretics.
+
+When a reconnaissance group sent north to Riversmeet in search of the heretics' refuge disappears, Ser Redwald sends several search teams to search for the missing knights. Among the envoys, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and Lord [[Artoirel de Fortemps]] find and rescue the only missing person who is still alive at the hands of the heretics.
+
+== Characteristics ==
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+==Etymology==
+{{Etym|Redwald of East Anglia}}
+
+{{navbox FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Paladins]]

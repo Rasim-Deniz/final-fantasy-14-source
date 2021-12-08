@@ -1,0 +1,82 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Guydelot Thildonnet
+|release = FFXIV
+|japanese =ギドゥロ・ティルドネ 
+|image =Guydelot Thildonnet.png
+|race = [[Elezen]]
+|gender = Male
+|hair = Black (Aqua streaks)
+|eye = Blue
+|age = 22
+|job = {{icon|ffxiv|discipline|bard}}
+|weapon = * Oak Composite Bow
+* Maple Longbow
+*Bow of the Wanderer
+|armor = * Serpent Sergeant gear
+* Saurian Aiming gear
+* Augmented Shire gear
+|romaji =Giduro Tirudone 
+|affiliation = [[Gridania|Gods' Quiver]]
+|occupation = 
+|type=npc
+|home = [[Gridania]]
+|lit=Guidulo Tildoné
+|aka=Guydelot the Spent}}
+{{Quote|... And [[Sanson Smyth|Sanson the Stiff]] has no soul.♪|Guydelot}}
+
+'''Guydelot Thildonnet''', also known as '''Guydelot the Spent''', is a non-player character in ''[[Final Fantasy XIV: Heavensward]]''. He appears as a supporting character in the {{icon|ffxiv|discipline|bard}} storyline.
+
+== History ==
+===Early life===
+Like many [[Gridania]]n archers, Guydelot aspired to join the Gods' Quiver. Upon realizing his heart's desire, however, he found that the strict rules and traditions of the organization were at odds with his carefree upbringing. Thus is was that he earned a reputation as the recruit with commendable skill but lamentable discipline. Seemingly fated to languish in the lower ranks of the Gods' Quiver, he one day chanced to meet the roving minstrel [[Jehantel Fointeaume|Jehantel]]. The romance of the old battlesongs captured Guydelot's imagination, and it was not long before the young Elezen had embraced the mellifluous world of the bard.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Guydelot is first met after rescuing [[Sanson Smyth]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] from frenzied creatures of the forest, accompanied by the moogle [[Pukno Poki]]. Though Guydelot said that he hopes they "botch the trial" (a statement proudly provided by Pukno Poki), he was impressed by the Warrior of Light's combat, and is eager to join their adventure for the Ballad of Oblivion. Guydelot recognizes Sanson as a stuck-up officer who will be impossible to work with, insisting to Jehantel that he and the Warrior of Light can find the Ballad themselves. Sanson begrudgingly agrees to Guydelot's assistance, and with Jehantel's reassurance, Guydelot concedes just the same. After Sanson reports to the Gods' Quiver, the three of them travel north to [[Ishgard]].
+
+Upon their arrival in Ishgard, Sanson is determined to get to work, but Guydelot decides to take his time and enjoy the city. Frustrated with his lack of professionalism, he follows Guydelot to [[Coerthas Western Highlands|Falcon's Nest]] to prevent him from misbehaving. They discover that Guydelot had run into the frozen wasteland to find a knight, and they come upon him rescuing his party from a [[Dravania|draconic]] attack. He delivers a gift to one of the knights, Ser Alamenain, which is a surprise from his lover in Ishgard telling him that he is going to be the father of her child. The knights thank Guydelot for his quick action, though Sanson instead focuses more on the possibility of Ser Alamenain knowing of the Ballad of Oblivion. As they wait for Ser Alamenain to direct them to a knight who knows a song that delivers souls to the heavens, Guydelot composes a song, to which he proclaims "Sanson the Stiff has no soul".
+
+Guydelot attempts to speak with Celaine, though when she is hesitant to sing for them, he drops the conversation and doesn't wish to pester her any further. Sanson tries to coax it out of her, requesting the trio accompany her on an upcoming mission at Twinpools. The Warrior of Light and Guydelot provide support by taking out several enemies, though Celaine's unit suffers heavy losses. She sings to her fallen comrades a song of mourning, but it is revealed that the song she sings is merely a Halonic requiem sung for the lost, and not a powerful song like the Ballad of Oblivion. Sanson realizes his error and apologizes for trying to force Celaine to relive the sadness of her lost comrades. Celaine directs them to [[The Dravanian Forelands|Tailfeather]] to speak to a man named Sylviel who may know more of the Ballad they seek.
+
+In Tailfeather, a sellsword rushes into the village seeking help, for Sylviel's excavation party is under attack in [[Gnath]] territory. As it seems the huntsmen of Tailfeather don't want to risk themselves to save one researcher, Guydelot calls the lot a bunch of 'craven bastards' as he, the Warrior of Light, and Sanson rush to save him. Reuniting in Tailfeather, a huntsman approaches the party and apologizes for their inaction to saving Sylviel, for many of Tailfeather tend to care only for themselves due to the competitive nature of their work. 
+As Sylveil departs to study the Ballad of Oblivion, Guydelot ponders if the Ballad is simply a fairy tale, and that it would be best to return to Gridania to pursue other avenues. Sanson reprimands him for wanting to abandon his mission, and tells him that the Gods' Quiver see both of them as thorns in their sides, and they hope that they come back empty handed so they can dismiss Guydelot and keep Sanson at his lower station. Guydelot leaves the party, angry that Sanson only cares to find this Ballad to improve his rank and not support bards like him and the Warrior of Light.
+
+As Sanson and the Warrior of Light embark to the [[The Churning Mists|Churning Mists]], Sylviel tells the Warrior of Light that Guydelot had been secretly watching the two of them, to see if they would leave without him, or look for him. Guydelot appears frustrated, unsure of how to apologize to Sanson for his own reaction.
+
+At the Churning Mists, Sanson and the Warrior of Light join [[Mogta]] to try and find the Ballad of Oblivion. Mogta, who had been speaking to Guydelot secretly, suggest to the Warrior of Light that they show him Sanson's journal, which the moogle "borrowed", to prove to Guydelot that Sanson regrets his actions too, and that he is still thinking of Guydelot as an important part of their team. 
+
+Sasnon's party finally makes their way to the [[Sea of Clouds]] with an airship provided by Gridania. They arrive at a stone edifice, to which Sanson accidentally unleashes a dangerous creature called [[Siren|Ligeia]]. She sings a terrible melody, revealed to be the Ballad of Oblivion. As Sanson tries to send the Warrior of Light and Mogta away so that he may face the beast alone, Guydelot appears, playing a delicate, healing melody to counter the Ballad. He chides Sanson for trying to impress people, and reminds him that the fervent desire to aide those around them is what empowers a bard's song. Together, the four of them defeat Ligeia, and put an end to the Ballad for good.
+
+Guydelot reveals that he boarded the airship with them secretly, and that he had been reflecting on himself over Sanson's journal and how Sanson's goals were far more earnest than he expected. The two of them realize they can compose their own Ballad of Oblivion, and request that the Warrior of Light provide inspiration as well.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+With a newly established unit of bards, Sanson enlists the help of the Warrior of Light to inspire the new recruits on their first mission, in order to ensure success and high morale. With Guydelot's transfer into the unit, he is certain that their success is all but guaranteed.
+
+Their first mission is regarding an anonymous letter penned to the Twin Adders about the secret truths of the [[Autumn War]]. Guydelot considers it little more than an errand, and accuses Commander [[Vorsaile Heuloix]] of looking to claim any success of theirs under the rug. Sanson reprimands him for speaking to a superior officer in such a manner.
+
+{{Character section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+{{icon|ffxiv|quest|a harmony from the heavens}}
+{{Character section|Final Fantasy XIV}}
+
+==Characteristics==
+=== Appearance ===
+Guydelot is a Wildwood [[Elezen]] with brown hair and aqua colored highlights. He has blue eyes and is first seen wearing a tunic with a red hood and sleeves, Demagogue Halfgloves, Serpent Sergeant's Trousers and Moccasins. Later on, he changes his outfit with a Saurian Tabard of Aiming, Saurian Boots of Striking, Infrantry Gloves, and a Cashmere Skirt of Striking. 
+
+Guydelot's third outfit consists of Eikon Cloth Culottes of Aiming, Augmented Shire Conservator's Coat dyed turquoise green, Shire's Conservator's Gloves, and Conservator's Thighboots.
+
+=== Personality ===
+Guydelot is a talkative and playful individual, who can tell easily when he's irritating someone, gleefully continuing to push their buttons. He is laid back, flirtatious, and often comes across as either lazy or uninterested in important tasks at hand. His attitude serves as a shield at times, for when others are in danger or his close companions are hurt, Guydelot is quick to act on their behalf, often to self-sacrificial lengths. His relaxed personality often puts him at odds with the more professional Sanson Smyth, though the two learn to work their differences.
+
+== Gallery ==
+<gallery>
+FFXIV_Guydelot.png|Guydelot's first appearance.
+FFXIV_Guydelot_2.png|Guydelot's second appearance.
+FFXIV_Sanson_Guydelot.png|Sanson and Guydelot arguing.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Bards]]

@@ -1,0 +1,42 @@
+{{sideicon|prime=FFXIV}}
+{{Expand}}
+{{Infobox_character
+|name = Wandering Dramaturge
+|japanese = 異邦の劇作家
+|romaji = Ihō no Gekisakuka
+|lit = Foreign Dramaturge
+|release = FFXIV
+|image = FFXIV WanderingDramaturge.png
+|affiliation = Majestic Theater Company
+|occupation = Playwright
+|race = Hyur
+|gender = Male
+|height = 5'9" (71.6 in.)
+|hair = Brown
+|eye = Olive
+}}
+{{Quote|Touché! I shall leave you to your devices, then!|Wandering Dramaturge}}The '''Wandering Dramaturge''' is a [[non-playable character]] in [[Final Fantasy XIV|''Final Fantasy XIV'']]. He appears on the ''Prima Vista'' in the [[Return to Ivalice]] raid series.
+
+== Profile ==
+=== Appearance ===
+The Wandering Dramaturge is dressed in [[Ivalice|Ivalician]] astrologer's gear, and has brown hair and olive eyes. When he is cooking bread he wears the Galleyking's set and has his hair tied up in a knot.
+
+=== Personality ===
+The Wandering Dramaturge can be demanding, requesting the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to fetch wine or bacon bread. He is knowledgeable on the history of [[Dalmasca]] and its current state. He is married to the Company Belle, and if not for him, she would've traveled down a path of deep regret.
+
+== Story ==
+The Wandering Dramaturge is an old friend of [[Jenomis cen Lexentale]] and when he heard he was traveling east he asked to join him in exchange for assisting the galley staff.
+
+== Behind the scenes ==
+The Wandering Dramaturge alludes to [[Yasumi Matsuno]]. He loves bacon bread, and knows the [[Wandering Minstrel]]. Matsuno's personal player character in ''Final Fantasy XIV'' is also named Wandering Dramaturge and wears the same clothing.
+
+One of the dialogues by the Wandering Dramaturge references a quote by [[Arazlam Durai]] in ''[[Vagrant Story]]'': "The body is but a vessel for the soul... A puppet which bends to the soul's... something... And lo, the body is not eternal, for—".
+
+== Gallery ==
+<gallery>
+
+File:FFXIV Dramaturge Cook.png|Dramaturge cooking attire.
+
+</gallery>{{navbox characters FFXIV}}
+[[Category:Hyurs]]
+[[Category:Characters in Final Fantasy XIV]]

@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Yozan Nagae
+|release=FFXIV
+|japanese=ヨウザン ナガエ
+|romaji=Yozan Nagae
+|aka=
+|image=FFXIV Yozan.png
+|home=[[Doma (Final Fantasy XIV)|Doma]]<br/>[[Mor Dhona]]
+|age=12
+|affiliation=Doman Adventurers' Guild
+|occupation=Doman refugee
+|education=
+|hobby=
+|loves=
+|hates=
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=Dark
+|eye=Brown
+|type=npc
+|job=
+|weapon=
+|armor=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Yozan Nagae''' is a [[non-playable character]] from ''[[Final Fantasy XIV]]'', first appear in patch 2.2 ''Through the Maelstrom'' and having a minor sidestory questline in ''[[Final Fantasy XIV: Heavensward|Heavensward]]''. He is a kid from Doma who has the founded the Doman Adventurers' Guild sttled at [[Mor Dhona]].
+
+==History==
+
+==Characteristics==
+===Appearance===
+===Personality===
+
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

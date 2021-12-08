@@ -1,0 +1,65 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Surito Carito
+|release = FFXIV
+|japanese = スリト・カリト
+|romaji = Surito Karito
+|image =FFXIV Surito Carito.png
+|race = Plainsfolk [[Lalafell]] (formerly)<br>[[Tonberry]]
+|gender = Male
+|height = 
+|hair = Brown (as Lalafell)
+|eye = Brown (as Lalafell)<br>Yellow (as Tonberry)
+|designer = 
+|age = 
+|job = {{icon|ffxiv|discipline|scholar}}
+|weapon = 
+|armor = 
+|affiliation = [[Nym]]
+|occupation = 
+|type=npc
+}}
+'''Surito Carito''' is a [[Non-player character|non-playable character]] from ''[[Final Fantasy XIV]]''. Originally a scholar of ancient [[Nym]], he was transformed into a [[tonberry]] by the Nymian plague. He is part of job quests for [[Summoner (Final Fantasy XIV)#Scholar|Scholar]].
+
+== History ==
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+[[File:Lalafell Surito Carito.png|thumb|left|Surito when he was a Lalafell.]]
+A strange tonberry lurks near the [[Wanderer's Palace]]. Before [[Alka Zolka]] can deliver a finishing blow, the Scholar's fairy intervenes, allowing the tonberry to escape.
+
+The tonberry is seen again and Alka Zolka, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], and several Lominsan marauders chase it into the Wanderer's Palace. The fairy prevents them from killing him and, thinking she intends them to heal the wounded, they heal the tonberry, who introduces himself as Surito Carito. His rancor lifted, he realizes his [[Soul Crystal (Final Fantasy XIV)|soul crystal]] and faerie, whom he named "Lily", is in good hands. Viewing the Warrior of Light as a worthy heir, he bequeaths a Scholar's gown and teaches the skill Lustrate, before returning to tend to his people.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Surito Carito requests Alka Zolka and the Warrior of Light to meet him on the shores of Bronze Lake. He explains the Nymian plague, the "Green Death", has begun to return, and needs help in recovering warding stones so he can quarantine the worst cases.
+
+Once the quarantine is ready, Surito can address the plague itself. He recounts how the disease first occurred: a Nymian trading galley was caught in a storm, and was rescued by a tribe of Lalafell on a South Seas island. The tribe gifted them a curious ampoule and when the traders returned to port, the plague swept across Nym.
+
+Alka Zolka notes the disease didn't spread until after the traders returned to port. Thinking the "gift" may have been the source of the disease, they scour the Floating City of Nym for the ampoule. The Warrior of Light stumbles across it in a pile of rubble with several [[voidsent]] flocking around it. Surito is horrified when he spots a binding sigil, realizing the Green Death epidemic was a plot by the void mages of [[Mhach]] to destroy Nym with a voidsent. Since the ampoule was recovered, that may mean the voidsent is still lurking somewhere on Vylbrand. He asks the Warrior of Light and Alka Zolka let him now if they begin to "change".
+
+While investigating how to track the rogue voidsent, Surito Carito has another tonberry, [[Halga Tolga]]—a Nymian Royal Marine drill sergeant—train the Warrior of Light, Alka Zolka, and his subordinates in Nymian military tradition.
+
+Finding the voidsent has left Surito Carito perplexed, and he concludes it must have cloaked itself to circumvent Nymian wardings. He wonders if any modern scholars may know of a way to reveal a hidden voidsent, and Alka Zolka suggests they check with the Thaumaturge's Guild. They track down the research notes of a void scholar that perished in the [[Umbral Calamity|Calamity]], and present it to Surito. Armed with this knowledge, he believes he figured out how the rogue voidsent might be tracked: the faerie can sense where the voidsent has feasted on [[aether]]. The monster Bitoso is traced to Camp Bronze Lake, where it is exposed by the faerie's light before it can begin spreading the sickness among the convalescing soldiers.
+
+As the Warrior of Light and Alka Zolka battle the demon, Surito Carito arrives with several tonberries to aid the marauders in fighting the voidsent, determined to not let Nym's tragedy befall the people of [[La Noscea]]. Once Bitoso is slain and the threat of the plague halted, Surito hopes he can use its corpse to research a cure for his transformed kinsmen.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Surito Carito meets with Alka Zolka and the Warrior of Light to again request their assistance. One of his students, [[Setoto Seto]], has recently gone missing, and he asks that the pair locate and help her.
+
+Later, when a failed attempt to summon her father's fairy renders Setoto comatose, Surito helps Alka Zolka and the Warrior of Light in finding a cure for her.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+After the Warrior of Light returns from [[the First]], they meet with Surito Carito and tell him of their adventures in that parallel world. After hearing how [[Lamitt]] found a cure to the Stoneblight, a magical disease that had been ravaging the [[Dwarf#Final Fantasy XIV|Dwarves of The First]], he realizes that information could potentially be used as a cure for the Green Death. Setoto Seto volunteers as test subject for the cure, and, with the help of the Warrior of Light and Alka Zolka, Setoto reverts her to her original Lalafell form. This success gives Surito renewed hope that he will soon be able to cure all of his affected brethren.
+
+== Characteristics ==
+Surito Carito appears as a tonberry wearing the standard garb of Nymian scholars. Before his transformation, he was a plainsfolk [[Lalafell]].
+
+== Gameplay ==
+Surito Carito is first fought as a enigmatic tonberry in the level 40 Scholar quest {{icon|ffxiv|quest|The Consequences of Anger}}, and again in the level 50 quest {{icon|ffxiv|quest|The Beast Within}}.
+
+He is the main contact for all post-50 Scholar job quests, and appears in the final job quest {{icon|ffxiv|quest|Forward, the Royal Marines}} where he and a band of tonberries assist in the fight against the demon Bitoso.
+
+He also briefly appears in the instanced dungeon {{icon|ffxiv|duty|Wanderer's Palace (Hard)}} as one of the Tonberries that assist the players' party.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Scholars]]
+[[Category:Lalafells]]

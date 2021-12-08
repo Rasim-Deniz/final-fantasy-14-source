@@ -1,0 +1,438 @@
+{{sideicon|prime=FFXIII|XIII2|LR|FFXIV|D012|DFFNT|DFFOO|PFF|FFAB|FFRK|Mobius|FFTCG}}
+{{DISPLAYTITLE:Odin (''Final Fantasy XIII'')}}
+{{infobox summon
+| name = Odin
+| release = FFXIII
+| japanese = オーディン
+| romaji = Ōdin
+| image =
+<gallery>
+Odin Enemy FFXIII.png|Normal mode
+Odin-ffxiii-gestalt.png|Gestalt mode
+</gallery>
+| race = [[Eidolon (Final Fantasy XIII)|Eidolon]]
+| gender = Male
+| summoners = [[Lightning (Final Fantasy XIII)|Lightning]]
+| acquired = [[Datalog (Final Fantasy XIII)/Events#Chapter Four|Chapter 4]]
+| element = Lightning
+| summonabilities = [[Flourish of Steel]], Skyward Swing, [[Seismic Strike]], [[Crushing Blow (Final Fantasy XIII)|Crushing Blow]], [[Thundara (ability)|Thundara]], [[Thundaga (ability)|Thundaga]], [[Curaga]], [[Arise]], [[Ullr's Shield]], Valhalla's Call, [[Penetration]]<hr/>[[Stormblade]], [[Lightning Strike (ability)|Lightning Strike]], [[Vacuum Wave|Razor Gale]], [[Thunderfall]]<hr/>[[Zantetsuken (ability)|Zantetsuken]]
+| designer = [[Tetsuya Nomura]]
+| boss page = Odin (Final Fantasy XIII boss)
+| recurring appearance = Odin
+}}
+{{Quote|The storm is here!|Lightning when she summons Odin}}
+'''Odin''' is [[Lightning (Final Fantasy XIII)|Lightning's]] [[Eidolon (Final Fantasy XIII)|Eidolon]] in ''[[Final Fantasy XIII]]'' and [[Lightning Saga|its sequels]], acting as her [[Summon (command)|summon ability]] in the first game. He is a [[Lightning (element)|lightning-elemental]] mechanical warrior who can transform into a horse for Lightning to ride.
+
+He has many powerful and diverse physical and magical attacks. He is fought as a [[Odin (Final Fantasy XIII boss)|boss]] in ''Final Fantasy XIII'' and a [[paradox]] of him appears as a [[Twilight Odin|tameable monster and boss]] in ''[[Final Fantasy XIII-2]]''.
+
+== Profile ==
+[[File:Ff13-summon-lightningodin.png|200px|left|Odin's Gestalt Mode.]]
+Odin is a tall, mechanical warrior who carries a sword, [[Zantetsuken (Final Fantasy XIII weapon)|Zantetsuken]], and a shield, which appears to be the head of a horse. In Gestalt mode, Odin transforms into the horse Sleipnir, named after Odin's horse in Norse mythology. Odin and [[Bahamut (Final Fantasy XIII)|Bahamut]] are the only two Eidolons that have their Gestalt Mode in animal/beast forms, while others looks like vehicles, or weapons.
+
+The Zantetsuken is a pair of large curved swords that each form a hook shape. The Zantetsuken can be wielded as either two individual swords (as Lightning wields them) or a single [[Double-bladed weapon|double-bladed sword]] (as Odin wields it).
+
+[[File:Odin-script.jpg|150px|thumb|Script on Odin's shield.]]
+The numerous pieces of writing all over Odin's body are written in [[Language#Etro script|Etro script]], the language of the goddess associated with Eidolons. The Latin writing on the symbol that emerges from the ground when Lightning summons Odin reads:
+:''By grace of Etro, let thunder herald your arrival. Come forth, sunderer of falsehood.''
+:''A name in blood, a pact of truth. Odin shall rise his bond eternal and unyielding.''
+
+The plate on Odin's back (as a horse) reads:
+:''My weapon is light, my steed is thunder. I am the herald of truth. I am Odin.''
+
+Odin's shield that becomes the horse's shoulder plate, says:
+:''Keeper of truth. Destroyer of corruption. Odin.''
+
+The inside of the Zantetsuken blades' hook shape bears writing that reads "Odin."
+{{clear}}
+
+== Story ==
+{{Spoiler}}
+=== ''[[Final Fantasy XIII]]'' ===
+[[File:Odin in the Vile Peaks.png|thumb|Lightning protects Hope from Odin.]]
+Eidolons are entities who reside in [[Valhalla (Fabula Nova Crystallis)|Valhalla]], the middle world between the mortal realm and the [[unseen realm]] of the dead. They answer to Goddess [[Etro]], the deity that rules over Valhalla, and she sends them out to help [[l'Cie]] who struggle with their [[Focus (Fabula Nova Crystallis)|Focus]].
+
+When the recently-branded [[Pulse]] l'Cie Lightning and [[Hope Estheim|Hope]] traverse the [[Vile Peaks]], the former's patience wears thin as Hope becomes a liability. She threatens to leave him and her frustration summons the Eidolon Odin who proceeds to attack Hope. Lightning saves him and they defeat the Eidolon together, convincing her to let Hope travel with her and help him become stronger. Lightning's [[eidolith]] manifests and from then on, she can conjure it from her brand and shatter it to call forth Odin to aid her in battle.
+
+Lightning summons Odin when the party returns to [[Cocoon (Final Fantasy XIII)|Cocoon]] from their exploration of [[Gran Pulse]]. They crash a grand prix event in [[Eden (location)|Eden]] and ride through the racetrack with their Eidolons in Gestalt Mode, Lightning riding Odin in his steed form, facing an [[Anavatapta Warmech]]. After Cocoon [[Catastrophe (Final Fantasy XIII)|falls from the sky and is crystallized]], Lightning is freed from the fate of a l'Cie and presumably can no longer call forth Odin, who remains in Valhalla.
+
+=== ''[[Final Fantasy XIII-2]]'' ===
+[[File:Lightning-Odin Valhalla.jpg|thumb|Lightning and Odin.]]
+Soon after Lightning was dragged into Valhalla by [[Chaos (Final Fantasy XIII)|chaos]], prior to becoming Etro's champion, she encountered Odin and defeated him to renew their partnership while forging a new one with [[Bahamut (Final Fantasy XIII)|Bahamut]]. As told in ''[[Final Fantasy XIII-2 Fragments After]]'', when the [[Moogle (race)|moogle]] [[Mog (Final Fantasy XIII-2)|Mog]] ended up in Valhalla, he battled Odin and the knight [[Arbiter of Time|Valfodr]] upon learning the realm's rule is that the weak serve the strong. Neither wanted anything to do with the moogle due to his weakness, and Mog was found by Lightning who took him under her wing. Odin accompanied Lightning and Mog to the [[Temple of the Goddess (Final Fantasy XIII)|Temple of the Goddess]], but stayed outside with Mog as they were denied entry. As revealed in ''Final Fantasy XIII-2 Fragments After'', the Eidolons that appear in Valhalla once belonged to other l'Cie. The numerous monsters scattered throughout Valhalla are Odin's subordinates.
+
+With an army of Eidolons at her service, Lightning commands them to battle [[Caius Ballad]]'s army of Rift Beasts. She rides Odin to engage Caius, four other Odins charging alongside her, and their battle takes them across Valhalla. She summons Bahamut to save a falling [[Noel Kreiss]], before sending him away to [[New Bodhum]] -003 AF- to find her sister, [[Serah Farron]]. Odin stays by Lightning's side till the end, and she sends the steed to aid Noel and Serah once the two find their way to Valhalla to defeat Caius once and for all. Noel and Serah's journey leads them to solve the paradoxes in the timeline Caius Ballad had set up to bring about the end of the world, and during their visit to Vile Peaks they fight a paradox that is a shade of Odin, and even manage to recruit it to their roster of allies.
+
+===''[[Lightning's Story: Requiem of the Goddess]]''===
+The eternal battle between Lightning and Odin against Caius and his [[Chaos Bahamut (Final Fantasy XIII)|Chaos Bahamut]] form rages on, until Caius strikes Lightning down as she is caught off guard, and she is taken away by chaos. She finds Serah's [[Soul (Fabula Nova Crystallis)|soul]] restrained by the spirits of [[Paddra Nsu-Yeul]] who manifest Caius whom Lightning battles. After dispatching her opponent, Lightning mounts Odin and encounters Shadow Yeul, demanding her to let Serah go, only for Lightning and Odin both to be swallowed by chaos. After Serah's soul tells Lightning not give up hope, Lightning decides to preserve the world's existence in Etro's place as her true atonement and enters [[crystal stasis]], waiting for the day she will awaken at the end of eternity. As the realms merge due to chaos being unleashed after Etro's death, the Eidolons no longer have a place where to reside, and no goddess to command them.
+
+=== ''[[Lightning Returns: Final Fantasy XIII]]'' ===
+[[File:Angel-of-Valhalla's-true-form-LRFFXIII.png|thumb|left|Odin revealing himself as the "Angel of Valhalla".]]
+After Caius's scheme to kill Etro succeeded, Lightning awakens from crystal stasis in [[Nova Chrysalia]] 500 years later, and finds herself unable to summon Odin. Odin endures in the form of a [[white chocobo]] known as the [[Angel of Valhalla]], whose appearance is said to herald the [[Apocalypse (Lightning Returns)|end of the world]]. Lightning nurses the Angel of Valhalla to health after saving the injured bird from a [[Chocobo Eater]] and learns of Odin's condition from Yeul. Caius retains the ability to summon Chaos Bahamut, though he does not perform an incarnate summoning.
+
+[[File:Odin Fading.png|thumb|Odin bidding farewell to Lightning.]]
+The Eidolons aid their former allies in the final assault on the god [[Bhunivelze (character)|Bhunivelze]], and after the end of time and the beginning of [[New world (Lightning Returns)|a new, god-free universe]], the Eidolons disappear to reincarnate, bidding farewell to their former masters.
+{{clear}}
+{{Endspoiler}}
+
+== Gameplay ==
+=== Boss ===
+[[File:FFXIII Odin Seismic Strike.png|thumb|Odin as a boss in ''Final Fantasy XIII''.]]
+{{For enemy|Odin (Final Fantasy XIII boss)|Twilight Odin}}
+[[Lightning (Final Fantasy XIII party member)|Lightning]] and [[Hope (Final Fantasy XIII party member)|Hope]] face Odin as a boss in the Scavenger's Trail at the Vile Peaks. Odin yields to those who amass [[Stagger (Final Fantasy XIII)|chain bonuses]] and to those who heal the wounded. Therefore, the [[Medic (Final Fantasy XIII)|Medic]] role is the key to winning the battle. Odin's primary target is Hope, attacking with physical attacks and Thundara. Lightning will need to do both healing and chain building, as Odin's strikes necessitate healing greater than Hope alone can supply. Odin often guards with Ullr's Shield, allowing for either a break to heal or an uninterrupted attacking phase.
+
+In ''Final Fantasy XIII-2'', a corrupted variation of Odin, named Twilight Odin, appears in the Vile Peaks in the years 10 and 200 AF as a physical manifestation of chaos, using the memories of Lightning's summoning in the area years ago as a source of energy. He is fought as a boss in both areas and can be recruited as a [[Paradigm Pack]] monster for the party.
+
+=== Summon ===
+[[File:(HD) PS3 Final Fantasy XIII Summon - Odin - Lightning|200px|right|Gestalt Mode & Zantetsuken]]
+{{See|Angel of Valhalla#Gameplay|t1=Angel of Valhalla gameplay|Eidolon (Final Fantasy XIII)#Summoning|t2=Eidolon summon mechanics}}
+Odin acts as a [[Sentinel (Final Fantasy XIII)|Sentinel]], drawing all enemy attacks. As Odin struggles driving up enemy chain gauges, it may be better to place Lightning in the role of [[Ravager (Final Fantasy XIII)|Ravager]] to boost Odin's Gestalt Gauge, which builds by driving up enemy chain gauges, by healing, and by removing status ailments.
+
+In ''Final Fantasy XIII-2'', Odin serves as Lightning's Eidolon and aids her in fighting [[Chaos Bahamut (Final Fantasy XIII-2 boss)|Chaos Bahamut]]. Some of the [[Final Fantasy XIII-2 abilities#Lightning and Odin|abilities used by Lightning]] are named after the abilities from ''Final Fantasy XIII'', but they are not the same abilities. These are [[Final Fantasy XIII-2 abilities#Lightning Strike|Lightning Strike]] and [[Final Fantasy XIII-2 abilities#Ullr's Shield|Ullr's Shield]].
+
+==== Stats ====
+Odin has 5 ATB bars. The Eidolon's rank is the sum of Lightning's current [[Crystarium system|Crystarium]] level and the number of [[Paradigm|roles]] Lightning has advanced to level 5.
+
+{|class="half-width FFXIII article-table" style="text-align:center"
+|-
+!style="width:25%"|Rank
+!style="width:25%"|SP
+!style="width:25%"|PA
+!style="width:25%"|MA
+|-
+!3
+|3645
+|141
+|93
+|-
+!4
+|4899
+|183
+|121
+|-
+!5
+|6156
+|225
+|149
+|-
+!6
+|7848
+|301
+|199
+|-
+!7
+|10728
+|407
+|316
+|-
+!8
+|27405
+|649
+|430
+|-
+!9
+|46224
+|2283
+|1515
+|-
+!10
+|56088
+|2675
+|1775
+|-
+!11
+|61696
+|2942
+|1952
+|-
+!12
+|67867
+|3237
+|2148
+|-
+!13
+|74653
+|3560
+|2362
+|-
+!14
+|82117
+|3917
+|2599
+|-
+!15
+|94435
+|4504
+|2989
+|-
+!16
+|99999
+|5405
+|3586
+|}
+
+==== Abilities ====
+{|class="full-width FFXIII article-table"
+|-
+!style="width:20%"|Ability
+!style="width:10%"|ATB Cost
+!style="width:70%"|Description
+|-
+!{{LA|Flourish of Steel}}
+|style="text-align:center"|1
+|''Inflicts multiple physical damage on opponents within a small radius.''
+|-
+!{{LA|Skyward Swing}}
+|style="text-align:center"|1
+|''Inflicts physical damage on opponents within a small radius and launch them in the air.''
+|-
+!{{LA|Seismic Strike}}
+|style="text-align:center"|1
+|''Inflicts physical damage on opponents within a large radius.''
+|-
+!{{LA|Crushing Blow (Final Fantasy XIII)|Crushing Blow}}
+|style="text-align:center"|1
+|''Inflicts physical damage on one opponent.''
+|-
+!{{LA|Thundara (ability)|Thundara}}
+|style="text-align:center"|1
+|''Inflicts lightning magic damage on opponents within a small radius.''
+|-
+!{{LA|Thundaga (ability)|Thundaga}}
+|style="text-align:center"|1
+|''Inflicts lightning magic damage on opponents within a large radius.''
+|-
+!{{LA|Curaga}}
+|style="text-align:center"|1
+|''Fully restores summoner's HP.''
+|-
+!{{LA|Arise}}
+|style="text-align:center"|Auto
+|''Fully restores summoner's HP and removes all status ailments.''
+|-
+!{{LA|Ullr's Shield}}
+|style="text-align:center"|Auto
+|''Reduce damage inflicted on self by 10% while ATB gauge is charging.''
+|-
+!{{LA|Valhalla's Call}}
+|style="text-align:center"|Auto
+|''[[Provoke (status)|Provokes]] enemies when attacking. The Provoke effect works 100% of the time.''
+|-
+!{{LA|Penetration}}
+|style="text-align:center"|Auto
+|''Ignores target's fire, ice, lightning and water resistances when attacking.''
+|}
+
+Odin attacks the enemy Lightning is targeting with Flourish of Steel, Skyward Swing, and Seismic Strike. He will stock four attacks from the aforementioned abilities, often opening with Flourish of Steel, and finishing with Thundaga. If the enemy is far away, he will use Crushing Blow, or Thundaga for enemies with high hitboxes. Odin's Thundara and Thundaga only require one ATB slot, compared to the normal two and three ATB slots respectively when the party uses them.
+
+Odin also works as a Sentinel in battle, drawing in all enemy attacks with its Valhalla's Call. While waiting for his ATB to fill up, he will use Ullr's Shield. If Lightning's HP is below 70%, he casts Curaga. If either her HP or the Eidolon's SP reaches 0, he will cast Arise before being dismissed.
+
+==== Gestalt Mode ====
+{|class="full-width FFXIII article-table" style="text-align:center"
+|-
+!style="width:20%"|Ability
+!style="width:10%"|ATB Cost
+!style="width:30%"|Move PS3/360
+!style="width:40%"|Description
+|-
+!{{LA|Stormblade}}
+|2
+|{{button|ps|up}} {{button|ps|x}}/{{button|xbox|up}} {{button|xbox|a}}
+|style="text-align:left"|''Attack target with blade.''
+|-
+!{{LA|Lightning Strike (ability)|Lightning Strike}}
+|3
+|{{button|ps|down}} {{button|ps|x}}/{{button|xbox|down}} {{button|xbox|a}}
+|style="text-align:left"|''Attack target with blade, then with multiple lightning magic strikes.''
+|-
+!{{LA|Vacuum Wave|Razor Gale}}
+|3
+|{{button|ps|left-right}} {{button|ps|x}}/{{button|xbox|left-right}} {{button|xbox|a}}
+|style="text-align:left"|''Attack repeatedly with blade then with non-elemental magic.''
+|-
+!{{LA|Thunderfall}}
+|4
+|{{button|ps|o}}/{{button|xbox|b}}
+|style="text-align:left"|''Deal lightning magic damage to all enemies and launch them into the air.''
+|-
+!{{LA|Zantetsuken (ability)|Zantetsuken}}
+|All
+|{{button|ps|triangle}}/{{button|xbox|y}}
+|style="text-align:left"|''Attack all enemies, instantly slaying targets with low HP.''
+|}
+
+Zantetsuken has a chance to instantly kill the opponent, and no enemy is immune to the attack. Whether it kills the enemy is determined by Odin's physical attack power and the current chain bonus.
+
+Zantetsuken raises the [[Stagger (Final Fantasy XIII)|chain gauge]] by a various amount based on level prior to dealing damage:<ref name="FF13">{{Refwebsite| page url = https://gamefaqs.gamespot.com/ps3/928790-final-fantasy-xiii/faqs/59246| page name = Final Fantasy XIII – Game Mechanics Guide by ximaus| site url = https://gamefaqs.gamespot.com| site name = GameFAQs| access time = 15:34, May 19, 2019 (UTC)}}</ref>
+:Level 1: 17.00 * 3 = 51.00
+:Level 2: 17.00 * 5 = 85.00
+:Level 3: 17.00 * 8 = 136.00
+:<math>[3 * Odin's PA * (Chain Bonus)^2]</math>
+
+If the enemy has less HP than the solution, it dies. If the instant kill fails, it deals fairly low damage instead.
+
+==Musical themes==
+Lightning's battle with Odin is accompanied by "Desperate Struggle" {{J|死闘|Shitō|Battle to the Death}}.
+== Other appearances ==
+=== ''[[Final Fantasy XIV]]'' ===
+[[File:FFXIV-ARR XIII Odin.jpg|thumb|Odin.]]
+Odin appeared in the [[Lightning Strikes (Final Fantasy XIV)|Lightning Strikes]] collaboration event. He is summoned by Lightning at the start of On Wings of Chaos, the final FATE of the event. Odin fights against the Heart of Chaos along with the player character and the non-playable battle ally Lightning, but he is untargetable and cannot take damage.
+{{clear}}
+
+=== ''[[Dissidia 012 Final Fantasy]]'' ===
+[[Lightning (Dissidia PSP)|Lightning's]] [[EX Mode (term)#EX Burst|EX Burst]] is Gestalt Drive, but she does not ride Odin, although she uses the same attacks when summoning Odin in Gestalt Mode: Lightning Strike, Thunderfall, Stormblade, Razor Gale and Zantetsuken. She also has a weapon called [[Dissidia 012 Final Fantasy weapons#Odin Blade|Odin Blade]].
+{{clear}}
+
+=== ''[[Dissidia Final Fantasy NT]]'' ===
+<gallery>
+DFF2015 Lightning Strike.jpg|Lightning Strike.
+</gallery>
+{{Ability section|Dissidia Final Fantasy NT}}
+{{clear}}
+
+=== ''[[Dissidia Final Fantasy Opera Omnia]]'' ===
+<gallery>
+DFFOO Flourish of Steel.png|Flourish of Steel.
+</gallery>
+{{Ability section|Dissidia Final Fantasy Opera Omnia}}
+
+=== ''[[Pictlogica Final Fantasy]]'' ===
+{{Ability section|Pictlogica Final Fantasy}}<!-- Zantetsuken -->
+
+=== ''[[Final Fantasy Airborne Brigade]]'' ===
+Odin appears on numerous cards.
+
+;Ability Cards
+<gallery>
+FFAB Seismic Strike - Lightning SSR.png|Seismic Strike (SSR).
+FFAB Seismic Strike - Lightning SSR+.png|Seismic Strike (SSR+).
+FFAB Lightning Strike - Lightning UR.png|Lightning Strike (UR).
+FFAB Razor Gale - Lightning UR.png|Razor Gale (UR).
+FFAB Thunderfall - Lightning UR.png|Thunderfall (UR).
+FFAB Zantetsuken - Lightning UR.png|Zantetsuken (UR).
+FFAB Lightning Strike - Lightning UR+.png|Lightning Strike (UR+).
+FFAB Razor Gale - Lightning UR+.png|Razor Gale (UR+).
+FFAB Stormblade - Lightning UR+.png|Stormblade (UR+).
+FFAB Zantetsuken - Lightning UR+.png|Zantetsuken (UR+).
+FFAB Thunderfall - Lightning UUR.png|Thunderfall (UUR).
+FFAB Crushing Blow - Lightning UUR+.png|Crushing Blow (UUR+).
+</gallery>
+;Legend Cards
+<gallery>
+FFAB Seismic Strike - Lightning Legend SSR.png|Seismic Strike (SSR).
+FFAB Razor Gale - Lightning Legend SSR+.png|Razor Gale (SSR+).
+FFAB Seismic Strike - Lightning Legend SSR+.png|Seismic Strike (SSR+).
+FFAB Thunderfall - Lightning Legend UR.png|Thunderfall (UR).
+FFAB Lightning Strike - Lightning Legend UR+.png|Lightning Strike (UR+).
+FFAB Seismic Strike - Lightning Legend UR+.png|Seismic Strike (UR+).
+FFAB Stormblade - Lightning Legend UR+.png|Stormblade (UR+).
+FFAB Crushing Blow - Lightning Legend UUR+.png|Crushing Blow (UUR+).
+FFAB Razor Gale - Lightning Legend CR.png|Razor Gale (CR).
+FFAB Thunderfall - Lightning Legend CR.png|Thunderfall (CR).
+FFAB Zantetsuken Lightning Legend CR.png|Zantetsuken (CR).
+FFAB Valhalla's Call - Lightning Legend CR+.png|Valhalla's Call (CR+).
+</gallery>
+;Other
+<gallery>
+FFAB Odin FFXIII.png|Odin.
+</gallery>
+{{Summon section|Final Fantasy Airborne Brigade}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Odin FFXIII.png|right|Odin.]]
+Odin appears as an enemy. His abilities, however, may be imparted to the delegation's units as [[Soul Break]] skills.
+{{clear}}
+
+=== ''[[Mobius Final Fantasy]]'' ===
+Odin appears on ability cards.
+
+<gallery>
+MFF Zantetsuken.png|Zantetsuken.
+Mobius Odin SS.png|Odin
+Mobius - Lightning FFXIII R3 Ability Card.png|Lightning FFXIII R3 Ability Card.
+</gallery>
+
+=== ''[[Final Fantasy Trading Card Game]]'' ===
+
+Odin appears in ''Final Fantasy Trading Card Game'' as Lightning-elemental summon cards, while Twilight Odin appears as a monster card of the same element.
+
+<gallery>
+Odin TCG.png|Odin [1-103R] Chapter series card.
+TwilightOdin TCG.png|Twilight Odin [7-087UR] Chapter series card.
+Odin 1-123R from FFTCG Opus.jpg|Odin [1-123R] Opus series card.
+</gallery>
+
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+[[File:274a Odin.png|right|100px|Odin]]
+Odin appears on Triple Triad cards in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+
+==Behind the scenes==
+[[File:LightningOdinConcept.png|thumb|Lightning and Odin.]]
+''[[Final Fantasy XIII Ultimania Omega]]'' reveals some ideas the designers had behind the Eidolons. It had been decided that Odin was going to be a horse in the planning stage, and in his normal mode he was made to look like the Joker from a deck of cards. Odin was originally more harsh looking and dark colored, but the developers wanted Lightning to be a knight with a white horse. Since Lightning had lost her parents at a young age, and tried to take their place and raise Serah, Odin was imagined as someone she would project a fatherly image onto.<ref>
+{{Refbook
+| title = ''[[Final Fantasy XIII Ultimania Omega]]''
+| first page = 340
+| last page = 341
+}}</ref> Snow's Shiva Sisters represent the Farron sisters, Lightning and Serah.<ref>{{Refbook
+| title = ''[[Final Fantasy XIII Ultimania Omega]]''
+| page = 343
+}}</ref>
+
+In the ''Lightning Returns: Final Fantasy XIII Ultimania'', Director [[Motomu Toriyama]] refers to Odin as a "good friend" to Lightning, stating that his inclusion in the game was as someone Lightning could open her heart to.<ref name="LRXIII_U">{{Refbook
+| title = ''[[Lightning Returns: Final Fantasy XIII Ultimania]]''
+| page = 742
+}}</ref>
+
+While Odin is typically depicted in Norse Mythology with a missing eye, this version has both eyes intact.{{clear}}
+
+==Merchandise==
+T-shirts with Eidolon designs have been on sale in the Japanese Square Enix store. The shirts cost ¥3,900, with two versions, Odin or [[Shiva (Final Fantasy XIII)|Shiva]]. The Eidolons have also been made into action figures in the [[Final Fantasy Creatures|Final Fantasy Creatures Kai]] Vol. 3 series. These figures cost ¥6,240 a piece. [[Final Fantasy Play Arts Action Figures|Final Fantasy XIII -Play Arts Kai-]] figure of Odin was released in July 2010; it has two forms, Sleipnir or Odin.
+
+<gallery>
+Odin shirt.jpg|Odin.
+Creatureskai3.jpg|Creatures Kai Vol. 3.
+Square Enix Odin PlayArts Kai figure.jpg|''Final Fantasy'' Play Arts Kai "Odin".
+</gallery>
+
+== Gallery ==
+;Concept art
+<gallery>
+Odin_concept.png|Odin.
+Odin concept2.png|Odin.
+Summon odin.png|Summon animation.
+Odin concept1-2.png|Summon animation.
+Odin concept1.png|Summon animation.
+XIII-2 Odin.jpg|Twilight Odin.
+</gallery>
+
+;Screenshots and renders
+<gallery>
+FF13 Odin.jpg|Lightning summons Odin to battle.
+FFXIII Lightning Odin.png|Lightning summons Odin to battle.
+Odin summon2.PNG|Odin is summoned.
+Odin summoned2.png|Odin fighting alongside Lightning.
+Lightning Odin.png|Lightning rides on horse-form Odin.
+Odin gestalt mode.png|Odin in Gestalt Mode.
+Eidolon status screen ffxiii.jpg|Odin status screen.
+Return to Eden.png|The party returns to Cocoon.
+XIII-2 OdinBahamut2.jpg|Lightning on Odin in Gestalt Mode in ''Final Fantasy XIII-2''.
+Lightning-Sleipnir Valhalla.jpg|Lightning on Odin in Gestalt Mode in ''Final Fantasy XIII-2''.
+FFXIII2 Odin FMV.png|Odin  in ''Final Fantasy XIII-2''.
+FFXIII-2 Serah & Noel on Odin.png|Serah and Noel riding on Odin's horse form in ''Final Fantasy XIII-2''.
+Odin-LRFFXIII.png|Odin in ''Lightning Returns: Final Fantasy XIII''.
+FFXIII Retro Odin Gestalt Mode.png|''[[Lightning Returns: Final Fantasy XIII Retro-spective trailer]]''.
+Twilight Odin.png|Twilight Odin.
+Zantetsuken_A-ffxiii-weapon.png|Odin's weapon.
+</gallery>
+
+==Etymology and symbolism==
+{{Etym|Odin}} In Norse mythology, Valhalla was a majestic hall in Asgard, where the gods and half of those who died in combat dwell. It was ruled by Odin. In the ''[[Lightning Saga]]'', Valhalla is the middle realm between life and death ruled by Goddess Etro, but Odin resides in this realm. Various ''Lightning Returns: Final Fantasy XIII'' aspects are also based on Norse mythology.
+
+Pink flower petals are part of Odin's summon animations, and Lightning's finishing blow in Gestalt Mode, Zantetsuken. As [[Flower (symbolism)|falling cherry blossoms]] are associated with mortality, the pink rose petals take the form of similar imagery, as Zantetsuken has a chance of inflicting [[Instant Death|instant death]].
+
+== References ==
+{{citations}}
+
+{{navbox abilities FFXIII}}
+{{navbox summons}}
+[[Category:Eidolons in Final Fantasy XIII]]

@@ -1,0 +1,222 @@
+{{sideicon|prime=FFXI}}
+{{infobox character
+|name=Shantotto
+|release=FFXI
+|japanese=シャントット
+|romaji=Shantotto
+|aka=Doctor Shantotto, Professor Shantotto
+|image=Shantotto (FFXI).png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Federation of Windurst]]
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Tarutaru]]
+|gender=Female
+|height=2'0"
+|weight=
+|hair=Blonde
+|eye=Brown
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=[[Black Mage (Final Fantasy XI)|Black Mage]]
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=[[Megumi Hayashibara]]
+|english voice actor=[[Candi Milo]]
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=true
+|dissidia=true
+|dffnt=true
+|dffoo=true
+|theatrhythm=true
+|ffrk=true
+|ffbe=true
+|woff=true
+}}
+{{Quote|Why be led, when you can be leader? Why bow to lady luck when you can beat her? Why sit back and relax if you can pull your fill? Before you are taken, why not go in for the kill? O-hohohohohoho!|Shantotto's words of wisdom}}
+'''Shantotto''' is a [[non-playable character]] from ''[[Final Fantasy XI]]''. She is a [[Tarutaru]] [[Black Mage (Final Fantasy XI)|Black Mage]] from the [[Federation of Windurst]] and a hero of the [[Crystal War]]. She is famous for her iconic laugh and unique speech pattern (speaking in rhyme in English, and the speech pattern of a formal lady in Japanese). She is a central character in the expansion pack, ''[[Final Fantasy XI: A Shantotto Ascension - The Legend Torn, Her Empire Born]]''.
+
+In the original release, Shantotto was primarily a character involved in Black Mage related quests, and was not meant to have become such an iconic Windurstian character. Her few appearances proved memorable to fans on both sides of the Pacific and in response the developers expanded on her character in a number of expansion stories. Due to her general popularity with the player-base she has become one of the game's most iconic characters, and typically serves as its main representative in crossover products or events.
+
+==Profile==
+===Appearance===
+[[File:Shantotto FFXI Ikeda Art.jpg|right|200px|Promotional artwork of Shantotto by Yuzuki Ikeda.]]
+Shantotto is a Tarutaru and as such is short in stature, about 2'0" in height. Much like the rest of her race her physical appearance stays the same regardless of aging; despite her youthful appearance she is quite old, even by Tarutaru standards. She has brown eyes and blonde hair, which she keeps held up in pig-tails with red and blue ribbons. In her {{foot|official artwork|[[File:FFXI A Shantotto Ascension Artwork.jpg|250x250px]]}} released for the ''Shantotto Ascension'' pack, the poster depicts her with blue eyes.
+
+Her primary outfit is robe with dark deep green and grayish cream stripes, gold linings, and two gauntlets, known as the "Tactician Magician's Cloak Set" in ''Final Fantasy XI''. She has almost the complete set, sans for the head gear that goes with it.
+
+===Personality===
+Shantotto views herself superior to all others and will not bow down to anyone. However, as shown in the ''Dissidia Final Fantasy'' series, when in the service of [[Cosmos (Dissidia)|Cosmos]], Shantotto showed respect to the heavenly deity during the time she served her. She lives by the motto "The Ends Justify The Means," meaning she will do whatever it takes to win even if an ally were to get hurt. Shantotto has a short fuse, easily losing her temper with anyone who would stand up to her or question her.
+
+Due to her lineage as being from one of the most powerful Black Mage families in [[Vana'diel]], she is on a never ending journey to further her knowledge of the magical arts, as well as other things, to preserve her family's status. Upon finding something strange or out of the ordinary, she desires to study and learn from it, if only on the basis of doing so before others. Her thirst for knowledge can bring out either the best or worst in her, depending on the situation.
+
+Despite her shortcomings, Shantotto is loyal if she finds a cause she thinks is worth fighting for; if she finds it doesn't benefit her on a personal level, or if said cause could have a negative effect on the overall populace, she will leave without a moment's hesitation.
+
+Shantotto also has the peculiar Tarutaru quirk of speaking in rhyme and poetic meter, which can make her difficult to understand at times, even going as far as to complete a rhyme from another person's previous dialogue; this trait is especially evident in her ''Dissidia'' universe appearances.
+
+According to Shantotto's Character Biography in ''Dissidia Final Fantasy'', her one and only regret in life is having neglected to [[Wedding|marry]].
+
+==Story==
+[[File:Lady Shantotto.jpg|left|180px]]
+Shantotto was born to a family of distinguished Tarutaru black mages. Her early childhood was spent dreaming of "healing the world and spreading love" and as she got older her parents spent hours lecturing her on the dark arts. She practiced her black magic to utter perfection to ensure that her family line was preserved. When she was honored with the title of mage, her life took a turn for the worse when her parents were divorced and her house was destroyed and her dog drank a shrinking potion.
+
+In spite of these events, Shantotto kept true to her parents' words and persevered to become one of the top minds in the Federation. Prior to the Crystal War she was appointed minister of the Orastery, Windurst's Department of Magic. She was revered by many as Professor Shantotto.
+
+===''[[Final Fantasy XI: Wings of the Goddess|Wings of the Goddess]]''===
+{{spoiler}}
+Early in the Crystal War, Shantotto was stripped of her position as minister and exiled from the Federation for unspecified reasons. This was of little consequence to her, however, and she went on the offensive against the [[Beastmen]]. She compelled Master Caster [[Doron-Fulun]] and his Leonian War Warlocks to follow her into enemy territory, undermining the strategies of Warlock Warlord [[Robel-Akbel]] but producing dramatic victories.
+
+[[File:Shantotto-Gigas-Nuke.jpg|thumb|right|Shantotto enjoying the Crystal War.]]
+Although Shantotto was absent for the Battle of Windurst she obtained critical intelligence in [[Xarcabard]] that allowed the Federation to prepare for the onslaught. The professor later infiltrated [[Castle Zvahl Baileys]] and delighted in the destruction of its varied demonic occupants.
+
+After the war Shantotto returned to Windurst a hero and was reinstated at the Orastery. In the years to follow she retired to her manor in [[Windurst Walls]] and left the ministry to her successor, [[Ajido-Marujido]].
+
+===Present Day===
+Doctor Shantotto remains busy in her retirement, captaining a local staff-wielding team and selling a range of cursed stationery and curse-removal services. Her magical research frequently requires her to berate the [[Adventurer (Final Fantasy XI)|Adventurer]] and send them on dangerous errands. This nearly leads her to ruin when, having hired a passing stooge to gather ingredients with which to punish a Peeping Tom, she accidentally places a deadly malady on a newspaper reporter. Unwilling to go down for murder and choosing not to dispose of her accomplice and the evidence, Shantotto devises a cure and corrects what she would describe as her helper's mistake.
+
+Shantotto develops [[Warp II|a new warp spell]] using the energies of [[Fei'Yin]]. She is not inclined to travel to the [[Beaucedine Glacier]] to complete the magic herself, however, and leaves the legwork to Rhinostery Minister [[Rukususu]] and her subordinates. After dismissing a number of "total losers" from her manor, Shantotto finds a suitable courier to visit the Northlands and retrieve her finished product.
+
+Shantotto is summoned with fellow retired ministers [[Koru-Moru]] and [[Yoran-Oran]] to investigate the deteriorating health of the baby star trees at [[Heaven's Tower]]. She is confident that the trees aren't receiving enough light but her colleagues disagree and all three implement their own solutions. When they return they discover no change in the trees' conditions. The professors review past events to determine the origin of the problem and Koru-Moru suggests the plants are angry because he stole a bag of their seeds during the Crystal War, but Shantotto suspects they have been cursed by an enchanted doll which she abandoned in [[Castle Zvahl Keep]] during the campaign against the [[Shadow Lord]]. Both hypotheses ultimately prove incorrect.
+
+[[File:Professor Shantotto.jpg|right|thumb|Professor Shantotto.]]
+As a last resort the professors send a younger black mage into the [[Toraimarai Canal]] to search for problems beneath Windurst itself. As these underground passages are normally closed Shantotto uses the opportunity to go looking for [[Karaha-Baruha]]'s laboratory. She returns disappointed, covered in grime and not discovered anything of interest. When their envoy reports that magical stagnation is accumulating in the canal and weakening the star trees Shantotto offers her still mildew-encrusted hat as a reward.
+
+When [[Ajido-Marujido]] is imprisoned for breaking into the [[Sarutabaruta#Full Moon Fountain|Full Moon Fountain]] Shantotto takes a personal interest in his welfare. She cannot bear have him wasting away in a cell after all the time she spent grooming him to be a tough-as-nails Orastery minister and instructs his sister, [[Apururu]], to gather the five enchanted rings worn by the leaders of Windurst's ministries. Shantotto combines them to create a glove capable of breaking the lock on Ajido-Marujido's prison. Expressing some concern regarding the ease with which such valuable items parted from their respective ministers, Shantotto leaves the jailbreak itself to Apururu.
+
+===''[[Final Fantasy XI: Chains of Promathia|Chains of Promathia]]''===
+Shantotto intervenes when [[Sin Hunters|Sin Hunter]] [[Shikaree Y]] and two minions appear in [[Windurst Walls]] to threaten [[Yoran-Oran]] and [[Prishe]]. The trackers meant to take Prishe's [[Magicite#Final Fantasy XI|magicite]] but are unwilling to use force against Shantotto. In the interest of moving everyone along, Shantotto convinces Prishe to display her magicite and prove it cannot be separated from her. Seeing this, Shikaree goads Prishe toward [[Aragoneu#Attowah Chasm|Attowah Chasm]] and departs.
+
+===''[[Final Fantasy XI: Treasures of Aht Urhgan|Treasures of Aht Urhgan]]''===
+Shantotto travels to the [[Empire of Aht Urhgan]] disguised as Lady Karababa, ambassador plenipotentiary of Windurst. Her mission is not diplomatic, however, and she is more interested in forcing the Empire's secretive politics into the open while collecting souvenirs for the Federation's ministries. To this end she is accompanied by [[King of Hearts (Final Fantasy XI)|King of Hearts]], a [[Cardian]] who can detect many curiosities.
+
+[[File:Shantotto-Ambassador-Disguise.jpg|thumb|left|"Ambassador Karababa" in ''Aht Urhgan''.]]
+Shantotto arrives at Aht Urhgan Whitegate by means of the [[Mhaura]] ferry. Her official welcome to the Near East is derailed when [[Mnejing]], an [[Automaton (Final Fantasy XI)|automaton]], picks a fight with King. The Cardian defeats the puppet and Shantotto uses the incident as an excuse to wander around Al Zahbi rather than keep her appointment with the local authorities.
+
+While exploring the city Shantotto encounters a familiar Adventurer working as a mercenary and, pretending to be meeting for the first time, orders this person to accompany her or be branded a traitor back home. They embark for the [[Mamool Ja Savagelands#Aydeewa Subterrane|Aydeewa Subterrane]] to search for legendary tools that function on electrical power her hope being that Cardians might be improved by such technology.
+
+While exploring Shantotto comes to the aid of [[Aphmau]] and her puppet [[Ovjang (Final Fantasy XI)|Ovjang]]. They are not pleased to see her as they bear a grudge over Mnejing's earlier defeat at King's hands. This leads to another scuffle between Cardian and automaton that inadvertently incapacitates everyone but Shantotto and King of Hearts. Seeing that Aphmau had found an interesting relic, Shantotto takes it and leaves.
+
+After briefly visiting [[Naja Salaheem]] to reunite with the Adventurer in the [[Mithra]]'s employ, Shantotto travels to the [[Halvung Territory#Navukgo Execution Chamber|Navukgo Execution Chamber]] to conduct a trade. A [[Moblin (Final Fantasy XI)|moblin]] there accepts Shantotto's [[gil]] but unleashes a [[Khimaira]] upon her instead of completing the exchange. Shantotto uses her companion as a shield and destroys the creature with a barrage of [[Ancient Magic#Ancient Magic II|powerful spells]].
+
+Ultimately the moblin's betrayal does not bother Shantotto. The khimaira wing she obtains from the defeated beast is a better prize than the item for which she had bartered and the chest of gil she paid was actually a cache of [[Bomb Crank|bomb arms]]. She pauses to enjoy the inevitable explosion and returns to Al Zahbi with King.
+
+Shantotto meets Naja Salaheem again and excites her with the prospect of expanding her mercenary business into Windurst. The professor's true goal is to recall the Adventurer working for Salaheem to the Midlands. When it emerges that this person has access to Aht Urhgan's Empress Shantotto realizes the value of leaving such an informant behind and twists Salaheem's words as a means of canceling their deal while placing the blame on the mercenary captain herself.
+
+That evening Shantotto attends an Imperial banquet and uses her time inside the palace to search for an [[Astral Candescence]]. When the [[Empire of Aht Urhgan#The Serpent Generals|Serpent Generals]] get in the way she puts on a magical tantrum to deflect suspicion. Having worn out her welcome, Shantotto decides to return home. She briefly reminds the useful Adventurer to be vigilant on behalf of the [[Alliance of Altana]] before warping herself and King of Hearts back to Windurst.
+
+In time, the Empire grows unstable as forces within struggle for dominance. Shantotto goes to [[Grand Duchy of Jeuno|Jeuno]] to discuss the Alliance's response. She instructs the assembled dignitaries in Aht Urhgan's history and ensures that all are aware of the threat posed by the ancient technology slumbering there. When the leaders elect to send a covert operation to the Empire rather than start a war Shantotto commits King of Hearts to the cause.
+
+Once the dust settles, Shantotto returns to Aht Urhgan in her ambassador disguise. Although she attends an official ceremony, her true objective remains the mysterious astral candescences and gates that exist in that land. Shantotto is most eager to examine these phenomena and cannot imagine the magical advances that will be made as a result.
+
+===''[[Final Fantasy XI: A Shantotto Ascension - The Legend Torn, Her Empire Born]]''===
+[[File:FFXI A Shantotto Ascension Artwork.jpg|thumb|160px|Artwork of Shantotto.]]
+While attempting to perfect a spell of interdimensional travel, Shantotto ends up in an alternate universe where she attempts to take over Vana'diel to no avail. In her absence, the Shantotto of the other dimension enters her world with the force of transference splitting her in two, the crazed [[Domina Shantotto]] and a "good" [[Belle Shantotto]], with everyone believing she was the Shantotto they knew as Domina Shantotto who plots to execute a "Shantottofication" curse that would turn everyone in Vana'diel into Shantotto clones.
+
+She returns in time to stop Domina and Belle from carrying out the Shantottofication, and explains who they really are and what happened to her. Though she momentarily wonders if the three of them should ally to conquer Vana'diel together, Shantotto assures the heroes she was joking and convinces her splintered counterpart to return to her dimension to maintain the order of the worlds.
+{{clear}}
+{{Endspoiler}}
+
+==Musical themes==
+"Feast of the Ladies" is a theme that serves as Shantotto's boss theme, first used in ''A Shantotto Ascension''. A version of it appears in ''Final Fantasy XIV'' under the name "Reign of Pain".
+{{clear}}
+
+==Other appearances==
+[[File:Shantotto Dissidia (Arcade).png|thumb|right|Appearance in ''[[Dissidia Final Fantasy NT]]''.]]
+{{Main|/Other appearances|t1=Shantotto other appearances}}
+Shantotto has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[/Other appearances#Final Fantasy XIV|Final Fantasy XIV]]'' as a non-playable quest character, a summonable minion, and a Triple Triad card.
+*''[[Shantotto (Dissidia PSP)|Dissidia Final Fantasy]]'' as a playable character.
+*''[[Shantotto (Dissidia PSP)|Dissidia 012 Final Fantasy]]'' as a playable character.
+*''[[Shantotto (Dissidia NT)|Dissidia Final Fantasy NT]]'' as a playable character.
+*''[[Shantotto (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[/Theatrhythm|Theatrhythm Final Fantasy]]'' series as a playable character.
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a summonable Legend.
+*''[[/Other appearances#Final Fantasy Artniks|Final Fantasy Artniks]]'' as a series of cards.
+*''[[/Other appearances#Final Fantasy All the Bravest|Final Fantasy All the Bravest]]'' as a playable character.
+*''[[Shantotto (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Shantotto (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[/Other appearances#Final Fantasy World Wide Words|Final Fantasy World Wide Words]]'' as a playable character.
+*''[[Shantotto (World of Final Fantasy)|World of Final Fantasy]]'' as a summonable Champion.
+*''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of cards.
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+
+===Non-''Final Fantasy'' guest appearances===
+{{main|/Other appearances#Guest appearances|t1=Shantotto non-Final Fantasy appearances}}
+Shantotto has made key guest appearances in the following non-''Final Fantasy'' games:
+*''[[/Other appearances#Dragon Quest|Dragon Quest]]''.
+*''[[/Other appearances#Square Enix Legend World|Square Enix Legend World]]''.
+*''[[/Other appearances#Puzzle & Dragons|Puzzle & Dragons]]'' as a playable character.
+*''[[/Other appearances#Monster Strike|Monster Strike]]'' as a playable character.
+
+===Other media===
+Shantotto placed first in a ''Final Fantasy XI'' [http://www.playonline.com/ff11us/topics/npcenqt/index.html NPC Popularity Contest] held by [[Square Enix]] in June 2013. Current players of the game were given an opportunity to vote for their favorite NPC and share ideas for stories involving these characters.
+
+In ''[[Final Fantasy XIV]]'', a legendary [[Mhach]]i sorceress named "Shatotto" is said to have been the first practitioner of Black Magic in [[Eorzea]], as well as the creator of the first Black Mage relic weapon, the [[Stardust Rod]]. The Stardust Rod was crafted from shards of a comet that, according to legend, she single-handedly blew out of the sky (in reality, she instead stopped it from crashing into Eorzea by blowing a chunk of it apart). The achievement granted for obtaining the Stardust Rod in ''Final Fantasy XIV'' is called "Ohohohohoho!". During the [[Black Mage (Final Fantasy XIV)|Black Mage]] job questline, the soul stone is referred to as "The Gem of Shatotto". When the memories of Shatotto possess Lalai, her eyes turn gold and she removes her hat to reveal blonde pigtails.
+
+==Behind the scenes==
+Shantotto is one of four characters that may appear during the [[Heroine's Combat]] special event. In both the Heroine's Combat event, and in the ''Dissidia'' series, if Shantotto loses a battle she turns into a doll. Yet it is implied that if Shantotto beats the player in Heroine's Combat, and if she wins a match in the ''Dissidia'' series, she is real. Meaning that the real Shantotto is only capable of winning, and only weak copies are capable of losing.
+
+Shantotto's fan nickname "Federation's Black Devil" ({{J|連邦の黒い悪魔|fmt=j}}) is a reference to [[w:c:gundam:Amuro Ray|Amuro Ray]] of [[w:c:gundam|''Mobile Suit Gundam'' franchise]] fame (as Amuro is nicknamed the "Federation's White Devil" and both serve as 'legendary' war heroes within their respective Federations). This nickname is subsequently given to Shantotto's Awakening Soul Break in ''[[Final Fantasy Record Keeper]]'', though it is simply translated to "Federation Demon" in the global version.
+
+==Merchandise==
+[[File:Shantotto-Pendant-FF30th-Anniversary.png|thumb|Shantotto pendant.]]
+In May 2018 Square Enix releases a silver Shantotto pendant with a clear gem as part of the [[Final Fantasy 30th Anniversary]] campaign. The reverse side of the pendant simply reads "Final Fantasy" with a carving of a crystal. Shantotto is depicted in her ''Dissidia Final Fantasy'' appearance, and is released alongside pendants of the other ''Final Fantasy'' [[List of protagonists|protagonists]].
+{{clear}}
+
+==Gallery==
+<gallery>
+Shantotto FFXI Art 2.png|Fumio Minagawa artwork.
+Shantotto - Yasuhisa Izumisawa.png|Artwork by Yasuhisa Izumisawa.
+ShantottoDissidiaLaughing.PNG|In-game render in ''Dissidia''.
+Shantotto - 012 CG.png|CG render in ''Dissidia''.
+FFXI Character Art - Nomura.jpg|Artwork by Nomura celebrating the 10th Anniversary of ''Final Fantasy XI''.
+ShantottowFFXIVEvent.jpg|Shantotto's enlarged doll in ''Final Fantasy XIV''.
+PFF x FFXI Shantotto.jpg|Shantotto depicted in the "Wizardess Board" furnishing.
+QShantoto1.png|Shantotto in ''Final Fantasy XIV''.
+</gallery>
+
+==External links==
+*[http://wiki.ffxiclopedia.org/wiki/Shantotto Article at FFXIclopedia]
+
+{{navbox characters FFXI}}
+
+
+[[es:Shantotto]]
+[[pt-br:Shantotto]]
+[[Category:Characters in Final Fantasy XI]]
+[[Category:Tarutaru]]
+[[Category:Black Mages]]

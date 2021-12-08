@@ -1,0 +1,29 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Kurobana
+|release=FFXIV
+|japanese=クロバナ
+|romaji=Kurobana
+|image=FFXIV SB Kurobana.png
+|home=[[Yanxia#Namai|Namai]]
+|affiliation=Namai
+|race=[[Lupin]]
+|gender=Male
+|type=npc
+}}
+
+'''Kurobana''' is a non-player character from ''[[Final Fantasy XIV: Stormblood]]''.
+
+==History==
+Kurobana is part of a family of [[Lupin]] that protects [[Yanxia#Namai|Namai village]], but now his family has lost its luster. Recently his [[Hakuro Gunji|brother]], the strongest member of the family was recruited by the [[Garlean empire]], leaving only Kurobana and his sick mother. Fukudo asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to help Kurobana become a warrior but Kurobana is unable and unwilling to follow this path. After trying other jobs in vain, Kurobana ends up using his nose to sniff the bad odor in the rice fields, once locating the monsters for the Warrior to eliminate, Hayabusa is grateful and asks if Kurobana would like to check the rice conditions more often. After finally finding a job he can do, Kurobana finally feels he belongs to Namai.
+
+Kurobana has been steadily gaining the trust of residents by continuing to harvest weeds and examining local rice paddies. However, he is concerned that Namai is defenseless if another creature attacks. Warrior of Light introduces [[Gyorin]], a [[Namazu]] merchant to Kurobana, Gyorin has been trying to sell some imperial weapons. Kurobana would like to buy but not able to pay for the price charged. Gyorin shows interest in persimmons and Kurobana agrees to exchange one hundred persimmons for imperial weaponry.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lupin]]

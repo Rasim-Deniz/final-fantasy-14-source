@@ -1,0 +1,69 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Conrad
+|release=FFXIV
+|japanese=コンラッド・ケンプ
+|romaji=Konraddo Kenpu
+|lit=
+|aka=
+|image=FFXIV Conrad 2.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Ala Mhigo]]
+|age=70
+|affiliation=[[Ala Mhigan Resistance]]
+|occupation=Resistance leader
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Male
+|hair=Gray
+|eye=Brown
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|weapon=Weathered Scepter
+|armor= Filibuster set
+<!--Behind the scenes info -->
+|japanese voice actor=Kenji Hamada
+|english voice actor=[[Wikipedia: Philip Jackson (actor)|Philip Jackson]]
+}}
+
+'''Conrad Kemp''' is a non-player character from ''[[Final Fantasy XIV: Stormblood]]'' who appears as a supporting character in the main story. He is one of the leaders of the [[Ala Mhigan Resistance]] along with [[Meffrid Noward]] and [[M'naago Rahz]].
+
+== History ==
+=== Early Life ===
+Conrad was a practitioner of traditional Gyr Abanian medicine, which incorporates thaumaturgy and apothecary. He avoided battles with King [[Theodric]], but conflict found him under imperial rule where he was persecuted for his religious beliefs and dragged off to an internment camp. After witnessing the cruelty under the [[Garlean Empire]], he decided to join the resistance, costing him his marriage.
+
+He helped [[Lyse Hext|Yda Hext]] and [[Papalymo Totolymo]] flee from the [[Ul'dahn Revolution]] and granted them a safe haven at [[Rhalgr's Reach]]. He knew the Hexts' father, [[Curtis Hext]], and looked to him for leadership while Ala Mhigo tried to repel the Garlean invasion.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+[[File:FFXIV Conrad.png|thumb|left]]
+After the event at [[Baelsar's Wall]], Conrad and the other Ala Mhigan Resistance leaders meet the [[Scions of the Seventh Dawn]] at Rhalgr's Reach and agree to the Eorzean Alliance's terms. Their group is few in number and in need of assistance around the camp. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the Eorzean Alliance plan on scouting the Garlean occupied bridge for an upcoming attack, but while the Warrior of Light is out, [[Zenos yae Galvus]] and the Crania Lupia assault the reach. With the resistance outmatched and the Scions defeated, Conrad shouts orders until he is knocked out by [[Fordola rem Lupis]]. 
+
+Following the recovery of his injuries, Conrad meets with [[Raubahn Aldynn]] and tells them that they can't fight anymore since they've lost so much, including their children. Raubahn encourages him to continue the fight, and Alphinaud and the Warrior of Light come up with the idea to start a rebellion in [[Doma (Final Fantasy XIV)|Doma]] to force Zenos to fight on two fronts. Conrad proclaims that if the plan succeeds then they will continue the fight for [[Ala Mhigo]].
+
+During an attack on Specula Imperatoris, Conrad convinces some Skulls to surrender, but is surprised by a cannon shot from [[Castrum Abania]] and is severely injured. Lyse arrives to witness his last moments, and Conrad leaves the resistance leadership to her.
+
+== Characteristics ==
+=== Appearance ===
+Conrad Kemp is an old [[Hyur]] man with gray hair and brown eyes. He has several scars across his face and light facial hair on his chin. He wears a Filibuster's Coat of Healing, Filibuster Gloves of Aiming, with Star Velvet Bottoms of Healing and Sky Pirate Boots of Casting. In combat, he wields a weathered scepter.
+
+=== Personality ===
+A leader of the resistance, Conrad is burdened with the responsibility to keep his soldiers from taking heavy losses. He feels that Ala Mhigo has no more fight left and believes that [[Lyse Hext]] is fit to lead the Ala Mhigan Resistance.
+
+==Gallery==
+<gallery>
+FFXIV SB Ala Mhigo promotional poster.jpg|Conrad Kemp in ''Stormblood'' promotional artwork.
+FFXIV Conrad Death.png|Conrad's last moment.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Black Mages]]

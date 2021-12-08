@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Aurvael de Haillenarte
+|release=FFXIV
+|japanese=オールヴァエル
+|romaji=Ōruvaeru
+|aka=
+|image=FFXIV Aurvael.png
+|race=[[Elezen]]
+|gender=Male
+|hair=Blond
+|eye=Blue
+|designer=
+|age=
+|home=[[Ishgard]]
+|affiliation=[[High Houses of Ishgard#House Haillenarte|House Haillenarte]] <br> [[Ishgardian Restoration]] 
+|occupation= Diadem Mission Commander
+|type=npc
+|job=
+|weapon=
+|armor=
+}}
+'''Aurvael de Haillenarte''' is a non-playable character in ''[[Final Fantasy XIV: Heavensward]]''. He is the second son of [[Baurendouin de Haillenarte|Count Baurendouin]], and brother to [[Stephanivien de Haillenarte|Stephanivien]], [[Laniaitte de Haillenarte|Laniaitte]], [[Joacin Charlemend Francel de Haillenarte|Francel]], and the late [[Chlodebaimt de Haillenarte|Chlodebaimt]]. 
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Character section}}
+
+===[[Ishgardian Restoration]]===
+After the suspension of Diadem ventures, when the [[Ishgardian Restoration]] project began, Aurvael took a team to scout the Diadem for any opportunities to assist in the efforts. Miraculously, the dangerous wildlife seemed to have thinned since the final ventures, and Aurvael proposed it to be a resource gathering location for botany, mining, and fishing crews. He organizes the excursions from the [[The Firmament|Firmament's Mendicant's Court]], alongside resource inspector Flotpassant.
+
+==Characteristics==
+===Appearance===
+Aurvael is a Wildwood [[Elezen]] with short blond hair and light blue eyes. He bears a striking resemblance to his father, [[Baurendouin de Haillenarte|Count Baurendouin]]. He wears a green feather hat with a green alpine coat and blue trousers, black thigh-boots, and elbow-length black gloves with a white trim.
+
+===Personality===
+Aurvael is polite, albeit somewhat eccentric, a trait shared by most of the men of House Haillenarte. He is dedicated and passionate, particularly regarding his work in [[Diadem|the Diadem]]. He is concerned with the faltering reputation of [[High Houses of Ishgard#House Haillenarte|House Haillenarte]], and hopes to restore it through obtaining the Diadem's bountiful resources. He is proud of his status and his house, and believes he will play a leading role in the future of Ishgard. Aurvael shows care for and pride in his younger siblings, Laniaitte and Francel, and looks up to his older brother, Stephanivien.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

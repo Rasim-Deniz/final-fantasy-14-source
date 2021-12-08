@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name = Severian Lyctor
+|release = FFXIV
+|japanese =セヴェリアン・リクター 
+|romaji =Severian Rikutā 
+|image =FFXIV Severian Lyctor.png
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Blonde
+|eye = Blue
+|home=[[Ul'dah]]
+|affiliation = Alchemists' Guild
+|occupation =Guildmaster
+|age =32<ref name=EE141>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 141</ref>
+|job = {{icon|ffxiv|discipline|alchemist}}
+|weapon = Thermal Alembic
+|armor = Alchemist's Attire
+}}
+'''Severian Lyctor''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the guildmaster of the Alchemist's Guild in [[Ul'dah]].
+
+==History==
+===Early Life===
+Severian was born to a Midlander family with ties to the syndicate, he was encouraged to pursue his art at a young age however passion came to obsession, and forgets to do basic necessities. He lost his lover to the calamity and his obsession worsened ever since.<ref name=EE141/>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{section}}
+
+==Characteristics==
+===Apperance===
+Severian is a male midlander [[Hyur]] wearing a full Alchemist attire. 
+
+===Personality===
+Not the most professional of sorts, he generally engrosses himself in his research and is lacking in social graces. Nonetheless, he's still willing to help others studying alchemy (if only to resume his work).
+
+== Etymology ==
+This character's name is likely a [[Final Fantasy XIV allusions/Other media|reference]] to [[wikipedia:Severian|Severian]], the main character of the series ''Book of the New Sun''. Severian becomes a Lictor later in the series.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Alchemists]]
+[[Category:Guildmasters]]

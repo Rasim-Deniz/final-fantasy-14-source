@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{expand}}
+[[File:Yoshida_Wandering_Minstrel.png|thumb|200px|The Wandering Minstrel in ''Final Fantasy XIV: A Realm Reborn''.]]
+The '''Wandering Minstrel''' {{J|異邦の詩人|Ihō no Shijin|Foreign Minstrel}} is a non-playable character from ''[[Final Fantasy XIV]]''. He appears in many side events in the [[Final Fantasy XIV/Legacy|original ''Final Fantasy XIV'']] and ''Final Fantasy XIV: A Realm Reborn''.
+
+The Wandering Minstrel's counterpart on [[The First]] is the Minstreling Wanderer.
+
+==Characteristics==
+===Appearance===
+The Wandering Minstrel dresses in a palette-swapped version of [[Bard (Final Fantasy XIV)#Bard|Bard]] [[Artifact equipment]]. His bow is also a palette-swapped version of Bard's [[Relic Weapon (equipment)|Relic Weapon]], the Artemis Bow. In ''A Realm Reborn'' he no longer wields the bow, but can always be seen carrying a harp.
+
+In ''Stormblood'', he also appears in [[Kugane]], donning a samurai outfit.
+
+===Personality===
+{{Character section|Final Fantasy XIV}}
+
+==Creation and development==
+His appearance is based on [[Naoki Yoshida]], the director of the game.
+
+==Gallery==
+;Artworks
+<gallery>
+FFXIV The Rising 2017.png|The Wandering Minstrel in the 2017 Rising event.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Wandering Minstrel.jpg|The Wandering Minstrel in ''Final Fantasy XIV'' (1.0).
+Wandering_Minstrel_1.0.jpg|In-game render (1.0).
+Wandering_Minstrel_Arrested.jpg|The Wandering Minstrel in jail (1.0).
+Wandering_Minstrel_The_Rising.png|The Wandering Minstrel during the seasonal event "[[The Rising]]".
+Wandering_Minstrel_Warrior_of_Light.png|The Wandering Minstrel speaking to the [[Warriors of Light#Final Fantasy XIV|Warrior of Light]] (the [[Warrior of Light (Final Fantasy XIV)|Adventurer]]).
+FFXIV Wandering Samurai.png|The Wandering Minstrel (samurai) in Kugane.
+FFXIV Yoshida Rising 2017.png|"Naoki Yoshida" appears with his staffs during The Rising 2017.
+</gallery>
+
+==See also==
+*[[Naoki Yoshida]]
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Bards]]
+[[Category:Hyurs]]
+[[Category:Samurai]]

@@ -1,0 +1,46 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Forlemort}}
+{{Infobox_character
+|name = Forlemort
+|release = FFXIV
+|japanese =フォルルモル 
+|romaji =Forurumoru 
+|image =FFXIV Forlemort.png 
+|race = [[Elezen]]
+|gender = Male
+|height = 
+|hair = Gray
+|eye = Purple
+|designer = 
+|age = 
+|home = [[Ishgard]]
+|affiliation=First Dicastrial Observatorium of Aetherial and Astrological Phenomena
+|occupation=Chief Astrologian
+|type=npc
+|weapon=
+|armor=Manor Halfrobe
+}}
+'''Forlemort''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the Chief Astrologian of the First Dicastrial Observatorium of Aetherial and Astrological Phenomena. A staunch traditionalist, he takes his job very seriously. He makes a brief appearance in ''A Realm Reborn'', and later reprises as a minor antagonist in the [[Astrologian (Final Fantasy XIV)|Astrologian]] job quests.
+
+== History ==
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Upon first arriving in Coerthas, [[Alphinaud Leveilleur|Alphinaud]] attempts to gain information from the Observatorium on the whereabouts of Cid's missing airship, the ''Enterprise''. Forlemort proves uncooperative and refuses their request for sky charts.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Forlemort plays a role in the Astrologian job quests, where he is opposed to [[Jannequinard|his nephew's]] attempts to spread Sharlayan astrology in the Holy See. He reluctantly reveals what become of Professor Mace's party from Sharlayan, having detoured into the Black Shroud to escape marauders.
+
+He is later sought out by Jannequinard for getting support for hosting a symposium on Sharlayan Astrology, and by that, he just sends the Warrior of Light to meet with his uncle. Surprisingly, Forlemort agreed simply because he hopes Jannquinard will make a fool of himself and get him out of his hair. He is later revealed to have been collaborating with Sharlayan agents attempting to extradite [[Leveva]] back to the Old World. The missive is later used to blackmail him into into not opposing their plans for a symposium, but he warns the Vault will be far more stubborn than him.
+
+== Characteristics ==
+=== Appearance ===
+Forlemort is a male ishgardian elezen with gray hair and purple eyes, he has a short beard, and wears a small pair of glasses. He wears a conal hat with a star pattern and a yellow and blue short rob.
+
+=== Personality ===
+Forlemort can be quite rude, unwilling to help those that need assistance. 
+
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Astrologians]]

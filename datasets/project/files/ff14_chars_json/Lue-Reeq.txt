@@ -1,0 +1,51 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Lue-Reeq
+|release=FFXIV
+|japanese=ルー・リーク
+|romaji=Rū Rīku
+|aka=Lue-Reeq of the Gilded Bow
+|image=FFXIV ShB Lue-Reeq.png
+|home=
+*[[Eulmore]] (formerly)
+*[[Kholusia#Gatetown|Gatetown]]
+|age=
+|dob=
+|affiliation=
+|occupation=Bounty hunter
+|race=Mystel
+|gender=Male
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}
+|weapon=Bow
+}}
+{{Quote|Me, I'm a Virtue-hunter. Got my sights set on Andreia─you know her? Not the easiest mark, I'll admit, which is why I'm thinking about recruiting a partner. Just thinking, though...|Lue-Reeq}}
+
+'''Lue-Reeq''' is a character from ''[[Final Fantasy XIV]]''. Appearing in the ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]'' expansion, Lue-Reeq one of the key characters for the physical DPS role questline, and functions as the quest giver for the quest chain. He is a hunter who does not save his resources to hunt Cardinal Virtue [[Renda-Rae|Andreia]].
+
+==Profile==
+===Appearance===
+===Personality===
+Lue-Reeq is exciteable and outgoing, ready for whatever is thrown at his way. 
+
+==Story==
+{{Spoiler}}
+Lue-Reeq is the son of a lord of [[Eulmore]] but never received attention from his father and was raised by a nurse named [[Olvara]] until his youth. His father never cared what Lue-Reeq did as long as he didn't mess up his family name. Seeking to be recognized by his father, Lue-Reeq decides to become a hunter and invests a large amount of his family's money to collect information about Cardinal Virtue [[Renda-Rae|Andreia]]. Lue-Reeq hired several hunters to help him, but none remained in his party for long time.
+
+Lue-Reeq meets the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] in [[Crystarium (Final Fantasy XIV)|Crystarium]] and together they hunt Andreia. During the quests, the Warrior of Darkness has [[Echo (Final Fantasy XIV)|visions]] of [[Renda-Rae]]'s past before she becomes Andreia, and Lue-Reeq recognizes the vision as a tale told to him by Olvara during his childhood. The pair heads to [[Kholusia#Gatetown|Gatetown]] and meet with Olvara who shares her knowledge about Renda-Rae. Subsequently, Lue-Reeq goes off alone in search of Andreia and finds that one of his former hired companions, [[Lanbyrd]] was turned into a [[sin eater]] by Andreia and seeing the other Sin Eaters that accompanied Cardinal Virtue, he concludes that Andreia was trying to recreate her [[Warriors of Darkness (Final Fantasy XIV)|old party]].
+
+Lue-Reeq's bad reputation as a hunter eventually comes to his father, and his father orders him to stop smearing the family name and return to Eulmore, but Lue-Reeq decides to resign his family and go his own way as a bounty hunter. Lue-Reeq alongside his first friend, the Warrior of Darkness, make their way to [[Rak'tika Greatwood]] and face Andreia and her teammates. Once Cardinal Virtue is defeat, the spirit of Renda-Rae appears to the pair and says her last words. After his adventure, Lue-Reeq decides to live with Olvaria.
+
+After [[Elidibus (Final Fantasy XIV)|Elidibus]] begins impersonating [[Ardbert]], Lue-Reeq may be one of the characters who visit the warrior's room at night. Lue-Reeq learns about the [[Ascian]]s. Dissatisfied with the situation, he offers encouraging words for the warrior to do what is right.
+
+Lue-Reeq later aids the adventurerer and the Scions in the battle against the spectres of the Warriors of Light summoned by Elidibus.{{Endspoiler}}
+
+==Gameplay==
+Lue-Reeq of the Gilded Bow is an allied npc and assists the Warrior of Darkness in the [[Quest Battle|Special Instance]] during Physical DPS role quest level 80 {{icon|ffxiv|quest|Courage Born of Fear}} and at the end of {{icon|ffxiv|duty|Heroes' Gauntlet}}.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]
+[[Category:Rangers]]

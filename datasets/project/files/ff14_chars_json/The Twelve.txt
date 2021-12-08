@@ -1,0 +1,382 @@
+{{sideicon|prime=FFXIV}}
+[[File:Loisoux Seals Bahamut.png|thumb|250px|The Twelve attempt to seal [[Bahamut (Final Fantasy XIV)|Bahamut]] in the ending of ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''.]]
+'''The Twelve''' {{j|エオルゼア十二神|Eoruzea Jūnishin|Eorzea Twelve Gods}} are the pantheon of [[Eorzea]] in ''[[Final Fantasy XIV]]'', consisting of twelve benevolent deities who ruled the continent and its surrounding islands until the arrival of the [[Final Fantasy XIV#Playable races|wandering tribes]]. During character creation, players must align to one of the twelve deities. This used to [[#Player Guardian|slightly affect elemental resistances]], but no longer serves a gameplay effect.
+
+The Twelve played a crucial part in patch 1.23 of the [[Final Fantasy XIV/Legacy|original ''Final Fantasy XIV'']]. They will be again a relevant element for the "Myths of the Realm" storyline, the alliance raid series of the ''[[Endwalker]]'' expansion.
+
+==Profile==
+The Twelve took up residence in the land which became known as Eorzea with the [[Moogle (race)#Final Fantasy XIV|moogles]] as their servants. The Twelve ruled over the land until the arrival of the [[Final Fantasy XIV#Playable races|wandering tribes]]: the [[Elezen]], [[Miqo'te]], [[Lalafell]], [[Roegadyn]] and [[Hyur]]. Impressed by the tribes' resourcefulness and resilience, the Twelve ceded the land with some becoming patron deities of Eorzea's cities.
+
+Each pair of the Twelve commands one of the six elements and each is associated with a month of the Eorzean [[Calendar system|calendar]]. Each elemental pair is, conversely, tied to one of the six constellations of Hydaelyn's night sky. Each deity has a symbol that reflects one of its traits: for example, Althyk's symbol is an hourglass, Oschon's is a walking staff, and Halone's symbol is three spears side-by-side.
+
+The Ancient known as [[Azem]] is theorized to be connected to Azeyma due to their similar name. Any other connections between the Ancients and the Twelve, or if one truly does exist between Azem and Azeyma, have not been confirmed and have been noted in-game to be simply theories.
+
+==History==
+===[[Final Fantasy XIV/Legacy|Legacy ''Final Fantasy XIV'']]===
+[[Nael van Darnus]], the Legatus of the VIIth Legion, called upon [[Dalamud]] using forbidden [[Allagan Empire|Allagan]] magic. Her defeat at [[Mor Dhona#Castrum Novum|Castrum Novum]] under the combined forces of the [[Grand Company|Grand Companies]] did not halt Dalamud's descent. The symbols of the Twelve appeared across Eorzea, etched into stone and pulsing with a faint, comforting glow. Claiming that the gods would be stirred from slumber by the united prayers of their vassals, the Elezen scholar [[Louisoix Leveilleur]] encouraged the people of Eorzea to seek out these symbols and offer supplication to the Twelve. Later on, he confessed to his chosen [[Warrior of Light (Final Fantasy XIV)|adventurers]] that the symbols were carved by none other than himself. On his search for an item he would describe as Daybreak, he had created the spiritual anchors as part of a ritual to save their realm—the summoning of the Twelve.
+
+Louisoix led the three-nation army at Carteneau Plains in [[Mor Dhona]], where the forces of the [[Garlean Empire]] and the Eorzean Alliance met in a conclusive battle. The battle slowed to a halt as Dalamud broke up to unleash the elder [[primal]] [[Bahamut (Final Fantasy XIV)|Bahamut]] whose fury instigated the [[Seventh Umbral Era]]. Louisoix summoned the power of the Twelve, and columns of light erupted from the marked stones taking shapes reminiscent Dalamud's spires and piercing Bahamut twelve times over, binding him in place as a radiant sphere engulfed him. Aetherial glyphs manifested in the skies, surrounding the elder primal's prison with the symbols of his captors, and the ritual failed. Though Louisoix came close to resealing Bahamut, he held back knowing that the simultaneous summoning of twelve deities would wound [[Hydaelyn (character)|Hydaelyn]]. Nourished by the aether of a dying realm, Bahamut converged on a growing sphere. Louisoix consigned himself to his fate, using what energy remained to conjure the power of [[#Althyk|Althyk]] and deliver the adventurers beyond the reach of time and space.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[Gaius van Baelsar]] has compared the Twelve to the [[Beastmen|beast tribes']] primals, regarding them as "eikons" and insinuating they could be summoned with sufficient [[Crystal (term)#Final Fantasy XIV|crystals]]. This is supported by Little Ala Mhigo involving an abandoned scheme by young refugees, who hoped to steal the [[Amalj'aa]]'s crystal supply to summon Rhalgr to enact vengeance on the Garlean Empire. Later, [[Nabriales]] claims that Louisoix had evoked the Twelve without a large sum of crystals through use of the [[Tupsimati]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Primals are not the original being, but imitations, or what somebody's vision of that being would be given form. Therefore, the Twelve themselves cannot be summoned this way, but a primal in their image can be. As such, Gaius's theory about summoning the Twelve, and the scheme to summon Rhalgr, are somewhat incorrect.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Based on the similar names and imagery used in their backgrounds, [[Urianger Augurelt]] speculates that Azem, one of ancient Amaurot's Convocation of Fourteen, may be related to the Twelve's [[#Azeyma|Azeyma]] and the [[Au Ra#Xaela|Xaela]] deity Azim in some way - though he admits at this time it is little more than a theory which may never be proven.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+While momentarily brought back from the death by the Warrior before breaking the spell, [[Emet-Selch]] gives the Warrior reason to move forward by pointing out the places they had yet seen and incentive to know more of who the Tweleve were.
+
+==The Twelve==
+===Halone===
+[[File:FFXIV Halone Icon.png|thumb|40px]]
+Halone {{j|ハルオーネ|Haruōne}}, the Fury, mover of glaciers and goddess of war, commands the element of [[Ice (element)|ice]] and is tied to the First Astral Moon (first month). She is depicted as a relentless warrior holding a bronze greatshield, and her symbol is three spears. Halone is the patron of the Holy See of [[Ishgard]], and is bitter rivals with Nophica.
+
+The mark of Halone is located at the Fury's Gaze in [[Coerthas Central Highlands]]. Prior to the [[Umbral Calamity|Calamity]], it could be found in a place by the same name in the Twinpools area of Coerthas.
+
+Halone Gerbera<!-- reagent --> is a flowering plant said to be beloved of the goddess.
+
+===Menphina===
+[[File:FFXIV Menphina Icon.png|thumb|40px]]
+Menphina {{j|メネフィナ|Menefina}}, the Lover, keeper of the once-twin and now-lone [[moon]]s and the goddess of love, commands the element of ice and is associated with the First Umbral Moon (second month). She is depicted as a maid carrying a round skillet. Her symbol is the full greater moon. Menphina is the younger sister of Azeyma, and the divine lover of Oschon.
+
+The mark of Menphina is located near the Steel Vigil in Coerthas Central Highlands. Prior to the Calamity, it could be found in one of the stone stacks at Gwyr-Aen in Coerthas.
+
+Dalamud was often referred to as "Menphina's Loyal Hound" prior to its fall; during the advent of the Seventh Umbral Era, this often changed to less flattering things like "Menphina's Bastard Hound".
+
+The [[Botanist]] action [[Botanist#Menphina's Ward|Menphina's Ward]] increases the drop rate of ice shards, ice crystals, or ice clusters while gathering.
+
+The Keeper of the Moon Miqo'te traditionally worship Menphina.
+
+===Thaliak===
+[[File:FFXIV Thaliak Icon.png|thumb|40px]]
+Thaliak {{j|サリャク|Saryaku}}, the Scholar, ruler of rivers and wisdom and god of knowledge, commands the element of [[Water (element)|water]] and is tied to the Second Astral Moon (third month). He is depicted as a reserved scholar holding an ashen staff, and his symbol is the scroll. Thalia is the patron of [[Sharlayan]], Byregot's teacher, and father of Llymlaen.
+
+The mark of Thaliak is located at Rathefrost in Mor Dhona. Prior to the Calamity, it could be found on a crystal pillar at The Crypt of Xandes, northwest of Camp Brittlebark in Mor Dhona.
+
+The [[Miner]] action [[Miner#Thaliak's Ward|Thaliak's Ward]] increases the drop rate of water shards, water crystals, or water clusters while gathering.
+
+The names of the Thaliak River<!-- fishing log / dravanian hinterlands -->, Thaliak Caiman<!-- seafood -->, Thaliak's Thumb<!-- key item -->, and Scholar Sculpin<!-- seafood --> all allude to Thaliak. Louisoix's staff bears the mark of Thaliak. {{Show image|FFXIV_Louisoix_Thaliak.jpg}}
+
+===Nymeia===
+[[File:FFXIV Nymeia Icon.png|thumb|40px]]
+Nymeia {{j|ニメーヤ|Nimēya}}, the Spinner, the watcher of celestial bodies and goddess of fate, commands the element of water and is associated with the Second Umbral Moon (fourth month). She is depicted as a weaver donning a white, silken veil. Her symbol is the spinning wheel. She is the younger sister of Althyk, and the master of Rhalgr.
+
+The mark of Nymeia is located at the south of Moraby Drydocks, [[Lower La Noscea]]. Prior to the Calamity, it could be found on a cliff at Moraby Bay, Lower La Noscea.
+
+Nymeia's Ward is a trait common to Botanist and Miner. It occasionally increases yield for items without HQ versions, such as seeds.
+
+Nymeia briefly became the matron deity of [[Ala Mhigo]] during the reign of King Theodoric from 1552 to the city-state's fall in 1557.
+
+Bouquets of Nymeia Lilies<!-- key item --> are placed upon lichstones as an offering to the dead. The Nymeia Lily<!-- reagent --> is said to be beloved of the Spinner.
+
+===Llymlaen===
+[[File:FFXIV Llymlaen Icon.png|thumb|40px]]
+Llymlaen {{j|リムレーン|Rimurēn}}, the Navigator, watcher of the seas and goddess of navigation, commands the element of [[Wind (element)|wind]] and is tied to the Third Astral Moon (fifth month). She is depicted as a strong fisherwoman holding a long-bladed harpoon, and her symbol is the wave. Llymlaen is the daughter of Thaliak and the elder sister of Nophica. Llymlaen is also the patron of [[Limsa Lominsa]].
+
+The mark of Llymlaen is located at the Anchor Yard in Limsa Lominsa Upper Decks, overlooking the harbor from above, at the foot of a monument. It is the stone [[Y'shtola Rhul|Y'shtola]] is praying to in the End of an Era cutscene.
+
+The [[Botanist]] action [[Botanist#Llymlaen's Ward|Llymlaen's Ward]] increases the drop rate of wind shards, wind crystals, or wind clusters while gathering.
+
+The maps in [[La Noscea]], such as Llymlaen's Folly and Llymlaen's Resolve, make various references to Llymlaen, particularly in Cassiopeia Hollow and Shposhae.
+
+===Oschon===
+[[File:FFXIV Oschon Icon.png|thumb|40px]]
+Oschon {{j|オシュオン|Oshuon}}, the Wanderer, ruler of the mountains and god of vagrants, commands the element of wind and is associated with the Third Umbral Moon (sixth month). He is depicted as a carefree ranger wielding a bow of yew. His symbol is the walking stick. Oschon is the brother of Nald'thal, a close companion of Halone, and the divine lover of Menphina. He is the patron of the ancient city of [[Nym]] and the [[Miner]]s' Guild.
+
+The mark of Oschon is located at near the Floating City of Nym in [[Outer La Noscea]]. Prior to the Calamity, it could be found in the Iron Lake area of [[Upper La Noscea]].
+
+Oschon's Torch is a lighthouse at the God's Grip in Lower La Noscea. It is opposite a lighthouse called Llymlaen's Ring. After the Gods's Grip became separated from the main island of [[Vylbrand]] in the wake of the Calamity, a bridge named Oschon's Embrace was built.
+
+Oschon's Print<!--seafood--> and Oschon Roselles<!-- key item --> bear the Wanderer's name. The [[Bard (Final Fantasy XIV)#Bard|Bard]] spell [[Bard (Final Fantasy XIV)#The Wanderer's Minuet|The Wanderer's Minuet]] also alludes to Him.
+
+===Byregot===
+[[File:FFXIV Byregot Icon.png|thumb|40px]]
+Byregot {{j|ビエルゴ|Bierugo}}, the Builder, purveyor of architecture and industry and god of the arts, commands the element of [[Lightning (element)|lightning]] and is tied to the Fourth Astral Moon (seventh month). He is depicted as an ardent smith holding a two-headed hammer, and his symbol is the hand. Byregot is the son of Rhalgr and the elder brother of Halone. Byregot is also Thaliak's pupil.
+
+The mark of Byregot is located northwest of Camp Tranquil in [[South Shroud]]. Prior to the Calamity, it could be found in a lake near Camp Crimson Bark in Pixie Falls, [[Black Shroud]].
+
+The [[Carpenter]] ability [[Carpenter#Byregot's Blessing|Byregot's Blessing]] increases quality by 100% plus 20% for each bonus to control granted by Inner Quiet. The class action Byregot's Brow and specialist action Byregot's Blessing can be learned by all [[Final Fantasy XIV disciplines|Disciples of the Hand]].
+
+The [[Miner]] action [[Miner#Byregot's Ward|Byregot's Ward]] increases the drop rate of lightning shards, lightning crystals, or lightning clusters while gathering.
+
+Byregot's Strike in [[Southern Thanalan]] is named for the Builder.
+
+===Rhalgr===
+[[File:FFXIV Rhalgr Icon.png|thumb|40px]]
+Rhalgr {{j|ラールガー|Rārugā}}, the Destroyer, breaker of worlds and god of destruction, commands the element of [[Thunder (ability)|lightning]] and is tied to the Fourth Umbral Moon (eighth month). He is depicted as a magi carrying a bronze staff, and his symbol is the streaking meteor. Father of both Byregot and Halone, he is the attendant to Nymeia, and guardian deity of [[Ala Mhigo]].
+
+The mark of Rhalgr is located at Little Ala Mhigo, Southern Thanalan. Prior to the Calamity, it could be found in the refugee village of Little Ala Mhigo, south of Camp Drybone, [[Thanalan]]. Statues of Rhalgr, both called ''The Destroyer'', can be found in [[Rhalgr's Reach#The Destroyer|Rhalgr's Reach]] and the [[Lochs#The Destroyer|Lochs]].
+
+Rhalgr's Bile<!--key item--> is named for the Destroyer; it is a terrible poison infamously used in the assassination of an Ala Mhigan king.
+
+===Azeyma===
+[[File:FFXIV Azeyma Icon.png|thumb|40px]]
+Azeyma {{j|アーゼマ|Āzema}}, the Warden, keeper of the sun and goddess of inquiry, commands the element of [[Fire (element)|fire]] and is tied to the Fifth Astral Moon (ninth month). She is depicted as a noble lady holding a golden fan, and her symbol is the radiant sun. She is the mother of Nophica, the elder sister of Menphina, and the daughter of Althyk. <!-- potential spoiler -->
+
+The mark of Azeyma is located near the Burning Wall in [[Eastern Thanalan]]. Prior to the Calamity, it could be found in the Sandgate area of Eastern Thanalan, on a cliff overlooking the Grand Wake desert.
+
+The Seeker of the Sun [[Miqo'te]] traditionally worship Azeyma.
+
+The [[Quests (Final Fantasy XIV)/Legacy|legacy sidequest]] "Hearing Confessions" involves seeking out followers of Azeyma.
+
+Prior to the Calamity, Azeyma's Shields was a faction that fought against dangers within the city-states of Eorzea.
+
+The Azeyma Rose<!--reagent--> is beloved of the Warden. Its oil<!--key item--> is used as incense at Stillglade Fane and is beloved by Sylphs.
+
+The [[Bard (Final Fantasy XIV)#Bard|Bard]] ability [[Bard (Final Fantasy XIV)#The Warden's Paean|The Warden's Paean]] also alludes to Her.
+
+She is thought by [[Urianger Augurelt]] to potentially have been based on the [[Ascian|Ancient]] [[Azem]], though only pointing out the similarities in the names and sun motifs as being possible links.
+
+===Nald'thal===
+[[File:FFXIV Nald thal Icon.png|thumb|40px]]
+Nald'thal {{j|ナルザル|Naruzaru}}, the Traders, overseer of transactions and the underworld and god of commerce, commands the element of fire and is tied to the Fifth Umbral Moon (tenth month). Nald'thal is depicted as a discerning merchant holding a balance, and his symbol is the cowry, an ancient shell currency. Oschon is Nald'thal's brother. Nald'thal is actually the single manifestation of the twins Nald and Thal.
+
+Nald'thal is the only member of The Twelve to have two stone symbols. The stones' location remain unchanged. They are located in the statues of both Nald and Thal in [[Ul'dah]] at the Arrazaneth Ossuary in Steps of Nald, and at the Milvaneth Sacrarium in Steps of Thal. The second location is currently inaccessible as of version 2.0. The Mark of the Dusk Trader is the stone [[Thancred Waters|Thancred]] is praying to in the End of an Era cutscene.
+
+The [[Miner]] action [[Miner#Nald'thal's Ward|Nald'thal's Ward]] increases the drop rate of fire shards, fire crystals, or fire clusters while gathering, and the action [[Miner#Nald'thal's Counsel|Nald'thal's Counsel]] increases the chance of obtaining an HQ item on the next gathering attempt
+
+The [[Black Mage (Final Fantasy XIV)|Thaumaturge]]s' Guild is located in the Arrazaneth Ossuary, a temple to Thal.
+
+The Traders' Spurn is a necromantic powder named for Nald'thal that infamously caused the fall of Sil'dih.
+
+Two shrines, Nald's Reflection and Thal's Respite, can be found in Southern Thanalan and Eastern Thanalan, respectively.
+
+===Nophica===
+[[File:FFXIV Nophica Icon.png|thumb|40px]]
+Nophica {{j|ノフィカ|Nofika}}, the Matron, tender of soils and harvests and goddess of abundance, commands the element of [[Earth (element)|earth]] and is tied to the Sixth Astral Moon (eleventh month). She is depicted as a jubilant farmer holding a steel scythe, and her symbol is the spring leaf. Daughter of Azeyma, Nophica is the younger sister of Llymlaen, and the bitter rival of Halone. Nophica is also the patron of [[Gridania]].
+
+The mark of Nophica is located above the entrance to Stillglade Fane at Old Gridania. Prior to the Calamity, it could be found on the Skyserpent's Egg at Nophica's Altar, leading to Stillglade Fane. The Mark of the Matron is the stone [[Papalymo Totolymo|Papalymo]] and [[Yda Hext|Yda]] are praying to in the End of an Era cutscene.
+
+Nophica's Wells in [[Western Thanalan]] was so named because it was once an oasis. The water here has since dried up during the climate changes in the Seventh Umbral Era.
+
+The [[Botanist]] ability [[Botanist#Nophica's Ward|Nophica's Ward]] increases the drop rate of earth shards, earth crystals, or earth clusters while gathering, and the action [[Botanist#Nophica's Counsel|Nophica's Counsel]] increases the chance of obtaining an HQ item on the next gathering attempt.
+
+Matron's Mistletoe<!--reagent--> is a parasitic plant named for Nophica that appears to embrace the trees upon which it grows. It's an ingredient in Hi-Potion and Hi-Ether.
+
+The [[White Mage (Final Fantasy XIV)|Conjurer]] actions "Shroud of Saints" and "Sacred Prism" are called "Goddess' Protection" and "Goddess' Compassion" in the Japanese version. The development team has confirmed that this references Nophica, whose altar is outside the Conjurer's Guild.
+
+One hymn is known to honor Nophica. This hymn is a favorite among farmers and harvesters in Gridania. The lyrics are:
+:''Sun's sweet smile and wind's cool breath,''
+:''Both of these I send thee,''
+:''To ripe thy fruit and spread thy seed,''
+:''And nourish those that tend thee.''
+
+===Althyk===
+[[File:FFXIV Althyk Icon.png|thumb|40px]]
+Althyk {{j|アルジク|Arujiku}}, the Keeper, the surveyor of change and god of space and time, commands the element of earth and is associated with the Sixth Umbral Moon (twelfth month). He is depicted as an austere emperor wielding a mythril greataxe. His symbol is the hourglass. He is the father of Azeyma and Menphina, and elder brother to Nymeia.
+
+The mark of Althyk is located at South Shroud, near [[Amdapor Keep]]. Prior to the Calamity, it could be found in a stone formation near Lynxpelt Patch, The Black Shroud.
+
+Althyk's Lavender<!--key item--> is a fragrant variety of lavender rarely found in the arid lowland regions of Thanalan. Due to its rarity, it is prized as an offering at funerals held at the Church of Saint Adama Landama.
+
+Louisoix conjured the power of Althyk during the final battle with Bahamut to deliver the adventurers to a safer place.
+
+==Constellations==
+Each elemental pairing of the Twelve is tied to one of the six constellations of Hydaelyn's night sky. The cards of the [[Astrologian (Final Fantasy XIV)|Astrologian's]] divining deck, except for the [[Lord of Crowns|Lord]] and [[Lady of Crowns|Lady of Crowns]], represent the six constellations. The symbols of The Twelve can also be seen on the cards.
+
+{|class="article-table"
+!Constellation
+!Element
+!Deities
+!Description
+!Image
+|-
+|{{A|The Bole}}
+|Earth
+|Nophica & Althyk
+|The Trunk of the World Tree, planted by Nophica and nurtured by Althyk. The source from which all life is said to have sprung.
+|[[File:FFXIV The Bole Constellation.gif|thumb]]
+|-
+|{{A|The Balance}}
+|Fire
+|Azeyma & Nald'thal
+|A representation of prosperity brought about by Nald'thal, carrying scales that are kept in equilibrium by Azeyma.
+|[[File:FFXIV The Balance Constellation.gif|thumb]]
+|-
+|{{A|The Spire}}
+|Lightning
+|Byregot & Rhalgr
+|A great iron tower of spinning gears and taut springs constructed by Byregot. Constantly under attack by Rhalgr, but his levin bolts only serve to power the tower.
+|[[File:FFXIV The Spire Constellation.gif|thumb]]
+|-
+|{{A|The Arrow}}
+|Wind
+|Llymlaen and Oschon
+|An archer drawing back an arrow created atop a lofty peak by Oschon, who was guided by Llymlaen.
+|[[File:FFXIV The Arrow Constellation.gif|thumb]]
+|-
+|{{A|The Ewer}}
+|Water
+|Thaliak and Nymeia
+|The vessel of Thaliak, from which pours forth a mighty river that contains all knowledge held in the past, present, and future, and contains the [[aether]] spun from the loom of Nymeia.
+|[[File:FFXIV The Ewer Constellation.gif|thumb]]
+|-
+|{{A|The Spear}}
+|Ice
+|Halone and Menphina
+|The spear-wielding Halone, whose domain was carved from the frozen moonbeams of Menphina.
+|[[File:FFXIV The Spear Constellation.gif|thumb]]
+|}
+
+==Player Guardian==
+After [[Character creation|creating a character]] and choosing a [[Birthday|birth date]], players must align to one of the twelve deities. Originally, this slightly raised the character's elemental resistances based on the element of the chosen deity. As of Patch 4.2, elemental resistance stats were removed, leaving this decision with no in game effect.
+
+{|class="full-width FFXIV sortable article-table" style="text-align:center"
+|-
+!style="width:22%"|Guardian
+!style="width:13%"|Fire
+!style="width:13%"|Ice
+!style="width:13%"|Wind
+!style="width:13%"|Earth
+!style="width:13%"|Lightning
+!style="width:13%"|Water
+|-
+!Halone
+| +0
+| +4
+| +3
+| +2
+| +2
+| +2
+|-
+!Menphina
+| +0
+| +4
+| +3
+| +2
+| +2
+| +2
+|-
+!Thaliak
+| +2
+| +2
+| +2
+| +3
+| +0
+| +4
+|-
+!Nymeia
+| +2
+| +2
+| +2
+| +3
+| +0
+| +4
+|-
+!Llymlaen
+| +3
+| +0
+| +4
+| +2
+| +2
+| +2
+|-
+!Oschon
+| +3
+| +0
+| +4
+| +2
+| +2
+| +2
+|-
+!Byregot
+| +2
+| +2
+| +2
+| +0
+| +4
+| +3
+|-
+!Rhalgr
+| +2
+| +2
+| +2
+| +0
+| +4
+| +3
+|-
+!Azeyma
+| +4
+| +3
+| +0
+| +2
+| +2
+| +2
+|-
+!Nald'thal
+| +4
+| +3
+| +0
+| +2
+| +2
+| +2
+|-
+!Nophica
+| +2
+| +2
+| +2
+| +4
+| +3
+| +0
+|-
+!Althyk
+| +2
+| +2
+| +2
+| +4
+| +3
+| +0
+|}
+
+==Gallery==
+<gallery>
+FFXIV The Twelve.png|The Twelve's family tree.
+The twin adder poster notext.jpg|Goddess Nophica in the Twin Adders poster.
+FFXIV Sanctum of the Twelve.png|Symbols in the Sanctum of the Twelve.
+FFXIV Eternal Bond Spinners Hand Toast.png|Symbols in the Ivory Chapel.
+FFXIV Louisoix vs Bahamut.png|Symbols in Louisoix' final attack.
+FFXIV Louisoix Althyk.jpg|Althyk's symbol in the End of an Era cutscene.
+FFXIV Nophica Stone Light.png|Column of light in Nophica's stone in End of an Era cutscene.
+FFXIV Nald thal Stone Light.png|Column of light in Nald'thal's stone in End of an Era cutscene.
+FFXIV Llymlaen Stone Light.png|Column of light in Llymlaen's stone in End of an Era cutscene.
+</gallery>
+
+;Stone Locations
+<gallery>
+FFXIV Halone Stone.jpg|Stone with Halone's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Menphina Stone.jpg|Stone with Menphina's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Thaliak Stone.jpg|Stone with Thaliak's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Nymeia Stone.jpg|Stone with Nymeia's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Llymlaen Stone.jpg|Stone with Llymlaen's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Oschon Stone.jpg|Stone with Oschon's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Byregot Stone.jpg|Stone with Byregot's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Rhalgr Stone.jpg|Stone with Rhalgr's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Azeyma Stone.jpg|Stone with Azeyma's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Nald thal Stone1.jpg|Stone with Nald'thal's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Nald thal Stone2.jpg|Stone with Nald'thal's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Nophica's Altar.png|Stone with Nophica's symbol in legacy ''Final Fantasy XIV''.
+FFXIV Althyk Stone.jpg|Stone with Althyk's symbol in legacy ''Final Fantasy XIV''.
+FFXIVARR Halone Stone.jpg|Stone with Halone's symbol ''Final Fantasy XIV''.
+FFXIVARR Menphina Stone.jpg|Stone with Menphina's symbol ''Final Fantasy XIV''.
+FFXIVARR Thaliak Stone.jpg|Stone with Thaliak's symbol ''Final Fantasy XIV''.
+FFXIVARR Nymeia Stone.jpg|Stone with Nymeia's symbol ''Final Fantasy XIV''.
+FFXIVARR Llymlaen Stone.jpg|Stone with Llymlaen's symbol ''Final Fantasy XIV''.
+FFXIVARR Oschon Stone.jpg|Stone with Oschon's symbol ''Final Fantasy XIV''.
+FFXIVARR Byregot Stone.jpg|Stone with Byregot's symbol ''Final Fantasy XIV''.
+FFXIVARR Rhalgr Stone.jpg|Stone with Rhalgr's symbol ''Final Fantasy XIV''.
+FFXIVARR Azeyma Stone.jpg|Stone with Azeyma's symbol ''Final Fantasy XIV''.
+FFXIVARR Nald thal Stone.jpg|Stone with Nald'thal's symbol''Final Fantasy XIV''.
+FFXIVARR Nophica Stone.jpg|Stone with Nophica's symbol ''Final Fantasy XIV''.
+FFXIVARR Althyk Stone.jpg|Stone with Althyk's symbol ''Final Fantasy XIV''.
+</gallery>
+
+{{navbox setting FFXIV}}
+
+
+[[de:Die Zwölf]]
+[[pt-br:Os Doze]]
+[[Category:Final Fantasy XIV]]
+[[Category:Deities]]

@@ -1,0 +1,60 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=V'kebbe
+|release=FFXIV
+|japanese=野良猫のヴァ・ケビ
+|romaji=Noraneko no Va-Kebi
+|lit=Stray Cat Va'kebi
+|aka=V'kebbe the Stray
+|image=V'kebbe.png
+|portrait=
+|home=[[Limsa Lominsa]]
+|age=20s{{cite|FFXIV|Astrologian quest {{icon|ffxiv|quest|Slings and Arrows}}.|name=Slings and Arrows}}
+|dob=
+|affiliation=Rogues' Guild
+|occupation=Rogue
+|education=
+|race=[[Miqo'te]]
+|gender=Female
+|height=
+|weight=
+|hair=Red
+|eye=Purple
+|type=npc
+|job={{icon|ffxiv|discipline|rogue}}
+|abilities=
+|weapon=Daggers
+|armor=
+}}
+{{Quote|The trick is to listen without bein' seen. Ye'd be surprised at how culls'll cackle when they think no one else is about.|V'kebbe}}
+
+'''V'kebbe''' is a non-playable character from ''[[Final Fantasy XIV: A Realm Reborn]]''. She is a prominent member of the {{icon|ffxiv|discipline|rogue}}s' Guild in [[Limsa Lominsa]], appearing as a supporting character for both the {{icon|ffxiv|discipline|rogue}} and {{icon|ffxiv|discipline|ninja}} questlines.
+
+==History==
+{{Section}}
+
+==Characteristics==
+===Appearance===
+V'kebbe is a [[Miqo'te]] Seeker of the Sun with long red hair and purple eyes. In accordance with other members of the Rogues' Guild, her outfit is primarily green, consisting of an Arachne Shirt of Scouting as well as an Arachne bandana, field dressings, and gaskins. She also wears Kirimu Sandals of Scouting.
+
+===Personality===
+V'kebbe is respected amongst the Rogues' Guild for being highly capable in espionage, due to her ability to be cunning and quick on her feet. She is remarkably protective of the guild and abides closely by their code regardless of who breaks it (or if the matter is as negligible as a stolen sandwich).  While she takes her work seriously, she has a playful side that can be seen both in affectionate teasing amongst comrades and sharp-witted comments in battle.
+
+==Gameplay==
+V'kebbe fights alongside the [[Warrior of Light (Final Fantasy XIV)|Adventurer]] in several Rogue class quests. While she fights as a Rogue, she also fills the role of a healer.
+
+==Gallery==
+<gallery>
+V'kebbe_FFXIV.png|A close-up of V'kebbe.
+Ballock-for-brain_KO.png|V'kebbe after defeating a Dainty Demolisher.
+V'kebbe_&_Perimu.png|V'kebbe and Perimu Haurimu during the quest "Slave to the Code".
+V'Kebbe_In_Battle.png|V'kebbe in battle.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

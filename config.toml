@@ -1,7 +1,7 @@
 BaseUrl= "https://Rasim-Deniz.github.io/final-fantasy-14/"
 LanguageCode= "en-US"
 Title= "Final Fantasy XIV Network"
-paginate = 5
+paginate = 7
 DisqusShortname = ""
 Copyright = "All rights reserved - 2021"
 canonifyurls = true

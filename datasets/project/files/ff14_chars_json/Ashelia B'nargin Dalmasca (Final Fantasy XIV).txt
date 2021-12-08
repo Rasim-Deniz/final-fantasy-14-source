@@ -1,0 +1,53 @@
+{{sideicon|FFXIV}}
+{{DISPLAYTITLE:Ashelia B'nargin Dalmasca (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ashelia B'nargin Dalmasca
+|release=FFXIV
+|japanese=アシェーリア王女
+|romaji=Ashēria Ōjo
+|lit=Princess Ashelia
+|aka=
+|image=FFXIV Ashelia Rasler BaGamnan.png|Princess Ashelia (center).
+|home=[[Dalmasca (Final Fantasy XIV)|Dalmasca]]
+|age=
+|dob=
+|affiliation=
+|occupation=Princess of Dalmasca
+|education=
+|race=[[Hyur]]
+|gender=Female
+|hair=
+|eye=
+|type=npc
+|original appearance=[[Ashelia B'nargin Dalmasca]]
+}}
+'''Princess Ashelia B'nargin Dalmasca''' is a historical character from ''[[Final Fantasy XIV]]''. She was the princess of [[Dalmasca (Final Fantasy XIV)|Dalmasca]]. She and her twin brother [[Rasler B'nargin Dalmasca|Prince Rasler]] died around thirty years ago.
+
+==History==
+Ashe and Rasler appear in backstory of the [[Return to Ivalice]] arc. They are twins who were killed in the [[Garlean Empire|Garlean]] invasion 30 years ago. Before dying, Rasler entrusted his sister's safety to [[Ba'Gamnan (Final Fantasy XIV)|Ba'Gamnan]], a fusilier in the Dalmascan Army, and entrusted him with an auracite necklace as well. The princess perished before they could escape the Garamsythe Waterway, wishing in her dying breath for Ba'Gamnan and his companion to survive. 
+
+Years later, The Warrior of Light hears of rumors of someone claiming to be the princess leading a rebellion. Given her confirmed death and the large time gap, the rumors are written off as false, and the woman is never seen, instead having [[Fran Eruyt]] meet with the Warrior.
+
+However, Fran does refer to the leader of Lente's Tears, the rebel force Fran serves as general, as "Princess."
+
+In truth, Ashe's death was faked by Fran and the secret organization she belonged to, the [[Saraab]], whose duty was to protect the Dalmascan royal family from the shadows. It was a fake assassination attempt to make Ashe appear dead so that she may continue to live in secret, protecting the royal bloodline. Ba'Gamnan and the other fusiliers witnessed the event, and unaware of the truth, unwittingly did just as the Saraab wanted and spread word of the princess's death.
+
+The mission was carried out under permission of Prince Rasler because if the people knew their princess was still alive they would continue to fight to the last man, even if there was no hope of victory. Rather than watch his people die in vain, he devised a plan to spirit her away. The princess was put into a deep sleep using a method of Fran's people, the Viera, until the day the kingdom could be reborn.
+
+When Ashelia finally awoke 30 years later, most of her memories had abandoned her but she could still remember her identity and purpose. However, whether it be due to her induced slumber or the emotional scars left by the horrors of war, she would often find herself assailed by images of the past. In the years since her fake death Fran had become a general of Lente's Tears, and she continued this role while also serving as an advisor to Ashelia.
+
+Others who meet Ashelia such as [[Bwagi Ennze Panca]], are unaware that she is the very same princess and believe her to be a descendant of the royal bloodline.{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Fran}}|name=notes44}}
+
+==Characteristics==
+===Appearance===
+Ashelia is only seen in [[Akihiko Yoshida]]'s monochrome artwork. She seems to share the same appearance as her ''[[Final Fantasy XII]]'' [[Ashelia B'nargin Dalmasca|counterpart]].
+
+===Personality===
+From the explanations of others, Ashelia comes across as naïve yet headstrong. [[Fran Eruyt]] and [[Bwagi Ennze Panca]] gave unreasonable demands to the Eorzean Alliance and Doma that they knew would be rejected to show Ashelia that if she was serious about leading the resistance, she needed to know what she was getting into.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

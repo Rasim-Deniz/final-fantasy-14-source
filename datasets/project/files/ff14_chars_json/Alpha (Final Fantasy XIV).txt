@@ -1,0 +1,105 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Alpha (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Alpha
+|release=FFXIV
+|japanese=アルファ
+|romaji=Arufa
+|lit=
+|aka=
+|image=FFXIV Alpha Render 01.png|Version 4.01
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Omega (Final Fantasy XIV)|Omega]], [[Garlond Ironworks]]
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Chocobo]]
+|gender=
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+'''Alpha''' is a [[chocobo]] from ''[[Final Fantasy XIV]]''. He resembles the chocobos depicted in the [[Chocobo series|''Chocobo'']] series, and especially its titular [[Chocobo (Chocobo series)|Chocobo]].
+
+==History==
+Alpha was created by [[Omega (Final Fantasy XIV)|Omega]], who based his design on a [[Chocobo (Chocobo series)|being from another world]].  Omega used him to lure potential test subjects into the [[Interdimensional Rift (Final Fantasy XIV)|Interdimensional Rift]], which wound up including the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Garlond Ironworks]] team.
+
+Alpha joined the Ironworks team, and assisted the Warrior of Light during Omega's trials with his unusual powers.  Even after learning of his origins and being dismissed by Omega, Alpha refused to abandon his new friends, saving Cid and the Warrior of Light when Omega left them to die.  After Omega's defeat, Alpha was given leave by [[Cid nan Garlond|Cid]] to explore [[Eorzea]].  Accompanied by a miniature model of Omega, Alpha can then be seen at various places throughout the world having adventures.
+{{clear}}
+
+==Characteristics==
+[[File:FFXIV Alpha Render 03.png|thumb|Alpha as a member of Garlond Ironworks.]]
+Alpha resembles a chocobo, albeit one that is far smaller than the ones found naturally in [[Eorzea]], with a proportionally larger head and eyes. While his "deformed" appearance is considered strange, many characters find him cute, including [[Jessie Jaye|Jessie,]] who planned to market toys based on his likeness. Later, after joining the [[Garlond Ironworks]] team, he is given a customized version of the Ironworks uniform to wear.  He has in his possession a number of magical cards, which can produce a variety of effects when he uses them.
+
+==Other appearances==
+===''[[Chocobo's Mystery Dungeon Every Buddy!]]''===
+Alpha appears as a DLC Buddy to be used in the dungeons.{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Alpha Render 02.png|Alternate render.
+FFXIV Alpha 01.png
+FFXIV Alpha 02.png
+FFXIV Alpha 03.png
+FFXIV Alpha 04.png
+FFXIV Alpha to Omega.png
+FFXIV Rise of a New Sun Artwork.jpg|Alpha in ''Rise of a New Sun'' artwork.
+</gallery>
+
+==Etymology==
+{{Etym|Alpha}}
+
+{{navbox characters FFXIV}}
+[[es:Alpha]]
+[[pt-br:Alpha (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Chocobo]]

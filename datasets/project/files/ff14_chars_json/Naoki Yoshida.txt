@@ -1,0 +1,103 @@
+[[File:Naoki Yoshida.jpg|thumb|Naoki Yoshida.]]
+'''Naoki Yoshida''' {{J|吉田 直樹|Yoshida Naoki}}, known also by the moniker '''Yoshi-P''', is a game developer and director who joined [[Square Enix]] in 2005, working mostly with the ''[[Dragon Quest]] Monster Battle Road'' games. He is best known for his involvement in the successful relaunch of ''[[Final Fantasy XIV]]''.
+
+After the poor reception of the [[Final Fantasy XIV/Legacy|original version of ''Final Fantasy XIV'']], he was appointed as the new producer and director for the game, due to his track record as a talented game designer and hardcore MMO player.<ref name=FFXIVEY>{{ref |id=Interview |author=k3r0b3r0s |date=26 February, 2011 |title=Naoki Yoshida exlusive interview for finalfantasy14.eu |url=https://web.archive.org/web/20110308231103/http://forum.finalfantasy14.eu/viewtopic.php?f=20&t=1407 |platform=Official forums|access-date=10 May, 2021|archive-url=https://web.archive.org/web/20110308231103/http://forum.finalfantasy14.eu/viewtopic.php?f=20&t=1407 |archive-date=8 May, 2011 |deadurl=http://forum.finalfantasy14.eu/viewtopic.php?f=20&t=1407}}</ref>
+
+He is currently an executive officer, a member of the board of directors, and the vice president of [[Creative Business Unit III]], after serving as division executive of [[Business Division 5]].
+
+==Works in the series==
+{|class="full-width series article-table"
+|-
+!Game
+!Release
+!Work
+|-
+!''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''
+|2010
+|Producer/Director <sup>(Post-launch)</sup>
+|-
+!''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''
+|2013
+|Producer/Director
+|-
+!''[[Final Fantasy XIV: Heavensward]]''
+|2015
+|Producer/Director
+|-
+!''[[Final Fantasy XIV: Stormblood]]''
+|2017
+|Producer/Director
+|-
+!''[[Final Fantasy Dimensions II]]''
+|2017
+|Special Thanks
+|-
+!''[[Dissidia Final Fantasy NT]]''
+|2018
+|Special Thanks
+|-
+!''[[Final Fantasy XIV: Shadowbringers]]''
+|2019
+|Producer/Director
+|-
+!''[[Final Fantasy XIV: Endwalker]]''
+|2021
+|Producer/Director
+|-
+!''[[Final Fantasy XVI]]''
+|TBA
+|Producer
+|-
+|}
+
+==In-game appearances==
+===''[[Final Fantasy XIV]]''===
+{{Main|Wandering Minstrel}}
+Three characters modeled after Naoki Yoshida have appeared in ''Final Fantasy XIV''.
+[[File:FFXIV Naoki Yoshida.png|thumb|230px|Naoki Yoshida in ''Final Fantasy XIV'', during [[The Rising]] 2015 event.]]
+The '''Wandering Minstrel''' was introduced on the original version of the game after Yoshida's announcement as the new director. In ''A Realm Reborn'', the relaunched version of the game, players can talk to this character to unlock high difficulty content, such as Extreme trials and Savage or Ultimate raids. In ''[[Final Fantasy XIV: Shadowbringers]]'', this role is covered by the '''Minstreling Wanderer''', unlocking some of the new high difficulty content introduced in the 5.X revisions.
+
+Along with the Wandering Minstrel, '''Naoki Yoshida''' himself makes special appearances during [[The Rising]] events since the 2015's edition. Here, Yoshida greets the player in dream visions.
+{{Q|This is a world that exists outside your reality. Could it be a dream? A flight of fancy conjured by your weary mind? Perhaps...or perhaps not.|Naoki Yoshida when showing himself to the adventurer.}}
+
+==Gallery==
+;Images
+<gallery>
+Naoki Yoshida Noctis.png|Yoshida teasing ''Final Fantasy XIV'' x ''Final Fantasy XV'' collaboration.
+FFXIV April Fools Naoki Yoshida Avatar.png|One of the April Fools avatars of Naoki Yoshida.
+FFXIV April Fools Naoki Yoshida Avatar5.png|One of the April Fools avatars of Naoki Yoshida.
+FFXIV April Fools Naoki Yoshida Avatar7.png|One of the April Fools avatars of Naoki Yoshida.
+FFXIV April Fools Naoki Yoshida Avatar8.png|One of the April Fools avatars of Naoki Yoshida.
+</gallery>
+
+;Artworks
+<gallery>
+FFXIV New Year Yoshida.jpg|2012 New Year artwork of Naoki Yoshida made by [[Akihiko Yoshida]].
+FFXIV 2013 New Year Artwork.jpg|2013 New Year artwork of Naoki Yoshida made by [[Kazuya Takahashi]].
+Yoshida_Hatsuyume.png|Yoshida's 2015 hatsuyume postcard.
+Yoshi-P 2016.jpg|2016 New Year artwork featuring Naoki Yoshida on a Kirin
+FFXIV The Rising 2017.png|The Wandering Minstrel in the 2017 Rising event.
+FFXIV 2019 New Year Artwork.png|2018 New Year postcard.
+FFXIV 2020 New Year Artwork.jpg|2020 New Year postcard.
+FFXIV April Fools Naoki Yoshida Avatar2.png|One of the April Fools avatars of Naoki Yoshida.
+FFXIV April Fools Naoki Yoshida Avatar3.png|One of the April Fools avatars of Naoki Yoshida.
+FFXIV April Fools Naoki Yoshida Avatar4.png|One of the April Fools avatars of Naoki Yoshida.
+FFXIV April Fools Naoki Yoshida Avatar6.png|One of the April Fools avatars of Naoki Yoshida.
+</gallery>
+
+;In-game
+<gallery>
+Naoki_Yoshida_XIV.jpg|Yoshida's character in ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]''.
+Naoki_Yoshida_Firefall_Faire.png|Naoki Yoshida's characters were used for showcasing the wallpaper reward obtained during the 2011 [[Firefall Faire]] event.
+Yoshida_Wandering_Minstrel.png|The Wandering Minstrel returns to ''Final Fantasy XIV: A Realm Reborn'' in patch 2.1.
+FFXIV Yoshida Rising 2017.png|Naoki Yoshida with some Gamemasters in The Rising 2017.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox personnel}}
+{{DEFAULTSORT:Yoshida, Naoki}}
+[[es:Naoki Yoshida]]
+[[pt-br:Naoki Yoshida]]
+[[Category:Personnel]]

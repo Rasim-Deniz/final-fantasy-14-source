@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Sanson Smyth
+|release = FFXIV
+|japanese =サンソン大牙士
+|romaji=Sanson Daiga-shi
+|lit=Sanson Great Fang
+|aka=Sanson the Stiff
+|image =FFXIV Sanson Smyth.png
+|race = [[Hyur]]
+|gender = Male
+|hair = Brown
+|eye = Blue
+|age = 
+|home = [[Gridania]]
+|affiliation = [[Order of the Twin Adder]]
+|occupation = Serpent Officer
+|type=npc
+|job = {{icon|ffxiv|discipline|lancer}}
+|weapon = * Serpent Officer's Spear
+* Serpent Elite's Spear
+|armor = * Gridanian Officer's gear
+* Serpent's Elite gear
+* Augmented Shire gear
+}}
+{{Quote|All this time, the thing I sought didn't even exist... 'twas I who released this menace into the world. I will vanquish it, even if it costs me my life. Flee this place, the both of you!|Sanson}}
+'''Sanson Smyth''', also known as '''Sanson the Stiff''', is a non-player character introduced in ''[[Final Fantasy XIV: Heavensward]]''. He appears as a supporting character in the {{icon|ffxiv|discipline|bard}} storyline.
+
+== History ==
+===''[[Final Fantasy XIV: Heavensward]]''===
+After meeting with [[Jehantel Fointeaume]] in the [[South Shroud]], the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is introduced to Sanson in [[Gridania]] outside of the Archer's Guild, where they are told about his ambition to establish a new unit of bards in the Twin Adders. He is enthused to meet them, and hopes that their combined skill and determination will help lead to the discovery of the Ballad of Oblivion, and prove to the Gods' Quiver the power of song and not just arrows. In his enthusiasm, he forgets to even ask the Warrior of Light and Jehantel their visit's purpose, and so they follow him to his meeting with the Gods' Quiver.
+
+Within the Seat of the First Bow, Sanson petitions his expedition to Coerthas, where he will discover the origin of the Ballad of Oblivion. Though skeptical, the Gods' Quiver send him and the Warrior of Light on a trial in the [[East Shroud]] to prove their mettle, as well as assign him an archer of the Gold Bulls' unit to join them. At the trial point, the Warrior of Light finds Sanson under attack by creatures of the forest. As they tend to Sanson, another creature attempts to sneak up on them, where it is swiftly defeated by [[Guydelot Thildonnet]], who reveals himself to be the bard assigned to them by the Gold Bulls. Sanson is furious, as Guydelot's reputation as a poorly disciplined soldier precedes him, leaving Sanson to believe that the Gods' Quiver wants him to fail. Jehantel vouches for Guydelot's skill, saying that he is one of his best students. Sanson begrudgingly agrees to Guydelot's assistance, and returns to the Gods' Quiver to tell them of the completed assignment, and then the trio depart for [[Ishgard]].
+
+Upon their arrival in Ishgard, Sanson is determined to get to work, but Guydelot decides to take his time and enjoy the city. Frustrated with his lack of professionalism, he follows Guydelot to [[Coerthas Western Highlands|Falcon's Nest]] to prevent him from misbehaving. Guydelot had run into the winter wasteland in pursuit of a knight, and is found assisting several Temple Knights from [[Dravania|draconic attacks]], where he is delivering a nameday present to a knight from his lover in Ishgard. Sanson instead focuses on the knight's possible knowledge of the Ballad of Oblivion, rather than focusing on Guydelot's selfless action.
+
+The knight leads the trio to the Convictory to speak with a soldier named Celaine, who is able to sing a song to deliver souls to the heavens. Guydelot speaks with her, though she insists she is no bard, and it is not a song she wishes to sing. Sanson tries to coax it out of her, requesting the trio accompany her on an upcoming mission at Twinpools. The Warrior of Light and Guydelot provide support by taking out several enemies, though Celaine's unit suffers heavy losses. She sings to her fallen comrades a song of mourning, but it is revealed that the song she sings is merely a Halonic requiem sung for the lost, and not a powerful song like the Ballad of Oblivion. Sanson realizes his error and apologizes for trying to force Celaine to relive the sadness of her lost comrades. Celaine directs them to [[The Dravanian Forelands|Tailfeather]] to speak to a man named Sylviel who may know more of the Ballad they seek.
+
+In Tailfeather, a sellsword rushes into the village seeking help, for Sylviel's excavation party is under attack in [[Gnath]] territory. As it seems the huntsmen of Tailfeather don't want to risk themselves to save one researcher, Guydelot calls the lot a bunch of 'craven bastards' as he, the Warrior of Light, and Sanson rush to save him. Reuniting in Tailfeather, a huntsman approaches the party and apologizes for their inaction to saving Sylviel, for many of Tailfeather tend to care only for themselves due to the competitive nature of their work. 
+
+As Sylveil departs to study the Ballad of Oblivion, Guydelot ponders if the Ballad is simply a fairy tale, and that it would be best to return to Gridania to pursue other avenues. Sanson reprimands him for wanting to abandon his mission, and tells him that the Gods' Quiver see both of them as thorns in their sides, and they hope that they come back empty handed so they can dismiss Guydelot and keep Sanson at his lower station. Guydelot leaves the party, angry that Sanson only cares to find this Ballad to improve his rank and not support bards like him and the Warrior of Light.
+
+Deeply regretting his words, Sanson waits in Tailfeather for Guydelot to return, which he does not. While waiting, Sylviel revealed to Sanson that the "song of the heavens" is likely a natural phenomenon of the weather, rather than an actual singer. The Warrior of Light tells Sanson that there is a community of moogles that live in [[The Churning Mists|the Churning Mists]] in the sky, who may just be these actual singers. The two embark off to the Churning Mists, though not without telling Sylviel where they are going, in hopes of Guydelot's return. 
+
+As they reach the summit of [[Sohm Al]], Sanson comments about how beautiful the area is, and how he wishes Guydelot were present to compose a song about the environment. The two visit Moghome, the village of moogles, where [[Mogta]] joins them to find the Ballad of Oblivion. The new trio still struggle to find the Ballad, as [[Chieftan Moglin]] suggests they are missing a vital part of their party. Sanson realizes Guydelot is the missing piece.
+
+The trio finally make their way to the [[Sea of Clouds]] with an airship provided by Gridania. They arrive at a stone edifice, to which Sanson accidentally unleashes a dangerous creature called [[Siren|Ligeia]]. She sings a terrible melody, revealed to be the Ballad of Oblivion. As Sanson tries to send the Warrior of Light and Mogta away so that he may face the beast alone, Guydelot appears, playing a delicate, healing melody to counter the Ballad. He chides Sanson for trying to impress people, and reminds him that the fervent desire to aide those around them is what empowers a bard's song. Together, the four of them defeat Ligeia, and put an end to the Ballad for good.
+
+Guydelot reveals that he boarded the airship with them secretly, and that he had been reflecting on himself over Sanson's journal and how Sanson's goals were far more earnest than he expected. The two of them realize they can compose their own Ballad of Oblivion, and request that the Warrior of Light provide inspiration as well.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+With a newly established unit of bards, Sanson enlists the help of the Warrior of Light to inspire the new recruits on their first mission, in order to ensure success and high morale. With Guydelot's transfer into the unit, he is certain that their success is all but guaranteed.
+
+Their first mission is regarding an anonymous letter penned to the Twin Adders about the secret truths of the [[Autumn War]]. Guydelot considers it little more than an errand, and accuses Commander [[Vorsaile Heuloix]] of looking to claim any success of theirs under the rug. Sanson reprimands him for speaking to a superior officer in such a manner.
+{{Character section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+{{icon|ffxiv|quest|a harmony from the heavens}}
+{{Character section|Final Fantasy XIV}}
+
+==Characteristics==
+=== Appearance ===
+Sanson is a Midlander [[Hyur]] with long brown hair tied in a ponytail and dark blue eyes. He has brown mascara around his eyes. He is usually seen in Gridanian or Twin Adder officer gear, wearing a yellow and brown coat and brown leather gloves strapped around his wrists. He wears brown boots, though wears [[Final_Fantasy_XIV_armor/Feet/Disciples_of_Magic|Harlequin Boots]] for most of ''Heavensward''. In ''Stormblood'', he wears Augmented Shire Pankratiast's gear, Sky Pirate Gloves of Striking, and wields a [[Final_Fantasy_XIV_weapons/Lancer%27s_Arm|Serpent Elite's Spear]] in battle.
+
+=== Personality ===
+Sanson is a polite and friendly individual who often comes across as no-nonsense and overly professional. He tends to focus on his task at hand to the point of criticizing his companions for not taking their job as seriously as him. He has no time for jokes or fooling around when he is meant to be working, though he does not intend to be rude or controlling; so much that when he realizes his attitude had been hurting Guydelot, he apologized. Sanson has a firm hold of justice, and does not follow orders blindly, even if his superiors expect that of him.
+
+== Gallery ==
+<gallery>
+Sanson in Serpent uniform from FFXIV.png|Sanson's Twin Adder uniform.
+FFXIV Sanson Heavensward.png|Sanson's second appearance.
+FFXIV_Sanson_Guydelot.png|Sanson and Guydelot arguing.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Dragoons]]

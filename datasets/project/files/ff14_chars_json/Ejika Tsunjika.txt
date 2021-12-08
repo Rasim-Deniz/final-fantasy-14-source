@@ -1,0 +1,73 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Ejika Tsunjika
+|release=FFXIV
+|japanese=エジカ・ツンジカ
+|romaji=Ejika Tsunjika
+|lit=
+|aka=
+|image=FFXIV SB Ejika Tsunjika.png
+|home=Isle of Val
+|age=22
+|affiliation=[[Students of Baldesion]]
+|occupation=Archon
+|education=
+|race=[[Lalafell]]
+|gender=Male
+|hair=Gray
+|eye=Pink
+|type=npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|weapon=Palladium Rod
+}}
+'''Ejika Tsunjika''' is a non-playable character in ''[[Final Fantasy XIV]]''. He is a fellow [[Students of Baldesion|Student of Baldesion]] alongside [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Mayer Baldesion]].
+
+==History==
+===Before ''[[Final Fantasy XIV]]''===
+Ejika Tsunjinka is a Student of Baldesion, learning under [[Galuf Baldesion (Final Fantasy XIV)|Galuf Baldesion]] and studying alongside his granddaughter Krile in the [[Forbidden Land, Eureka (Final Fantasy XIV)|Isle of Val]]. Ejika expressed distaste at what he perceived to be favouritism towards Krile due to both her status as a Baldesion as well as her gift of the [[Echo (Final Fantasy XIV)|Echo]], and spent tireless nights performing aetherological experiments alongside her. Despite this outward animosity, he and Krile formed something of a friendship, with the ever pleasant Krile believing in his experiments and Ejika requesting her aid in them.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After the disappearance of the the Isle of Val and the emergence of a similar Island, dubbed by expeditioners as [[Forbidden Land, Eureka (Final Fantasy XIV)|The Forbidden Land, Eureka]] after the [[Allagan Empire|Allagan]] legend, Ejika attempts to board an expedition to the island but is stopped by [[Gerolt Blackthorn]], a master blacksmith roped into the expedition himself. Krile, who is participating in the expedition as part of the [[Scions of the Seventh Dawn]], allows him to participate. Upon their arrival, both Ejika and Krile realise their fears were correct and identify the island as the Isle of Val, transported to the the other corner of the world, now ravaged by aetherological imbalances, filling it with violent wildlife.
+
+Ejika joins the Eurekan expedition, determined to study the rediscovered island. He arrives accompanied by Krile and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], but leaves the pair to do his own searching. While Krile and the Warrior of Light attempt to restore the region's [[Aethernet]], Ejika searches for survivors and investigates the confluence in the region's [[aether]] stream, discovering [[magicite]]. When he reconvenes with the Warrior of Light, he gives them the magicite to study. Ejika leaves the two, continuing his own investigation.{{cite|FFXIV|[[Forbidden Land, Eureka Anemos|The Forbidden Land, Eureka Anemos]]}}
+
+Within the snowy region of Pagos, after the Warrior of Light finds all the magicite located in the area, Ejika suggests that the expedition's next objective should be to seek a proto-[[aetheryte]] to grant them greater insight into the state of Eureka's aether currents.{{cite|FFXIV|[[Forbidden Land, Eureka Pagos|The Forbidden Land, Eureka Pagos]]}} After the Warrior of Light tells everyone about their vision, Ejika wanders off on his own to ponder it and runs into a masked man, questioning who or what they are. It introduces itself as [[Eureka (primal)|Eureka]].
+
+[[File:FFFXIV Ejika possessed.png|thumb|Ejika wielding an Eureka's blade.]]
+Throughout the expedition Ejika acts strange, and when Krile and the Warrior of Light inspect the proto-aetheryte they discover, Ejika turns it off.{{cite|FFXIV|[[Forbidden Land, Eureka Pyros|The Forbidden Land, Eureka Pyros]]}} Ejika is possessed by the [[primal]], and given a blade of pure aether. When Krile calls him out, he hesitates but says he welcomed the primal into his being and will await Krile within the Tower. When Krile and the Warrior of Light make into the Baldesion headquarters, they remove the primal's restraints, and when they return to the main hall, Ejika and the avatar of Eureka appear.{{cite|FFXIV|[[Forbidden Land, Eureka Hydatos|The Forbidden Land, Eureka Hydatos]]}} Eureka demands Ejika remove them, and Krile calls to Ejika to come to his senses. Ejika was only pretending to be under the primal's thrall, and gives the blade to the Warrior of Light to defeat its avatar. Eureka still remains, and Krile plans on resealing it, though Ejika wants to sacrifice his being to destroy the primal, which Krile vehemently disagrees with. Unable to reconcile their viewpoints, Ejika and Krile turn to the Warrior of Light, letting them choose which path to take. 
+
+If Ejika's option is taken, Ejika sacrifices himself, destroying the Primal. However, Eureka's weapons still remain, which the Warrior of Light ventures into the [[Baldesion Arsenal]]. Following this, Ejika is rematerialised by Krile, with him having attempted to use teleportation magicks before the Primal absorbed his essence completely, but was caught in the [[Lifestream]] due to Eureka's weapons. 
+
+If Krile's option is chosen, the Warrior of Light still ventures into the Baldesion Arsenal to destroy Eureka's weapons, and afterwards Ejika performs his initially stated goal with the aid of Krile, destroying Eureka and teleporting before all of his essence.
+
+Regardless of the decisions in dealing with Eureka, Ejika continues researching the island and taking care of matters with [[Rowena]] and [[Hancock Fitzgerald]], the patrons of the expedition.{{cite|FFXIV|[[Baldesion Arsenal]]}}
+
+==Characteristics==
+===Appearance===
+Ejika is a [[Lalafell]] with long gray hair and pink eyes. He wears black oval shaped glasses, a Shire preceptor's coat dyed white, and black boots. He carries a Palladium thaumaturge rod on his back.
+
+===Personality===
+Ejika is intelligent and knowledgeable about [[aether]]ology, but is rude and difficult to work with. He dislikes Krile because of her gift in the [[Echo (Final Fantasy XIV)|Echo]] and others like her, as he believes those with natural born gifts have it easier than those who don't. He is still willing to work with her, understanding the value in well-read allies. Ejika is impatient, and always eager to see the results of a hypothesis or an experiment as soon as possible.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Ejika Tsunjika
+|image = [[File:Ejika Tsunjika Triple Triad Card.png]]
+|number = 243
+|total = 16
+|type = None
+|description = “Does your Eorzean stubbornness know no end!? I have urgent business on that island, and I demand you take me there at once!”
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Hetsukaze|Hetsukaze]], Kugane (7, 13)
+}}
+
+==Behind the scenes==
+Ejika Tsunjika shares his name with a [[Retainer (Final Fantasy XIV)/Legacy|Retainer]] from [[Final Fantasy XIV/Legacy|1.0]]. Both are Lalafell and from the same clan, but Ejika's known past confirms they are different characters.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:Black Mages]]

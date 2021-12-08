@@ -1,0 +1,98 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Omega (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Omega
+|release=FFXIV
+|japanese=オメガ
+|romaji=Omega
+|lit=
+|aka=
+|image=FFXIV Stormblood Omega.png
+|home=Alphatron
+|age=Ancient
+|affiliation=
+|occupation=Superweapon
+|race=Omicron
+|type=npc
+|job=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+|boss page=Alphascape V3.0
+|superboss page=
+|recurring appearance=Omega (enemy)
+}}
+The '''Omega''' is an ancient superweapon from the [[Allagan Empire]] in ''[[Final Fantasy XIV]]'', buried by milennia at the [[Carteneau Flats]]. Though mentioned since [[Final Fantasy XIV patch notes|Patch 2.3]] and largely unseen, it has a larger role in ''[[Final Fantasy XIV: Stormblood]]''.
+
+Omega is a recurring [[superboss]] in the series, a dimension-traveling superweapon created by an [[ancient civilization]]. Though usually depicted as autonomous and anthropomorphized as having goals of its own, ''Final Fantasy XIV'' is the first game in the series to treat Omega also as a character on its own right as well as a [[boss]].
+
+==History==
+===Early life===
+Being a mechanical entity from the planet Alphatron, Omega was discovered by the [[Allagan Empire|Allagan civilization]] in the Third Astral Era, buried deep within a rock stratum. Within moments it deciphered their language and conversed with the technologists studying it, even developing a face-like structure to further communications.
+
+Omega was employed as an anti-[[primal]] weapon to capture the Dreadwyrm [[Bahamut (Final Fantasy XIV)|Bahamut]] during the invasion of Meracydia, who would be sealed within [[Dalamud]]. Omega's control panel was located beneath the Heliodrome at the Carteneau Flats, which was exposed during the [[Seventh Umbral Era|Calamity]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Flame General [[Raubahn Aldynn]] and [[Nanamo Ul Namo]] confide to [[Warrior of Light (Final Fantasy XIV)|the Warrior of Light]] and [[Alphinaud Leveilleur]] of Omega's existence and role in sealing Bahamut as revealed by recently unearthed [[Allagan Tomestone|Allagan tomestones]] and other inscriptions. Raubahn speculates the reason [[Nael van Darnus]] set Dalamud on its ultimate trajectory was to destroy the weapon on impact.
+
+The leaders of the [[Eorzean Alliance]] initially doubt Omega exists, attributing it to a translation error. Only after [[Gaius van Baelsar]] reveals the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], the leaders begin to seriously consider its existence. Though the weapon is still in a dormant state, other factions are already seeking its potential. The [[Ul'dah]]n magnate, [[Teledji Adeledji]], schemes to get his hands on the ancient superweapon, even going so far as to instigate a riot among refugees to try to get the Carteneau Reclamation Bill passed. These schemes culminate with the banquet celebrating the [[Defense of Ishgard]]. The [[Ul'dahn Revolution|events that transpire]] result in the death of Teledji Adeledji, and scatter the [[Scions of the Seventh Dawn]], with the Warrior of Light fleeing to [[Ishgard]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Omega 2.png|thumb|Omega prepares to fight Shinryu.]]
+{{Quote|Hmph. So it was here all along... Oh, just you wait, my pretty! You and I are going to have ''so'' much fun!|Nero}}
+Nero tol Scaeva approaches a console in the Carteneau Flats, apparently intent on awakening Omega. He later approaches the Eorzean Alliance meeting discussing the primal sealed above [[Baelsar's Wall]]. He suggests using Omega to deal with it before it breaks free. Nero and [[Cid nan Garlond|Cid Garlond]] restore the control panel, and [[Yda Hext|Yda]] uses it to activate the machine. Having quickly identified the sealed primal, the autonomous warmachine proceeds to its target at the wall. The primal is [[Shinryu (Final Fantasy XIV)|Shinryu]] who emerges from the cocoon of light. Omega shrugs off a tidal wave unleashed by the primal and the battle ends with an immense explosion of light, with both primal and superweapon falling to the ground at two distant points.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Though Omega was originally thought to be of Allagan origin like the Ultima Weapon, [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]] reveals it to be from another world like himself, and far older than ancient Allag. Omega is able to create sentient life and its plan is to pit different lifeforms against each other in search of the mightiest being, so it too can evolve. After the four creations in Deltascape are defeated, Omega coerces the Warrior of Light to keep participating in the trials by threats of genocide on the [[Eorzea]]n populace who are unable to defend themselves even from Omega's weaker creations.
+
+To stimulate the Warrior of Light, Omega incapacitates [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]] during the Deltascape, as well as Nero during the Sigmascape. Failing to understand the Warrior of Light's variation in power, Omega tries to provoke a new surge by imprisoning and torturing them. Midgardsormr uses the last of his energy to free the Warrior, bargaining with Omega to let the Warrior of Light complete all of the tests, hinting that it would be the best way for Omega to understand them.
+
+After the Warrior of Light defeats Omega's replication of [[Chaos (Final Fantasy)|Chaos]] and Midgardsormr in the Alphascape, Omega challenges them and is defeated. Still failing to understand them, Omega resets the testing with new subjects, closing the dimension and seemingly killing the Warrior of Light and Cid. They are saved by [[Alpha (Final Fantasy XIV)|Alpha]] who shrunk and protected them with his power. A confused Omega thinks that the answer it seeks must lie in the body of the Warrior of Light, and attempts to replicate it, creating a male and female version of itself, and challenging the Warrior one last time before being decisively defeated.
+
+[[File:FFXIV Omega Death.png|thumb|Omega's last moment.]]
+Cid explains to Omega that Alpha already understood the answer: the experience of life that Omega, isolated in its testing dimension, passively and coldly observing test subjects from a distance, would never understand. Satisfied with this answer, Omega apparently dies and its dimension closes, ending its threat on the world.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Omega's consciousness survived in the miniature model accompanying Alpha. In an alternate timeline in which the [[Umbral Calamity|Eighth Umbral Calamity]] occurred, Omega observes the world following the [[Garlean Empire]]'s deployment of [[Black Rose (Final Fantasy XIV)|Black Rose]], including the death of Wedge and the desertion of many Ironworks employees, save for a select few such as Nero. It later observes the Ironworks regaining support from survivors the Warrior of Light influenced across the world. Having reviewed the reports made by the Ironworks during their investigations of the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]], [[Alexander (Final Fantasy XIV)|Alexander]], and the [[Interdimensional Rift (Final Fantasy XIV)|Interdimensional Rift]], Omega notes that all of these events had key figures entering a form of self-imposed exile. Over the years, their work to save a world they will never see allows Omega to finally comprehend emotions and understand what mortals call "hope", and finds it beautiful. Omega remains with Garlond Ironworks for 200 years, passed down as a children's toy and jokingly considered a senior member of the organization. By the time the Crystal Tower was sent across the rift, Omega's body had deteriorated over the years and, despite receiving maintenance regularly, was prone to both randomly shutting down and blindly bumping into everyone and everything in the workshop. Despite its state of disrepair, when Midgardsormr was awoken by the Tower's departure he still seemed to sense the presence of his long-time nemesis in the automaton, and found amusement in its diminished state.
+
+In the main timeline in [[Norvrandt]], while investigating an [[aether]]ic disturbance within a section of the Crystal Tower known as the [[Twinning]], the Warrior of Light discovers several datalogs detailing how the tower is able to exist in [[the First]]. The notes explain that in the alternate timeline, [[Garlond Ironworks]] researched Omega and the Interdimensional Rift hoping to use the machine's unique ability to travel though dimensions, along with Alexander's ability to [[time travel]], and the Crystal Tower's ability to open portals to the other Shards, to undo the Calamity by sending the entire tower both back in time and across worlds.
+
+==Behind the scenes==
+[[File:FFXIV Collector's Edition Cover Art.jpg|120px|right|thumb|Yoshitaka Amano's art used for the collector's edition cover.]]
+Omega's humanoid forms, Omega M and Omega F, may have been inspired by [[Yoshitaka Amano]]'s concept art used for the collector's edition cover for the [[Final Fantasy XIV/Legacy|Legacy ''Final Fantasy XIV'']].
+
+Once the replicas, Omega-M and Omega-F, are defeated in the Savage version of the fight, Omega concludes that the humanoid form being best-suited for what he seeks was incorrect, and takes on a form much like [[Omega Weapon (enemy)|Omega Weapon]]. The "Omega Weapon" form is non-canon as it only appears in the Savage version, which is explicitly stated to be a simulation of an alternative outcome of the battle.
+{{clear}}
+
+==Gallery==
+;Artwork
+<gallery>
+XIV Omega Art.png|Concept art.
+FFXIV Omega concept art.jpg|Concept art.
+FFXIV Omega M F concept.jpg|Omega-M and Omega-F concept art.
+FFXIV Rise of a New Sun Artwork.jpg|Omega in ''Rise of a New Sun'' artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV Omega 1.png|Omega being reactivated.
+FFXIV Omega 3.png|Flying Omega.
+FFXIV Omega 4.png|Attacking Shinryu.
+Omega M from FFXIV.png|Omega-M.
+FFXIV Omega-M 02.png|Omega-M.
+FFXIV Omega-F 01.png|Omega-F.
+FFXIV Omega Control Room.png|Inside Omega's control room.
+FFXIV Omega Data.png
+FinalOmega.jpg|Omega's Final Form in Alphascape 4.0 (Savage).
+</gallery>
+
+==Etymology==
+{{Etym|Omega}}
+
+{{navbox characters FFXIV}}
+{{navbox setting FFXIV}}
+
+[[pt-br:Omega (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]

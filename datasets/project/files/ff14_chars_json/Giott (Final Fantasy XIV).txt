@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Giott (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Giott
+|release=FFXIV
+|japanese=ジオット
+|romaji=
+|aka=Giott the Aleforged
+|image=FFXIV ShB Giott.png
+|home=[[Crystarium (Final Fantasy XIV)|Crystarium]]
+|age=
+|affiliation=Tholl
+|race=[[Lalafell|Dwarf]]
+|gender=Female
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+}}
+'''Giott''' is a character from ''[[Final Fantasy XIV]]''. Appearing in the ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]'' expansion, Giott one of the key characters for healer role questline, and functions as the quest giver for the quest chain. She is the most talented [[Lalafell|Dwarf]] in the Tholl, and was tasked with eliminating the Cardinal Virtue [[Lamitt|Sophrosyne]].
+
+==Profile==
+===Appearance===
+Giott dresses as most dwarves do, with dwarven armor of fending and a dwarven mithril hammer as a weapon. Under her helmet reveals that she has red hair and yellow eyes.
+
+===Personality===
+Giott drinks a lot, and often acts in a brash reckless manner. When confronting an enemy she had broken many of her ribs, and was unable to move, thanks to the Warrior of Light she was healed back to good health.
+
+==Story==
+{{spoiler}}
+Due to the sins that [[Lamitt]] committed and her transformation into Cardinal Virtue Sophrosyne, the Council of Elders of Tholl commissioned Giott to locate and eliminate Sophrosyne.
+
+Her journey takes her to the [[Crystarium (Final Fantasy XIV)|Crystarium]] where she meets the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]]. With the help of the Warrior of Darkness, Giott investigates why Sophrosyne appears to heal some [[sin eater]]s while only ignoring others. During the quests, the Warrior of Darkness through [[Echo (Final Fantasy XIV)|echo]] has insights into Lamitt's past. Due to the visions, Giott learns that Lamitt was not entirely a shame for the clan, Lamitt had broken traditions to save her people from illness and was eventually exiled along with those she saved for it. Giott theorizes that the Sin Eaters that Sophrosyne is healing are the helmetless dwarves who were exiled with Lamitt and turned by the Flood of Light, and by instinct Sophrosyne is still healing them today.
+
+[[File:FFXIV ShB Giott helmetless.png|thumb|right|Giott helmetless.]]
+Giott creates a plan to confuse Sophrosyne by placing a dwarf helmet on the Sin Eaters, but the plan fails and the helmet is broken. Giott decides to break the tradition and removes her own helmet to put it on Sophrosyne. Once Sophrosyne is defeated, Lamitt's spirit appears. Having broken tradition, Giott leaves the Tholls.
+
+After [[Elidibus (Final Fantasy XIV)|Elidibus]] starts impersonating [[Ardbert]], Giott may be one of the characters who visit the Warrior's room at night. Giott learns about the [[Ascian]]s. Dissatisfied with the situation, she offers encouraging words for the Warrior to do what is right. 
+
+Giottl later aids the adventurerer and the Scions in the battle against the spectacles of the Warriors of Light summoned by Elidibus.
+{{clear}}
+{{Endspoiler}}
+
+==Gameplay==
+Giott is an allied npc and assists the Warrior of Darkness in the solo duties during Healer's Role Quest and at the end of {{icon|ffxiv|duty|Heroes' Gauntlet}}.
+
+==Etymology==
+Giott shares the same name as [[King Giott]], who was the king of the dwarves in ''[[Final Fantasy IV]]''.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

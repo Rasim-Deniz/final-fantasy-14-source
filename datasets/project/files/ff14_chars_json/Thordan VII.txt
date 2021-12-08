@@ -1,0 +1,110 @@
+{{sideicon|prime=FFXIV|PFF}}
+{{infobox character
+|name=Thordan VII
+|release=FFXIV
+|japanese=トールダン７世
+|romaji=Tōrudan 7-sei
+|lit=
+|aka=
+|image=Thordan VII.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=74
+|dob=
+|affiliation=[[Ishgard]]
+|occupation=Archbishop
+|education=
+|hobby=
+|loves=
+|hates=
+|treasure=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=
+|blood=
+|laterality=
+|footsize=
+<!--Gameplay details.
+ Adds details for whatever the main release is, unless infobox is used for a subpage.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=Shinpachi Tsuji
+|english voice actor=[[Wikipedia:Brian Protheroe|Brian Protheroe]]
+}}
+{{Quote|As the spiritual leader of the reclusive nation of Ishgard, he is an unquestionable object of veneration. He also holds the highest seat of political authority in the Holy See.|Official website}}
+'''Archbishop Thordan VII''' is a non-playable character in ''[[Final Fantasy XIV]]''. He leads the reclusive nation of [[Ishgard]], and is an unquestionable object of veneration. He holds the highest seat of political authority in the Holy See, and is the main antagonist of ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+[[File:Elidibus Ishgard.png|thumb|left|Thordan with Elidibus.]]
+Thordan is flanked by [[Lahabrea]] and [[Elidibus (Final Fantasy XIV)|Elidibus]], implying the Ascians have begun to influence Ishgard's affairs as part of their agenda. Though Thordan secretly wants no help from them, he accepted their proposal to learn more about the Ascians and to deal with them once the war with Nidhogg would be over.
+
+[[File:FFXIV Knights of the Round.png|thumb|Thordan and the Heavens' Ward.]]
+Thordan summons the Warrior of Light after helping [[Alphinaud Leveilleur]] overcome the trial by combat to prove his innocence and that of [[Tataru Taru]]. After apologizing for both his and [[Heavens' Ward]]'s conduct and failure to summon the Warrior sooner, Thordan requests a private audience to divulge his dealings with the Ascians. He is indifferent to learn the [[Dravanian Horde]] is approaching Ishgard and during the heretics' attack, Thordan meets with Heavens' Ward for final preparations with Lahabrea overhearing. When confronted by his illegitimate son, [[Aymeric de Borel]], over the truth of their city's founding, Thordan explains his reasons and hopes the youth would succeed him. Thordan has Aymeric imprisoned in the Vault so his men can discern who else knows the truth.
+
+{{Quote|If a man cannot atone for his sins in the course of his all-too-fleeting life, must his progeny then be held to account? Must every subsequent generation be judged as well?|Archbishop Thordan VII}}
+[[File:FFXIV Thordan VII Key to Azys Lla.png|thumb|left|Thordan VII with the key to Azys Lla.]]
+During the aftermath of the Vault compromised, his men assume a primal form. Thordan and the Heavens' Ward depart for [[Azys Lla]] aboard their [[Airship (term)|airship]], the ''Soleil'', to the Sea of Clouds. Thordan and his entourage wait for the Warrior of Light to kill [[Bismarck (Final Fantasy XIV)|Bismarck]] before moving in with the aid of the Ascians to retrieve the Key to Azys Lla that the primal had consumed. With the Key in hand, he flies to Azys Lla, once more evading the Warrior of Light.
+
+[[File:FFXIV WoL vs Knights of the Round.png|thumb|Thordan VII as King Thordan with his Knights Twelve.]]
+Thordan appears at the [[Aetherochemical Research Facility]] after the Warrior of Light eradicates [[Igeyorhm]], revealing he never intended to be the Ascians' pawn. He tells Lahabrea that his arrogance towards humans and teaching them the means to summon a primal will be his undoing. Thordan uses the right [[Eyes of Nidhogg|Eye of Nidhogg]] that had been kept entombed with [[Haldrath]] to become an avatar of [[Thordan I]]: The Primal [[King Thordan]]. Intending to become a god-king and usher in an age of peace, Thordan executes Lahabrea and absorbs his [[aether]] essence before descending into the Singularity Reactor at the heart of Azys Lla to access the power of the trapped [[Warring Triad (Final Fantasy XIV)|Warring Triad]]. The Warrior of Light and their allies defeat Thordan and the Heavens' Ward (in the form of the twelve knights). As he dies, Thordan glimpses something strange about the Warrior, asking what they are, before disappearing into motes of aether.
+{{Quote|How...how can this be? A millennium of prayer and the Eye's power combined—and still you stand? Who—''what'' are you?|Thordan after being defeated}}
+
+==Characteristics==
+===Appearance===
+Thordan VII dresses in elaborate white-blue-and-gold regalia befitting his station. He is an elderly Elezen with a long white beard who wears a tall decorated miter, a robe with floor-length sleeves, and holds a staff.
+
+===Personality===
+Archbishop Thordan VII appears a wise, stern and caring leader devoted to the principles of his faith as well as the safety of his people. He is cunning, as while he admits to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] of his dealings with the [[Ascian]]s, he insists on merely interacting with them to discern their motives.
+
+When the truth of Ishgard's founding and of the cause to the [[Dragonsong War]] become known, the Archbishop shows his true colors. Thordan VII is ruthless, deceitful, power-hungry and arrogant in his means to end the war with the dragons, maintain the status quo and become a god-king to a new age. 
+
+Though the Archbishop acknowledges that King Thordan's betrayal and murder of [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]] was an unconscionable crime, he reasons that since Ishgard was founded upon the lies of their forefathers, it being made common knowledge would render everything the people who went through it meaningless, and they would have to answer for the crimes that spurned [[Nidhogg (Final Fantasy XIV)|Nidhogg]] in his pursuit of vengeance. Refusing to reveal the truth, even after Nidhogg was supposedly vanquished, Thordan VII is willing to imprison his illegitimate son and condemn innocent people to ensure the secret never comes to light. He believes a comfortable lie is better for the people than bitter truth.
+
+Upon becoming the [[primal]] Thordan, the Archbishop becomes even more arrogant, deluded and ruthless, believing himself Thordan I and a god-king.
+
+==Gameplay==
+{{main|King Thordan}}
+Thordan VII is fought as the final boss in {{icon|ffxiv|duty|The Singularity Reactor}}.
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Thordan VII.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Thordan VII
+|image = [[File:Thordan VII_Triple_Triad_Card.png]]
+|number = 107
+|total = 24
+|type = None
+|description = “We seek to excise the root of an evil that has blighted us for a thousand years. The risk is worth the reward.” 
+|obtain = Potential drop from {{icon|ffxiv|duty|thordan's reign}}
+}}
+
+==Gallery==
+<gallery>
+FFXIV Thordan VII Throne.png|Thordan VII on his throne.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Thordan VII]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Elezens]]

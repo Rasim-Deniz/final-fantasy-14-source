@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Gundobald
+|release=FFXIV
+|japanese=グンドバルド 
+|romaji=Gundobarudo
+|aka=Gundobald the Resolute
+|image=FFXIV Gundobald.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=White
+|eye=Brown
+|age=65
+|home=[[Ala Mhigo]]
+|affiliation=[[Ala Mhigan Resistance]]
+|occupation=
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+|weapon=Mythril Lance
+|armor=
+}}
+'''Gundobald the Resolute''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a major leader of the [[Ala Mhigan Resistance]], and acts as the elder of Little Ala Mhigo settlement in Southern Thanalan.
+
+==History==
+
+==Characteristics==
+===Appearance===
+Gundobald is an aging highlander male with long grey hair and a handlebar moustache
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

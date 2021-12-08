@@ -1,0 +1,40 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Cicely
+|release=FFXIV
+|japanese=シセリー
+|romaji=Shiserī
+|image=FFXIV 1x Cicely.png
+|race=[[Hyur]]
+|gender=Female
+|age=
+|home=[[Gridania]]
+|affiliation=Greatloam Growery
+|occupation=
+|type=npc
+|job={{icon|ffxiv|discipline|botanist}}
+}}
+
+'''Cicely''' is a non-playable character from ''[[Final Fantasy XIV]]''.
+
+== History ==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+The adventurer's first job after joining the Botanists Guild is to help Cicely cut the weeds that grew up near the Quarrymill by blocking the paths used by the spellcasters. Once the elementals gave their consent to see the task, Cicely marked the area in question on the adventurer's map and tells him to go without it. After the task was completed, Cicely arrived at Quarrymill and complained about the drudgery and boredom that is life in Gridania.
+
+The adventurer is tasked with taking a specimen of the plant to Frondale's Phrontistery in [[Ul'dah]], Cicely refuses to deliver the specimen and says she has a friend by correspondence in Ul'dah. Cicely says that due to the tedious life in Gridania, she has nothing to write about and says that she will only deliver the plant if the adventurer gets some interesting story from the bard Penelope for her to write in the letter. That done, Cicely asks the adventurer to enjoy his trip and deliver the letter to her friend, [[Nenekko Nekko|Nenekko]] who, unlike Cicely, is fascinated by the stories about Gridania. 
+
+Due to outsiders using Pearl Clover beds, [[Moogle (race)#Final Fantasy XIV|moogles]]' favorite food as bait to hunt them. At the request of the [[Elementals (Final Fantasy XIV)|elementals]], Cicely and [[Rychyld]] would reproduce the seeds and plant several flower beds through Twelveswood so that the moogles could safely gather them. Cicely says that she hates Gridania even though she still loves plants and writes about Pearl Clover to her friend. Cicely says that she feels guilty about what happened to the moogles and that she will do anything to pay her debt, and then she will leave Gridania and bring unique flowers to as many cities and towns as she can.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+After the calamity, Cicely still works at the Botanists' Guild. Cicely is the one who assigns the Warrior of Light to his first tasks in the guild to gather pots of maple sap and crow feathers.
+
+==Characteristics==
+===Appearance===
+===Personality ===
+{{section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Botanists]]

@@ -1,0 +1,47 @@
+{{sideicon|prime=FFXIV}}
+{{Cleanup}}
+{{Infobox character
+|name=Heustienne de Vimaroix
+|release=FFXIV
+|japanese=ウスティエヌ・ド・ヴィマロワ 
+|romaji=Usutienu do Vimarowa 
+|aka=Heustienne Truethrust
+|image=FFXIV Heustienne infobox.png 
+|race=[[Elezen]]
+|gender=Female
+|height=
+|hair=Blonde
+|eye=Purple
+|home=[[Ishgard]]
+|age=23
+|affiliation=Order of the Knights Dragoon
+|occupation=Dragoon Knight
+|type=npc
+|job={{icon|ffxiv|discipline|dragoon}}
+|weapon=*Gae Bolg
+*Peregrine
+|armor=Drachen Mail
+}}
+'''Heustienne de Vimaroix''', also known as '''Heustienne Truethrust''', is a non-player character in ''[[Final Fantasy XIV]]'' introduced in the [[Dragoon (Final Fantasy XIV)|Dragoon]] job quests for ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+===Early life===
+Orphaned at a young age, Heustienne was taken in by House Brucemont and to preserve her new family's heritage, she wanted to become a dragonslayer. She joined the Temple Knights and was eventually accepted into the Order of the Knights Dragoon. She was praised for her astounding agility and determination but was unsuccessful in attaining the title Azure Dragoon. She is recognized as the order's second in command whenever Estinien leaves Ishgard. <ref>''Eorzea Encyclopedia'', p. 225</ref>
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Character section|Final Fantasy XIV: Heavensward}}
+
+==Characteristics==
+===Appearance===
+Heustienne is a female Wildwood Elezen with long blonde hair and purple eyes. She first appeared wearing chainmail armor and a Lominsan lance, but later on wears salmon colored Drachen Mail with a Gae Bolg lance, and finally wields a lance named Peregrine.
+
+===Personality===
+Heustienne is an eager student willing to learn new skills from the Warrior of Light, she has a grudge against the dragon Graoully, and previously had a rivalry with Estinien.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Dragoons]]

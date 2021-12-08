@@ -1,0 +1,98 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{DISPLAYTITLE:Ramuh (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ramuh
+|release=FFXIV
+|japanese=ラムウ
+|romaji=Ramū
+|aka=Lord of Levin {{j|雷神|Raijin|Thunder God}}
+|image=FFXIV Ramuh CG.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|designer=
+|motion capture=
+|japanese voice actor=[[wikipedia:Kazuhiko Kishino|Kazuhiko Kishino]]
+|english voice actor=[[Neil Kaplan]]
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=Striking Tree
+|recurring appearance=Ramuh
+}}
+{{Quote|Lightning given sage form, venerated by the sylphs.<br />Though depicted in legend as a wise and benevolent elder who harbors ancient secrets, Ramuh is a merciless arbiter of those who would defile the sacred depths of the forest, striking down interlopers with fulminating bolts of lightning.|Official website}}
+'''Ramuh''' is the [[primal]] of [[Sylph#Final Fantasy XIV|Sylph]] [[beastmen]] tribe, and a [[superboss]] in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' as he appears in the main story quest and an optional "extreme" battle.
+
+==Profile==
+Ramuh is a towering elderly man with a voluminous beard, black robes. He wields a staff of judgment. Unlike other primals, he is even-tempered and does not intend to drain [[aether]] more than necessary, reflecting the laid-back attitude of the Sylphs. He condemns the actions of the other races in causing strife, yet is willing to let the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] prove their worth as a champion of [[Eorzea]].
+
+Much like [[Ifrit (Final Fantasy XIV)|Ifrit]], Ramuh speaks with an archaic dialect.
+
+==History==
+The Lord of Levin was the center of a schism between the Sylphs sometime around the [[Umbral Calamity|Calamity]] when there was a division on whether Ramuh should be summoned. Those who wanted to call forth their god became xenophobic touched "Violets," while the rest fled to Little Solace under Gridania's protection.
+
+The [[Scions of the Seventh Dawn]] investigate Ramuh shortly after the defeat of Ifrit to determine how much of a threat he presents. The Warrior of Light locates the missing elder [[Frixio]] of Little Solace, who assures the touched Sylphs have no desire to war with Gridania, and haven't been agitated enough by Castrum Oriens into summoning Ramuh fully.
+
+The [[Garlean Empire|Garlean]] presence in East Shroud—along with the later appearance of [[Garuda (Final Fantasy XIV)|Garuda]] and [[Good King Moggle Mog XII]]—wasn't enough to push the Violets, and they dared not summon Ramuh once [[Gaius van Baelsar]] revealed the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]]. The back-breaking straw came from the unrest in [[Ul'dah]] that caused by a riot induced by [[Teledji Adeledji]]'s machinations. The influx of refugees fleeing to [[Black Shroud|The Black Shroud]] finally prompted Ramuh's appearance.
+
+{{Quote|I have taken thy measure, Bringer of Light. And I judge thee a worthy champion. The task of excising the sin that hath taken root in man's heart is thine.|Ramuh}}
+In hopes of maintaining peace, Elder Seedseer [[Kan-E-Senna]] bids the Warrior of Light to parley with the Lord of Levin. Ramuh is dismissive, condemning the strife caused by man. He relents and lets the Warrior prove their worth in a trial by combat. Once Ramuh is defeated at the Striking Tree, he deems them worthy of being champions of Eorzea, and returns to the aether.
+
+The sylphs, however, still fear for the safety of their grove and summon forth Ramuh once more. As his very presence is a danger to the land, the Warrior of Light is once again forced to defeat the Lord of Levin.
+
+==Gameplay==
+{{Main|Striking Tree}}
+Ramuh is fought as a boss twice at the {{icon|ffxiv|duty|The Striking Tree}}: first in the "Defenders of Eorzea" arc of the main scenario, then in an optional Extreme battle. Both are fought at [[level]] 50 with a full [[party]] of eight.
+
+Completing {{icon|ffxiv|duty|The Striking Tree (Extreme)}} is optional, and grants the achievement "Contempt of Court" and "Mightier than the Levin," which requires 8 Blue Mages, Echo turned off, and the fight must be synced to level 50 for the latter.
+
+Levin Barding will also enable a player's [[Chocobo (Final Fantasy XIV)|chocobo]] [[Companion]] resemble the Lord of Levin.
+
+==Musical themes==
+{{Main|Thunder Rolls}}
+"Thunder Rolls" plays during the battle against Ramuh in the Striking Tree quest.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:PrimalRamuh TCG.png|thumb|100px]]
+Ramuh appears on a Thunder-Elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:391a Ramuh.png|thumb|100px]]
+Ramuh appears on a Triple Triad card in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Voice==
+Ramuh is voiced by [[wikipedia:Kazuhiko Kishino|Kazuhiko Kishino]] in Japanese and [[Neil Kaplan]] in English.
+
+==Gallery==
+<gallery>
+FFXIV Ramuh.png|Ramuh artwork.
+Ramuh FFXIV Art 2.jpg|Concept art.
+FFXIV Ramuh boss.png|Ramuh as a [[Ramuh (Final Fantasy XIV boss)|boss]].
+</gallery>
+
+==Etymology==
+{{Etym|Ramuh}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

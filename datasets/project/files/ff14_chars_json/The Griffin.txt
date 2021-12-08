@@ -1,0 +1,67 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=The Griffin
+|release=FFXIV
+|japanese=鉄仮面
+|romaji=Tetsukamen
+|lit=The Iron Mask
+|image=The griffin.png
+|home=[[Ala Mhigo]]
+|affiliation=[[Ala Mhigan Resistance]]
+|occupation=
+|race=
+|gender=Male
+|height=
+|weight=
+|type=npc
+|job={{icon|ffxiv|discipline|Dark Knight}}
+}}
+{{Quote|This I promise you, for we have a power within us, my friends─a power befitting our pride, our righteousness! Only join us, and we shall grant you the means to unleash it, and together we shall see the Ala Mhigan standard raised over the mountains of [[Gyr Abania]] once more! If you see what I see, if you feel as I feel, then I bid you join us! And those of you who cannot fight, fear not. For it is not strength of arms that will win this battle, but strength of heart!|Excerpt from the Griffin's speech in ''Soul Surrender''.}}
+'''The Griffin''' is a character from ''[[Final Fantasy XIV]]''. He is a firebrand of the [[Ala Mhigan Resistance]], first seen during Patch 3.4 ''Soul Surrender'', who leads a sect of rebels known as the "Masks".
+
+The Griffin is actually several individuals, the "true" Griffin who works behind the scenes, and some decoy who makes speeches or certain events in public appearances.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+The Griffin is first seen by the Warrior of Light and Alpinaud making a speech at the Sunken Temple of Qarn. The speech stirs the assembled refugees, where he tells them they have a "power within all of us", and warns that Ala Mhigo is now under a [[Zenos yae Galvus|new viceroy]].
+
+After the speech, the two are reunited with [[Yda Hext|Yda]] and [[Papalymo Totolymo|Papalymo]], who have gotten involved with the Masks. Through them, they arrange a meeting with the decoy, where he admits the Masks did obtain crystals from the stolen Ishgardian stores. He clarifies it wasn't to use directly, but as a gift to the [[Amalj'aa]] to secure their alliance in retaking Ala Mhigo. He assures them they can search their base if they don't believe. Before he leaves, he speaks to the Warrior of Light, and reveals that the adventurer once helped his friend in Quarrymill make medicine for him. He states that many of the Masks were inspired to join up by the warrior of Light's great deeds, showing that even an individual can make a difference.
+
+In the stinger for ''Soul Surrender'', the decoy is seen reporting to the true Griffin. As the decoy leaves, the Griffin is met by [[Elidibus (Final Fantasy XIV)|Elidibus]]. Having apparently been cooperating to ensure the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] would confront the Warrior of Light at the Bowl of Embers, Elidibus bestows the revolutionary a gift: the [[Eyes of Nidhogg]], retrieved by the Warriors of Darkness after the great wyrm's demise.
+
+{{Quote|An ending to mark a new beginning... My pain! My longing! You shall have it all!|The Griffin}}
+Now in possession of Nidhogg's eyes, the Griffin puts his next plan into motion: an assault on [[Baelsar's Wall]]. Having been tipped off about this plot from [[M'naago Rahz|M'naago]], the Scions of the Seventh Dawn warned the Alliance leaders, who began mobilizing troops in the event conflict spills over to the Black Shroud. Yda and Papalymo entered secret tunnels under the wall in a attempt to reach the Griffin in order to talk him out of it. As this happened, the Griffin struck: worse yet, the attackers were wearing Grand Company unfiforms as a false flag operation. With the Griffin clearly trying to force the Eorzean Alliance into renewed hostilities with Garlemald, the Warrior of Light infiltrates Baelsar's Wall itself to stop him.
+
+Atop the great wall, the true Griffin reveals his identity as [[Ilberd Feare]] and attacks the Warrior of Light. After besting him in combat, Alphinaud, [[Yugiri Mistwalker|Yugiri]], Yda, and Papalymo catch up. Ilberd soon reveals he is in possession of Nidhogg's eyes, and expresses his ulterior goal: summoning a primal. [[Laurentius Daye|Laurentius]], disguised as an imperial, orders several war machines to massacre the Resistance fighters. Ilberd declares he will use this sacrifice to summon a deity "more terrible than the dark wyrm of the Calamity" and leaps backwards with the eyes in hand. His death completes the summoning ritual, as an unknown primal begins to manifest above the Wall.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+In the [[Monk (Final Fantasy XIV)#Monk|Monk]] job quest line, a man claiming to be the true Griffin appears, claiming that Ilberd was yet another false Griffin, assuming his identity in order to launch his attack on Baelsar's Wall. The "real" Griffin is revealed to be the leader of the Corpse Brigade and son of King [[Theodoric]], [[Theobald]]. He reveals himself in person to [[Widargelt Beake]], where he reveals the monk's true identity to be Theodred, nephew of Theodoric and announces his intention to prevent him from rebuilding the Fist of Rhalgr. In the end, this identity is also proved to be false, as Theobald's true identity is that of Adri, one of Ilberd's doubles and a former Monk of the Fist of Rhalgr who sought to claim the throne once Ala Mhigo is liberated out of anger for the fact that Widargelt refuses to do so.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Some time during the Warrior of Light's journey in [[the First]], Adri escapes from custody and fought the Corpse Brigade alone with full knowledge that he was a target for having used them and died fighting. Widargelt later finds his body and buries him in Little Ala Mhigo with his spear used as a grave marker.
+
+==Characteristics==
+===Appearance===
+The Griffin appears to be a male highlander hyur wearing a white-and-blue scale armor with a blue cape and white hood. A distinctive white mask conceals all facial features. The cape features the flag of Ala Mhigo.
+
+===Personality===
+In public, the Griffin is a political firebrand, making motivational speeches that have greatly stirred interest in Ala Mhighan refugee camps. In a more private conversation, the decoy Griffin is relatively cordial, especially once he realizes the Warrior of Light was the adventurer who had helped get him some medicine long ago.
+
+The true Griffin is apparently far more secretive, controlling his organization tightly—even mail to and from its members are carefully checked—as the Griffin is apparently a wanted man (at least, from Garlemald). This means most of his appearances are done with a decoy. His few lines at the end of ''Soul Surrender'' after getting the report from his decoy depicts him as revolutionary leader working on behalf the desires of the Resistance. According to Elidibus, he is a "man of boundless rage and bottomless despair" seeking vengeance.
+
+==Behind the scenes==
+Based on what he said about the Warrior of Light helping him earlier, the decoy Griffin was speculated to be the NPC Gallien seen in the early Main Scenario quest "He Ain't Heavy." In the [[Dark Knight (Final Fantasy XIV)|Dark Knight]] questline, Gallien later reveals the decoy was Houdart. Before it was confirmed in Patch 3.5, the identity of the true Griffin was strongly speculated by fans to be Ilberd.
+
+== Gallery ==
+<gallery>
+FFXIV The Griffin concept.png|Concept art.
+FFXIV The Griffin 1.png
+FFXIV The Griffin 2.png
+</gallery>
+
+==Etymology==
+{{Etym|Griffin}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

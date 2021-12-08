@@ -1,0 +1,67 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Bismarck (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Bismarck
+|release=FFXIV
+|japanese=ビスマルク
+|romaji=Bisumaruku
+|aka=White {{j|白き神|Shiroki Kami|White God}}, Lord of the Mists {{j|雲神|Unshin|Clouds God}}
+|image=FFXIV Bismarck Render.png
+|home=
+|age=
+|affiliation=[[Vanu Vanu]]
+|race=[[Primal]]
+|type=boss
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|boss page=Limitless Blue
+|recurring appearance=Bismarck
+}}
+'''Bismarck''' is the [[primal]] of the [[Vanu Vanu]] beast-tribe in the [[Final Fantasy XIV: Heavensward|expansion]] for ''[[Final Fantasy XIV]]''.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Bismarck was summoned by the Vunda tribe of Vanu Vanu. Bismarck later appeared while under attacked by [[Garlean]]s, devouring a small island that contained the key to [[Azys Lla]]. Reasoning that it was only a matter of time before the Garleans found a way to obtain the key, [[Cid nan Garlond]] anchored a small island to the [[Enterprise (Final Fantasy XIV)|Enterprise]] and dragged it through the [[Sea of Clouds]] to lure Bismarck. When the primal appeared, the Adventurer used the harpoon launchers mounted on the island to reel in the sky whale and slay it to obtain the key.
+
+The Vanu Vanu would summon Bismarck once more, an act that [[Unukalhai]] was afraid would hasten the awakening of the [[Warring Triad (Final Fantasy XIV)|Warring Triad]]. Using the Enterprise to lure out Bismarck once more, the Adventurer defeated Bismarck yet again.
+
+==Characteristics==
+{{Quote|Ruler of the clouds, worshipped by the Vanu Vanu.<br>Folklore tells of a legendary white whale said to swim in the Sea of Clouds as if they were the waters of the Rhotano.<br>According to Vanu legend, however, Bismarck led their ancestors to the floating islands. With waves of fury he purges his domain of those who would do his followers harm.|Official site description.<ref name="Official North American ''Final Fantasy XIV'' Website20150527">{{Refwebsite| page url = http://na.finalfantasyxiv.com/heavensward/sp/story/| page name = FINAL FANTASY XIV: Heavensward| site url = http://na.finalfantasyxiv.com/| site name = Official North American ''Final Fantasy XIV'' Website| access time = 20:08, May 27, 2015 (UTC)}}</ref>}}
+
+==Gameplay==
+{{main|The Limitless Blue}}
+Bismarck appears as a boss twice in both {{icon|ffxiv|duty|The Limitless Blue}} and its extreme version, in both versions of the fight are unique to trials and require a different method to defeat the boss.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:605a Bismarck.png|thumb|100px]]
+Bismarck appears as a [[Triple Triad (Portal App) cards/Final Fantasy XIV series|card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Bismark.png|Bismarck's promotional artwork.
+Bismarck-ffxiv-sculpture.png|A raw model of Bismarck for ''[[Final Fantasy XIV]]''.
+Benchmark Bismarck 01.jpg|Bismarck as seen in ''Heavensward'' benchmark video.
+Benchmark Bismarck 02.jpg|Bismarck as seen in ''Heavensward'' benchmark video.
+</gallery>
+
+==Etymology==
+{{Etym|Bismarck}}
+
+==Trivia==
+*Bismarck's depiction and scale in ''Final Fantasy XIV'' is similar to [[Sin]] from ''[[Final Fantasy X]]''.
+*Bismarck is apparently animalistic and unintelligent, as it has no speaking roles and is motivated by hunger.
+
+==References==
+{{citations}}
+
+{{Section|Final Fantasy XIV}}
+{{navbox summons}}
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

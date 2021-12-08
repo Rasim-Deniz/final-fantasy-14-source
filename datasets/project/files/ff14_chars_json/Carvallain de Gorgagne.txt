@@ -1,0 +1,70 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Carvallain de Gorgagne
+|release = FFXIV
+|japanese = カルヴァラン・ド・ゴルガニュ
+|romaji = Karuvaran do Goruganyu
+|lit = Carvalan de Gorganeau
+|image = Carvallain from Final Fantasy XIV.png
+|race = [[Elezen]]
+|gender = Male
+|height = 
+|hair = Red
+|eye = White
+|designer = 
+|age = 34
+|job = {{ffxiv|discipline|marauder}}
+|weapon = Adamantite Headman's Axe
+|armor = 
+|affiliation = Kraken's Arms
+|occupation = Pirate
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+|japanese voice actor = Riki Kagami
+|english voice actor = [[Luke Allen-Gale]]
+}}
+'''Captain Carvallain de Gorgagne''' is a [[non-playable character|NPC]] from ''[[Final Fantasy XIV]]''. He is the pirate captain of the Kraken's Arms. Carvallain is featured in a number of low-level Limsa Lominsa quests, and in many ways serves as backstory to the city-state's culture.
+
+Carvallain is secretly the lost son of [[High Houses of Ishgard|House Durendaire]] of Ishgard, and [[Jannequinard de Durendaire]] is his cousin.
+
+== History ==
+=== ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+Carvallain is seen in an [[Echo (Final Fantasy XIV)|Echo]] view when [[Rostnsthal|Sthalmann]] leads the Knights of the Barracuda in an invasion in the Astalicia in search of [[Emerick]], a subordinate pirate who is suspected of conspiring with the [[Sahagin]]. In the present, Carvallain is often seen arguing with [[Rhoswen Leach|Rhoswen]] over which of the two factions should govern Limsa Lominsa.
+
+Carvallain physically restrained Rhoswen when she initially ignored [[Merlwyb Bloefhiswyn|Merlwyb]]'s order of retreat at [[Carteneau Flats|Carteneau]] to keep attacking the [[VIIth Imperial Legion]].{{cite|FFXIV|''Tales from the Calamity''}}
+
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Since Admiral [[Merlwyb Bloefhiswyn]] restricted piracy, Carvallain has mostly begun privateering goods from [[Garlean Empire|Garlean]] cargo ships, many of which are later resold at the Seventh Sage in [[Limsa Lominsa]]. He is present in many quests that the player may take early on in their time in Limsa Lominsa, such as hiring the [[Warrior of Light (Final Fantasy XIV)|Adventurer]] to sell some sample "spices" he purchased to potential clients and regular customers.
+
+When [[Alphinaud Leveilleur]] attempts to establish the [[Crystal Braves]], Carvallain is scouted as a potential recruit. He declines the offer.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Carvallain does not make an appearance in the main scenario quests, but he does play a small role in various quests throughout the ''Heavensward'' expansion and its patch content.
+
+Carvallain is briefly spoken to by the Warrior of Light and [[Quimperain Evertrue]] during the [[Astrologian (Final Fantasy XIV)|Astrologian]] quest {{icon|ffxiv|quest|slings and arrows}}, where [[Leveva Byrde]] had previously spoken to him with an interest in purchasing some of the "spices" that the Kraken's Arms sells. 
+
+When the [[Maelstrom]] challenges the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to compete in their training grounds at [[Hullbreaker Isle (Hard)|Hullbreaker Isle]], Carvallain participates in the contest. He challenges the Warrior of Light with Ymir, a monster he recently purchased. After the beast is defeated, he begrudgingly states that he seems to have wasted his money.
+
+====Ishgardian Restoration====
+When Count [[Charlemend de Durendaire]] comes to Limsa Lominsa seeking to negotiate a trade deal, the representative of the Kraken's Arms initially tells him to leave as Carvallain had forbidden all dealings with Ishgard. Seeing his father willing to reveal treasured house secrets in the deal, however, persuades him that Ishgard might be moving forward. Though he does not wish to give up the freedoms he's gained as Captain of the Kraken's Arms by revealing himself to his father, he decides to offer House Durendaire a trade deal using the Warrior of Light as an intermediary.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+When the [[Scions of the Seventh Dawn]] require transportation to [[Othard]] in the Far East, they contact Carvallain. He is reluctant to help due to the lack of profitability for such a long trip. However, [[Tataru Taru|Tataru]], having learned of his true identity while in [[Ishgard]], blackmails him, forcing him to agree. After an encounter with monsters in [[The Sirensong Sea]], he drops the Scions off at [[Kugane]], the only port in Othard open to foreign ships.
+
+==Characteristics==
+=== Appearance ===
+Carvallain is a Wildwood [[Elezen]] with dark skin, red hair, and bright white eyes. He has a scar across his left cheek. He wears a navy blue woolen shirt with several belted straps on the shoulders and waist. He wears blue wool gloves, brown gaskins with tall white-and-yellow stockings, and leather shoes. He wields a basic battle axe in battle, but eventually obtains a newer weapon, which is an Adamantite Headsman's axe.
+
+=== Personality ===
+Carvallain is a charismatic individual who is notable well-spoken, for being a pirate of Limsa Lominsa. He holds a rivalry with Rhoswen of the all-female pirate band, the Sanguine Sirens. Whereas she is crude and aggressive, Carvallain is mild-mannered (for a pirate), and prefers to use euphemisms (e.g. confiscated goods are often called "spices") for his line of work to avoid legal issues or potentially gaining the ire of the Admiral. Carvallain is careful to maintain the illusion of his manufactured backstory, refusing service with potential Ishgardian clients and deflecting questions about his past that try to dig past what he will say out loud.
+
+He seems to carry a sentimental desire to know that Ishgard is bettering itself, as he works with the Warrior of Light to arrange trade deals with the [[Ishgardian Restoration]] project secretly to not draw attention to his identity and heritage.{{cite|FFXIV|The Firmament questlines.}}
+
+==Gallery==
+<gallery>
+FFXIV Carvallain.png|Carvallain with his new axe in ''Stormblood''.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

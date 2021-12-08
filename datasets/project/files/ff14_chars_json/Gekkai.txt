@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Gekkai
+|release=FFXIV
+|japanese=ゲッカイ
+|romaji=Gekkai 
+|aka=Gekkai the Blind
+|image=Gekkai.png
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Gray
+|eye=Brown
+|age=
+|affiliation=[[Doma (Final Fantasy XIV)|Doma]]<br>[[Garlean Empire]]
+|type=npc
+|job={{icon|ffxiv|discipline|ninja}}
+|weapon=Yoshimitsu
+|armor=Ninja Chanimail
+}}
+'''Gekkai the Blind''' is a non-playable character from ''[[Final Fantasy XIV]]''. He appears the [[Ninja (Final Fantasy XIV)#Ninja|Ninja]] job quests.
+
+==History==
+[[File:Gekkai_for_the_village.png|thumb|left|Gekkai talking to Oboro.]]
+Gekkai is mentioned by [[Oboro Torioi]] as the ninjutsu master from his old village in [[Doma (Final Fantasy XIV)|Doma]], whose body was found disfigured beyond recognition after [[Karasu Kanshi|Karasu]] had sold them out to the [[Garlean Empire]]. However, once Karasu is defeated, he reveals that Gekkai was the one who sold out Doma to the imperials. He gave Karasu two choices: serve him or die, who chose the former.
+
+[[File:Gekkai_Death.png|thumb|left|The death of Gekkai.]]
+Following Karasu's cryptic hint, Oboro confronted Gekkai at Candlekeep Quay. He affirmed that he is the Imperial spymaster in Doma, and explained that shinobi had always served various masters. He further admits that he finds Garlean culture to his liking. He taunts Oboro as being all alone during the confrontation, at which point [[Tsubame Oshidari]] and the Warrior of Light appear to back up Oboro. During the ensuing battle, Gekkai reveals many advanced ninjutsu techniques, including the "lost" fourth mudra which allows him to attack with doppelgangers.
+
+==Characteristics==
+===Appearance===
+Gekkai is an older male midlander hyur with greying hair. He wears standard ninja armor, the chainmail and hakama dyed snow white and the kyahan tekko dyed soot black. His face is scarred, and he wears the Darklight Eyepatch of Striking on his left eye that gives him his moniker.
+
+===Personality===
+Gekkai is an experienced ninja, who has grown to respect strength and ruthlessness above all. Befitting his profession, he is deceptive and mercenary.
+
+{{Character section|Final Fantasy XIV}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ninjas]]
+[[Category:Hyurs]]

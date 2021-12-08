@@ -1,0 +1,48 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Baurendouin de Haillenarte
+|release=FFXIV
+|japanese=ボランドゥアン・ド・アインハルト伯爵
+|romaji=Boranduan do Ainharuto Hakushaku
+|lit=Count Boranduan de Ainhart
+|aka=
+|image=FFXIV Baurendouin.png
+|home=[[Ishgard]]
+|age=56
+|affiliation=[[High Houses of Ishgard#House Haillenarte|House Haillenarte]]
+|occupation=Count
+|race=[[Elezen]]
+|gender=Male
+|hair= Blond
+|eye= Blue
+|laterality=
+|type=npc
+|weapon=
+|armor=
+}}
+'''Count Baurendouin de Haillenarte''' is a non-playable character from ''[[Final Fantasy XIV]]''.
+
+The Lord of House Haillenarte, one of four high houses of [[Ishgard]]. He is the father of [[Joacin Charlemend Francel de Haillenarte|Lord Francel]], [[Laniaitte de Haillenarte|Lady Laniaitte]], [[Aurvael de Haillenarte|Aurvael]], [[Stephanivien de Haillenarte|Stephanivien]],  and the late [[Chlodebaimt de Haillenarte|Chlodebaimt]]. He is the official owner of the Skysteel Manufactory.
+
+==History==
+===Early life===
+House Haillenarte had suffered rough times since the [[Umbral_Calamity#Seventh_Umbral_Calamity|Calamity]]. Baurendouin's third child, Chlodebaimt, fell during the sacking of the Steel Vigil by Svara. His youngest son Francel was nearly the latest of his house to be framed for heresy, and only spared due to timely intervention of [[Warrior of Light (Final Fantasy XIV)|the Adventurer]] and Lord [[Haurchefant Greystone|Haurchefant]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Count Baurendouin features in the [[Machinist (Final Fantasy XIV)|Machinist]] storyline. He is rather disdainful that Stephanivien chose his work in Skysteel Manufactory rather than becoming a knight, and dismissive of the idea of machinists. When Skyfire Locks comes under attack by Svara, he requests Stephanivien do his duty as part of House Haillenarte to defend them. Stephanivien entrusts the task to his machinists, including the Warrior of Light, who greatly aid House Haillenarte knights in driving away the dragon. This wins the respect of the Count, having seen the machinists' value in battle.
+
+Once the machinists win in the tourney between the High Houses at Camp Dragonhead, Baurendouin puts his faith in his son and machinistry. During the quest "A Joye-ful Reunion," he and his knights participate in an offensive against the [[Dravanian Horde|Dravanians]] at the Black Iron Bridge, aided by the Warrior of Light and Joye.
+
+==Characteristics==
+===Appearance===
+Baurendouin is a Wildwood [[Elezen]] with short blond hair, a short beard, and light blue eyes. He bears a striking resemblance to his son Aurvael. He wears a green feather hat with a green alpine coat and blue trousers, black thigh-boots, and elbow-length black gloves with a white trim.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+Baurendouin is an ally NPC during the [[Quest Battle|special instance]] in Machinist quest Level 54 {{icon|ffxiv|quest|A Joye-ful Reunion}}, where he fights alongside the player with several knights. Like most knights, he fights with a sword and shield.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

@@ -1,0 +1,38 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Hancock Fitzgerald
+|release=FFXIV
+|japanese=ハンコック
+|romaji=Hankokku
+|lit=
+|aka=
+|image=FFXIV Hancock.png
+|home=[[Kugane]]
+|affiliation=East Aldenard Trading Company
+|race=[[Hyur]]
+|gender=Male
+|hair=Blond
+|eye=
+|type=npc
+|motion capture=
+|japanese voice actor=Masato Ishihara
+|english voice actor=Ciaran Owens
+}}
+'''Hancock Fitzgerald''' is a non-player character from ''[[Final Fantasy XIV]]''. Hancock is a [[Ul'dah]]n man who has live in [[Kugane]], representing [[Lolorito Nanarito|Lolorito]]'s East Aldenard Trading Company.
+
+==History==
+On name of [[Lolorito Nanarito]], Hancock receives the [[Scions of the Seventh Dawn]] as soon as they arrive in [[Kugane]]. Hancock teaches about local geography and aids in searching for information about the whereabouts of [[Gosetsu Daito|Gosetsu]] and [[Yugiri Mistwalker|Yugiri]].
+
+After [[Doma (Final Fantasy XIV)|Doma]] is freed, Hancock summons the Scions to share a rumor that [[Garlean Empire|Garlean]] troops are being sent in search of a woman who looks like [[Yotsuyu goe Brutus|Yotsuyu]].
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Character section|Final Fantasy XIV}}
+==Etymology==
+Fitzgerald is a [[wikipedia:FitzGerald (surname)|real world surname]]. One of the more famous people with it was [[wikipedia:F. Scott Fitzgerald|F. Scott Fitzgerald]], an American writer who illustrated the flamboyance and excess of the Jazz Age.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

@@ -1,0 +1,58 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Titania (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Titania
+|release=FFXIV
+|japanese=ティターニア
+|romaji=Tītania
+|image=FFXIV Titania Render.png
+|home=[[Il Mheg#Lyhe Ghiah|Lyhe Ghiah]]
+|affiliation=
+Fae folk (formerly)
+[[Sin eater|Sin Eaters]]
+|occupation=
+Faerie King (formerly)
+Lightwarden of Il Mheg
+|race=[[Pixie]] (formerly)<br/>[[Lightwarden]]
+|gender=<!--PIXIES ARE GENDERLESS, DO NOT FILL THIS SPACE-->
+|hair=
+|eye=
+|type=boss
+|japanese voice actor=Yuna Kamakura
+|english voice actor=[[Robyn Addison]]
+|boss page=The Dancing Plague
+}}
+{{Quote|Why? Why did you imprison us? Such boredom...such ''tedium'' have we suffered. It is unfair! ''Unfair''! Come. Come and play with us...|Titania's invitation}}
+'''Titania''' is a [[non-playable character]] in ''[[Final Fantasy XIV: Shadowbringers]]''. They are the King of the fae tribes of Il Mheg and reside within the castle of Lyhe Ghiah.
+
+==History==
+Originally the King of the Pixies, their name actually a title, Titania was once the ruler of the various fae tribes and fought against the [[Sin eater|sin eaters]]. Titania ended up becoming a [[Lightwarden]] after striking down the previous one, yet retained their form and aspects of their personality due to their strong will. The fae folk were forced to seal Titania in the castle Lyhe Ghiah, the [[Scions of the Seventh Dawn]] collecting the four relics needed to enter it. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] defeats Titania, absorbing their light while restoring night to Il Mheg. Due to the nature of succession, [[Feo Ul]] decides to become the next Titania so the Warrior can remain mortal, and pledges the fae folk's support against Eulmore and the sin eaters.
+
+Some time after Titania's defeat, a pixie named [[An Lad]] is born. An Lad seems to possess vague memories as Titania, and it is theorized that Titania's aether may have imprinted on An Lad during their birth, making An Lad a reincarnation of sorts of Titania.
+
+==Characteristics==
+===Appearance===
+Titania is a large pixie with pale skin and pale blue eyes. They have their hair braided with pink flowers, and wear a purple dress that fades into lighter shades from the bottom up. They have blue wings with tips of purple and orange, and wield a light green flowery staff.
+
+===Personality===
+Although they are transformed into a lightwarden Titania still retains their playful personality, but with a sickened twist willing to harm those they encounter. When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Ryne|Minfillia]] approach their castle, they send the two a terrifying vision as an invitation.
+
+==Gameplay==
+Titania is fought in {{icon|ffxiv|duty|The Dancing Plague}} trial during the ''Shadowbringers'' expansion. They can also be faced in Extreme difficulty.
+
+==Gallery==
+<gallery>
+FFXIV Titania Artwork.png
+FFXIV Titania 1.png
+FFXIV Titania 2.png
+FFXIV Titania 3.png
+FFXIV Titania 4.png
+FFXIV Titania 5.png
+</gallery>
+
+==Etymology==
+{{Etym|Titania}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Pixies]]

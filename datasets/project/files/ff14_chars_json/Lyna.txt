@@ -1,0 +1,74 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Lyna
+|release=FFXIV
+|japanese=ライナ
+|romaji=Raina
+|aka = Curt Gateguard {{j|衛兵らしき女性|Eiheirashiki Josei|Woman resembling a guard}}
+|image=FFXIV SH Lyna.png
+|portrait=[[File:Lyna Trust Portrait from Final Fantasy XIV.png|81px|Trust portrait.]]
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Viera (Final Fantasy XIV)|Viis]]
+|gender=Female
+|height=
+|weight=
+|hair=Light Blue
+|eye=Pink
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=guest
+|job={{icon|ffxiv|discipline|guard captain}}
+|abilities=
+|limit break=
+|weapon=[[Weathered Krishna]]
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[Yoshino Nanjo]]
+|english voice actor=Salome R. Gunnarsdottir
+}}
+{{Quote|Every face in this city I know. Yours I do not. This is the threshold of the Crystarium, stranger, and I am its gatekeeper. If you would enter, you will answer my questions.|Lyna to the Warrior of Darkness}}
+'''Lyna''' is a character from ''[[Final Fantasy XIV]]'', first appeared in the third expansion ''[[Final Fantasy XIV: Shadowbringers]]''. A [[Viera (Final Fantasy XIV)|Viis]] from [[the First]] and the captain of the [[Crystarium (Final Fantasy XIV)|Crystarium]]'s guards. A brave woman who protects her nation from the [[sin eater]]s.
+
+== History ==
+
+==Characteristics==
+===Appearance===
+Lyna is a Viis with light blue hair and pink eyes. She wears Crystarium armor and wields Weathered Krishna as weapons in battle.
+
+===Personality===
+Captain of the defensive guard at the Crystarium, Lyna is a battle hardened soldier that cares about the people in the city.
+
+== Gameplay ==
+Lyna is available as a [[Trust System]] NPC for {{icon|ffxiv|duty|Holminster Switch}}. After completing ''Shadowbringers' ''main scenario, she can no longer be selected since the system changes to Avatar mode. Lyna can be selected again by unlocking the Scenario mode or by using New Game+ mode.
+
+In combat, she fights as Dancer, but she does not use Closed Position on a partner.
+
+==Gallery==
+<gallery widths="185">
+Lyna Full Trust Portrait from Final Fantasy XIV.png|Full size Trust portrait.
+Lyna_in_the_Crystal_Tower.png|Lyna in the Crystal Tower.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Viera]]
+[[Category:Dancers]]
+[[Category:Guest characters]]

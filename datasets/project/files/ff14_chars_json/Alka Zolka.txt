@@ -1,0 +1,70 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Alka Zolka
+|release = FFXIV
+|japanese = アルカ・ゾルカ
+|romaji = Aruka Zoruka
+|aka=Alka Zolka the Thinker, Alka Zolka the Slayer
+|image =FFXIV Alka Zolka.png 
+|race = [[Lalafell]]
+|gender = Male
+|height = 
+|hair = Blonde
+|eye = Olive
+|designer = 
+|age = 
+|job = {{icon|ffxiv|discipline|marauder}}
+|affiliation = Marauder's Guild
+|weapon =Lominsan Bhuj
+|armor = 
+|affiliation = Marauders Guild
+|occupation = }}
+'''Alka Zolka''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. A member of the Marauder's Guild in [[Limsa Lominsa]], he has keen interest in scholarly pursuits despite his vocation. He is part of the [[Summoner (Final Fantasy XIV)#Scholar|Scholar]] job quests.
+
+== History ==
+===Early life===
+Born to parents employed by the Mealvaan's Gate customs house, Alka Zolka grew into a youth with a refined appreciation for reading. Surrounded by the unlettered children of fishermen and sailors, however, his love for books was often mocked as the pointless pastime of a weakling landlubber. Fueled by indignation and determined to prove that strategy trumps brute force, Alka presented himself as an aspirant to the Marauders' Guild upon his sixteenth nameday. Though his peers within the guild held his intellectual pursuits in equally low regard, he weathered their insults with unyielding stoicism. Alka had learned of the military tactics of [[Nym]] from an ancient tablet, and knew that if he could but recreate their wisdom, he would wield a weapon greater than any reaver's axe.
+
+=== ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+The receptionist at Mealvaan's Gate will mention Alka Zolka is looking for an [[Summoner (Final Fantasy XIV)|arcanist]] to assist in his research. He explains that in the Fifth Astral Era, the city-state of Nym used military formation consisting of marauders supported by a single [[scholar]] and their companion fairy. He intends to study more on these tactics by intercepting a bandit shipment in [[Eastern La Noscea]].
+
+Fending off the brigands, he opens a chest containing an enigmatic [[Soul Crystal (Final Fantasy XIV)|soul crystal]]. Once the [[Warrior of Light (Final Fantasy XIV)|adventurer]] holds it, a fairy emerges, seemingly having "chosen" the adventurer and reveals two forms: Eos and Selene. Alka Zolka encourages the adventurer to focus on the arts contained in the soul crystal and utilize the fairy for support.
+
+Alka Zolka reconstructs rough blueprints for the original garb of scholars, and commissions work from various tradecraft guilds to have a restoration of the attire made for the adventurer.
+
+Later the original owner of the soul crystal is revealed: [[Surito Carito]]. A Nymian scholar transformed into a [[tonberry]], he had named the fairy bound to the crystal "Lily" and was even now seen skulking near the Wanderer's Palace. Though initially confronted by Alka Zolka and other marauders, he regains enough clarity to explain his story and let them know he means no harm.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Alka Zolka explains that [[Surito Carito]] has requested a summons. Meeting on the shores of Bronze Lake, he explains the Nymian plague has begun to return, and he needs help activating a ward to quarantine the worst cases before he can investigate a cure. Alka Zolka and the adventurer are tasked with locating the warding stones among the ruins.
+
+Once the quarantine is ready, Surito wishes to address the plague itself. He recounts how the disease was brought back by seafaring traders from a south seas island, after they were saved from a storm. Alka Zolka notices the symptoms did not occur until after the traders returned to port, and Surito thinks the mysterious ampoule that the traders had brought with them must be a clue.
+
+The ampoule is discovered intact within the Floating City of Nym. Once Surito examines it, he discovers a binding sigil at the bottom of the ampoule characteristic of the [[Mhach]]i. The voidsent may still be out there, and now poses a threat to all life on [[Vylbrand]].
+
+While investigating how to track the rogue voidsent, Surito Carito has Alka Zolka, the adventurer, and a few other marauders of Coral Tower train under an old Nymian drill instructor, [[Halga Tolga]] on Nymian military discipline. Using resources gleaned from the Thaumaturge Guild, Surito concludes the invisible voidsent's activities could be tracked by the fairy. The fiend, Bitoso, is traced to Camp Bronze Lake, where they confront and slay it before it can feed off the [[aether]] of recovering soldiers.
+
+With the original vector of the plague stopped, Surito Carito hopes he can now discover a means of reversing the transformation.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+Alka Zolka and the adventurer are again summoned by Surito Carito, who requests their aid in finding [[Setoto Seto]], a student of his who has gone missing.  Together, the pair are able to locate her, and learn that she had left to find traces of her father, who had been captured by [[Amdapor]] during the [[War of the Magi (Final Fantasy XIV)|War of the Magi]].  They assist Setoto in locating her father's belongings in [[Amdapor Keep]], however her attempt at using her father's [[Soul Crystal (Final Fantasy XIV)|Soul Crystal]] to summon his fairy results in her becoming comatose.  With Alka Zolka's guidance, they are successful at retrieving Setoto's aether and reviving her.  By the end of their adventures, it is clear that Setoto has developed romantic feelings towards Alka Zolka.  However, she chooses to keep them to herself while she is still in the form of a Tonberry.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+When the adventurer returns from [[The First]], they bring information that Surito Carito believes can be used to create a cure for the Green Death.  Alka Zolka is enlisted to help find the material he needs for the cure.  He is then present when Surito Carito tests the cure on Setoto Seto, which successfully reverts her to her original Lalafell form.  He then returns to Limsa Lominsa with the newly cured Setoto, and can be found alongside her in the Marauders' Guild.
+
+=== ''[[Final Fantasy XIV: Endwalker]]'' ===
+When the Eorzean Alliance creates the Ilsabard Contingent, a specialized unit formed to invade Garlemald, Alka Zolka joins as one of the representatives from Limsa Lominsa.
+
+==Characteristics==
+Alka Zolka is a plainsfolk [[Lalafell]] clad in heavy armor and a battle axe, contrasted by the spectacles worn on his face.
+
+Despite being a marauder employed at the Coral Tower, he is an intellectual and interested in studying the battle tactics used by the ancient city-state of [[Nym]].  He also displays chivalric tendencies, as shown by his treating of [[Setoto Seto]] with the kindness and courtesy befitting a young lady, despite her appearance as a Tonberry.
+
+== Gameplay ==
+Alka Zolka appears in various solo instanced battles of the Scholar job quests as an ally, who serves as a tank for the player.
+
+During the final job quest {{icon|ffxiv|quest|Forward, the Royal Marines}}, the player must use Leeches to remove the plague status effect from Alka Zolka or any of his other marauders before they transform into tonberries; the duty will end in failure if anyone transforms.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]
+[[Category:Warriors]]

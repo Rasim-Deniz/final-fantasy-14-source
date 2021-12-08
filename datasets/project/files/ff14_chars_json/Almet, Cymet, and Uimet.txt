@@ -1,0 +1,67 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Almet, Cymet, and Uimet
+|release=FFXIV
+|japanese=アルメ、シャイメ、ウィメ
+|romaji=Arume, Shaime, Uime
+|aka=
+|image=FFXIV Viera Sisters.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Viera (Final Fantasy XIV)|Viis]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|archer}} (Almet)<br>{{icon|ffxiv|discipline|conjurer}} (Cymet)<br>{{icon|ffxiv|discipline|lancer}} (Uimet)
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=Asumi Yoneyama (Almet)<br>Mizue Tsunashima (Cymet)<br>Mariya Ise (Uimet)
+|english voice actor=Alfrun Rose (Almet)<br>Melkorka Oskarsdottir (Cymet)<br>Nina Yndis (Uimet)
+}}
+'''Almet''', '''Cymet''', and '''Uimet''' are characters from ''[[Final Fantasy XIV]]''.
+
+==History==
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Almet.png|Almet.
+FFXIV Cymet.png|Cymet.
+FFXIV Uimet.png|Uimet.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Viera]]

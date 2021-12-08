@@ -1,0 +1,76 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Artoirel de Fortemps
+|release = FFXIV
+|japanese =アルトアレール・ド・フォルタン 
+|image =Artoirel de Fortemps from Final Fantasy XIV.png
+|race = [[Elezen]]
+|gender = Male
+|height = 
+|hair = Dark blue
+|eye = Blue
+|designer = 
+|age = 30
+|job = {{icon|ffxiv|discipline|gladiator}}
+|weapon = Brass Viking Sword
+|armor = 
+|romaji =Arutoarēru do Forutan 
+|affiliation = [[High Houses of Ishgard|House Fortemps]]
+|occupation = 
+|type=npc
+|home = [[Ishgard]]
+|lit=Artwarel de Fortan
+|english voice actor=Harry Hadden-Paton
+|japanese voice actor=Tsugo Mogami
+}}
+
+'''Lord Artoirel de Fortemps''', also known as '''Artoirel Ironbone''', is a [[non-player character]] in ''[[Final Fantasy XIV: Heavensward]]''. He is the eldest son of [[Edmont de Fortemps|Count Edmont]], and brother to [[Haurchefant Greystone|Haurchefant]] and [[Emmanellain de Fortemps|Emmanellain]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Artoirel is the elder of the Count's sons, and along with Emmanellain, the Warrior of Light is asked to assist them with their duties. Artoirel aids in the rebuilding of Falcon's Nest and is initially dismissive of the foreigners granted asylum by his father. He soon changes his mind when the Warrior of Light assists in dealing with [[Ysayle Dangoulain|Ysayle's]] heretics in [[Coerthas Western Highlands]].
+
+Artoirel helps subdue an assassin under the True Brotherhood of the Faith who was hired to kill Aymeric de Borel. He assists Ser Aymeric and the [[Scions of the Seventh Dawn]] to rescue the hostages taken by the Brotherhood. After Haurchefant's heroic sacrifice at the [[The Vault|Vault]], Artoirel is saddened by his death and resolves to follow his late brother's belief in aiding those in need. 
+
+Giving the Warrior of Light a House Fortempts kite shield, Artoirel confides that his father is planning on stepping down as count to ward off suspicions on House Fortemps concerning the accusations of Ser Aymeric planning a coup d'etat on the Archbishop. Though he long dreamed of becoming count, the revelations about the origins of the [[Dragonsong War]] have cast doubt in Artoirel's mind of the value of his birthright. When reminded of his late brother's words, "A knight lives to serve─to aid those in need" Artoirel realizes that helping the people is the best thing he can do as head of House Fortemps.
+
+===[[Ishgardian Restoration]]===
+Artoirel is approached by a House Haillenarte ward to compose a piece of music for the first celebration following [[The Firmament|the Firmament's]] construction. Enthused, Artoirel tells the Warrior of Light that were he aware of the construction project much sooner, he would have been in attendance among the workers. He provides the music that the Warrior of Light and [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] perform for the Firmament, and is present in the crowd alongside his father and younger brother.
+
+==Characteristics==
+===Appearance===
+Artoirel is a Wildwood [[Elezen]] with dark blue hair and blue eyes. He wears a brown alpine overcoat, and long thighboots covering a red pair of pants. When in battle, he wears Fortemps issued chainmail armor and wields a brass Viking sword.
+
+===Personality===
+Determined, proud yet friendly and capable, Artoirel is more like his half-brother [[Haurchefant Greystone|Haurchefant]] than his younger brother [[Emmanellain de Fortemps|Emmanellain]]. Though annoyed that the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] was tasked to assist him and his brother, likely not wanting to accept help or share the glory, he comes to accept them as friends to his house and as an honorable warrior. 
+
+Initially, the prospect of his future duties as the next head of his house filled him with pride and thrill, but upon it drawing near, especially during a tumultuous time, the thought of succeeding his father began to fill him with dread. With the Warrior of Light's support Artoirel's fears are put to ease and he accepts the Warrior as a part of his family.
+
+Artoirel accepts his half-brother Haurchefant despite him being born a bastard. He respects Haurchefant's moral character and leadership. Yet, out of respect for his mother's wishes, he kept his distance from his half-brother and at times considers him a rival. In contrast, Artoirel is embarrassed by his younger brother Emmanellain's cowardly and doubtful nature, but respects him like any older brother would.
+
+Unlike the majority of Ishgardian nobles who are rigid fundamentalists, Artoirel supports [[Aymeric de Borel]]'s endeavors to reform the Ishgardian government. He hopes for a peaceful future between Ishgard and Dravania.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Artoirel de Fortemps
+|image = [[File:FFXIV TT Artoirel.png]]
+|number = 120
+|total = 21
+|type = None
+|description = “I am no stranger to the battlefield, Ser Aymeric! My arm will not falter; my shield will not break! Halone as my witness, we will bring these fanatics to justice!”
+|obtain = Won from the House Fortemps Manservant, Fortemps Manor in The Pillars.
+}}
+
+==Behind the scenes==
+Artoriel is voiced by Harry Hadden-Paton in the English version of ''Final Fantasy XIV'' and Tsuguo Mogami in the Japanese version.
+
+==Gallery==
+<gallery>
+FFXIV Artoirel de Fortemps.png|Artoirel's full outfit.
+XIV Artoirel.jpg|Artoirel in cutscene.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

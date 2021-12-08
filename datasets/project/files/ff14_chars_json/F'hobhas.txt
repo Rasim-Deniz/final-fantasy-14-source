@@ -1,0 +1,53 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=F'hobhas
+|release=FFXIV
+|japanese=フ・ホバス
+|romaji=Fu Hobasu
+|aka=
+|image=F'hobhas from Final Fantasy XIV.png
+|home=[[Central Thanalan|Thanalan]]
+|age=
+|affiliation=[[Mutamix Bubblypots]]
+|occupation=Engineer
+|education=
+|race= [[Miqo'te]]
+|gender=Female
+|hair=
+|eye=
+|type=npc
+|job=
+|weapon=
+}}
+'''F'hobhas''' is a character from ''[[Final Fantasy XIV]]''. She is an engineer who works for her master, [[Mutamix Bubblypots]].
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Section|Final Fantasy XIV}}
+
+==Characteristics==
+===Appearance===
+F'hobhas has black hair and green eyes. She is of Seekers of the Sun [[Miqo'te]]. She wears an engineer outfit and goggles.
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+F'hobhas is a NPC available for Triple Triad matches added in patch 2.51. She is located at [[Central Thanalan]] (23.6, 13.9). The matches have the Match Rule Three Open. The possible reward for defeating her is the {{icon|ffxiv|item|Mutamix Bubblypots Card}}.
+
+==Gallery==
+<gallery>
+F'hobhas_Legacy.jpg|F'hobhas in version 1.0.
+F'hobhas_ARR.jpg|F'hobhas in ''A Realm Reborn''.
+F'hobhas.jpg|F'hobhas in ''A Realm Reborn''.
+Mutamix_crew.jpg|F'hobhas with the Mutamix crew.
+</gallery>
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Gigi
+|release=FFXIV
+|japanese=ギギ
+|romaji=Gigi
+|image=FFXIV HW Gigi.png
+|race=[[Mammet]]
+|gender=Male
+|type=npc
+|affiliation=House Manderville
+}}
+'''Gigi''' is an amnesiac [[Mammet]] in ''[[Final Fantasy XIV]]''. [[Hildibrand Manderville|Hildibrand]] found him buried in the frozen wastes of [[Coerthas]] and invited him to join his group to help restore his memories. He later ends up adopting Gigi as his son.
+
+==History==
+During searches for [[Hildibrand Manderville]], [[Nashu Mhakaracca|Nashu]]'s party finds the Inspector buried in the snow and [[Godbert Manderville]] appears to wake up his son. During Hildibrand's awakening, a memoryless mammet is found whom Hildibrand names Gigi, promising to recover his lost memories.
+
+[[Cyr Blyme]]'s superiors at the Supreme Sacred Tribunal of Halonic Inquisitory Doctrine have decided that, in the interest of public safety, the mammet Gigi must be seized and subjected to thorough examination. Should it be determined that the mammet is of heretical origin, it is to be destroyed. Cyr's attempt to convince Hildibrand to surrender Gigi leads to a debate on the mammet's gender. The commotion draws Lord [[Edmont de Fortemps]] out from nearby Fortemps Manor, who agrees with the inspector that the mammet is clearly a boy. Upon learning of the inquisition's interest in Gigi, the count suggests Hildibrand adopt the mammet as a ward, and even offers to stand as witness. Cyr can only look on in horror as Gigi is formally granted the patronage of House Manderville.
+
+[[File:FFXIV HW Gigi body.png|thumb|left|Gigi's new body.]]
+Gigi reveals a mysterious power by restoring a vase that Hildibrand broke. Not satisfied with his body, Gigi sets off on a journey in search of his grandfather, Godbert, to transform his body into a body of a real boy. It ends up frozen in [[Coerthas Western Highlands]] just before meeting his grandparents. Godbert not only fixes Gigi, but also fulfills his wish and molds the mammet's tiny frame into a towering [[Roegadyn]]. Gigi runs to his father, arms outstretched, only to accidentally deal him a bone-crunching blow. Alas, Gigi's joy is short-lived because of the magicks that soon envelop his body, restoring it to its original shape.
+
+Having come to view the Fortemps Manor gazebo as their home, the little mammet wishes to decorate it with a drawing of their family crest. Alas, the life of a traveling inspector demands that Hildibrand forsake such luxuries as gazebos, if only for lack of financial means.
+
+[[File:FFXIV HW Gigi family.png|thumb|Gigi's family crest.]]
+Cyr is in charge of investigating rumors of incidents involving charlatans masquerading as knights of the [[Heavens' Ward]]─the [[Grand Sers]]─and recruits Hildibrand to help. The journey takes the party to [[Idyllshire]] where [[Slowfix]], in recognition of Hildibrand's contribution to found Idyllshire, declares that the inspector may live in the building once leased to the Grand Sers, who are in arrears and have not been seen in some time. Overjoyed with this windfall, Gigi begs his father for permission to draw their family crest on their new gazebo, and Hildibrand duly agrees.
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Gigi is based on [[Vivi Ornitier]] from ''[[Final Fantasy IX]]''.
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]

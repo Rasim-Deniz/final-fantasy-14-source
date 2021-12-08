@@ -1,0 +1,42 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tristol
+|release=FFXIV
+|japanese=トリストル
+|romaji=Torisutoru
+|aka=
+|image=FFXIV ShB Tristol.png
+|home=
+*[[Eulmore]] (formerly)
+*[[Kholusia#Amity|Amity]]
+|age=
+|dob=
+|affiliation=
+|occupation=Painter (formerly)
+|race=[[Hyur|Hume]]
+|gender=Male
+|hair=
+|eye=
+|type=npc
+|japanese voice actor=
+|english voice actor=
+}}
+'''Tristol''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. He was a painter who worked at [[Eulmore]].
+
+==History==
+Tristol was called in [[Eulmore]] to work as a painter to paint a portrait of [[Dulia-Chai]] and [[Chai-Nuzz]]. Unfortunately the style didn't please the couple
+and without use inside Eulmore, Tristol was thrown into the sea.
+
+[[Alphinaud Leveilleur]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] find him on the bank near the city. Thanking the Warrior for their help, Tristol hints that Eulmore will soon hire a new painter and that would be an opportunity to enter the city. Tristol quits being a painter to find a new direction for her life.
+
+Tristol is found by another Eulmore refugee and is taken to live in [[Kholusia#Amity|Amity]]. When [[Vauthry]] flees to [[Mt. Gulg (Final Fantasy XIV)|Mt. Gulg]], the Warrior of Light/Darkness goes to the region looking for a way to reach the mount and Tristol spies on him for fear of being a soldier of Eulmore. Recognizing the Warrior, Tristol helps by providing information about and region. The Warrior takes Dulia-Chai and Chai-Nuzz to Amity, the couple apologizes for sending him to death and asks the collaboration of Amity's people to create a giant [[Talos]] to reach the mount. Still angry, Tristol recognizes that help is for a greater good and collaborates with the creation of Talos.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

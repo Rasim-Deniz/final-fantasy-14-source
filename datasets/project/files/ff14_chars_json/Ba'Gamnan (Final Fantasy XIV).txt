@@ -1,0 +1,76 @@
+{{sideicon|FFXIV}}
+{{DISPLAYTITLE:Ba'Gamnan (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Ba'Gamnan
+|release=FFXIV
+|japanese=バッガモナン
+|romaji=Baggamonan
+|aka=
+|image=FFXIV Ba'Gamnan.png
+|portrait=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Dalmasca (Final Fantasy XIV)|Dalmasca]]
+|occupation=Captain
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Bangaa]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|original appearance=[[Ba'Gamnan]]
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Ba'Gamnan''' is a character from ''[[Final Fantasy XIV]]''. He was a captain in the [[Dalmasca (Final Fantasy XIV)|Dalmascan]] army prior to the kingdom's downfall, and is accompanied by his siblings.
+
+==History==
+===Early life===
+[[File:FFXIV Ashelia Rasler BaGamnan.png|left|thumb|Rasler, Ashe and Ba'Gamnan.]]
+Ba'Gamnan and his siblings served as fusileers in the Dalmascan army under [[Rasler B'nargin Dalmasca|Prince Rasler]]'s command. During the [[Garlean Empire|Garlean]] invasion of Dalmasca, 30 years prior to the events of ''[[Final Fantasy XIV: Stormblood]]'', Rasler ordered Ba'Gamnan's unit to escort his twin sister, [[Ashelia B'nargin Dalmasca (Final Fantasy XIV)|Princess Ashelia]], away from the besieged [[Nalbina Fortress]]. To this end he entrusted Ba'Gamnan with an [[Auracite]] necklace to be given to Ashelia once she was safely away. Ba'Gamnan's unit ultimately failed in their duty, and both Rasler and Ashelia were killed in the invasion. Ba'Gamnan has since worn the necklace as a reminder of his failure, and seeks out more Auracite for the power to potentially undo his past mistakes.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Ba'Gamnan first appears at the end of the [[Royal City of Rabanastre (Final Fantasy XIV)|Royal City of Rabanastre]] duty, as part of the [[Return to Ivalice]] raid series. After the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and their party clear the Royal City, they discover both an Auracite and the missing [[Jenomis cen Lexentale]]. Ba'Gamnan and his crew fall upon the party, taking Jenomis hostage and demanding the Auracite in exchange. The Warrior of Light's party acquiesces. After releasing Jenomis and delivering a gut shot to Bwagi for a toothless joke, Ba'Gamnan steals a tome held by Jenomis. Afterwards, he, Gijuk and Bwagi flee on their airship, Auracite in hand.
+
+[[File:FFXIV Mutated Ba'Gamnan.png|thumb|A mutated Ba'Gamnan at [[Ridorana Lighthouse]].]]
+Leading up to the second Return to Ivalice raid, it is discovered that Ba'Gamnan has gone missing at the [[Ridorana Lighthouse]]. Initially he is found at the base of the Lighthouse, but it becomes clear that the Auracite is manipulating him. He begins to suffer from hallucinations, seeing the Warrior of Light as [[Noah van Gabranth]] and [[Lina Mewrilah]] as [[Livia sas Junius]], and imagining his own siblings to be Garleans. He attacks Lina, but is stopped by the Warrior of Light and collapses, reciting the pact to give his soul over to the Auracite as he dies. His body revives as a mutated monster, and flees into the tower. When the Warrior of Light reaches the peak they discover a city in the clouds along with Ba'Gamnan at the center. Upon greeting the party, he gives a speech about avenging his fallen brothers before using Auracite to transform into [[Yiazmat]] and engages the Warrior of Light.
+
+After a long battle, the Warrior of Light emerges victorious as the True Dragon evaporates into [[Mist (term)|Mist]], leaving behind a necklace and a piece of Auracite. [[Ramza bas Lexentale]] attempts to pick up the necklace (believing it to be his mother's), but is struck by a magical force, rendering him unconscious. Upon returning to the [[Prima Vista (Final Fantasy XIV)|Prima Vista]], the cast deliberates until Ramza awakens and explains the Auracite is a "Gift from the Old Gods to guide us". Jenomis suggests that the Auracite, which contains the thoughts and feelings of its creator, seeks to return to Ivalice. [[Montblanc]] states that the necklaces (both Ba'Gamnan and Ramza's mother's) are made of cut Auracite.
+
+==Characteristics==
+===Appearance===
+Ba'Gamnan retains his original appearance from ''[[Final Fantasy XII]]''.
+
+==Gameplay==
+Ba'Gamnan is fought in Yiazmat form as the final boss of the alliance raid {{icon|ffxiv|duty|Ridorana Lighthouse}}.
+
+==Gallery==
+<gallery>
+FFXIV Bangaa.png|Ba'Gamnan's bandit crew.
+FFXIV BaGamnan Pistol.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Bangaa]]
+[[Category:Antagonists]]

@@ -1,0 +1,38 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Sul Oul
+|release=FFXIV
+|japanese=スール＝オール
+|romaji=Sūru = Ōru
+|lit=
+|aka=
+|image=FFXIV ShB Sul Oul.png
+|home=[[Il Mheg]]
+|age=
+|dob=
+|affiliation=Kingdom of Voeburt (formerly)
+|occupation=
+|race=[[Nu mou]]
+|gender=
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+}}
+'''Sul Oul''' is a character from ''[[Final Fantasy XIV]]''. They was a [[nu mou]] who once served the Voeburt's royal family.
+
+==History==
+Sul Oul once served the royal family of Voeburt's Kingdom. They witnessed [[Branden]]'s past and the fall of the kingdom due to [[Tadric]]'s machinations.
+
+Nowadays, [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] and [[Granson]] are on a hunt for Cardinal Virtue Dikaiosyne, a [[sin eater]] born from Branden's body. Seeing that Granson was thirsty for revenge, Sul Oul reveals Branden's past to the pair and once Granson reflects his concepts, Sul Oul offers a tip on how to attract Dikaiosyne so that the pair can finally defeat the Cardinal Virtue.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Nu mou]]

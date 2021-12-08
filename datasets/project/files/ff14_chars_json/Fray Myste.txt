@@ -1,0 +1,90 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Fray Myste
+|release = FFXIV
+|japanese = フレイ・ミスト
+|romaji = Furei Misuto
+|aka=Fray of the Onyx Shade
+|image = FFXIV Fray.png
+|race = [[Hyur]]
+|gender = Male or Female{{note|reference=Fray's gender changes to match that of the player character.}}
+|height =
+|hair = 
+|eye = Silver
+|designer = 
+|age = 25
+|job = {{icon|ffxiv|discipline|dark knight}}<br>{{icon|ffxiv|discipline|conjurer}}
+|weapon = Steel Claymore
+|armor = 
+}}
+{{Quote|There's a darkness within us all—nothing dangerous, mind. In fact, it's quite healthy.|Fray}}
+'''Fray Myste''', also known as '''Fray of the Onyx Shade''', is a [[Hyur]] [[non-player character]] in the [[Level]] 30+ [[Dark Knight (Final Fantasy XIV)|Dark Knight]] quests in ''[[Final Fantasy XIV: Heavensward]]''. Fray is found in the [[Ishgard]]ian slum known as the Brume after following an Ishgardian's account of a recent trial that ended in a "demon's" demise.
+
+==History==
+===Early life===
+Fray is an orphan of the Brume and was put on the Dark Knight's path when his [[Ompagne Deepblack|future master]] found him plotting revenge over the body of a friend unjustly executed by the Holy See. He proved an inquisitive student eager to study both the book-bound and physical aspects. 
+
+Fray and his fellow student in the dark arts, [[Sidurgu]], were in search the meaning of "The Flame of the Abyss" mentioned by their master on his deathbed when they interfered with the Ishgardian temple knights' pursuit of a young [[Elezen]] girl, [[Rielle]]. Fray was caught while the trio attempted to escape, and was forced into a trial by combat. Defeated, the temple knights forwent a proper burial and dumped his body in the Brume where the Warrior of Light finds him.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+The Warrior inspects Fray's body, finding a [[Soul Crystal (Final Fantasy XIV)|soul crystal]] that reacts to their touch, and blacks out.{{cite|FFXIV|{{icon|ffxiv|quest|Our End}}.}} When the Warrior of Light comes to, Fray stands before them alive and healthy. Fray is pleased to know the Warrior heard a voice upon touching the soul crystal and explains the "changes" they are experiencing. They soon get the chance to put the knowledge to practice when they hear screams.
+
+After bequeathing their greatsword to the Warrior of Light, Fray leads them to the source of the screams where an old woman laments that temple knights have taken her granddaughter.{{cite|FFXIV|{{icon|ffxiv|quest|Ishgardian Justice}}.}} Fray is angered, implying it is not the first time members of the Holy See have taken girls. Fray spells out what needs to be done, and the Warrior of Light offers to get the granddaughter back. Fray and the Warrior follow the knights to the tribunal, and along the way the Warrior of Light learns to harness the darkness within. In defeating the knights, Fray hounds them, threatening to slay any who would dare stand against them. Upon helping the shaken granddaughter, the Warrior of Light asks if she had called out their name. She denies; only her grandmother had called for help.
+
+Returning to the Brume, Fray praises the Warrior of Light's prowess in harnessing the flames of hatred within, but warns that the path of a dark knight is fraught with danger.
+
+Asking Fray of the origins of the voice they had heard, the Warrior of Light learns it may be a beacon that guides the dark knight on their path.{{cite|FFXIV|{{icon|ffxiv|quest|The Voice in the Abyss}}.}} As one's prowess in the dark arts grows, so too will their ability to hear the voice. Fray suggests training, ordering the Warrior of Light to the blazing sands of [[Southern Thanalan]] to slay a fearsome beast so they might test their mettle. "To mete out justice, one must be strong" Fray teaches, and when the monsters are slain, they beseech the Warrior of Light to concentrate with them. The Warrior blacks out again, hearing a voice speak just a little bit clearer. When the Warrior of Light comes to, they mention the voice. Fray urges them to not be discouraged, and claims the voice might be someone they are destined to meet in the future.
+
+When the Warrior of Light next meets Fray they seem haggard, but waves away their condition to continue training.{{cite|FFXIV|{{icon|ffxiv|quest|Heroic Reprise}}.}} To hear the voice with more clarity, Fray has the Warrior of Light cross swords with a fearsome foe to again embrace the fires of combat. Before the Warrior can make preparations, Isembard, an old friend whom they had saved from [[Ifrit (Final Fantasy XIV)|Ifrit]], seeks their aid as the [[Amalj'aa]] have kidnapped some residents of [[Camp Drybone]]. Fray is angry, spouting off that the victims should have armed themselves. Despite Fray's protest, the Warrior of Light agrees to help, and Fray follows.
+
+After slaying the encampment of Amalj'aa to rescue the kidnapped villagers, Fray tells the Warrior of Light to not clean the blood from their gear for Isembard to see firsthand what they had accomplished. Isembard is relieved the villagers returned safely, but is disturbed by the sight of the bloodstains, which Fray finds amusing. After communing with Fray more of the voice is heard, repeating "Serve...Save...Slave...Slay..." Fray says that sacrifice is to renounce that which binds you—and forsake all that does not. Fray suggests the Warrior of Light give up the path of the dark knight before it becomes too much of a burden.
+
+Adamant to continue, the Warrior of Light follows the strained Fray's advice and heads to the [[Moraby Drydocks]] to prepare for another round of eldritch communion.{{cite|FFXIV|{{icon|ffxiv|quest|Declaration of Blood}}.}} At the pier, Fray watches the waves, and speaks of a time they and their partner nearly died at sea. The reminiscing is cut short when the Warrior of Light is recognized by one of Maelstrom's officers, who had helped in the battle against the [[primal]] [[Leviathan (Final Fantasy XIV)|Leviathan]]. The officer mentions a merchant in need, as [[Qiqirn]] have stolen crates of his goods. Annoyed people come to the Warrior of Light for help with trivial tasks, Fray relents that at least the giant rats could be worthy opponents. The two lay waste to the encampment of Qiqirn bandits, and afterward the Warrior of Light glances at their bloodstained greatsword, uncertain of how long they held it. The Warrior is struck by a headache and Fray is nowhere to be seen.
+
+Returning to the Drydocks, Fray seems even more fatigued, but suggests they finish their task. The Warrior of Light returns the merchant's crates, some of their contents broken, others covered in Qiqirn blood and entrails. The merchant asks for recompense, but Fray demands respect for all they have done for the people of [[Eorzea]], claiming they should have let all of [[Limsa Lominsa]] drown instead of bothering to fight the Lord of the Whorl. Fray storms off, and the merchant cowers, apologizing to the confused Warrior of Light, while the Maelstrom officer tries to calm them down.
+
+The Warrior speaks to Fray in a secluded area of the docks who proposes that the two of them leave Eorzea together and renounce everything to be free. After communing, Fray and the Warrior go their separate ways for a time.
+
+In the Brume, Fray struggles to stand upright, but puts on a brave front.{{cite|FFXIV|{{icon|ffxiv|quest|Our Answer}}.}} Fray tells the Warrior of Light to meet them outside the gates of Ishgard when they are ready. Calling out for Fray in the snows of Coerthas, two knights ask the Warrior of Light for help in quelling an uprising of giants at Daniffen Pass. Upon felling the leader of the giants, the voice of the abyss pounds in the Warrior of Light's head, drowning out the words of the knights who give their thanks. When the voice subsides, the knights send word from Lord [[Drillemont de Lasserrant|Drillemont]], who wishes to speak with the Warrior in [[Coerthas Central Highlands#Whitebrim Front|Whitebrim Front]] regarding recent allegations against them.
+
+Arriving at Whitebrim, the Warrior of Light is surprised to see Fray standing over a group of injured knights. Fray explains the voice was them, or rather, the Warrior of Light, crying out from the abyss, a fire of hatred to be embraced. The real Fray was dead when they first met, but touching the soul crystal gave form to the Warrior of Light's desires for a teacher. Fray becomes a twin of the Warrior of Light, garbed in the armor of the a dark knight, wielding their devilish greatsword. Known as "Esteem", the inner darkness challenges the Warrior of Light in combat to see who will win their shared future as a dark knight. Fray speaks of succumbing to the darkness, and how the Warrior of Light needs to let go of everything they cared for to master the dark arts. Lord Drillemont and his soldiers cheer on the Warrior, assuring they have not changed, and will always be a hero Eorzea could respect.
+
+With Esteem defeated, they and the Warrior of Light commune one last time. Esteem is happy to stay inside the Warrior of Light's heart, watching the darkness grow with each battle, waiting for a time they are needed again. Thereafter, House Durendaire knights explain that they will give Fray's body a proper burial.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV SB Myste.png|thumb|Myste.]]
+Journal entries throughout the Warrior's journey with Myste, their emotional pain made manifest by their broken soulstone, indicate that Fray is far from silent. This reaches a breaking point when the Warrior of Light confronts Myste in the Peaks; Fray manifests to assist the Warrior by destroying recreations of [[Livia sas Junius]], [[Rhitahtyn sas Arvina]] and [[Ilberd Feare]]. They apologize for the events at Whitebrim, and with Sidurgu's sword in hand, Fray aids the Warrior in defeating Myste's manifestations of the [[Heavens' Ward]] and the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] before finally defeating Myste. Learning that the boy desires forgiveness, Fray grants him his wish, allowing the Warrior of Light's phantoms to disappear and restoring their soulstone.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+The Warrior of Light receives an anonymous letter addressed to them from Sidurgu and journeys through Eorzea to trace it to the sender, learning from Lunnie—the girl they rescued from the corrupt Temple Knights long ago—that the letter was given to her by Ser Patrounade, who was present at Specula Imperatoris' fall and the battle of Ghimlyt Dark. The knight directs the Warrior of Light to Orella in Rhalgr's Reach, who was given the letter from a shipment of supplies from Little Ala Mhigo. The Warrior journeys there and learns from Gundobald that he sent it on the author's behalf and tells them to seek a man named Godeheard at Red Rooster Stead. Godeheard reveals himself as both the merchant who demanded recompense from the damaged shipment long ago and the author of the letter, telling them since then, his life was nothing but a succession of failures, until one day he looked through his possessions and found a bloodstained package of flower bulbs. He resolved to start anew and become a botanist, and gives the Warrior of Light a flower that bloomed from his yield.
+
+The Warrior of Light takes the flower to the Coerthas central highlands, just outside of Whitebrim, and places it in memory of Fray, who manifests behind them as a doppelganger of the Warrior. Reflecting on their adventures and finally having found closure, Fray ceases to be and completely merges with the Warrior's soul, but not before noting "[[Dark_Knight_(Final_Fantasy_XIV)#Living_Shadow|that little trick]]" they learned is not truly them.
+
+==Characteristics==
+===Appearance===
+Fray is covered head-to-toe in the black and gold Chivalric Armor of Fending, with only their eyes visible. Their skin is dark gray, and their eyes are white, although when speaking of the darkness their vocation controls, they glow red. Fray starts with a Steel Claymore, which they gift to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] before assisting them in combat with a black conjurer's staff and healing magic.
+
+===Personality===
+{{Quote|They'll either attack us or flee. I don't know about you, but I'm eager to find out which.|Fray}}
+Fray seems calm, but angers quickly whenever temple knights are involved, and is not above expressing frustration, regardless of who they might insult. Fray relishes in fighting, particularly when facing the temple knights.
+
+==Behind the scenes==
+Because of Fray's true nature as the player character's repressed darkness, Fray's gender in the quest journal changes to match that of the player character, being referred to as a man for male characters and as a woman for female characters. However, the original Fray was male, as mentioned by Sidurgu when he meets the Warrior after they subdue Esteem.
+
+Fray was the one to teach Rielle healing magic, as shown from Fray's use of conjury, and Sidurgu's mention to her of remembering Fray's teachings.
+
+==Etymology==
+"Fray" refers to when a fabric has become worn and unravels, seemingly a reference to how Fray's personality and demeanor becoming more and more unhinged over time.
+
+A fray also refers to a fight, something the character finds delight in.
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Dark Knights]]

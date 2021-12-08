@@ -1,0 +1,193 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Thancred Waters
+|release=FFXIV
+|japanese=サンクレッド・ウォータース
+|romaji=Sankureddo Wōtāsu
+|aka=Handsome Stranger {{j|手練れらしき 優男|Tedarerashiki Yasaotoko|Skillful Gentleman}}
+|image=Thancred NPC Render 2.png
+|portrait=[[File:Thancred Trust Portrait from Final Fantasy XIV.png|81px|Trust portrait.]][[File:Thancred Trust Portrait 2 from Final Fantasy XIV.png|81px|Alternate outfit Trust portrait.]]
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=32
+|dob=
+|affiliation=[[Circle of Knowing]]<br/>[[Scions of the Seventh Dawn]]
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Midlander Hyur
+|gender=Male
+|height=
+|weight=
+|hair=Ash-blond
+|eye=Brown (Original)<br/>Silver (''Heavensward'' onwards)
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=party npc
+|job={{icon|ffxiv|discipline|gladiator}} (Original)<br/>{{icon|ffxiv|discipline|rogue}} (''A Realm Reborn'')<br/>{{icon|ffxiv|discipline|gunbreaker}} (''Shadowbringers'')
+|abilities=*Gladiator:
+Flash, Sentinel, Fast Blade, Savage Blade, Rage of Halone, Cure
+*Ninja:
+*Gunbreaker:
+Heart of Stone, Superbolide, No Mercy, Soothing Potion, Solid Barrel Combo, Rough Divide, Nebula, Smackdown, Perfect Deception, Shining Blade, Leap of Faith, Souldeep Invisibility
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=[[Yuichi Nakamura]]
+|english voice actor=[[Taliesin Jaffe]]{{note|Credited as T. Axelrod.}} (Original)<br/>Peter Bramhill (''Heavensward'' onwards)
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|other appearances=true
+|dissidia=
+|dffoo=true
+|theatrhythm=true
+|ffrk=true
+|ffbe=true
+|wotv=true
+|gallery=true
+}}
+{{Quote|A self-professed bard and chaser of dreams, often seen wandering the wilds of Thanalan. Ever the charmer, Thancred never misses an opportunity to woo a lovely lady with verses of adulation. This foppish facade, however, conceals many secrets, not the least of which is his puissant skill with a dagger.|Official description}}
+'''Thancred Waters''' is a male Midlander [[Hyur]] [[Paladin (Final Fantasy XIV)|Gladiator]] and later [[Ninja (Final Fantasy XIV)|Rogue]] and [[Gunbreaker]]. He played an important role in the [[Ul'dah]] storyline of [[Final Fantasy XIV/Legacy|the original ''Final Fantasy XIV'']], and currently is involved in the plot of ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''.
+
+==History==
+===Early life===
+Thancred was a street urchin in [[Limsa Lominsa]], snatching purses with a band of petty thieves. One day he targeted Louisoix Leveilleur, but was caught red-handed. Instead of turning him in, Louisoix asked Thancred to aid his fellow man with his talents. The boy returned with Louisoix to [[Sharlayan]] to study survival and intelligence gathering techniques, becoming an Archon and then a member of the Circle of Knowing.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+At the age of seventeen, Thancred appeared in Ul'dah on the day of a big festival, aiding subdue a [[Goobbue (Final Fantasy XIV)|Goobbue]] that suddenly went on a rampage. He questioned the actions of [[Niellefresne Thaudour|Niellefresne]] for orchestrating the events at the parade that had cost the life of [[Warburton]], the Ascilla's father. Unable to get Nielle to fess up, Thancred was exiled from the city until the authorities looked to question him. He discovered Nielle collapsed on the floor and witnessed his death. Knowing [[Garlean Empire|Garlean]] spymasters would come for Ascilla due to her father's betrayal, Thancred renamed her "Minfilia" so none would come looking for her.
+
+Thancred drifted in and out of Minfilia's life, but on her eighteenth birthday he delivered her a mythril knife and a missive from his mentor: Louisoix Leveilleur. She was upset he told Louisoix about her gift, but Thancred revealed that the [[Echo (Final Fantasy XIV)|Echo]] will help people survive the upcoming calamity, although how she uses it would be up to her.<ref>{{Refwebsite| page url = https://www.finalfantasyxiv.com/anniversary/na/detail/memoir_4.html?rgn=na&lng=en| page name = Tales from the Calamity| site url = https://www.finalfantasyxiv.com| site name = Final Fantasy XIV official website| access time = 22:07, February 07, 2019 (UTC)}}</ref>
+[[File:Thancred End of An Era.png|thumb|left|Thancred praying to the Twelve.]]
+Thancred, Yda, Papalymo, and Y'shtola attempted to defeat [[Gaius van Baelsar]]. Thancred prayed at the Milvaneth Sacrarium as the Calamity struck and though not shown, in Tales from the Calamity<ref>{{Refwebsite| page url = https://www.finalfantasyxiv.com/anniversary/na/detail/memoir_2.html?rgn=na&lng=en| page name = Tales from the Calamity: The Sultana’s Seven| site url = https://www.finalfantasyxiv.com| site name = Final Fantasy XIV official website| access time = 22:07, February 07, 2019 (UTC)}}</ref> Thancred had persuaded the sultana, [[Nanamo Ul Namo]], to do a similar vigil at the Arrzaneth Ossuary.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The Warrior of Light ends up in an altercation in Ul'dah with some thugs led by Ungust who harass a refugee woman in the streets. Realizing the Warrior of Light had used the Echo to clear her name, Thancred invites them to meet the Antecedent in the Waking Sands with the password "Wild Rose" to be given to the clerk [[Tataru Taru|Tataru]]. The Warrior of Light meets Minfilia there, who introduces the other Scions of the Seventh Dawn and assigns the Warrior to assist Thancred in discovering who is responsible for missing refugees in Camp Drybone.
+
+They discover it was Ungust posing as a priest of Nald'thal to lure the poor into being captured by [[Amalj'aa]]. The Warrior of Light is caught in a trap and taken to the Bowl of Embers along with Ungust and a corrupt Brass Blades member. After the Warrior of Light slays the [[Ifrit (Final Fantasy XIV)|Lord of the Inferno]] itself in self-defense, Thancred arrives with a detachment of the Immortal Flames and regrets he could not help sooner. He confides that the other survivors had to be put down due to Ifrit's tempering.
+
+[[File:Thancred Lahabrea.jpg|thumb|Thancred possessed by Lahabrea.]]
+Thancred gradually appears less often at the Waking Sands as he works on other assignments. Much later, it is discovered he has become possessed by [[Lahabrea]] via a black crystal necklace while out investigating the [[Ascian]]s. Using his body, the Ascian Lahabrea secretly aided both the [[beastmen]] and Gaius van Baelsar to bring about the return of "[[Zodiark (Final Fantasy XIV)|the one true god]]." He unmasks at Castrum Centri as the Scions escape on [[Cid nan Garlond|Cid's]] [[airship (term)|airship]]. They realize Lahabrea possessing Thancred was how [[Livia sas Junius]] was able to raid the Waking Sands, and conclude Thancred became possessed due to pushing himself so hard to make up for Louisoix's absence.
+
+During the final confrontation with the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], Lahabrea explains to Gaius that the [[Hydaelyn (character)|light of the mothercrystal]] is shielding the party from the superweapon's assault. He reveals the real reason he had it absorb the [[primal]]s: to activate the Heart of Sabik and awaken a sliver of his god's power, [[Ultima (ability)|Ultima]]. To Gaius's horror, Lahabrea demonstrates its power by using it to destroy much of the Praetorium and exhaust all of Hydaelyn's strength to shield the party. They yet defeat Gaius, after which Lahabrea confronts the Warrior of Light directly. Though he taunts that they would have to kill Thancred to fight him off, the Warrior of Light has a trump card: the Light of the Crystals they had found enables them to purge Lahabrea from Thancred's body. As the ruined imperial base crumbles, the Warrior of Light escapes with an unconscious Thancred using a Magitek Reaper.
+
+Thancred later accompanies the Warrior of Light and Y'shtola in investigating reports of stolen crystal shipments in Thanalan.{{cite|FFXIV|"Through the Maelstrom"}} After ruling out the Amalj'aas' involvement, they learn the raids were carried out by the Serpent Reavers on behalf of the [[Sahagin]] who are intending to summon [[Leviathan (Final Fantasy XIV)|Leviathan]]. As the Scions investigate Sapsa Spawning Grounds, Thancred demonstrates his knife-wielding skills, and to his astonishment, the newcomer [[Yugiri Mistwalker|Yugiri]] demonstrates similar talents from her [[Doma (Final Fantasy XIV)|homeland]]. After Leviathan is felled at sea, Minfilia reveals (to Thancred's embarrassment) that his knife skills were learned in his days with the Limsa Lominsan underground. Intrigued, Yugiri wants to be introduced to this "Fraternity" and share her knowledge.
+
+When the [[Crystal Braves]] betray the Scions who are framed for the apparent assassination of Nanamo Ul Namo, Thancred is confronted by a squad of Brass Blades who want to arrest him for colluding with the Garleans.{{cite|FFXIV|"Before the Fall"}} Initially believing them to be referring to his actions while under Lahabrea's control, he evades capture and meets up with the other Scions, who are fleeing Ul'dah. He reveals a hidden tunnel that leads out of the city, but their pursuers follow. Y'shtola and Thancred remain behind to ensure that the Warrior of Light and Minfilia escape by causing a cave in. At the last second, Y'shtola uses the ancient spell Flow to transport herself and Thancred to safety. 
+
+[[File:The most important scene of FFXIV 3.1.jpg|thumb|Thancred shortly after emerging from the Lifestream.]]
+While Y'shtola becomes trapped within the Lifestream, Thancred ends up in the wilderness of the [[Dravanian Forelands]], devoid of clothing. Thancred fashions obsidian blades to hunt for animal skins to cover his naked body, later bartering with the Vath for more ideal clothing by offering them food. Thancred's [[aether]] was distorted by the Lifestream to the point of being unable to use [[Magic (term)|magick]], and thus he cannot teleport out of the wilderness. When Thancred learns of the [[Gnath]] and [[Ravana (Final Fantasy XIV)|Ravana]], he decides to remain near the Beast Tribe as he deems it his best chance of reuniting with the other Scions.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Thancred is reunited with the Warrior of Light, [[Alphinaud Leveilleur|Alphinaud]], Y'shtola, and [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] while they search for him in the Smoldering Wastes at Loth ast Gnath. He saves the Warrior of Light from the leader of the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] ([[Ardbert]]) and assists in the investigation of the arson incidents in [[Ishgard]].
+
+[[File:FFXIV Thancred SS.png|left|thumb|Thancred ignores Alphinaud's beckoning.]]
+Thancred learns of Minfilia's fate as the Word of the Mother and the Scions promise to fulfill her wishes and defeat the Ascians once and for all. After the Scions discuss what happened to Minfilia with [[Matoya (Final Fantasy XIV)|Matoya]], a bereaved Thancred walks away while at a loss for words. This has a lasting effect upon him; when punched by [[Emmanellain de Fortemps]] after the protest in Falcon's Nest, he hits back with enough force to send the lordling flying and shares his experience at giving his all and yet failing. He retorts that Emmanellain must learn to live with the consequences of his actions, as he himself has.
+
+Thancred rescues [[Alisaie Leveilleur]] after her run in with the Warriors of Darkness, having been keeping an eye on them. He fights alongside the other Scions against the Warriors of Darkness at the Bowl of Embers. Thancred later arrives with Hilda on an airship to pick up the Scions on top of [[Baelsar's Wall]] just as [[Ilberd Feare]] sets into motion his plan to summon a primal using the [[Eyes of Nidhogg]] and the sacrifice of himself and his soldiers. Soon realizing what Papalymo intends to do, Thancred carries Yda over his shoulder back to the airship despite her protests. The airship gets away just as a shell of light engulfs the manifesting primal.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+The Eorzean Alliance faces Garlean forces in the battle of [[Ala Mhigo]]. Thancred has done his part by spreading discontent upon the Garleans with rumors of the imperial crown prince [[Zenos yae Galvus]] being possessed. During his time in the imperial provinces, he meets a [[Hrothgar]] named [[Rostik Liubasch|Rostik]] who teaches him the ways of the Gunbreaker. He is subjected to the [[G'raha Tia|Crystal Exarch]]'s Calling and his soul is separated from his body.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Thancred Gunbreaker 01.png|left|thumb|Thancred spiriting Ryne from Eulmore.]]
+Thancred ended up trapped on the First (a reflection of the [[Hydaelyn|Source world]]) years before the Warrior of Light follows suit. He decides to do his part by hunting [[sin eater]]s, the monsters of light that plague this realm. He learned of Minfilia being revered as the Oracle of Light and of her current incarnation being held captive in [[Eulmore]]. Thancred rescued the girl, making her his apprentice while using her magic to complement his role as a Gunbreaker.
+
+[[File:FFXIV Ryne Thancred Head Pet.png|right|thumb|Thancred accepting Ryne.]]
+Their relationship was initially awkward as Thancred still loved the Minfilia he knew and was thus emotionally distant from her reincarnation. Thancred knows the girl's awakening as the new Oracle of Light would mean his Minfilia would cease to be. Seeing the girl's resolve when she protects him from [[Ran'jit]] and expresses her desire to follow her own path, Thancred battles the Eulmorean general and drives him off while nearly being killed in the process. By the time Thancred is reunited with the girl after she becomes the new Oracle, he names her "[[Ryne]]" and begins opening up to her. After the newly-arrived Warrior of Light defeats the Ascian [[Emet-Selch]] and saves the First, Thancred remains by Ryne's side as they travel outside [[Norvrandt]] and discover [[Eden (Final Fantasy XIV)|Eden]] while hunting down more [[Lightwarden]]s. Joined by the Warrior and Urianger, Thancred helps Ryne restore the [[aether]] flow while relieved she has made a friend in [[Gaia (Final Fantasy XIV)|Gaia]].
+
+Thancred returns to the Source, recuperating before proceeding to investigate the current status of Garlemald with Urianger accompanying him.
+
+==Characteristics==
+===Appearance===
+[[File:FFXIV Thancred 3.2.png|thumb|left|Thancred in ''Heavensward''.]]
+Thancred is a Hyur of medium height and ash-blond hair. He has neck [[Tattoo (body modification)|tattoos]] like his former [[Circle of Knowing]] allies [[Yda Hext|Yda]], [[Papalymo Totolymo|Papalymo]], and [[Y'shtola Rhul|Y'shtola]]. He wears a white long-sleeved shirt covered by black tunic with leather belts over his left shoulder and a black belt on his waist. He wears white fingerless gloves and greenish pants with a heavily patterned black leather greaves and sandals. Thancred's attire changed during the events of ''Final Fantasy XIV: A Realm Reborn'', now wearing a white belt and [[Sharlayan]] goggles on his left shoulder.
+
+Ever since ''[[Final Fantasy XIV: Heavensward]]'' Thancred's hair has grown longer and his left eye has changed from brown to gray, which he covers with an eye patch. While he maintains it is purely cosmetic, in the rare instances his eye is visible it is notably silver instead of the original brown.
+
+In ''[[Final Fantasy XIV: Shadowbringers]]'', he reverts to his original hairstyle, having done away with the eye patch and now wears a white version of the [[Gunbreaker]]'s relic gear.
+
+===Personality===
+[[File:FFXIV SH Thancred 2.png|thumb|right|Thancred in ''Shadowbringers''.]]
+Thancred is an intelligent smooth-talker with a fondness for women, though he does get flustered when [[Minfilia Warde]] points out some of the shadier elements of his past, even as a compliment. Thancred is devoted to Minfilia and views her as a close friend, akin to a sister. Following the events of the [[Umbral Calamity|Calamity]], Thancred became a workaholic to the point of exhaustion, trying to fill in the shoes of [[Louisoix Leveilleur]].
+
+After learning that Minfilia had become the Word of the Mother, Thancred's disposition changed, becoming less cheerful and more stoic and hardened, though he still retains his dry wit. Despite this, Thancred has come to accept Minfilia's fate. He is devoted to the [[Scions of the Seventh Dawn]]'s cause and has become something akin to their spy and recon-agent, willing to delve into hostile territory. The other Scions are fond of Thancred and view him as a close friend. Thancred in return is protective of his friends and allies and, in particular, holds the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] in the highest esteem. In the later patches of ''[[Final Fantasy XIV: Stormblood]]'', Thancred is revealed as a cunning and clever tactician.
+
+In ''Shadowbringers,'' Thancred's feelings and inner-conflict over Minfilia's fate are laid bare. He is initially reluctant to accept her reincarnation in [[the First]], [[Ryne]], but follows his Minfilia's wish to look after Ryne while keeping emotionally distant. This leads Ryne to believe that Thancred hates her, for which he later apologizes. Upon his final departure from the First and saying his goodbyes to Ryne, Thancred proclaims how proud he is on how far she has come. 
+
+==Gameplay==
+[[File:FFXIV ShB Thancred Role-play.png|thumb|Thancred in Role-Play mode.]]
+Thancred fights alongside the player as a [[guest]] character in many of the main scenario quests. Until the ''Heavensward'' expansion he is a [[Ninja (Final Fantasy XIV)|Rogue]] and in ''Shadowbringers'' he is a [[Gunbreaker]].
+
+In ''Shadowbringers'', Thancred becomes a temporary playable character during the [[duty]] solo in MSQ Full Stream Ahead. He has access to Soothing Potion, Solid Barrel Combo, Rough Divide, Nebula and Smackdown. During certain moments in the instance he can use Perfect Deception, Souldeep Invisibility, Shining Blade, and Leap of Faith.
+
+In ''Shadowbringers'', Thancred is available as an NPC ally during dungeons using the [[Trust System]]. He is a tank and his class is the Gunbreaker. Due to his inability to manipulate aether, he cannot use cartridge-based weaponskills unless Ryne is in the party.
+
+Thancred is a [[Bard (Final Fantasy XIV)#Bard|Bard]], but uses knives instead of bows. In battle he is treated as a Gladiator. In patch 2.2 it is revealed that he is a former member of the [[Ninja (Final Fantasy XIV)|Rogue]] Guild and from then on is treated as a Rogue.
+
+A [[Minion (Final Fantasy XIV)#Wind-up Thancred|Wind-up Thancred]] appears as a [[Minion (Final Fantasy XIV)|minion]] that could previously only be purchased during [[The Rising]] event. It is now available for purchase in the Mog Station.
+
+==Other appearances==
+{{main|/Other appearances|t1=Thancred Waters other appearances}}
+Thancred has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[Thancred Waters (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[/Theatrhythm|Theatrhythm Final Fantasy All-Star Carnival]]'' as a playable character.
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a [[Legend (Airborne Brigade)|Legend]].
+*''[[Thancred Waters (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Thancred Waters (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[Thancred Waters (War of the Visions)|War of the Visions: Final Fantasy Brave Exvius]]'' as a summonable vision and in vision cards.
+*''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a card.
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as cards.
+
+==Other media==
+Thancred appears on a sticker set for the [[LINE]] communications app. The sticker set he appears in is titled "ファイナルファンタジーXIV.<ref>https://store.line.me/stickershop/product/9085/ja</ref> He appears in a second set, titled "FINAL FANTASY XIV Vol. 2".
+
+<gallery>
+LINE FFXIV Sticker4.png|"Sorry to keep you!"
+LINE FFXIV Sticker5.png|"Hi~"
+LINE FFXIV Sticker6.png|
+FFXIV Line Sticker Set 2 38.png|"[[Naoki Yoshida|YOSHIDAAAAA!]]"
+</gallery>
+
+==Behind the scenes==
+In patch 3.4, Thancred's in-game model was slightly altered. His right eye was returned to its original brown while his left (seen when he and Krile are at the imperial castrum) remained the silver it was originally changed to, indicating that the eye patch is not "purely cosmetic".
+
+===Voice===
+Thancred is voiced by [[Taliesin Jaffe]] (credited as T. Axelrod) in the English version of ''A Realm Reborn''. He shares his voice actor with [[Edge Geraldine]] from ''[[Final Fantasy IV]]''. Since ''Heavensward'', he is voiced by Peter Bramhill.
+
+Since ''A Realm Reborn'', Thancred has been voiced by [[Yuichi Nakamura]] in the Japanese version. He shares his voice actor with [[Cid Raines]] from ''[[Final Fantasy XIII]]''.
+
+
+==Gallery==
+{{main|/Gallery|t1=Thancred Waters gallery}}
+
+==References==
+{{citations}}
+
+{{notelist}}
+{{navbox characters FFXIV}}
+
+[[es:Thancred Waters]]
+[[fr:Thancred]]
+[[pt-br:Thancred]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Bards]]
+[[Category:Rogues]]
+[[Category:Gunbreakers]]
+[[Category:Guest characters]]

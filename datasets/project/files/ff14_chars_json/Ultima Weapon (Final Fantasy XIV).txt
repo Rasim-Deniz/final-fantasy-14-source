@@ -1,0 +1,125 @@
+{{sideicon|FFXIV|PFF|FFRK|FFBE|Mobius}}
+{{DISPLAYTITLE:Ultima Weapon (''Final Fantasy XIV'')}}
+[[File:Ultima Weapon XIV.png|thumb|250px|The Ultima Weapon.]]
+The '''Ultima Weapon''' is a biotechnological weapon in ''[[Final Fantasy XIV]]''. Appearing during the events of the initial ''A Realm Reborn'' main scenario questline, the Ultima Weapon is a massive [[Allagan Empire|Allagan]] war machine that is being used by the [[Garlean Empire|Garlean]] Legatus [[Gaius van Baelsar]] in his plan to overtake [[Eorzea]].
+
+Since its initial appearance, stronger versions have made appearances as Minstrel's Ballad content, with "The Minstrel's Ballad: Ultima's Bane" in Patch 2.1 and a new high-end difficulty raid in Patch 4.3 known as "The Minstrel's Ballad: The Weapon's Refrain".
+
+The Ultima Weapon's appearance is based on the [[Ultimate Weapon (Final Fantasy VII)|Ultimate Weapon]] from ''[[Final Fantasy VII]]''.
+
+{{See|Ultima Weapon (creature)}}
+
+==Story==
+{{Spoiler}}
+{{Quote|It is a relic of ancient Allag, excavated from its resting place deep beneath Ala Mhigo. The Allagans used it to crush primal and foe alike...and now the Garleans mean to do the same!|[[Minfilia Warde|Minfilia]]}}
+[[File:Ultima Weapon Garuda.png|thumb|195px|Ultima Weapon preparing to absorb Garuda.]]
+The Ultima Weapon is a biotechnological, anti-[[primal]] war machine created by the Allagan civilization ages ago that was placed in stasis deep beneath what would later become [[Ala Mhigo]]. After the [[Seventh Umbral Era]], the Ultima Weapon was discovered by the Garlean Empire and entrusted to Gaius van Baelsar, who had it absorb the primals [[Ifrit (Final Fantasy XIV)|Ifrit]], [[Titan (Final Fantasy XIV)|Titan]], and [[Garuda (Final Fantasy XIV)|Garuda]] to assimilate their abilities. He intended to use the weapon to intimidate the city-states of Eorzea as well as the [[Beastmen|beast tribes]].
+
+Rejecting the terms of the ultimatum, the city-states reinstated the Alliance and launched Operation Archon to strike against Gaius's [[XIVth Imperial Legion|XIVth Legion]] and eliminate the Ultima Weapon itself at the [[Praetorium]]. Van Baelsar piloted the warmachine in the final battle, but despite his efforts the Light of the [[Hydaelyn (character)|Mothercrystal]] shielded the party. As the Ultima Weapon took damage, the absorbed primals were released.
+
+[[File:Ultima Weapon Praetorium.jpg|thumb|left|195px|Ultima Weapon in the Praetorium.]]
+As Gaius became frustrated with the apparent strength of his opponents, [[Lahabrea]] appeared and explained the only way to break the shield of Light was to bring down the hammer of Darkness. He revealed the core of the Ultima Weapon, the '''Heart of Sabik''' {{j|黒聖石サビク|Kuro Seiseki Sabiku|Black Holy Stone Sabik}}, held a power that had lain dormant for eons: [[Ultima (ability)|Ultima]]. Lahabrea activated Ultima, devastating the Praetorium and draining Hydaelyn of the means to shield the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. Despite being on more even terms, the party destroyed the Ultima Weapon before Ultima could be cast again. As it disintegrated, Gaius ejected from the failing war machine.
+
+Following the defeat of the Ultima Weapon, the Wandering Minstrel is encountered in [[Revenant's Toll]] and asks the Warrior of Light to recount their battle with the Ultima Weapon to make a song about the climax in The Prateorium. Through his song the Warrior finds themselves re-living their encounter with the Ultima Weapon, but can't help but notice that the Wandering Minstrel took liberties with the story, and the battle is much fiercer than they remember.
+
+The reformed [[VIIth Imperial Legion]] under [[Valens van Varro]]'s command reverse-engineers the Ultima Weapon and creates several prototypes based on it, among them the [[Ruby Weapon|Ruby]], [[Sapphire Weapon|Sapphire]], [[Emerald Weapon|Emerald]], and [[Diamond Weapon]]s. They deploy the Ruby Weapon to attempt to break the stalemate at the [[Ghimlyt Dark]]. It is destroyed by the Warrior of Light at Gaius's behest. The Sapphire Weapon is later stationed at the imperial-controlled town of Terncliff in southern Werlyt, and is destroyed by the Warrior. The Emerald Weapon was later transferred to Castrum Marinum in [[Western Thanalan]] and is also destroyed. The Diamond Weapon was stored in Castrum Collinum, later turning on the Legion in a rampage under the command of its pilot [[Allie]], and was later subdued by the Warrior and Gaius. Van Varro was later killed by his own masterpiece, ending the Ultima Weapon project.
+{{Endspoiler}}
+
+==Boss==
+{{For enemy|The Praetorium|The Minstrel's Ballad: Ultima's Bane|The Weapon's Refrain}}
+The Ultima Weapon is fought during the second and third stages of the final battle, piloted by Gaius. In the first fight, it has access to several primal abilities, including their respective signature attacks, but once enough damage is done, each primal is forced out of it. Ultima Weapon gains new abilities for the third battle, including the Ultima spell. If Ultima is successfully cast in battle, it's an instant loss.
+
+Patch 2.1 launched with a Hard Mode variant of the battle with the Ultima Weapon. Emerging victorious from this battle will yield item level 80 accessories. It has a chance of dropping a Faded Copy of The Maker's Ruin. Since the inclusion of the unsync function in duty finder with the initial launch of the ''[[Final Fantasy XIV: Heavensward]]'' expansion, the original challenge of the fight has been reduced, with players often defeating the boss in less than 30 seconds.
+
+Patch 4.31 introduced the [[Weapon's Refrain]], an [[Raid (Final Fantasy XIV)#Ultimate raids|Ultimate raid]] meant to be among the hardest content available, with players facing Garuda, Ifrit, Titan, Lahabrea, and the Ultima Weapon itself in succession. Players are required to Awaken the primals and obtain Beyond Limits buffs to use different roles' [[Limit Break (Final Fantasy XIV)|Limit Break]] 3s to survive.
+
+== Musical themes ==
+{{audio|filename=The Maker's Ruin.ogg|title="The Maker's Ruin"}}
+The Ultima Weapon has two battle themes, one for each phase of battle. Both themes were composed by [[Masayoshi Soken]].
+
+The theme played during the first fight is called "The Maker's Ruin", the song contains a Latin chorus chanting. The lyrics were written by [[Michael-Christopher Koji Fox]] and [[Eva Kappeller]].
+{{clear}}
+
+===Lyrics===
+{| class="full-width"
+| width="50%" valign="top" |
+;Latin
+:Una pugnamus
+:Unitis
+:Una morimur
+:Unitis Crystalle
+
+| width="50%" valign="top" |
+;Unofficial English translation
+:We fight
+:Together
+:We die
+:Together for the Crystal
+|}
+
+;Japanese translation
+:いざ共に戦わん
+:一丸となりて
+:死す時も共に
+:クリスタルによりて、我ら結ばれん！
+
+{{audio|filename=Ultima.ogg|title="Ultima"}}
+The second part of the fight is fought to the song "[[Ultima (song)]]" arranged by [[Nobuko Toda]] and [[Yoshitaka Suzuki]]. Remixes of this song were later used for the Minstrel's Ballad, the Weapon's Refrain, and [[The Sorrow of Werlyt]].
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Ultima Weapon FFXIV.png|thumb|150px|Ultima Weapon.]]
+Ultima Weapon appears as a boss.
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+<gallery>
+FFRK Ultima Weapon FFXIV.png|Ultima Weapon.
+FFRK Ultima Weapon (2) FFXIV.png|Ultima Weapon (Gaius).
+FFRK Nightmare Ultima Weapon FFXIV.png|Nightmare Ultima Weapon.
+FFRK Nightmare Ultima Weapon D280 FFXIV.png|Nightmare Ultima Weapon (D280).
+FFRK Ultimate++ Ultima Weapon FFXIV.png|Ultimate++ Ultima Weapon.
+</gallery>
+{{Enemy section|Final Fantasy Record Keeper}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+{{Enemy section|Final Fantasy Brave Exvius}}
+
+=== ''[[Mobius Final Fantasy]]'' ===
+[[File:MFF Ultima Weapon FFXIV Model.png|thumb|250px]]
+The Ultima Weapon appears as an event-exclusive boss. His appearance is based on his original appearance in ''Final Fantasy XIV: A Realm Reborn''. This boss is only available in high-difficulty quests of [[Ring of Braves]] multiplayer region for limited-time as a part of ''[[Final Fantasy XIV]]'' collaboration:
+*"The Ultima Weapon of the Magi" (Difficulty: ★3)
+*"The Ultima Weapon of Darkness" (Difficulty: ★4)
+*"The Ultima Weapon of the Phantasm" (Difficulty: ★5)
+{{Section|Mobius Final Fantasy}}
+{{clear}}
+
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+[[File:389a Ultima Weapon.png|thumb|100px]]
+Ultima Weapon has a Triple Triad card in the ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FfXIV-weapon.jpg|Artwork of Ultima Weapon.
+FFXIV Ultima Weapon.jpg|Ultima Weapon in-game.
+Praetorium fire.jpg|A group of adventurers fighting the Ultima Weapon.
+FFXIV Ultima Weapon HM.png|The Ultima Weapon in the Minstrel's Ballad: Ultima's Bane quest.
+FFXIV Shiny Ultima.png|Ultima in The Weapon's Refrain
+</gallery>
+
+==Etymology==
+{{Etym|Ultima}}
+
+==References==
+{{citations}}
+
+{{navbox music FFXIV}}
+
+
+[[pt-br:Ultima Weapon (Final Fantasy XIV)]]
+[[Category:Superbosses]]
+[[Category:Technology]]
+[[Category:Antagonists]]
+[[Category:Final Fantasy XIV]]

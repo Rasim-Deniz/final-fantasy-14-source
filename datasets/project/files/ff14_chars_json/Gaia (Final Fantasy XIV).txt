@@ -1,0 +1,86 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Gaia (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Gaia
+|release=FFXIV
+|japanese=ガイア
+|romaji=Gaia
+|aka=Voidwalker, Oracle of Darkness, Loghrif
+|image=FFXIV ShB Gaia render.png
+|home=[[Eulmore]]
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|race=[[Hyur|Hume]]
+|gender=Female
+|height=
+|weight=
+|hair=Black
+|eye=Blue
+|type=npc
+|weapon=Hammer
+|element= Darkness
+|designer=[[Tetsuya Nomura]]
+|japanese voice actor=Yuna Kamakura
+|english voice actor=Anna Rust
+}}
+'''Gaia''' is a non-player character in ''[[Final Fantasy XIV]]''. She appears in the ''[[Final Fantasy XIV: Shadowbringers]]'' expansion as a relevant character for the [[Eden (Final Fantasy XIV)|Eden]] raids' storyline.
+
+==History==
+[[file:FFXIV Logrif unmasked.png|left|thumb|Gaia as Loghrif.]]
+In her past life, she was the Ascian who bore the title of Loghrif. She and her protector, [[Mitron]], were originally tasked with preventing [[The Flood|the flood of light]] on [[the First]], before [[Emet-Selch]] instructed them to bring about a [[Umbral Calamity|Calamity]]. Although nearly successful in destroying the First in a flood of light, Loghrif was killed shortly before the Flood, and was reincarnated a century later as a girl born in [[Eulmore]]. A voice eventually contacted her telepathically, later revealed to be an incapacitated Mitron, erasing most of her memories while tasking her to free him from his [[sin eater]] form, Eden.
+
+Gaia makes her presence known shortly after Ryne reactivates Eden. The [[Warrior of Light (Final Fantasy XIV)|Warrior]] defeats her, and she loses consciousness once Mitron's hold on her wanes. [[Thancred Waters]] takes her into the [[Scions of the Seventh Dawn|Scions']] custody to speak with her once she regains consciousness. 
+
+Gaia wakes up and arrives in Mord Souq, along with Thancred carrying all her luggage, from [[Eulmore]]. She claims to have grown up there, and yet not a single soul knew her, nor did she remember anything of note. She pushes away any connection with the Warrior's party outside of trying to press on to Eden where she hopes to find out more about herself and the darkness that possesses her. Upon wandering off on her own, Gaia is discovered to have great yet uncontrollable dark magic that speaks in her head to her, revealing it was the voice that named her, Gaia having forgotten her own.
+
+[[File:Gaia and Ryne from FFXIV.png|thumb|Gaia and Ryne after the Shiva battle.]]
+The Warrior's party restores the [[aether]]ial elements to the Empty, but their discussions about Eden end up frustrating Gaia and lead her to march off. Ryne attempts to connect with her, desiring a friend her own age, but Gaia shuts her out. The darkness within her eventually manifests and summons a sin eater that the Warrior of Light protects her from. While trapped in the emptiness of her mind, Gaia laments the isolation, and admits she would welcome the party's presence now. Upon waking up, Ryne's relief at her recovery is not unwelcome, and Gaia slowly starts to cooperate with the party more. When Ryne loses control of [[Shiva (Final Fantasy XIV)|Shiva's]] powers in an attempt to restore the ice element to the Empty, Gaia dives in to save her. Afterward, she begins to properly befriend Ryne, even spending time away from the Empty casually with her.
+
+After the Scions return to [[Hydaelyn|the Source]] following [[Elidibus (Final Fantasy XIV)|Elidibus's]] defeat, Gaia and Ryne have grown closer. They plan holding a festival at the [[Crystarium (Final Fantasy XIV)|Crystarium]] to celebrate the renewal of the First. They and the Warrior check up on the Empty, only to find the greenery dried up with the crystal focus shifted to Light. Gaia proposes using Darkness to balance out the Light. Both Gaia and Ryne combine their powers with the Warrior's memories to create a version of the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]], whose defeat shifts the focus into an iridescent scheme. At that moment Mitron, the one who had implanted the idea in Gaia's head, acquired the strength to project himself from Eden. Mitron formally introduces himself while revealing he became Eden when struck by [[Ardbert]]'s Blade of Light.
+
+When Gaia demands why Mitron used her, as he claims the know each other well, he invites her to come into Eden and learn their true relationship. Once Gaia and Ryne arrive, Mitron uses the aether to create a facsimile of the [[Cylva|Shadowkeeper]] that Ardbert and his comrades defeated long ago to stir her memories as Loghrif. When that fails, Mitron exerts his power to stir Gaia's ambient darkness to reveal her identity as Loghrif reincarnated. He forces a fusion to transform them into an Ascian Prime, with Gaia resisting in presence of her friends even as the fusion restored her past life's memories. Mitron decides to completely erase Gaia's memories as not to lose Loghrif, intending to have Eden absorb Gaia. He uses the aether to transform their Ascian Prime form into Eden's Promise, only to be killed while releasing an unconscious Gaia back into the Empty.
+
+As Ryne and the Warrior attempt to revive her, Gaia is in her mindscape where she has a final conversation with the dying Mitron whose soul is freed from Eden to be reborn. She promises they will meet again and intends to record her memories into a diary for future generations. Gaia regains consciousness after remembering Ryne, and sees the Empty fully restored to its natural state. With her memories of Ryne and the others slowly returning, Gaia decides not to look into her past identity before Mitron found her, and instead focus on the future and helping others.
+
+==Characteristics==
+===Appearance===
+Guest artist [[Tetsuya Nomura]] oversaw Gaia's character design. She is visually a direct contrast to [[Ryne]], having waist-length dark wavy hair and heavy makeup, with large features such as bright blue eyes and larger lips. Her outfit is heavily gothic-inspired with an all black ensemble featuring a form-fitting gown with large, baggy sleeves and platform heel boots. Gaia's animations are based on the [[Viera (Final Fantasy XIV)|viis]] race, despite being a hume. 
+
+Her exact age is unknown, but she is assumed to be the same age or slightly older than Ryne, who is likely no older than 15. [[Cylva]] comments that when Gaia becomes of age, she would consider hiring her as a waitress at the Wandering Stairs in the [[Crystarium (Final Fantasy XIV)|Crystarium]].
+
+As the Voidwalker, Gaia wears a full suit of silver and dark blue armor that conceals her features. She wields a sword in this form.
+
+{{spoiler}}
+In her original [[Ascian]] form as [[Loghrif]], she appeared as a woman wearing the Shadowless Casting gear. As the Oracle of Darkness, she wears a feathered robe and has a metal halo.
+{{Endspoiler}}
+
+===Personality===
+Gaia is initially impatient, unwilling to become emotionally invested in others and simply wanting to move forward toward finding the truth about herself. Her lack of knowledge of her past is a sore point to her, as she makes clear any time someone tries make her see other points of view. As time goes on, she is affected by Ryne's efforts to become closer to her, especially upon becoming exposed to the depths of emptiness brought on by the darkness affecting her. She warms up to Ryne, and while still putting on a face of being uptight, it is clear she is now valuing their close friendship.
+
+==Gameplay==
+[[File:FFXIV Oracle of Darkness render.png|thumb|200px|The Oracle of Darkness.]]
+{{Main|Eden's Gate: Descent|Eden's Promise: Eternity}}
+Gaia, as the Voidwalker, is fought as the boss in the {{icon|ffxiv|duty|descent}} raid, as well as its Savage mode.
+
+Gaia later appears during the {{icon|ffxiv|duty|refulgence}} raid during the finale of the fight to spur players on to aid her in the final phase to save her friend.
+
+Gaia, as Loghrif, is fought again in the second half of {{icon|ffxiv|duty|eternity savage}}. She is known as the Oracle of Darkness.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Gaia.png|Artwork by [[Tetsuya Nomura]].
+Gaia as Oracle of Darkness from FFIX concept art.png|[[Final Fantasy XIV concept art|Concept art]] of Gaia as Oracle of Darkness.
+FFXIV Gaia in-game render.png
+Oracle of darkness.jpg|Gaia, as the Oracle of Darkness in Eden's Promise: Eternity (Savage)
+</gallery>
+
+{{Navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

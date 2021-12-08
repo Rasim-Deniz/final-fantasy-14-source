@@ -1,0 +1,19 @@
+{{sideicon|prime=FFXIV}}
+[[File:FFXIV Nohi.png|thumb|250px|Nohi.]]
+'''Nohi''' (first known to the player as the '''Wandering Executive''') is a non-player character from ''[[Final Fantasy XIV]]'', an otherworldly male [[Au Ra]] based on the producer of the ''Yo-kai Watch'' game series, {{W|Akihiro Hino}}.
+
+He appeared during the ''Yo-kai Watch'' collaborating event in the [[Manderville Gold Saucer]].
+
+==Trivia==
+
+* His name is an anagram of his original's: "Hino".
+
+* His original persona, Akihiro Hino, was the director of ''Dragon Quest VIII'' and ''Dragon Quest IX'', both games published by [[Square Enix]].
+
+== Gallery ==
+<gallery>
+File:Nohi in the Saucer.png|Nohi surrounded by Yokai.
+</gallery>{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]

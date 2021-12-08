@@ -1,0 +1,34 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Sai-Lewq
+|release=FFXIV
+|japanese=サイ・リュク
+|romaji=Sai Ryukku
+|aka=
+|image=FFXIV ShB Sai-Lewq.png
+|home=[[Kholusia#Wright|Wright]]
+|age=
+|dob=
+|affiliation=
+|occupation=Mayor of Wright
+|race=[[Miqo'te|Mystel]]
+|gender=Male
+|hair=
+|eye=
+|type=npc
+}}
+
+'''Sai-Lewq''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. He was a friend of Cliftol, former mayor of Wright and father of [[Eueliss]].
+
+==History==
+Sai-Lewq was a friend of Cliftol, former mayor of Wright. One day his village was attacked by [[sin eater]]s and Cliftol dies. Feeling guilty about failing to save his friend, Sai-Lewq refuses the post of mayor and remains imprisoned in the past. Sai-Lewq makes several requests to Eueliss and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], and once he manages to overcome the loss of his friend Sai-Lewq decides to accept the post as mayor of Wright..
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Miqo'te]]

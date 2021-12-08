@@ -1,0 +1,96 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Sidurgu Orl
+|release = FFXIV
+|japanese =シドゥルグ・オル
+|romaji=Shidurugu Oru
+|aka=Sidurgu of the Obsidian Heart
+|image = Dark Knight 2.png
+|race = [[Au Ra]]
+|gender = Male
+|height =82.7 in. (6.8 ft.) 
+|hair = White
+|eye = Teal
+|designer = 
+|age = 26
+|job = {{icon|ffxiv|discipline|dark knight}}
+|weapon = Deathbringer
+|armor = Chaos Armor|abilities=Darkside, Hard Slash, Spinning Slash, Power Slash, Aqua Vitae, Shadow Wall, Plunge, Survival}}
+{{Quote|Beware friend, temple knights could be anywhere.|Sidurgu}}
+'''Sidurgu Orl''', also known as '''Sidurgu of the Obsidian Heart''', is a [[non-player character]] in the [[Level]] 50+ [[Dark Knight (Final Fantasy XIV)|Dark Knight]] quests in ''[[Final Fantasy XIV: Heavensward]]''. Sidurgu spends his time in [[Ishgard]]'s tavern, the Forgotten Knight, with the quiet [[Elezen]] girl named [[Rielle]] at his side, while he curses the Ishgardian Temple Knights under his breath.
+
+Sidurgu, or at least his character model, is one of three used to depict the Dark Knight job in media before the release of ''Final Fantasy XIV: Heavensward''. The others are a helmeted Elezen shown in alternate artwork and a helmeted Xaela.
+
+==History==
+===Early life===
+One of the many refugees from [[Doma (Final Fantasy XIV)|Doma]] in the wake of [[Garlean Empire|Garlean]] occupation, a young Sidurgu and his family found their way to Ishgard. Due to misconceptions of Au Ra being of [[Dravania]]n descent, they were slaughtered indiscriminately. Sidurgu was made to watch his parents die, but before the sword could find his own neck, he was saved by the one who would become [[Ompagne Deepblack|his master]], the first of the dark knights. The atrocities he experienced at the hands of the Holy See tempered Sidurgu's will, and with his master's teachings, he learned to turn his hatred for the Temple Knights into a power he could use to protect the weak. His master, Ompagne Deeblack found another boy named Fray who would also tread the path of a Dark Knight. He taught the boys how to do great things with their abilities and when the city became too much, he took Sid and Fray to places like moghome to enjoy the quiet and peace.{{cite|FFXIV|{{icon|ffxiv|quest|The Orphans and the Broken Blade}}.}}
+
+Ompagne tested the boys in the dark arts harshly and was always fond of testing their abilities. At some point in time Ser Ompagne was defeated in combat and with his final words, mentioned the flame in the abyss to his two students before passing. Sid gathered his master's sword and armor and placed it in his armoire until he proved worthy of his masters blade.<ref name=" Eorzea Encyclopedia p.193">''Encyclopedia Eorzea II'', p. 193</ref> 
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Fray and his fellow student in the dark arts, Sidurgu, were in search the meaning of "The Flame of the Abyss" mentioned by their master on his deathbed when they interfered with the Ishgardian temple knights' pursuit of a young Elezen girl by the name of Rielle. Fray was caught while going out for supplies, and was forced into a trial by combat where he was ultimately killed.{{cite|FFXIV|{{icon|ffxiv|quest|The Knight and the Maiden Fair}}.}} Him and Rielle remained in hiding until Sid heard about a person wielding Fray's sword in battle and went out in search of them.{{cite|FFXIV|{{icon|ffxiv|quest|The Wages of Mercy}}.}}
+
+After dealing with [[Fray Myste]]'s attempt to wrest control, a Temple Knight apologizes to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and requests their assistance in Behemoth's Dominion.{{cite|FFXIV|{{icon|ffxiv|quest|The Wages of Mercy}}.}} Once there, the Temple Knights attempt to ambush and execute the Warrior. After subduing the knights, Sidurgu appears, criticizing the Warrior of Light for not having killed all of the knights. Sidurgu introduces himself as the man who trained alongside Fray, and wishes to meet the Warrior of Light at the Forgotten Knight back in Ishgard.
+
+In the tavern, Sidurgu recounts the story of the first dark knight, and presents the sword of the knight the Warrior of Light allowed to escape. Sidurgu claims to have killed the knight after they met, and declares that mercy is wasted on foes. To emphasize his point, Sidurgu speaks of what happened when his family arrived in Ishgard, and how the Au Ra showed mercy, only to be cut down by the Ishgardians.
+
+Sidurgu explains how he and Fray followed in their master's footsteps, saving the young Rielle and being marked for death because of it.{{cite|FFXIV|{{icon|ffxiv|quest|The Knight and the Maiden Fair}}.}} Fray was captured and executed in a trial by combat, leaving Sidurgu to care for Rielle himself. Worried that he won't be able to take care of her alone, Sidurgu asks the Warrior of Light to help.
+
+Sidurgu concludes that if the Temple Knights view Rielle as an abomination, the two should determine if there is anything unusual about the Elezen girl. Their investigation takes them to the [[Vanu Vanu]], who are able to see a person's [[aether]]. After procuring their favor, a Vanu healer divulges that Rielle possesses a "great spirit that dwells within her". Before the Vanu can continue, the Temple Knights attack the trio and the Vanu healer flees. Sidurgu curses the knights for getting in the way, and Rielle apologizes for becoming a problem. Despite the Temple Knights' motives remaining unclear, they now know there is something unique about the girl.
+
+In the hopes of finding out what the "great spirit" within Rielle is, Sidurgu sets a course for [[Gridania]] to speak with the conjurers.{{cite|FFXIV|{{icon|ffxiv|quest|Kindred Spirits}}.}} When he scouts ahead, the Temple Knights attack the Warrior of Light and Rielle, although they survive by the Warrior's steel and Rielle's conjury magic.
+
+In Gridania, Brother [[E-Sumi-Yan]] examines Rielle, agreeing with the Vanu healer's assessment, clarifying the girl's spirit is similar to elementals or Dravanians. Sidurgu is angered by the implication that she may have ingested dragon blood like the heretics who attack Ishgard, and Rielle speaks of her childhood locked away in a windowless cell. She denies having drank blood, and says she was never accused of such.
+
+Sidurgu believes that if Rielle has an affinity with dragons they should make for the [[Dravanian Forelands]] to speak with them.{{cite|FFXIV|{{icon|ffxiv|quest|Original Sins}}.}} In Anyx Trine, [[Vidofnir (Final Fantasy XIV)|Vidofnir]] directs the trio to speak with a dying dragon, who declares the blood of her beloved flows in Rielle's veins. The dragon concludes that, if she has not partaken of a dragon's blood, she must be the descendant of one who did. Knowing the truth, Sidurgu fears the Temple Knights will never give up pursuit, and he is ill-equipped to harness the finer details of the darkness to protect Rielle. The dying dragon suggests speaking with the [[Moogle (race)|moogles]] of the [[Churning Mists]] to learn more. With the dragon weary, the trio returns to the Forgotten Knight.
+
+[[File:Ystride conftonts Sid.png|left|thumb|Ystride confronts Sid in the Forgotten Knight.]]
+In the tavern, while deliberating on what steps to take next, Sidurgu and company are confronted by a noblewoman, [[Ystride de Caulignont]], who offers a choice to the "knights who would defy the will of Halone": a trial by combat, or death to all and any who would aid them. Seeing no alternative, Sidurgu accepts, and as Ystride turns to leave, Rielle cries out to her mother. Surprised and angry, Sidurgu demands why Rielle had not told him it was her mother who pursued her. As Rielle struggles to explain, Sidurgu wishes to be alone to think.
+
+Rielle explains that the House Caulignont is pious with many ties to the Ishgardian Orthodox Church, with her mother Ystride poised to become a prominent member within it, until she learned the truth—Rielle's father was a heretic who had been consuming dragon blood for years.{{cite|FFXIV|{{icon|ffxiv|quest|The Flame in the Abyss}}.}} Dying before he could fully transform and kill Ystride, the heretics' seeds of evil had already been sown when Ystride realized her daughter shared the heretics' blood. With religious zeal, Ystride locked away her daughter for fear of what she might become.
+
+Aware of Ystride's fanatical nature, Sidurgu wishes to learn more of the dark arts for the coming trial by combat, suggesting they head to the Churning Mists to speak with the moogles. In Moghome, Rielle berates Sidurgu for only caring about the power of darkness and his flippant treatment of her. The moogle Moggie thinks she may have insight into Sidurgu's coveted "flame in the abyss", and tasks him and the Warrior of Light with chores while the moogles look after Rielle.
+
+Upon finishing the chores, Sidurgu and the Warrior return to hear that the moogles have kidnapped Rielle. Sidurgu flies into a rage and with the Warrior of Light's help defeats the moogle's Pomguard force. He demands Rielle's return, but the moogles question why he cares. Sidurgu cites his oath as a dark knight, and the moogles break into song and dance, extolling the virtues of love as the key to the flame Sidurgu seeks. Rielle claims Sidurgu only cares about his own quest for vengeance and empowerment, caring little for Rielle herself. Sidurgu agrees, and says that after they win the trial by combat, Rielle is free to do as she pleases.
+
+Countess Ystride's missive for the trial by combat arrives, stating to meet in the [[Coerthas Western Highlands]] and away from prying eyes.{{cite|FFXIV|{{icon|ffxiv|quest|Absolution}}.}} Rielle, now a changed girl, thanks the Warrior of Light for helping her and Sidurgu and is ready to face her mother.
+
+[[File:Sid executes Ystride (2).png|thumb|Sid Executes Ystride.]]
+Desperate to find absolution in her daughter's death, Ystride sends wave after wave of Temple Knights at Sidurgu, Rielle, and the Warrior of Light. With her knights laid to waste in the snow, Ystride attempts to attack herself, only to end up at Sidurgu's feet. He stands poised to kill the countess, but stays his blade, offering a sliver of mercy in letting her escape, never to return. Ystride, fervent in her beliefs, declares that she will never stop hunting Rielle, as it is "the will of the Fury". Rielle prays for her mother one last time. Sidurgu raises his blade as Rielle administers her mother's last rites, and cuts the countess down.
+
+Back at the Forgotten Knight, Rielle requests that she and Sidurgu stay together, but only if he agrees to remain honest with her. Sidurgu and Rielle plan to stay in Ishgard for a while, as there are still others in need of the dark knight's aid.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Sidurgu is a tall [[Au Ra|Auri]] Xaela, with pale skin, white spiked hair, low-curving horns, and piercing teal eyes. He has black scales that run across his chin and the bridge of his nose, and a black, thin tail. He wears the Chaos Armor set, black metal armor with dark red leather, with a tattered chainmail tasset hanging over his legs. He wields the [[Deathbringer]], a black greatsword with engravings that glow when the weapon is drawn.
+
+===Personality===
+{{Quote|I swore an oath. To protect her. That's what we dark knights do...|Sidurgu.}}
+Sidurgu is steadfastly loyal to his vows as a dark knight, putting him at odds with the Ishgardian Temple Knights, whom he reviles. Sidurgu is blunt, and quick to anger. He dislikes cryptic talk, expressing his frustrations verbally. Sidurgu relishes in combat, especially against the Temple Knights where he is given the chance to cut them down.
+
+==Gameplay==
+Sidurgu fights alongside the player in the [[Quest Battle|Special Instances]] {{icon|ffxiv|quest|The Flame in the Abyss}}, {{icon|ffxiv|quest|Absolution}}, and {{icon|ffxiv|quest|The Orphans and the Broken Blade}} as an ally NPC. He primarily fights as a Dark Knight, but in some instances will use Aqua Vitae to heal the player and himself if their health gets low.
+
+==Gallery==
+<gallery>
+FFXIV Sidurgu.png|In game model.
+Sidurgu_in_Moghome.png|Sid doing Moogle chores.
+Sid_threatening_Moogles.png|Sid threatening Moogles.
+FFXIV_Sid_apologizing.png|Apology to Rielle.
+Sid's_Threat.png|Sid's threat to Ystride.
+Our_Compromise_Sid_and_Rielle.png|Sid and Rielle defeated by Myste.
+</gallery>
+
+==Etymology==
+While Xaelan nomenclature takes inspiration from Mongolian, the name Sidurgu may come from Sidurgu Kahn, a figure in Mongolian mythology.
+
+==References==
+<references />
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Dark Knights]]

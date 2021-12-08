@@ -14,7 +14,7 @@ In order to perform the text analysis, we decided to prepare the data by applyin
 Words related to the structure of the wiki and not to a specific character of the story, where also removed from the text.
 
 The frequency distribution of the 75 most common tokens is reported below.
-![Frequency Distribution](/images/frequency-words.jpeg)
+![Frequency Distribution](/images/frequency-words.png)
 
 We tried to find the most important words related to each affiliation using both TF and TF-IDF. Below we reported the results for the 3 greatest affiliation:
 

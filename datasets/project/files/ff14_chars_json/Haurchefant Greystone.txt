@@ -1,0 +1,143 @@
+{{sideicon|prime=FFXIV|PFF|FFRK}}
+{{infobox character
+|name=Haurchefant Greystone
+|release=FFXIV
+|japanese=オルシュファン・グレイストーン
+|romaji=Orushufan Gureisutōn
+|aka=Haurchefant of the Silver Fuller
+|image=FFXIV Haurchefant 2.png
+|portrait=
+|sprite=
+|race=Elezen
+|gender=Male
+|age = 28
+|hair=Silver
+|eyes=Blue
+|type=npc
+|affiliation=[[High Houses of Ishgard|House Fortemps]]
+|occupation=Knight<br/>Commander of Camp Dragonhead
+|home=[[Ishgard]]
+|job={{icon|ffxiv|discipline|gladiator}}
+|japanese voice actor=Masakazu Nishida
+|english voice actor=[[Jason LaShea]]
+|ffrk=true
+}}
+{{Quote|A knight lives to serve─to aid those in need.|Haurchefant}}
+'''Haurchefant Greystone''' is a non-playable character in ''[[Final Fantasy XIV]]''. He is a noble of [[House Fortemps]] of [[Ishgard]], and presides over Camp Dragonhead in the [[Coerthas Central Highlands]].
+
+==History==
+===Early life===
+Haurchefant is the illegitimate son of [[Edmont de Fortemps|Count Edmont de Fortemps]]. Though Haurchefant grew up in his father's household, the two were not close, and as an illegitimate child, his relationship with his stepmother was strained. Haurchefant met [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] at the age of twelve outside of a party at Fortemps Manor, which the countess had banned him from attending. Five years later, Haurchefant rescued Francel from a trio of kidnappers while wielding only a knife and using his bare forearm to block an arrow. Performing this act of bravery earned the young Elezen his knighthood.<ref name="unbroken">[https://na.finalfantasyxiv.com/lodestone/special/2015/short_stories/3/ Tales from the Dragonsong War - Vows Unbroken]</ref>
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Haurchefant is sought out to locate [[Cid Garlond|Cid Garlond's]] missing [[Airship (term)|airship]], the ''Enterprise''. Since Lord Francel de Haillenarte is under suspicion of heresy (and thus in no position to help them), he directs the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], [[Alphinaud Leveilleur]], and Cid to Lord Haurchefant of Fortemps. Haurchefant is willing to look into the matter, but asks they help him get to the bottom of why Francel and his house have been caught with heretical ties. It is discovered someone has been framing House Haillenarte by planting draconian rosaries, and Haurchefant attempts to rescue Francel before he is executed for heresy at Witchdrop.
+
+Once the execution is stopped and Francel is cleared of charges, Haurchefant reveals that the ''Enterprise'' landed in Stone Vigil after the Calamity. Since the Vigil was taken by the Dravanian Horde, he directs the heroes to Lord [[Drillemont de Lasserrant]] at Whitebrim Front.
+
+The Warrior of Light later speaks with Haurchefant over a supply shipment the latter had sent to Revenant's Toll being waylaid by heretics. Heretic activity has been increasing lately under the leadership of a mysterious Lady [[Ysayle Dangoulain|Iceheart]], and while Haurchefant promises to send a new shipment, he asks the Warrior of light to assist Drillemont in investigating the heretics. Haurchefant accompanies Alphinaud to the meeting with Ser [[Aymeric de Borel]] of the Temple Knights, and they learn of another ambush by the harriers on supply wagons.
+
+Haurchefant provides refuge for the remaining [[Scions of the Seventh Dawn]] at Camp Dragonhead following the [[Ul'dahn Revolution|Monetarist plot]], who stay in the Intercessory. He warns that a recent skirmish in the city-state from wyverns has put the Holy See on an extended state of high-alert, and so full asylum will have to wait. He promises, nevertheless, that House Fortemps will protect them from [[Ul'dah]]n agents.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV Haurchefant.png|thumb]]
+Haurchefant forwards an invitation from his father to the Warrior of Light and the Scions, granting them entry to Ishgard. Lord Haurchefant introduces the three Scions to his family: Father Edmont de Fortemps, and his half-brothers [[Artoirel de Fortemps]] and [[Emmanellain de Fortemps]]. While assisting the two brothers, the Warrior of Light learns that Lord Haurchefant is Edmont's illegitimate son, but is treated with the same respect and responsibilities as a trueborn. However, the knights of the [[Heavens' Ward]] call Lord Haurchefant a bastard.
+
+Haurchefant assists in the rescue of Emmanellain from the [[Vanu Vanu]] fortress in [[The Sea of Clouds]]. When the Warrior of Light returns to Ishgard in unrest, he joins the party despite Lady Iceheart's presence and calls for the Temple Knights to fall back and aid the wounded. He brings the Warrior of Light to House Fortemps, where he learns the truth of Ishgard's history.
+
+[[File:FFXIV Haurchefant's Death.png|thumb|left|Haurchefant is struck down.]]
+Once the truth behind the [[Dragonsong War]] is revealed and Ser Aymeric is captured by the Heavens' Ward, Haurchefant joins the rescue effort despite his father's protest. He arrives at the top of [[Vault (Final Fantasy XIV)|the Vault]] to apprehend Archbishop [[Thordan VII]] to answer for his crimes. The Warrior of Light and Haurchefant chase the retreating archbishop and knights. Haurchefant notices a spear of light thrown at the Warrior of Light by [[Zephirin de Valhourdin|Ser Zephirin]], and jumps in to block it with his shield. The shield breaks and the spear impales Haurchefant, allowing Thordan VII to escape. The party rushes to his aid but the injury is fatal. Relieved to see his friend unharmed, Haurchefant asks the Warrior of Light to smile with his dying breath as a smile better suits a hero. The Warrior smiles and Haurchefant passes away.
+
+{{Quote|Oh, do not look at me so. A smile better suits a hero...|Haurchefant's last words}}
+His loss is felt by many, especially by his father Count Edmont de Fortemps. He attempts to keep his composure by saying, "A knight lives to serve. To protect. To sacrifice. There is no greater calling..." but ultimately collapses in grief. The Warrior of Light later sees Count Edmont, who will help him or her with their mission despite his grief, as it is what Haurchefant would have wanted. Count Edmont gifts Haurchefant's broken shield to the Warrior of Light before their departure to apprehend the archbishop. The Warrior lays it upon his memorial at Providence Point.
+
+[[File:FFXIV Haurchefant Grave.png|thumb|Haurchefant's memorial.]]
+If the Warrior of Light returns to Camp Dragonhead after Haurchefant's death and goes to Haurchefant's usual position, it is left empty until patch 3.5. Since 3.1, when the Warrior of Light returns to Haurchefant's memorial, Francel visits the monument. During a cutscene of the patch 3.3 main story quest [[An End to the Song]], when the Warrior of Light and Alphinaud attempt to wrest the eyes of [[Nidhogg (Final Fantasy XIV)|Nidhogg]] from the armor of [[Estinien Wyrmblood]] to separate him from the wyrm, a noncorporeal being in the form of Haurchefant Greystone lays their hand upon the Warrior's own. After a mutual smile, the eyes are removed from the armor, presumably with the aid of [[Ysayle Dangoulain]] and Haurchefant Greystone before they are cast into the abyss beneath the Steps of Faith.
+
+During a final visit to Camp Dragonhead on the way to deal with the [[Battles of Baelsar's Wall|worsening situation]] at the [[Gyr Abania]]n border, the Warrior of Light finds that Emmanellain has taken over his half-brother's post as commander of the encampment with a large portrait of Haurchefant presiding over his offices.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+Haurchefant is an [[Elezen]] with silvery hair, garbed in full chainmail. At the time of the events of ''Heavensward'', Haurchefant is 28 years old.
+
+===Personality===
+Unlike many of his peers, Haurchefant is open-minded about [[Warrior of Light (Final Fantasy XIV)|adventurers]] and welcomes them to Dragonhead. Defying the usual stereotype of Ishgardians as being uptight fundamentalists, Lord Haurchefant is pleasant and always ready to offer words of encouragement or a smile to those in need. He is romantic about his ideals, but it is more likely his sincerity and loyalty show in flamboyant words and expressions. He describes the Warrior of Light as "hope incarnate", for instance. In the Japanese version, he often makes suggestive comments towards the Warrior regardless of gender. This was toned down in overseas releases due to it coming across as sexual harassment.
+
+==Gameplay==
+===Battle===
+Haurchefant fights alongside the party in three Main Scenario duties: during the rescue of Lord Francel at Witchdrop in ''A Realm Reborn'', and twice more in ''Heavensward'', during the rescue mission in the Sea of Clouds and when the Warrior of Light, Alphinaud, and [[Hilda Ware|Hilda the Mongrel]] are attacked by the Heavens' Ward in Foundation. In combat, he functions similar to a [[Paladin (Final Fantasy XIV)|Gladiator]]—a sword-wielding tank.
+
+===Title===
+After {{icon|ffxiv|duty|the vault}}, the player can adopt Haurchefant's title, "Of the Silver Fuller".
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Haurchefant
+|image = [[File:Haurchefant Triple Triad Card.png]]
+|number = 82
+|total = 21
+|type = None
+|description = “The docility to accept well-nigh impossible commands, the physical talents to carry them out─to a warrior born such as I there are no virtues greater in a steed! I say, be my personal steed!”
+|obtain = Achievement reward for "Triple Team III" (defeat 41 unique NPCs at Triple Triad)
+}}
+
+===Cosmetics===
+A portrait of Haurchefant called {{icon|ffxiv|wall-mounted|a knight to remember}} can be purchased using Allagan Tomestones of Poetics. A {{icon|ffxiv|minion item|wind-up haurchefant}} [[Minion (Final Fantasy XIV)|minion]] is also awarded upon completing the quest {{icon|ffxiv|quest|as goes light, so goes darkness}}.
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Haurchefant Illust.png|Portrait.
+PFF Haurchefant.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Haurchefant.png|right]]
+{{main|Haurchefant Greystone (Record Keeper)}}
+{{Quote|A knight of the noble House Fortemps and commander presiding over Camp Dragonhead. Haurchefant actively welcomes mercenaries and adventurers into the camp, and he seeks to shepherd his homeland of Ishgard through the trying times it faces.|Character profile.}}
+Haurchefant is a playable character who he could be initially recruited during the [[Challenge Event]] [[The Dragonsong War - Dreams of Ice]] as a First Time Reward for completing the event's Akh Afah Amphitheatre stage on Classic difficulty.
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:599a Haurchefant.png|right|100px]]
+Haurchefant appears as a [[Triple Triad (Portal App) decks/Y'shtola Normal mode|Normal Mode card]] in the version of Triple Triad playable via ''[[Final Fantasy Portal App]]''.
+
+===[[LINE]]===
+Haurchefant features in a sticker set for LINE, a mobile communications app. The set he appears in is "FINAL FANTASY XIV Vol. 2".
+
+<gallery>
+FFXIV Line Sticker Set 2 1.png|"Superb!"/"Good!"
+FFXIV Line Sticker Set 2 2.png|"FANTASTIC!!"/"VERY GOOD!!"
+FFXIV Line Sticker Set 2 3.png|"Welcome home."
+</gallery>
+{{clear}}
+
+==Behind the scenes==
+The [http://na.finalfantasyxiv.com/lodestone/special/2015/short_stories/ ''Tales of the Dragonsong War''], a series of short stories posted on the ''Final Fantasy XIV'' Lodestone, features a short story titled "Vows Unbroken", which offers a glimpse into Haurchefant's childhood and his relationship with Francel de Haillenarte.<ref name="unbroken" />
+
+If the player visits Haurchefant's memorial, no music will play in proximity to the monument. Francel will also appear momentarily, offering his respects.
+
+Square Enix's [[Eorzea Cafe]] served a dish called "Soup of Haurchefant" whose description translates to: ''A recipe treasured by the famous FF14 NPC, Haurchefant of the Silver Sword! After the Seventh Umbral Era, Coerthas was engulfed by blizzards. What became ideal for warming frozen bodies all the way to the core was... yes, hot pot! Having hot pot while surrounded by groups of seasoned adventurers is... fantastic! Simply fantastic!''
+
+===Voice===
+Haurchefant is voiced by [[Masakazu Nishida]] in the Japanese version, [[Jason LaShea]] in the English version, and [[Choe Seung-hun]] in the Korean version.
+
+==Gallery==
+<gallery>
+FFXIV Haurchefant Heavensturn 2014.jpeg|Haurchefant in an ''uma kabuto'' (horse helmet) for Heavensturn 2014.
+FFXIV TFDW Haurchefant Edmont.jpg|Haurchefant speaking with Edmont.<ref name="unspoken">[https://na.finalfantasyxiv.com/lodestone/special/2016/short_stories/8/ Tales from the Dragonsong War -Thoughts Unspoken]</ref>
+FFXIV TFDW Baby Haurchefant.jpeg|A young Haurchefant protecting Francel.<ref name="unbroken" />
+</gallery>
+
+==Etymology==
+[http://forum.square-enix.com/ffxiv/threads/269683-The-Greystone-Bastard-%28naming-lore-query%29?p=3439789&viewfull=1#post3439789 Confirmed on the official forum], Greystone is a surname given specifically to illegitimate children.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Haurchefant Greystone]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Paladins]]

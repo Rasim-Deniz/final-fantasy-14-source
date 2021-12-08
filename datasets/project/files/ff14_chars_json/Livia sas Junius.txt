@@ -1,0 +1,135 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Livia sas Junius
+|release=FFXIV
+|japanese=リウィア・サス・ユニウス
+|romaji=Riwia Sasu Yuniusu
+|aka = The Witch of Dalmasca
+|image=Livia sas Junius.png
+|home=
+|age=26{{note|''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'' p.185 gives her age as 26 in the same paragraph it states Lucia is her ''younger'' sister, yet on p.152 Lucia's age is given as 28. In the Japanese version of ''Heavensward'', in cutscene Lucia calls Livia her younger sister.}}
+|dob=
+|affiliation=[[Garlean Empire]]<br/>[[XIVth Imperial Legion]]
+|occupation=Tribunus angusticlavius
+|race=[[Garlean]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|pugilist}}
+|abilities=
+|weapon=Gunbaghnakhs
+|armor=
+|japanese voice actor=[[Sayaka Ohara]]
+|english voice actor=[[Alison Lees-Taylor]]
+|boss page=Castrum Meridianum
+}}
+{{Quote|Tribunus angusticlavius of the XIVth Imperial Legion, Livia is a decorated soldier and proven battlefield commander. Raised by Gaius van Baelsar after being orphaned by war, Livia devoted herself to the arts of soldiery, that she might repay her adoptive father. ''Aglaea'', the gunbaghnakhs she wields, are permanently welded to her armor.|Official description}}
+'''Livia sas Junius''' is a major antagonist in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. She hold the rank of tribunus angusticlavius in the [[XIVth Imperial Legion]] of the [[Garlean Empire]], and acts as the third-in-command to legatus [[Gaius van Baelsar]].
+
+==History==
+[[File:FFXIV Imperial Legatus.png|thumb|Livia and her fellow officers with Gaius.]]
+Having been orphaned in a war and separated from her sister [[Lucia goe Junius|Lucia]], Livia sas Junius was taken in and raised by Gaius van Baelsar. Livia seeks to repay Gaius for his kindness by joining his new [[Garlean campaign|campaign to continue the empire's subjugation of Eorzea]] in the aftermath of the [[Seventh Umbral Era]]. After the Barheim incident, in which scores of imperial colonists met their end at the hands of the natives, Livia was dispatched to Dalmasca. Under her watch, suspected rebels were hunted down and slaughtered without trial.
+
+She confronts Nero tol Scaeva for straying from his assigned duties to spy on the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] slaying [[Ifrit (Final Fantasy XIV)|Ifrit]], and threatens to execute him herself if he lets himself fail. Nero remarks it would be foolish of him to confront a woman in love.
+
+[[File:Livia vs Minfilia.jpg|thumb|left|Livia pointing her gun at Minfilia.]]
+Livia leads the legion's attack on the hideout of the [[Scions of the Seventh Dawn]] in Vesper Bay. She kills most of the organization's members after [[Minfilia Warde]]'s formal surrender and kidnaps her, [[Urianger Augurelt]], [[Papalymo Totolymo]], and [[Tataru Taru]], dealing a large blow to those fighting back against the Garleans and the [[primal]] threat.
+
+She oversees the interrogation of Minfilia herself, brutally beating her, demanding information on the [[Echo (Final Fantasy XIV)|Echo]] and how it lets her resist the tempering of the primals. Livia later confronts the Warrior of Light and gets into a battle with [[Yda Hext]] when they break into the imperial stronghold to save Minfilia and the others.
+
+Disturbed by the death of her comrade [[Rhitahtyn sas Arvina]], Livia's psyche begins to unravel and Gaius orders her to defend Castrum Meridianum after the two rendezvous in his quarters.
+
+{{Quote|No... <sob> It's happening...all over again... Please... I cannot bear it... <sob> Don't take him...away from me... My lord Gaius!!!|Livia upon being defeated}}
+[[File:Livia Magitek Armor.jpg|thumb|Livia on her custom Magitek Armor.]]
+At the end of [[Castrum Meridianum Baileys]], Livia is intent on preventing the Warrior of Light from continuing to [[the Praetorium]]. She starts off piloting a suit of [[Magitek Armor]], but eventually discards the machine and fights the party on the ground using her gunbaghnakhs. She is defeated and left to die as she cries out for her lord.
+
+When the Warrior later ventures into the Aetherical Sea to find Hydaelyn, they encounter Livia's memories manifested as monstrous being.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+[[File:Livia sas Junius FFXIV Art.jpg|thumb|125px|Artwork of Livia's helmet.]]
+Livia is a woman in a suit of an imperial officer's black and white armor. She wears a unique helmet that bears the visage of a one-eyed woman. She wields a pair of gunbaghnakhs called ''Aglaea'' that have been welded to her armor.
+
+===Personality===
+Vicious, cruel and unstable, she takes delight in the domination of [[Eorzea]] and harbors little love for her fellow soldiers, often issuing death threats to them whether they are rank and file soldiers or even of a higher rank than her, such as [[Nero tol Scaeva]]. Her affection is reserved for the man she loves, [[Gaius van Baelsar]], whom she serves with loyalty bordering on fanaticism. She would even ensure that Gaius's adoptive children would keep their distance from him, as even the slightest form of affection towards him from the other orphans would make her jealous.
+
+==Gameplay==
+===Battle===
+[[File:Livia Castrum.jpg|thumb|right|Livia in battle.]]
+{{Main|Castrum Meridianum}}
+Livia is proficient at hand-to-hand combat, her weapon of choice being a pair of gunbaghnakhs. She incorporates rapid and powerful punches along with swift kicks and gunshots into her fighting style. She is also proficient at piloting Magitek Armor.
+{{clear}}
+
+=== ''[[Triple Triad (Final Fantasy XIV)|Triple Triad]]'' ===
+{{Card FFXIV
+|name = Livia sas Junius
+|image = [[File:FFXIV TT Livia sas Junius.png]]
+|number = 31
+|total = 18
+|type = Garlean
+|obtain = Won from Indolent Imperial, Mor Dhona (11, 17)<br>Drop from Castrum Meridianum
+|drop = Indolent Imperial
+|purchase = N/A
+|location = Mor Dhona (11, 17)
+|rule = Ascension
+|description = "Fail to do as my lord commands...and I will spare him the trouble of punishing you."
+}}
+
+== Musical themes ==
+{{audio|filename=XIV Steel Reason.ogg|title="Steel Reason"}}
+The theme "Steel Reason" plays in the battles against Livia and the other Tribunes. It was composed by [[Nobuo Uematsu]].
+{{clear}}
+
+== Other appearances ==
+=== ''[[Final Fantasy Trading Card Game]]'' ===
+[[File:Livia TCG.png|left|100px]]
+Livia appears as part of the Thunder set.
+{{clear|left}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+<gallery>
+FFRK_Livia_sas_Juinus_FFXIV.png|Livia sas Juinus.
+FFRK_Livia_sas_Juinus_(2)_FFXIV.png|Livia sas Juinus (Magitek Armor).
+</gallery>
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear|left}}
+
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+Livia appears on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+517a Livia sas Junius.png|Livia sas Junius.
+517b Livia sas Junius.png|Livia sas Junius.
+517c Livia sas Junius.png|Livia sas Junius.
+</gallery>
+
+==Other media==
+Livia is the main antagonist in the special [[Ultimate Fight Final Fantasy XIV]] trailer, overpowering Yda in a traditional fighting game scenario before she is defeated by the summoned Scions of the Seventh Dawn and crushed under Papalymo's meteor.
+
+==Gallery==
+<gallery>
+Livia.jpg|In-game render.
+Livia_and_Nero.jpg|Livia and [[Nero tol Scaeva|Nero]] in [[Thanalan]].
+Livia_Gun.jpg|Livia during the siege of [[Waking Sands]].
+Livia_vs_Yda.jpg|Livia versus [[Yda Hext]].
+Angry_Livia.jpg|Livia shows her anger after the Scions fled from the empire.
+</gallery>
+
+==Etymology==
+Livia is a Latin girl's name derived from a diminutive of "Olivia", meaning "Olive". Her last name, Junius, is the Latin word for "June".
+
+==Notes==
+{{notelist}}
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Livia sas Junius]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Garleans]]
+[[Category:Pugilists]]
+[[Category:Antagonists]]
+[[Category:Garlean citizens]]

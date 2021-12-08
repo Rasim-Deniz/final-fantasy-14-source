@@ -1,0 +1,63 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Granson
+|release=FFXIV
+|japanese=グランソン
+|romaji=Guranson
+|aka=Granson of the Mournful Blade
+|image=FFXIV ShB Granson.png
+|home=
+*[[Kholusia#Wright|Wright]] (formerly)
+*[[Crystarium (Final Fantasy XIV)|Crystarium]]
+|age=
+|dob=
+|affiliation=
+|occupation=Virtue-hunter
+|race=Hume
+|gender=Male
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|dark knight}}
+|weapon=Claymore
+}}
+'''Granson''' is a character from ''[[Final Fantasy XIV]]''. Appearing in the ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]'' expansion, Granson is one of the key characters for the Tank role questline. He functions as the quest giver for the quest chain.
+
+==History==
+[[File:FFXIV ShB Granson past 1 .png|thumb|left|Granson and Milinda.]]
+Granson was born and raised in [[Kholusia#Wright|Wright]]. Without a real purpose, Granson made his living as a hunter and lived with his future bride Milinda. A year ago, Milinda accepted a request to restore a broken bracelet named The Fangs of Orthus and Granson left the city in search of tools suitable for her work. Unfortunately when Granson returned, he found the village under attack, as [[Branden|Dikaiosyne]] had started killing and corrupting everyone who crossed his path─including Milinda, who was turning into a [[sin eater]]. Dikaiosyne, without saying anything, took the bracelet and left the village with its horde of followers, and Granson was forced to bring peace to his beloved.
+
+In search of revenge, Granson became a Virtue-hunter and meets the [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]] in the [[Crystarium (Final Fantasy XIV)|Crystarium]], and together they set out on a journey to hunt for the Cardinal Virtue. Granson is curious as to why Dikaiosyne took the Fangs of Orthust─since eaters are creatures of base instinct that care not for worldly possessions. The pair investigate the bracelet's merchant and discover that it was a relic of the ancient Kingdom of Voeburt. They follow rumors about another Voeburt relic but arrive late just to witness Dikaiosyne turning the owner into a Sin Eater and leaving with the Voeburtite choker.
+
+Granson discovers that a year ago scavengers made an expedition to [[Il Mheg]] in search of priceless Voeburtite treasures, and those who survived managed to escape with two of three sacred treasures of the royal family: the Fangs and Eyes of Orthus. Granson believes that the third treasure, Claws of Orthus, is still at the place where the others were found and that they could use it to attract Dikaiosyne.
+
+In Il Mheg, the duo meets a [[Nu mou]] named [[Sul Oul]] who once served the royal family. The duo asks Sul Oul to tell him what they know about [[Branden]]. However, the Nu Mou's fond words for the fallen knight spur Granson to lash out in anger, as he is unwilling to think of the man as anything but the eater he has become. The Nu Mou regards him quietly for a moment before inviting the two of you to accompany them to Lyhe Ghiah where they regale you about the tale of Branden and the lady [[Sauldia]]. Learning the truth about Branden's tragic past, Granson asks for a moment to think about his path.
+
+[[File:FFXIV ShB Branden spirit.png|thumb|Branden appears after being defeated.]]
+Having taken a long time to consider Branden's nature, Granson became convinced that he would have nothing to gain from the role of a vengeful hero, since Branden was also a victim. And then he must finish the tale and let the spirit of Milinda and Branden rest and finally move on. Satisfied that Granson has at last turned away from the brink, Sul Oul reveals the location of the Claws of Orthus, and furnishes you with a satchel of powder to dispel the glamour that shields it from view. Once defeated, Branden begins to fade into motes of aether and a fragment of his memory resonates revealing that despite everything he was at peace.
+
+Returning to the Crystarium with his hunt at an end, Granson turns his thoughts to the future, and realizes that he no longer feels at home there or in Wright or anywhere else. The road shall host him for the time being, as he believes that someone, somewhere must surely be in need of a reliable sword hand.
+
+After [[Elidibus (Final Fantasy XIV)|Elidibus]] begins impersonating [[Ardbert]], Granson may be one of the characters who visit the warrior's room at night. Granson learns about the [[Ascian]]s. Dissatisfied with the situation, he questions the Warrior’s actions and offers encouraging words for the warrior to do what is right.
+
+Granson later aids the adventurerer and the Scions in the battle against the spectacles of the Warriors of Light summoned by Elidibus.
+
+==Characteristics==
+===Appearance===
+Granson is a Midlander hyur with teal hair and white highlights along with red colored eyes. He wears a leather jacket with armor plating on his chest, shoulders, arms, and legs. In battle he wields a claymore.
+
+===Personality ===
+Granson pursues a specific sin eater out of vengeance initially and can't see the sin eater that took his life away as nothing more than a monster.{{Spoiler}} In the end he comes to accept that although Dikaiosyne is a sin eater, he was once human too. Granson cared deeply about his future wife, enough to seek revenge on the sin eater that took her from him.{{Endspoiler}}
+
+==Gameplay==
+Granson is an allied npc and assists the Warrior of Darkness in the [[Quest Battle|Special Instance]] during Tank role quest level 80 {{icon|ffxiv|quest|To Have Loved and Lost}} and at the end of {{icon|ffxiv|duty|Heroes' Gauntlet}}.
+
+==Gallery==
+<gallery>
+FFXIV ShB Granson past 2.png|Milinda turns into a sin eater.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Dark Knights]]

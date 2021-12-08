@@ -1,0 +1,50 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Travanchet
+|release=FFXIV
+|japanese=トラヴァンシェー
+|romaji=Toravanshē
+|lit=
+|aka=
+|image=Travanchet.jpg
+|affiliation=
+|occupation=
+|race=[[Ascian]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+}}
+{{Quote|Power as this does not belong in the hands of your kind.|Travanchet}}
+'''Travanchet''' is an [[Ascian]] antagonist in ''[[Final Fantasy XIV]]''. He lacks a shadow. It is likely that "Travanchet" was a disguise or pseudonym, as "Travanchet" is not a Scion of Light in ''[[Final Fantasy XII]]'' unlike the other known Ascians.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+His first appearance is right at the initial quest from [[Limsa Lominsa]]'s main storyline, talking with [[Emerick]]. He is shown to be a very skilled mage, and has connections with the [[sahagin]] attacking Lominsan ships. He is later seen leading the sahagin attack against the Knights of The Barracuda Fleet.
+
+At the end of the third quest, he steals the seal rock "key" from [[Y'shtola Rhul|Y'shtola]] using telekinetic powers before turning into shadows soon after.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV HW Travanchet.png|thumb|Travanchet gives the key to Mide.]]
+Though he does not reappear in person, he shows up in a flashback from [[Mide]] revealing that he was the one who instigated the original summoning of the primal [[Alexander (Final Fantasy XIV)|Alexander]]. In addition, he tricked Mide into placing a magic horn he stole from Y'shtola into the primal's core, promising her that this ritual would cause her deepest desires to come true.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Musical themes==
+{{audio|filename=FFXIV Travanchet Theme.ogg|title="Without Shadow"|align=left}}
+Notably, Travanchet is the only character in the game other than main antagonist [[Nael van Darnus]] to have his own theme, played whenever he is on screen. This theme also accompanies all on screen appearances of the [[Ascian]]s in ''A Realm Reborn'' and ''Heavensward''.
+{{Character section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Travanchet]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Elezens]]
+[[Category:Ascians]]

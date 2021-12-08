@@ -1,0 +1,55 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Serendipity (''Final Fantasy XIV'')}}
+{{Infobox character
+|name = Serendipity
+|release=FFXIV
+|japanese=セレンディピティー 
+|romaji=Serendipitī 
+|aka=Sera
+|image=FFXIV Serendipity.png
+|race=[[Hyur]]
+|gender=Female
+|height= 
+|hair=Lilac
+|eye=Lavender
+|age=19<ref name=EE141>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 141</ref>
+|home=[[Ul'dah]]
+|affiliation=Goldsmiths' Guild
+|occupation=Guildmaster
+|type=npc
+|job={{icon|ffxiv|discipline|goldsmith}}
+|weapon=
+|armor=Goldsmith's Set 
+}}
+{{Quote|People call me Mistress Serendipity, but you can call me Sera! I was recently appointed guildmaster, so this is all quite new to me. My predecessor abruptly retired, you see...but that's a long, sordid story that I'm sure you'd rather not hear. Now, I may not have much experience managing people, but I am a very good goldsmith--even if I do say so myself! Those who train under me are guaranteed to learn a thing or two!|Serendipity}}
+'''Serendipity''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the [[Goldsmith]] guildmaster in [[Ul'dah]].
+
+==History==
+===Early Life===
+At the age of thirteen she hounded the legendary goldsmith Colbernoux for days on end before eventually gaining apprenticeship. due to her exceptional skill and unmatched dexterity for the craft, Serendipity grew into one of Ul'dah's eminent goldsmiths.<ref name=EE141/> Eventually the guildmaster retired and Serendipity took their place.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Sera XIV.jpg|thumb|left|]]
+{{Section|Final Fantasy XIV}}
+
+==Characteristics==
+===Appearance===
+Serendipity is a female [[Hyur]] midlander with pale skin and lilac hair tied in twintails. She wears a full Goldsmith's outfit with a pair of glasses.
+
+===Personality===
+{{Section}}
+
+==Behind the scenes==
+Serendipity's nickname is different in the Japanese version and the English localization of the game. In the Japanese version, her nickname is simply "Seren" {{J|セレン|Seren}}. However in the English version, her nickname was changed to "Sera".
+
+==Etymology==
+{{Etym|Serendipity}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Goldsmiths]]
+[[Category:Guildmasters]]

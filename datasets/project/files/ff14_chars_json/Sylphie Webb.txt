@@ -1,0 +1,65 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Sylphie Webb
+|japanese = 薫風のシルフィー
+|romaji = Kanpū no Shirufī
+|lit = Sylphie of the Sweetwind
+|release = FFXIV
+|image = FFXIV Sylphie.png
+|race = [[Hyur]]
+|gender = Female
+|height = 
+|hair = Blonde
+|eye = Aqua
+|designer = 
+|age =14 
+|job = {{icon|ffxiv|discipline|conjurer}}
+|weapon = Budding Maple Wand
+|armor = 
+|affiliation = Conjurer's Guild
+|occupation = 
+}}
+'''Sylphie Webb ''', also known by the epithet '''Sylphie Sweetwind''', is a non-playable character from ''[[Final Fantasy XIV]]'' and a key character in the [[White Mage (Final Fantasy XIV)|Conjurer]] quest storyline. She is a young conjurer from [[Gridania]]. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] first encounters Sylphie during the Conjurer Level 5 training quest, and again in each of the subsequent Conjurer quests.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Sylphie is disdainful of the other members of the Conjurer's Guild, and resists all efforts to teach her the way of conjuring the elements. She has an innate talent for healing magic, just as her mother did, and believes she can become a great healer without learning the ways of the conjurer. [[E-Sumi-Yan]], the conjurer guildmaster, becomes frustrated with her, especially when Sylphie reveals she has learned how to cast [[Raise (Life 1)|Raise]]. He warns her to never attempt casting Raise, or the consequences may be dire.
+
+Sylphie helps the adventurer and a band of [[Wood Wailers]] fight a herd of frenzied antelopes. When one of the Wood Wailers is felled she uses Raise to revive him. E-Sumi-Yan is furious to learn of this and when Sylphie flees the scene, E-Sumi-Yan asks the adventurer to talk to her. The adventurer finds Sylphie, who has lost control of her powers. She realizes this is like the time her mother died.
+
+E-Sumi-Yan explains that ordinary conjurers draw upon the wellspring of nature to heal others. Sylphie and her mother did not tap into this power; instead, they heal others by tapping into their own life force. Sylphie's mother had exhausted her reserves resulting in her premature death.
+
+Sylphie survives and agrees to learn about conjuring with the adventurer's help. Witnessing the adventurer defeating corrupted nature spirits awakens Sylphie to the feelings of nature, E-Sumi-Yan revealing this is another part of Sylphie's rare talent.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{section}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+After hearing about the Warrior of Light's journey, Sylphie and [[Gatty]] decide to help [[Alaqa]] begin her conjurer training. During the training trip through Twelveswood, an [[Ixal]]i plot angers the elementals and the group tries to bed them down and Gatty ends up injured. While the Warrior of Light is busy, Alaqa tries to overcome her doubts and performs a healing spell. Happy with Alaqa's discovery, Sylphie and Gatty rush back to report to their brother E-Sumi, while Alaqa herself stays behind. [[Raya-O-Senna]] hears about what has happened and says that if Alaqa has friends like Sylphie and Gatty by her side, her future in the Conjurer's Guild seems destined to be bright.
+
+==Characteristics==
+=== Appearance ===
+Sylphie is a young Midlander [[Hyur]] with blonde hair, dressing in a light-green cotton robe.
+
+=== Personality ===
+She believes in herself more than anyone.
+
+==Gameplay==
+Later in the conjurer quest storyline, Sylphie helps the adventurer to fight enemies. She uses basic conjurer spells such as [[Cure (ability)|Cure]] and [[Stone (ability)|Stone]].
+
+==Gallery==
+<gallery>
+Sylphie.jpg
+Sylphie_01.jpg|Sylphie in Conjurer Guild.
+Sylphie_02.jpg|Close-up of Sylphie's face.
+Sylphie_03.jpg|Sylphie trying to heal a wounded comrade.
+Sylphie_in_battle.jpg|Sylphie in battle.
+</gallery>
+
+==Etymology==
+Sylphie's name derives from the word "[[Sylph]]." {{Etym|Sylph}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:White Mages]]
+[[Category:Hyurs]]

@@ -1,0 +1,131 @@
+{{sideicon|prime=FFXIV|FFRK|FFBE|FFTCG}}
+{{DISPLAYTITLE:Garuda (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Garuda
+|release=FFXIV
+|japanese=ガルーダ
+|romaji=Garūda
+|lit=Garuda
+|aka=Lady of the Vortex
+|image=Garuda XIV CG.jpg
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=[[Rie Tanaka]]
+|english voice actor=[[Cara Pifko]](''A Realm Reborn'')<br>
+{{W|Colin Ryan (actor)|Joanna Ruiz}} (''Endwalker'' onwards) 
+|boss page=Howling Eye
+|recurring appearance=Garuda (summon)
+}}
+{{Quote|The queen of storms, Garuda is the chosen primal of the Ixal.<br />Though elegant of form and graceful in motion, the capricious and ruthless nature of this bloodthirsty being engenders mindless terror even amongst her devoted worshippers. Her wrath often erupts without warning, and descends upon her victims with unbridled fury.|Official Site description}}
+'''Garuda''' is the [[primal]] of the [[Ixal]] beast-tribes in ''[[Final Fantasy XIV]]'', also known as the '''Lady of the Vortex''' {{j|嵐神|Ranshin|Storm Goddess}}. She is encountered as a boss a number of times in both [[Final Fantasy XIV/Legacy|Legacy]] and ''Final Fantasy XIV: A Realm Reborn''.
+
+{{See|Garuda (summon)}}
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Section|Final Fantasy XIV}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Following the [[Garlean Empire|Garlean]] raid on the [[Scions of the Seventh Dawn]], the [[Warrior of Light (Final Fantasy XIV)|adventurer]] stays at the Church of Saint Adama Landama with Father [[Iliud]] and "Marques." [[Alphinaud Leveilleur]] arrives explaining his intent to revive the Scions, due to Garuda being summoned. Recognizing Marques as an amnesiac [[Cid nan Garlond]], he beseeches them to go find Cid's [[Airship (term)|airship]] ''Enterprise'' to confront the primal.
+
+Following the a lengthy investigation in [[Coerthas]] to uncover where the ''Enterprise'' went missing—getting involved in [[Ishgard]]'s politics in the process—the trio returns to the ship to [[Gridania]] for repairs. Realizing that the vortex Garuda summoned is probably too dangerous, Cid suggests looking for corrupted crystals to counter the primal's defenses, and suggests asking Professor Lamberteint. Once the appropriate crystals are found, Cid pilots the airship into the Howling Eye where the primal awaits.
+
+The Ixal had taken several [[Amalj'aa]] and [[Kobold (Final Fantasy XIV)|kobolds]], while the Lady of the Vortex engages the adventurer in a battle. Just as victory seems at hand, the deranged goddess is revived by the fervent faith of the Ixali. Though she normally prefers outright destruction, she resorts to attempting to [[enthrall]] the adventurer, failing as the [[Echo (Final Fantasy XIV)|echo]] causes a wind crystal to be forcefully removed instead.
+
+{{Quote|...Is that all? IS THAT ALL!? Insolent mortal! I shall make you suffer! That foul stench... I see now... ''She'' has touched you! Very well...|Garuda}}
+[[Gaius van Baelsar]] appears, taunting the primal. Enraged by the "insolent mortal", she uses the power of wind to torture and kill the Ixal's hostages, and [[Ifrit (Final Fantasy XIV)|Ifrit]] and [[Titan (Final Fantasy XIV)|Titan]] appear in retribution. She intends to overwhelm and absorb the two to increase her power, but the Imperial Legatus reveals his trump card: [[Ultima Weapon (Final Fantasy XIV)|the Ultima Weapon]]. The warmachine takes down the three primals and absorbs them, ending by biting off Garuda's head.
+
+After the Ultima Weapon is destroyed during Operation Archon, the Ixali waste no time in summoning the Lady of the Vortex again. Using an Aetheryte set up in Natalan, the adventurer returns to the Howling Eye and banishes the primal.
+
+The Ixali are not deterred, however, and summon Garuda once again, seeking an even more powerful version of their avatar to protect them. This time, however, her power is augmented through the machinations of the [[Ascian]]s. Even so, the adventurer manages to defeat her once more, finding the ritual focus in the process and rousing suspicions about the Ascians' involvement.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+The Ixali attempt to summon Garuda once more in their homeland of [[Xelphatol]], which the [[Warriors of Darkness]] intend to take advantage of for their plans. Due to the intervention of [[Alphinaud Leveilleur]] and the Warrior of Light, however, the ritual is halted before its completion.
+
+==Gameplay==
+===Boss===
+{{Main|The Howling Eye}}
+Garuda is fought as a boss three times at {{icon|ffxiv|duty|The Howling Eye}}: first time in the main scenario, then in a Hard version of a sidequest, and finally an optional Extreme battle. While the latter two versions are fought at [[level]] 50 with a full [[party]] of eight, the initial storyline fight is at level 44, with four players.
+
+{{icon|ffxiv|duty|The Howling Eye (Hard)}} is required to restore a [[Relic Weapon (equipment)|Relic Weapon]], and the later main scenario quests starting from "Before the Fall" require it—along with {{icon|ffxiv|duty|The Navel (Hard)}} and {{icon|ffxiv|duty|The Bowl of Embers (Hard)}}—to have been previously completed.
+
+Completing {{icon|ffxiv|duty|The Howling Eye (Extreme)}} is optional, and grants the achievement "Gone with the Wind" and "Mightier than the Vortex," the latter requiring a party of 8 blue mages, synced at level 50, and the echo turned off.
+
+Garuda also appears as a mechanic in the fight against the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], which uses her along with Titan and Ifrit to perform combination attacks. In both fights, she is the first primal to be ejected from the Weapon. She also appears during the last boss fight at {{icon|ffxiv|duty|Xelphatol}} to perform similar mechanics to her boss fight.
+
+===Summon===
+The [[Summoner (Final Fantasy XIV)#Summoner|Summoner]] job can summon Garuda-Egi as a ranged pet. It is unlocked along in the level 45 job quest "Austerities of Wind," upon defeating the Egi, who replaces Emerald Carbuncle.
+
+==Musical themes==
+{{Main|Fallen Angel (song)}}
+Garuda's boss theme is "Fallen Angel".
+
+==Other appearances==
+===''[[Final Fantasy XV]]''===
+[[File:Primal Garuda (XV).png|thumb|Garuda.]]
+{{Main|Garuda (Final Fantasy XV boss)}}
+Garuda appears as a boss in the ''Final Fantasy XV x Final Fantasy XIV'' collaboration mission "[[Adventurer from Another World]]".
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Garuda FFXIV.png|thumb|100px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+{{Enemy section|Final Fantasy Brave Exvius}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:PrimalGaruda TCG.png|thumb|100px]]
+Garuda appears with a wind-elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:387a Garuda.png|thumb|100px]]
+Garuda appears on a [[Triple Triad (Portal App)|Triple Triad]] card in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Garuda artwork.jpg|Promotional artwork.
+Garuda.jpg|Garuda.
+FFXIV Garuda Artwork.jpg|Artwork.
+FFXIV Garuda Battle.jpg|Garuda in version 1.0.
+Garuda-Egi.jpg|Garuda-Egi.
+</gallery>
+
+==Etymology==
+{{Etym|Garuda}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]

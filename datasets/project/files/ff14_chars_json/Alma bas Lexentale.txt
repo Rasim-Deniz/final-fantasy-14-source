@@ -1,0 +1,83 @@
+{{infobox character
+|name=Alma bas Lexentale
+|release=FFXIV
+|japanese=アルマ・バス・レクセンテール
+|romaji=Aruma Basu Rekusentēru
+|lit=Alma bas Lexentale
+|aka=
+|image=FFXIV Alma.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=15
+|dob=
+|affiliation=Majestic Theater Company
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur/Garlean
+|gender=Female
+|height=
+|weight=
+|hair=Brunette
+|eye=Darkgreen
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Please! I beg of you! Find my father! You're his only hope!|Alma bas Lexentale}}
+'''Alma bas Lexentale''' is a non-player character from ''[[Final Fantasy XIV]]''. She serves as a supporting character in the ''[[Return to Ivalice]]'' raid series.
+
+==History==
+Alma is the daughter of playwright [[Arazlam Durai]], who goes by the stage name [[Jenomis cen Lexentale]]. Jenomis inherited the [[Durai Papers]] from his ancestor [[Orran Durai]], who was burned at the stake for authoring them. From what little he could translate of the ancient documents, Jenomis determined that they told the tale of ''The Zodiac Brave Story'', a Garlean legend previously thought to be just that—Legend. He also gleaned the names of two seemingly pivotal characters in the legend who had been forgotten by history, [[Ramza Beoulve|Ramza]] and [[Alma Beoulve|Alma]]. Now convinced the legend was real, Jenomis made it his life's mission to prove it, and to this end named his children [[Ramza bas Lexentale|Ramza]] and Alma to serve as a constant reminder of his quest.
+
+When Jenomis goes missing in the ruins of [[Royal City of Rabanastre (Final Fantasy XIV)|Rabanastre]], Ramza and Alma seek out family friend [[Cid nan Garlond]] to aid in finding their father. Cid in turn recommends they recruit the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], which Alma does in spite of Ramza's objections, as he does not believe they need the aid of foreigners. He nevertheless relents when reminded that they are currently themselves foreigners in the city of [[Kugane]], and leads the Warrior and their allies into the city while Alma stays behind. They successfully rescue Jenomis, but Alma believes her father changed by the experience, and is unnerved by his continuing obsession with the ''The Zodiac Brave Story''.
+
+==Characteristics==
+===Appearance===
+Alma is a young girl with red hair. She wears a green corset dress with white accents, as well as a blue shawl over her shoulders. She also wears a blue necklace that once belonged to her mother.
+
+===Personality===
+Alma, a girl of fifteen summers, is considered to be more rational than her brother and father. She is often portrayed as the wisest of the family. She is extremely loyal to her father even after they left Garlemald and has adapted quite well to the sudden departure.
+
+==Gallery==
+<gallery>
+FFXIV Alma Possessed.png
+FFXIV Alma stage.png|Alma on the stage, as Alma Beoulve.
+FFXIV Ramza Alma stage.png|Ramza and Alma on the stage, as their ancestors.
+</gallery>
+
+==Etymology==
+{{Etym|Alma}}
+
+{{Section}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Garlean citizens]]
+[[Category:Garleans]]
+[[Category:Mixed races]]

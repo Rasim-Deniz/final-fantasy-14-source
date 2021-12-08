@@ -1,0 +1,80 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tsubame Oshidari
+|release=FFXIV
+|japanese=ツバメ・オシダリ
+|romaji=Tsubame Oshidari
+|aka=Tsubame Sunrise {{J|天道のツバメ|Tendō no Tsubame|Tsubame of the Heaven}}
+|image=Tsubame.png
+|home=[[Doma (Final Fantasy XIV)|Doma]]
+|age=22{{cite|FFXIV|{{icon|ffxiv|item|Field Notes on Tsubame}}|name=notes34}}
+|affiliation=Doma
+|occupation=Shinobi
+|education=
+|race=[[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|ninja}}
+|weapon=Daggers
+|armor=
+}}
+'''Tsubame Oshidari''' is a non-playable character in ''[[Final Fantasy XIV]]''. She is a [[Ninja (Final Fantasy XIV)#Ninja|shinobi]] from [[Doma (Final Fantasy XIV)|Doma]] and a member of the Ninja guild.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Tsubame_maid.png|thumb|left|Tsubame disguises as a maid.]]
+Tsubame is one of the shinobi working for [[Oboro Torioi]], who are in [[Eorzea]] to confront a traitor that sold out their home to the [[Garlean Empire]]. Their activities near Wineport catches the attention of [[Limsa Lominsa]]'s Rogue's Guild who begin investigating. In Wineport, [[Perimu Haurimu]] and the Warrior of Light discover a commotion in which a maid was seemingly accosted by thugs. She claims they had started in-fighting as she tried to escape. The rogues do not buy this story, and follow her to [[Upper La Noscea]]. As an eccentric man in red appears, the maid appear with daggers drawn and strikes. Shortly after, Oboro appears and confronts the man, [[Karasu Kanshi|Karasu]], who flees. The shinobi reveal their reasons for being in Eorzea, and when the Adventurer resonates with a Ninja soulstone, Oboro agrees to teach the rogue the arts of ninjitsu.
+
+While attempting to locate the whereabouts of a pirate captain being targeted by Karasu—and therefore know where the traitor can be intercepted—the shinobi stake out Camp Bronze Lake's hot springs where one of the captain's lackeys is staying. Studying the man's actions, Tsubame gets an idea for coaxing the information out. Dressing as a local floozy, she plies him with liquor, where the intoxicated man admits his captain will be heading to Aleport. At Aleport, Tsubame blocks Karasu's retreat from the west entrance and joins in the fight, but Karasu still manages to slip away.
+
+Later, when Karasu tried to attack the safehouse in [[Eastern La Noscea]], Tsubame chased him into Raincatcher Gully. Tsubame was found wounded and exhausted past a rope bridge, where Karasu was finally defeated by Oboro. However, Karasu claimed that [[Gekkai|Master Gekkai]] was the true traitor before seemingly committing suicide with explosives. Oboro announces that the shinobi will leave for Doma once Tsubame's wounds are healed.
+
+[[File:Tsubame_Last_Mission.png|thumb|Tsubame confronts Gekkai in the last mission.]]
+Though their mission was technically accomplished, Tsubame became concerned over what was troubling Oboro, and asked the Warrior of Light to talk with him before they leave for Doma. At the waterfall, Tsubame overheard their conversation. Though Oboro intended to confront the truth alone, Tsubame suggested they follow up on Karasu's cryptic words and watched from the shadows at Candlekeep Quay. As Oboro confronted Gekkai and his imperial agents, Tsubame and the adventurer leaped into the fray and pledged to aid him in the fight.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Section}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+====[[Resistance Weapon|Save the Queen - The Blades of Gunnhildr]]====
+Oboro and Tsubame arrive to assist the [[Bozjan Resistance]] by the order of the Eastern Alliance against the [[IVth Imperial Legion]]. They fight alongside the Resistance, where they assist in collecting valuable materials from Imperial forces. They pursue the Onmyoji [[Yamatsumi pyr Urabe]] and join with [[Atori Moribe]]'s forces to combat [[Gilbrisbert quo Buteo]]. Oboro assists further in the attack on the [[Dalriada]].
+
+
+==Characteristics==
+===Appearance===
+Tsubame is a Midlander [[Hyur]] with short black hair. She usually dresses a simple commoner, but in battle will don her traditional shinobi garb.
+
+===Personality===
+Unlike Oboro, she is somewhat cordial to Eorzea and admits she would not mind staying. She is a mild mannered young woman, often keeping council to herself and only speaking up when she is concerned with the outcome of a plan. She shows deep concern for the overambitious plans of Oboro and others, often when she is certain it may result in their injury.
+
+===Abilities===
+Not being especially talented in her ability to manipulate aether, her ninjutsu pales in comparison to that of jonin such as Oboro, but she compensates for this shortcoming with her exceptional physical prowess and skill at arms.<ref name=notes34/>
+
+==Gameplay==
+{{Section}}
+
+During the [[Resistance Weapon|Save The Queen]] story, Oboro and Tsubame appears in {{icon|ffxiv|duty|Zadnor}} as allied NPCs. They fight alongside the Resistance in the Skirmishes {{icon|ffxiv|fate|parts and parcel}}, {{icon|ffxiv|fate|a just pursuit}}, {{icon|ffxiv|fate|mean-spirited}}, and in {{icon|ffxiv|fate|a relic unleashed}}. They can also be seen alongside the resistance during the invasion of  {{icon|ffxiv|fate|the dalriada}}.
+
+==Behind the scenes==
+[[Kamui (Final Fantasy XIV)|Master Kamui]] calls Tsubame "little swallow". This might be a coincidence, or that he actually knows and remembers her name while pretending to suffer amnesia.
+
+==Gallery==
+<gallery>
+FFXIV Tsubame Maid.png|Maid outfit
+FFXIV Tsubame Swimsuit.png|Swimsuit
+Tsubame_swimsuit.png|Tsubame during a mission in Camp Bronze Lake
+FFXIV Tsubame Yukata.png|Private outfit
+FFXIV Tsubame Hostage.png|Karasu using Tsubame as a hostage
+</gallery>
+
+==Etymology==
+{{Etym|Tsubame}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Ninjas]]
+[[Category:Hyurs]]

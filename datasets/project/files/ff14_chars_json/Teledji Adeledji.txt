@@ -1,0 +1,64 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Teledji Adeledji
+|release=FFXIV
+|japanese=テレジ・アデレジ 
+|romaji=Tereji Adereji 
+|image=FFXIV Teledji Adeledji.png
+|race=[[Lalafell]]
+|gender=Male
+|height=
+|hair=White
+|eye=Green
+|designer=
+|age=55<ref name=EE134>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 134</ref>
+|home=[[Ul'dah]]
+|affiliation=Mirage Trust<br/>[[Syndicate]]
+|occupation=Monetarist
+|type=npc
+|japanese voice actor=[[wikipedia:Taketora|Taketora]]
+|english voice actor=[[Joe Ochman]]
+}}
+'''Teledji Adeledji''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. A member of the Syndicate, he heads of the Mirage Trust and owns the Platinum Mirage casino (and by extension, the [[Monk (Final Fantasy XIV)|Pugilist]]'s Guild).
+
+==History==
+[[File:Teledji Adeledji.png|thumb|left|Teledji Adeledji with the Brass Blades.]]
+Teledji Adeledji comes into prominence in "Through the Maelstrom", where he endorses [[Yugiri Mistwalker|Yugiri]]'s request for asylum on behalf of the [[Doma (Final Fantasy XIV)|Doman]] refugees. His proposal is opposed by Lord [[Lolorito]], who cites difficulties with [[Ala Mhigo|Ala Mhigan]] refugees as reason to turn the Domans away, swaying the remaining Syndicate members into opposing the resolution. He later sits in the empty Syndicate chambers when an aide walks up to him and informs him he carried out his orders. When he inquires as to what these plans are, Teledji replies "Revolution."
+
+In "Defenders of Eorzea", it is revealed by [[Raubahn Aldynn|General Raubahn]] that Teledji had incited the recent riots among the refugee population through an arms dealer (that was conveniently assassinated in front of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]). Raubahn suggested this was a ploy to get the Carteneau Reclamation Bill passed, which would resettle refugees in the [[Carteneau Flats]]. Raubahn and [[Nanamo Ul Namo|Nanamo]] believe Teledji's true goal is to get his hands on the "[[Omega (Final Fantasy XIV)|Omega]]" device buried in the Flats.
+
+{{Quote|What rot! ...Though I did have sufficient motive, 'tis true. That young lady caused me no end of grief. She always was a most unwilling puppet. I daresay Her Grace was grateful that someone thought to cut her strings.|Teledji}}
+During the events of "Before the Fall", Teledji orchestrates an attempt on the Sultana by having her wine poisoned and framing the Warrior of Light and the [[Scions of the Seventh Dawn|Scions]] of regicide. Teledji is killed by an enraged Raubahn after gloating over Nanamo's assumed death. In ''[[Final Fantasy XIV: Heavensward|Heavensward]]'' it is revealed that [[Lolorito]] learned of Teledji's scheme and allowed it to occur in the hopes that Teledji and Raubahn kill each other during the resulting chaos while he substituted the poison with a weaker, coma-inducing substance.
+
+==Characteristics==
+===Appearance===
+Teledji Adeledji is a male plainsfolk [[Lalafell]] with graying hair and tan skin. Like many members of the [[Syndicate]], he is lavishly dressed—donning himself in green and red robes and adorned with gold jewelry. He wears a blue noble's hat, and his short mustache and beard are trimmed to an unusual, angular style.
+
+===Personality===
+Teledji Adeledji is scheming, greedy, arrogant, power-hungry and self-serving, doing whatever he can to increase his wealth and power within the Syndicate, caring little of the consequences his machinations may have on [[Ul'dah]] or its allies.
+
+Teledji has little to no respect for the monarchy, especially Sultana [[Nanamo Ul Namo|Nanamo]], who while young and naive, proved difficult for him to control. Thus he believed her unable to properly defend the nation and conspired to be rid of her. Teledji was willing to seize the Allagan superweapon, [[Omega (Final Fantasy XIV)|Omega]], and poison Nanamo to achieve complete control over Ul'dah.
+
+When it appeared Teledji had the upper-hand his arrogance in making outlandish accusations towards the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Scions of the Seventh Dawn]], and his insults towards the sultana in front of a grieving Raubahn, would be his fatal mistake. Thinking himself untouchable, he mocked the Sultana while acknowledging his ill-opinions towards her, which enraged Raubahn into killing him.
+
+==Gameplay==
+{{Quote|No... Stay back! Not again!|Teleji after dying in the palace}}
+Teledji appears in {{icon|ffxiv|duty|Palace of the Dead}} as an enemy known as "Mortifying Magnate".
+
+==Gallery==
+<gallery>
+File:Undead Teledji.png|An undead Teledji within the Palace of the Dead.
+</gallery><br />
+==Behind the scenes==
+===Voice===
+Teledji is voiced by [[wikipedia:Taketora|Taketora]] in the Japanese version.
+
+He is voiced by [[Joe Ochman]] in the English version.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Lalafells]]

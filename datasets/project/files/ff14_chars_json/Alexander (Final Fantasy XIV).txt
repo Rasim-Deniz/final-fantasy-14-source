@@ -1,0 +1,381 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Alexander (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Alexander
+|release=FFXIV
+|japanese=アレキサンダー
+|romaji=Arekisandā
+|lit=
+|aka=
+|image=FFXIV Alexander.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+{{Quote|Since the [[Sharlayan]] exodus, a structure has stood steady against the flow of the Thaliak River. Now, the [[Illuminati]] have summoned a primal around this rusting ruin─a terrible colossus of steam and metal. Steel screamed against steel when it rose from the waters, and it drank deep of the land's aether before grinding again to a halt. The voices of [[Idyllshire]] cry out, asking for aid ere their homes are crushed under the weight of iron. You must lead a band of valiant adventurers into the machina and discover how to destroy the core─lest the giant screeches again to life, and bleeds all the realm dry.|Description}}
+'''Alexander''' is a [[primal]] and a location from ''[[Final Fantasy XIV]]'' who debuted in the ''[[Final Fantasy XIV: Heavensward]]'' expansion. It is an enormous, long-abandoned mechanical fortress into which the [[Goblin (creature)#Final Fantasy XIV|Goblins]] have summoned a primal essence. Unlike the other primals the [[Warrior of Light (Final Fantasy XIV)|adventurers]] must fight directly, Alexander needs to be defeated from within.
+
+Alexander serves as a [[Duty#Raids|raid]] available after the ''Final Fantasy XIV: Heavensward'' main storyline is completed with two difficulty levels: normal and savage. Patch 5.11 of [[Final Fantasy XIV: Shadowbringers|''Final Fantasy XIV: Shadowbringers'']] added the [[Epic of Alexander]], an [[Raid (Final Fantasy XIV)#Ultimate raids|Ultimate raid]] based on the ''Heavensward'' raid series.
+
+{{See|Alexander (summon)}}
+
+==History==
+[[File:FFXIV Alexander River.png|thumb|Alexander appears from the Thaliak River.]]
+Ages ago, Alexander was designed by the author of the Enigma Codex as a haven for scientists and philosophers to research the mysteries of life. Two years after the start of the [[Seventh Umbral Era]], a group of [[Au Ra]] from the Hotgo tribe, including [[Mide]] and [[Dayan]], attempted to summon Alexander using the Enigma Codex. While Alexander appeared beneath the Thaliak River, a second version of it also arrived from the future. [[Illuminati]] Goblins aboard the future Alexander killed most of the researchers, and Alexander began to absorb [[aether]] from the surrounding land. When it attempted to draw Mide into itself, Dayan shoved her out of the way and was pulled in himself. As the last survivor, Mide executed their backup plan and conjured a barrier around Alexander. Though the Enigma Codex exploded, the future Alexander returned to its own time and the barrier kept the Alexander of the present from awakening. The Illuminati leader [[Quickthinx Allthoughts]] learned of Alexander's location in Thaliak River in the [[Dravanian Hinterlands]] and repurposed it by infusing the structure's core, the Gordian Knot, with aether to serve as a primal.
+
+Shortly after [[Ishgard]] joins the Eorzean Alliance, the Illuminati awaken Alexander. [[Cid nan Garlond]] and [[Y'shtola Rhul|Y'shtola]], the former knowing the Illuminati were the cause, witness Alexander partially emerge from the Thaliak River and enter stand-by mode while siphoning the area's aether. While Y'shtola seeks the aid of [[Matoya (Final Fantasy XIV)|Matoya]] to contain Alexander from draining aether, the [[Garlond Ironworks]] secure the area around Alexander while investigating the apparent opening in its exposed hand with the assistance of Mide, who is after the Enigma Codex. After braving Alexander's defenses, the group shuts down the Gordian Knot. However, the Illuminati do not appear to be deterred, suggesting they have something up their sleeve.
+
+After [[Roundrox]] entrusts Mide with her "treasure", the final missing piece of the Enigma Codex, Alexander stirs again, with its second arm emerging from the lake. While Cid and Y'shtola leave to consult with Matoya, the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] makes plans with [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]] to breach this arm, known as "Midas", and shut down Alexander's second core, the Midian Knot. They are confronted by Quickthinx Allthoughts, who claims that Mide has been working with the Illuminati from the beginning.
+
+When the group confronts Mide she admits that it is partially true. The initial attempted summoning of Alexander several years ago was not the work of the Goblins, but done by a group of Au Ra that she belonged to. The ritual went awry and the entire group besides herself was killed, and their leader—Mide's lover, Dayan—was absorbed by the primal's core. Mide told the Illuminati about Alexander, hoping that if they succeeded in summoning the primal, she could see Dayan again. She now regrets her actions and wants to stop the Illuminati's plans.
+
+Illuminati has captured Roundrox, having learned that she can control the Enigma Codex, and by extension, Alexander. The Warrior of Light, Mide, Biggs and Wedge set off to breach Midas's defenses to shut down its core and rescue Roundrox. They get past the Illuminati's guardians, including a powerful robot known as Brute Justice, and disable the Midian Knot. When confronted by the Illuminati, they fail to rescue Roundrox and lose their piece of the Enigma Codex when Quickthinx accurately predicts seemingly random events. Once they escape Alexander, their Goblin allies claim they were only gone for a few minutes.
+
+The group realizes Alexander has the power to manipulate time itself. Cid and Y'shtola rejoin them and reveal Alexander is reversing time to undo the damage the Warrior of Light's group caused, and restore the two disabled cores. Once this is finished, and with both the completed Enigma Codex and Roundrox in their possession, the Illuminati will have the power to rewrite history, creating a so-called perfect world that they control. They are joined by what appears to be Quickthinx's [[coeurl]] kitten, Shanoa, which indicates it wants to help them. Curiously, they observe Shanoa with Quickthinx at the same time.
+
+Knowing that their only hope to shut down Alexander is to rescue Roundrox, Biggs disables the barrier around Alexander while Cid uses the ''Enterprise'' to deposit the Warrior of Light at Alexander's head. With the barrier down the giant awakens and fully rises from the river, but the barrier is restored before it can begin draining the land of aether. The band storms Alexander's control room and dispatches the Illuminati guards. Mide was hoping to see Dayan again, and Roundrox uses the Enigma Codex to travel three years back in time to when Mide and Dayan attempted to summon Alexander. Their arrival messes up their summoning attempt, as the Illuminati shoot Mide and Dayan's companions. Shanoa jumps at their Goblin companion, who had been chronicling the events surrounding Alexander, and both she and his book tumble to the ground as Alexander returns to the present without them. The group takes Roundrox and escapes as Quickthinx Allthoughts arrives, but Mide stays. Realizing that Dayan was always meant to die, and that her efforts to see him again caused it, she wishes to remain with her lover's soul.
+
+After regrouping, they return to Alexander's massive aethercyte core to shut it down, but it has grown so large that it is absorbing aether faster than they could destroy it; the only means of halting Alexander would be to use the Enigma Codex in the now heavily-guarded control room. Quickthinx returns and gloats that the future cannot be changed and the Illuminati will be victorious. Shanoa leaps at him and he drops his "futurebook"; the band realizes he has simply been reading from Backrix's tome, which was lost in the past, and that the future is not set in stone.
+
+Quickthinx engages Alexander and halts time around the core before summoning [[Alexander Prime]] to destroy the Warrior of Light's group while they are frozen. Time unexpectedly restarts just before it fires, and Alexander Prime disappears into a time distortion. The Warrior of Light follows after it and during their battle, it sends several smaller units through time portals; the Warrior of Light follows and destroys them, which shuts down Quickthinx's temporal field and saves their own lives in the past.
+
+Once Alexander Prime is destroyed, they return to the control room. When Roundrox attempts to use the Enigma Codex to shut down Alexander Quickthinx Allthoughts reveals that he, too, can access the Codex. Mide arrives and shoots him in the head. Roundrox disables the core, but Quickthinx revives and reactivates it, having replacing much of his body with machinery. Quickthinx commands Alexander to unleash its divine judgment on the ignorant and unworthy, but the Enigma Codex instead destroys Quickthinx before self-destructing. As Alexander grinds to a halt, the monitors in the control room flicker to life, and Mide realizes that Dayan's soul really does survive within. Without the Codex to regulate the core, it begins absorbing aether at an accelerated rate; Mide throws herself into the core so that her soul can be with Dayan, and together they freeze Alexander forever within a single moment in time as their companions escape.
+
+Deep within the heart of Alexander, Mide is reunited with Dayan. He explains that Alexander foresaw all the infinite possible futures, and concluded that its own existence would inevitably bleed the land dry of aether, causing the end of the world. It intervened with history only once: to send a servant in the form of a clockwork coeurl to gently nudge history to a path that would ensure its own ending. Though they are now trapped within a single moment of time, Mide is happy to be with Dayan forever.
+{{clear}}
+
+==Locations==
+===Gordias===
+[[File:XIV Alexander Gordias.png|thumb|275px]]
+The right arm of Alexander, which upon emerging from the Tipped Ewer grasped a nearby riverbank on the edge of the Maker's Quarter. The immense hand emerged through the force field surrounding Alexander, allowing entry through a portal in the "fist" of the machine arm.
+
+This sector contains four raid instances:
+*{{icon|ffxiv|duty|Alexander - The Fist of the Father}}
+*{{icon|ffxiv|duty|Alexander - The Cuff of the Father}}
+*{{icon|ffxiv|duty|Alexander - The Arm of the Father}}
+*{{icon|ffxiv|duty|Alexander - The Burden of the Father}}
+
+===Midas===
+[[File:XIV Alexander Midas 01.png|thumb|275px]]
+The left arm of Alexander, which grasped onto a delta in the Thaliak River. Though structurally mirroring the Gordias sector, its internal contents noticeably differ.
+
+This sector contains four raid instances:
+*{{icon|ffxiv|duty|Alexander - The Fist of the Son}}
+*{{icon|ffxiv|duty|Alexander - The Cuff of the Son}}
+*{{icon|ffxiv|duty|Alexander - The Arm of the Son}}
+*{{icon|ffxiv|duty|Alexander - The Burden of the Son}}
+
+===The Creator===
+[[File:XIV Alexander the Creator.png|thumb|275px]]
+The central body of Alexander.
+
+This sector contains four raid instances:
+*{{icon|ffxiv|duty|Alexander - The Eyes of the Creator}}
+*{{icon|ffxiv|duty|Alexander - The Breath of the Creator}}
+*{{icon|ffxiv|duty|Alexander - The Heart of the Creator}}
+*{{icon|ffxiv|duty|Alexander - The Soul of the Creator}}
+{{clear}}
+
+==Enemies==
+===Gordias===
+{{multicol-begin}}
+;Fist
+*[[Oppressor (Final Fantasy XIV)|Oppressor]] (Boss)
+*Oppressor 0.5
+*Alarum
+*Faust
+*Sturm Doll
+{{multicol-separator}}
+;Cuff
+*Boomtype Magitek Gobwalker V-VII
+*Gordian Footman
+*Gordian Hardhelm
+*Gordian Hardmind
+*Gordian Sniper
+*Gordian Soldier
+*Jagd Doll
+*Magitek Gobwalker G-IX
+{{multicol-separator}}
+;Arm
+*[[Living Liquid (Final Fantasy XIV)|Living Liquid]] (Boss)
+**Liquid Limb
+**Liquid Gaol (Savage Only)
+*Embolus (Savage Only)
+*Gear Lubricant
+*Piston Lubricant
+*Clay Claw
+*Echioceras
+*Ogrebon
+{{multicol-separator}}
+;Burden
+*[[The Manipulator]] (Boss)
+**Left Foreleg
+**Right Foreleg
+**Left Hindleg (Savage Only)
+**Right Hindleg (Savage Only)
+*Jagd Doll
+*Panzer Doll
+*Straf Doll (Savage Only)
+{{multicol-end}}
+
+===Midas===
+{{multicol-begin}}
+;Fist
+*[[Ratfinx Twinkledinks]] (Boss)
+*Faust
+*Hummelfaust
+*Gobbledygroper
+*Glassy-eyed Cobra
+*Gobbledygawker (Savage Only)
+*Yorn Pig (Savage Only)
+*Glassy-eyed Shabti (Savage Only)
+*Glassy-eyed Minotaur (Savage Only)
+{{multicol-separator}}
+;Cuff
+*Blaster (Boss)
+*Brawler (Boss)
+*Swindler (Boss)
+*Vortexer (Boss)
+*Midan Gunner (Savage Only)
+*Midan Hardhelm (Savage Only)
+*Midan Soldier (Savage Only)
+*Boomtype Magitek Gobwalker G-VII (Savage Only)
+{{multicol-separator}}
+;Arm
+*[[Quickthinx Allthoughts]] (Boss)
+*Sturm Doll
+*Panzer Doll
+*True Heart
+*Alarum
+*Lumbertype Magitek Vangob G-III
+*Engine Oil (Savage Only)
+{{multicol-separator}}
+;Burden
+*[[Brute Justice]] (Boss)
+*Onslaughter
+*Blaster
+*Brawler
+*Swindler
+*Vortexer
+{{multicol-end}}
+
+===Creator===
+{{multicol-begin}}
+;Eyes
+*[[Refurbisher 0]] (Boss)
+*Alexandrian Glider
+*Faust Z
+*Vangob Scrap
+*Panzer Doll Scrap
+*Gobtank Scrap
+*Full-metal Faust
+{{multicol-separator}}
+;Breath
+*[[Lamebrix Strikebocks]] (Boss)
+*Alexandrian Strider
+*Alexandrian Collider
+*Alexandrian Hider
+*Gobwalker
+*Gobpress R-VI
+*Goblin of Fortune
+*E.D.D.
+*Lapis Lazuli 
+{{multicol-separator}}
+;Heart
+*[[Cruise Chaser]] (Boss)
+*Actuator
+*Actuator 0 
+{{multicol-separator}}
+;Soul
+*[[Alexander Prime]] (Boss)
+*Arrhidaeus's Lanner
+*The General's Might
+*The General's Wing 
+{{multicol-end}}
+
+==Treasures==
+===Gordias===
+{{multicol-begin}}
+;Fist (Normal)
+*Tarnished Gordian Chain
+*Tarnished Gordian Pedal
+*Tarnished Gordian Bolt
+{{multicol-separator}}
+;Cuff (Normal)
+*Tarnished Gordian Lens
+*Tarnished Gordian Pedal
+*Tarnished Gordian Bolt
+{{multicol-separator}}
+;Arm (Normal)
+*Tarnished Gordian Lens
+*Tarnished Gordian Crank
+*Tarnished Gordian Spring
+{{multicol-separator}}
+;Burden (Normal)
+*Tarnished Gordian Shaft
+*Tarnished Gordian Crank
+*Tarnished Gordian Spring
+*Gobwalker Shielding
+*Gordian Gear
+{{multicol-end}}
+
+{{multicol-begin}}
+;Fist (Savage)
+*Gordian Manifesto - Page 1
+*Gordian Necklaces
+*Gordian Earrings
+*Gordian Bracelets
+*Gordian Rings
+{{multicol-separator}}
+;Cuff (Savage)
+*Gordian Manifesto - Page 2
+*Illuminati Gobcoat
+*Gordian Gloves
+*Gordian Boots
+*Gordian Belts
+{{multicol-separator}}
+;Arm (Savage)
+*Gordian Manifesto - Page 3
+*Illuminati Gobtwine
+*Gordian Helmets
+*Gordian Legs
+{{multicol-separator}}
+;Burden (Savage)
+*Gordian Manifesto - Page 4
+*Illuminati Gobdip
+*Gordian Weapons
+*Gordian Bodies
+*Gobwalker Gear
+{{multicol-end}}
+
+===Midas===
+{{multicol-begin}}
+;Fist (Normal)
+*Tarnished Midan Chain
+*Tarnished Midan Pedal
+*Tarnished Midan Bolt
+{{multicol-separator}}
+;Cuff (Normal)
+*Tarnished Midan Lens
+*Tarnished Midan Pedal
+*Tarnished Midan Bolt
+{{multicol-separator}}
+;Arm (Normal)
+*Tarnished Midan Lens
+*Tarnished Midan Crank
+*Tarnished Midan Spring
+{{multicol-separator}}
+;Burden (Normal)
+*Tarnished Midan Shaft
+*Tarnished Midan Crank
+*Tarnished Midan Spring
+*Faust Armor Plating
+*Midan Gear
+{{multicol-end}}
+
+{{multicol-begin}}
+;Fist (Savage)
+*Midan Manifesto - Page 1
+*Midan Belts
+*Midan Necklaces
+*Midan Earrings
+*Midan Bracelets
+*Midan Rings
+{{multicol-separator}}
+;Cuff (Savage)
+*Midan Manifesto - Page 2
+*Illuminati Dark Gobcoat
+*Midan Gloves
+*Midan Boots
+*Midan Helmets
+{{multicol-separator}}
+;Arm (Savage)
+*Midan Manifesto - Page 3
+*Illuminati Taut Gobtwine
+*Illuminato Deep Gobdip
+*Midan Helmets
+*Midan Legs
+*Midan Boots
+{{multicol-separator}}
+;Burden (Savage)
+*Midan Manifesto - Page 4
+*Midan Weapons
+*Midan Bodies
+{{multicol-end}}
+
+==Musical themes==
+"Sins of the Father, Sins of the Son" is the ambient theme inside Alexander.
+
+"[[Locus]]" is the theme that plays during boss battles.
+
+"[[Metal (song)|Metal]]" is the theme that plays during the battle against the Manipulator in [[Alexander - The Burden of the Father|The Burden of the Father]]. "Locus" and "Metal" are remixed into a 70s Tokusatsu-style jazz theme that plays during the battle against Brute Justice, known as "[[Metal (song)#Metal - Brute Justice Mode|Metal - Brute Justice Mode]]" in [[Alexander - The Burden of the Son|The Burden of the Son]]. "[[Exponential Entropy]]" is the theme for the battle against Cruise Chaser, with "Mobius" and "[[Rise (song)|Rise]]" serving as the themes against Alexander Prime.
+
+==Behind the scenes==
+In the ''[[Final Fantasy XIV: Heavensward Official Benchmark]]'', Alexander is shown emerging from a lake in Dravania as a convoy of flying mounts pass by.
+
+The Living Liquid boss is a reference to [[Liquid Flame (Final Fantasy V)|Liquid Flame]] from ''[[Final Fantasy V]]'', alternative between a humanoid form, a giant hand, and a tornado.
+
+==Gallery==
+<gallery>
+AlexanderFFXIV.jpg|In-game screenshot of Alexander.
+Benchmark Alexander.jpg|Benchmark video.
+Scions observing Alexander.png|The Warrior of Light and Y'shtola observe Alexander from Idyllshire shortly after summoning.
+XIV Alexander Midas 02.png|A goblin city within the Midas sector
+XIV Gordias Armor.png|Gordian equipment
+XIV Midan Armor.png|Midan equipment
+XIV Alexandrian Gear.png|Proto-Alexandrian equipment
+FFXIV Perfect Alexander.png|Perfect Alexander in The Epic of Alexander.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Locations in Final Fantasy XIV]]
+[[Category:Primals in Final Fantasy XIV]]

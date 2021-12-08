@@ -1,0 +1,403 @@
+{{sideicon|prime=FFXV}}
+{{infobox character
+|name=Noctis Lucis Caelum
+|release=FFXV
+|japanese=ノクティス・ルシス・チェラム
+|romaji=Nokutisu Rushisu Cheramu
+|aka=Noct {{j|ノクト|Nokuto}}
+|image= FFXV Noctis.png
+|home=[[Insomnia]]
+|age=20<ref name=ATR31052016>{{Refwebsite| page url = http://www.siliconera.com/2016/05/31/final-fantasy-xv-noctis-age-brotherhood-episode-2-questions-fans/| page name = Final Fantasy XV On Noctis’ Age, Brotherhood Episode 2, And Other Questions From Fans | site url = http://www.siliconera.com| site name = Siliconera| access time =20180725192956}}</ref>/30 (Chapter 14)
+|dob=August 30th, M.E. 736{{foot|The ''Final Fantasy XV Ultimania'' and ''Final Fantasy XV: Official Works'' give his birth year as 736, even if this would make him only 19 years old during ''Final Fantasy XV''.}}
+|affiliation=[[Lucis]]
+|occupation=
+*Prince
+*King
+|race=[[Human]]
+|gender=Male
+|height=<!--DO NOT CHANGE HEIGHTS WITHOUT PROOF. Always cite your reference(s)-->176 cm (5'9")<ref>https://squareportal.net/2016/05/31/final-fantasy-xv-casts-ages-heights-and-birthdays-revealed/</ref>
+|hair=Black
+|eye=Blue (red glow)
+|loves=Getting high scores in video games<ref name=FFXVOW>{{Refbook| title = ''Final Fantasy XV: Official Works''| page = Character File #01: Noctis Lucis Caelum}}</ref>
+|type=playable
+|weapon=[[Final Fantasy XV weapons#Swords|Swords]], [[Final Fantasy XV weapons#Greatswords|Greatswords]], [[Final Fantasy XV weapons#Polearms|Polearms]], [[Final Fantasy XV weapons#Daggers|Daggers]], [[Final Fantasy XV weapons#Firearms|Firearms]], [[Final Fantasy XV weapons#Shields|Shields]], [[Final Fantasy XV weapons#Machinery|Machinery]], [[Royal arms (Final Fantasy XV)|Royal Arms]]<br/>Signature weapons: [[Engine Blade]], [[Sword of the Father]]
+|designer=[[Tetsuya Nomura]]
+|motion capture=Takuma Harada
+|japanese voice actor=[[Tatsuhisa Suzuki]]<br/>Miyuki Satō<sup>(Young)</sup>
+|english voice actor=[[Ray Chase]]<br/>[[Hyrum Hansen]]<sup>(Young)</sup>
+|party member 1=Noctis (Final Fantasy XV party member)
+|party member game 1=FFXV
+|gallery=true
+|other appearances=true
+|dffnt=true
+|dffoo=true
+|theatrhythm=true
+|ffrk=true
+|ffbe=true
+|wotv=true
+|woff=Noctis (World of Final Fantasy)
+}}
+{{Quote|Heir apparent to the Lucian throne, Noctis's trials begin when he sets forth from the crown city in order to wed Lunafreya Nox Fleuret. In combat, he wields spectral weapons which he forges from thin air, a power possessed by those of his royal line.|Official description<ref>http://www.finalfantasyxv.com/en/overview#overview-characters</ref>}}
+'''Noctis Lucis Caelum''' is the (initially sole) playable character and main protagonist of ''[[Final Fantasy XV]]''. He is the crown prince and heir to the throne of [[Lucis]], the kingdom with control over the [[Crystal (Final Fantasy XV)|Crystal]]. Thus, he can wield the power of [[Kings of Lucis|Lucian kings]]. He was first announced for the cancelled game ''[[Final Fantasy Versus XIII]]'', which eventually transformed into the ''[[Final Fantasy XV Universe]]''.
+
+Noctis is the son of [[Regis Lucis Caelum|King Regis]], and travels along with his close friends, [[Gladiolus Amicitia]], [[Ignis Scientia]], and [[Prompto Argentum]]. He departs his home of [[Insomnia]] to [[Altissia]] to marry [[Lunafreya Nox Fleuret]] and solidify a political union. He is thrust into a conflict against the [[Niflheim|Niflheim Empire]], and must take on his duties and become a king. Noctis treats his close friends as equals, and initially struggles to cope with his responsibilities, looking towards his father as a role model. He struggles articulating his feelings, which he prefers to deal with alone. Along the journey, his three companions note his improved confidence, and how he has become more resolute.
+
+Noctis is the main playable character. He can equip all [[Final Fantasy XV weapons|weapons]], and the [[Ascension (Final Fantasy XV)|Combat Ascension Spheres]] focus on him exclusively. He can [[Warp (Final Fantasy XV)|warp]] by throwing his weapon to move quickly around the field and to damage enemies with [[warp-strike]]s. He can invoke his [[Armiger]] to greatly increase his speed and strength. His leisure skill is [[Fishing (Final Fantasy XV)|fishing]], which lets the player partake in a [[minigame]] across Lucis and Altissia.
+
+==[[Dossiers]]==
+:''Son of King Regis, and 114th heir to the Lucian throne. Though he was chosen by the Crystal to serve as the savior of this star, an injury incurred as a young boy deprived him access to the full potential of his innate power. With his father's blessing, he sets forth from the Crown City of Insomnia on a road trip with his three closest companions. Their destination: Altissia, where Noctis is to wed the Oracle, Lunafreya Nox Fleuret of Tenebrae. Leaving the shelter of the Citadel for the first time enlightens the prince as to just how unknown he is outside the castle walls.''
+{{spoiler}}
+Added after Chapter 1.
+:''Days after his departure, Noctis learns the treacherous Niflheim Empire has destroyed the Crown City and stolen the kingdom's treasured Crystal. His shock and confusion mount upon hearing a broadcast listing his father, his fiancée, and himself among the casualties. With reluctance and a heavy heart, he takes up his late father's mantle and embarks on a journey of soul-searching as the new king of the realm.''
+
+Added in Chapter 14.
+:''Having spent ten years slumbering in solitude and basking in the Light of the Crystal, Noctis finally awakens as the one True King. The sole beacon of hope in a world overcome by darkness, he rejoins his friends and returns to Insomnia to fulfill his kingly calling.''
+{{endspoiler}}
+
+==Profile==
+===Appearance===
+[[File:Noctis.png|thumb|left|Closeup of Noctis's face.]]
+Noctis is a young man standing at 176&nbsp;cm (5'9") with spiky black hair and blue eyes that can glow red. He wears a black jacket that he keeps unzipped with [[Grim Reaper (entity)#Final Fantasy XV|skull-motif]] buttons (that {{foot|have the text "[[List of fashion industry collaborations|Roen]]" on them|[[File:FFXV-Noctis-Button-Roen.png|250x250px]]}}), zipper tag and sequin details on the pockets. The jacket has leopard print on the inside, which is not apparent on his in-game model.<ref>{{Refwebsite| page url = https://twitter.com/FFXVEN/status/1021772117212360704| page name = Final Fantasy XV Official English Twitter| site url = https://twitter.com/FFXVEN| site name = Twitter| access time = 19:20, July 25, 2018 (UTC)}}</ref> Underneath, he wears a steel gray shirt with skull prints. He wears black cropped trousers and black buckled boots with red soles along with a black motorcycle glovelet on his left hand.
+
+As a youth, Noctis had a delicate and boyish appearance with deep blue eyes and bangs. After suffering a grievous injury, Noctis sometimes used a wheelchair.
+
+Ten years later Noctis's facial features have weathered and he has a beard. His jaw is more square-shaped, and his complexion is rough. He wears a more formal and sophisticated attire, befitting his regal standing: a black suit with gold jewelry accenting it, a black and gold pauldron on his left shoulder, a golden knee guard around his left knee, accompanied by a cape with intricate gold chains and black shoes. The outfit is similar to the one worn by his father, King Regis, but without stripes or neck ornaments, as it is tailored to him.
+
+====Alternate outfits====
+{{Main|/Gameplay#Attire|t1=Noctis's attires}}
+Noctis has [[attire|alternate outfits available]]. One was available since the beginning of the game, and others are obtained by progressing in the story, from [[Final Fantasy XV downloadable content|DLC]] (both free and paid) and from [[Final Fantasy XV patches|patches]].
+
+===Personality===
+Though his three companions are not [[royalty]], Noctis usually treats them as equals. His upbringing shines through, however, as reflected in his body language, poise, and posture in contrast to his team. He regularly dozes off; this is present from his early childhood. According to ''[[Final Fantasy XV Prologue Parting Ways]]'', Noctis's personality changed following a childhood incident, making him more withdrawn despite having been a lively child before. In his teenage years, he appeared perpetually bored and uninterested in the things happening around him.
+
+According to the ''Final Fantasy XV: Official Works'', Noctis's overprotective upbringing has left him with poor interpersonal skills and he comes off as brusque with all but his closest friends. Having witnessed his father work as king has made Noctis respect the position and the dedication needed of a good sovereign, but also fear for the time he would need to assume the throne himself, making interactions with his father a struggle.<ref name=FFXVOW/>
+
+[[File:Young-Noctis-and-Sword-of-the-Father-KGFFXV.png|thumb|Young Noctis and the [[Sword of the Father]].]]
+Director [[Hajime Tabata]] has described Noctis's relationship with his father thusly: {{Quote|Noctis has grown up seeing his father as both a father figure and as the king of the country, so during the game he tries to grow as a person and develop with that image in mind with his father as a role model.|Hajime Tabata<ref>https://youtu.be/ipTGqVSXwRg?t=1m43s</ref>}}
+
+In the ''Final Fantasy XV Collector's Edition Guidebook'', Tabata describes Noctis as having experienced isolation in his youth, and fearing losing those close to him. Noctis's words and actions often stem from a fear of being unable to meet the expectations of those around him, but as a counterbalance he desires to please them. Tabata asked [[Yusuke Naora]], one of the art directors for ''Final Fantasy XV'', to look at Noctis as a real person and to depict his aging with realism rather than symbolism.
+
+Noctis has dealt with a lot of emotional turmoil as his mother died when he was young and his father had to cater to the demands of the kingdom, leaving Noctis feeling alone. Nevertheless, he is not bitter over it, accepting that sacrifices had to be made. Noctis is still trying to figure out who he is, and struggles articulating his feelings. He keeps a lot bottled up, especially with confronting how he feels about his childhood friend Lunafreya. When Noctis struggles coping with things, he tends to avoid the issue and become even more withdrawn, such as when he avoids his duties or thinking about being the next king in ''[[Brotherhood Final Fantasy XV]]'' due to worry over his father's ailing health. When he acknowledges the situation is bad, his first instinct is to focus on himself rather than the people he's supposed to lead, or even his closest friends. He doesn't share the weight of his grief over the deaths of his loved ones, and instead tries to deal with it alone, further isolating himself and pushing others away.
+
+He enthuses about the things he enjoys, and has a bit of an inflated ego, as noted by Gladiolus. He can be reckless, having to be held back by others, though this does not always stop him. He's playful, especially towards Prompto, his best friend, and is frequently snarky and sarcastic. Near the end of Noctis's journey, his friends note his increased confidence, and he has become more stern and resolute. He has learned to take on the responsibilities of his position, and does so without hesitation.
+
+Noctis dislikes vegetables, much to Ignis's displeasure, who tries to encourage a healthy diet. Noctis and Prompto share a distaste for bugs and a love for animals, especially pets and [[Chocobo (Final Fantasy XV)|chocobos]]. Noctis seems unaware that [[Iris Amicitia|Iris]] has a crush on him, though obvious to everyone else. Noctis is also apparently a reckless driver, as implied by Ignis's nervous reaction to Noctis driving the Regalia over to the [[Disc of Cauthess]].
+
+===Abilities===
+[[File:Noctis-Armiger-FFXV.png|thumb|Armiger.]]
+As the heir to the throne of Lucis, Noctis can wield the power of kings, and those he associates with share into some of his power. However, due to his childhood injury, he can't reach the full potential of his powers.<!--said in the Dossiers-->
+
+Weapons manifest to his use from thin air, and only he can wield the crystalline [[Royal arms (Final Fantasy XV)|royal arms]] of his forebears; the power to wield all of these weapons at once is called [[Armiger]], during which he is empowered by the souls of his ancestors. He can [[Warp (Final Fantasy XV)|warp]] over short distances and phase through solid matter, powers that he can use in combat. He can collect elemental power from the environment and [[Elemancy|craft spells]] that those with him can also gain access to, but his true magical power is harnessed via the mythical [[Ring of the Lucii]] that allows the wearer to wield the power of the Crystal itself in exchange for the user's own life force. Noctis is the one powering the party's potions and elixirs so they have healing properties<ref name="pkALTr5K">{{Refwebsite| page url = https://medium.com/@mgarsf/final-fantasy-xv-scenario-ultimania-translation-project-kingdom-of-lucis-ce0d72a8920c| page name = Final Fantasy XV Scenario Ultimania Translation Project — Kingdom of Lucis| site url = https://medium.com/@mgarsf| site name = Medium| access time = 16:40, April 21, 2018 (UTC)}}</ref>—without him, they would be just regular soda. The kings of Lucis have forged covenants with the [[Astral]] gods of [[Eos (Final Fantasy XV)|Eos]], and once Noctis does so, he becomes able to call forth the Astrals to aid him. With the Ring of the Lucii, Noctis learns three unique and powerful spells.
+
+Noctis is an excellent combatant, using all the weapons in his disposal with proficient skill. He is good at synchronizing with other skilled fighters to perform powerful [[link-strike]]s.
+
+{{spoiler}}
+After becoming the vessel for the Crystal's power, Noctis gains the power of Providence, noted to surpass even the might of the Astrals. He can use it by sitting on the throne and summoning the [[Kings of Lucis|Lucii]] to him to enter the realm in-between [[afterlife]] and the mortal realm,<ref name="profile">{{Refwebsite| page url = https://higharollakockamamie.tumblr.com/post/180920897502/noctis-lucis-caelum-the-chosen-king-fated-to-save| page name = Noctis Lucis Caelum Character Profile from ''Final Fantasy XV Official Works'' translated by higharollakockamamie| site url = https://higharollakockamamie.tumblr.com| site name = higharollakockamamie @tumblr| access time = 12:17, December 12, 2018 (UTC)}}</ref> taking the royal arms into "the beyond" within his very body.
+
+==Story==
+{{Quote|Noctis Lucis Caelum is 114th in the line of Lucis, and heir apparent to the royal throne. Chosen by the Crystal in the tender age of 5 to one day serve as the vessel for its power and the savior who would purge the scourge of the stars.|Loading screen description}}
+Noctis is the son of King Regis and Queen Aulea, the crown prince of Lucis and thus heir to the Caelum line. When Regis heard Aulea was suddenly entering into labor, he and [[Cor Leonis]]—the marshal of the [[Crownsguard]] and Regis's friend—dropped everything, and raced the [[Regalia]] to the hospital in such a manner they damaged the car.<!--talk to Cor in Royal Edition--> Regis was elated at Noctis's birth, but Aulea died when Noctis was still an infant.<ref>{{Refwebsite| page url = https://twitter.com/FFXVEN/status/645102824108331009| page name = Final Fantasy XV Official English Twitter| site url = https://twitter.com/FFXVEN| site name = @FFXVEN|access time=20180725193000}}</ref> Ignis Scientia became Noctis's retainer when he was three,<ref name=lifestream/> and is thus his oldest friend. Two years later King Regis learned from the spirits of the old kings that his five-year-old son is the Chosen King [[prophecy|prophesied]] to sacrifice himself to save the world.<ref name=profile/><ref name=media2>{{Refwebsite| page url = https://medium.com/@mgarsf/final-fantasy-xv-scenario-ultimania-translation-project-history-of-eos-910f3d0c7c89| page name = Final Fantasy XV Scenario Ultimania Translation Project — History of Eos| site url = https://medium.com/@mgarsf| site name = Medium|access time=20180725193002}}</ref> Perhaps for this reason Regis wanted Noctis to live a full, normal life, and Noctis had a relatively usual childhood, such as being enrolled in a regular school.
+
+[[File:Young Noctis injured in brotherhood.jpg|thumb|Young Noctis injured by an attack from Marilith.]]
+As depicted in ''Brotherhood Final Fantasy XV'', when he was eight years old, Noctis was the victim of the [[Daemon (Final Fantasy XV)|daemon]] [[Marilith]], implied to have been unleashed upon them by Niflheim, the empire that has been at war with Lucis for hundreds of years. The servants who accompanied him perished while Noctis was gravely injured, but he was saved by Regis and his attendees. As depicted in ''[[Platinum Demo – Final Fantasy XV]]'', Noctis went into a coma and retreated into a [[dream world]] where he came under the protection of [[Carbuncle (Final Fantasy XV)|Carbuncle]], a [[Messenger|magical creature]] who helped him fend off attacks from an unknown force attempting to keep him from waking up. Afterward Noctis spent time in the country of [[Tenebrae (Final Fantasy XV)|Tenebrae]] recovering, where he befriended the young Princess Lunafreya: while their time together was short they bonded and she showed Noctis a [[Lovers' Notebook|red notebook]] they would come to use for secret correspondence, using her magical [[dog (animal)|dog]] [[Umbra (Final Fantasy XV)|Umbra]] as a messenger.
+
+Noctis learned about the Crystal of Lucis and how his father is its sworn protector from Lunafreya, who explained he is the Crystal's chosen to banish the plague of darkness from the world. Noctis promised to do it, although he didn't understand what was asked of him. Noctis also met [[Shiva (Final Fantasy XV)|Gentiana]], the mysterious [[Messenger|High Messenger]] of the gods who stays by Lunafreya's side. Gentiana was pleased the future king of Lucis would have such a close relation to the [[Oracle (Final Fantasy XV)|Oracle]].
+
+[[File:Regis-Noctis-Escape-Tenebrae-KGFFXV.png|thumb|left|Regis takes Noctis away when Tenebrae is attacked.]]
+As depicted in ''[[Kingsglaive: Final Fantasy XV]]'', Niflheim invaded Tenebrae and Regis barely escaped with the young Noctis. Though he tried to also take Lunafreya, she opted to stay behind with her brother, [[Ravus Nox Fleuret|Ravus]], who was already captured. From that time on Noctis and Lunafreya could no longer see each other, although they kept in secret contact via Lunafreya's magical dogs. Noctis never fully recovered from the attack from Marilith.
+
+When a king of Lucis dies, their soul comes to reside inside the family heirloom, the Ring of the Lucii, which allows one to use the Crystal's power and is inherited by the person next in line for the throne. However, using the ring saps the user of their life force. Regis was doomed to age prematurely due to his life energy being needed to maintain the [[Wall (Final Fantasy XV)|Wall]] around Insomnia, the Crown City. Regis is conflicted about whether to put such a burden on Noctis.
+
+[[File:Noctis In School.png|thumb|Noctis in school.]]
+As depicted in ''Brotherhood Final Fantasy XV'', despite being royalty, Noctis attended a regular school where he met a boy named Prompto, whom Lunafreya had advised to seek Noctis's friendship as he hadn't mingled much with his peers. Gladiolus was his tutor for battle skills since early age, although the two did not initially get along, Gladiolus viewing him spoiled. The two befriended after a ten-year-old<ref name=lifestream/> Noctis saved Gladiolus's younger sister Iris from getting lost and took the blame for wandering outside the palace grounds even if he had only been following Iris to make sure she didn't get hurt. When Noctis was fifteen he moved to live alone to gain more independence and entered high school,<ref name=lifestream/> and he and Prompto became friends. Although Noctis did well in his exams, graduating as top of his class,<!--said in a radio message in Chapter 1: Now, the question on everyone's minds: who is Prince Noctis? His hardened features belie a gentle demeanor. He's a kind soul who loves animals and nature. Former schoolmates describe him as well-mannered and well-groomed, noting he graduated top of their class. Word has it he takes time from his princely duties to do community service. --> he struggled with the pressures of being the future king and the prospect of his father dying. To keep such pressures off his mind, he lived his youth like a general citizen for his age, including taking up a part time job at a sushi restaurant.<!--party comments in Ch14 Insomnia outside "Standing Sushi"-->
+
+At age 20,  Noctis sets forth from his homeland to formalize the union of states through his marriage to Lady Lunafreya of the imperial province of Tenebrae. Accompanying Noctis are his friends—Ignis, his royal advisor; Gladiolus, his [[Shield of the King|bodyguard]]; and Prompto, his best friend from high school. As depicted in ''Final Fantasy XV Prologue Parting Ways'', Noctis tried to meet Regis the day before they left, but the king was too busy with the treaty-signing preparations. Lucis was to relinquish all territories outside Insomnia to the empire in exchange for peace. Regis knew it to be a trap, and didn't tell Noctis of the true reason he is being sent away from the city with his friends, hoping Noctis would one day understand his reasons.
+
+[[File:Noctis-Regalia-Breakdown-FFXV.png|thumb|left|Noctis with the broken down Regalia.]]
+The four head toward Altissia so Noctis can marry Lunafreya to solidify relations between their countries as a political union. Regis sees them off with a heavy heart at the steps of the [[Citadel]]. On their way across [[Leide]], Regalia, Regis's car the party is using, breaks down. The party pushes it to the nearest service station, [[Hammerhead (Final Fantasy XV)|Hammerhead]], where they meet the mechanic [[Cindy Aurum|Cindy]] and her grandfather [[Cid Sophiar|Cid]], Regis's old comrade.
+
+Cid recognizes Noctis and assures them the car can be fixed but it will take time, leaving the party stranded for the time being. Though knowing Noctis is the prince, Cid doesn't act respectfully, implying he doesn't think Noctis is ready to become the king. Cindy handles the repairs, and the party is left to make the money to pay her. Once the repairs are done, the party heads to the port town of [[Galdin Quay]] where they hope to take a ferry to Altissia. However, the ferry is not running. They meet a mysterious stranger who acts flippantly and gives them an [[Oracle Ascension Coin]] as "allowance."
+
+[[File:Outside-Insomnia-FFXV.png|thumb|Noctis speaks to Cor outside Insomnia.]]
+The party learns that [[Fall of Insomnia|Niflheim has attacked the Crown City]], the Wall has fallen and the empire has stolen the Crystal. Noctis and his father are reported dead alongside Lunafreya. They turn back, but a blockade prevents them from reaching the city. They find a high vantage point to see it from a distance, and receive a call from Cor Leonis as to the state of affairs. Noctis learns that the news of the king being dead are true, and Cor helps him get started on his quest of retrieving the legendary weapons of Lucis's past rulers. After opening the road to [[Duscae]], Cor deems Noctis strong enough to continue on his mission without his help, and departs.
+
+Iris calls Noctis to tell him she's made it to the town of [[Lestallum]], and they decide to go see her. On the way there they have an option of visiting the [[Meteor of the Six]] said to have fallen to [[Eos (Final Fantasy XV)|Eos]] eons ago, but if they try they are repelled by imperial forces. In Lestallum, Iris shows Noctis around the town and he learns Lunafreya made it out of Insomnia. With little recourse and Noctis's duty to his country, the party resumes its trip to Altissia in hopes that she headed there, however, the ferry is still out of commission.
+
+[[File:Titan-Vision-FFXV.png|thumb|left|Noctis's vision of Titan.]]
+Noctis is tipped off on a [[royal tomb]] being hidden in the [[Greyshire Glacial Grotto|cavern]] behind a [[Waterfall (location)|waterfall]], and his party heads to retrieve it. Noctis begins to experience sudden headaches and bizarre visions as the Archaean [[Titan (Final Fantasy XV)|Titan]] is calling for him. The [[Disc of Cauthess]] area where Titan resides, said to be holding the meteorite, is locked down by the empire, but [[Ardyn Izunia]], the mysterious stranger they had met in Galdin Quay revealed to be the chancellor of Niflheim, opens the way for them. Noctis comes before the Astral as imperial forces storm in and try to destroy the god. Noctis has a vision of Lunafreya communing with Titan, and forms a covenant with him, gaining the ability to summon him. Surrounded by imperial forces, Ardyn helps Noctis's party escape the site. Though Ardyn has been helping them, Noctis does not trust him.
+
+Lunafreya is seeking to rouse the gods of Eos, known as the Six, who have been slumbering since the [[War of the Astrals]] and said to awaken only for the time of the prophecy. Noctis receives a message from her via Umbra, in which she lends her support to his cause. Duscae is shrouded in a storm until Noctis passes [[Ramuh (Final Fantasy XV)|Ramuh's]] trial and gains the means to summon him. Noctis is guided by Gentiana who communicates with him telepathically, directing him what he needs to do to gain the gods' favor.
+
+[[File:FFXV TGS ravus with patry.jpg|thumb|Ravus confronts Noctis's party.]]
+Upon acquiring Ramuh's power, Noctis and his retinue infiltrate the nearby imperial base to recover the missing Regalia. After fighting through the [[Magitek armor (Final Fantasy XV)|magitek armors]] and [[Magitek infantry|soldiers]] at the base, Noctis is confronted by Ravus Nox Fleuret before he can reach the car. Ravus is Lunafreya's brother and now the high commander of Niflheim's army. Ravus berates Noctis for his obliviousness on the consequences of forming covenants with gods and is about to battle them, but Ardyn intervenes, withdraws the army and reminds Ravus he needs to head off to Altissia. With the Regalia recovered, the party returns to Lestallum.
+
+When they meet Iris back at the hotel, she reveals that the imperial general [[Caligo Ulldor]] attacked Lestallum and the [[House Amicitia|Amicitia family]] chamberlain, [[Jared Hester]], was killed defending Iris. His grandson [[Talcott Hester|Talcott]] is traumatized and Noctis expresses his sorrow for his loss. During the night, Noctis [[Omen (Final Fantasy XV)|dreams]] of following Lunafreya's dog [[Pryna]] while encountering various terrors.
+
+Noctis and the party escort Iris to [[Cape Caem]], but on their way discover the empire has set up yet another "flying fortress" near [[Old Lestallum]]. With Ignis's help, Noctis incapacitates General Caligo, but he escapes before they can exact revenge for the killing of Jared. As he leaves the base, Noctis is ambushed by Commodore [[Aranea Highwind]], whom Caligo spoke of in distrust. After a brief fight she leaves. Noctis continues to Cape Caem, where the Hammerhead crew is busy working on Regis's old ship, which will grant them passage to Altissia. They stay at Iris and Talcott's new house by the sea, where Talcott reveals that there is still mythril ore that can be used to repair the ship at [[Vesperpool]].
+
+[[File:Caem-Group-Picture-FFXV.png|thumb|left|The party and Iris at Caem.]]
+Gladiolus goes off on his own to contemplate the recent events. Noctis, Ignis, and Prompto slip into the empire-held area with Ardyn's help although they cannot fathom why an imperial official is helping them. They venture to find the ore under the supervision of Aranea whom Ardyn "hired" to escort Noctis. She guides them through a [[Steyliff Grove|submerged temple]], an anomaly created by ancient magic of [[Solheim]]. Through her, Noctis learns that the bulk of the empire's military force is powered by daemons, creatures that lurk in the depths of caves and emerge during the darkest hours of the day. Aranea is concerned over the direction the regime is taking. After securing the mythril, Aranea wishes Noctis well, advising him to choose his own path in life. Noctis and his party return to Lestallum where Noctis teams up with a [[Hunters (Final Fantasy XV)|hunter]] to rid the local [[EXINERIS Industries|power plant]] of daemons who turns out to be Gladiolus.
+
+Noctis and his friends make their way to Altissia on King Regis's [[royal vessel]]. During the trip they discuss the news of Ravus being the high commander of the imperial army, and him holding [[Sword of the Father|King Regis's sword]], although he cannot wield it as he is not of the Lucian line. Noctis feels ambivalent, but believes he'll be able to reclaim the sword from Ravus.
+
+While in Altissia, Noctis negotiates with the First Secretary [[Camelia Claustra]] to let Lunafreya rouse [[Leviathan (Final Fantasy XV)|Leviathan]], but doesn't get to see the latter, as she is being held for her safety. Lunafreya gives a speech to the masses about her desire to wake the Hydraean and to help banish the growing darkness. The world is plagued by a phenomenon known as the [[Starscourge]] that lengthens the nights, but the line of the Oracles—of which she is the latest—has the power to fight this darkness. Noctis undertakes Leviathan's trial, who goes berserk despite Lunafreya's efforts to calm her. Lunafreya calls upon the spirits of the past kings of Lucis to aid Noctis who battles Leviathan with the power of kings until Titan interferes and Leviathan is calmed. Amid Noctis's battle, Ardyn stabs Lunafreya and Noctis is powerless to help her.
+
+[[File:Luna-Noctis-Dream-FFXV.png|thumb|Noctis reaches out to Luna's spirit.]]
+After the battle a weakened Noctis is left lying on the ruined [[Altar of the Tidemother]]. A mortally wounded Lunafreya crawls to Noctis and heals him. The two converse in a dreamlike realm, the prince sad he could not save her. She passes the Ring of the Lucii to him, which she had been holding for him as per King Regis's final request. While Noctis is unconscious, he unknowingly is threatened by Ardyn, but saved by Ignis who lends power from the Ring of the Lucii to fend him off at the cost of his eyesight. Noctis awakens days later to learn of Lunafreya's passing from a now blind Ignis. Ignis asks Noctis to reconsider their journey, but Noctis refuses to give up, saying that all the sacrifices made for him would be meaningless if he did not continue.
+
+Noctis and his team carry on to [[Gralea]], the capital of Niflheim, to regain the Crystal the empire has stolen. They travel through the continent on [[Magna Fortia|train]], and though now in possession of the ring of his ancestors, Noctis refuses to wield its power. This angers Gladiolus, who sees Noctis's struggle to deal with his grief as a sign he is not ready for the task upon them. After retrieving the Katana of the Warrior, another of the royal arms, Ignis speaks up to heal the rift that has formed between the companions, and Noctis remains determined to push on.
+
+Their train is attacked by imperial forces, and amid the chaos Noctis is tricked by Ardyn to push Prompto off the moving train and Noctis realizes Ardyn wields supernatural powers. They are unable to go back to him and assume Prompto has been captured by the empire. They stop at Tenebrae and find the Fenestala Manor aflame as revenge by the empire; Ravus is reported to have been executed for high treason for the Leviathan incident, and thus the bloodline of the Oracles has ended. Without Lunafreya holding back the darkness, sunlight has almost vanished from the world with ever more daemons spawning. As they speculate that the Crystal has the power to repel the daemons, Noctis is even more desperate to seek it out. Aranea has quit the imperial army and is now helping the victims of the empire's attacks with [[Biggs and Wedge (Final Fantasy XV)|Biggs and Wedge]]. As the passage to imperial territory is dangerous, Noctis, Gladiolus and Ignis head to Gralea without the other passengers with Biggs and Wedge operating the train. While in Tenebrae, Noctis learns Ravus had always been on Lunafreya's side even though he had been affiliated with the empire.
+
+[[File:Noctis-and-Shiva-FFXV.png|thumb|left|Noctis forges a covenant with Shiva.]]
+As they come into the territories outside the imperial capital, they find [[Ghorovas Rift]] covered in a blizzard. As daemons spawn to halt the train at [[Shiva (Final Fantasy XV)|Shiva's]] corpse, Noctis meets Ardyn again and demands to know what his gambit is, but the latter is frozen by Gentiana who reveals her true identity as the Astral goddess Shiva. Shiva tells Noctis the history of the Astrals and asks Noctis to set her love, god of fire [[Ifrit (Final Fantasy XV)|Ifrit]], free from being enthralled to the darkness. Shiva makes Lunafreya's love for Noctis known to him and Noctis forges a covenant with her, obtaining the [[Trident of the Oracle]] as a royal arm. Noctis vows that he and Luna will be together again, regretting he never had the chance to tell her how he feels. He learns Ardyn is immortal and all their attacks on him are ineffective. Pondering what Ardyn's true nature is, the party continues onward to Gralea with the knowledge that Prompto is held captive there along with the Crystal.
+
+Noctis, Ignis and Gladiolus enter Gralea by train but fall under attack and have to abandon the train with the belief that Biggs and Wedge can look after themselves. Noctis drives the Regalia into the city, but the car is destroyed and he becomes separated from his friends. He continues alone but finds he cannot summon his weapons to his side as his powers have been sealed. With Ardyn's taunting voice in his ears, Noctis decides to wield the Ring of the Lucii and blasts the daemons and magitek troops that spawn around him with magic. The imperial city is devoid of human life and swarming with daemons. The magitek troopers at the lab the Crystal is said to be kept in have gone rogue. Ardyn's disembodied voice keeps tormenting him as Noctis discovers the empire has been manufacturing daemons, that magitek troopers are made out of imperial experiments with clones, and that a "vanishing disease" has ravaged the imperial lands that has its citizens turn into daemons the empire cannot control. Noctis finds Ravus dead and recovers his father's sword.
+
+He is reunited with Gladiolus, Ignis and Prompto. They discover Prompto was born at [[First Magitek Production Facility|an imperial lab]] to be made an MT, and now doubts his friends would still accept him. Noctis doesn't skip a beat to welcome him back. As depicted in ''[[Final Fantasy XV: Episode Prompto|Episode Prompto]]'', Noctis apologizes for having fallen into Ardyn's trap that led him to push Prompto off the train. Prompto forgives him, saying he also fell to Ardyn's manipulations. Noctis says that it doesn't matter where people are from, and that he would like to "break down borders" to remove all distinction between Niflheim or Lucian citizens. Prompto compliments that Noctis is speaking like a king.
+
+[[File:Crystal-Noctis-Ardyn-FFXV.png|thumb|Noctis and the Crystal.]]
+Prompto can open the way into [[Iedolas Aldercapt|Emperor Aldercapt]]'s throne room. The emperor's robes are left on the seat as he has also vanished and become a daemon. After turning off [[Wallbreaker Wave|the device that seals his powers]], Noctis and his friends are ambushed by a daemonic Ravus who begs them to kill him. As more daemons keep appearing Noctis's friends urge him to go to the Crystal alone to use it to banish the daemons.
+
+Noctis reluctantly leaves his friends behind and makes it to the Crystal but is absorbed inside it while being taunted by Ardyn. Ardyn reveals his true name as Ardyn Lucis Caelum, Noctis's distant ancestor who worked healing the world from daemons two millennia ago. He had become corrupted by the plague he had absorbed and was rejected by the Crystal for his affinity with the darkness. The Crystal holds inside it the planet's soul and in this otherworldly dimension Noctis meets [[Bahamut (Final Fantasy XV)|Bahamut]] and is made aware of his destiny as the [[True King]]. The True King is born once all of the Crystal's power is passed onto the Ring of the Lucii and Noctis can banish the darkness from the world at the cost of his own life.
+
+Noctis spends ten years in the Crystal accumulating its magic and strengthening himself to prepare for both his battle against Ardyn and his sacrifice. He awakens in the [[Angelgard]] island in a world of [[long night|perpetual darkness]]. He meets Umbra who has a note for him saying that his friends will meet him in Hammerhead. As depicted in ''[[Final Fantasy XV: Comrades]]'', Noctis is greeted by [[Libertus Ostium]] and other exhausted members of the [[Kingsglaive (group)|Kingsglaive]]. Gentiana tells Noctis that he must go to Insomnia to end Ardyn. She tells him they will meet again, and he takes his father's boat to Galdin Quay, which is now abandoned and overrun by daemons.
+
+Noctis runs into Talcott, who drives him to Hammerhead and tells what happened in the last ten years. He meets with his old companions and they briefly catch up. They dress in their formal attire and set up camp for one final meal together during which Noctis struggles expressing all the emotions he is holding inside.
+
+[[File:FFXVRE Chosen king and glaives.jpg|thumb|left|Noctis rallies the Glaives by declaring the end of the long night to be nigh.]]
+They head to the ruins of Insomnia where countless daemons and automaton infantry await them. They find the [[Kingsglaive Base Camp]] underground and Noctis reunites with Cor Leonis and the remaining Glaives he now leads. After renewing the Glaives' hope for the future, Noctis and his retinue continue to the gates of the Citadel. Ardyn appears and sets the city ablaze with a meteorite shower and cloaks the Citadel in a daemonic Wall. Outside the gates to the Citadel the party defeats [[Cerberus (Final Fantasy XV creature)|Cerberus]], Ardyn's "guard dog", but cannot get past the Wall.
+
+As daemon hordes approach, Lunafreya's spirit summons the Astrals to break the Wall around the building. She implores Noctis to fulfill the prophecy, but disappears as Noctis touches her. Ardyn sends a daemonic Ifrit upon them, but Noctis defeats him with the other Astrals' help, fulfilling his promise to Shiva. As they ascend the tower, three Lucii in the thrall of the scourge attack them. Noctis's friends each take them down, and the [[Somnus Lucis Caelum|Mystic]], the Founder King of Lucis and Ardyn's brother, asks Noctis to free his brother from the darkness. Before heading to the throne room to fight Ardyn he asks to see the [[photos]] Prompto had taken of their journey, choosing one to take with him.
+
+Noctis finds Ardyn sitting on the throne below the Crystal and challenges him. Noctis kills Ardyn, who promises to wait him "[[afterlife|on the other side]]". Noctis asks his friends to walk tall in a manner King Regis sent them on their journey ten years ago. Gladiolus, Ignis and Prompto stay outside to fend off the daemons as Noctis ascends the throne. He calls the spirits of the kings of Lucis that attack him one by one, plunging the royal arms into Noctis's body until his soul is absorbed by the Ring of Lucii. Emerging in the realm between life and death,<ref name=profile/> Lunafreya's spirit reveals Ardyn's true form while the royal arms emerge from Noctis's body to be taken up by the Lucii to attack Ardyn. Noctis delivers a final blow, finally putting Ardyn's soul to rest. The prophecy is fulfilled and light is restored to Eos.
+
+[[File:FFXV Luna Noctis Throne.png|thumb|Noctis and Lunafreya resting on the Lucian throne.]]
+Noctis sits on a throne dedicated to the 114th king of Lucis with Lunafreya in her [[wedding]] dress and the photo he took from Prompto. He rests his head, prepared to sleep.
+{{clear}}
+
+===Alternate endings===
+====''[[Final Fantasy XV: Episode Ignis]]''====
+In an alternate reality where Ignis chooses to join Ardyn instead of fighting him in Altissia, Noctis heads to Gralea alongside Gladiolus, Prompto, and Ravus, who leads them to [[Zegnautus Keep]]. Noctis, Gladiolus, and Prompto find Ignis outside of the Crystal chamber, dying after using the Ring of the Lucii to defeat Ardyn to save Noctis. Noctis is horrified by Ignis's sacrifice, and questions how he can be a savior if he can't even protect those he loves. He resolves to not lose anyone else, and takes the ring from Ignis, using the power of the Crystal to save him. He enters the Crystal, sleeping inside for ten years.
+
+[[File:King_Noctis.jpg|thumb|left|Noctis, as the King of Lucis]]
+After waking up Noctis is reunited with Gladiolus, Prompto and Ignis, who has retained his vision. The four friends head to Insomnia where they meet Ravus outside the Citadel, who bequeaths the Sword of the Father to Noctis, and joins them as they confront Ardyn. They seem to succeed in killing Ardyn, as dawn arrives. Noctis survives, and becomes the king of Lucis. ''Final Fantasy XV: Official Works'' posits that Ignis devised a "secret plan" to destroy the immortal Ardyn and drive out the darkness, and managed to surpass even the intent of the gods to bring forth another future.<ref name=tumblr>{{Refwebsite| page url = https://higharollakockamamie.tumblr.com/post/172337222867/another-possibility-the-extra-chapter-shown-in| page name = Another Possibility: the Extra Chapter shown in ''Episode Ignis''| site url = https://higharollakockamamie.tumblr.com| site name = higharollakockamamie @tumblr|access time=20180725193017}}</ref>
+{{clear}}
+====''[[Final Fantasy XV -The Dawn of the Future-]]''====
+[[File:Regis-and-Older-Noctis-FFXV.png|thumb|Render of older Noctis juxtaposed with Regis.]]
+After entering the Crystal in Zegnautus Keep, Noctis sleeps in its heart for ten years while receiving various memories from the Crystal. He learns of Ardyn's plight as the rejected healer from 2,000 years ago, of Lunafreya's journey to help him and how acting as his go-between with the Astrals was slowly killing her, explaining Ravus's hostility toward him. He learns how Ignis had protected him when he was unconscious following Leviathan's Trial, and how Regis had learned of his fate as the True King yet striven to give him a happy childhood. Noctis becomes filled with regret on how he didn't know to appreciate the sacrifices everyone had made for him, and though he doesn't want to die, he wants to honor the way everyone had supported him, especially Lunafreya's sacrifice. He is visited by the spirit of his father who encourages him to always push onward, accept the consequences of his actions, and not look back.
+
+Unknown to Noctis, Bahamut is going to discard his servitude, as Ardyn by now has amassed power too great for the Ring of the Lucii to purge. When Noctis awakens he meets Umbra with a notebook from Lunafreya. Noctis learns she is still alive and meets her friend [[Solara Aldercapt Antiquum|Sol]] who takes him to Hammerhead. Noctis learns from Sol that Lunafreya was revived by Bahamut and sent to Insomnia to kill Ardyn. This shocks Noctis, as this was supposed to be his mission, and he is the one with the ring. Lunafreya has been given the power to absorb the darkness, the same power that had corrupted Ardyn, and she is on her way to fully transform into a mindless daemon. Rather than wait for his friends at Hammerhead, Noctis heads to the Citadel alone to save his beloved despite believing the gods won't help him do this.
+
+On his way Noctis encounters the Mystic as a spirit of the [[Old Wall]], now enslaved by Ardyn. Noctis defeats the king of yore and cracks his face plate, realizing the man underneath—the Founder King and Ardyn's brother—looks a lot like him. Released from the thrall of the dark, the Mystic asks Noctis to save Ardyn. When Noctis arrives at the throne room, he finds Ardyn with a daemonic Lunafreya who attacks Noctis. Noctis begs for her to recognize him and blames Ardyn for her transformation, but he explains she had absorbed the Scourge from Ifrit on her own volition, which fully turned her.
+
+Bahamut arrives, saying the king's role has ended as humans' continuing foolish actions mean the world's fate is destruction. Bahamut commands Lunafreya to release her power, and it destroys the throne room. Bahamut raises the Citadel into the air to take the Crystal and the throne out of reach, but Ardyn warps up to it, knowing Noctis will follow to save Lunafreya.
+
+Lunafreya floats above the Citadel, singing to summon [[Teraflare]] to destroy the world. Noctis tries to warp up to the flying building, but an army of smaller Bahamuts stops him. His retinue arrives to aid him along with Sol, Aranea, Biggs and Wedge in their airship, telling everyone to get on. A Bahamut attacks the airship and it crashlands on the Citadel plaza. Sol, Aranea, Biggs and Wedge stay to repair the airship, while Noctis, Gladiolus, Ignis and Prompto continue on.
+
+They run into Ardyn who explains Lunafreya's plan was to take his darkness so Bahamut will use Teraflare, which will be blocked by the other Astrals, exhausting Bahamut and sending him to a long rest. Since Bahamut exists both in the physical realm and in [[the beyond]], he can't be killed, similar to Ardyn's own immortality. Ardyn asks for the Ring of the Lucii, and Noctis realizes his plan is to enter the beyond with the power of the kings of yore and destroy Bahamut there.
+
+Noctis gives Ardyn the "battle of kings" he so desires, defeating him with the Sword of the Father, but to Ardyn's shock refrains from killing him. Noctis explains he would kill Ardyn if it saved the world, but now that Bahamut is going to kill everyone, there is no longer any point, and he is done with needless sacrifices. He asks if Ardyn defeating Bahamut in the beyond would save humanity. Ardyn thinks it might, but doesn't care about being a savior: he only wants vengeance. Even if Noctis cannot forgive Ardyn, he views his nemesis a part of the world that he swore to protect, and recalls how the Mystic had asked him to save him.
+
+Ardyn admits Noctis is worthy of the title of True King, much to his irritation. Noctis summons the past kings from the Ring of the Lucii and beseeches they permit Ardyn to use their power to save the world. The Mystic assents. On the roof of the Citadel Bahamut readies to annihilate humanity, but the other Astrals protect Eos and block his Teraflare. Drained of her darkness, Lunafreya falls and Noctis catches her.
+
+On the otherworldly sylleblossom field where the dying Lunafreya previously passed the Ring of the Lucii onto Noctis, the two meet again as children. She had lived only to fulfill her calling as Oracle, but after meeting Sol, had realized she wants more out of life. They transform into adults, and though Lunafreya thinks this may be the last time they are together, she declares her wish to live with him. As she begins to sink into the abyss Noctis calls out to her to stay with him. This time she can hear him, and feels something touch her hand as everything fades. Noctis awakens with Lunafreya in his arms. Noctis entrusts the still-alive Lunafreya to his retinue and warps off to fight Bahamut while Ardyn sits on the throne and summons the kings of yore, the Mystic dealing the killing blow.
+
+Even if Bahamut consumed the darkness to power his Teraflare, the sun doesn't rise. Either Teraflare was incomplete, or the darkness is simply too vast. Bahamut scolds Noctis for opposing a supreme god as a weak human, but Noctis thinks that even if Bahamut created the Ring of the Lucii, its power derives from the generations of kings. The other Astrals help Noctis defeat Bahamut while Ardyn and the Lucii destroy Bahamut in the beyond even if this will destroy all gods as well as the Crystal. The darkness begins to wane, Noctis strikes Bahamut down, and the Citadel begins to fall from the sky. Titan catches it and the Crystal sucks in the remaining darkness before shattering. As a farewell gift, Gentiana resuscitates Lunafreya as dawn breaks.
+
+Noctis and Lunafreya wed in Altissia, with Regis's spirit wishing them eternal happiness.
+{{endspoiler}}
+
+==Gameplay==
+{{main|Noctis (Final Fantasy XV party member)|t1=Noctis Lucis Caelum gameplay}}
+[[File:Noctis Cross shuriken.jpg|thumb|Noctis in battle.]]
+Noctis is the main player character in ''Final Fantasy XV''. (He is initially the sole player character until later patches enabled players to play as [[Gladiolus (Final Fantasy XV party member)|Gladiolus]], [[Ignis (Final Fantasy XV party member)|Ignis]], and [[Prompto (Final Fantasy XV party member)|Prompto]] as well.) He can use all [[Final Fantasy XV weapons|weapon]] types, and the [[Ascension (Final Fantasy XV)|Combat Ascension Spheres]] exclusively cater on his development. His build focuses on all forms of offense, but his aspects of defense, vitality, and spirit are lacking.
+
+While on offense Noctis chains attacks automatically by holding the attack button. Manually inputting presses, and depending on the direction of the analog held and the weapon in hand, allows him to perform different combos. While on defense he can dodge-roll (tapping the defense button), phase through attacks (by holding the defense button), and block certain attacks (by correctly timing the defense when the button prompt appears), allowing him to counter with a parry and follow through with an offensive opening or a [[link-strike]] with team mates. Noctis can [[Warp (Final Fantasy XV)|warp]] by throwing his weapon, a skill that can be used for both offense and defense. He can summon Astrals after forging a covenant with them in the story, and use magic via [[Elemancy]] and the [[Ring of the Lucii]].
+
+His leisure skill is [[Fishing (Final Fantasy XV)|fishing]]. [[Recipe (Final Fantasy XV)|Food-wise]], Noctis is the fussiest party member. He likes hot sandwiches, sautéed freshwater fish, donburi bowls, and decked-out fruit-seasoned cakes.
+
+==Musical themes==
+It has been said that "[[Stand By Me]]" is Noctis's way of expressing the feelings of gratitude in his heart he is unable to in words.<ref>{{Refwebsite| page url = http://www.novacrystallis.com/2016/04/final-fantasy-xv-staff-talk-kingsglaive-music-collectors-edition/| page name = Final Fantasy XV staff talk Kingsglaive, music, Collector’s Edition and more | site url = http://www.novacrystallis.com| site name = Novacrystallis|access time=20180725193016}}</ref>
+
+Noctis's theme has a soft, slow and emotional piece. During the [[Final Fantasy XV Live at Abbey Road Studios]] concert composer [[Yoko Shimomura]] described her reason for writing the piece being for people to feel the emotional resonance.<ref>{{Refwebsite| page url = https://squareportal.net/2016/09/07/listen-to-noctis-from-final-fantasy-xv-soundtrack/| page name = Listen to “NOCTIS” from Final Fantasy XV Soundtrack| site url = https://squareportal.net| site name = Square Portal| access time = 12:17, December 12, 2018 (UTC)}}</ref>
+
+{{Quote|There might be a number of people who are be a bit surprised of what I have chosen for Noctis' theme because it’s very soft and melodious piece. All I am really trying to show through this piece is the weight of destiny on character Noctis’ shoulders, his internal monologue, his real deep feelings about the situation he is in. So, I purposely went with something that wasn’t too hard or high temper or upbeat – I really wanted you to feel the emotional resonance in the song.|Yoko Shimomura}}
+
+==Other appearances==
+{{Main|/Other appearances|t1=Noctis Lucis Caelum other appearances}}
+[[File:FFXIV Noctis in game.png|150px|thumb|Noctis in ''Final Fantasy XIV''.]]
+Noctis has made appearances in the following ''Final Fantasy XV'' canon works:
+*''[[/Other appearances#Omen|Omen]]'' as the main character.
+*''[[/Other appearances#A King's Tale: Final Fantasy XV|A King's Tale: Final Fantasy XV]]'' as a character.
+*''[[/Other appearances#Final Fantasy XV: A New Empire|Final Fantasy XV: A New Empire]]'' as a guide to the player and the player's default leader.
+*''[[/Other appearances#King's Knight -Wrath of the Dark Dragon-|King's Knight -Wrath of the Dark Dragon-]]'' as a party member for a collaboration event.
+
+He has also appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+*''[[/Other appearances#Final Fantasy XIV|Final Fantasy XIV]]'' as a guest character and cosmetic rewards.
+*''[[Noctis Lucis Caelum (Dissidia NT)|Dissidia Final Fantasy NT]]'' as a playable character.
+*''[[Noctis Lucis Caelum (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+*''[[/Other appearances#Theatrhythm Final Fantasy All-Star Carnival|Theatrhythm Final Fantasy All-Star Carnival]]'' as a playable character.
+*''[[/Other appearances#Final Fantasy Legends II|Final Fantasy Dimensions II]]'' as a summon and costume.
+*''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable memoria.
+*''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]''.
+*''[[Noctis Lucis Caelum (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+*''[[Noctis Lucis Caelum (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+*''[[Noctis Lucis Caelum (War of the Visions)|War of the Visions: Final Fantasy Brave Exvius]]''<!--needs info-->.
+*''[[/Other appearances#Mobius Final Fantasy|Mobius Final Fantasy]]''.
+*''[[Noctis (World of Final Fantasy)|World of Final Fantasy Maxima]]'' as a non-player character and Champion Jewel.
+*''[[/Other appearances#Triple Triad|Triple Triad]]'' as a card in the ''[[Final Fantasy Portal App]]''.
+
+===Non-''Final Fantasy'' guest appearances===
+{{main|/Other appearances#Non-Final Fantasy guest appearances|t1=Noctis Lucis Caelum non-''Final Fantasy'' guest appearances}}
+Noctis has made key guest appearances in the following non-''Final Fantasy'' games:
+*[[/Other appearances#Itadaki Street|''Itadaki Street'' series]] as playable character.
+*''[[/Other appearances#Puzzle & Dragons|Puzzle & Dragons]]'' as a playable character.
+*''[[/Other appearances#Monster Strike|Monster Strike]]'' as a playable character.
+*''[[/Other appearances#Terra Battle|Terra Battle]]'' as a playable character.
+*''[[/Other appearances#The Alchemist Code|The Alchemist Code]]'' as a playable character.
+*''[[/Other appearances#Lord of Vermilion IV|Lord of Vermilion IV]]'' as a card in a collaboration event for ''Final Fantasy XV''.
+*''[[/Other appearances#Tekken 7|Tekken 7]]'' as a playable character DLC.
+*''[[/Other appearances#Minecraft|Minecraft]]'' as a skin.
+*''[[/Other appearances#Yo-kai Watch|Yo-kai Watch: Wibble Wobble]]'' as a playable character.
+
+==Other media==
+Noctis appears on a sticker set for the [[LINE]] communications app. The sticker set he appears in is titled "ファイナルファンタジーXV".<ref>https://store.line.me/stickershop/product/7501/ja</ref>
+
+<gallery>
+LINE FFXV Sticker4.png|
+LINE FFXV Sticker8.png|
+</gallery>
+
+Noctis appears in the original ''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'' as a set of two [[Dissidia Final Fantasy (2008) player icons|player icons]] to represent then-titled ''Final Fantasy Versus XIII'', along with [[Lightning (Final Fantasy XIII)|Lightning]] for ''[[Final Fantasy XIII]]'' and [[Ace (Type-0)|Ace]] for ''[[Final Fantasy Type-0]]'', though these icons can only be obtained through [[Password (Dissidia)|passwords]].
+
+==Behind the scenes==
+===Design===
+[[File:Noctis-rendered-FFXV.png|right|250px|Noctis rendered in Luminous Studio.]]
+As with other characters in ''Final Fantasy XV'', [[List of fashion industry collaborations|Noctis's clothing is designed by Hiromu Takahara]], creative director of the Japanese designer clothing label Roen. The suit is worn by Noctis during a deleted ''[[Final Fantasy Versus XIII]]'' scene in which he talks to [[Stella Nox Fleuret]], and it was the first of Takahara's designs to appear in the game.
+
+Noctis's initial clothing design by Character Designer [[Tetsuya Nomura]] was a placeholder. Test gameplay footage screened privately at TGS 2009 unveiled Noctis's finalized design, which featured a slightly shorter haircut and clothes designed by Takahara, including a ring worn on his right hand and a motorcycle glove on his left. The ring was stated to play a role in the game. Noctis's Roen-designed outfit was unveiled to the public at Jump Festa 2010 and was seen again in a ''[[Famitsu]]'' magazine in June 2010.
+
+A physical set of Noctis's clothes was kept in the Square Enix office so the CG team could see them to create the same image for the game. Tetsuya Nomura has commented that this is easier, because previously when he created the characters, the CG team would ask him questions of the clothes' material and other detailed questions that were difficult to define precisely.<ref name="finaland">{{Refwebsite| page url = https://www.finaland.com/?rub=site&page=news&id=4865| page name = JE 2013 : Interview with Tetsuya Nomura (ENG)| site url = https://www.finaland.com| site name = Finaland| access time = 12:17, December 12, 2018 (UTC)}}</ref>
+<gallery>
+Noct Roen.jpg|Noctis's finalized clothing, as designed by Hiromu Takahara.
+Noctis boots.jpg|Noctis's finalized boots, as designed by Hiromu Takahara.
+</gallery>
+The contract Square Enix made with Roen when they first started making ''Final Fantasy Versus XIII'' contained a number of designs for the game. The designs contracted during that point are still used for ''Final Fantasy XV''. There are no additional designs, but the ones from before are still in the game.<ref>{{Refwebsite| page url = http://www.novacrystallis.com/2015/08/gc-2015-final-fantasy-xv-interview-with-hajime-tabata/| GC 2015: Final Fantasy XV interview with Hajime Tabata | site url = http://www.novacrystallis.com| site name = Nova Crystallis|access time=20180725193006}}</ref> Director Hajime Tabata has explained that black has historically been treated as a special color in Lucis. Thus the attire of the royal family, and those in occupations closely tied to it, wear black.<ref>{{Refwebsite| page url = https://kotaku.com/the-reason-why-final-fantasy-xvs-main-characters-wear-b-1738223960| page name = The Reason Why Final Fantasy XV's Main Characters Wear Black| site url = https://kotaku.com| site name = Kotaku| access time = 12:17, December 12, 2018 (UTC)}}</ref>
+
+[[File:Noctis_Isamu_Kamikokuryo_Sketches.jpg|thumb|left|Noctis sketch by [[Isamu Kamikokuryo]].]]
+With the change of name and platform and Hajime Tabata taking the reins, the game was no longer going to be "the exact same game," as some things had to be re-evaluated to fit the change of circumstances. Tabata has assured the game did not lose its core, and he had sat down with Tetsuya Nomura—the game's original director and main character designer—about the direction of the title to ensure that characters, like Noctis, would be maintained in the best possible way.<ref>{{Refwebsite| page url = https://gematsu.com/2014/09/final-fantasy-xv-director-talks-development-open-world-combat-demo| page name = Final Fantasy XV director talks development, open world, combat, demo, and more| site url = https://gematsu.com| site name = Gematsu| access time = 12:17, December 12, 2018 (UTC)}}</ref> The art staff wanted to make it easy to distinguish the characters even though they all wear black, and wanted to make them come alive both in technical and artistic ways, and ways to make the characters relatable were discussed endlessly. Developing Noctis was a challenge, and Tabata struggled to like him at first for how "symbolic" or artificial he seemed. To get into the character Tabata tried to imagine how Noctis was as a child. The discussion on how to make Noctis "come alive" went on until late development.<ref>{{Refwebsite| page url = http://femto-jiokichi.tumblr.com/post/142546480678/uncovered-4gamer-interview-translation-interview| page name = Uncovered: 4Gamer interview translation (interview with Tabata-san and Nozue-san) | site url = http://femto-jiokichi.tumblr.com| site name = A Bit Of Laughter|access time=20180725193016}}</ref>
+
+Noctis was "redesigned" from the ''Final Fantasy Versus XIII'' design by [[Yusuke Naora]], one of the art directors. His skin texture was enhanced to make him appear more realistic by adding subtle blotches and birth marks. "Screen space" technology was used to depict the skin texture and subcutaneous light penetration. Because of improvements to shadow expression, Noctis's hair ended up casting dark shadows on his face. Naora adjusted the effects to make it harder for shadows to form over his hair. As Noctis and his party had already been revealed, Naora avoided making major changes to their looks, and thus their less-than-realistic hairstyles were preserved.<ref>{{Refwebsite| page url = http://www.ign.com/articles/2016/08/06/8-gorgeous-photos-of-final-fantasy-xvas-characters| page name = 8 Gorgeous Photos of Final Fantasy XV’s Characters | site url = http://www.ign.com| site name = IGN| access time=20180725193606}}</ref> Noctis's character model is built of about 100,000 triangles, 6–8 individual materials and about 600 joints.<ref>{{Refwebsite| page url = http://www.dualshockers.com/2016/08/26/final-fantasy-xv-gets-spectacular-videos-and-screenshots-showing-advanced-graphics-and-technology/| page name = Final Fantasy XV Gets Spectacular Videos and Screenshots Showing Advanced Graphics and Technology| site url = http://www.dualshockers.com| site name = Dualshockers|access time=20180725193754}}</ref>
+
+As localization director and lead writer Dan Inoue worked with Noctis's Japanese voice actor, he became inspired by Nirvana lead singer [[wikipedia:Kurt Cobain|Kurt Cobain]]. Inoue wanted to avoid creating "a generic emo role-playing game lead," but knew Noctis would struggle with his role in the world. Inoue wanted Noctis to act "like a rockstar who spurns the spotlight."<ref>{{Refwebsite| page url = http://www.polygon.com/2017/3/1/14782394/final-fantasy-15-noctis-kurt-cobain| page name = Final Fantasy 15's lead character was inspired by Kurt Cobain| site url = http://www.polygon.com| site name = Polygon|access time=20180725193754}}</ref>
+
+Noctis has three designs for ''Final Fantasy XV'': he appears as an 8-year-old, a 20-year-old and a 30-year-old.
+
+{{Quote|We didn't just add typical aging details, but also referenced images of war veterans and actors to find the 'sublime' characteristics, from single wrinkles to hair tips, that could express the magnitude of Noctis's fate and life experiences. Also, in keeping with the father-and-son theme, we made it so you can see Regis in Noct's face, with features such as the beard bearing his essence.|Yusuke Naora, art director, ''Final Fantasy XV Collector's Edition Guidebook''}}
+
+===Deleted/cancelled content===
+[[File:Noctis and Stella.jpg|thumb|Noctis and Stella.]]
+In old Tokyo Game Show footage depicting the envisioned opening for ''Final Fantasy Versus XIII'', Noctis conversed with Stella about the two of them seeing the "light". Stella explained the legend of Tenebrae, which stated that when a person is able to see the light they receive the powers of the dead from the Goddess [[Etro]]. The footage was shown to give people a brief idea of what the characters' personalities are going to be like. This scene did not make it to ''Final Fantasy XV'' with the removing of Stella and the change of opening events.
+
+[[File:Noctis-Versus-XIII-Outfit.png|thumb|Render of Noctis in his original outfit.]]
+A model of Noctis with his original attire used for the [[Final Fantasy Versus XIII E3 2006 trailer|''Final Fantasy Versus XIII'' reveal trailers]] is found [[Final Fantasy XV dummied content|dummied]] on the game disc.
+
+Noctis was supposed to have his own [[Final Fantasy XV downloadable content|DLC episode]] in 2019 along with Lunafreya and Aranea. Its working title was "Final Strike".<ref>{{Refwebsite| page url = https://www.dualshockers.com/final-fantasy-xv-dlc-new-finale-announcements/| page name = Final Fantasy XV – Four New DLC Announced Bringing New Ending; Mod Tools and Much More Revealed| site url = https://www.dualshockers.com| site name = DualShockers| access time = 20180725201407}}</ref> The DLC was cancelled and the director of ''Final Fantasy XV'', Hajime Tabata, left Square Enix.
+
+===Curiosities===
+Noctis is officially 20 years old. The ''Final Fantasy XV Scenario Ultimania'' lists his birth year as M.E. 736,<ref name="lifestream">{{Refwebsite| page url = https://thelifestream.net/final-fantasy-xv-lore/final-fantasy-xv-ultimania-scenario-side-translations/| page name = Final Fantasy XV Ultimania Scenario Side translations| site url = https://thelifestream.net| site name = The Lifestream|access time=20180725193222}}</ref> however for him to be 20 in the game it'd actually need to be 735. This mistake further distorts the events given in the ''Ultimania's'' character profiles for personal timelines, as a six-year-old Ignis could not have become a retainer to a three-year-old Noctis, due to being only one-and-a-half-years older. Audi is also said to have teamed up with the Royal Art Society of Lucis to create [[Audi R8 Star of Lucis]] car to celebrate the 20th [[birthday]] of Prince Noctis.<ref>{{Refwebsite| page url = http://www.animenewsnetwork.com/interest/2016-11-11/audi-offers-kingsglaive-final-fantasy-xv-film-car-for-usd470000/.108734| page name = Audi Offers Kingsglaive: Final Fantasy XV Film Car for US$470,000| site url = http://www.animenewsnetwork.com| site name = Anime News Network|access time=20180725193932}}</ref>
+
+[[File:The party eating brotherhood.jpg|thumb|left|The party eating in ''Brotherhood''.]]
+Noctis has always disliked vegetables; in the first episode of ''Brotherhood Final Fantasy XV'', he removes the vegetables from his burger and puts them on Ignis's tray. In ''Final Fantasy XV'', he shows disgust in several sidequests where vegetables are involved.
+
+Noctis's exasperated expression at Takka requesting beans was somewhat adlibbed. Noctis's voice actor [[Ray Chase]] has explained it thusly: "There is a couple of instances where we were able to have a creative reign, like we had something in Japanese... Takka asks Noctis to pick up beans and it's some line like, 'Ah, I don’t like beans very much.' But it didn't work. We had 2.3 seconds and just could not figure out something that would work. And so I said what if he just says 'Beaaaannnns…' And that was it! That ended up working!"<ref>{{Refwebsite| page url = https://thenaturalaristocrat.com/2019/11/19/anime-nyc-2019-ray-chase-talks-noctis-lucis-caelum-interview/| page name = Anime NYC 2019: Ray Chase talks Noctis Lucis Caelum (Interview)| site url = https://thenaturalaristocrat.com| site name = The Natural Aristocrat| access time = 18:06, November 20, 2019 (UTC)}}</ref>
+
+Noctis drinks the [[Ebony]] coffee in ''Brotherhood'', but in ''Final Fantasy XV'', he doesn't like it. During car rides, Noctis will sometimes ask Ignis if Ebony is actually good. According to Director Hajime Tabata, Noctis dislikes coffee, but forces himself to do it to look more mature."<ref name="ATR31052016" />
+
+A conversation during one of Ignis's [[tour]]s (Stirred, not shaken) reveals Noctis once worked as a part-time cook. If the player comes across a restaurant called Standing Sushi in Insomnia in Chapter 14, the party can mention they used to visit it, with Noctis pointing out he used to work there part time.
+
+At the end of [[Navyth Arlund]]'s quest line upon completing "The Devil of Cygilian", Noctis will refer himself as Noct Gar when giving his name. In the post quest conversation, he jokes about changing his legal name to it.
+
+Noctis is one of few ''Final Fantasy'' main protagonists to have had a good relationship with his father, one other being [[Bartz Klauser]] from ''[[Final Fantasy V]]''.
+
+With [[/Other appearances#Tekken 7|his appearance in ''Tekken 7'']], Noctis is the second ''Final Fantasy'' character to cross into a third-party fighting game. [[Cloud Strife]] made the jump to ''[[Super Smash Bros.]]''.
+
+===Kingdom Hearts connections===
+The promotional image of Noctis sitting on his throne for ''Final Fantasy Versus XIII'' mimics a pose of a promotional image of [[Sora]] from ''[[Kingdom Hearts]]'' that was later used on the cover of the ''Kingdom Hearts HD 1.5 ReMIX'' re-release.
+
+[[File:Verum Rex fictional game advert from Kingdom Hearts III.png|thumb|A parody of Noctis for "''Verum Rex''" in ''Kingdom Hearts III''.]]
+''Kingdom Hearts III'' has a trailer for a fictional game called "''Verum Rex''" that appears based on ''Final Fantasy Versus XIII'' and features a male protagonist, named Yozora, who looks a lot like a silver-haired Noctis, appearing alongside a dark-haired woman who wears a star necklace who resembles Stella Nox Fleuret. The protagonist dresses similar to Noctis and at the end is depicted sitting on stairs clutching a sword in the manner Noctis was shown sitting on a chair for a ''Versus XIII'' key art {{Show image|Noctis.jpg}}.
+
+The ''Verum Rex'' protagonist has one blue eye and one red eye, whereas Noctis's eyes were shown to change color from blue to red in the ''Versus'' trailers (and it still happens in ''Final Fantasy XV'' when he summons). "Verum Rex" can be translated from Latin to mean "the true king", a title that Noctis bears. Additionally, the protagonist's name, Yozora is taken from Japanese, meaning "night sky" which parallels Noctis's name, which is Latin for "of night". This trailer appears in ''Kingdom Hearts III'' as a commercial when the player first goes to the Toy Box. Yozora later appears in the secret ending.
+
+===Voice===
+{{Quote|At his heart, Noctis is always the same in any incarnation. He has a deep love for the people around him and is grateful for all their help. The difference between his ages is how he manifests that love—as a younger teen he sloughs it off as a casual brattiness in order to appear cool and diffident. During his ordeals, he realizes slowly that the cool personality doesn't let the people around him know he loves them. By the end, he is fully ardent and without his casual aplomb. He learns the lesson to tell your parents and loved ones you love them, because they won't be around forever…|Ray Chase,<ref name="RedditInterview">{{Refwebsite| page url = https://www.reddit.com/r/FFXV/comments/7x6tqw/rffxv_interview_with_ray_chase_voice_of_noctis/| page name = /r/FFXV Interview with Ray Chase, Voice of Noctis ( Part 1 of 2 ) | site url = https://www.reddit.com/r/FFXV/| site name = /r/FFXV at reddit.com| access time=20180725193020}}</ref> Noctis's voice actor}}
+Noctis is voiced by [[Tatsuhisa Suzuki]] in Japanese, while his younger self is voiced by Miyuki Satō.
+
+He is voiced by [[Ray Chase]] as an adult in English; his younger self is voiced by [[Hyrum Hansen]].
+
+The first English voice recordings were done for the ''[[Final Fantasy XV Episode Duscae]]'' demo. Chase was briefed on what was going on in the story, and about the character of Noctis, but Noctis's age hadn't yet been revealed. Chase thus tried out different versions of him, but in the end they decided to go with the older and more "badass" version.<ref name="Sue Lightning">[https://www.youtube.com/watch?v=VMg-dpJWapw page name = Sue Lightning interview - Ray Chase.] at [https://www.youtube.com YouTube]</ref> He initially only knew the project as "Project Black" and was given the reference of "Christian Bale as [[w:c:dc:Batman (Bruce Wayne)|Bruce Wayne]]" for the role.<ref>[https://soundcloud.com/finalgamespodcast/ep44raychase Final Games Episode 44 - Ray Chase (Voice Actor / Noctis FFXV)] at [https://soundcloud.com/finalgamespodcast Final Games Podcast at Soundcloud]</ref>
+
+After the release of the demo, many western fans complained about Noctis's English voice. Director Hajime Tabata responded the team had cut the recording close in terms of the schedule, and after recording the voices were implemented before going straight into testing, so by the time Tabata realized Noctis's voice direction wasn't quite right, it was too late to make changes. Tabata said the team was aware he sounded strange and that his "charm" wasn't coming through and that he sounded too old. He said they had done more takes to make him sound younger, while also bringing out his sense of ennui.<ref name="Gematsu20150428">{{Refwebsite| page url = http://gematsu.com/2015/04/final-fantasy-xv-feedback-live-stream-full-report-episode-duscae-2-0-coming-mid-may| page name = Final Fantasy XV feedback live stream full report: Episode Duscae 2.0 coming mid-May| site url = http://gematsu.com/| site name = Gematsu| access time = 19:31, April 28, 2015 (UTC)}}</ref> The transition was a long process of making sure Chase could act in a higher pitched voice, and he had to re-audition with the voice director and production company. After the voice was set and acting ability confirmed, all the voices recorded for ''Episode Duscae'' were re-recorded, including efforts and call-outs.<ref>{{Refwebsite| page url = https://www.reddit.com/r/FinalFantasy/comments/5ibvvc/you_guysare_the_best_seriously_ray_chase_noct/db6yokt/| page name = Ray Chase AMA at reddit| site url = https://www.reddit.com/r/FinalFantasy| site name = /r/Final Fantasy at reddit|access time=20180725194026}}</ref>
+
+Chase prefers the younger-sounding Noctis in the final game who has more emotional range,<ref name="Sue Lightning"/> although the ''Episode Duscae'' voice was reused as the voice for the older Noctis.<ref>[https://www.youtube.com/watch?v=PU-uiNYVqpI Ray Chase follow up interview and Final Fantasy XV(SPOILER) discussion!] at [http://www.youtube.com YouTube]</ref> Chase struggled delivering lines that were meant to be said offhand, unable to help but "imbue them with drama." They had to do many retakes of such "empty" lines. However, later on the localization director said that it actually fits the character, because Noctis does have trouble just being a regular person.<ref>{{Refwebsite| page url = https://www.reddit.com/r/FinalFantasy/comments/5ibvvc/you_guysare_the_best_seriously_ray_chase_noct/db78auc/| page name = Ray Chase AMA at reddit| site url = https://www.reddit.com/r/FinalFantasy| site name = /r/Final Fantasy at reddit|access time=20180725193930}}</ref>
+
+Chase also voiced [[Noctis Lucis Caelum (Dissidia NT)|Noctis]] for ''[[Dissidia Final Fantasy NT]]'', where the majority of the voice work focused on the sounds of attacking and getting hit. The ''Dissidia NT'' script was not written by Business Division 2, but the ''Final Fantasy XV'' head localizer was on hand to ensure Noctis would stay in-character.<ref name="RedditInterview"/>
+
+==Merchandise==
+Like [[Lightning (Final Fantasy XIII)|Lightning]], [[Sephiroth]] and [[Cloud Strife]], Noctis has an ''[[Final Fantasy perfumes and fragrances|eau de toilette]]'' scent sold by Square Enix Japan, called "Final Fantasy ~Noctis~ eau de toilette". It was announced on February 18, 2013.<ref>{{Refwebsite| page url = https://squareportal.net/2013/02/18/square-enix-reveal-their-final-fantasy-versus-xiii-fragrance/| page name = Square Enix Reveals Their FINAL FANTASY VERSUS XIII Fragrance| site url = https://squareportal.net| site name = Square Portal| access time = 12:17, December 12, 2018 (UTC)}}</ref> and released on June 18, 2013. The bottle is a clear glass bottle filled with pale yellow eau de toilette imprinted with a silver silhouette of Noctis's face. The scent is described to be citrus-oriented with layers. Top: Grapefruit, lemon, orange. Middle: Lavender, pine, rose, lily of the valley. Last: woody, musk.
+
+During Tokyo Game Show in September 2015, Noctis's [[Final Fantasy Play Arts Action Figures|Play Arts action figure]] was displayed. A Play Arts Kai action figure of Noctis is included in the Ultimate Collector's Edition of the game. The Ring of the Lucii is also available as official merchandise, and his clothes, the default attire by Roen and the "Trendy Attire" alternate outfit.
+
+In May 2018, Square Enix releases a silver Noctis pendant with an onyx gem as part of the [[Final Fantasy 30th Anniversary]] campaign. The reverse side of the pendant simply reads "Final Fantasy" with a carving of a crystal. The pendant uses Noctis's ''Dissidia NT'' art, and is released alongside pendants of the other main series [[List of protagonists|protagonists]].
+
+<gallery>
+Noctis perfume.jpeg|[[Final Fantasy perfumes and fragrances|Eau de toilette]].
+Noctis-Play-Arts-FFXV.jpg|[[Final Fantasy Play Arts|Play Arts -Kai-]] at Tokyo Game Show
+Noctis Caelum by Play Arts Kai.jpg|Play Arts -Kai-
+Final Fantasy XV deluxe edition and collector’s edition.jpg|Play Arts -Kai- in the Ultimate Collector's Edition.
+Noctis-Pendant-FFXV-30th-Anniversary.png|Silver pendant.
+</gallery>
+
+==Gallery==
+{{main|/Gallery|t1=Noctis Lucis Caelum gallery}}
+
+==Etymology and symbolism==
+{{See|Final Fantasy XV religious allusions}}
+The Lucian royalty have three names similar to the real world {{w|Roman naming conventions}} of ''praenomen-nomen-cognomen''.
+{{Etym|Noctis}}
+
+{{Etym|Lucis}}
+
+{{etym|Caelum}}
+
+''Noctis Lucis Caelum'' is a Latin phrase that may mean either<!--This is correct. Our resident Latin speaker, Faethin, has confirmed that this is the most literal translation.--> "Sky of the Night's Light" or "Sky of the Light's Night". Noctis and his father, King Regis, thus share a similar naming theme pertaining light and sky.
+
+Tetsuya Nomura has commented on why he named Noctis as such, juxtaposing him to another one of his favorites, Sora from the ''[[Kingdom Hearts]]'' series:
+{{Quote|Do you know the name Sora mean the 'sky', in Japanese and Noctis, his family name is Caelum which mean sky as well so basically, Noctis mean 'night sky', so they are kind of complete opposites to each other. There is a reason why I named these characters as opposites.(''sic'')}}<ref name="finaland" />
+
+Owing to Noctis's royal lineage, he is sometimes referred to as "your Highness" or "your Majesty". {{Etym|Majesty}}
+
+Noctis is destined by some accounts to be the "King of Kings" of Eos, a title used in reference to {{w|Jesus}} and his {{w|Second Coming}}. The True King is prophesied to save the world from darkness, which hearkens to the concept of {{w|Messiah}} from {{w|Abrahamic religions}}, the one chosen to lead the world and thereby save it. In the [[Hall of History|painting of the prophecy kept at the Citadel]] the True King is surrounded by a halo, a ring of light. In the context of the game this alludes to the sun, as the True King will herald the coming of a new dawn. In the real world halos have been used in the iconography of many religions to indicate holy or sacred figures, and have been used in images of rulers or heroes. The Last Campsite visited in Chapter 14 is also likely an allusion to the {{w|Last Supper}}, which in the New Testament was Jesus's last formal gathering with his disciples as he foretold of his fate to his followers.
+
+==External links==
+*[http://web.archive.org/web/20171125140106/https://ffxv.cdn.sqexeu.com/public/img/character-guides/noctis.pdf Official cosplay reference guide]
+
+==References==
+{{Reflist}}
+{{citations}}
+
+{{navbox XVUniverse}}
+{{navbox characters FFXV}}
+{{navbox XVBH}}
+
+[[de:Noctis Lucis Caelum]]
+[[fr:Noctis Lucis Caelum]]
+[[pt-br:Noctis Lucis Caelum]]
+[[ru:Ноктис Люцис Кэлум]]
+[[Category:Characters in Final Fantasy XV]]
+[[Category:Main characters]]
+[[Category:Kings]]
+[[Category:Characters in A King's Tale: Final Fantasy XV]]
+[[Category:Characters in Kingsglaive: Final Fantasy XV]]

@@ -1,0 +1,43 @@
+{{infobox character
+|name=Faunehm
+|release=FFXIV
+|japanese=ファウネム
+|romaji=Faunemu
+|image=FFXIV SB Faunehm.png
+|home=[[Dravania]]
+|affiliation=[[Nidhogg (Final Fantasy XIV)|Nidhogg]]'s brood
+|race=Dragon
+|gender=Female
+|eye=
+|type=npc
+}}
+'''Faunehm''' is a character from '' [[Final Fantasy XIV]] ''. She is a Dragon of [[Nidhogg (Final Fantasy XIV)|Nidhogg]]'s Brood and the consort of [[Vedrfolnir]]. She was introduced during the [[Dragoon (Final Fantasy XIV)|Dragoon]] questline in the ''[[Final Fantasy XIV: Stormblood|Stormblood]]'' expansion.
+
+==History==
+===''[[Final Fantasy XIV: Stormblood]]''===
+Although Faunehm is from Nidhogg's brood, she became [[Vedrfolnir]]'s consort who was from [[Hraesvelgr]]'s brood. When the [[Dragonsong War]] began, Vedrfolnir fought with his brothers alongside [[Ishgard]]'s knights against the Nidhogg horde. In order not to fight Faunehm, Vedrfolnir asked her to flee to the east. Faunehm travels to [[Othard]] and stays in [[Azim Steppe]]. Because she has resisted Nidhogg's choros for so long, she loses her senses and gives in to her instincts.
+
+[[File:FFXIV SB Faunehm and Vedrfolnr.png|thumb|Faunehm and Vedrfolnir.]]
+When the war is finally over, [[Orn Khai]] and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] set out on a quest for Faunehm. Following the rumors of a mighty dragon hunt, they meet Faunehm in Azim Steppe, the pair team up with [[Estinien Wyrmblood]] and together fight with Faunehm to get her senses back but this role ends up for Vedrfolnir who appeared during the confrontation.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Faunehm returns to [[Churning Mists#Zenith|Zenith]] with Vedrfolnir, and at Orn Khai's request, she tells the story of what Nidhogg was like in his days of honor.
+
+==Characteristics==
+===Appearance===
+Faunehm shares the same general appearance with Tioman, appearing as a large dark dragon with a menacing appearance, the only difference being that her the tips of her limbs and head fade into a light blue coloration. When enranged, her scales glow an intense light purple hue. Standing side by side, her appearance heavily contrasts with that of her consort.
+
+===Personality===
+Unlike Nidhogg and his brood, Faunehm bears no ill will towards mankind even after King Thordan's betrayal and the murder of Ratatoskr, having enjoyed and cherished her time with the dragoons of eld. When the Dragonsong began, she fled to avoid her father's enthrallment as she didn't want to turn on the same people she once gave flight to. When freed from her delirium by her family, she is immediately grateful and shown to be kind and softspoken.
+
+==Gameplay==
+Faunehm is fought twice during Dragoon questline in the ''Stormblood'' expansion. The first battle being during the {{icon|ffxiv|quest|Dark as the Night Sky}} quest where the Warrior of Light needs to find her in the fog and defend Orn Khai. The second battle is during the {{icon|ffxiv|quest|Dragon Sound}} quest and alongside Estinien, the Warrior of Light needs to weaken her.
+
+==Gallery==
+<gallery>
+FFXIV ShB Faunehm.png|Faunehm in ''Shadowbringers''.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

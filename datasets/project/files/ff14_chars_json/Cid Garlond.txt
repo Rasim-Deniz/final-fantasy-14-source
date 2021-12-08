@@ -1,0 +1,244 @@
+{{sideicon|prime=FFXIV|FFRK|FFTCG}}
+{{infobox character
+|name=Cid Garlond
+|release=FFXIV
+|japanese=シド・ナン・ガーロンド
+|romaji=Shido Nan Gārondo
+|lit=
+|aka=Cid nan Garlond, Marques {{J|マルケズ|Marukezu}}
+|image=Cid 3.0 from Final Fantasy XIV.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=34
+|dob=
+|affiliation=
+|occupation=[[Garlond Ironworks]]
+|education=Magitek Academy
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Garlean
+|gender=Male
+|height=
+|weight=
+|hair=White
+|eye=White
+|blood=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[Rikiya Koyama]]
+|english voice actor=[[Grant George]] (''A Realm Reborn'')<br/>[[wikipedia: Gwilym Lee|Gwilym Lee]] (''Heavensward'' onward)
+|ffrk=true
+}}
+{{Quote|A brilliant magitek engineer, Cid nan Garlond defected from his native Garlemald and came to Eorzea, where he founded the ironworks of his namesake. He now shares his knowledge with the people of his adoptive homeland, that they might defy the imperial menace he once served.|Official description}}
+'''Cid Garlond''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. He leads the [[Garlond Ironworks]], a group of [[Garlean Empire|Garlean]] and [[Eorzea]]n engineers working together to arm Eorzea's city-states with Garlemald's powerful technology: [[magitek]]. Before he defected to Eorzea, Cid achieved the rank of 'nan', or Chief Magitek Engineer, and was known as Cid nan Garlond.
+
+Cid Garlond belongs to the long line of characters in the ''[[Final Fantasy series|Final Fantasy]]'' series called [[Cid]], usually an older man associated with engineering or [[Airship (term)|airships]] in some manner.
+
+==History==
+===Early life===
+[[File:Young Cid XIV.jpg|right|thumb|Cid in his youth.]]
+Cid was born to Grand Minister of Industry [[Midas nan Garlond|Midas "Mid" nan Garlond]] and was regarded a prodigy in magitek engineering, much like his father. He catapulted into fame and popularity for his advancements in the field. When Mid became enthralled with Project Meteor, Cid began to grow distant and was taken in by his father's friend, [[Gaius van Baelsar]], who raised him to adulthood as if Cid was his own son. Under Gaius's guardianship Cid earned the ire and jealousy of [[Nero tol Scaeva]] after being appointed a Minister of Industry.
+
+[[File:Cid Biggs Wedge Escape.jpg|left|thumb|Cid defects from Garlemald.]]
+Mid's Project Meteor work eventually led him to create a transmitter at [[Bozja Citadel]] to draw energy from the red moon, [[Dalamud]]. Though Cid's research suggested the transmitter could not handle the incredible power contained within Dalamud, his father refused to listen to his son, going so far as too shoot him for interfering.
+
+Ultimately Cid's protestations proved true: when the transmitter was activated, it triggered an energy discharge from Dalamud that completely obliterated Bozja Citadel and the surrounding city, killing Midas along with countless others in what would become known as the [[Bozja Incident]]. Cid abandoned his homeland after the Incident, blaming himself for failing to stop his father and for the resulting devastation of Project Meteor. Cid defected from Garlemald with his shop-hands [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]] and was given a pair of goggles by [[Warrior of Light (Final Fantasy XIV)|the Warrior of Light]] who had brought them to him with the [[Echo (Final Fantasy XIV)|Echo]]. Arriving in Eorzea, Cid founded the ironworks of his namesake and began to share his knowledge with Eorzeans so they might defy the imperial menace he once served.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+Cid was an important character on the [[Seventh Umbral Era]] storyline, working closely with the [[Grand Company|Grand Companies]] to investigate the recent Garlean activity and its relationship with Meteor, as he was directly responsible for the recent development of Garlean magitek.
+
+[[File:GaiusAndCid.jpg|200px|right|thumb|Cid and Gaius meet again.]]
+Hoping to investigate [[Allagan Empire|Allagan]] ruins in [[La Noscea]], Cid was stranded when his airship was damaged flying low to avoid imperial detection. In a chance of fate, Cid crossed paths with his surrogate father, Gaius. Offering the [[Allagan Tomestone]] he had found for parley, Cid denounced Baelsar for supporting an attempt to destroy Eorzea—accusing him of losing his sense of honor and self-worth because the [[Emet-Selch|Emperor]] no longer favored him over [[Nael van Darnus]]. Hurt by Cid's words, Gaius countered that had Cid not abandoned him they could have conquered Eorzea before Nael had a chance to convince the Emperor of Project Meteor. On his anger Gaius injured Cid with a blast from his arm cannon and the two split embittered.
+
+When the Warrior of Light's Grand Company began to investigate the Fortress of Castrum Novum, Cid informed them of the Lunar Transmitter being built inside being used to call [[Dalamud]] down to Eorzea, the artificial moon on the planet's orbit. After the Warrior returned from recon Cid deduced it was only by the grace of his former caretaker, Gaius, that they could bring him the the information he needed. While wary of Gaius's intentions, Cid nonetheless accepted the plans for the Lunar Transmitter and began creating countermeasures to stop meteorfall and storm the fortress.
+
+[[File:Cid Nan Garlond End of an Era.png|left|thumb|Cid in a End of an Era.]]
+Cid returned when Nael raised the Rivenroad into the sky to cast Meteor and bring Dalamud down to annihilate Eorzea. Outraged, Cid ferried the Warrior of Light in his personal airship, the ''Enterprise''. After the battle Cid was elated at Nael's defeat and congratulated the Warrior of Light, praising them as Eorzea's hero. When Dalamud continued to fall Cid bore witness to the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]] and [[Bahamut (Final Fantasy XIV)|Bahamut's]] awakening ushering the end of the Sixth Astral Era, suffering grave injuries in the process.
+{{clear}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Cid disguise.jpg|thumb|right|Cid living as "Marques".]]
+The Warrior of Light finds an [[Amnesia (term)|amnesiac]] Cid in a [[Thanalan]] at the Church of Saint Adama Landama, cloaked in priestly robes being cared for by the priest Father [[Iliud]] under the name Marques. The Warrior of Light assists him with his duties at the temple, although neither party thinks anything of it at the time.
+
+Some time later the Warrior of Light returns to the church after the Garleans' attack on the [[Waking Sands]] seeking Father Iliud's aid in tending to the deceased. [[Alphinaud Leveilleur]] seeks the aid of Cid and his airship to confront [[Garuda (Final Fantasy XIV)|Garuda]]. Arousing Cid's buried memories, he agrees to accompany the pair to Coerthas to help find his missing airship and uncover the missing pieces of his memories. He bids farewell to Father Iliud and thanks him for caring for him as if he were his own son and saving his life after he was injured in the Calamity.
+
+Following the Warrior of Light and Alphinaud to [[Ishgard]], Cid remains frustrated with his amnesia as he aids the people with his mechanical expertise despite not knowing why he has these skills. Eventually tracking down the airship to the [[Stone Vigil]], Cid does emergency maintenance on it when [[Lahabrea]] awakens the dragon Isgebind and nearly destroys it.
+
+[[File:Cid Enterprise.jpg|thumb|left|Cid at the helm of his airship.]]
+Narrowly escaping, the party returns to [[Gridania]] where Cid informs the Warrior of Light that in its current condition not even the ''Enterprise'' could brave the winds of the Howling Eye and reach Garuda. Cid sends the Warrior of Light on an errand for a corrupted [[Crystal (term)|crystal]], giving him a way to pierce the veil. Finishing the modifications to his airship, Cid takes the wheel and recalls his memories from before meteorfall. He thanks the Warrior of Light for helping him recover the missing pieces of his past.
+
+Sailing to the Howling Eye, Cid and Alphinaud come to the aid of the [[Kobold]]s and [[Amalj'aa]] that had been kidnapped by the [[Ixal]] to prevent them from summoning their own [[primal]] while the adventurers are left to face Garuda themselves. Unable to free the creatures in time, [[Ifrit (Final Fantasy XIV)|Ifrit]] and [[Titan (Final Fantasy XIV)|Titan]] are summoned alongside Garuda and nearly begin a catastrophic battle only to be interrupted by Gaius and his [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], which absorbs the primals and takes their power as its own.
+
+Finding their courage, the party returns to Ishgard in hopes of locating and rescuing Cid's assistants, Biggs and Wedge. Finding Biggs wounded in the snow, they locate Wedge and save him from his imperial pursuers reuniting Garlond Ironworks once more. Regrouping with [[Yda Hext]] and [[Y'shtola Rhul]] in the Waking Sands, the group begins to hatch a rescue for their captured allies being held in Castra Centri.
+
+[[File: Capturing Magitek Armor.jpg|thumb|right|Garlond Ironworks capture a magitek armor.]]
+Setting up [[linkshell]] interference, the group secures a [[Magitek Armor]] as well as imperial military uniforms to aid in their infiltration of the Garlean stronghold, only to learn that the power source of the machine had been damaged. Cid sends the Warrior of Light to find a Marmet Heart to power the rundown machina, and upon installation the Magitek Armor unexpectedly takes a life of its own.
+
+As the Warrior of Light escapes from Castra Centri with prisoners in tow, Cid saves his allies with the ''Enterprise'' after they are cornered by Garlean troops allowing them to escape Ultima Weapon. Together with the [[Scions of the Seventh Dawn]] and the leaders of the Grand Companies of Eorzea, they forge an ambitious plan to cut off Castrum Meridanum from its allies and infiltrate the Praetorium inside to eliminate the Ultima Weapon.
+
+[[File:Cid Piloting Magitek Armor.jpg|thumb|left|Cid aids in the attack.]]
+Aiding the Warrior of Light destroy the defenses in the Castrum, Cid commandeers the imperial Magitek Armor called the Black Eft and supplies the party with backup until the armor is overclocked, using its main cannon to destroy a barrier. When he returns to find [[Livia sas Junius]]'s broken and defeated body, he cannot help but feel a kinship to the woman who only wanted the affection of their shared father.
+
+[[File:Cid and Gaius's last meeting.jpg|thumb|right|Cid learns the truth of his father's madness.]]
+Regrouping once the defenses are taken down, Cid ferries the Warrior of Light into the heart of the Castrum and into the Praetorium where he meets with Gaius who still hopes to convince his young ward to rejoin his side. Gaius tells him of his father's final words and offers him clemency along with a place at his side as his greatest lieutenant and chief engineer. Not to be swayed, the two part for the final time. Cid takes control of the security center of the Praetorium, guiding the party through linkshell to the Ultima Weapon. Encountering Nero, Cid learns of the other engineer's hatred and deep-seated jealousy of him.
+
+As the linkpearls' connection fades, he warns the party of Gaius and tells them not to die because they are "too bloody useful".
+
+{{Quote|Technology should never be allowed to imprison people. That's a hard lesson I learned from watching Gaius...and my father.|Cid Garlond}}
+Following the downfall of Gaius and the destruction of the Ultima Weapon, Cid joins with [[Rammbroes]] and the [[Sons of Saint Coinach]] in their investigation of the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]]. As it is an Allagan relic like the Ultima Weapon and Dalamud, Cid feels compelled to investigate it lest it be misused.
+
+To break the first defenses leading to the tower, the "Eight Sentinels," Cid has to assemble makeshift "fangs" using flawless elemental crystals retrieved from primal priests at [[beastmen]] strongholds. These fangs overload the barriers and shatter the statues, clearing the path to the Labyrinth of Ancients.
+
+After the Warrior of Light clears a path through the labyrinth and defeats [[Phlegethon (Final Fantasy XIV)|Phlegethon]], Cid and the team rejoin to survey the area. With the path to the foot of the tower open, they return to the camp to prepare for whatever may lie within the crystalline structure.
+
+After learning the history of the Crystal Tower from [[Doga (Final Fantasy XIV)|Doga]] and [[Unei (Final Fantasy XIV)|Unei]], and reluctantly allowing his rival Nero, now exiled from the Garlean Empire, to join the group, Cid makes his way to the top of the tower alongside the Warrior of Light. Following the defeat of [[Xande (Final Fantasy XIV)|Xande]] at the tower's peak, a dark portal appears, and a mysterious entity captures Doga, Unei, and Nero. Cid returns to the camp with the others to plan a strategy. He emphasizes the importance of rescuing Nero, if only to prevent him from accomplishing any future mischief.
+
+Cid develops a way to open a portal to the [[World of Darkness (Final Fantasy XIV)|World of Darkness]] to allow the Warrior of Light and [[G'raha Tia]] to venture within. After the defeat of the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]], he personally saves Nero, much to the latter's chagrin. He witnesses the sealing of the tower before departing, the group's goal now completed.
+
+After the Scions are accused of assassinating [[Nanamo Ul Namo]] and pursued by the corrupt [[Brass Blades]] and the [[Crystal Braves]], Cid is called in by [[Pipin Tarupin]] and meets up with the Warrior of Light and Alphinaud Leveilleur, the only two Scion leaders to escape, and carries them to safety in the ''Enterprise''. At Alphinaud's request, he drops them off at [[Coerthas Central Highlands]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+The Garlond Ironworks team has been commissioned to work on Ishgard's airship projects. Cid rescues the Warrior of Light in the [[Sea of Clouds]] by providing an escape from the [[Vanu Vanu]]. Later, when the Warrior of Light and [[Estinien Wyrmblood]] require assistance in reaching [[Nidhogg (Final Fantasy XIV)|Nidhogg]]'s lair, the Aery, Cid directs them to Biggs and Wedge and their personal-sized airship project.
+
+When Archbishop [[Thordan VII]] reveals his plans and escapes to the Sea of Clouds, Cid pursues him alongside the Warrior of Light in the ''Enterprise''. He is instrumental in coming up with the plan to defeat the primal [[Bismarck (Final Fantasy XIV)|Bismarck]] to obtain the key to [[Azys Lla]]. The key is stolen by the Archbishop, forcing the Warrior of Light and their companions to find another means to pierce the barrier surrounding the floating island. While the Warrior of Light journeys to find the information needed to do this, Cid and his team return to Ishgard where they upgrade and remodel the ''Enterprise'', transforming it to the ''Enterprise Excelsior''. Cid takes the team to Azys Lla so the Warrior of Light can confront the Archbishop.
+
+After the Archbishop's defeat, Cid is among those who witness the rise of the gigantic primal [[Alexander (Final Fantasy XIV)|Alexander]] in the [[Dravanian Hinterlands]]. Cid, Biggs and Wedge assist the Warrior of Light in investigating and exploring the primal.
+
+After [[Ilberd Feare|Ilberd]] summons the powerful primal [[Shinryu (Final Fantasy XIV)|Shinryu]], Cid works alongside Nero to activate the Allagan weapon known as [[Omega (Final Fantasy XIV)|Omega]] to counter it.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Shortly after the Warrior of Light enters [[Gyr Abania]], they encounter Cid on a mission to search for the missing Omega, which fell somewhere in the region after its battle with Shinryu. This task keeps him too busy to directly aid the Scions in the liberation of [[Doma (Final Fantasy XIV)|Doma]] and [[Ala Mhigo]], though he does provide essential information to them via [[Tataru Taru|Tataru]] when requested.
+
+===[[Omega (Final Fantasy XIV)|Omegascape]]===
+Some time after the defeat of [[Zenos yae Galvus]], Cid and his team have discovered a large crater, which they believe to be where Omega is. As they prepare to investigate, Cid is dismayed to find that [[Jessie (Final Fantasy XIV)|Jessie]] has hired Nero to be part of the team.
+
+Despite his reluctance to work alongside Nero, Cid gives in, and together they enter the [[Interdimensional Rift (Final Fantasy XIV)|Interdimensional Rift]] along with the Warrior of Light, Biggs, and Wedge. They are also accompanied by [[Alpha (Final Fantasy XIV)|Alpha]], a creation of Omega's that resembles a small [[chocobo]]. After overcoming the initial tests presented to them by Omega, Cid and Nero set up a base within the Rift where they can provide support to the Warrior of Light as they complete the remainder of Omega's challenges. Cid is horrified to learn Omega has attempted to kill Biggs and Wedge. Although they survive, they are badly wounded, and are taken to the Conjurer's Guild for healing. Cid is overcome with guilt for his role in reviving Omega, and is chided by Nero, who reminds him what his role as a scientist means.
+
+When an old friend of Cid's from Garlemald, [[Jenomis cen Lexentale]], goes missing while investigating the ruined city of [[Rabanastre]], his family contacts Cid for help. As he still has his hands full dealing with Omega, Cid recruits the Warrior of Light to assist them.
+
+When Cid receives word that Omega is ready to resume its trials, he reenters the Rift alongside the team. After battling through a series of Omega's creations alongside Nero and the Warrior of Light, he again sets up a base of operations where he and Nero can provide support. Once all of the trials in the [[Sigmascape]] are defeated, he discovers that Omega has wounded Nero. Cid takes him out of the Rift for treatment, and prepares to wait until Omega summons them again.
+
+When Omega begins his tests once more, Cid accompanies the Warrior of Light and Alpha into the Rift. He assists the Warrior of Light as they complete the final two trials, and prepares for the showdown against Omega. Realizing that the technology developed by his father, Mid, could be used as a trump card against Omega, he instructs Jessie to prepare a device based on Mid's designs. Although he is initially reluctant to use it due to the destruction caused by his father's unchecked obsession with his research, a talk with the still-injured Nero allows him to overcome his doubts.
+
+After Cid, Alpha, and the Warrior of Light defeat Omega, they are rescued from the collapsing Rift by Biggs, Wedge, and [[Hraesvelgr]]. Upon returning to Eorzea, Cid discovers that Nero has already left, after helping himself to [[gil]] from Cid's personal account as payment for his work. Cid joins the Warrior of Light and the rest of the Ironworks team in bidding farewell to Alpha, who leaves to explore Eorzea.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+
+When the Warrior of Light, Alisaie, and [[G'raha Tia]] are working on developing a cure for [[Enthrallment|tempering]], they request help from Cid, who subsequently recruits Biggs, Wedge, and Nero to assist him. They are ultimately successful in creating the cure after they are able to hack into ancient Allagan technology nodes containing research from eons past.
+
+===The Sorrow of Werlyt===
+After the Warrior of Light defeats the [[Ruby Weapon#Final Fantasy XIV|Ruby Weapon]], Cid arrives to examine its remains. He reunites with Gaius for the first time since their encounter at the Praetorium. After Cid reports his findings, he offers his help to get the Warrior and Gaius to Terncliffs where the remaining Weapons are being developed. Cid unveils the G-Warrior his team acquired from the [[Fractal Continuum (Hard)|Fractal Continuum]], and teaches the Warrior of Light how to pilot it. The Warrior of Light uses the G-Warrior to defeat the [[Sapphire Weapon]] when it bars their way to Terncliffs. They find that the remaining Weapons, as well as most of the information regarding the project, has already been removed from the city, but Cid gets to work examining what was left behind along with the Sapphire Weapon's remains. With the information he obtains, he determines that the next Weapon, the [[Emerald Weapon]], is another aquatic model, and has likely been moved to another Imperial base to be completed. The Warrior of Light and Gaius track it down to [[Castrum Marinum]]. Cid later upgrades the G-Warrior to a new form known as the G-Savior, allowing the Warrior of Light and Gaius to battle the final Weapon, the [[Diamond Weapon]], in the skies above Werlyt.
+
+===[[Save the Queen]]===
+The [[Bozjan Resistance]] requests Cid's aid in recreating the legendary weapons of Queen Gunnhildr that were lost during the Bozja incident. As Cid had seen replicas of the weapons prior to their destruction, the information could still be found in his memories. Using a special crystal and the Echo, the Warrior of Light and [[Mikoto Jinba]] travel into Cid's memories to a time when he attempted to dissuade his father from continuing the experiments on Dalamud. After defeating phantom versions of Bahamut and [[Varis zos Galvus]] in Cid's mind, they obtain the information they need. Cid realizes that his father showed the telltale signs of having been enthralled by Bahamut; with this newfound knowledge, he realizes there was nothing he could have done to convince him to cease his work.  During the final stage of the battle between the Bozjan Resistance and the [[IVth Imperial Legion]] in the region of [[Zadnor]], Cid assists the Resistance by creating barriers to protect their field base from long range fire. He later develops and implements the plan to disable the IVth Legion's flagship, the ''[[Dalriada]]'', allowing the Warrior of Light and the Resistance to board it.  During the victory celebration following the liberation of Bozja, Cid can be seen looking at a picture of himself and Mid for the first time in fifteen years, having finally made peace with the memories of his father.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+When the allies of the Scions converge at [[Sharlayan]] to assist in the completion of the Ragnarok, Cid arrives with the Ironworks team and Allagan relics given to him by Gaius. He and his team help complete the work needed on the starship, and see the Scions off when they depart in it for [[Ultima Thule]].
+
+==Characteristics==
+[[File:Cid 2.0 from Final Fantasy XIV.png|thumb|left|Cid's appearance in ''A Realm Reborn''.]]
+===Appearance===
+Cid is a short and muscular Garlean with center-parted white hair and beard, the latter of which he had grown sometime after the [[Umbral Calamity|Calamity]]. Cid wears a white vest over a black sleeveless top and matching work trousers with black pouches over his knees and tool belt to carry his engineering equipment. He wears a padded black gauntlet on his left arm, a pair of armor-plated black shoes and an ornate pair of goggles with teal lenses that hide his third eye that marks him as a pure-blooded Garlean.
+
+In ''[[Final Fantasy XIV: Heavensward]]'' and beyond, Cid begins to wear a long-sleeved white and black jacket due to the much colder climate of [[Coerthas]].
+
+===Personality===
+Cid is intelligent, good-natured and dutiful. He lives to see his magitek creations used to help improve the lives of people and loathes to see the destruction that technology has caused under the banner of the Garlean Empire. He is relieved and elated whenever informed that some Garleans have defected, seeing that some of his people have realized what the Empire has become. He views [[Nero tol Scaeva]] as a school days rival. After Nero's defection from the empire and becoming a "consultant" to Garlond Ironworks, Cid would continue to trade insults with his old rival, but they are no longer as hostile as they used to be.
+
+==Gameplay==
+===Battle===
+[[File:Cid in battle.jpg|thumb|Cid in battle.]]
+Cid functions as a shieldless [[Paladin (Final Fantasy XIV)|Gladiator]], using a unique [[Gunblade (weapon type)|gunblade]]. He can heal the player with his unique Aqua Vitae items. Cid is also a skilled Magitek Armor pilot, taking the helm of a Reaper during the raid on Castrum Meridianum.
+
+Cid assists the Warrior of Light in two separate instances in Omega's digital realm, fighting alongside them, Alpha, and Nero to clear the trials between each sector of the realm.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Cid Garlond
+|image = [[File:FFXIV TT Cid nan Garlond.png]]
+|number = 58
+|total = 25
+|type = None
+|description = "Just how long have I worn these damn goggles?" 
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Sezul Totoloc|Sezul Totoloc]], North Shroud (24,23)<br>Random from {{icon|ffxiv|item|Gold Triad Card}}
+}}
+
+==Other appearances==
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Cid Garlond.png|right]]
+{{Main|/Record Keeper}}
+Cid (XIV) is a playable character who could be initially recruited during the [[Challenge Event]] [[On Azure Wings]] as a First Time Reward for completing the event's The Stone Vigil stage on Classic difficulty.
+{{clear}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:CidNanGarlond TCG.png|right|100px]]
+Cid appears with a Lightning-elemental card in the ''[[Final Fantasy Trading Card Game]]''.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:469a Cid Garlond.png|right|100px]]
+Cid appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+===[[LINE]]===
+Cid makes an appearance in a sticker set for [[LINE]], a mobile communications app. The set he appears in is "ファイナルファンタジーXIV".
+
+<gallery>
+File:LINE FFXIV Sticker21.png|"Heh!"
+File:LINE FFXIV Sticker22.png|"Enterprise... LAUNCH!"
+</gallery>
+
+==Voice==
+Cid was voiced by [[Grant George]] in the English version of ''A Realm Reborn''. Since the release of ''Final Fantasy XIV: Heavensward'', Cid is voiced by [[Gwilym Lee]]. He is voiced by [[Rikiya Koyama]] in the Japanese version, Achim Barrenstein in the German version, and Lionel Tua in the French version.
+
+In the Korean version, Cid is voiced by [[Kim Seung-jun]].
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV_ARR_Cid_concept.png|Concept art for ''A Realm Reborn''.
+FFXIV_Young_Cid_concept.png|Young Cid concept art.
+FFXIV_HW_Cid_concept.png|Concept art for ''Heavensward''.
+FFXIV Cid and Alexander artwork.jpg|Cid and Alexander artwork.
+FFXIV Rise of a New Sun Artwork.jpg|Cid in ''Rise of a New Sun'' artwork.
+</gallery>
+
+;Screenshot
+<gallery>
+CidnanGarlond.png|Younger Cid (1.0).
+FFXIV TFS Younger Cid.jpg|Younger Cid.<ref name="ingenuity">''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/sidestory_08/ Tales From The Storm - A Display of Ingenuity]''</ref>
+Cid ARR.jpg|Cid in ''A Realm Reborn''.
+QGarleond1.png|Garlond Ironworks.
+FFXIV Cid's Gunblade.png|Cid's gunblade.
+FFXIV Cid Heavensward.png|Cid in the ''Heavensward'' opening cinematic.
+Cid's Locket.png|Cid's necklace showing a picture of him and his father.
+FFXIV TFS Cid.jpeg|Cid approaching Omega's realm in The Fringes.<ref name="ingenuity" />
+FFXIV TFTS Cid.jpg|Cid in an alternative timeline, during the Eighth Umbral Calamity.<ref name="forsaken>''[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_shadows/sidestory_03/#sidestory_03 Tales From the Shadows- A World Forsaken]''</ref>
+</gallery>
+
+==Etymology==
+Cid is a recurring name in the ''Final Fantasy'' series. {{Etym|Cid}}
+<br />
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Cid nan Garlond]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Cid]]
+[[Category:Garleans]]

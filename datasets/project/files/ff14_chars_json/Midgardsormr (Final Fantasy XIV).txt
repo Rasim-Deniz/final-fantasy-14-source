@@ -1,0 +1,136 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Midgardsormr (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Midgardsormr
+|release=FFXIV
+|japanese=ミドガルズオルム
+|romaji=Midogaruzuorumu
+|aka=Father of Dragons {{j|原初の龍|Gensho no Ryū|Dragon of the Origin}}, Keeper of the Lake, Bane of the XIVth Legion
+|image=XIV Midgardsormr - Front.png
+|home=Dragonstar
+|age=
+|dob=
+|affiliation=
+*[[Dravanian Horde]] (formerly)
+*[[Hydaelyn (character)|Hydaelyn]]
+*The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]
+|race=Dragon
+|gender=Male
+|type=npc
+|japanese voice actor=[[Taketora]]
+|english voice actor=[[wikipedia:Allan Corduner|Allan Corduner]]
+|boss page=
+|final boss page=
+|superboss page=
+}}
+{{Quote|Who treadeth now upon my bones and waketh me from slumber sweet? Thou hast forgotten the face of thy lord. Remember, mortal, and fear me.|Midgardsormr}}
+'''Midgardsormr''' is a dragon king in ''[[Final Fantasy XIV]]''. A legendary king of kings, Midgardsormr fathered the [[First Brood]], the first dragons in [[Hydaelyn]]. Also known as a guardian deity in Silvertear Falls, he led the [[Dravanian Horde]] to battle against the [[Garlean Empire]]'s [[Airship (term)|airship]] fleet in the [[Battle of Silvertear Skies]], an event that put the dragon in a slumber for 20 years.
+
+He was seen during the opening CG of the [[Final Fantasy XIV/Legacy|original release]] (Version 1.0). This footage is reused during a flashback narration from [[Gaius van Baelsar]] in ''Final Fantasy XIV: A Realm Reborn''. Midgardsormr becomes more directly involved in the first expansion, ''[[Final Fantasy XIV: Heavensward]]'', and remains an important ally throughout the second expansion, ''[[Final Fantasy XIV: Stormblood]]''. Midgardsormr's connection with [[Omega (Final Fantasy XIV)|Omega]] [[Final Fantasy XIV allusions|alludes]] to the link between Omega and Shinryu since the two [[superboss]]es' debut in ''[[Final Fantasy V]]''.
+
+==Profile==
+{{Spoiler}}
+===Appearance===
+Midgardsormr is a colossal serpentine dragon, large enough to entwine the Garlean dreadnaught ''Agrius'' and outright destroy lesser airships with energy attacks from his mouth. His corpse remains entwined with the dreadnaught and by the time the ''Agrius'' is explored the carcass is in advanced stages of decay.
+
+As a [[Minion (Final Fantasy XIV)|minion]], his spirit takes the form of a small dragonet with a cream-colored underbelly, a dark green back, and two fin-like ears.
+
+As the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]'s [[mount]] Midgardsormr transforms into an adolescent dragon (grown enough to be ridden by a humanoid) with dark green skin, his signature fin-like "ears" and a spiked tail. A sequence of metallic plates lines his spine with a carriage seat at his upper back with reins attached to the head.
+
+The Alphascape replica of Midgardsormr, fought within [[Omega (Final Fantasy XIV)|Omega]]'s body, shows that when he was younger, Midgardsormr had golden scales, and his head had long and curved fins, a fiery mane, and glowing eyes.
+
+===Personality===
+Midgardsormr is patient and enigmatic. He speaks in a slow, deliberate monotone and uses archaic speech patterns. While the original Japanese dialogue unquestionably portrays him as an ally, the English localization characterizes him more ambiguously through the use of Dravanian dialect developed specifically for the English release.<ref>{{Refwebsite| page url = http://forum.square-enix.com/ffxiv/threads/215647-An-Introduction-to-Dragonspeak| page name = An Introduction to Dragonspeak| site url = http://forum.square-enix.com| site name = Official forums| access time = 11:43, February 27, 2019 (UTC)}}</ref>
+
+Midgardsormr discretely travels with the Warrior of Light, observing their deeds and accomplishments throughout their adventures in [[Ishgard]]. Midgardsormr is impressed when the Warrior regains their blessing of the Light, convinced that they are the [[Hydaelyn (character)|Light Mother]]'s chosen. The Father of Dragonkind becomes more involved in the [[Dragonsong War]], agreeing in the Warrior of Light's efforts to end it. He will not fight, but lends his wings as he believes in the prospect of peace between the dragons and Ishgard. Though Midgardsormr is saddened upon witnessing [[Nidhogg (Final Fantasy XIV)|Nidhogg]]'s wrath, he concludes that his son was replaced with a vengeful shade and the war could only end with Nidhogg's death. Midgardsormr appears before [[Hraesvelgr]] and convinces him to stand with the Warrior of Light and Ishgard against Nidhogg.
+
+As the sire to the First Brood Midgardsormr cares deeply for his children and laments on the tragic fate that befell most of them. From [[Bahamut (Final Fantasy XIV)|Bahamut]]'s death and "resurrection" as a [[primal]], [[Tiamat (Final Fantasy XIV)|Tiamat]]'s sorrowful imprisonment by the [[Allagan Empire|Allagans]], [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]]'s murder to Nidhogg's endless hate.
+
+Upon learning of Omega's reactivation, Midgardsormr becomes furious that his ancient enemy still exists, and decides to directly aid the Warrior of Light and [[Garlond Ironworks]] in their investigation. After the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]]'s departure through timespace into the [[First]], he found amusement in Omega's diminished and deteriorated state.
+
+===Abilities===
+Being an ancient dragon, Midgardsormr is powerful, able to channel blasts of blue [[aether]]ic energy. His energy beams ravaged Garlean airships while damaging the hull of the ''Agrius''. Even after the ''Agrius'' exploded, seemingly claiming Midgardsormr's life, his spirit remains dormant as the Keeper of the Lake and can manifest as a ghostly dragon with an enormous deal of the power he displayed in life, up to and including raising two dead dragons back to the living in his arena.
+
+Perhaps his most notable ability is to seal away the mothercrystal's blessing of Light, draining the [[Crystal (term)|crystals]] of their power and forcing the Warrior of Light to act without Hydaelyn's protection. Midgardsormr can ignore his own death, manifesting as an infant dragon to keep watch over the Warrior.
+
+==Story==
+===Early life===
+Midgardsormr was a denizen on a distant star, known to those on [[Hydaelyn|the Source]] as the Dragonstar, that came to be at war with the inhabitants of another star. As Midgardsormr was the strongest Dragonstar denizen, the opposing forces dispatched their superweapon, [[Omega (Final Fantasy XIV)|Omega]], to neutralize him. Though Midgardsormr defeated Omega, he could not completely destroy it. Realizing that Omega's regenerative abilities would eventually give it the upper hand, Midgardsormr grabbed his last seven eggs and fled his dying homeworld with Omega in pursuit. After a long journey through the cold void of space, the weakened Midgardsormr landed on Hydaelyn, where he made a pact with the mothercrystal and hatched his seven children, reviving the dragon race in Hydaelyn.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+{{Quote|It has been fifteen years, but the bitter taste of defeat lingers still... Fifteen years since the imperial fleet set course for Mor Dhona, led by the Agrius, mightiest of all vessels. Silvertear Lake lay ripe for the taking, and all of Eorzea would soon be ours...or so we believed. But an innumerable host of dragons met us that day, at the heart of which flew the great Midgardsormr. Though we succeeded in slaying that lord among wyrms, the dread serpent's defeat was bought at too high a price. Our invincible flagship was lost, and all hope of victory with her. So ended our glorious conquest.|[[Gaius van Baelsar]], reflecting on the [[Battle of Silvertear Skies]]}}
+[[File:FFXIV Opening Battle.jpg|thumb|250px|Midgardsormr's fall]]
+Some say Midgardsormr came into being around the time Silvertear Falls were created and was charged by Althyk and Nymeia of [[the Twelve]] to oversee the waters and magic. Upon his arrival to Hydaelyn Midgardsormr brought with him seven eggs from which the [[First Brood]] hatched. His children parted ways, [[Bahamut (Final Fantasy XIV)|Bahamut]] and [[Tiamat (Final Fantasy XIV)|Tiamat]] making home to [[Meracydia]] while [[Hraesvelgr]], [[Nidhogg (Final Fantasy XIV)|Nidhogg]] and [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]] took residence in [[Eorzea]]. At some point Midgardsormr entered a deep slumber under Silvertear Falls.
+
+In the [[Final Fantasy XIV timeline|year 1562]] of the Sixth Astral Era, [[Gaius van Baelsar]] mobilized the airship fleet of the [[XIVth Imperial Legion]] to seize [[Mor Dhona]] as part of his initial [[Garlean campaign|campaign to conquer Eorzea]]. This stirred the Wyrmking from his quiescence beneath the lake of Silvertear Falls and called forth the [[Dravanian Horde]] to repel the invaders. As he entwined around the ''Agrius'' to cripple the flagship, ceruleum tanks inside the vessel exploded, killing Midgardsormr. The explosion released a seal holding immense stores of aether beneath the lake, draining it from the area, transforming Silvertear Falls from a pristine landscape lush with freshwater and vegetation to a near barren wasteland, hosting a manner of terrible beasts drawn to the corruption.
+
+For the next fifteen years Midgardsormr's corpse remains entwined with the wreckage of the ''Agrius'' in Lake Silvertear, a landmark known as [[the Keeper of the Lake]].
+
+===''[[Final Fantasy XIV: A Realm Reborn]]''===
+[[File:XIV Midgardsormr - Awaken.png|thumb|250px|"I rise to join in the chorus."]]
+As the [[Umbral Calamity]] and the [[Seventh Umbral Era]] came to pass, the Keeper remains a silent testimony to the Battle of Silvertear Skies. Five years after [[Dalamud]]'s fall, [[Ishgard]]'s [[Astrologian (Final Fantasy XIV)|Astrologians]] begin to see portents in the heavens: the dragon star flared, considered an omen of Midgardsormr's resurrection. This prompts Ser [[Aymeric de Borel]] of Ishgard's Temple Knights to begin negotiations with the [[Scions of the Seventh Dawn]] to request the Keeper of the Lake be monitored.
+
+When word of a dragon's roar spreads, Aymeric's lieutenant, [[Lucia goe Junius]], requests that the site be investigated. With the aid of [[Doma (Final Fantasy XIV)|Doman]] surveyors the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] takes a boat out to the wreckage, fighting through lake creatures, dragons, and imperial troops from Castrum Centri to reach the top of the ''Agrius''. As they approach the head of the Wyrmking, Midgardsormr's spirit awakens and attacks the party.
+
+{{Quote|I drink of Her body, and thence doth mine own find new life. When it hath grown whole, the loyal and penitent shall rejoice. The Dragonsong heraldeth a beginning...and an end.|Midgardsormr}}
+Once the spectral dragon is defeated, Midgardsormr gives the Warrior of Light reprieve to state the purpose of coming to his resting place. Midgardsormr was awoken by the roar of one of his seven children, Nidhogg, who wages war with the Dravanian Horde on the people of Ishgard. Upon seeing the Warrior was chosen by Hydaelyn, Midgardsormr dispels the blessing of Light by dimming the six elemental [[Crystal (term)|crystals]]. Midgardsormr binds himself to the adventurer to create a new covenant to observe their right to be the Warrior of Light. Taking the form of a diminutive dragonet, regaining his former appearance in time, Midgardsormr declares his intent to "watch...listen...and wait." While the exact relationship between Midgardsormr and Hydaelyn is unknown, he intends to test her champion's worth.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|Men die, and their children forget. But we are everlasting. To us, then is as now. Thou canst not comprehend the violation. The outrage. The fury.|Midgardsormr}}
+During her conversation with the Warrior of Light, Midgardsormr appears before [[Ysayle Dangoulain]], much to her surprise. He explains that while their goals are the same, their paths are different, and reveals she, too, possesses the [[Echo (Final Fantasy XIV)|echo]], to which she admits. Midgardsormr appears after one of the crystals regains its light, surprised the adventurer may be regaining the blessing of Light.
+
+[[File:FFXIV Midgardsormr meets Tiamat.png|thumb|Midgardsormr meets Tiamat in Azys Lla.]]
+After arriving at [[Azys Lla]], Midgardsormr directs the Warrior of Light to see his imprisoned daughter Tiamat. The Warrior learns the [[Ascian]]s were responsible for both the creation and imprisonment of the Elder Primal created in Bahamut's image, and that the [[Allagan Empire|Allagans]] sealed many other ancient [[primal]]s. Midgardsormr senses that the adventurer has regained the blessing of Light after speaking with Tiamat, offering to aid the hero by taking them to the [[Aetherochemical Research Facility]].
+
+{{Quote|A thousand-year war cannot be ended in a day. It may take generations. What thou dost begin, thy children must continue. Entrust unto them thy hopes and dreams, that peace may reign again...and forevermore.|Midgardsormr}}
+[[File:FFXIV Midgardsormr Heavensward Ending.png|thumb|left|Midgardsormr tries to make peace between humans and dragons.]]
+After [[Knights of the Round (Final Fantasy XIV)|King Thordan]] has fallen, Midgardsormr witnesses [[Estinien Wyrmblood]]'s body being taken over by the spirit of Nidhogg, watching his offspring fly off with profound sadness. Midgardsormr takes the Warrior of Light to Ishgard, seeing Aymeric de Borel's resolve for peace between their races while warning the Ishgardians that Nidhogg has consumed Estinien and will prepare a renewed conflict with those loyal to his wayward spawn. Vowing to remember Aymeric's vow, Midgardsormr flies off.
+
+As Nidhogg's shade prepares his Final Chorus to destroy Ishgard, Aymeric, [[Alphinaud Leveilleur]], and the Warrior of Light plead with Hraesvelgr to aid them against his broodbrother. Midgardsormr reasons with Hraesvelgr, who relents and arranges a trial for the three to prove their worth.
+{{clear}}
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Midgardsormr reawakens as the Warrior of Light is aiding [[Garlond Ironworks]] investigate Omega's whereabouts. Midgardsormr is linked by fate to Omega, who likewise originates from another star. Midgardsormr converses with a [[chocobo]]-like entity called [[Alpha (Final Fantasy XIV)|Alpha]], who escaped from the mysterious portal being pursued by a ghostly serpent. He further explains that the portal leads to the [[Interdimensional Rift (Final Fantasy XIV)|Interdimensional Rift]].
+
+At the end of the Sigmascape, Omega, confused and agitated by the Warrior of Light's defiant strength, tries to determine their potential by imprisoning them in a seal, threatening to kill them if they do not break free. Midgardsormr draws upon his own power to temporarily assume his elder form and crush the prison, freeing the Warrior of Light. He warns Omega that if it wishes to see the adventurer's true power, it must do so by staying on its course and study the results of its tests. His energy spent, Midgardsormr dissipates as he returns to his sleep to recover.
+
+After the Warrior of Light defeats [[Chaos (Final Fantasy)|Chaos]] in Alphascape, Omega reveals the history between it and Midgardsormr as it recreates the past version of the dragon from its memories, when he was still at the peak of his power. After Omega's defeat, the Interdimensional Rift collapses. From the depths of sleep, Midgardsormr contacts his son, Hraesvelgr, to rescue the party still trapped within, the first and only time he has requested assistance from any of his children.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Midgardsormr regains his strength and original body two centuries into the alternate timeline following the Eighth Umbral Calamity. Having witnessed Garlond Ironworks' descendants strive towards a future they will never see, he vows to protect the ravaged world as they rebuild civilization into a new Astral Era.
+
+==Gameplay==
+{{main|Midgardsormr (Final Fantasy XIV boss)|The Keeper of the Lake|Alphascape V2.0}}
+Midgardsormr is fought at the end of {{icon|ffxiv|duty|the Keeper of the Lake}} dungeon. He appears as a spectral dragon. Upon completing the dungeon for the first time in the main scenario, the player will obtain his small dragonet form as a [[Minion (Final Fantasy XIV)|minion]] after returning to the shoreline in Mor Dhona. Midgardsormr's dragonet form resembles the wyverns summoned by [[Dragoon (Final Fantasy XI)|Dragoons]] in ''[[Final Fantasy XI]]''. Similar to some other minions, he will perch on the player's shoulder (or player's head, if [[Lalafell]]), and occasionally spits out a blue flame in his idle animation. Unlike other minions that perch on the player, Midgardsormr doesn't respond to the /beckon command and will not perch on request.
+
+Late in the ''Final Fantasy XIV: Heavensward'' main scenario, Midgardsormr becomes a flying mount at the completion of the quest {{icon|ffxiv|quest|Fetters of Lament}}.
+
+A past version of Midgardsormr is fought as the boss of {{icon|ffxiv|duty|Alphascape V2.0}} and its Savage difficulty. This version of Midgardsormr is made from Omega's memory and represents Midgardsormr's power when he was still in his prime.
+{{Endspoiler}}
+
+==Voice==
+Midgardsormr is voiced by [[wikipedia:Allan Corduner|Allan Corduner]] in the English version.
+
+He is voiced by [[Taketora]] in the Japanese version.
+
+==Gallery==
+<gallery>
+XIV Midgardsormr - Opening.png|From 1.0 opening movie.
+XIV Midgardsormr Damages Agrius.png|The ''Agrius'' is hit by Midgardsormr's beam.
+XIV Midgardsormr - Reincarnated.png|Midgardsormr reborn.
+FFXIV WoL Midgardsormr Mount.png|The Warrior of Light riding on Midgardsormr in his [[mount]] form.
+XIV Midgardsormr - Alphascape 2.0.png|Midgardsormr in his youth, recreated from Omega's memories.
+</gallery>
+
+==Etymology==
+{{Etym|Midgardsormr}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Midgardsormr (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Deities]]
+[[Category:Dragons]]

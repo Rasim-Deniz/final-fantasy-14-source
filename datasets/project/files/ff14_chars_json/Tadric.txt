@@ -1,0 +1,58 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tadric
+|release=FFXIV
+|japanese=タドリク
+|romaji=Tadoriku
+|lit=
+|aka=Tadric the Vainglorious
+|image=FFXIV ShB Tadric.png
+|home=Voeburt
+|age=
+|dob=
+|affiliation=Voeburt
+|occupation=Court mage
+|race=Drahn
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|thaumaturge}}
+|weapon=
+|armor=
+|ultimate weapon=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+
+'''Tadric''' is a character from ''[[Final Fantasy XIV]]''. He was a court mage and loyal servant of the royal family from [[Voeburt]] empire.
+
+==History==
+Tadric was a court magician and loyal servant of the royal family of Voeburt's empire. Consumed by pride and jealousy, Tadric turned innocent souls of citizens into malformed beasts to throw the kingdom into chaos in order to claim Voeburt's throne for himself.
+
+At some point Tadric persuaded the second princess, Pauldia to desire the throne but as part of his plans, Tadric turned her into a beast.
+
+Their plans end up being foiled when [[Branden]]—a former bodyguard of the princess [[Sauldia]]—returns to the kingdom with her new companions. As his last act, Tadric casts his curse on the princess Sauldia and turns her into a beast.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+[[File:FFXIV ShB Tadric battle.png|thumb|Tadric as a boss.]]
+Tadric is fought as a boss during the tank role quest {{icon|ffxiv|quest|The Hardened Heart}}. During the solo instance, the player controls Branden through role-play mode.
+
+{{Clear}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Au Ras]]
+[[Category:Black Mages]]
+[[Category:Antagonists]]

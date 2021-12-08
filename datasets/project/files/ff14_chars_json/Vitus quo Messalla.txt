@@ -1,0 +1,68 @@
+{{Infobox character
+|name = Vitus quo Messalla
+|release = FFXIV
+|japanese =ヴィトゥス・クォ・メッサラ 
+|romaji =Vitusu kwo Messara 
+|image =FFXIV Vitus quo Messalla.png
+|race = [[Elezen]]
+|gender = Male
+|height = 
+|hair = Black
+|eye = Light Green
+|designer = 
+|age = 
+|type = npc
+|weapon =
+|armor = Chromite Armor
+|affiliation = *[[Alaudae]]
+*[[Garlean Empire]]
+|occupation = Commander
+|aka=Prospective Client|abilities=Guilt, Bastardbluss, Culling Blade, Scalding Tank, To the Slaughter, Terminus Est, The Order, Exsanguination, Industrial Force, Fustuarium,  Captive Bolt, Snake Shot}}
+{{Quote|Ah, but 'twould be a shame for you to die without knowing the name of the spider who ensnared you. I am Vitus quo Messalla, commander of the Alaudae.| Vitus introducing himself}}
+'''Vitus quo Messalla '''is a [[non-player character]] in ''[[Final Fantasy XIV]]''. Commander of the Alaudae, Vitus is the cruel main antagonist from the [[Gunbreaker]] questline.
+
+==History==
+===Early life===
+A soldier within the Garlean army, Vitus reached the rank of Pilus prior, but after slaughtering a village of innocent civilians for his own bloodlust he was relegated to commanding the Alaudae.
+
+At one point he tried to enlist the prisoner [[Radovan]] into the Alaudae, but he refused. Vitus thus administered countless shocks to the Hrothgar with his [[magitek]] collar, leaving him with a state of paralysis that would come to him at random times.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Vitus and his group is dispatched to [[Coerthas]] dispose of the deserter [[Cato Mammula]]. As Cato makes his way to [[Ishgard]] the Alaudae attempt to ambush him and his bodyguards only to be defeated by the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and Radovan. When Cato and Radovan are alone Vitus watches from afar and sets his sights on the Warrior of Light instead of pursuing the engineer. Going undercover as a resident Ishgardian, Vitus enlists the aid of the Warrior of Light and [[Sophie (Final Fantasy XIV)|Sophie]], and lures them out into [[Coerthas Western Highlands]] where he traps them with magitek restrictions.
+
+[[File:Vitus Slays 1.png|thumb|left|Vitus kills his soldiers.]]
+Revealing his true self to the party the rest of the Alaudae converge on their position while Vitus gloats about how the Warrior of Light's death will promote him to Legatus. As he is about to strike a lethal blow to his captive, Radovan steps in and blocks the attack while also freeing his friends. Vitus orders the Alaudae to fight only for them to be stopped by an electric shock from their collars. Now useless to him Vitus kills his own men and fights the group on his own. 
+
+Although the group seems to be winning the fight Vitus knocks the group to their knees and prepares his strongest attack Fustuarium, it is then defended by Radovan's Final Bastion, but it exhausts the group as they used everything they had to use the ability. Sophie heals the Warrior of Light and fights Vitus on their own, he is then killed and with his last breath realizes that it is time for him to experience death from the other side.
+
+==Characteristics==
+===Appearance ===
+[[File:FFXIV Vitus Stance.png|thumb|Vitus in Battle]]
+Vitus is a duskwight [[Elezen]] with pale skin and light green eyes. He wears dark chromite armor with a circlet over his head, and wields a large Garlean [[Gunblade (weapon type)|gunblade]] in battle.
+
+=== Personality===
+Vitus is the cruel commander of the Alaudae, finding enjoyment in torturing prisoners and even those under him. His cruelty is well known and has affected his career within the Garlean military, though his skill is said to be equal to that of [[Gaius van Baelsar]]. Vitus has a tendency to talk about those he hunts down in animalistic terms, he refers to himself as a "spider", Radovan and Sophie as "flies" and the Warrior of Light as a "Lion".
+
+==Gameplay ==
+Vitus is fought as a boss in the solo duty [[Steel against Steel]] using a handful of abilities against the player, and summoning magitek bits to assist him.
+
+<gallery>
+Vitus_Slays_2.png
+Vitus_Culling_Blade.png|Using Culling Blade.
+Vitus_Exsanguination.png|Exsanguination
+Vitus_Scalding_Tank.png|Scalding Tank
+Vitus_To_the_Slaughter.png|To the Slaughter
+Vitus_Fustuarium.jpg|Fustaurium
+Vitus_Industrial_Force.jpg|Industrial Force
+Vitus_Captive_Bolt.png|Captive Bolt
+FFXIV_Snake_Shot.jpg|Snake Shot
+Vitus_Terminus_Est.png|Vitus using Terminus Est
+Vitus_The_Order.png|The Order
+Prospective_Client.png|Prospective Client
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Elezens]]
+[[Category:Garlean citizens]]
+[[Category:Antagonists]]
+[[Category:Characters in Final Fantasy XIV]]

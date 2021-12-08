@@ -1,0 +1,43 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Kazagg Chah
+|release=FFXIV
+|japanese=カザグ・チャー
+|romaji=Kazagu Chā
+|image=FFXIV-Kazagg Chah.png
+|race=[[Amalj'aa]]
+|gender=Male
+|type=npc
+|job={{icon|ffxiv|discipline|black mage}}
+}}
+'''Kazagg Chah''' is a non-playable character from ''[[Final Fantasy XIV]]''. An outcast among the [[Amalj'aa]], he is a major character in the [[Black Mage (Final Fantasy XIV)|Black Mage]] job quests.
+
+==History==
+===''[[Final Fantasy XIV]]''===
+<!--The session title is only "Final Fantasy XIV" because version 1.0 and ARR share the same storyline.-->
+[[File:Kazagg Chah from Final Fantasy XIV legacy.png|thumb|left|Kazagg Chah in version 1.0.]]
+Kazagg Chah is seen granting the Gem of [[Shatotto]] as per [[Ququruka Tataruka|Ququruka]]'s instructions to the Warrior of Light. He later assists in fulfilling the prophecies of Ququruka, alongside the ixal [[Dozol Meloc]] and the kobold [[269th Order Mendicant Da Za]]. Their grandfathers had assisted the mage in uncovering the secrets of Black Magic a century ago. Later they discover that Ququruka had accidentally transformed his beastmen associates into the voidsent Barbatos, and had been preparing all this time for Barbatos to be laid to rest. Kazagg Chah and the others forgive him for his sins.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+After the Book of Thal is stolen, [[Lalai Lai]] asks the Warrior of Light to inquire with Kazagg Chah about any unusual guests. Just before arriving, a mysterous black mage had attacked him but was driven off. While searching for the assailant, the Warrior of Light only finds the conjurer [[Zhai'a Nelhah]], whom Kazagg confirms was not the attacker. The Hearer explains he's searchind for [[Waldeve]], a former conjurer who forsook his post to pursue forbidden black magic, creating a cult called "the Defiant" in the process.
+
+Kazagg Chah later assists in the arrest of Waldeve at the Burning Wall, where they must put down his rogue voidsent Barghest.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Kazagg Chah is a male Amalj'aa with scars along his body, he wears a sash around his waist with a headdress and necklace. He wields a horned scepter in battle.
+
+===Personality===
+Kazagg is a wise and patient character, and knowledgeable in black magic.
+
+==Gameplay==
+Kazagg Chah appears as an NPC ally during the Black Mage job quests {{icon|ffxiv|quest|Always Bet on Black}} and again at {{icon|ffxiv|quest|The Defiant Ones}}. He fights as a thaumaturge.
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Amalj'aa]]
+[[Category:Black Mages]]

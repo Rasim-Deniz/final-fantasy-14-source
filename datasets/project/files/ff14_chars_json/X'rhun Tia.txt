@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = X'rhun Tia
+|release = FFXIV
+|japanese =シ・ルン・ティア 
+|romaji =Shi Run Tia 
+|lit=Sh'run Tia
+|aka=Deep Red X'rhun Tia
+|image =FFXIV X'hrun Tia.png
+|race = [[Miqo'te]]
+|gender = Male
+|height = 
+|hair = White
+|eye = Light Blue
+|designer = 
+|age = 42
+|affiliation = 
+|occupation = 
+|type=npc
+|job = {{icon|ffxiv|discipline|red mage}}
+|weapon = Murgleis
+|armor = Duelist's Attire
+|home=Ala Mhigo|abilities=Vercure, Jolt, VerFire, Verthunder, Verstone, Veraero}}
+{{Quote|I am X'rhun Tia, a pilgrim of sorts. Might I know your name, friend?|X'rhun introducing himself}}
+'''X'rhun Tia '''also known as '''Deep Red X'rhun Tia''' is a Miqo'te non-player character and job master in ''[[Final Fantasy XIV: Stormblood]]''. X'rhun travels the realm alone lending aid to those in need, and teaching the art of [[Red Mage (Final Fantasy XIV)|red magic]] to those worthy.
+
+==History==
+===Early life===
+X'rhun Tia was a member of the Crimson Duelists a band of red mages active during the [[Ala Mhigo|Ala Mhigan]] revolution. As a means to resist the tyranny of the mad king Theodric, he worked with [[Lambard Calowise]] and his other sworn brothers to successfully revive the lost art of red magic. X'rhun was out scouting when he returned to find that the entire order was massacred. Following the revolution and [[Garlean Empire|Garlemalds]] invasion, he assisted in evacuating citizens from the war torn land. Later he finds out that Lambard had betrayed them for imperial coin, and after twenty years of fruitless searching thought of him to be dead.
+
+During his travels he met [[Alisaie Leveilleur|Alisaie]] and she persuaded him to teach her the art of red magic, he noticed that she struggled with the fencing aspect at first, but after more lessons she learned to weave spellcraft along with swordplay.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Eventually his travels led him to [[Ul'dah]] where he hears of a young girl being kidnapped by a group of mysterious people. Outside the city gates he confronts them with his red magic and defeats them before noticing the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the girl's sister behind him. The two escort the girls back to the city proper, and the young girls tells X'rhun about the red garbed heroes her father would tell them stories about before leaving. X'hrun tells the Warrior to speak to him at the tavern in Central Thanalan. Once there he offers them the reward the children's mother gave to them for saving her daughters. He suddenly remembers that he's seen them before and notices that they are fighting to save his homeland. He shares how he heard of the Warrior from Alisaie and offers them a chance to become a red mage and join him on his travels. 
+
+Once the Warrior takes the [[Soul Crystal (Final Fantasy XIV)|soul crystal]] and learns its abilities, he tells them the history of the red mages and believes they should practice on whoever sent those kidnappers after those girls. They travel to the Church of Saint Adama Landama and ask [[Iliud]] if he knows about the sigils on the kidnappers and their emotionless expressions. He tells them that the sigil destroys the wearer's mind and turns them into puppets. The two then head outside and X'rhun tells the Warrior that they were being followed and teaches them some basics of magic before engaging their enemies in battle. They face their enemies and he continues teaching the Warrior along the way as they search for the leader. After trailing moving orbs they come across a spellcaster who sacrifices his life to summon a Cerberus beast. The two defeat it and he points out the sigil once more before sharing the development of red magic, and its recent history in Ala Mhigo. He states that he has always fought for the liberation of his homeland and allied himself with the scholars of [[Sharlayan]]. He tells them to prepare for the next counter and that he will wait there until they are ready.
+
+Following more practice as a red mage, the two speak with Iliud and he tells them how a merchants son was kidnaped recently and his father offered to pay the kidnappers a ransom. The two were killed however and he states that they were Ala Mhigan born, noticing that the girls are as well. Iliud states that he is currently at the [[Manderville Gold Saucer|Gold Saucer]] and the two travel their in search of Wilkin, the girls father. At the Gold Saucer they pretend to be gamblers and listen in on Wilkin to see if he is doing any shady business on the side. He notices an [[Ala Mhigan Resistance]] soldier talking with him and decides to make themselves known to the merchant. Wilkin thanks them for saving his daughter and notes that he is still being stalked by the kidnappers. He also states that he does shady business at the saucer because of [[Godbert Manderville|Godbert]] hiring a lot of Ala Mhigan refugee's allowing him to blend in. Their discussion ends with the two red mages agreeing to guard him in order to understand their foes more and to keep him safe.   
+
+At [[Western Thanalan|Vesper Bay]] the two split up in order to take care of any assassins lying in wait for Wilkin. After rooting them out and meeting up again, X'hrun states that he left one alive on purpose in order to track him down later. The Warrior of Light gives X'rhun a letter thanking and reminding him that he saved Wilkin when he was a young boy 20 years ago. He reminisces on that time, and states that lives matter instead of the place, and that red mages must strive for the greatest good.  {{Section}}
+
+==Characteristics==
+===Appearance===
+X'rhun is an aging Seeker of the Sun Miqo'te with white hair and light blue eyes. He wears the Duelist's Attire and wields the Murgleis rapier.
+
+===Personality===
+X'rhun is a helpful person saving people in need, and is willing to teach many the art of red magic. When teaching the Warrior of Light the art, he teaches them how to use their mana in the heat of battle, showing his focus and skill when in dangerous situations. He is an expert at sleuthing possible plans of attack, and is proficient at gathering information from the many allies he has met along his travels. 
+
+==Gameplay==
+X'rhun fights alongside the player as a [[guest]] in certain Red Mage questline instances. As an ally NPC, when the player's health gets low he will heal them with Vercure.
+
+== Gallery ==
+<gallery>
+File:Fear Gorta.png|X'rhun facing the Fear Gorta.
+</gallery>{{navbox characters FFXIV}}
+
+[[Category:Miqo'te]]
+[[Category:Red Mages]]
+[[Category:Characters in Final Fantasy XIV]]

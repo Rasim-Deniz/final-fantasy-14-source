@@ -1,0 +1,32 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Govv
+|release=FFXIV
+|japanese=ゴォヴ
+|romaji=Goovu
+|image=FFXIV Govv.png
+|race=[[Sahagin]]
+|gender=Male
+|type=npc
+|discipline={{icon|ffxiv|discipline|fisher}}
+}}
+'''Govv''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is involved in the [[fisher]] questline during the ''[[Final Fantasy XIV: Stormblood|Stormblood]]'' expansion.
+
+== History ==
+Govv met [[Wawalago Momolago]] while the [[Lalafell]] was fishing and Govv accidentally took his bait. In arguing they ended up getting into a discussion about love for the ocean floor. Wawalago started to sneak out of the city at night to talk to Govv. His behavior catches [[Sisipu Sipu|Sisipu]]'s attention who asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to find out what the guildmaster was up to. The Warrior's investigation ends with being introduced to Govv.
+
+Govv is gravely concerned at the sudden disappearance of a striking species of fish known as "the shooting star of the seas" in the Sahagin tongue. With a vote of confidence from the guildmaster, Govv accepts the Warrior of Light's aid, and goes off to collect more information to help ascertain where the fish may have absconded to. [[Reyna Breakhook]] locates the breeding beds of the shooting stars to a region on the [[Ruby Sea]] and that the fish are known to the Hingan people as harutsuge. Before the [[Garlean Empire]] arrived, the Isari fishermen teamed up with their [[Kojin]] friends to hold an annual event known as the Wadatsumi festival. The festivities involved the capture of fearsome sea beasts known as giant plesiosaurs and their homage to sea kami, but traditional religious practices were banned twenty-five years ago when the Garleans arrived, resulting in an overpopulation of plesiosaurs, who hunt the young of harutsuge before they can reach the maximum size.
+
+With the festival preparations completed, Wawalago travels to the far east with his companions. Govv participates in the festival and witnesses the return of the harutsuge.
+
+==Characteristics==
+===Appearance===
+Govv is a purple skinned [[Sahagin]] with golden eyes and red fins and membranes. The bones that protrude from his body are a dark gold colour, and he has oversized sharp teeth.
+
+===Personality===
+Govv is a defensive individual, protective of the natural life that exists among the reefs of Sahagin territory, as well as the practises of Sahagin fishing. He comes across as brash and rude, but individuals like Wawalago and Reyna can tell he's unfamiliar with the customs of other cultures. Govv has a habit of accidentally biting the fishing lines of fishermen due to his instincts to hunt.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Sahagins]]
+[[Category:Fishers]]

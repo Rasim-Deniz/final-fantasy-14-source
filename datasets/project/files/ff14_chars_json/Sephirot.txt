@@ -1,0 +1,112 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Sephirot
+|release=FFXIV
+|japanese=魔神セフィロト
+|romaji=Majin Sefiroto
+|lit=Devil Sephirot
+|aka=The Fiend
+|image=FFXIV Sephirot Render.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Warring Triad (Final Fantasy XIV)|Warring Triad]]
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=Fiend (Final Fantasy VI)
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+}}
+{{Quote|I am the end and the beginning! By my touch shall your wretched lives be blessed!|Sephirot}}
+'''Sephirot, the Fiend''' is a [[primal]] from ''[[Final Fantasy XIV]]'', who appears in version 3.2, "[[Final Fantasy XIV#The Gears of Change (3.2)|The Gears of Change]]". He is one of the [[Warring Triad (Final Fantasy XIV)|Warring Triad]].
+
+Sephirot and the other two deities of the Warring Triad are based on their ''[[Final Fantasy VI]]'' [[Warring Triad|counterparts]]. Sephirot himself was inspired by the [[Fiend (Final Fantasy VI)|Fiend]]. His name was taken from the working name he was initially given before simply being called Fiend in ''Final Fantasy VI''.
+
+==History==
+[[File:FFXIV Sephirot.png|thumb|left|Sephirot, the Fiend bound.]]
+Sephirot was created near the end of the Third Astral Era by the collective faith of a tree-like race from a tree that they revered in [[Meracydia]] to repel invaders from the [[Allagan Empire]]. Though powerful, Sephirot was captured and imprisoned with his fellow Warring Triad in [[Azys Lla]], where advanced Allagan technology drains his power while keeping his physical form intact. The Allagans learned Sephirot can induce growth in both himself and other living organisms, and using it created many of their bio-engineered creatures. After the Allagan Empire fell, the Warring Triad remained in suspended animation for centuries until the actions of Archbishop [[Thordan VII]] weakened their seals with Sephirot the first to nearly escape imprisonment.
+
+[[File:FFXIV Sephirot defeated.png|thumb|Sephirot is defeated by the Warrior of Light.]]
+Guided by [[Unukalhai]], the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] venture to Containment Bay S1T7 to unseal and defeat Sephirot before he can escape and unleash unthinkable catastrophe. After the group wins, Unukalhai tells Sephirot's history before giving the Warrior an [[Allagan Tomestone|Allagan tomestone]] containing data on Sephirot as he existed during the Third Astral Era. Using the tomestone at a terminal in Azys Lla will create a simulation battle based on this data, allowing one to experience a fight against Sephirot at his full strength.
+{{clear}}
+
+==Gameplay==
+{{Main|Containment Bay S1T7}}
+{{Section|Final Fantasy XIV}}
+
+==Musical themes==
+{{audio|filename=FFXIV Battle to the Death.ogg|title="Battle to the Death - Heavensward"}}
+A rearranged version of "[[Battle to the Death (Final Fantasy VI)|Battle to the Death]]" from ''Final Fantasy VI'' plays in the first phase of the battle against Sephirot.
+{{clear}}
+
+{{audio|filename=FFXIV Sephirot Theme.ogg|title="Fiend"}}
+The second part of the fight has a new theme, called "[[Fiend (song)|Fiend]]", that starts playing when Sephirot uses Ein Sof Ohr, his signature attack.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Warring Triad Fiend.png|The statue of Sephirot, the Fiend in [[Azys Lla]]
+FFXIV Sephirot Early.png|Early in-game screenshot released by Square Enix on New Year's
+FFXIV Sephirot Battle.png|The Warrior of Light encounters Sephirot.
+FFXIV Sephirot Face.png|Closeup of face
+FFXIV Sephirot Ability 2.png|Ein Sof Ohr
+FFXIV Sephirot Ability 1.png|Life Force
+</gallery>
+
+==Etymology==
+In the original concept artwork {{Show image|Fiend ffvi concept art.jpg}} for Fiend from ''Final Fantasy VI'' by [[Tetsuya Nomura]]—upon which Sephirot is based on—Fiend is called Sefilos {{J|セフィロス|Sefirosu}}, the kana of which are meant to be spelled as "Sephiroth".
+
+{{Etym|Sephiroth}}
+
+The creature's name is spelled "セフィロト" in kana and "Sephirot" in English to help distinguish it from the [[Sephiroth|''Final Fantasy VII'' antagonist]], who inherited the originally "unused" name from ''Final Fantasy VI''.
+
+{{Etym|Fiend}}
+
+{{Etym|Majin}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Primals in Final Fantasy XIV]]

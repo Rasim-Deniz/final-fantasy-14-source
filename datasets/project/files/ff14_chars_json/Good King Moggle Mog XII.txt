@@ -1,0 +1,92 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{infobox character
+|name=Good King Moggle Mog XII
+|release=FFXIV
+|japanese=善王モグル・モグXII世
+|romaji=Zen-ō Moguru Mogu Jūni-sei
+|aka=
+|image=FFXIV KingMoggleMog.png
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+|japanese voice actor=
+|english voice actor=
+|boss page=Thornmarch
+}}
+{{Quote|You shall suffer for your transgressions against my subjects!|Good King Moggle Mog XII}}
+'''Good King Moggle Mog XII''' is a [[primal]] in the form of a [[Moogle (race)|moogle]] that appeared in the legacy ''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' and now appears in ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''.
+
+==History==
+Moogles originated in the [[Churning Mists]] and were gods' loyal servants. Due to a war, the moogle king led his subjects to the realm of mortals in secret to live a peaceful life. The moogles found the distance to the land below too great for their wings, and thus the journey would be made by rope, the longest ever woven. The king grasped onto one end of this lifeline as his subjects, one after the next, half clambered, half slid their way to the Promised Land, except for Good King Moggle Mog XII who had not the means to lower himself. Mourning their lost king and touched by his sacrifice, the moogles have since abstained from naming a successor and revere his name. In truth, some moogles remained in the Churning Mists while the ones that escaped made their home in [[Gridania]].
+
+Ages later, at the dusk of the Sixth Astral Era and again during the [[Seventh Umbral Era|Seventh Umbral]], the Mooglesguard of the Twelveswood, the sworn defenders of mooglekind, grow worried about the threats to the forest and feel compelled to bring Moggle Mog to [[Eorzea]] via a ritual taught to them by the kind [[Ascian|masked stranger]] who approached them. Many note this shouldn't be possible as Moggle Mog is believed to be a legend. What the Mooglesguard had summoned was their desire for Moggle Mog to be real, given physical form.{{note|During development and in legacy ''Final Fantasy XIV'', there was confusion over whether Moggle Mog was a "true" primal—including contradictory statements from the development team at different times. Amusingly, this has been transferred to the canon itself, as a significant part of the ''A Realm Reborn'' Moggle Mog questline involves puzzling over the nature of the being the Mooglesguard have summoned.}}
+
+While moogle legends describe Moggle Mog as a kind, benevolent presence, the primal Mooglesguard summoned is driven by the need to feast on ever-greater amounts of [[aether]] along with a large following to further solidify his being. The [[Warrior of Light (Final Fantasy XIV)|adventurer]] and company defeat Moogle Mog on two separate occasions before he does irreparable damage, not just to the other citizens of the Twelveswood, but to the moogles themselves.
+
+Rather than recognizing their folly in summoning the king, the Mooglesguard are filled with anger and summon him forth once more. More powerful than his previous incarnation, it assumes the title of Great King Moggle Mog XII. Despite his increase in power, the adventurer defeats both the King and the Mooglesguard yet again.
+
+==Gameplay==
+{{Main|Good King Moggle Mog XII (boss)/Legacy|Thornmarch}}
+Good King Moggle Mog XII is fought as a [[boss]] aide by a zealous band of moogle warriors. While most moogles in the franchise have names derived from "moogle" or "mog" (i.e. [[Montblanc]], Mogsy, Moguel) with the exceptions of [[Stiltzkin]] and [[Artemicion]], the moogles fought in the Good King Moggle Mog XII battle have names derived from "[[Kupo (term)|Kupo]]", the moogles' trademark noise (i.e. Pukna Pako, Kupli Kipp, Kupti Koop). This naming convention was previously used in the SNES translation of ''[[Final Fantasy VI]]'' for the names of the [[Ten Moogles]], with the exception of [[Mog (Final Fantasy VI)|Mog]].
+
+==Musical themes==
+{{Main|Moogle Theme#Final Fantasy XIV|t1=Moogle Theme in Final Fantasy XIV}}
+{{audio|filename=FFXIV Moogle Theme.ogg|title="Good King Moggle Mog XII"}}
+Good King Moggle Mog XII's eponymous theme plays during the battle against him. It is a remix of the traditional "Moogle Theme", albeit more spooky in nature. The main melodic lines are drawn from "[[Mog (Final Fantasy VI)#Musical themes|Mog's Theme]]" from ''Final Fantasy VI''. It resembles "[[wikipedia:This Is Halloween|This Is Halloween]]", the opening theme to ''The Nightmare Before Christmas'', written by Danny Elfman.
+
+The lyrics to the song in Phase 2 (Post-Memento-Moogle) describe the moogles in the fight (including the king) and their personalities and specialities. Players may assume the moogles are either introducing each other or themselves, but nothing in the lyrics confirms this. It is possible the lyrics were written as a mnemonic device for players.
+{{clear}}
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:GoodKingMoggleMogXII TCG.png|thumb|100px]]
+Good King Moggle Mog XII appears as an Ice-elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:388a Good King Moggle Mog XII.png|thumb|100px]]
+Good King Moggle Mog XII appears on a Triple Triad card in ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Non-''[[Final Fantasy series|Final Fantasy]]'' guest appearances==
+===''[[Guardian Cross]]''===
+{{Quote|Long believed to be a myth, this moogle king has now descended to Eorzea.|Description}}
+[[File:Guardian Cross Good King Moggle Mog XII Card.png|thumb|100px|Guardian Cross card.]]
+Good King Moggle Mog XII appears as a card on the mobile card game ''Guardian Cross''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV King Moogle Artwork.png|Artwork of Good King Moggle Mog XII.
+King Moggle Mog Art.png|Artwork of Good King Moggle Mog XII.
+Guardian Cross Good King Moggle Mog XII Full.png|Full version of Good King Moggle Mog XII's card in ''Guardian Cross''.
+</gallery>
+
+==Notes==
+{{Notelist}}
+
+{{navbox characters FFXIV}}
+[[Category:Moogles]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Primals in Final Fantasy XIV]]

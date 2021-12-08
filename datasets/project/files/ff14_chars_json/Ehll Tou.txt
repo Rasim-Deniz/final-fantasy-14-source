@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Ehll Tou
+|release =FFXIV
+|japanese =エル・トゥ
+|romaji =Eru Tu
+|image =FFXIV Ehll Tou.png
+|home =
+|affiliation =
+|occupation =
+|race =[[Dragon]]
+|gender =Female
+|type=npc
+}}
+'''Ehll Tou''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is a dragonet daughter of [[Gullinbursti]] and a descendant of [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]].
+
+==History==
+Ehll Tou meets [[Marcelloix (Ishgard)|Marcelloix]] wandering aimlessly and encourages him to return home to [[Ishgard]]. Both are barred at the entrance to the Holy See, but due to [[Joacin Charlemend Francel de Haillenarte|Francel]]'s intervention the two dragons manage to enter. Due to Marcelloix's problems in reuniting with his family, Ehll Tou flies alone to see the district, and Francel asks the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to accompany her so that she does not cause alarm among the residents.
+
+With Francel's permission to walk around the Holy See, Ehll Tou wants to know historical events to make songs just like Ratatoskr. The Warrior of Light, the one who put an end to the [[Dragonsong War]], tells about their journey and shows some important places in the course of the war. The pair is followed by a young aspiring writer named Hautdlong who proposes to help the dragon learn new tales.
+
+Ehll Tou becomes a Custom Delivery recipient after pledging to learn crafting with the help of Master Crafter Arvide and the Warrior of Light. She crafts tools and clothing for herself, while also taking trips to the [[Sea of Clouds]] to show off her work to her kin, who do not see the point of such things at first but do come around to it over time. Eventually Ehll Tou struggles with a delivery causing Hautdlong concern, which escalates when she doesn't return for a long time. Upon arriving she has evolved in size with much greater dexterity as a result of her studies, able to still dress and wield her tools. Her efforts have garnered attention from her friends her age, as well as opening their minds to friendship with man, especially with Hautdlong's friendly attitude toward them at her home. Ehll Tou returns to stay around in the firmament to continue her efforts, while some of her kin visit and fly around Ishgard, conversing with the locals and showing that things are moving on from the Dragonsong War.
+
+==Characteristics==
+===Appearance===
+She is a typical dragonet with a distinct red coloring like her father.
+
+===Personality===
+[[Hautdlong]] describes her as like an "ordinary girl, albeit a smug one". Her budding curiosity combined with her self-importance being descended from Ratatoskr leaves her impatient and sometimes innocently insensitive. She means well and when she does get to the history of her kin with people she can show a well-meaning and thoughtful side to her. She is open to friendship and quickly makes herself at home among where she is welcomed, compared to the more wary attitude of her elders.
+
+==Behind the scenes==
+Ehll Tou has a unique animation during her talks where she flies her body vertically and brings her front paws to her body, like a human resting their hands at their waist. Typically used when she is getting expressive with her words.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]
+[[Category:Custom Delivery NPCs]]

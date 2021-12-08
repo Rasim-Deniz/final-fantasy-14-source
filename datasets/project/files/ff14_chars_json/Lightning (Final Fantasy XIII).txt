@@ -1,0 +1,456 @@
+{{sideicon|prime=FFXIII|XIII2|LR}}
+{{DISPLAYTITLE:Lightning (''Final Fantasy XIII'')}}
+{{FA|March 2011}}
+{{infobox character
+|name=Lightning
+|release=FFXIII
+|japanese=ライトニング
+|romaji=Raitoningu
+|aka=Claire Farron {{j|エクレール・ファロン|Ekurēru Faron|Eclair Farron}}, Light, Sergeant Farron
+|image=<gallery>
+FFXIII-Lightning CG.png|FFXIII
+Lightning FFXIII-2.png|XIII-2
+Lightning - LRFFXIII.png|Lightning Returns
+</gallery>
+|home=[[Bodhum]], [[Valhalla (Fabula Nova Crystallis)|Valhalla]], [[Nova Chrysalia]], [[New world (Lightning Returns)|New World]]
+|age=20, 21 (''Episode Zero -Promise-'')<br/>21 (Physically) (''Final Fantasy XIII'',<ref name="ffxiiiscenulti10">{{Refbook|[[Final Fantasy XIII Scenario Ultimania]]|010}}</ref> ''Final Fantasy XIII-2'', ''Lightning Returns''<!-- Lightning was taken to Valhalla right after FFXIII's ending, and time in Valhalla doesn't flow like it should: TIME DOES NOT EXIST IN VALHALLA. After that, she is in crystal stasis; thus, like Fang and Vanille, she does not age physically, only chronologically. -->)<br/>521 (Chronologically) (''Lightning Returns'')<!-- Lightning awakens 500 years AFTER the events of XIII-2, thus making her 521 years old chronologically. See first note for explanation as to why she has not aged five hundred years. -->
+|affiliation=[[Guardian Corps]] (formerly)
+|occupation=Bodhum Security Regiment sergeant (formerly)
+|race=[[Human]], [[l'Cie]] (formerly)
+|gender=Female
+|height=171 cm (5'7")<!--DO NOT CHANGE HEIGHTS WITHOUT PROOF. Always cite your reference(s).--><ref name="ffxiiiscenulti10"/>
+|laterality=Right-handed
+|ffxiii type=playable
+|ffxiii primary roles=[[Commando (Final Fantasy XIII)|Commando]], [[Ravager (Final Fantasy XIII)|Ravager]], [[Medic (Final Fantasy XIII)|Medic]]
+|ffxiii limit break=[[Army of One (ability)|Army of One]]; [[Army of One (ability)|Legion of One]]
+|ffxiii summon=Odin
+|ffxiii weapon=[[Blazefire Saber (Final Fantasy XIII)|Blazefire Saber]] gunblade<br/>[[Zantetsuken (Final Fantasy XIII weapon)|Zantetsuken]] (during Odin's Gestalt mode)
+|ffxiii ultimate weapon=Omega Weapon
+|xiii2 type=paradigmpack
+|xiii2 weapon=[[Overture (Final Fantasy XIII)|Overture]]
+|lr type=playable
+|lr weapon=[[Crimson Blitz (Lightning Returns)|Crimson Blitz]]
+|designer=[[Motomu Toriyama]]<br>[[Tetsuya Nomura]]
+|motion capture=Naho Nakashima
+|japanese voice actor=[[Maaya Sakamoto]]
+|english voice actor=[[Ali Hillis]]
+|party member 1=Lightning (Final Fantasy XIII party member)
+|party member game 1=FFXIII
+|party member 2=Lightning (Final Fantasy XIII-2 party member)
+|party member game 2=XIII2
+|party member 3=Lightning (Lightning Returns party member)
+|party member game 3=LR
+|quotes=
+|boss page=Lightning (Final Fantasy XIII-2 boss)
+|other appearances=true
+|dissidia=Lightning (Dissidia PSP)
+|dffnt=Lightning (Dissidia NT)
+|dffoo=Lightning (Opera Omnia)
+|theatrhythm=Lightning (Theatrhythm)
+|ffrk=Lightning (Record Keeper)
+|ffbe=Lightning (Brave Exvius)
+|woff=Lightning (World of Final Fantasy)
+|gallery=true
+}}
+{{Quote|This solitary young woman speaks little of herself—even her true name is a mystery. She is known to others simply as 'Lightning'.|Online description}}
+'''Lightning''', born '''Claire Farron''', is the main protagonist of ''[[Final Fantasy XIII]]'' and the central character of the ''[[Lightning Saga]]''. She is the narrator and a [[Guest|temporary playable character]] in ''[[Final Fantasy XIII-2]]'' and returns as the protagonist and only directly playable character in ''[[Lightning Returns: Final Fantasy XIII]]''.
+
+In ''Final Fantasy XIII,'' Lightning seeks to save her younger sister [[Serah Farron|Serah]] but becomes entangled in a plot that endangers [[Cocoon (Final Fantasy XIII)|Cocoon]], her homeworld. In ''Final Fantasy XIII-2,'' Lightning serves as a knight protecting the goddess [[Etro]] from her fated rival, [[Caius Ballad]]. In the concluding tale, ''Lightning Returns: Final Fantasy XIII,'' the god [[Bhunivelze (character)|Bhunivelze]] chooses Lightning to be a [[Savior (Lightning Returns)|savior]], tasked to save the people's [[Soul (Fabula Nova Crystallis)|souls]] before the [[Apocalypse (Lightning Returns)|end of the world]].
+
+Lightning is the second primary female protagonist in a mainstream numbered ''[[Final Fantasy series|Final Fantasy]]'' game, with [[Terra Branford]] from ''[[Final Fantasy VI]]'' generally accepted as being the first.
+
+== Profile ==
+=== Appearance ===
+[[File:LightningIntro.png|thumb|left|Lightning.]]
+Lightning is a young woman with wavy rose pink hair and pale aqua eyes. Lightning's eye color is officially noted as blue, though in the FMVs and promotional art, they often appear green due to green aspects around the pupil. In ''[[Final Fantasy XIII-2 Fragments Before]]'', Serah says that Lightning resembles their mother.
+
+Lightning has the most extensive set of outfits out of any character in the series: she has over ninety different ensembles, including crossover and downloadable costumes. In ''Final Fantasy XIII'', she wears a variation of the standard [[Guardian Corps]] uniform with an ankle-length red cape attached to the left side of her back and a light burgundy leather detachable pocket on her left leg. The green metallic pauldron over her left shoulder bearing yellow stripes denotes her previous rank as a sergeant. She carries her [[Gunblade (weapon type)|gunblade]] in a black case that hangs off her belt and wears a necklace with a lightning bolt pendant. Her [[l'Cie]] brand is located slightly above her left breast. She has a navel piercing, although it can be hard to spot.
+
+In ''Final Fantasy XIII-2'', Lightning wears a silver and gold Valkyrie-like suit of armor with a shield on her left arm (though it's on the right arm in her CG render). She has [[Overture (weapon)|a new gunblade]] that more closely resembles a traditional doubled-edged sword engraved with [[Language#Final Fantasy XIII|Etro script]]. She no longer has the navel piercing she did in ''Final Fantasy XIII''. This attire has come to be known as the [[Knight of Etro]].
+
+Art Director [[Isamu Kamikokuryo]] consistently draws Lightning and Serah with blonde hair in concept art, despite their more "official" appearances. Additionally, Kamikokuryo's Lightning concept art for ''Final Fantasy XIII-2'' has black armor with gold or white outlines, possibly contributing to Lightning's design in ''Lightning Returns: Final Fantasy XIII'' where she has black armor.
+
+During ''Lightning Returns: Final Fantasy XIII'', Lightning has [[Lightning Returns: Final Fantasy XIII garbs|many costumes]]. Her default outfit, [[Equilibrium (garb)|Equilibrium]], is overall similar to what she wore in ''Final Fantasy XIII-2'' but acts as a fusion of Lightning's clothes from ''XIII'' and ''XIII-2''. It has a split cape and chaps that homage her Guardian Corps uniform. The [[Lightning Returns: Final Fantasy XIII shields#Night Lotus|Night Lotus]] shield on her left arm and the [[Lightning Returns: Final Fantasy XIII weapons#Crimson Blitz|Crimson Blitz]] sword in her right hand are in homage to her [[Eidolon (Final Fantasy XIII)|Eidolon]] [[Odin (Final Fantasy XIII)|Odin]].<ref name="newlook-nc" /> The [[:File:Lightning Returns Final Fantasy XIII Logo.png|symbol from the game's logo]] appears on her outfit several times: on her chest, her sword, and her shield.
+
+Lightning's [[eidolith]] is a pink rose bloom, and [[Flower (symbolism)|red petals]] flourish when she [[Summon (command)#Final Fantasy XIII|summons]] Odin and changes it into Sleipnir in Gestalt Mode.
+
+===Personality===
+{{Quote|This isn't working. I mean, you're a liability. You'll just slow me down.|Lightning to Hope}}
+Lightning is determined, concentrated, and independent. She's initially cold and detached, distancing herself from her companions, only looking out for herself, and not caring if others get left behind. Lightning's perception of failing to protect Serah drives her, leading her to lash out at those she believes are responsible for her fate: the [[Sanctum (Final Fantasy XIII)|Sanctum]], its [[fal'Cie]], and to a point, [[Snow Villiers]], for his relationship with Serah and his failure to protect her as he promised. While journeying with [[Hope Estheim]], she acts as his mentor and motherly figure. Taking him under her wing, Lightning becomes more emotionally open; Hope serves as a surrogate sibling and helps her realize the errors in her approach and her mistakes with Serah. Lightning begins to show compassion and trust others and becomes the leader and, to a degree, protector of the other [[Gran Pulse]] l'Cie as they journey to challenge their fate.
+
+''[[Final Fantasy XIII Episode Zero -Promise-]]'' reveals Lightning is better at housework than Serah, but that Serah is the better cook. Lightning describes their father as easy-going, passionate, but not always reliable—similar to Snow—possibly explaining her initial hatred towards him.
+
+In ''Final Fantasy XIII-2'', Lightning is almost a new woman due to the experiences and emotions she has endured. She has learned to trust others and ask them for help and express her feelings rather than keeping them bottled up. Her recognition of her past "sins" has made her more melancholy.
+
+In ''Lightning Returns'', Lightning is initially cold and distant. Most of her emotions have been sapped from her, although her memories remain intact. Her wish to save Serah remains, and she still shows concern for her former allies. Lightning and Hope demonstrate trust and care for one another, Hope promising to be by her side, helping Lightning better maintain her humanity despite her situation. She resents Bhunivelze for robbing her of her emotions and exploiting her circumstances to his advantage.
+
+Because of her assigned task to save souls, Lightning begins to show compassion toward others. Straying from her cold-hearted personality, she begins to encourage those struggling, implying she unconsciously had given up her emotions, rather than Bhunivelze taking them with force, which [[Lumina]] further suggests. Producer [[Yoshinori Kitase]] describes Lightning as trying to rescue herself from the pain she hides in her heart through saving others; her heart stayed "pure" in her crystal sleep instead of being corrupted by darkness like Noel's and Snow's hearts.<ref>{{ref |id=Siliconera |author=Siliconera staff|date=15 November 2013 |title=Lightning Returns: Final Fantasy XIII: How Snow And Other FFXIII Heroes Changed|url=https://www.siliconera.com/lightning-returns-final-fantasy-xiii-interview-snow-ffxiii-heroes-changed/|publisher=Siliconera|access-date=25 February 2021}}</ref> By the end of her quest, Lightning comes around from her self-imposed rigid and emotionless warrior persona, as Serah and Lumina, along with all her experiences, help her realize that locking her heart away is how she discarded her happiness.
+
+Lightning has a prankish side, as she considered bonding with Serah through the sport of [[Mog (Final Fantasy XIII-2)#Gameplay|Moogle Throw]].
+
+===Abilities===
+{{spoiler}}
+Lightning is a capable combatant, defeating many trained [[PSICOM]] soldiers on her own. Besides being adept in swordplay and marksmanship with her gunblade, she is skilled in hand-to-hand combat. After becoming Etro's champion, Lightning's prowess as a warrior allows her to stalemate and later defeat Caius Ballad, an immortal with centuries of experience. As the savior, Lighting can even fight Bhunivelze.
+
+Lightning gains the ability to cast magic as a l'Cie and displays utilitarian aptitude; thunder magic is her specialty. Her Eidolon is Odin, whom she can ride as her steed while dual-wielding the [[Zantetsuken (Final Fantasy XIII weapon)|Zantetsuken]]. Although no longer a l'Cie, she regains her magical abilities after becoming Etro's Champion and displays more advanced magical prowess than Serah and [[Noel Kreiss|Noel]]. Her ability to use magic remains as she becomes the savior. While in [[Valhalla (Fabula Nova Crystallis)|Valhalla]], Eidolons answer her call, and she can send messages via dreams to those residing in the mortal realm.
+
+As the savior, Lightning can collect [[Eradia]] from those who find peace and yield it to the magical tree [[Yggdrasil (Lightning Returns)|Yggdrasil]]. Her status as the savior allows her access to the [[Temple Ruins]].
+{{clear}}
+
+==Story==
+===Early life===
+Claire's father died when she was young, and her mother died from an unknown illness when she was 15. With no other family to turn to, Claire raised her younger sister, Serah. To overcome the pain of her parents' deaths and become an adult as quickly as possible, she changed her name to "Lightning". Despite the delusion of not needing her past, she was an average orphaned child who wanted to be loved.
+
+After high school graduation, Lightning joined the Guardian Corps Bodhum Security Regiment under Lieutenant [[Amodar]]. She attained the rank of sergeant and became scheduled for officer training. However, she began to lose sight of her goals and worked many hours while spending little time with Serah.
+{{clear}}
+
+===''[[Final Fantasy XIII Episode Zero -Promise-]]''===
+[[File:Lightning&Amodar.png|thumb|left|Lightning and Amodar at the fireworks festival.]]
+{{Quote|You became a l'Cie, so now you're gonna marry this idiot? And you think I'm gonna buy that? Full points for originality. But, don't forget. If you really are a l'Cie, it's my job to deal with you.|Lightning to Serah}}
+Nine days before Lightning's 21st [[birthday]], the [[Bodhum]] [[Monster (term)|monster]]-fighting group [[NORA]] rescues her from an aquatic ambush. Lightning meets Snow Villiers: their leader and Serah's boyfriend. Lightning remains unimpressed as she has never approved of NORA's vigilantism and unsuccessfully demands him to stop dating Serah.
+
+The next day, Lightning begins regretting her lack of attention to Serah, feeling Serah got involved with Snow to quell her loneliness. Seeing [[Nora Estheim]] and her son Hope in the mall inspires Lightning to plan a vacation away from Bodhum for her birthday to spend time with Serah and divert her attention from Snow. Four days later, the [[Cavalry]] is hunting down a girl named [[Oerba Dia Vanille|Vanille]] in Bodhum; Lightning meets with [[Rygdea]], suspecting it may have something to do with the incident at [[Euride Gorge]] two days ago. While attending Bodhum's fireworks festival four days later, Lightning learns of a Pulse-related incident at the nearby [[Pulse Vestige|Vestige]] being kept under wraps by the Sanctum, but Amodar warns her not to investigate.
+
+[[File:Lightning birthday.png|thumb|"Worst birthday ever."]]
+The next day, Lightning's birthday, Serah reveals she was branded a Pulse l'Cie, and that she and Snow are now engaged. Thinking Serah is lying to give herself an excuse to wed Snow, Lightning drives her away, leaving her alone to open her birthday present from Serah: a [[Survival Knife (Final Fantasy XIII)|survival knife]]. When the Sanctum announces Bodhum's quarantine after discovering a Pulse fal'Cie within the Vestige last night, Lightning realizes Serah told the truth.
+
+After learning the Sanctum plans to [[Purge]] everyone in town to Pulse, Lightning tries to find Serah but Snow says she is held captive inside the Vestige. The following day, PSICOM rounds up the people in Bodhum and lines them up to board Purge trains. Although military personnel is exempt, Lightning volunteers to be Purged with the civilians and resigns from the Guardian Corps, wanting to enter the [[Hanging Edge]], where PSICOM plans to move the Vestige and rescue Serah before she gets taken out of reach. A man named [[Sazh Katzroy]] approaches Lightning and joins her in her quest to reach the Pulse fal'Cie.
+{{clear}}
+
+===''[[Final Fantasy XIII]]''===
+[[File:Lightning Sazh&Purgees.png|thumb|Lightning and Sazh.]]
+{{Quote|This l'Cie curse, it took everything from me. My future. My dreams. I didn't want to think. So I fought instead. As long as I was fighting, nothing else was real. I was running away.|Lightning to Hope}}
+As the Purge train enters the Hanging Edge, Lightning attacks the PSICOM soldiers aboard, frees her fellow captives, and reclaims her gunblade. PSICOM forces fire on the train and a [[Manasvin Warmech]] brings it to a halt. Lightning and Sazh fight through the PSICOM forces and arrive at the Vestige, discovering Serah outside the Pulse fal'Cie [[Anima (Final Fantasy XIII)|Anima's]] Throne. Snow, Hope, and Vanille arrive, and Serah asks Lightning to save Cocoon before entering [[crystal stasis]], having fulfilled her [[Focus (Fabula Nova Crystallis)|Focus]]. Lightning and the group confront and destroy Anima but [[Pulse]] brands them l'Cie before the Vestige plummets to [[Lake Bresha]], crystallizing it on impact.
+
+Lightning and her new companions awaken in Lake Bresha, realizing they are now l'Cie and that upon their branding, they shared a vision of the legendary beast [[Ragnarok (Final Fantasy XIII)|Ragnarok]]. They discover Serah's crystal form fused to the crystallized lake. Deeming Serah is dead, Lightning reluctantly opts to continue onward to evade the army's closing net, so they leave behind Snow, who has chosen to dig Serah out. They find an [[Airship (term)|airship]] in abandoned ruins at the lake's edge and use it to escape, but are attacked by pursuing PSICOM ships and crash in the [[Vile Peaks]].
+
+[[File:Lightning to Eden.png|thumb|left|Lightning plans to take the fight to the Sanctum in Eden.]]
+Lightning plans to go to the capital city [[Eden (location)|Eden]] to destroy its [[Eden (fal'Cie)|namesake fal'Cie]] that controls the Sanctum, blaming it for the Purge and her current plight. After a disagreement on their Focus, which they believe is to destroy Cocoon, the group splits up: Lightning heads for Eden to take down the Sanctum, and Sazh and Vanille go the opposite direction to run from their fate. Followed by Hope and unable to send him back, Lightning lets him accompany her. Her patience wears thin as Hope becomes a liability and Lightning threatens to leave him. Her frustration summons the Eidolon Odin to attack Hope. Lightning saves him, and they defeat the Eidolon together, convincing her to let Hope travel with her and help him "toughen up".
+
+At the [[Gapra Whitewood]], Hope takes the lead, and Lightning gives him her survival knife to boost his confidence. Hope reveals his intention to take revenge on Snow for his part in his mother's death during the Purge. After Lightning advises Hope to form a plan to help him focus and fight, he keeps his sights on revenge. When Lightning tells Hope the Sanctum is to blame for Nora's death, he resolves to make both Snow and the Sanctum pay for it. Lightning tries to dissuade Hope by suggesting they visit [[Bartholomew Estheim|his father]].
+
+[[File:Lightning's Moment of Clarity.png|thumb|Lightning has an epiphany.]]
+In [[Palumpolum]], Hope leads Lightning into the underground Nutriculture Complex to avoid PSICOM. When Hope mentions the fal'Cie treat humans as their pets, Lightning realizes that having lived under the fal'Cie's care since birth had made her their pawn and that her anger is over her protectors turning against her. Realizing she has dragged Hope into the same delusion of fighting blindly to make up for doubt and confusion, Lightning tells Hope their quests for vengeance are over and vows not to abandon him. PSICOM soldiers led by [[Yaag Rosch]] ambush Lightning and Hope as they emerge in the Agora, but Snow and [[Oerba Yun Fang]], who've teamed up with the Cavalry to overthrow the Sanctum, intervene to save them. Lightning escapes with Fang and forces Snow to take Hope. The pairs agree to meet up at Hope's house over wireless communicators. Hope still wants to go through with his revenge, and when Lightning tries to reason with him, her plea never reaches him.
+
+Lightning learns Fang is not only a Pulse l'Cie like herself but an actual Gran Pulse citizen from the land below the floating world of Cocoon. Fang and Vanille were crystallized there centuries earlier after completing their Focus but awoke in Cocoon without knowing how or why and were indirectly responsible for Serah becoming a l'Cie. Lightning and Fang realize Pulse and Cocoon are more similar than they initially thought in how both worlds fear and hate each other. Fang tells Lightning how a l'Cie's brand indicates the amount of time until one becomes a [[Cie'th]]—a crystalline monster a l'Cie becomes upon failing their Focus—and reassures Serah will wake from crystal stasis one day.
+
+[[File:Lightning hugs Hope.png|thumb|left|Lightning promises to protect Hope.]]
+Lightning and Fang locate Snow and Hope in time to help the latter battle an [[Ushumgal Subjugator]]. Hope has abandoned his plan for revenge and returns Lightning's knife, and they promise to protect each other. Lightning tends to the injuries Snow sustained from saving Hope at the Estheim Residence and apologizes for her earlier behavior towards him, having gained an appreciation for how Snow always stayed by Serah's side. PSICOM attacks the apartment, but disguised Cavalry soldiers intervene. Lightning has Hope tie up his dad during the chaos to make him appear like an unwilling accomplice.
+
+The party boards the Cavalry's airship, the ''[[Lindblum (Final Fantasy XIII)|Lindblum]]'', and learns Sazh and Vanille are being held captive on the ''[[Palamecia (Final Fantasy XIII)|Palamecia]]'' airship. [[Primarch]] [[Galenth Dysley]], the head of the Sanctum government, is overseeing the transport. The four l'Cie infiltrate the ''Palamecia'' to rescue Sazh and Vanille, and once reunited, they confront Dysley on the bridge. He reveals himself as the fal'Cie [[Galenth Dysley|Barthandelus]], leader of the Cocoon fal'Cie. He explains the group's Focus is to destroy Cocoon by turning into Ragnarok and killing [[Orphan]], the fal'Cie that sustains Cocoon. The party flees on a small airship, which autopilots them through Eden into the [[Fifth Ark]] hidden beneath the city.
+
+The group's l'Cie powers are fully awoken. They encounter the Cavalry leader, [[Cid Raines]], learning he is a Sanctum l'Cie whom Barthandelus branded with the Focus of aiding them destroy Cocoon. Barthandelus desires for Cocoon's destruction so the resultant deaths will summon the [[Maker]], the creator of fal'Cie and humans alike. Raines rebels against his Focus by attempting to kill the l'Cie, and though defeated, transforms into crystal. The group decides to follow his example and save Cocoon. Fang turns against them until Lightning and Vanille help her tame her Eidolon, [[Bahamut (Final Fantasy XIII)|Bahamut]]. The party finds an airship with a gate leading to Gran Pulse and descends to the world below, hoping to find aid in their quest.
+
+[[File:Snow promises Lightning.png|thumb|Lightning and Snow promise to see Serah together.]]
+After falling under attack by a wild wyvern, Lightning helps Fang summon Bahamut to save the party. They land and create a base camp in the [[Vallis Media]] but find Pulse devoid of human life after days of searching. Hope wishes to be left behind, and his Eidolon [[Alexander (Final Fantasy XIII)|Alexander]] appears. Lightning and Fang help Hope tame the Eidolon, and with their resolve renewed, the party decides to head to [[Oerba]]: Vanille and Fang's hometown.
+
+The party crosses the [[Archylte Steppe (Final Fantasy XIII)|Archylte Steppe]] into the [[Mah'habara Subterra]] and the [[Sulyya Springs]], where Lightning and Snow promise to see Serah together after saving Cocoon. They ascend [[Taejin's Tower]] and ride a capsule down to the outskirts of Oerba but find it abandoned. Serah confronts the group, referring to Lightning by her birth name, and asks the group to destroy Orphan to summon the Maker and save the world from despair. Serah is Dysley in [[disguise]], who announces he has resigned as Primarch and appointed a revived Raines in his place to incite a civil war, as the Cavalry would see him as a traitor. He has his familiar, [[Menrva]], transform into an airship for the group to return to Cocoon, and they do so to try and stop Dysley's plans.
+
+[[File:FFXIII Siege of Eden.png|thumb|left|Lightning leads the group through Eden.]]
+They crash the Eden Grand Prix and make their way to [[Orphan's Cradle]] among the [[Siege of Eden|ensuing chaos]]. In the depths of the Narthex, they find Dysley, who summons the crystallized [[Dajh Katzroy]] and Serah before the party and shatters them. Denouncing it as an illusion, the party fights Barthandelus and destroys him. His defeat awakens the sleeping Orphan, who wishes for death after centuries of not having a life, and attacks them.
+
+Fang submits to Orphan's demands and agrees to become Ragnarok. After they try to stop her, Lightning and the others, aside from Vanille, turn into Cie'th and attack Fang. Orphan tortures her to force her to transform, but Fang's incomplete transformation isn't strong enough to kill Orphan. The Cie'th party members relive the memories of their quest and are restored, believing that they have seen something that resembled a new Focus. Lightning announces their new Focus is to save Cocoon and all of the party's l'Cie brands burn out.
+
+[[File:Serah&Lightning reunite.png|thumb|Lightning and Serah are reunited.]]
+The party defeats Orphan's true form, and Cocoon begins to fall. Lightning and the others float away as Vanille and Fang transform into a complete Ragnarok and stop Cocoon's descent by forming a [[Crystal pillar (Final Fantasy XIII)|crystal pillar]] to support it above Gran Pulse. Lightning and the others enter crystal stasis but are restored and find they are no longer l'Cie. Lightning reunites with Serah and begins apologizing to her, but Snow interrupts her by saying they "have a wedding to plan". He promises to make Serah happy, and Lightning congratulates them.
+{{clear}}
+
+===''[[Final Fantasy XIII -Episode i-]]''===
+{{Quote|But you know we can't just leave you, right?|Lightning to Fang and Vanille}}
+Lightning vows to find a way to save Vanille and Fang from the crystal pillar. She believes the answer lies somewhere on Gran Pulse, and perhaps she could discover other Pulsian survivors as well, though it will be a long and challenging journey. After seeing Serah is in good hands with Snow, she decides to take up the task independently as new responsibilities will tie Serah and the others down. A [[paradox]] removes Lightning from history, and she finds herself in another world.
+
+===''[[Final Fantasy XIII-2 Fragments After]]''===
+{{Quote|I took their lives just because I didn't want to die. I felt that it was a sin, but I deluded myself, saying I had no choice. I had selfishly decided the weight of life and selfishly convinced myself of it. I didn't even stop to think that their lives were sacrificed for mine. It was all me... so sinful and arrogant.|Lightning}}
+[[File:Lightning Historia Crux.PNG|thumb|left|Lightning falls through the Historia Crux.]]
+On the first day of the AF era that started on the [[Catastrophe (Final Fantasy XIII)|Day of Ragnarok]], Lightning's reunion with Serah is cut short when she is dragged into an abyss by a manifestation of [[Chaos (Final Fantasy XIII)|chaos]] caused by a paradox. Only her survival knife remains, and everyone except Serah believes her to be either dead or crystallized in the crystal pillar with Vanille and Fang; in actuality, Lightning fell through the [[Historia Crux]] and ended up in Valhalla, the middle world between life and death dislodged from time. Lightning comes upon a [[Moogle (race)|moogle]] named [[Mog (Final Fantasy XIII-2)|Mog]], who challenges her to a duel and promptly loses. Touched by Mog's innocence, Lightning has him follow her.
+
+Mog tells Lightning about Valhalla, the [[Void Beyond]], and the goddess Etro. Lightning and Mog encounter Odin, who challenges Lightning to a battle, during which she learns to cast [[Magic (term)|magic]] despite no longer being a l'Cie. She defeats Odin and rides him to [[Temple of the Goddess (Final Fantasy XIII)|Etro's temple]], where Bahamut challenges her. Lightning loses her weapon during the fight, but Mog transforms into a bow for her to overcome the Eidolon. Standing before the goddess's throne, a brief oneness with Etro enables Lightning to understand the goddess's isolation and her love for humanity.<!---As revealed by the in-depth storyline section of ''Final Fantasy XIII-2 Ultimania Omega''--->
+
+[[File:Lightning-Transform.png|thumb|Lightning becomes Etro's champion.]]
+Lightning comes to realize Etro saw her and her friends as sinners for killing people during their time as l'Cie, yet freed them from their brands after giving Vanille and Fang the strength to become Ragnarok. Through the [[Eyes of Etro]], Lightning witnesses various moments in time, including [[Dying World|an era facing destruction]], seeress [[Paddra Nsu-Yeul|Yeul]] repeatedly dying, Serah trapped in an [[dream world#Final Fantasy XIII-2|endless dream]], and her losing battle with Yeul's [[Guardian (Final Fantasy XIII-2)|Guardian]], Caius. Her Guardian Corps uniform disappears, and a suit of armor materializes in its place. Lightning chooses to stay as Etro's champion to contain the memories of the deceased and fight Caius as a way to atone for her sins. Caius briefly appears behind her and tells her to go home, as the world will not end for some time, but she resolves to remain.<!--as shown in Fragments After-->
+
+===''[[Final Fantasy XIII-2]]''===
+{{Quote|This man, Caius Ballad. He seeks to destroy all hope, and bring an end to the future. Though the battle might be endless, I will never give up. Etro has chosen us—her champions. And we cannot fail.|Lightning to Noel and Serah}}
+[[File:Lightningfacingrival.jpg|thumb|left|Lightning and Caius battle.]]
+As Etro's protector, Lightning guards the goddess against Caius, Yeul's immortal Guardian, who wants to kill Etro to destroy the timeline and save Yeul from her cycle of reincarnation. During her battle against Caius, Lightning sees [[Etro's gate]] appear over the temple and sees a person fall out of it. She recognizes it as a young man from a past vision, Noel Kreiss. Lightning saves him and shows him a [[Time Gate]], asking him to find Serah and bring her to Valhalla. Lightning gives him Mog as a good-luck-charm for Serah once he sees her. When Caius summons a meteorite over the temple, Lightning summons Odin to throw her into its path, but it crushes the shrine.
+
+Noel finds Serah, and together they embark on a quest through time to find their way to Valhalla. Lightning eventually appears before them from a portal in [[New Bodhum]] at 700 AF and explains they are in a future she failed to save. Orphan's demise and Fang and Vanille's sacrifice to save Cocoon opened the portal to Valhalla; Etro closed it to prevent Valhalla's chaos from pouring out into the world, but Lightning ended up there as a result.
+
+[[File:Lightning with Serah&Noel.png|thumb|Lightning meets Serah and Noel in New Bodhum 700 AF.]]
+Caius plans to destroy Etro and open the door again, unleashing chaos—mysterious energy Etro keeps at bay—into the mortal world. The door would open wide enough if enough people died at once, such as if the crystallized Cocoon fell, and chaos would infect the world; time, life, and death would become meaningless, making the world like Valhalla. Lightning entrusts Noel and Serah with stopping Caius in the mortal realm while she deals with him in Valhalla. She has Mog reveal the Time Gate to 500 AF so they can stop Caius from destroying [[Bhunivelze (location)|Hope's new Cocoon]], an artificial world built to protect humanity for when the original Cocoon would eventually fall.
+
+In the Vile Peaks, Lightning blames herself for the paradox that caused the disappearance of an [[Academy]] anti-paradox team, the [[Blitz Squadron]], while they were scouting the area in 10 AF to handle a distortion. She recalls fighting alongside the squadron men and finds comfort in how they still remember her. When Mog reveals a phased-out image of Lightning in the Vile Peaks, she tells Serah and Noel how, as a l'Cie, she first thought fighting alone for what she believed in was the only approach but later saw the error in her ways. Being all alone in Valhalla, she holds on to the memories of Serah and her friends to stay firm in her battle against Caius. Lightning prays for the day they can be together again and disappears.
+
+After Serah and Noel find their way to Valhalla and battle Caius, a wave of darkness consumes them and sends them falling into an abyss of light. Lightning appears and saves them, urging them to keep hope alive before vanishing.
+
+[[File:FFXIII-2 RotG Lightning v Caius.png|thumb|left|Lightning faces Caius.]]
+Back in Valhalla, Lightning continues her fight with Caius. As mentioned in the ''[[Final Fantasy XIII-2 Ultimania Omega]]'' scenario interview, the battle between Lightning and Caius is an endless loop that would continue for eternity. The loop appears broken when Caius abruptly disappears, and Lightning sees a vision of Serah's death by her Eyes of Etro. Caius catches Lightning off guard and strikes her down before chaos takes her away, preventing him from delivering the killing blow. Lightning comes to in the remains of Etro's temple and finds Serah's soul restrained and surrounded by chaos, manipulated by Yeul's spirits. The chaos turns into Caius, whom Lightning proceeds to battle. Caius transforms into [[Chaos Bahamut (Final Fantasy XIII)|Chaos Bahamut]] and flies towards the beach, where Lightning continues to fight him.
+
+After dispatching her opponent, Lightning mounts Odin and demands that Yeul release Serah, only for chaos to swallow her and Odin. Lightning realizes her actions caused her sister's death; while floating through the Historia Crux, she contemplates that carrying out Etro's will would atone for her sins. She concludes there is nothing left for her, not even hope. Mourning over Serah's body, Lightning sees Serah's spirit on Etro's throne, who reveals she knew she would die yet continued so they can be reunited. As Serah's ghost fades away, she tells Lightning not to give up hope and always remember her, promising they will meet again.
+
+[[File:Lightning Throne of Etro.png|thumb|Lightning in crystal stasis.]]
+With her hope renewed, Lightning holds on to their wish to be together again someday. To ensure Serah's memory will live on and to preserve the world's existence in Etro's place as her real atonement, Lightning sits on Etro's throne and enters crystal stasis, waiting for the day she will awaken at the end of eternity. As Caius's scheme succeeds and Etro dies, chaos engulfs Gran Pulse, which merges with Valhalla to become [[Nova Chrysalia]].
+{{clear}}
+
+===''[[Lightning Returns: Final Fantasy XIII]]''===
+[[File:LRFFXIII Lightning FMV2.png|thumb|left|Lightning confronts Snow as the savior.]]
+{{Quote|I'd call it a mixing blessing. I'm more powerful than I ever was, but it came with a price. I'm not even sure if I'm human anymore.|Lightning to Noel}}
+After sleeping for five centuries in crystal stasis, the god Bhunivelze sought Lightning out to be the savior, tasking her with guiding the souls of humanity to the [[New world (Lightning Returns)|new world]] that will replace Nova Chrysalia. Bhunivelze is the creator god of [[Pulse]], [[Lindzei]], and Etro, entities the different Gran Pulse and Cocoon populations revered as gods in their own right. Bhunivelze separated Serah's soul from Lightning and created an illusion of her sister to keep Lightning compliant. Serah's soul was saved from fading into the Chaos when the part of Lightning she suppressed when she first took on her codename was made manifest by the Chaos, creating a girl called Lumina, who acts as a body protecting Serah's soul.
+
+[[File:LRFFXIII Soul Rescued.jpg|thumb|Lightning saves a soul.]]
+Though she resents the deity for using Serah as a bargaining chip, Lightning's regret over her death convinced her to aid Bhunivelze so she can save her sister's soul. Bhunivelze removed much of Lightning's emotion so she can perform her task more efficiently. While Hope helps her from within his [[Ark (Lightning Returns)|Ark]], Lightning rescues souls and gathers [[Eradia]] to restore the tree [[Yggdrasil (Lightning Returns)|Yggdrasil]] to delay the [[Apocalypse (Lightning Returns)|Apocalypse]].
+
+Amid a celebration in [[Yusnaan]], Lightning confronts Snow in the ballroom of [[Patron's Palace]]. During their battle, Lumina breaks Lightning's sword and drops a chandelier, but Snow halts its descent by freezing it. Snow flees, and Lightning chases him through the palace into a [[Chaos infusion]] where she re-encounters Lumina, who claims Lightning is different from Bhunivelze's usual servants. After defeating the [[Zaltys]] that Lumina summoned, Lightning comes upon a door blocked by a field of Chaos and worries Snow is not entirely sane if he went inside. She hears Snow's guards approaching and retreats.
+
+[[File:Luxerion cult.png|thumb|left|Lightning faces off against the Children of Etro.]]
+After traveling to [[Luxerion]], Lightning learns a cult called the [[Children of Etro]] murdered three women who resemble her in the last three days. Lightning encounters Noel, who's now obsessed with a [[prophecy]] that declares she will destroy the world if unstopped. Lightning ends the cult's activities before facing Noel, freeing him of his burden of guilt.
+
+Gaining access to the [[Luxerion Cathedral]] at nighttime, she meets Lumina and Vanille. Vanille awoke from crystal stasis thirteen years ago, cursed with the ability to hear the voices of the dead. She has thus become the saint of the [[Order of Salvation]], a cult dedicated to the worship of Bhunivelze. Vanille shows Lightning a concentration of Chaos around the altar in God's Sanctum. Lumina says the Order seeks the save the dead from their anguish by offering them oblivion and needs Vanille to call them to her.
+
+[[File:Lightning-snow-battle.jpg|thumb|Lightning battles Snow.]]
+In Yusnaan, Lightning returns to Snow's palace and is forced to fight him. Though he tries to make her take his life as a penance for failing to protect Serah and nearly becomes a Cie'th in the process, Lightning brings him back from the brink and frees him of his burden.
+
+In the [[Dead Dunes]], Lightning encounters Fang, who for the past 13 years has been searching the [[holy clavis]], a divine relic that can attract and "purify" souls needed for the [[Soulsong (Lightning Returns)|Soulsong]] ritual Vanille will perform before the world ends. When they find it, Fang tries to destroy it as the ceremony would erase the dead and kill Vanille, but the clavis ends in the Order's hands. Lightning and Fang agree to meet on the final day to convince Vanille not to go through with the Soulsong.
+
+[[File:Caius-Summons-LRFFXIII.jpg|thumb|left|Lightning encounters Caius.]]
+In the [[Wildlands]], Lightning rescues a [[white chocobo]] called the [[Angel of Valhalla]] from a [[Chocobo Eater (Lightning Returns)|Chocobo Eater]] and heals its injuries before setting out across the land. She encounters a depressed Sazh and discovers his son Dajh has been comatose since Nova Chrysalia's formation. She finds Dajh's soul to rouse him and brings Sazh out of his depression.
+
+In another part of the Wildlands, Lightning explores Etro's temple's remains, where she finds a resurrected Caius and many Yeuls. She defeats Caius but learns she cannot save him as he has become bound to the Chaos by Yeul and plans to disappear with the world into the [[unseen realm]]. As she leaves, Lightning learns from Yeul that the white chocobo is Odin, her Eidolon.
+
+She comes across the [[Moogle Village (Lightning Returns)|Moogle Village]] and meets Mog, burdened by guilt for his perceived failure to protect Serah but is delighted to see Lightning again with promises of bringing Serah back. Lightning learns from the souls of the dead, in the form of Cid Raines, that Vanille unknowingly has the power to help them be reborn in the new world.
+
+As Lightning leaves the Ark at the start of the eighth day, she re-encounters Lumina, who helps her realize Bhunivelze stole Serah's soul and suggests the Serah Lightning had met a little while ago, Hope, and Lightning herself are but fakes. Lightning implies she will turn against Bhunivelze if he does not fulfill his part of their deal, and Lumina reminds her that in that case, Lightning will have to betray Hope, her one friend in Nova Chrysalia.
+
+On the final day, Lightning returns to the Ark to find Hope fading away. She learns Bhunivelze chose him as his host as the god cannot see souls or Chaos in his proper form. Hope comforts Lightning, saying her example enabled him to go on and accept his fate. Back in Luxerion, Lumina reveals the truth about the Soulsong: the Order seeks to carry out Bhunivelze's wishes and ensure their salvation in the new world by destroying the dead, erasing them from the living's memories so they'll be reborn with a clean slate, unburdened by their pasts. The Order kept Vanille in the dark and duped her into believing the Soulsong will save the dead from their suffering.
+
+Infiltrating the cathedral with Noel's help, Lightning teams up with Fang and finds Vanille within God's Sanctum in the process of performing the Soulsong. She convinces Vanille the reason the souls kept calling out to her was that they held onto hope, as souls in despair would have been silent. With help from Fang and Snow, Lightning stops the ritual and allows Vanille and Fang to free both their souls and those threatened by the clavis to be reborn in the new world.
+
+[[File:Bhunivelze_Form_4.png|thumb|Lightning faces against Bhunivelze.]]
+Yeul and Lumina arrive and reveal the truth about the fate of Serah's soul to Lightning. Using Hope's body as a medium, Bhunivelze shows up, captures her allies, and offers a chance for Lightning to witness the birth of a new world. Upon reaching the heart of the cathedral's dungeons, Lightning is transported to [[Cosmogenesis]], an otherworldly realm where Bhunivelze's true form awaits her.
+
+Lightning learns that Bhunivelze planned to purge humanity's souls of their memories and emotions, believing such things are impurities. Bhunivelze wishes to condition Lightning into an emotionless replacement for Etro to oversee life's balance in the new world. However, since she thwarted the Soulsong, he seeks to destroy his new world and the dead along with it. Refusing to follow his plans, Lightning attacks Bhunivelze and frees Hope from his hold.
+
+[[File:Serah Lightning LR Ending.png|thumb|left|Lightning reuniting with her friends and Serah as they depart to the new world.]]
+She intends to sacrifice herself to ensure Hope's escape and trap the deity in the unseen realm, but the illusion of Serah that Bhunivelze created reveals Lumina's origins to Lightning. Accepting Lumina as a part of herself, Lightning calls for help. Lumina becomes one with Lightning, restoring her [[Heart (Fabula Nova Crystallis)|heart]] to normal. Hope answers Lightning's call and helps her leave the world of her subconscious. They launch a final assault on Bhunivelze, and with the aid of their friends and the Eidolons, Lightning severs Bhunivelze's hold on humanity's souls, and Serah returns. Lightning concentrates the souls' energy and combines them into a blade to strike the god down.
+
+Lightning and her reunited allies witness the death of Nova Chrysalia and the birth of a new world free of gods. Caius and Yeul offer to become the shepherds of the dead in Etro's place and vanish into the new unseen realm. Lightning bids farewell to Odin as the Eidolons fade away and sheds tears while recalling moments of her journey before leading her sister and friends to their new home.
+
+[[File:Lightning LR Ending.png|thumb|Lightning in the new world.]]
+In the new world, Lightning begins her life anew. On a sunny day, Lightning emerges from a train arriving in a modern town as she embarks on a peaceful journey to reunite with her friends.
+
+===''[[Final Fantasy XIII: Reminiscence -tracer of memories-]]''===
+Reporter [[Aoede]] searches for Lightning on her quest for answers for the mysteries behind some people having memories of living in another world. After meeting with all the principal survivors from Lightning's adventures but unable to meet her in person, Aoede ends up encountering Lightning by chance on a train and asks to interview her. Lightning declines, saying she is getting off at the next station, and Aoede decides not to follow, deeming her new mission as a mediator in a civil war more important. Aoede thanks Lightning for having fought to give humanity the new world, and Lightning replies she leaves it in Aoede and others' hands. As Lightning departs, Aoede notes she looks carefree and has her own life back at last, as having sent the God of Light to his grave, Lightning freed herself from fighting. Positive their encounter is not to be their last, Aoede hopes Lightning will chance upon hope.
+{{endspoiler}}
+
+==Gameplay==
+{{Main|Lightning (Final Fantasy XIII party member)|Lightning (Final Fantasy XIII-2 party member)|Lightning (Lightning Returns party member)}}
+[[File:Army of one ffxiii.jpg|thumb|250px|Lightning performs [[Army of One (ability)|Army of One]], her signature attack in all of her appearances.]]
+Lightning is a quick and agile fighter who wields gunblades, although her new models in her follow-up appearances only operate in the blade form. Lightning is the only character in the ''Final Fantasy XIII'' trilogy to be playable in all three games. In ''Final Fantasy XIII'', her primary roles are [[Commando (Final Fantasy XIII)|Commando]], [[Ravager (Final Fantasy XIII)|Ravager]], and [[Medic (Final Fantasy XIII)|Medic]]. She has balanced [[stats]], and thus the player can gear her toward a physical or magical fighter via equipment. She is versatile as she is proficient in all [[Crystarium system|Crystarium]] roles, but as a downside, has low [[HP (stat)|HP]]. The [[Steam]] version comes with 6 [[Steam#Steam Trading Cards|Trading Cards]], all of them featuring Lightning.
+
+She is a [[Lightning (Final Fantasy XIII-2 boss)|DLC boss]] in ''Final Fantasy XIII-2'', and the main playable character in the "[[Lightning's Story: Requiem of the Goddess]]" [[Final Fantasy XIII-2 downloadable content|downloadable scenario]], appearing both as a [[Commando (Final Fantasy XIII-2)|Commando]] and a [[Ravager (Final Fantasy XIII-2)|Ravager]] as a [[Paradigm Pack]] ally. In ''Lightning Returns: Final Fantasy XIII'', Lightning can customize her appearance and battle style via [[Lightning Returns: Final Fantasy XIII garbs|garbs]] and switch between set-ups on-the-fly via the [[Schema]] system.
+
+Lightning's signature attack is [[Army of One (ability)|Army of One]], of which she sometimes uses a variation called "[[Legion of One]]".
+
+==Musical themes==
+Of all the main characters in the ''Final Fantasy XIII'' trilogy, Lightning has the most associated themes to signify her status as the consistent protagonist. Lightning's default weapons across the ''Lightning Saga'' also have eponymous musical pieces.
+
+===''Final Fantasy XIII''===
+{{audio|filename=FFXIII Lightning's Theme.ogg|title="Lightning's Theme"}}
+"Lightning's Theme" is an acoustic orchestral variant of the central [[battle theme]], "[[Blinded By Light]]". Her motif displays the fragile interior she tries to suppress. The melody is interwoven with many different tracks and appears in several forms.
+
+{{Quote|This was the early take on "Lightning's Theme". In this version, piano was central in the refrain. It was a small enough undertaking that I ended up having it rearranged with a live recording for the final version, but the synthesized version was also rather popular, and we considered using it alongside the recorded one. I remixed this version for inclusion on the CD.|Track commentary by Masashi Hamauzu}}
+A "prototype" version titled "M33 Lightning NW Version" is included on the album ''[[Final Fantasy XIII: Original Soundtrack PLUS]]''.
+
+A piano arrangement called "Lightning's Theme ~ Blinded By Light" is included on the album ''[[Piano Collections: Final Fantasy XIII]]''. The track also received a chiptune arrangement from ''[[SQ Chips 2]]'s'' [[SQ Chips 2#SQ Chips2 VILLAGE/VANGUARD Customer Bonus|bonus CD]]. The original version appears on the [[Music player (Final Fantasy XV)|music player]] as a default track in ''[[Final Fantasy XV]]''.
+
+===''Final Fantasy XIII-2''===
+{{audio|filename=Final_Fantasy_XIII-2_-_Lightning's_Theme.ogg|title= "Lightning's Theme ~Unprotected Future~"}}
+"Lightning's Theme ~Unprotected Future~" is a slower, more melancholy, and harmonious rearrangement of her original theme. It plays during Serah and Noel's encounter with Lightning in New Bodhum 700 AF and as the area's background theme afterward. In "Requiem of the Goddess", it plays as Lightning floats through the Historia Crux after her fight with Chaos Bahamut.
+
+Lightning's battle theme is "Etro's Champion", which plays during the tutorial battle. Other rearrangements include: "Divine Conflict"; "An Arrow Through Time"; "A World Without Cocoon"; "A Fading Miracle"; "Etro's Gate"; and "Tears of the Goddess", all composed by [[Masashi Hamauzu]].
+
+A track called "yuza_050" is another rearrangement of "Blinded By Light" on ''[[Final Fantasy XIII-2: Original Soundtrack PLUS]]'', which plays when Noel, Serah, and Mog arrive in Valhalla.
+
+===''Lightning Returns: Final Fantasy XIII''===
+"Lightning's Theme -A Distant Glimmer-" and "Lightning's Theme -Radiance-" are softer and more fragile than the previous games' themes to display Lightning's emotions and loneliness. "Claire Farron" is also one of her motifs.
+
+"Lightning's Theme" appears in the battle themes "Lightning Returns", "Crimson Blitz", "Savior of Souls", and "High Voltage". "Lumina's Theme", "The Song of the Savior -The Chosen One-", "The Song of the Savior -Grand Finale-", and "Last Resort" also use it, as do the ending themes "Humanity's Tale", "Credits -Light Eternal-", and "Epilogue".
+
+====''[[Lightning Returns: Final Fantasy XIII Retro-spective trailer]]''====
+The 16-bit versions of "Lightning's Theme" and "Blinded by Light" appear in the trailer.
+
+==Other appearances==
+[[File:Lightning XIV.jpg|thumb|Appearance in ''[[Final Fantasy XIV]]''.]]
+{{Main|/Other appearances|t1=Lightning other appearances}}
+Lightning has appeared in the following games throughout the [[Final Fantasy series|''Final Fantasy'' series]]:
+* ''[[/Other appearances#Final Fantasy XIV|Final Fantasy XIV]]'' as a guest character and cosmetic rewards.
+* ''[[/Other appearances#Final Fantasy Tactics S|Final Fantasy Tactics S]]'' as a playable character.
+* ''[[/Other appearances#Final Fantasy Dimensions II|Final Fantasy Dimensions II]]'' as a phantom stone summon and character costume.
+* ''[[Lightning (Dissidia PSP)|Dissidia 012 Final Fantasy]]'' as a playable character.
+* ''[[Lightning (Dissidia NT)|Dissidia Final Fantasy NT]]'' as a playable character.
+* ''[[Lightning (Opera Omnia)|Dissidia Final Fantasy Opera Omnia]]'' as a playable character.
+* ''[[/Theatrhythm|Theatrhythm Final Fantasy]]'' series as a playable character.
+* ''[[/Other appearances#Pictlogica Final Fantasy|Pictlogica Final Fantasy]]'' as a playable character.
+* ''[[/Other appearances#Final Fantasy Airborne Brigade|Final Fantasy Airborne Brigade]]'' as a Legend and a playable character.
+* ''[[/Other appearances#Final Fantasy Artniks|Final Fantasy Artniks]]'' as a series of cards.
+* ''[[/Other appearances#Final Fantasy All the Bravest|Final Fantasy All the Bravest]]'' as an optional character.
+* ''[[Lightning (Record Keeper)|Final Fantasy Record Keeper]]'' as a playable character.
+* ''[[/Other appearances#Final Fantasy Explorers|Final Fantasy Explorers]]'' as a Trance.
+* ''[[/Other appearances#Final Fantasy World Wide Words|Final Fantasy World Wide Words]]'' as a playable character.
+* ''[[Lightning (Brave Exvius)|Final Fantasy Brave Exvius]]'' as a summonable vision.
+* ''[[/Other appearances#Mobius Final Fantasy|Mobius Final Fantasy]]'' as a guest character, ability cards, stamps, and alternate dress for both [[Wol (Mobius)|Wol]] and [[Echo (Mobius)|Echo]].
+* ''[[Lightning (World of Final Fantasy)|World of Final Fantasy]]'' as a summonable Champion.
+* ''[[/Other appearances#Final Fantasy Trading Card Game|Final Fantasy Trading Card Game]]'' as a series of cards.
+* ''[[/Other appearances#Triple Triad|Triple Triad]]'' as a series of cards.
+
+===Non-''Final Fantasy'' guest appearances===
+{{Main|/Other appearances#Guest appearances|t1=Lightning non-Final Fantasy guest appearances}}
+Lightning has made key guest appearances in the following non-''Final Fantasy'' games:
+* ''[[/Other appearances#Itadaki Street|Itadaki Street]]'' as a playable character.
+* ''[[/Other appearances#Square Enix Legend World|Square Enix Legend World]]'' as a card.
+* ''[[/Other appearances#Puzzle & Dragons|Puzzle & Dragons]]'' as a playable character.
+* ''[[/Other appearances#Monster Strike|Monster Strike]]'' as a playable character.
+
+==Other media==
+[[File:LightningLcieMarkNYCC.png|thumb|right|Promotional artwork of Lightning's l'Cie mark by Jonathan Jacques-Belletête.]]
+===Impact===
+[[File:PS3AddLightning.jpg|thumb|Lightning in a commercial for the PlayStation 3.]]
+Lightning was voted Japan's number one favorite ''Final Fantasy'' female character.<ref>{{Refwebsite| page url = http://www.novacrystallis.com/2013/01/japan-ranks-their-favorite-female-characters-from-the-final-fantasy-series/| page name = Japan ranks their favorite female characters from the Final Fantasy series| site url = http://www.novacrystallis.com/| site name = Nova Crystallis| access time = 20180821212457}}</ref> According to Motomu Toriyama at a presentation for ''Lightning Returns: Final Fantasy XIII'', she is considered a role model in Japan due to her courage, speed, and elegance. She appeared on the {{foot|500th cover of ''Dengeki PlayStation'' magazine|[[File:500th Dengeki cover.jpg|250x250px]]}} with Noel, Serah, [[Noctis Lucis Caelum|Noctis]], [[Machina Kunagiri]], and [[Rem Tokimiya]].
+
+Lightning, Sazh, Hope, Snow, and Noel appeared as models for the Showcase [[List of fashion industry collaborations#Prada Spring/Summer 2012|Prada 2012 Men's Spring/Summer Collection]].
+
+Jonathan Jacques-Belletête, the art director of ''Deus Ex: Human Revolution'', another game franchise owned by Square Enix, drew an artwork of Lightning for the New York Comic Con 2011 "East Meets West" panel of her l'Cie brand, which is never actually shown in the game. Isamu Kamikokuryo, the art director of ''Final Fantasy XIII'', also drew an artwork of ''Deus Ex'', which was revealed in the same event.
+
+In a live-action PlayStation advertisement titled [http://www.youtube.com/watch?v=mdWkKKSckNk "Michael" - PS3 Long Live Play], Lightning listens to a story told by [[w:c:uncharted:Nathan Drake|Nathan Drake]] from the ''[[w:c:uncharted:Uncharted (series)|Uncharted]]'' series. Her gunblade is placed on the weapon rack as the soldiers are entering the tavern. A live-action Lightning has also appeared in Japanese commercials for ''Lightning Returns: Final Fantasy XIII''.
+
+In March 2014, Nomura judged a Lightning fanart contest for deviantART and chose three favorites among the submissions.<ref>{{Refwebsitedead| page url = http://www.lootchaser.com/lightning-fan-art/| page name = Best Lightning Fan Art As Chosen By Tetsuya Nomura| site name = LootChaser| access time = 20140318053732}}</ref>
+
+In 2016 [[List of fashion industry collaborations#Louis Vuitton Spring/Summer 2016|Square Enix and Louis Vuitton collaborated]] to have Lightning model the fashion name's spring/summer collection clothes and handbags. As the model for the Series 4, Lightning appeared on various magazine advertisements and starred in promotional videos for the campaign. She became the new face of Louis Vuitton all over social media.
+
+In July 2017, Square Enix and Nissan collaborated for a car commercial in China with Lightning and Snow driving crossover SUV Nissan Kicks.
+{{clear}}
+
+===Games===
+In ''{{KHWiki|Kingdom Hearts Re:coded}}'', parts of Lightning's outfit and design appear as {{KHWiki|Avatar Menu|avatar parts}}. The available parts are her hair, her uniform with cape and skirt, and her boots. The player can use these with their avatar as individual components or combine them to approximate Lightning's full appearance in tandem with other generic avatar parts. The parts can be equipped as an "ensemble".
+
+In ''[[w:c:parasiteeve:The 3rd Birthday|The 3rd Birthday]]'', the main character Aya Brea has several outfits, one being Lightning's outfit. Like any other outfit for her in the game, it tears up as she takes damage, revealing Lightning's l'Cie brand as it deteriorates. Aya can use Lightning's [[Blazefire Saber]] in gun mode.
+
+Lightning's costume, ''Gunslinger Stratos 2'', was released on November 6, 2014.
+
+Lightning appeared in ''[[Puzzle & Dragons]]'' in a ''Final Fantasy'' [[collaboration]] event starting on March 21, 2016.<ref>{{Refwebsite| page url = http://www.siliconera.com/2016/02/19/puzzle-dragons-x-final-fantasys-second-collaboration-adds-lightining-cloud/| page name = Puzzle & Dragons X Final Fantasy’s Second Collaboration Adds Lightining, Cloud, And More| site url = http://www.siliconera.com/| site name = Siliconera| access time = 20180821212504}}</ref>
+
+==Behind the scenes==
+===''Final Fantasy XIII''===
+[[File:Lightning-faces.jpg|thumb|Lightning's early and final designs.]]
+Lightning is Director Motomu Toriyama's favorite character out of those he has helped create, alongside Yuna and Princess Yoyo from ''[[Bahamut Lagoon]]''.<ref>{{refwebsitedead| page url = http://www.1up.com/news/motomu-toriyama-talks-making-heroines| page name = Motomu Toriyama Talks About Making Heroines| site url = http://www.1up.com/| site name = 1UP.com | access time = 20161026233242}}</ref> Early in [[Final Fantasy XIII development|development]], Toriyama meant Lightning to be a flirtatious character with more sex appeal. To make Lightning a more serious heroine in the vein of previous heroes, [[Cloud Strife]] and [[Squall Leonhart]], Fang—originally a man—was rewritten as a woman; Toriyama transferred some of Lightning's traits to her.<ref>{{Refwebsite| page url = http://www.ign.com/articles/2009/10/21/final-fantasy-xiii-update| page name = Final Fantasy XIII Update| site url = http://www.ign.com/| site name = IGN| access time = 20180821212357}}</ref> The final version of her character was made less Asian-looking than initially conceived, and Hope got Lightning's original silver hair color in favor of pink.<ref>{{Refwebsite| page url = http://www.ign.com/articles/2009/09/23/tgs-09-final-fantasy-xiii-update| page name = TGS 09: Final Fantasy XIII Update| site url = http://www.ign.com/| site name = IGN| access time = 20180821212354}}</ref>
+
+Lightning's real name was to be "Averia", referring to a species of flowering plants. "Éclair" was used during auditions to keep the name secret.<ref>{{Refbook|[[Final Fantasy XIII Scenario Ultimania]]|010|013}}</ref> Lightning's real name in the English version is Claire due to the word "Éclair" referring to a type of pastry in English-speaking countries, a problem not present with the Japanese name due to different romanization.<ref>{{Refwebsite| page url = https://archive.rpgamer.com/features/insidegaming/tslatteryint.html| page name = Inside Gaming - Interview with Former Square Enix Translator Tom Slattery| site url = https://www.rpgamer.com/| site name = RPGamer| access time = 20200325031615}}</ref>
+
+Lightning's initial concept was a "strong woman": it was personality-based instead of plot-driven. After Toriyama set her character's mindset and role, [[Square Enix]] turned to [[Tetsuya Nomura]] for the character design. Director Motomu Toriyama:  "With Lightning, one look at the design made me say 'This is it!' She looked so cool and strong that there was no need for any retakes".<ref>{{ref |id=vg247 |author=Brenna Hillier|date=30 March 2011|title=Toriyama: Final Fantasy leading ladies’ looks come second|url=https://www.vg247.com/2011/03/30/toriyama-final-fantasy-leading-ladies-looks-come-second/|publisher=vg247|access-date=25 February 2021}}</ref> Despite Toriyama's claim, Lightning's appearance has developed from its initial concept. Square Enix released an initial CG render before the public saw any of the other characters; when they revealed the rest of the cast, Square released another render of Lightning with more feminine traits and her hair pink rather than faded crimson. Though her outfit remains the same, its overall color scheme was lightened.
+
+The idea of Lightning having a sword that can transform into a gun relates to the game's Eidolons. One of the gameplay themes chosen for ''Final Fantasy XIII'' was transformation. The Eidolons can turn into vehicles; if summons could transform, the developers thought weapons should be able to as well.<ref name="Wired">{{ref |id=Wired|author=Nate Lanxon|date=12 March 2010 |title=Q&A: FFXIII's Yoshinori Kitase and Isamu Kamikokuryo|url=https://www.wired.co.uk/news/archive/2010-03/12/qa-ffxiiis-yoshinori-kitase-and-isamu-kamikokuryo|publisher=Wired|access-date=25 February 2021|archive-url=https://web.archive.org/web/20120724032452/https://www.wired.co.uk/news/archive/2010-03/12/qa-ffxiiis-yoshinori-kitase-and-isamu-kamikokuryo|archive-date=24 July 2021 |deadurl=https://www.wired.co.uk/news/archive/2010-03/12/qa-ffxiiis-yoshinori-kitase-and-isamu-kamikokuryo}}</ref> Odin was originally more harsh-looking and dark-colored, but the developers wanted Lightning to be a knight on a white horse. Since Lightning had lost her parents at a young age and tried to take their place and raise Serah, Odin was imagined as someone onto whom she'd project a fatherly image.<ref>''[[Final Fantasy XIII Ultimania Omega]]''p.340–341</ref>
+
+Lightning had a Gravity Bomb device at her disposal in [[Final Fantasy XIII E3 2006 trailer|the first ''Final Fantasy XIII'' trailer]], which generated an electrical shield or manipulated time and gravity. In the final game, she only uses it in cutscenes. Lightning's house was initially meant to be a visitable location in ''Final Fantasy XIII'' but ended up getting cut. Concept art from ''Final Fantasy XIII Ultimania Omega'' shows Lightning lives in a peanut-shaped house standing over water with a portion of the roof opening.
+<gallery>
+Lightning's House Artwork.jpg|Lightning's house.
+Lightning's house2.png|Lightning's house second-floor interior.
+Lightning's kitchen.png|Lightning's kitchen.
+Lightning's livingroom.png|Lightning's living room.
+Birthday dinner.png|Birthday dinner.
+</gallery>
+
+The opening cinematic shows Lightning in Palumpolum with her gunblade drawn, glancing to her right at a group of PSICOM soldiers and [[Flanitor (Final Fantasy XIII)|Flanitors]]. This scene isn't in the game, though a still of Lightning glancing to the side is used for her status screen. Two different CG renders of Lightning are used in ''Final Fantasy XIII'': her main render is used for menus, while the field messages, which display during the gameplay, use her render from the game's cover.
+
+{{spoiler}}
+[[File:FFXIII lCie brand progression chart from FFXIII Ultimania Omega.jpg|thumb|Brand progression chart.]]
+The ''[[Final Fantasy XIII Ultimania Omega]]'' includes a l'Cie brand progression chart showing the events that make the brands advance: Lightning's brand goes from stage 1 to 2 when Odin appears on the Vile Peaks; to stage 3 when the group plans their next move aboard the ''Lindblum''; to stage 4 when the party arrives in the Fifth Ark (due to the shock of Barthandelus confirming their Focus); to stage 8 when the party's l'Cie powers fully awake; to 9 during the party's initial exploration of Gran Pulse; and stage 13 when Fang turns against them in Orphan's Cradle, and Lightning transforms into a Cie'th. She reverts, and her brand scorches out and turns white. The brand is gone when Lightning awakens from crystal sleep after completing her Focus. Lightning's brand has the fewest advances among the main party and is never seen under her clothes.
+{{Endspoiler}}
+
+===''Final Fantasy XIII-2''===
+[[File:FFXIII-2 Lightning Artwork.jpg|thumb|150px|Artwork from ''Final Fantasy XIII-2 Ultimania''.]]
+[[Isamu Kamikokuryo]] designed Lightning's new outfit in cooperation with Tetsuya Nomura, who drew a rough outline of her armor. Kamikokuryo then did the lead work on the design, adding some details.<ref>{{Refwebsite| page url = http://andriasang.com/comtqv/nomura_other_games/| page name = Hey Mr. Tetsuya Nomura, Whatchu Up To?| site url = http://andriasang.com/| site name = Andriasang| access time = 20180821213405}}</ref> Kamikokuryo originally designed Lightning's new outfit as a [[wikipedia:Cheongsam|qipao]] and later as a sci-fi-style outfit, but he was told the design didn't fit the game's atmosphere. The final design was inspired by [[wikipedia:Valkyrie|valkyries]], warrior maidens in Norse mythology, with the feather motif in her outfit representing Lightning's light and soft side.<ref>{{Refwebsitedead| page url = http://www.xbox.com/ja-JP/Marketplace/Product/ff13-2/interview2| page name = Special Interview with Isamu Kamikokuryo| site url = http://www.xbox.com/ja-JP/| site name = Xbox Japan| access time = 20160304055457}}</ref>
+
+Lightning on Etro's throne at the end resembles the ''Final Fantasy XIII'' [[:File:FFXIII Lightning.jpg|promotional artwork]] of her sitting in the Narthex, and the ''Final Fantasy XIII-2 Ultimania Omega'' has a piece of artwork depicting Lightning on Etro's throne in the same pose.
+
+All models in ''Final Fantasy XIII-2'' are of lower resolution than those in its predecessor. The game data includes a high-res [[Dummied content|unused]] model of Lightning's ''Final Fantasy XIII'' appearance, which was likely used as a placeholder throughout production.
+
+Like her sister Serah, the [[menu]] screen in ''Final Fantasy XIII-2'' doesn't use Lightning's official render, but an alternate render from ''Final Fantasy XIII''. Lightning's render for ''Final Fantasy XIII-2'' has her sword and shield in opposite hands. (She also holds her sword in her left hand on the box art for ''Final Fantasy XIII''.)
+
+===''Lightning Returns: Final Fantasy XIII''===
+Tetsuya Nomura designed Lightning's default "savior" outfit, whose design plays on her light, speed, and elegance. Director Motomu Toriyama wanted to emphasize Lightning's strength, how she was entering her final battle, and include the original outfit's red and white components from ''Final Fantasy XIII''. Using the red color to represent strength and line the inside of Lightning's outfit, Nomura designed her new armor to have more impact, with the final result being about half white and half red.<ref>{{ref |id=Nova|author= Erren Van Duine |date=28 December 2012 |title=Lightning Returns staff talk story, gameplay, and worldview |url=https://novacrystallis.com/2012/12/lightning-returns-staff-talk-story-gameplay-and-worldview/|publisher=Nova Crystallis|access-date=25 February 2021}}</ref> He was instructed to create Lightning's armor based on "a leather bodysuit"<ref name="newlook-nc"/> and the arms based on a spinal column. In ''Lightning Returns: Final Fantasy XIII'' the player can dodge and block enemies' attacks; when Nomura created Lightning's outfit, the shield entered the design, and the developers thought to use it in battles by allowing her to block attacks, enabling various fighting styles.<ref name="spieletester">{{ref |id=tumblr |title=Interview with Motomu Toriyama and Yuji Abe - Lightning Returns: Final Fantasy XIII|url=http://lightning-returns-news.tumblr.com/post/66300755776/interview-with-motomu-toriyama-and-yuji-abe |platform=tumblr|access-date=25 February 2021}}</ref>
+
+[[File:LRFFXIII Garbs CA 6.jpg|thumb|left|160px|Concept art of Lightning's default outfit, the Equilibrium.]]
+[[Toshiyuki Itahana]] designed Lightning's alternate costumes.<ref name="newlook-nc">{{ref |id=Nova|author= Erren Van Duine |date=23 January 2013 |title=Lightning Returns staff talk story, gameplay, and worldview |url=http://www.novacrystallis.com/2013/01/tetsuya-nomura-was-ordered-to-design-lightnings-new-outfit-like-a-leather-body-suit/|access-date=25 February 2021}}</ref><ref>{{Refwebsite| page url = https://www.famitsu.com/news/201212/29026849.html| page name = 『ライトニング リターンズ ファイナルファンタジーXIII』は“ヒラリズム”に注目!?　開発スタッフインタビュー【完全版】| site url = https://www.famitsu.com/| site name = Famitsu.com| access time = 20180821212437}}</ref>
+
+Whereas Lightning was depicted as a hardened and cold soldier-type in ''Final Fantasy XIII'' and near godlike in power in ''Final Fantasy XIII-2'', making her distant in ''Lightning Returns: Final Fantasy XIII'' intended to portray a more human side to her. The game explores how Lightning became the strong woman she is and with what she is struggling. By displaying her sadness and sorrow, the writers hoped to show more of Lightning's human side.<ref name="SQE">{{Refwebsite| page url = http://www.novacrystallis.com/2013/06/lightning-returns-square-enix-members-exlcusive-interview/| page name = Lightning Returns: Square Enix Members Exclusive Interview| site url = http://www.novacrystallis.com/| site name = Nova Crystallis| access time = 20180821212438}}</ref>
+
+Lightning's in-game model from the prior two installments was created from scratch rather than repurposed. Her overall proportions were re-evaluated to accommodate for the schemata.<ref>{{Refwebsite| page url = http://www.siliconera.com/2013/11/07/lightning-returns-final-fantasy-xiii-alters-lightnings-silly-sorceress-pose-final-release/| page name = Lightning Returns: Final Fantasy XIII Alters Lightning's Silly Sorceress Pose| site url = http://www.siliconera.com/| site name = Siliconera| access time = 20180821212441}}</ref> Compared to previous games, her model has a bigger bust, although it varies between different outfits.<ref>{{Refwebsite| page url = http://www.dualshockers.com/2013/06/15/its-official-lightning-got-a-boob-job-for-lightning-returns-final-fantasy-xiii/| page name = It’s Official: Lightning Got a Boob Job for Lightning Returns: Final Fantasy XIII| site url = http://www.dualshockers.com/| site name = DualShockers| access time = 20180821212451}}</ref>
+
+Motomu Toriyama said Lightning's story ends in ''Lightning Returns: Final Fantasy XIII'', as this game is the finale to the ''[[Lightning Saga]]''. As Lightning is a popular character, even when compared to other ''[[Final Fantasy series|Final Fantasy]]'' characters, Toriyama did not rule out a possibility of her appearing in future titles, not as a protagonist, but as a guest character.<ref>{{Refwebsite| page url = http://www.siliconera.com/2014/02/14/lightnings-story-truly-may-guest-future-final-fantasy/|page name = Lightning’s Story Is Truly Over, But She May Be A Guest In A Future Final Fantasy| site url = http://www.siliconera.com/| site name = Siliconera| access time = 20180821212454}}</ref>
+{{clear}}
+
+===Voice===
+{{audio|filename=Lightning Voice (D012).ogg|dialogue=I make my own fate. I'll keep looking for hope until I find some.|title= Ali Hillis as Lightning in ''Dissidia 012''}}
+[[Ali Hillis]] voices Lightning in English, and also voices [[Emina Hanaharu]] from ''[[Final Fantasy Type-0]]''.
+
+[[Maaya Sakamoto]] voices her in Japanese. Sakamoto also voices [[Aerith Gainsborough]] from the ''[[Compilation of Final Fantasy VII]]'', [[Diva (Type-0)|Diva]] from ''Final Fantasy Type-0'', and [[Aya Brea]] from ''The Third Birthday''. In their respective [[PlayStation Portable]] games, Aya and Lightning wear the other's outfit to refer to their shared voice actress.
+{{clear}}
+
+==Merchandise==
+{{Main|/Gallery#Merchandise|t1=Lightning merchandise gallery}}
+[[File:LRFF13 Lightning Play Arts Kai.jpg|thumb|[[Final Fantasy Play Arts Action Figures|Play Arts Kai]] from ''Lightning Returns''.]]
+A special edition [[PlayStation 3]] featuring Lightning was released in Japan on December 17, 2009. On the day of the US release of ''Final Fantasy XIII'', a special edition [[Xbox 360]] featuring Lightning on a faceplate commemorated the event; the faceplate was only available through preorders on certain websites and stores.
+
+The 50ml bottle of [[Final Fantasy perfumes and fragrances|~Lightning~ eau de toilette]] was released a month after the game with an imprinted glass bottle and a strap with Lightning's pendant. The scent is described as a "sweet peach smell followed by rose and then a feminine musk".
+
+The lightning bolt pendant Lightning wears in ''Final Fantasy XIII'' has been released as official merchandise. The pendant is of .925 silver, is accented with a gold and black rhodium coating, and has three cubic zirconia that roll up and down when the charm is shaken. A silver pendant based on the symbol appearing on Lightning's armor in ''Lightning Returns: Final Fantasy XIII'' was released in October 2013.
+
+A ''Final Fantasy XIII-2'' bundle was released in Japan on December 15, 2011, with a black 320GB PlayStation 3 Slim with Lightning's image. Lightning's ''Final Fantasy XIII-2'' merchandise includes a [[Play Arts]] action figure and a coffee tumbler.
+
+On December 14, 2010, all Japanese Square Enix Members with an "Ultimate" status received a special Christmas present from Tetsuya Nomura: an art plate with an original illustration of Lightning with the text, "She must not be forgotten." On September 22, 2011, North American Square Enix Members with an "Ultimate" status also received the Lightning illustration.
+
+Glico, the snack company, worked with Square Enix to promote ''Lightning Returns: Final Fantasy XIII'' in Japan. Pocky and Almond Peak had Lightning on their boxes.
+
+In May 2018, Square Enix released a silver Lightning pendant with a pink gem as part of the [[Final Fantasy 30th Anniversary]] campaign. The reverse side reads "Final Fantasy" with a crystal carving and depicts her ''[[Dissidia Final Fantasy]]'' appearance. Square released the pendant alongside those of the other ''Final Fantasy'' [[List of protagonists|protagonists]].
+
+==Gallery==
+{{Main|/Gallery|t1=Lightning gallery}}
+
+==Etymology==
+{{Etym|Claire}}
+
+{{Etym|Eclair}} This is why she is renamed "Claire" in the Western releases.
+
+{{Etym|Lightning}}
+
+{{Etym|Farron}}
+
+The combination refers to thunder coming after the lightning.
+
+==External links==
+* [[wikipedia:Lightning (Final Fantasy)|Wikipedia's article on Lightning]]
+
+==References==
+{{Reflist}}
+{{citations}}
+
+{{navbox LSaga}}
+{{navbox characters FFXIII}}
+{{navbox characters XIII2}}
+{{navbox characters LR}}
+{{navbox characters FFXIV}}
+
+
+[[de:Lightning]]
+[[es:Lightning]]
+[[fr:Lightning]]
+[[it:Lightning]]
+[[pl:Lightning (Final Fantasy XIII)]]
+[[pt-br:Lightning (Final Fantasy XIII)]]
+[[ru:Лайтнинг (Final Fantasy XIII)]]
+[[Category:Characters in Final Fantasy XIII]]
+[[Category:Characters in Final Fantasy XIII-2]]
+[[Category:Characters in Lightning Returns: Final Fantasy XIII]]
+[[Category:Final Fantasy XIII-2 Commando Monsters]]
+[[Category:Main characters]]
+[[Category:L'Cie]]

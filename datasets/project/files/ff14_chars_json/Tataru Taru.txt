@@ -1,0 +1,154 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Tataru Taru
+|release=FFXIV
+|japanese=タタル・タル
+|romaji=Tataru Taru
+|image=FFXIV Tataru.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=21
+|dob=
+|affiliation=[[Scions of the Seventh Dawn]]
+|occupation=Receptionist
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Lalafell]]
+|gender=Female
+|height=
+|weight=
+|hair=Lilac
+|eye=Violet
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|arcanist}}
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=Mariya Ise
+|english voice actor=[[Carina Reeves]]
+}}
+{{Quote|Not only does this diligent Lalafell single-handedly carry out the clerical duties of the Scions of the Seventh Dawn, she is also responsible for their finances, often dabbling in the various trade professions herself in order to save a few coins. Though unsuited to battle, her administrative support is what allows the other members of the organization to operate at full effectiveness in the field.|Official ''Endwalker'' website}}
+'''Tataru Taru''' is a [[Lalafell]] in ''[[Final Fantasy XIV]]''. She is the receptionist of the headquarters of the [[Scions of the Seventh Dawn]]. Said to be a keen judge of character, she is in charge of who can enter the Scions' base.
+
+==History==
+===Early life===
+Tataru was born into a formerly affluent family in [[Ul'dah]] who lost their fortune and became destitute when she was a small child. While working in one of Ul'dah's stores as a teenager, she met [[Minfilia Warde]] when the latter was shopping. Something about Tataru impressed Minfilia who recruited her to join the [[Path of the Twelve]] and, subsequently, the Scions of the Seventh Dawn.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Tataru from Final Fantasy XIV legacy.jpg|thumb|left|Tataru in version 1.0.]]
+Tataru worked as the receptionist for Path of the Twelve. Once the adventurer joined the organization, Tataru registered them as a walker and helped them choose another of the walkers of the Path to become their new [[Path Companions|path companion]]. Afterward Tataru gave information to guide the adventurer in their missions.
+{{clear}}
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Tataru worked in the Waking Sands. When the [[Garlean Empire]] attacked the base, she wais among those [[Livia sas Junius]] captured and was taken to [[Castrum Centri]]. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]] rescued Tataru, along with the other captured leaders of the Scions, and she resumed her duties at the Waking Sands.
+
+When the Scions moved their headquarters to the Rising Stones, located in the outpost of [[Revenant's Toll]], Tataru accompanied them, continuing her duties at the new location. She took on the profession of a [[miner]] to do her share in helping to pay for the rising costs of funding the Scions.
+
+Becoming frustrated at her self-perceived uselessness, she took a leave of absence to train to be an [[Summoner (Final Fantasy XIV)|Arcanist]]. She proved to be poorly adept for combat, and after a brief moment of despondence, resolved to create good-luck-charms for the rest of the Scions to help protect them. This project caused her to miss the banquet in Ul'dah, during which the majority of the other Scions were seemingly killed. Rescued from the traitorous [[Crystal Braves]] by [[Yugiri Mistwalker]], Tataru was the only Scion able to meet up with the Warrior of Light and [[Alphinaud Leveilleur]] when they sought shelter at Camp Dragonhead.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+With the help of Lord [[Haurchefant Greystone]], Tataru was allowed into Ishgard alongside the Warrior of Light and Alphinaud as wards of [[High Houses of Ishgard|House Fortemps]]. Overzealous knights accused Tataru and Alphinaud of heresy, but she was exonerated after the Warrior of Light championed her in a trial by combat. Tataru got a job at the Forgotten Knight, a tavern in the city, as it was a prime place to gather information. She kept in contact with the Scions' various allies and passed information on between them and the Warrior of Light. Her efforts to gather information on the whereabouts of the missing Scions bore fruit, as her coordination with [[Pipin Tarupin]] led to them discovering [[Y'shtola Rhul]]'s location. After Y'shtola was recovered, Tataru presented her with a new outfit and staff that she had crafted for the occasion.
+
+After the defeat of Archbishop [[Thordan VII]], Tataru joined the Warrior of Light and Alphinaud in visiting the grave of Lord Haurchefant, where they renewed their promise to reunite with the rest of the Scions.
+
+Tataru continued to aid the Scions, moving between the Rising Stones and Ishgard as needed. She was one of the few Scions of the Seventh Dawn members told the truth about [[Minfilia Warde]]'s fate. She gave [[Thancred Waters]] and [[Alisaie Leveilleur]] new outfits, and had measurements taken of the Warrior of Light.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+When the Scions travelled to [[Doma (Final Fantasy XIV)|Doma]] to help with its liberation, Tataru secured passage to [[Othard]] with [[Carvallain|Captain Carvallain]] by blackmailing him with information she had gathered in Ishgard. Upon arrival at [[Kugane]], Tataru remained at the Ruby Bazaar, the Scions' base of operation in the city, to gather information and keep in contact with their allies still in [[Eorzea]]. Once Doma was liberated, Tataru elected to stay behind in Kugane to be the Scions' eyes and ears in Othard.
+
+Tataru contacted the Scions in Eorzea, telling them that [[Hancock]] had information for them at the Ruby Bazaar. While in Kugane, Alphinaud foolishly spent a large amount of the Scions' funds, which Tataru chastised him for. Hoping to recoup the loss, she joined the Warrior of Light and [[Soroban]] in investigating the dungeon known as [[Hells' Lid]]. Once the monsters inside were defeated, the three encountered [[Genbu]] and his fellow Auspices, animals that had gained extraordinary powers due to their long lifespans. The three were recruited to assist the [[Four Lords]], the most powerful of the Auspices.
+
+When Soroban temporarily transformed into an Auspice as part of his training, Tataru attempted to use her skills as an Arcanist to help the Warrior of Light and Genbu in battling him. Although her [[Carbuncle (summon)|Carbuncle]] disobeyed her and fled the battle (again), and she spent most of her time panicking and soaking up damage, Tataru could cast healing magic during the fight.
+
+Once the Four Lords had been assembled, Tataru witnessed the battle during which they, along with the Warrior of Light and Soroban, re-sealed the rogue Auspice Koryu. Genbu rewarded her with a large amount of treasure to refill the Scions' funds. Tataru was then sent as the Scions' representative to deliver the [[Eorzean Alliance]]'s response to the [[Dalmasca (Final Fantasy XIV)|Dalmascan]] resistance's request for aid.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+After returning to Eorzea, Tataru accompanied the Warrior of Light to the base of the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]], where the beacon needed to travel to [[the First]] had been found. She saw them off before returning to her duties at the Rising Stones. Tataru and [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]] tracked down [[Estinien Varlineau|Estinien]] to Kugane, and blackmailed him to investigate the Empire's production of [[Black Rose (Final Fantasy XIV)|Black Rose]] biological weapon.
+
+After [[Emet-Selch]]'s defeat, the Warrior of Light returned to the Rising Stones to report the Scions' success in the First to Tataru. She, in turn, updated the Warrior with the events that had occurred during their absence. She later met with the Warrior of Light, Krile, and Estinien, when the latter returned to report on the current situation in [[Garlemald (location)|Garlemald]]. She attempted to convince Estinien to continue providing support to the Scions, but he turned her down, stating he had other business to attend to.
+
+After the Scions returned to [[Hydaelyn|the Source]], much to her joy and relief, Tataru recreated the equipment and outfits they had used while on the First, with instructions from [[Feo Ul]]. She also fashioned new gear for [[G'raha Tia]], including a new staff made from a piece of the Crystal Tower.
+
+When the Warrior of Light, Alisaie, and G'raha Tia needed to travel to [[Azys Lla]], Tataru presented them with the ''Bonanza'', an [[Airship (term)|airship]] she had created for the Scions. Though the Scions praised her work on its construction, she admitted that her attempt to learn to pilot it were not as successful, and saw them off. Later, after a confrontation with [[Fandaniel]] and [[Lunar Bahamut]], the Scions decided they needed Estinien's help in dealing with the dragon-like creature, and Tataru and Krile left to locate and recruit the dragoon.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+When the Scions departed for [[Sharlayan]], Tataru saw them off in [[Limsa Lominsa]] before returning to the Rising Stones. Later, when the Scions were recruited to the Ilsabard Contingent, she provided them with warm clothing before they left for Garlemald. She then travelled to Sharlayan herself to join Krile in providing support.
+
+When the Scions' allies converged in Sharlayan to assist with the completion of the ''Ragnarok'', Tataru helped organize the supplies and workers, as well as the payments needed for everything, revealing [[Ameliance Leveilleur]] as the Scions' financial backer. The day before the Ragnarok's launch, she took the Warrior of Light to her newly opened boutique to outfit them with armor and equipment for the final battle. She saw the Scions off when they departed in the ''Ragnarok'' for [[Ultima Thule]], and was the first to greet them when they returned after defeating [[Meteion]] and preventing the [[Final Days]].
+
+With the Final Days averted, and the [[Ascian]]s and [[primal]]s no longer a threat, the Scions publically disbanded. They promised to reunite if they were ever needed again before going their separate ways. Tataru alone remained to maintain the Rising Stones as well as to use it as a base for her burgeoning career as an artisan.
+
+==Characteristics==
+===Appearance===
+Tataru is a Dunesfolk Lalafell with lilac hair. Though she wears a variety of outfits her top is always predominantly pink.
+
+===Personality===
+Tataru Taru could be considered the most innocent and kind member of the Scions of the Seventh Dawn, always willing to help its members with boundless enthusiasm and a smile. Despite being skilled as a receptionist and bookkeeper, she often feels inferior to the other members and attempts to learn various other professions, such as becoming a miner and arcanist, though these ventures are rarely successful. Nonetheless, she remains loyal to her fellow Scions who treat her with the utmost respect. She is a skilled seamstress and has an affinity for performance, often practicing her juggling (in a misguided goal to become a street performer) as well as occasionally working as a singer in [[Ishgard]]'s tavern, the Forgotten Knight.
+
+Despite her perceived innocence, she is not above resorting to blackmail, as she used knowledge of [[Carvallain de Gorgagne]]'s true identity to force him to grant the Scions passage to Kugane. Likewise, she and Krile conscripted the grim and gruff Estinien Wyrmblood to investigate the Black Rose weapon in the Scions' stead. The dragoon even remarked that Tataru must have been trained as a spy. 
+
+Wedge has a crush on her, and desires to someday win her heart, but she remains oblivious due to his shy nature.
+
+==Gameplay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Tataru Taru
+|image = [[File:FFXIV TT Tataru.png]]
+|number = 19
+|total = 14
+|type = Scion
+|description = "Deep in the desert of my heart,♪<br/>A lonely flower blooms...♪<br/>Yearning for the heavens above♪<br/>To quench my thirst for you.♪<br/>Trololololo～lololo～."
+|obtain = Random drop from {{icon|ffxiv|item|Silver Triad Card}}
+}}
+
+{{Card FFXIV
+|name = Stormblood Tataru
+|image = [[File:Stormblood Tataru Triple Triad Card.png]]
+|number = 221
+|total = 13
+|type = Scion
+|description = “Making friendly inquiries is my specialty. Lest you forget, I got plenty of practice in Ishgard!”
+|obtain = Purchasable from the Manderville Gold Saucer for 96,000 {{icon|ffxiv|item|mgp}}
+}}
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Tataru appears alongside on ''Triple Triad'' cards in the version available via ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+459a Tataru Taru.png|Tataru.
+459b Tataru Taru.png|Tataru.
+459c Tataru Taru.png|Tataru.
+</gallery>
+
+==Other media==
+===''[[Final Fantasy Lost Stranger]]''===
+[[File:FFLS Lalafell.png|thumb|150px|Tataru Taru and Nanamo in ''Final Fantasy Lost Stranger''.]]
+Tataru Taru is referenced along with [[Nanamo Ul Namo]] when the [[Shogo Sasaki|protagonist]] assumes that the Mahlwon race are Lalafell.
+{{clear}}
+
+==Voice==
+Tataru is voiced by [[Carina Reeves]] since the English release of ''Final Fantasy XIV: Heavensward''. She shares the same Japanese voice actress, [[Mariya Ise]], with [[Nanamo Ul Namo]].
+
+==Gallery==
+<gallery>
+FFXIV ARR Tataru.png|Tataru.
+Tataru Miner.png|Tataru as a miner.
+FFXIV Tataru SB.png|Tataru in a yukata in ''Final Fantasy XIV: Stormblood''.
+FFXIV Tataru Minion.png|Wind-up Tataru minion.
+FFXIV SB Tataru minion.png|Dress-up Tataru minion.
+</gallery>
+
+==Etymology==
+Tataru's name [[Final Fantasy XIV allusions|alludes]] to the [[Tarutaru]], a race from ''[[Final Fantasy XI]]'' that were the basis for the Lalafell race.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

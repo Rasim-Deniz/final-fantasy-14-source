@@ -1,0 +1,71 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Glasya Labolas (''Final Fantasy XIV'')}}
+{{Table incomplete|FFXIV}}
+{{FFXIV Enemy
+| name = Glasya Labolas
+| japanese = 不壊のガーディアン
+| romaji = Fue no Gādian
+| lit = Guardian the Indestructible
+| image = FFXIV Glasya Labolas.png
+<!--Stats-->
+| level = 50
+| 1 hp = ??
+<!--Statuses.
+ Those with no affinity can be excluded
+ "Immune" or "Auto"-->
+| dark =
+| blunt =
+| piercing =
+| slashing =
+| bind = Immune
+| blind = Immune
+| disease = Immune
+| silence = Immune
+| sleep = Immune
+| slow = Immune
+| stun = Immune
+| heavy = Immune
+| pacification = Immune
+| paralyze = Immune
+| holmgang = Immune
+<!--Info-->
+| location = Syrcus Tower
+| family = Spoken
+| genus = Allag
+| class =
+| drop =
+| abilities = 
+| traits =
+| info = 
+}}
+{{Quote|You who would bare steel against the emperor. You shall not pass so long as I draw breath!|Glasya Labolas}}
+'''Glasya Labolas''' is a boss from ''[[Final Fantasy XIV]]''. He is the second boss of the [[Syrcus Tower (Final Fantasy XIV duty)|Syrcus Tower]], based on the [[Glasya Labolas (Final Fantasy III)|enemy of the same name]] from ''[[Final Fantasy III]]''.
+
+{{See|Glasya Labolas (enemy)}}
+
+== Battle ==
+Glasya Labolas in fought in a large disc-shaped arena, with several satellite platforms surrounding it, all accessed with jump pads (similar to Turn 3 of [[Binding Coil of Bahamut|Binding Coil]]). A dedicated pugilist, he mainly fights using his fists and various "Aura" attacks. Eventually he summons clockwork minions to prepare his Deathstream attack, and players must deal with them to avoid certain defeat.
+
+First, he has Clockwork Wrights that show up to charge up his attack. These Wrights can only be disabled by first having a player stand near to jam the beam, binding them but leaving the wright vulnerable to attack by other players. Several waves of Wrights will show up before he readies the move. Eventually Glasya Labolas stands in the center and unleashes his Deathstream attack, the damage dependent on charge accumulated.
+
+From this point, he will gain a new attack called Hunter's Moon, which sends flying energy discs that bounce around the arena and damages any player it comes into contact. Eventually he sets up a barrier that reflects all attacks, and summons Clockwork Squires while he charges up a full-power Deathstream. As this attack is almost certainly fatal, players must instead lure the clockwork squires to grab the beams and shut them down in place. This will open the Inner Ring teleporters, allowing the alliance to use jump pads to reach the satellite platforms out of range of the attack. Failure to do so will result in a certain wipe, and any players that fail to escape via jump pads in time will meet the same fate.
+
+Once the 100% power Deathstream is used, Glasya Labolas will kneel over exhausted and the lights dim. To get back into the center platform, the Spanner-Rooks on each platform must be defeated to open the outer-ring jump pads and resume the fight with Glasya Labolas. He will eventually cycle back to the Clockwork Wright phase if the battle continues long enough.
+
+== Musical themes ==
+Like the other mid-bosses in Labyrinth of the Ancients and Syrcus Tower, the track "Nemesis" plays during the battle with Glasya Labolas.
+
+== Gallery ==
+<gallery>
+Crystal Tower Bosses FFXIV Art.jpg|Artwork of the bosses of the Crystal Tower. Glasya Labolas is on the middle right side.
+</gallery>
+
+== Etymology ==
+{{Etym|Glasya-Labolas}}
+
+== Trivia ==
+* When Glasya Labolas unleashes his Deathstream attack, he assumes a pose almost identical to Yoshitaka Amano's original artwork of Glasya Labolas for ''Final Fantasy III''.
+* In the Japanese version, Glasya Labolas is called the Unbreakable Guardian {{j|不壊のガーディアン|Fue no Gaadian}}, being named after the [[Guardian (Final Fantasy III)|Guardian]] boss from Eureka in ''Final Fantasy III'', similar to Scylla and Amon. Despite the renaming, the gear based on Glasya Labolas is still named after the Guardian boss. There are two sets: one for Lancers/Dragoons ("of Maiming") and one for Pugilist/Monk/Rogue/Ninja ("of Striking").
+
+{{navbox FFXIV}}
+[[Category:Bosses in Final Fantasy XIV]]

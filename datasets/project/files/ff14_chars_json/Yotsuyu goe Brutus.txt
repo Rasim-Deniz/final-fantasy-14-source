@@ -1,0 +1,202 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Yotsuyu goe Brutus
+|release=FFXIV
+|japanese=ヨツユ・ゴー・ブルトゥス
+|romaji=Yotsuyu Gō Burutusu
+|lit=
+|aka=Tsuyu {{j|ツユ|Tsuyu}}
+|image=FFXIV Yotsuyu.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Doma (Final Fantasy XIV)|Doma]]
+|age=32
+|dob=
+|affiliation=[[Garlean Empire]]
+|occupation=Acting imperial viceroy of Doma
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=Black
+|eye=Yellow
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer= [[Ayumi Namae]]
+|motion capture=
+|japanese voice actor=Shizuka Ito
+|english voice actor=[[Wikipedia: Naoko Mori|Naoko Mori]]
+}}
+{{Quote|The acting imperial viceroy of Doma, Yotsuyu's grace and beauty belie a heart of stone. A cruel, sadistic ruler, she harbors a deep hatred for Domans. Under the pretext of purging radical elements, she has perpetrated numerous atrocities against her own people. Yet all are the hero of their own story...|Official ''Stormblood'' website}}
+'''Yotsuyu goe Brutus''' is a character in ''[[Final Fantasy XIV: Stormblood]]'', and serves as its tertiary antagonist. She is the main antagonist of post-''Stormblood'' patches. She is the acting imperial viceroy of [[Doma (Final Fantasy XIV)|Doma]].
+
+==History==
+===Early life===
+Born in the Naeuri family, Yotsuyu suffered a terrible childhood: after her parents died, she was sent to live with her aunt and uncle, who withheld her from schooling to work around their home. They would physically abuse her, often in front of her younger 
+adopted brother, [[Asahi sas Brutus|Asahi]]. While still a young teen, her parents married her away to an abusive noble named Sashihai. After his death, Yotsuyu was sent to a pleasure house to settle her husband's debts. 
+
+Within the brothel, she climbed from a regular girl to one of the more influential courtesans, and was given a task by the then-living viceroy of Doma: spy on the [[Garlean]] unit that was visiting the brothel, and seduce the crown prince [[Zenos yae Galvus]] to steal battle plans from his [[Varis zos Galvus|father]]. Despite her advances, Zenos was entirely disinterested in her, asking instead how she felt about her expectations working in the pleasure house. Yotsuyu admitted her hatred and rage towards Doma and its people, which interested Zenos greatly. After a surprise attack from assassins trying to kill Zenos, he quickly dispatched them and told Yotsuyu he was interested in her potential.<ref name="Tales from the Storm">'[https://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/sidestory_05/ Tales From the Storm - In Darkness Blooms the Lily]'</ref>
+
+[[File:FFXIV TFS Yotsuyu Zenos.jpeg|thumb|Yotsuyu and Zenos after the assassination attempt.<ref name="Tales from the Storm"/>]]
+Shortly after, Garlemald crushed the Doman resistance and killed Lord [[Kaien]], and Yotsuyu joined Zenos, being crowned the new Imperial viceroy of Doma.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV Yotsuyu 02.png|thumb|Yotsuyu at the Ruby Sea.]]
+Yotsuyu uses her position to torment the Domans while denouncing the [[Confederacy]] of the Ruby Sea as a legitimate governing party. She announces that those who do business with them will be branded enemies of the Empire.
+
+With the recently demoted Grynewaht as her bodyguard, Yotsuyu holds court in the fishing village of [[The Ruby Sea|Isari]] to satisfy her hatred, on the grounds of weeding out traitors and undesirables. [[Gosetsu Daito|Gosetsu]], watching her actions with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], [[Lyse Hext]], and [[Alisaie Leveilleur]], turns himself in as a collaborator with the Resistance to stall for time. Yotsuyu interrogates him on the whereabouts of Doma's true heir, [[Hien Rijin]], but he remains stalwart in his resistance. The [[Scions of the Seventh Dawn]] win over the Confederacy and drive the imperials out of Isari once they force the Red [[Kojin]] to abandon their imperial posts. 
+
+Yotsuyu has Grynewaht slaughter a group of Red Kojin to take the legendary katana ''Ame no Habaki'', which they had among their treasures. Yotsuyu presents the blade to Zenos when he comes to [[Doma Castle]], after hearing of the Confederate attack. He tests the blade on the Warrior of Light and [[Yugiri Mistwalker|Yugiri]] in [[Yanxia]] when they attempt to assassinate him. At their second meeting, he grabs Yotsuyu by her hair, giving her a final chance to end the rebels before throwing her to the ground. After slapping Grynewaht when he attempts to help her up, Yotsuyu reveals the Warrior of Light's presence on Yanxia. She orders Grynewaht to kill the Warrior of Light's group while preparing a massive operation to purge all opposition in Doma.
+
+{{Quote|No...no one leaves... Not you or anyone else...|Yotsuyu attempting to kill Gosetsu and the others}}
+[[File:FFXIV Hien vs Yotsuyu.png|thumb|left|Hien finishes off Yotsuyu.]]
+Reunited with Hien, the Doman Liberation Front refuses to accept defeat. Yotsuyu commands her forces to fight to the death and has the cyborg monster that Grynewaht is transformed into act out his last attempt of revenge as her last line of defense. After Grynewaht is defeated, Yotsuyu is cornered by Hien and the Warrior of Light. She explains why she sided with the empire and reveals she was buying time for her final gamble: have Doma Castle collapse on itself to take the prince with her. She is cut down when she attempts to shoot Hien, and tries to kill Gosetsu when he holds up the collapsing ceiling. Yotsuyu fails to stop the Warrior of Light from escaping as she is seemingly crushed under the sinking castle. 
+
+===Patch 4.2: The Legend Returns===
+Carried by the current, Yotsuyu and Gosetsu survive and end up stranded on an island. Gosetsu gets them to [[Kugane]] via a makeshift raft. Yotsuyu has suffered extreme memory loss: she behaves very childlike and innocent, and is entirely unaware of her own name. Gosetsu takes to calling her "Tsuyu", and she obediently follows Gosetsu wherever he goes. She joins him to find passage across the Ruby Sea to Doma to reunite with Hien, who threatens her with his sword upon seeing her. Hien is greatly concerned for her due to her past actions against the Doman people.
+
+===Patch 4.3: Under the Moonlight===
+[[File:FFXIV Tsuyu and Gosetsu.png|thumb|Tsuyu washing Gosetsu.]]
+Gosetsu remains bedridden and hospitalized by Tsuyu in the Doman Enclave, still carrying his injuries from the fight at Doma Castle. He claims to be healthier and that he will be back in fighting condition soon. After mentioning off-handed that he wanted to taste the persimmon fruit of Namai, his favourite food when he was a child, Tsuyu runs off to the village to search for some. After terrifying the Namai villagers with her appearance and being yelled at by them, Tsuyu's memory triggers and she realizes there was something horrible that she did to the people of Doma. She kneels and bows to the ground, apologizing profusely while sobbing to the villagers. Hien arrives with the Warrior of Light and asks the villagers to leave this matter to him, and brings Tsuyu back.
+
+During the meeting between Hien and Asahi sas Brutus, Asahi reveals that Garlemald knows of Yotsuyu's survival, and requests that she be taken to Garlemald to face trial for her failures as a Garlean citizen. Hien agrees, only so that he may bring home Doman prisoners of war. To secretly spur her memory, Asahi brings in their parents, which causes a critical effect on Tsuyu's amnesia. They berate her even in front of Hien and the Warrior of Light, which upsets Tsuyu greatly. After the party concludes their business with the Garleans, Tsuyu runs away in the night after she awakens to her remaining memories. Thinking that she doesn't deserve Gosetsu's kindness, nor does she want to return with her family, she tries to commit suicide with a stolen ''tantō''. Her stepparents find her, scolding her for her behaviour. Believing she still has no memories of the past, they discuss our loud how they can sell Yotsuyu for money again. Her final memories triggered awake, Yotsuyu murders them with the blade in violent vengeance. Asahi steps out from the shadows, congratulating her on her reawakened memories. Yotsuyu sneers at him, fully awakened to herself once more, while Asahi gloats that he sent their parents here to be killed by Yotsuyu.
+
+Before the Naeuri reunion, Asahi had visited Tsuyu in private, gifting her a special moon shaped mirror, which was one of her original gifts given by Garlemald when she was a courtesan spy. It had begun to stir more of her memories, and the confrontation with her parents later that day had only hurried it along.
+
+{{Quote|quotetext = Orphan of the Naeuri, widow of Sashihai... ...And acting viceroy of Doma! You and your people are mine to govern; mine to punish!|personquoted = Yotsuyu goe Brutus}}
+After fleeing the enclave with her regained memory, she returns to rhe Garlean airship. The prisoner exchange takes place in [[Castrum Fluminis]] the following day. The Warrior of Light, Hien, Alphinaud and Yugiri meet with Asahi and his assistant [[Maxima quo Priscus]] in the to conclude their business. Hien notices a suspicious large quantity of boxes, which Asahi explains it to be a gift of good will. Yotsuyu makes her presence known shortly after. She explains how she will resume the duties Zenos placed upon her and calls Doma a "putrid, pestilent swamp" which she will reign over until the whole population's mind has been broken by her vengeful crusade.
+
+To their shock, the "crates" reveal copious amounts of [[aether]]-infused [[Crystal (term)|crystals]] and Yotsuyu uncovers the moon-adorned compact. She becomes infused with the power of a [[primal]], invoked from her own strong will, overwhelming rage, and the crystal's energy. This was all orchestrated by Asahi, who plotted a reason to cancel the peace agreement and the terms of the prisoner exchange. He flees, pursued by Hien and Yugiri, and leaves Yotsuyu to deal with the Warrior of Light.
+
+She introduces herself now as [[Tsukuyomi (Final Fantasy XIV)|Tsukuyomi]], divinity of the night, intending to plunge everything of Doma into endless darkness, with her shining as the sole cold moon above. The Warrior of Light is forced stop her, unleashed in full fury. After overusing the primal's power she dissolves into dark mist and invokes what resembles the image of her horrendous memories and broken spirit. Her memories take form of her cruelest tormentors, with an image of Zenos entering the scene to perform a coup-de-grace on her. Yotsuyu's fond memory of Gosetsu breaks through, shielding her from the attack, and helps drive off the remaining specters.
+
+Believing she is beyond redemption, Tsukuyomi fights with unbridled rage before her ultimate defeat. Yotsuyu reverts to human form, barely alive and conscious. Asahi returns, firing a bullet into her fragile body, and begins to kick the defenseless woman, revealing his own resentment: he believes that Zenos had favored her over him, despite his love and admiration for Zenos. Yotsuyu summons Tsukuyomi's katanas to skewer him, having saved the last of her strength just to kill him, and is satisfied at the very end.
+
+{{Quote|Thank you, dear brother...for this precious gift. Vengeance. These people...''our'' people...they ignore the corruption which festers beneath the surface. Cast aside that which is dirty and broken. Speak not of things which would disrupt their dreary little lives. Like you, Asahi...always pretending not to see. You were the first...the first I swore to kill. Ahhh...such bliss. I had thought my hunger insatiable...but now...now I am satisfied. You should feel honored, dear brother. I saved the last of my strength just...for you.|Yotsuyu}}
+[[File:tsuen.png|thumb|left|"Tsuyu's" final thoughts.]]
+She looks at the Warrior of Light, questioning why they seem mournful, as the "witch of Doma" is about to die. The Warrior of Light offers that Gosetsu might mourn for the good "Tsuyu" and how "Tsuyu" deserved better. She wonders if Gosetsu found the persimmon gift to his liking, before dying peacefully. Hien returns with an aggrieved Gosetsu, who laments over Yotsuyu's body, asking why the ''kami'' had to save their lives just to inflict this pain and tragedy anew.
+{{Clear}}
+
+==Characteristics==
+===Appearance===
+Yotsuyu is a Doman-Midlander [[Hyur]] with fair skin, pale yellow eyes, a beauty mark above the left side of her chin, and long dark hair with an ornate flower hairpin. She wears an elegant black collar with a pattern reminiscent of a spider's web, a black robe with red accents, and a gold ''obi''. She is rarely seen without a smoking pipe.
+
+Following her [[Amnesia (term)|memory loss]], Yotsuyu wears peasant clothing with a grass hat.
+
+===Personality===
+Yotsuyu's grace and beauty belie a heart of stone and a will to survive by any means. A cruel, sadistic ruler, she scorns Domans due to her painful childhood and marriage to an abusive noble. Under the pretext of purging radical elements, and satisfying her personal arousal from seeing such inhumane acts on Domans carried out, Yotsuyu perpetrates numerous atrocities against her own people. Yotsuyu herself sees her hatred for Doma like an abyss, bottomless and insatiable.
+
+Though loyal to the [[Garlean Empire]], specifically Zenos yae Galvus, Yotsuyu is verbally abusive to her subordinates, [[Grynewaht pyr Arvina]] especially, to get them to obey her. She fears the Garlean prince, for she knows he does not tolerate failure and thus is desperate to stay upon his good graces.
+
+{{Spoiler}}
+Yotsuyu wasn't always hateful, but rather very depressed and overwhelming lonely, especially during her early childhood and young adult life. Her former master, when she was a courtesan, described her when her father sold her as "more doll than woman" and having "eyes that had given up on life." Her rage and hate surfaced when she was given the chance by the Garleans.
+
+Following her memory loss after the encounter at [[Doma Castle (Final Fantasy XIV)|Doma Castle]], as "Tsuyu" she becomes more child-like and vulnerable, always at Gosetsu's side for safety. When confronted by the people whose lives she made miserable, she falls to her knees crying, apologizing, despite having forgotten her past transgressions. Yotsuyu's true goal was to make her family pay for the torment they made her endure, for she accepts that they made her the monster Doma fears and hates.
+{{Endspoiler}}
+
+==Gameplay==
+Yotsuyu is fought as the primal entity [[Tsukuyomi (Final Fantasy XIV)|Tsukuyomi]] within {{icon|ffxiv|duty|Castrum Fluminis}}.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Yotsuyu
+|image = [[File:Yotsuyu Triple Triad Card.png]]
+|number = 185
+|total = 25
+|type = Garlean
+|description = “My appetite for your agony is as an abyss─bottomless. Insatiable.”
+|obtain = Obtained from the Imperial Deserter in The Lochs (32, 30).
+}}
+
+{{Card FFXIV
+|name = Tsukuyomi
+|image = [[File:Tsukuyomi Triple Triad Card.png]]
+|number = 204
+|total = 24
+|type = Primal
+|description = " This primal manifested in Doma, the result of a summoning fueled by a Red Kojin relic and a trove of Empire-supplied crystals. In certain legends, Tsukuyomi is revered as the Lady of the Moon─the most common tales surrounding this figure, however, depict the entity as male."
+|obtain = Potential drop from {{icon|ffxiv|duty|castrum fluminis}} and {{icon|ffxiv|duty|tsukuyomi's pain}}.
+}}
+
+==Behind the scenes==
+Yotsuyu is voiced by Shizuka Itoh in the Japanese version, and Naoko Mori in the English version. In German, she is voiced by Yseim Meisheit, and by Sabrina Marchese in French.
+
+During both the normal and Extreme versions of her trial, Yotsuyu is accompanied by several music tracks: the first is ''Nightbloom'', which includes the regular ''Stormblood'' musical motif from ''The Measure of His Reach'', as well as intense horns and a threatening feeling brought on by Garlean music tracks. The second is ''Nightbloom'', a mournful song played during Yotsuyu's struggle against the spectres of her past. Finally, she is accompanied by [[Wayward Daughter]], which combines the musical tracks of Yanxia, ''A Mother's Pride'' and ''A Father's Pride''.
+
+A [[Minion (Final Fantasy XIV)|minion]] depicting Yotsuyu's likeness was released alongside ''The Art of the Revolution -Western Memories-'', which is only available via a code that comes with the book's purchase.<ref name="Artbook">'[https://store.na.square-enix-games.com/en_US/product/611402/final-fantasy-xiv-stormblood-art-of-the-revolution-western-memories-artbook Final Fantasy XIV: Stormblood | The Art of the Revolution -Western Memories-] (North American store site)</ref> Additionally, another minion, this time depicting Tsukuyomi, was released alongside the Stormblood official soundtrack, also included as a code with purchase.<ref name="Soundtrack">'[https://store.eu.square-enix-games.com/en_EU/product/479239/stormblood-final-fantasy-xiv-original-soundtrack-blu-ray Stormblood: Final Fantasy XIV Original Soundtrack]' (European store site)</ref>
+
+==Gallery==
+;Artwork
+<gallery>
+FFXIV Yotsuyu Artwork.png|Official artwork of Yotsuyu.
+FFXIV Yotsuyo Portrait.jpg|Concept art.
+FFXIV Yotsuyo Back.jpg|Concept art.
+StormbloodJapaneseCoverArtwork.jpg|Artwork for ''Stormblood''.
+FFXIV Stormblood Yotsuyu Artwork.png|Artwork for ''Stormblood''.
+FFXIV SB Doma promotional poster.jpg|Yotsuyu in ''Stormblood'' promotional artwork.
+FFXIV Under the Moonlight Artwork.jpg|Yotsuyu in ''Under the Moonlight'' artwork.
+</gallery>
+
+;Screenshots
+<gallery>
+FFXIV TFS Yotsuyu.jpeg|Yotsuyu speaking with a Garlean, from ''Tales from the Storm - In Darkness Blooms the Lily''.<ref name="Tales from the Storm" />
+FFXIV Yotsuyu 01.png|Yotsuyu smoking.
+FFXIV Yotsuyu torturing Gosetsu.png|Yotsuyu tormenting Gosetsu in Isari.
+FFXIV Young Yotsuyu.png|Yotsuyu in the past.
+FFXIV Yotsuyu Scary.png|Yotsuyu shows her true malice for the people around her.
+FFXIV Tsuyu Dango.png|"Tsuyu" eating dango.
+FFXIV Yotsuyu Render 1.png|Yotsuyu's original outfit.
+FFXIV Yotsuyu Render 2.png|Tsuyu with her hat on.
+FFXIV Yotsuyu Render 3.png|Tsuyu without her hat.
+FFXIV Yotsuyu Render 4.png|Tsukuyomi's human form.
+FFXIV Yotsuyu Render 5.png|Tsukuyomi's human form, glowing.
+FFXIV Yotsuyu Render 6.png|Yotsuyu as a child.
+</gallery>
+
+;Miscellaneous
+<gallery>
+FFXIV Yotsuyu minion.png|Wind-up Yotsuyu minion.
+FFXIV Tsukuyomi minion.jpeg|Wind-up Tsukuyomi minion.
+FFXIV Stuffed Tsukuyomi.jpeg|Stuffed Tsukuyomi, a plush toy available for player [[Housing|housing]].
+</gallery>
+
+==Etymology==
+{{Etym|Yotsuyu}}
+
+After losing her memories, Gosetsu gives her a nickname "Tsuyu". {{Etym|Tsuyu}}
+
+A main scenario quest involving her, titled "Gone Like the Morning Dew", is named in reference to her name.
+
+==References==
+{{reflist}}
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Yotsuyu]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Antagonists]]

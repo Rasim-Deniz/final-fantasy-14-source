@@ -1,0 +1,104 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Zodiark (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Zodiark
+|release=FFXIV
+|japanese=ゾディアーク
+|romaji=Zodiāku
+|lit=
+|image=zodiarkichi.png
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Primal]]
+|gender=Male
+|type=npc
+<!--Behind the scenes info -->
+|original appearance=[[Zodiark (summon)|Zodiark]]
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|boss page=
+}}
+{{Quote|To the one true god. To Zodiark!|Ascians praising their deity.}}
+'''Zodiark''' is a [[Divinity in Final Fantasy|deity]] in ''[[Final Fantasy XIV]]''. He is the opposite number of the goddess [[Hydaelyn (character)|Hydaelyn]], representing juxtaposition between [[Dualism|darkness and light]]. The [[Ascian]]s worship Zodiark as their god, and their ultimate goal is to revive Zodiark and restore his power so he may destroy Hydaelyn.
+
+==Profile==
+===Appearance===
+The statue of Zodiark{{cite|FFXIV|2.3 main scenario "Defenders of Eorzea"}} depicts him as a stylized humanoid figure bearing a crown-like adornment and two upside-down wings. Some of his adornments bear a superficial resemblance to parts of the [[Zodiark (summon)|Ivalician Esper of the same name]]. The symbol that appears across [[Lahabrea]]'s face while performing magic resembles this statue.
+
+While never confirmed as appearing in person, representations of Zodiark exist. A possible sighting of him is when the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] has a vision of a dark [[Crystal (term)|crystal]].
+
+{{spoiler}}
+In ''[[Final Fantasy XIV: Shadowbringers]]'' during the final battle with [[Emet-Selch|Hades]], he wields a crystal staff that bears the likeness of Zodiark depicted in the murals.
+
+In ''[[Final Fantasy XIV: Endwalker]]'', Zodiark's bound form is found on Mare Lamentorum on the Moon. In this form, he looks like a multi-armed red giant, wearing a mask with an X symbol. When He's fought in [[The Dark Inside]], Zodiark is incompletely awaken, a purple giant with six hands and tentacle for legs. Partway through the fight, his mask shatters, revealing his resemblance to Chaos. Overall, his appearance looks like Yoshitaka Amano's illustration, a humanoid man with sharp teeth.
+{{endspoiler}}
+
+===Personality===
+Zodiark's personality, goals and motivations are not directly known. Goddess Hydaelyn, through [[Minfilia Warde|the Word of the Mother]], implies that she went to war with her counterpart to prevent the balance from being disrupted, while [[Emet-Selch]] reveals that Zodiark was created to restore order to the fraying fabric of reality and immediately [[Enthrallment#Final Fantasy XIV|tempered]] his creators. The [[Amaurot|Amaurotine]], [[Hythlodaeus]], likewise, reveals that Zodiark required the consumption of half of the population's souls to enact his function. The Ascians consider Zodiark the world's true caretaker, while those who created Hydaelyn considered Him dangerous enough to shatter the world to seal away. The true disposition of Zodiark, after Elidibus separated from him, is that he is acting on instinct due to the collective will of the souls forming his body.
+
+==Story==
+===Before ''Final Fantasy XIV''===
+Zodiark, embodiment of darkness, will of the planet made manifest, and the original [[primal]], came into being when the Convocation of Fourteen sacrificed half of the population to induct a summoning to avert an impending Final Days that befell the world of Etheirys. The Convocation member with the title of [[Elidibus (Final Fantasy XIV)|Elidibus]] made himself the first offering to form Zodiark's core. Though the Calamity was averted, Zodiark enthralled the Convocation who sacrificed another half of their race to restore [[The Star|Etheirys]] to habitability. A faction of these remaining Ancients under [[Venat (Final Fantasy XIV)|Venat]] disapproved of Zodiark's presence along with the Convocation's plans to harvest the lives of the new races that would develop on the planet in the future to resurrect those they had sacrificed.
+
+Elidibus sensed this from within Zodiark and separated himself to resume his duties in the Convocation as a primal to peacefully resolve the conflict between the two groups. However, Venat's faction sacrificed themselves to summon Hydaelyn, a primal who would oppose Zodiark with the power to divide things into weaker reflections. The two primals battled until Hydaelyn's decisive blow divided Zodiark, and with him the original world split into thirteen reflections and [[Hydaelyn|the Source]]. The Ancients, their souls divided, mostly forgot about their original existence, powers and society. Zodiark is then sealed within the area of the Source's [[moon]] called [[Mare Lamentorum]] while his fragments are sealed off in the other reflections.
+
+Elidibus and the surviving members of the Convocation of Fourteen—Lahabrea and Emet-Selch—became the first Ascian Paragons. They seek to recruit their fragmented comrades to commence their work to make Zodiark whole again by rejoining the reflections back to the Source while weakening Hydaelyn's influence, whom they consider an usurper. They pay no heed to what happens to the inhabitants of these worlds, considering the peoples of the Source and its reflections but flawed mockeries of the Ancients. They engineer the [[Umbral Calamity|Umbral Calamities]], periods of cataclysmic turmoil known to the history as the Umbral Eras, each one strengthening Zodiark and in turn all souls of the Source. The fall of [[Dalamud]] at the end of the Sixth Astral Era marked the seventh Rejoining.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Dialogue|Gaius|Lahabrea... What have you done?"|Lahabrea|No more than was necessary...for my god to be reborn.|context=Gaius and Lahabrea.}}
+The Ascians had been manipulating [[Garlean Empire|Garlean]] forces under [[Gaius van Baelsar]] to restore an ancient machine, the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]], that would play to their goal of reviving Zodiark. These manipulations include both capturing the primals' essence through Gaius's campaign, and keeping tabs on the [[Scions of the Seventh Dawn]] through the possessed [[Thancred Waters]].
+
+A leader of the Ascians, Lahabrea, is thwarted, and the Ultima Weapon is destroyed. The Ascians gather, stating that the primal [[Bahamut (Final Fantasy XIV)|Bahamut]] is stirring, heralding another way for them to resurrect their deity. Zodiark's emissary, Elidibus, appears before the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] out of curiosity, believing the mysteries around the figure will be revealed in due time.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+To initiate an eighth Rejoining, the Ascians seek to exploit the tensions during the on-going [[Dragonsong War]] in the Northlands, culminating with the primal [[King Thordan]] attempting to obtain the power of the [[Warring Triad (Final Fantasy XIV)|Warring Triad]] sealed at [[Azys Lla]].
+
+In their haste the Ascians [[Igeyorhm]] and Lahabrea are undone: the former is shattered by the Warrior of Light using White Auracite and one of [[Nidhogg (Final Fantasy XIV)|Nidhogg's]] [[Eyes of Nidhogg|eyes]], while the latter is slain when King Thordan turns on him and absorbs his [[aether]]. These setbacks prompt Elidibus to call forth the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]] to expedite the process by terrorizing the [[beastmen]] by killing their primals and thus forcing them to summon stronger protectors. Though the Warriors of Darkness are defeated, Elidibus acquires the eyes of Nidhogg and gives them to the [[Ala Mhigo|Ala Mhigan]] extremist known as [[Ilberd Feare|the Griffin]] to serve his ends.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV Zodiark vs Hydaelyn Art.png|thumb|Zodiark fighting Hydaelyn.]]
+During their exploration of Qitana Ravel, the Warrior of Light and the Scions chance upon a set of murals depicting great mythological stories, the most ancient of them several millennia old. Upon viewing a battle where the god of light triumphs over the god of darkness, [[Y'shtola Rhul]] and [[Urianger Augurelt]] surmise the painting may be linked to Hydaelyn and Zodiark. The Ascian Emet-Selch—who is accompanying the party as an observer—explains these gods did not create the world, but were created by its inhabitants in the same way a primal would, meaning they are "the eldest and most powerful of primals".
+
+Back at the [[Crystarium (Final Fantasy XIV)|Crystarium]], Emet-Selch explains how ages ago only [[The Star|the Source world]] existed where the Ascian people lived, and regales the origin story of Zodiark and Hydaelyn. When Hydaelyn shattered Zodiark and the world, even the souls of the Ascians themselves were split into fourteen, leading to the birth of the myriad peoples living in this new world, ignorant of their past and unable to access even a fraction of the original power of creation held by the Ascians. Thus, the Rejoining's ultimate goal in reviving Zodiark by the few remaining Ascians who kept their original souls intact (Lahabrea, Elidibus, and Emet-Selch) is to restore their world in its original state. According to Emet-Selch, those living beings who survive the remaining calamities and the final sacrifice to Zodiark, will be reborn in their true Ancient form. It is implied that the Warrior of Light and their [[The First|First]] counterpart, [[Ardbert]]—along with four other versions of them residing in the remaining Shards—were the 14th Convocation member.
+
+While Fandaniel did not share his fellow Ascians' plan to restore their world, he saw Zodiark's release essential to his plans to destroy the world by using the primal Anima to amass enough aether to unleash a blast of energy from the Tower of Babil to break the remaining brands of the seals.
+
+===''[[Final Fantasy XIV: Endwalker]]''===
+While Fandaniel succeeds in acquiring the aether he needed, it was not enough to completely shatter the seal. He and Zenos depart to the moon to personally break the final brand. The damage to the seal caused souls to manifest from Zodiark and impede the Warrior before [[Hythlodaeus]] told them to stand down.
+
+But the Warrior is unable to prevent Zenos from destroying the final brand, with Fandaniel merging into Zodiark to take control of the Primal and challenged the Warrior of Light. After a titanic battle, the incomplete Zodiark is defeated... but it is all  part of Fandaniel's true plan: Zodiark's demise undoes his prevention of the Final Days.
+{{endspoiler}}
+
+== Gameplay ==
+{{main|The Dark Inside}}
+Zodiark is fought as the first trial boss of ''Endwalker'' in [[The Dark Inside]]. He can also be faced in Extreme difficulty in The Minstrel's Ballad: Zodiark's Fall.
+
+==Gallery==
+<gallery>
+FFXIV Dark Crystal.png|Zodiark's influence on the Mothercrystal in the Warrior's echo.
+FFXIV Zodiark.jpg|The statue of Zodiark present with the Chrysalis
+FFXIV Zodiark Art.png|The art of Zodiark's original form.
+FFXIV Hydaelyn Art.png|A painting of Hydaelyn sundering Zodiark.
+Final Fantasy XIV Endwalker.jpg|''Endwalker'' artwork by [[Yoshitaka Amano]], depicting Hydaelyn and Zodiark.
+</gallery>
+
+==Etymology==
+[[Zodiark (summon)|Zodiark]] is an Esper from [[Ivalice]].
+
+{{Etym|Zodiac}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Zodiark (Final Fantasy XIV)]]
+[[Category:Unseen characters]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Deities]]

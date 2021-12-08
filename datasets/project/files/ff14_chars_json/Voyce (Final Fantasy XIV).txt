@@ -1,0 +1,54 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Voyce (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Voyce
+|release=FFXIV
+|japanese=ヴォイス
+|romaji=Voisu
+|aka=
+|image=FFXIV Voyce.png
+|home=
+|age=
+|affiliation=
+|occupation=
+|race=[[Hyur]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|scholar}}
+|weapon= 
+|armor=
+}}
+'''Voyce''' is a character from ''[[Final Fantasy XIV]]''. He is a scholar researching the [[Sylph]]s, and plays a central role in the Sylph Beast-Tribe quests.
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+The sylph beast-tribe quests begin when Serpent Commander [[Vorsaile Heuloix]] asks the player to find out why Voyce hasn't reported in yet from Little Solace. Arriving at the village, the sylphs are less than enthusiastic about the "bumbling one" that has been visiting lately. They reveal he had, against all warnings or common sense, went towards the Sylphlands alone, and are perplexed by the concern for his well-being. He is found in Larkscall being captive by malevolent touched sylphs, and rather quickly flees after being rescued.
+
+He tell about the story of the Chosen One, causing the other sylphs to become uneasy. Despite this, he doesn't fully grasp the significance of it, as shown when he absentmindedly reveals later the touched sylphs have the Chosen One's pod in their possession, leading to the player having to retrieve it. Later, the player is asked to retrieve him when his invisibility spell wore off in the Sylphlands. This had the unfortunate timing that enabled Diluxio of the touched sylphs to glamour itself into player's form and abscond with the Chosen One's pod.
+
+The plan is to retrieve the pod from the Sylphlands again before the ritual of birthing can be performed, but Voyce would not be dissuaded from "helping." Wearing a chocobo suit and mask, he claims to be the heroic chocobo "Voco" and insists on accompanying the rescue mission. Despite his usual incompetence, he manages to slip past Diluxio and the touched sylphs while they're gloating about their victory before the player, and retrieve the Chosen One's pod. He doesn't make it very far, requiring the player to carry it the rest of the way. To everyone's disappointment, "Voco" managed to return alive from the Sylphlands, and happily claimed credit for rescuing the Chosen One in his report to Commander Heuloix.
+
+In the Beastman Alliance quests, Voyce sent a panicked message to Serpent Command. He and Frixio reveal that many podlings were kidnapped from Little Solace. Despite initially assuming the touched sylphs were responsible, a mysterious girl claims this is the work of a different party and hints that a similar event will occur in La Noscea. Voyce somehow concludes that pirates must be responsible, and asks that the player seek out a correspondence of his in Limsa Lominsa, setting off the story arc.
+
+He later reappears in Ul'dah with [[Skaetswys]] and [[Tataramu]] as part of the investigation into [[Nhaza'a Jaab]] and the "Laughing Alchemists". Using his contacts at the Alchemist's Guild, he learns that the Laughing Alchemists had been procuring a number of highly illegal substances used in forbidden rituals and somehow concludes they're being used to turn beastmen into chocobos.
+
+==Characteristics==
+===Appearance===
+Voyce is a male midlander [[Hyur]] with blonde hair and glasses. He wears a green woolen bliaud with matching gaskins and dress shoes.
+
+===Personality===
+He is very inept and clueless for a scholar, despite thinking he is otherwise. As such, the sylphs of Little Solace regard him as "the bumbling one" and are chagrined at his presence in the village. Despite his obvious incompetence and skittish behavior when in danger, he tries to "help" secure the Chosen One, and when turned down, resorts to (poorly) disguising himself as a [[chocobo]]. He's not above taking credit for other's work in official reports.
+
+More over, he lacks self-awareness of his incompetence and others loathing for him, such as when the other sylphs understandably were ''celebrating'' the possibility of him never returning to Little Solace (rather than expressing sorrow).
+
+==Behind the scenes==
+Voyce shares his name with a missing [[non-player character]] from 1.0.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Scholars]]

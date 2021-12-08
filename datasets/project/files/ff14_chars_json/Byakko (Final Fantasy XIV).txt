@@ -1,0 +1,68 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Byakko (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Byakko
+|release=FFXIV
+|japanese=白虎
+|romaji=Byakko
+|lit=White Tiger
+|aka=
+|image=FFXIV Byakko Render.png
+|portrait=
+|home=
+|age=
+|dob=
+|affiliation=[[Four Lords]]
+|occupation=
+|race=Auspice
+|gender=Male
+|hair=
+|eye=
+|blood=
+|type=boss
+|japanese voice actor=
+|english voice actor=
+|boss page=Jade Stoa
+}}
+'''Byakko''' is one of the [[Four Lords]] from ''[[Final Fantasy XIV]]''.
+
+==History==
+Legend tells of a peerless samurai who, at the behest of a king, ventured forth to drive a host of oni into the sea. Yet for all his strength, [[Tenzen (Final Fantasy XIV)|Tenzen]] could not do this alone, and so he turned to the Four Lords─greatest of the auspices─for assistance. Together they succeeded, and afterwards journeyed west, far from the realms of men, to live out their days in solitude.
+
+[[file:FFXIV Tenzan and Byakko.png|left|thumb|Tenzen and Byakko became friends.]]
+Byakko is an auspice, animals who attain immortality, sentience and god-like power by surviving longer than his ilk. Byakko was born with white fur, which made him the target of bully and isolation by his tiger peers. Having been cast out and living alone for most his life, the tiger attained his auspice status but remained a hermit, believing himself to be different from the rest, neither beast or man, until Tenzen found him. They bonded over being outcasts, as Tenzen was also cast out of his society for possessing the [[Echo (Final Fantasy XIV)|Echo]]. Together with Tenzen and his fellow auspices, Byakko fought against the oni, other auspices that opted to embrace their animalistic instincts and terrorized the world. Having sealed the leader of the rogue auspices under [[Hell's Lid]], Byakko stayed with his fellow auspices to guard the prison.
+
+The Four Lords were eventually pulled over to the primal rages of their animal side, suspected to be the doing of their detainee. Byakko suffers the worst by the time the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] arrives in Hell's Lid. With [[Genbu]]'s suggestion and urging, they agree to combat the primal form of each of the four lords to calm their rage and restore the auspice to their peaceful form.
+
+Byakko takes the Adventurer back to the place of his birth, the [[Jade Stoa]], where memories of his young life overcome the tiger and turn him into his rage form. After a vicious battle the Adventurer emerges victorious and Byakko is wounded but his mind remains intact. The party takes the tiger back under Genbu's care.
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section}}
+
+==Gameplay==
+{{Main|Jade Stoa}}
+Byakko is fought as the boss of {{icon|ffxiv|duty|Jade Stoa}} trial.
+
+== Musical themes ==
+{{Audio|title="Amatsu Kaze"|filename=Amatsu Kaze.ogg}}
+Byakko's boss fight theme is "[[Amatsu Kaze]]". It is sung in japanese.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Byakko 02.png|Byakko's based form.
+FFXIV Byakko.png|Before battle.
+FFXIV Byakko 03.png|Transformed Byakko.
+FFXIV Byakko 04.png
+FFXIV Tenzan meets Byakko.png|Tenzen met Byakko.
+</gallery>
+
+==Etymology==
+{{etym|Byakko}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Four Lords]]

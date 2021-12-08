@@ -1,0 +1,50 @@
+{{sideicon|FFXIV}}
+{{Infobox character
+|name = Ga Bu
+|release = FFXIV
+|japanese = ガ・ブ
+|romaji= Ga Bu
+|image =FFXIV Ga Bu.png
+|race = [[Kobold (Final Fantasy XIV)|Kobold]]
+|gender = Male
+|height = 
+|hair = Black fur
+|eye = Red
+|designer = 
+|age =
+|type =npc
+|job =
+|weapon =
+|armor =
+|affiliation = [[Kobold (Final Fantasy XIV)|Kobolds]]<br>[[Scions of the Seventh Dawn]]
+|occupation = 
+|japanese voice actor = Mizue Tsunashima
+|english voice actor = Joanna Ruiz
+}}
+'''Ga Bu''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. A young Kobold who became fond of [[Alisaie Leveilleur]], he was traumatized by the summoning of [[Titan (Final Fantasy XIV)|Titan]] and [[Enthrallment#Final Fantasy XIV|tempered]] to the [[primal]]. He is a 620th Order Pickman.
+
+== History ==
+===''[[Final Fantasy XIV: Heavensward]]''===
+The lone child Ga Bu fled from the mines to warn the Maelstrom of an incoming summoning of Titans when the Patriarch captured his parents. As he approached Camp Overlook he could fearfully only observe from afar, until the Leveilleur twins and the Warrior of Light noticed him. He fled in fear until cornered, where Alisaie calmed him down. After seizing the crystals just outside the mines, they ventured into U'Ghomoro Mines where Ga Bu beheld the sight of his slain parents. He had arrived too late as they were unresponsive to his cries. Falling into despair, his emotions incidentally summoned Titan through the crystals the Kobolds had gathered.
+
+While sharing the same form as previous summons, the primal's temperament was shaped by Ga Bu, now lashing out at everyone while crying for his parents. Ga Bu was about to be struck by his own creation until [[Alphinaud Leveilleur]] stopped him and was teleported to safety. Though the Warrior of Light defeated the primal, the traumatic experience and the primal's influence had fractured Ga Bu's mind and he became unresponsive. Due to having summoned Titan and likely being exposed to eikonic influence, the Maelstrom lieutenant suggests killing him. Alisaie protests and suggests that he be taken in for therapy and helped recover. Before they depart, Alisaie asks for Ga Bu to keep fighting and stay strong as she relates to losing loved ones. He weakly responds, promising to do so for her.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+The Warrior of Light and Alisaie check on Ga Bu. Alisaie apologizes for not coming to visit him before, and is saddened to see that Ga Bu has yet to show signs of recovery.
+{{Section}}
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Following the return from the [[First]], Alisaie considers if it is possible to utilize the ability of reversing Light poisoning (where one experiences an [[Aether|aetherial]] disruption from a [[Sin eater|sin eater]] attack, eventually resulting in total corruption) by reversing the effects of tempering.  Using her new familiar, and with a great amount of aether channeling, Alisaie is able to reverse Ga Bu's tempering and awaken his mind, effectively curing him. Determined to continue helping Alisaie for what she had done for him, Ga Bu follows the Scions and Admiral [[Merlwyb Bloefhiswyn]] to the U'Ghamaro Mines.
+
+After the tempering of the Kobold Patriarch Za Da is reversed, Ga Bu pleads with him to consider the peace offered by Merlwyb to put an end between Limsa Lominsa's violent relationship with La Noscea's beast tribes. Za Da considers her request only due to Ga Bu's earnest trust in the party, especially since Alisaie saved him.
+
+==Characteristics==
+=== Appearance ===
+Ga Bu shares the same model as most regular Kobolds, though is smaller and childlike. He has large ears that poke out from under his steel helmet. His hands are small and clawed, and he tends to run on all fours. He has a long bushy black tail, and wears small fitted Kobold armor across his body.
+
+=== Personality===
+Ga Bu is an innocent Kobold, trusting non-Kobolds like Alisaie and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] shortly upon meeting them. He is friendly and excitable with an interest in adventuring, wanting to investigate what is happening in the [[Outer_La_Noscea#U.27Ghamaro_Mines|U'Ghamaro Mines]].
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Kobolds]]

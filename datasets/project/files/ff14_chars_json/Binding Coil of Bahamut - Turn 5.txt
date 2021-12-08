@@ -1,0 +1,189 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:The Binding Coil of Bahamut - Turn 5}}
+{{Table incomplete|FFXIV|FFXIV}}
+{{Image needed}}
+{{infobox duty FFXIV
+| name = The Binding Coil of Bahamut - Turn 5
+| japanese = 大迷宮バハムート：邂逅編５
+| romaji = Dai Meikyū Bahamūto: Kaigōhen 5
+| lit = The Great Labyrinth of Bahamut: Encounter Part 5
+| image = Binding Coil of Bahamut - Turn 5 banner image from Final Fantasy XIV.png
+| expansion = ''[[Final Fantasy XIV: A Realm Reborn|A Realm Reborn]]''
+| patch = 2.0
+| location = [[Western La Noscea]]
+| type = Raid
+| level = 50
+| level sync = 50
+| itemlevel = 82
+| time = 90 minutes
+| dps = 4
+| healer = 2
+| tank = 2
+| roulette = 
+| tomestones = {{FFXIV rewards|poetics|10}}
+| quest = Primal Awakening
+| bosses = *[[Twintania#Final Fantasy XIV|Twintania]]
+}}
+
+'''The Binding Coil of Bahamut - Turn 5''', also known as the '''''Ragnarok'' Central Core''' and known by players as '''T5''', is the final floor of the [[Binding Coil of Bahamut]] {{icon|ffxiv|duty|raid}}. Up until Patch 2.2, it was considered the hardest raid in the game, in which the party faces off against [[Twintania#Final Fantasy XIV|Twintania]]. Her defeat is required to proceed to the next tier of raiding, the [[Second Coil of Bahamut]]. As a result, in Patch 2.2 the Echo was introduced into coil to grant a 15% (now 30% as of Patch 3.2) bonus to health, damage dealt, and healing received to reduce the difficulty. Despite this, the battle with Twintania will still punish unprepared players. Twintania returns as the first boss in [[Unending Coil of Bahamut|The Unending Coil of Bahamut]].
+
+==Story==
+{{Quote|Having overcome the seemingly endless waves of hostile constructs, you and your stalwart companions continue the descent into an unknown abyss. At the depth of 1,910 yalms, you are assailed by a winged terror: an ancient dragon brought to heel by the Allagans and made to do their bidding. The trials grow ever more arduous, but you are resolved to press on for the sake of the truth.}}
+
+== Progression ==
+{{infobox duty boss FFXIV
+|name=Twintania
+|japanese=ツインタニア
+|romaji=Tsuintania
+|image=FFXIV Twintania.png
+|level=50
+|hp=514,596
+|enrage=13:00
+|abilities= Aetheric Profusion, Conflagration, Death Sentence, Divebomb, [[Fireball (ability)|Fireball]], Hatch, Liquid Hell, Plummet, [[Twister (ability)|Twister]], Unwoven Will
+}}
+=== Phase 1: Warm-Up ===
+This phase lasts from 100% health to 85% health.
+
+Scourge of Meracydia Abilities:
+* Liquid Hell - places a pool of fire beneath a player's feet, dealing damage upon impact and additional damage for every second the player continues to stand in it.
+
+Twintania Abilities:
+* Plummet - Frontal cleave. Potentially fatal damage on non-tanks, so keep Twintania faced away from the group.
+* Death Sentence - High-damage single-target attack on the target with the highest enmity. Used approximately every 30 sec. Twintania's tank should have a damage mitigation cooldown up for each of these as they can often come bundled with a Plummet and an auto-attack at the same time, causing what appears to be a one-shot. Damage mitigation cooldowns can and should be supplemented with abilities such as [[Virus (status)|Virus]], [[Stoneskin (ability)|Stoneskin]], and [[Summoner (Final Fantasy XIV)#Scholar|Adloquium]].
+
+Twintania begins the fight with three "Scourge of Meracydia" adds. They will cast Liquid Hell at random players while they are still alive, so players should not stand too closely to each other to prevent having multiple Liquid Hells hit them at the same time. The initial focus should be on killing the adds, then on getting Twintania down to 85% health while properly dealing with Plummet (through proper positioning) and Death Sentence (through proper mitigation).
+
+When Twintania reaches 85% health, she will drop one of her necklaces on the ground, creating a "neurolink." Twintania's tank should move Twintania to a new position at this time.
+
+=== Phase 2: Fireballs and Conflagrations ===
+The second phase lasts from 85% health to 55% health.
+
+Twintania Abilities:
+* Plummet - unchanged from Phase 1
+* Death Sentence - in addition to the high damage from Phase 1, Death Sentence now also applies Infirmity to its target, drastically reducing the amount of healing they can receive. Non-dispellable.
+* Fireball - Twintania chooses a random target from any player except the first or second highest enmity target, places a fiery triangle indicator over that player's head, then deals 13,000 damage to the target, divided between that player and anyone within several yalms of the victim. Note that [[Summoner (Final Fantasy XIV)#Summoner|Summoner]] and [[Summoner (Final Fantasy XIV)#Scholar|Scholar]] pets count as a "person" for the purpose of sharing damage from the Fireball, and per AoE pet defense, take substantially less damage from the attack.
+* Conflagration - Twintania chooses a random target from any player except the first or second highest enmity target, places a black and blue circle indicator over that player's head, then places a dome of fire over that player which deals ticking fire damage to anyone inside and renders anyone inside unable to move and immune to all damage and healing except damage from Conflagration. The Conflagration explodes after some time if it is not destroyed by the players outside it. The amount of time before the explosion is dependent on how many people took damage from the previous Fireball. More soakers results in less time to kill the Conflag, while fewer soakers results in more time.
+
+Fireballs should be soaked by 3-4 players unless a Conflagration is already down. There are two common ways to deal with Fireball/Conflag.
+
+First is the "soak group" method, in which the offtank, any Summoner/Scholar pets, and (if necessary to have 3 people) the highest-HP damage dealer stand on one side of Twintania and any Fireball targets run to them. The second is the "4/4" method, in which the groups are divided into two reasonably equal groups of four players and pets, and Fireball targets no not move. The "soak group" method is more reliably survivable but requires more coordination and ability to move.
+
+Conflagration targets should move directly under the center of Twintania to avoid trapping anyone else in the dome, to allow all damage dealers in both groups to reach it to kill it, and to allow the main tank to step into the Conflagration if they prefer the Conflag damage to Twintania's own damage (Death Sentence can be nullified in this manner if the phase transition is timed well).
+
+Note that if there is already a Conflagration up when a Fireball target is chosen, Fireball can and should be taken inside the Conflag instead of soaked. This will nullify the 13,000 damage and reset the explosion timer on Conflagration.
+
+When Twintania reaches 55%, she will drop another Neurolink and fly away, beginning Phase 3.
+
+=== Phase 3: Divebombs and Snakes ===
+Twintania can't be targeted or attacked in this phase.
+
+Twintania Abilities:
+* Divebomb - Twintania chooses a random player target, placing a green and black circular indicator over that player's head, then swoops down from the sky, dealing damage and extreme knockback to all players in her path. Note that if a player is knocked back into the walls of the arena, they are instantly killed.
+* Aetheric Profusion - extremely high damage arena-wide attack.
+
+Adds:
+* Asclepius
+* Hygiea x 4 - When these die, they explode and apply a debuff to all players and mobs around them, increasing the amount of damage they take. This debuff stacks.
+
+The group should gather in one spot to deal with Divebombs so that Twintania's Divebomb location is never a surprise. The common spot to gather is in the "ditch" in the Northwest section of the arena. As soon as the icon appears, all players should run to the top of the hill, then back down into the ditch. Note that for this to work, players need to be grouped as tightly as possible. Twintania will Divebomb three times, six seconds apart, then will summon Asclepius and two Hygiea adds right at the top of the hill. The group should focus most of their damage on Asclepius, but also get the two Hygiea to roughly half HP.
+
+45 seconds after the third Divebomb, Twintania will do another set of three Divebombs, six seconds apart. After these Divebombs, she will summon two more Hygiea adds in the Northeast section of the arena. Whichever tank(s) has been tanking the adds to this point should run across the arena, gather all five of the adds together, and have a mage Limit Break the adds. This should kill the first two Hygiea, applying two stacks of the damage vulnerability debuff to the remaining three adds. The group should then kill the final two Hygiea, then ''quickly'' kill the Asclepius before Twintania returns to the battlefield.
+
+When Twintania lands, she will do an arena-wide attack called "Aetheric Profusion." The players will not survive this attack unless they are standing in a Neurolink. While standing in the Neurolink, players receive and deal reduced damage and healing. Phase 4 begins immediately.
+
+=== Phase 4: Twisters and Dreadknights ===
+This phase lasts from 55% health to 30% health.
+
+Twintania Abilities:
+* Plummet - unchanged from phase 2
+* Death Sentence - unchanged from phase 2
+* Twister - Twintania chooses a few random targets and places a small green twister at their feet. The positions of the twisters are determined at the end of the cast. Any player who touches a Twister is killed instantly.
+* Unwoven Will - Stuns a target at random from among all players except the first or second highest enmity targets. This is the Dreadknight's target. The stun remains in place until the Dreadknight is killed.
+
+Adds:
+* Dreadknight - Spawns in the center of the arena and begins walking toward the stunned player. If the Dreadknight reaches its target, the target is killed instantly with Caber Toss.
+
+All players in the group should set Twintania as their focus target so they can see when Twister is being cast so they can begin moving immediately. The entire group should move as soon as the cast begins and continue moving, without crossing any other player's path including their own, until the cast completes and the Twister positions are apparent.
+
+All players should try to stand at max range, as close to the edges of the arena, to give the Dreadknights as long of a trip as possible. When a Dreadknight spawns, it should be slowed with an ability such as Blizzard or Miasma. Other slows will work as well, but none are as potent as these. It should also be stunned in place as often as possible to allow for the most time until it reaches its target. A Paladin's Shield Bash is ideal for this purpose.
+
+The group's priority should unquestionably be moving for Twister and killing the Dreadknights before killing Twintania. When Twintania reaches 30%, she drops one final neurolink and Phase 5 begins.
+
+=== Phase 5: Hatch and Liquid Hells ===
+The final phase starts at 30% health and lasts until the end of the fight.
+
+Twintania Abilities:
+* Plummet - unchanged from phase 4
+* Death Sentence - unchanged from phase 4
+* Liquid Hell - now cast by Twintania herself. A random player is chosen from anyone in the raid, including the tanks, and Twintania chain-casts ''five'' Liquid Hells in a row at that player.
+* Hatch - Twintania chooses a random target and sends an "egg" toward them. When it comes into contact with any player in the path, the egg explodes and deals heavy damage to the player. This will usually kill the player unless they are in a neurolink.
+* Aetheric Profusion - unchanged from phase 3
+
+Players who are targeted by Liquid Hell should run along the walls of the arena so the pools do not stack and deal unsurvivable damage.
+
+The easiest way to deal with Hatch is to have the offtank stand in the Neurolink directly under Twintania (the one she dropped at the end of Phase 4). The eggs will simply explode as soon as they drop on the offtank's position. If Liquid Hell targets the offtank, the strategy becomes more complicated. The offtank can stay put and use damage reduction/immunities, or they can move and the group can do the phase as intended, with players grouped near neurolinks and soaking them as they come.
+
+Thirteen minutes after engaging Twintania, all neurolinks will disappear and, Twintania will cast Aetheric Profusion until all players have died. This functions as the fight's hard enrage mechanic in that if she is not dead before this moment, players have effectively failed the fight.
+
+==Loot==
+{{#invoke:FFXIV Data|LootTable
+| Allagan Wootz Nugget
+| Allagan Silk
+| Allagan Leather
+| Allagan Aetherstone - Weaponry
+| Allagan Aetherstone - Body Gear
+|ADS Illuminant
+|
+Allagan Blade
+|
+Allagan Battleaxe
+|
+Allagan Guillotine
+|
+Allagan Spear
+|
+Allagan Baghnakhs
+|
+Allagan Daggers
+|
+Allagan Composite Bow
+|
+Allagan Pistol
+|
+Allagan Rod
+|
+Allagan Grimoire of Casting
+|
+Allagan Cane
+|
+Allagan Grimoire of Healing
+|
+Allagan Star Globe
+}}
+
+==Quests==
+{{#invoke:FFXIV Data|QuestList|Primal Awakening}}
+
+==Musical themes==
+
+"Primal Timbre" plays throughout the raid while not in combat. "Thunderer" plays during the fight with Twintania.
+
+==Achievements==
+{{#invoke:FFXIV Data|AchievementTable
+|The Binds That Tie I
+|The Binds That Tie II
+|The Binds That Tie III}}
+
+==Gallery==
+<gallery>
+FFXIV Coil Turn 5 Title.png
+</gallery>
+
+==Etymology==
+{{Etym|Twintania}}
+
+== Trivia ==
+* During the E3 2015 Live Letter XII, it was revealed that Twintania would be a flying mount for the "Recruit a Friend Campaign" in ''Heavensward'' for 15 Gold Chocobo Feathers.
+
+{{navbox activities FFXIV}}
+[[Category:Superbosses]]

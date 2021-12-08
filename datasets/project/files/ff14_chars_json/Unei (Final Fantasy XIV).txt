@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Unei (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Unei
+|release=FFXIV
+|japanese=ウネ
+|romaji=Une
+|lit=Une
+|aka=
+|image=FFXIV Unei.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Allagan Empire]]
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=Purple
+|eye= Red (Allagan eyes)
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|conjurer}}
+|abilities=
+|limit break=
+|weapon=staff
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Unei''' is a non-playable character from ''[[Final Fantasy XIV]]''. She and [[Doga (Final Fantasy XIV)|Doga]] appear in "Chronicles of the New Era" storyline involving the [[Crystal Tower (Final Fantasy XIV)|Syrcus Tower]].
+
+Unei and Doga are based on characters of the same names from ''[[Final Fantasy III]]''; [[Unei]] and [[Doga]].
+
+The enemies "Unei's Clone" and "Doga's Clone" also appear in Syrcus Tower.
+
+==History==
+Long ago, Unei was created for the purpose of stopping the plot by the Allagan Emperor [[Xande (Final Fantasy XIV)|Xande]]. She and Doga posed as normal Hyur researchers to be involved in the NOAH group's expedition until their true nature was revealed by [[Nero tol Scaeva]]. After explaining themselves, Unei accompanies NOAH into Syrcus Tower to cancel Xandes's pact with the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]]. But Unei is forced to watch Doga be dragged into the World of Darkness before being sucked into the portal as well despite Nero's attempt to save her for his own personal gain.
+
+After the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] enters the World of Darkness and defeats the Cloud of Darkness, they find Doga, Unei and Nero, the latter of which had been protecting the pair from the monsters sent to kill them. Doga and Unei state their intent to sever the Cloud's pact with Xande, and use their bloodline to grant [[G'raha Tia]] the ability to control the Crystal Tower. While the rest of the group escapes back to Eorzea, they remain in the World of Darkness to complete their purpose.
+
+==Characteristics==
+===Appearance===
+Unei is a [[Hyur|Midlander Hyur]] woman with dark purple long hair and red eyes. She wears a palette-swapped version of the High Allagan Coat of Healing.
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Musical themes==
+Unei and Doga have their own unique theme song plays when they first appear, "Now I Know the Truth".
+
+==Gallery==
+<gallery>
+Unei Doga_Crystal Tower.png|Unei and Doga in front of the Crystal Tower.
+Unei Syrcus_Tower.png|Unei on the top floor of Syrcus Tower.
+Unei Darkness.png|Unei's arm covered in darkness.
+QUneiDoga1.png|Unei and Doga.
+FFXIV Unei Clone.png|The clone.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

@@ -1,0 +1,121 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{DISPLAYTITLE:Bahamut (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Bahamut
+|release=FFXIV
+|japanese=バハムート
+|romaji=Bahamūto
+|aka=The Dawn Wyrm, the Dreadwyrm
+|image=Bahamut artwork from Final Fantasy XIV.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Dragon<br/>[[Primal]]
+|gender=Male
+|height=
+|weight=
+|eye=
+|blood=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=boss
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|boss page=Bahamut Prime
+|final boss page=
+|superboss page=
+|recurring appearance=Bahamut
+}}
+{{Quote|Held in duress for aeons within the lesser moon, Dalamud, the elder primal Bahamut broke free of his captivity when the celestial body was wrested from the heavens to descend upon the Battle of Carteneau. Once freed, the terrible being wrought fiery destruction across the length and breadth of Eorzea, his devastating rampage marking the beginning of the Seventh Umbral Era. In the midst of the chaos, however, Bahamut was enveloped in a blinding white light and abruptly disappeared from the skies. None claim to have seen the primal in the five years since.|Official site description}}
+'''Bahamut''', also known as the '''Dreadwyrm''', is an elder [[primal]] in ''[[Final Fantasy XIV]]''. The fall of [[Dalamud]] and the furious rampage of the elder primal was part of the [[Seventh Umbral Era]] storyline, used to explain the changes from [[Final Fantasy XIV/Legacy|Version 1.0]] to ''Final Fantasy XIV: A Realm Reborn''. Bahamut's final fate is later explored in the Binding Coil storyline, and more of his origins are elaborated in ''[[Final Fantasy XIV: Heavensward]]''.
+
+==History==
+Originally one of the [[First Brood]] of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]], Bahamut perished during the twilight of the Third Astral Era while defending [[Meracydia]] from an invasion by the the reborn Allagan Emperor [[Xande (Final Fantasy XIV)|Xande]] who set about his campaign making a covenant with the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]]. [[Tiamat (Final Fantasy XIV)|Tiamat]] led her remaining children in summoning a primal in the original Bahamut's image to "resurrect" him; the summoned Bahamut, however, was nothing like the original Bahamut. Despite the new "Bahamut's" efforts, the [[Ascian]]s taught Xande the means to subdue the Dreadwyrm with the alien entity [[Omega (Final Fantasy XIV)|Omega]], resulting in the primal being incarcerated in an artificial satellite called Dalamud to collect solar energy for the benefit of the [[Allagan Empire]].
+
+To ensure the primal would remain in place, colossal neurolinks held him in restraint while captive dragons were kept aboard the space station in stasis to keep him summoned perpetually. Having embraced [[nihilism]] while brooding over his mortality, a rebellion having begun among the people, Xande tried to summon the Cloud of Darkness to [[Hydaelyn]] by channeling the amassed energy from Bahamut into [[Crystal Tower (Final Fantasy XIV)|Syrcus Tower]]. As this exceeded its capacity the excess of energy caused a devastating earthquake that ruined the Allagan civilization and ushered the Fourth Umbral Era.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+[[File:Bahamut XIV Profile.png|thumb|left|Bahamut emerges from Dalamud.]]
+As eras passed, Dalamud's origins were forgotten and it became known only as "Menphina's Loyal Hound." At the end of the Sixth Astral Era, the [[Garlean Empire]] began Project Meteor under Legatus [[Nael van Darnus]] whose family inherited knowledge of Dalamud's nature and sought to bring it down to eliminate the primal threat in [[Eorzea]]. Though the Lunar Transmitter that controlled the artificial moon was destroyed, van Darnus used the spell Meteor to keep it on a descent trajectory.
+
+As she was confronted by the [[Warrior of Light (Final Fantasy XIV)|adventurer]] atop Rivenroad, Nael exhibited a fanatical devotion to Bahamut and was bathed in the primal's power when he attempted to kill the interlopers as Nael deus Darnus. Though Nael was defeated, Dalamud's descent could not be stopped. The Archon [[Louisoix Leveilleur]] attempted to summon [[the Twelve]] to halt the calamity, using the prayers for a realm reborn.
+
+As the [[Grand Company|Grand Companies]] engaged the remnants of Nael's [[VIIth Imperial Legion|VIIth Legion]] at the [[Carteneau Flats]], Dalamud broke apart with Bahamut freed to exact his wrath on the realm. Though the ritual failed, watching the primal terraform much of Eorzea through his destructive power, Louisoix was infused with enough [[aether]] to defeat Bahamut single-handedly.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Bahamut Head.png|thumb|The head of Bahamut is found in the Binding Coil of Bahamut.]]
+As no one witnessed Bahamut's defeat, people assumed the primal disappeared without a trace in the aftermath of the chaos. After the defeat of [[Gaius van Baelsar]] and the declaration of the Seventh Astral Era, the adventurer is directed to the [[Binding Coil of Bahamut]] where the elder primal's heavily damaged body ended up while Louisoix, who had transcended his mortal existence into the primal [[The Final Coil of Bahamut - Turn 3|Phoenix]], reveals the events of the Seventh Umbral Era.
+
+The captive dragons of Meracydia within the Coil are subjected to unending agony to maintain the elder primal's physical form, and Bahamut is slowly regenerating to resume his attack on humanity. An incarnation dubbed [[Bahamut Prime]] is fought in the [[Final Coil of Bahamut]] within the crystal of Bahamut himself before the elder primal is finally allowed to rest in peace.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Bahamut is indirectly mentioned by [[Hraesvelgr]] when he refutes [[Ysayle Dangoulain|Ysayle's]] claim to be [[Shiva (Final Fantasy XIV)|Saint Shiva]] reborn, stating the primals were just fanciful imitations of the originals. Tiamat later relates to the adventurer how the Ascians were responsible for both Bahamut becoming a primal and his incarceration within Dalamud.
+
+Later, atop [[Baelsar's Wall]], [[Ilberd Feare|Ilberd]] reveals his intention of summoning something greater than the dreadwyrm of the Calamity to liberate [[Ala Mhigo]]. Using both the [[eyes of Nidhogg]] and the sacrifice of himself and his followers, he summons the primal [[Shinryu (Final Fantasy XIV)|Shinryu]].
+{{clear}}
+
+==Gameplay==
+===Boss===
+[[File:FFXIV Bahamut Prime.png|thumb|300px]]
+{{Main|The Final Coil of Bahamut - Turn 4}}
+Bahamut in the form of Bahamut Prime is fought {{icon|ffxiv|duty|The Final Coil of Bahamut - Turn 4}}, as the final boss of the Binding Coil storyline.
+
+An incarnation of Bahamut called Altered Bahamut appears in the solo duty [[The Bozja Incident (duty)|The Bozja Incident]], being a manifestation of [[Cid Garlond]]'s past trauma encountered while diving into his memories.
+
+===Summon===
+In the [[level]] 58 Summoner quest {{icon|ffxiv|quest|I Could Have Tranced All Night}}, the adventurer meditates on the lingering influence of Bahamut's fury at the Carteneau Flats to unlock Dreadwyrm Trance. The level 60 job quest {{icon|ffxiv|quest|A Flare for the Dramatic}} refines the trance with a finishing move called Deathflare, which is used to eliminate the lesser Ascians serving [[Lahabrea]].
+
+High-level summoners can channel Bahamut's power in the form of Dreadwyrm Trance and Deathflare, the latter based on Bahamut Prime's Akh Morn attack, and at level 70 summon a lesser version of Bahamut, called Demi-Bahamut, to replace their currently active summon for a short period.
+
+==Other appearances==
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:PrimalBahamut TCG.png|thumb|100px]]
+Bahamut appears with a Dark-elemental card.
+{{clear}}
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:394a Bahamut.png|thumb|100px]]
+Bahamut appears on a Triple Triad card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+===Other media===
+[[Square Enix]]'s [[Eorzea Cafe]] served a dish called "Bahamut's fried cheese like earth shaker" whose description translates to: ''This dish inspired by the Earthshaker featuring red curry in a red dish, topped by crispy fried, red hot cheesy jalapenos♪ Careful not to let them sit in the curry for too long!!''
+
+==Behind the scenes==
+Bahamut is Director [[Naoki Yoshida]]'s favorite summon in both ''[[Final Fantasy VII]]'' and ''[[Final Fantasy XIV]]''. The design used where the latter Bahamut came down and destroyed the old ''Final Fantasy XIV'' and created the new ''A Realm Reborn'' was designed after [[Bahamut (Final Fantasy VII)|the ''Final Fantasy VII'' summon]], where he comes down in a meteor and uses Megaflare.<ref>{{Refwebsite| page url = http://www.gameinformer.com/b/features/archive/2016/04/29/final-fantasy-masterminds-reminisce-about-their-favorite-moments.aspx| page name = Final Fantasy Masterminds Reminisce About Their Favorite Moments| site url = http://www.gameinformer.com| site name = Game Informer}}</ref>
+
+The original Bahamut on whom the elder primal is based on does not appear, but Bahamut was held in high-esteem by his fellow dragons and brood-siblings, with Hraesvelgr calling him a "king amongst wyrms", Nidhogg becoming mistrustful of mortals as a result of Bahamut's fate, and Tiamat dwelling forever in regret for her mistake in creating the primal that took Bahamut's form and besmirches his memory.
+
+==Gallery==
+<gallery widths="185">
+Bahamut FFXIV Art 2.jpg|Artwork.
+FFXIV Bahamut CG Megaflare.jpg|Bahamut charging Teraflare.
+Coil T5.png|The hand of Bahamut.
+Aspect of Chaos.png|The Aspect of Chaos, the enemy based on the ''Final Fantasy XIII'' Bahamut.
+FFXIV Golden Baha.png|Golden Bahamut from The Unending Coil of Bahamut.
+Bahamut in Cids memory from FFXIV.png|Bahamut appearing in Cid's memory.
+</gallery>
+
+==Etymology==
+{{Etym|Bahamut}}
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Primals in Final Fantasy XIV]]
+[[Category:Dragons]]

@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Frixio
+|release=FFXIV
+|japanese=フリクシオ
+|romaji=Furikushio
+|image=FFXIV ARR Frixio.png
+|home=[[East Shroud#Little Solace|Little Solace]]
+|occupation=Leader of the Little Solace sylphs
+|race=[[Sylph]]
+|gender=Male
+|type=npc
+}}
+'''Frixio''' is a character from ''[[Final Fantasy XIV]]''. He is the elder of the [[sylph]]s at Little Solace.
+
+== History ==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Frixio is the elder of the sylphs that fled to Little Solace following the schism in the Sylphlands. He is initially absent when the [[Warrior of Light (Final Fantasy XIV)|adventurer]], [[Yda Hext|Yda]], and [[Papalymo Totolymo|Papalymo]] arrive at Little Solace to assess the risk of [[Ramuh (Final Fantasy XIV)|Ramuh]] being summoned into Eorzea. It is eventually learned that Frixio and a few sylphs had fled into South Shroud to evade Garlean soldiers from Castrum Oriens, with the elder taking shelter inside the [[Thousand Maws of Toto-Rak]]. The adventurer finds him imprisoned in a diremite web by [[Lahabrea]] in the depths of the dungeon.
+
+Frixio also appears in the Sylph Beast-Tribe storyline, having to suffer the company of the inept scholar [[Voyce]]. They explain the legend of the "Chosen One," a sylph podling of immense power born once a millennium. Frixio and the other sylphs are rightly concerned about the Chosen One falling into the hands of touched sylphs and becoming tempered by the Lord of the Levin, and ask for aid in delivering it safely to Little Solace.
+
+During the Beastman Alliance quest line, Frixio accompanies [[Hamujj Gah]], [[Sezul Totoloc]], Clutchfather [[Novv]], and [[789th Order Pickman Gi Gu]] to the showdown against [[Memeriga]] and his hired sword [[Nhaza'a Jaab]].
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+== Other appearances ==
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+[[File:460a Frixio.png|right|100px]]
+Frixio appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+Sylph FFXIV Art 2.jpg|Concept art.
+QFrixio1.png
+</gallery>
+
+{{Character section|Final Fantasy XIV}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Sylphs in Final Fantasy XIV]]

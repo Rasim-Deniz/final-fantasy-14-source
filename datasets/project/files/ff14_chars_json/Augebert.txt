@@ -1,0 +1,39 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Augebert
+|release = FFXIV
+|japanese =オーグベルト 
+|romaji =Ōguberuto 
+|image =FFXIV Augebert portrait.png
+|home = [[Ishgard]]
+|affiliation = [[High Houses of Ishgard|House Haillenarte]]
+|occupation =The Firmament project's chief foreman
+|race = [[Hyur]]
+|gender = Male
+|hair = Black
+|eye = Light green
+|age = 
+|type=npc
+|lit=Augbert
+|aka=
+}}
+'''Augebert''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is a former engineer of [[High Houses of Ishgard|House Haillenarte]] and currently serves as the project manager for the Ishgard Restoration.
+
+== History ==
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Augebert is a Midlaner [[Hyur]] with short black hair, light green eyes, and an black eyepatch over his left eye. He wears Sky Pirate's aiming gear.
+
+=== Personality ===
+{{Section}}
+
+== Gallery ==
+<gallery>
+FFXIV Augebert.png|Augebert during the Restoration.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

@@ -1,0 +1,75 @@
+{{sideicon|prime=FFXIV|FFTCG}}
+{{DISPLAYTITLE:Scylla (''Final Fantasy XIV'')}}
+{{Table incomplete|FFXIV}}
+{{FFXIV Enemy
+| name = Scylla
+| japanese = 妖艶のスキュラ
+| romaji = Yōen no Sukyura
+| lit = Scylla the Bewitching
+| image = ScyllaFFXIVRender.jpg
+<!--Stats-->
+| level = 
+| 1 hp = 
+<!--Statuses.
+ Those with no affinity can be excluded
+ "Immune" or "Auto"-->
+| dark =
+| blunt =
+| piercing =
+| slashing =
+| bind = Immune
+| blind = Immune
+| disease = Immune
+| silence = Immune
+| sleep = Immune
+| slow = Immune
+| stun = Immune
+| heavy = Immune
+| pacification = Immune
+| paralyze = Immune
+| holmgang = Immune
+<!--Info-->
+| location = Syrcus Tower
+| family = ???
+| genus = ???
+| class =
+| drop =
+| abilities = 
+| traits =
+| info = 
+}}
+{{Quote|You think me an aberration, do you!? Denials are futile─I can smell your vile thoughts!|Scylla}}
+'''Scylla''' is a boss from ''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''. She is the first boss of the [[Syrcus Tower (Final Fantasy XIV duty)|Syrcus Tower]] and is based on the optional boss [[Scylla (Final Fantasy III)|Scylla]] from ''[[Final Fantasy III]]''.
+{{See|Scylla}}
+
+== Battle ==
+Scylla is fought in a large open arena. Her most common attack is Unholy, which strikes all players in the alliance, but will also use Topple to swipe at all melee fighters near her.
+
+During the battle, several elemental orbs will appear and tether to players, and must be handled differently. Purple lightning orbs need to be brought to glowing columns to power up the sealing platforms; otherwise they will rupture and inflict damage. Pale ice orbs will [[Freeze (Status|freeze]] players in place. Red fire orbs should be moved to frozen players, thawing them out and creating puddles that increase Fire resistance. It is recommended to stand in these puddles when she casts Ancient Flare to reduce the damage taken, however if a careless player brings an ice orb to a puddle, anyone standing in it will be frozen. In addition, several Staffs of Eldering will appear to cast damaging spells in beams and donut rings to hinder the alliance.
+
+After losing a good portion of her health, she will prepare her Daybreak attack, which will petrify everyone in the arena for half a minute leaving them vulnerable to the Oceanuses and Dark Generals that appear shortly after. To avoid this, players must stand on the platforms; once enough stand on all three platforms, a barrier appears around Scylla that reflects the attack on her instead. From here on, she will cast Ancient Flare more frequently as she nears death.
+
+== Musical themes ==
+Like the other mid-bosses in Labyrinth of the Ancients and Syrcus Tower, the track "Nemesis" plays during the battle with Scylla.
+
+== Other appearances ==
+=== ''[[Final Fantasy Trading Card Game]]'' ===
+
+[[File:Scylla XIV TCG.png|thumb|100px]]
+Scylla appears in ''Final Fantasy Trading Card Game'' as an Ice-elemental card.
+{{clear|right}}
+
+== Gallery ==
+<gallery>
+Scylla FXIV Art.jpg|Concept art.
+</gallery>
+
+== Etymology ==
+{{Etym|Scylla}}
+
+== Trivia ==
+* The "Staffs of Eldering" are likely a throwback to the fact she originally guarded the [[Elder Staff]] in ''Final Fantasy III''. In addition, [[Xande (Final Fantasy XIV)|Xande]] wields an almost identical staff when he's fought in his throne room.
+* Players can receive Scylla themed mage gear from the Syrcus Tower as loot, based on her dress and appearance. There are two sets: a dark purple casting gear for DPS mages, and a white and lilac dress set for healers. The head-piece of the set is a headress with stylized wolf heads extending outward, leaving the players' face visible.
+
+{{navbox FFXIV}}
+[[Category:Bosses in Final Fantasy XIV]]

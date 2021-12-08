@@ -1,0 +1,202 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Warrior of Light (''Final Fantasy XIV'')}}
+[[File:Heroes Party CG.png|thumb|250px|A group of adventurers.]]
+'''The Warrior of Light''', also known as '''Hydaelyn's Chosen''', '''the Hero of Eorzea''', '''the Champion of Eorzea''', '''the warrior of warriors''', '''the Slayer of Gods''', '''the eikon-slayer''', '''the Liberator''', '''Khagan of the Azim Steppe''', '''the Bringer of Light''', '''the Warrior of Darkness''' (while in [[the First]]), or simply as '''the adventurer''', is the player's created character in ''[[Final Fantasy XIV]]'' who serves as the protagonist. [[Warriors of Light|Warrior of Light]] is a recurring term in the [[Final Fantasy series|series]] since the original ''[[Final Fantasy]]'', referring to the player character(s).
+
+The player character is an adventurer in [[Eorzea]] during the [[Seventh Umbral Era]] who joins one of the three [[Grand Company|Grand Companies]] and becomes a key member of the [[Scions of the Seventh Dawn]]. The Warrior of Light can be one of the eight major races of Eorzea: [[Hyur]], [[Miqo'te]], [[Roegadyn]], [[Lalafell]], [[Elezen]], [[Au Ra]], [[Viera (Final Fantasy XIV)|Viera]], or [[Hrothgar]].
+
+In the CG cutscenes and most of the game's trailers, a young male Midlander Hyur represents the Warrior of Light, appearing as an [[Bard (Final Fantasy XIV)|Archer]] in the opening of the original game, as a [[Marauder#Warrior|Warrior]] in the "End of an Era" cutscene and ''A Realm Reborn'' trailers, as a [[Dragoon (Final Fantasy XIV)#Dragoon|Dragoon]] in the opening of ''[[Final Fantasy XIV: Heavensward|Heavensward]]'', as both a [[Monk (Final Fantasy XIV)#Monk|Monk]] and [[Samurai (Final Fantasy XIV)|Samurai]] in opening of ''[[Final Fantasy XIV: Stormblood|Stormblood]]'', as a [[Dark Knight (Final Fantasy XIV)|Dark Knight]] in the trailer of ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]],'' and as a [[Paladin (Final Fantasy XIV)|Paladin]] in the trailer of ''[[Final Fantasy XIV: Endwalker|Endwalker]]''.
+
+In addition to the main character, the phrase "Warriors of Light" is also used to describe adventurers who fought in the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]] and disappeared during [[Bahamut (Final Fantasy XIV)|Bahamut's]] rampage thanks to [[Louisoix Leveilleur]]'s magic. 
+
+==Profile==
+The life of an adventurer is the pursuit of fortune and fame and devoting oneself to seeking out danger and glory. It is an endless quest taken up by the most intrepid and dauntless of souls.
+
+The term came into popular use among Eorzeans little more than a decade ago. Left idle by the onset of the Age of Calm, a leading mercenary officer gathered a number of trusted companions to form a guild dedicated to the common cause of aiding the realm. Outside the modest station of their humble beginnings, a simple sign hung for all to see―Adventurers' Guild.
+
+The Adventurers' Guild has since spread, and is now found in each of the realm's great nations. Eorzeans come with their myriad pleas and requests and adventurers heed the call, whether it be slaying of foul beast plaguing the countryside, or the crafting of wares demanding a master's touch.
+
+===Personality ===
+While the adventurer's personality is crafted by the player's preference, they are initially depicted in cutscenes as stoic and silent, often responding to others with a nod. They are always willing to help those in need.
+
+Following the events leading up to ''Heavensward'', the adventurer's emotions become more pronounced and the player is given more freedom over their character through multiple-choice responses, though there are rare instances where the adventurer's emotions become more expressed independent of player input. At one point, the adventurer becomes enraged to the point of wanting to strike [[Emmanellain de Fortemps]] for his panicked attempt to shift blame after an order to strike down a coup's leader, and it is a running joke at various points of ''Heavensward'' that the adventurer is leery of drinks offered to them due to the events of [[Nanamo Ul Namo]]'s botched assassination. The Warrior of Light regrets [[Haurchefant Greystone|Haurchefant's]] death, but continues to honor his memory. When they reunite with the Scions, [[Papalymo Totolymo]] remarks that they seem more world-weary and rugged.
+
+The Warrior of Light is uncertain of the future once their mission is complete. When asked by [[Aymeric de Borel|Ser Aymeric]] during a private social gathering on what they wanted for themselves, not as a Scion, the Warrior of Light is surprised as if having never considered it and is unable to answer.
+
+During the final events of ''Stormblood'', the Warrior of Light controls their emotions and anger. Even in the face of [[Asahi sas Brutus|Asahi's]] insults and hate-filled words, the Warrior does not take the bait, knowing of the political conditions. In [[Yotsuyu goe Brutus|Yotsuyu's]] final moments, the Warrior offers comfort and condolences despite the crimes she had committed to her people.
+
+{{Spoiler}}
+The Dark Knight job questline delves into the adventurer's psyche. [[Fray Myste|Fray]] is a manifestation of resentment and bottled up anger at being viewed as a weapon or errand-boy, with the journal entries for the questline referring to an admiration of Fray for voicing the adventurer's own frustrations without worrying about the consequences. This is the adventurer lashing out against their will or "speaking without thinking", as Fray is their dark side fighting for supremacy and is likely not actually visible to anyone else. Fray is also a manifestation of the adventurer's desire for a tutor in the dark arts, as they have no satisfactory starting point for learning to become a Dark Knight beyond the provided Soul Crystal and must teach themselves.
+
+Later, their sorrow manifests as Myste, a boy resembling [[Ysayle Dangoulain]] and Haurchefant Greystone, as a representation of the lives the adventurer has taken simply because they or their allies were opposed, and for being unable to save those close to them. With Myste, however, it's much more ambiguous as to whether his motivations align with the adventurer's on any level, as he routinely makes poor decisions in his choices of who to offer post-mortem comfort to among the living, and permission is given to use the [[aether]] of the adventurer's Dark Knight soul crystal only grudgingly to begin with.
+
+In ''Shadowbringers'', the Warrior of Light (after taking the mantle of Warrior of Darkness) is angered and sad over the suffering the denizens of [[the First]] face. They reunite with their counterpart and former foe, [[Ardbert]], and provide each other advice during the struggle against the [[sin eater]]s. The Warrior becomes the catalyst in Arbert regaining his sense of hope, and together they are able to defeat [[Emet-Selch]]. The Warrior of Light shows the capacity of sympathy, or at least pity, for their foes, after defeating [[Vauthry]] and Solus.
+{{Endspoiler}}
+
+It is also shown that the Warrior is attuned to the personalities of their friends. For example, the Warrior very well knew not to provoke the temper of Alisae and tried to warn Alphinaud not to laugh when she made a clay piece.
+
+==Story==
+Depending on whether the player has played [[Final Fantasy XIV/Legacy|the original version]] and therefore transferred the data to the relaunch version ''A Realm Reborn'',  the Warrior of Light may be one of the original adventurers who disappeared five years ago at the [[Battle of Carteneau (Seventh Umbral Era)|Battle of Carteneau]] due to [[Louisoix Leveilleur|Louisoix]]'s spell, suddenly reappearing in the world. If starting from ''[[Final Fantasy XIV|A Realm Reborn]]'', the Warrior of Light is a new adventurer journeying to one of the 3 starting city-states of Eorzea in order to pursue the adventuring life.
+
+The Warrior of Light joins the Scions of the Seventh Dawn after being scouted out in whichever region the player started out in. Their joining marks the Scions' turning-point as an effective organization thanks to the Warrior's ability as a possessor of the [[Echo (Final Fantasy XIV)|Echo]] to reliably come in contact with [[primal]]s without fear of enslavement, and their fighting prowess along with [[Hydaelyn (character)|Hydaelyn]]'s blessing.
+
+The role of the Warrior of Light beyond the main story is mostly decided by the player's activities and choices made. Progress in certain jobs or tradecraft disciplines has a measure of change on dialogue, such as [[Estinien Wyrmblood]] acknowledging the Warrior's status as a second [[Azure Dragoon]] in ''Heavensward''.
+
+{{Spoiler}}
+The ending of ''Shadowbringers'' suggests the Warrior of Light may be a reincarnated [[Amaurot]]ine who did not escape the sundering of the world when Hydaelyn bested [[Zodiark (Final Fantasy XIV)|Zodiark]]. It is later revealed that they are the current incarnation of the fourteenth member of the Convocation, [[Azem]]. Azem was a member of the Convocation who left Amaurot to see the world and learn of its people, unlike the other members. According to [[Hythlodaeus]], if trouble arose during Azem's travels, he/she would not return home to ask for help, but would seek their comrades and confront the issue directly as was their wont. If asked, [[Urianger Augurelt|Urianger]] speculates Azem may have been related to the goddess [[Azeyma]] and the [[Au Ra]] Dawn Father, [[Azim]], due to a similarity in names and mythic connection to the sun/light. Azem's power and memories of them were preserved by a friend in a crystal that the Warrior of Light obtains later in Amaurot during the events of patch 5.3, Reflections in Crystal. This "friend" is later shown to have been [[Emet-Selch]], given implied later involvement in a critical encounter with [[Elidibus (Final Fantasy XIV)|Elidibus]] as the original Warrior of Light.
+{{Endspoiler}}
+
+=="Meteor Survivor", the CG Warrior of Light==
+{{nameless}}
+{{infobox character
+|name=Warrior of Light
+|release=FFXIV
+|japanese=冒険者
+|romaji=Bōken-sha
+|lit=Adventurer
+|aka=Meteor Survivor
+|image=XIV Cover.jpg
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Scions of the Seventh Dawn]]
+|occupation=Adventurer
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Male
+|height=
+|weight=
+|hair=Brown
+|eye=Grey
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job={{icon|ffxiv|discipline|archer}}<br/>{{icon|ffxiv|discipline|warrior}}<br/>{{icon|ffxiv|discipline|dragoon}}<br/>{{icon|ffxiv|discipline|monk}}<br/>{{icon|ffxiv|discipline|samurai}}<br/>{{icon|ffxiv|discipline|dark knight}}<br/>{{icon|ffxiv|discipline|paladin}}
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=[[Akihiko Yoshida]]
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+This Midlander Hyur who acts as a poster boy for ''Final Fantasy XIV'' represents the player when the player's model can't be used, such as in pre-rendered CGI cutscenes and trailers. He first appeared in promotional images and the game's original opening movie, and has since appeared in the "End of an Era/A New Beginning" videos and related promotional media for ''A Realm Reborn'' and the following expansion.
+
+Officially known as '''Meteor Survivor''', a name used in the recordings of the event sequences from 1.0 on the ''Realm Reborn'' Collector's Edition lore compilation disc, many fans refer to him as the "CG Midlander", or simply as "Hyur Midlander" (first name Hyur, last name Midlander). He is often shown alongside other characters, including a Sea Wolf [[Roegadyn]], a Wildwood [[Elezen]], a Seeker of the Sun [[Miqo'te]], and a plainsfolk [[Lalafell]], though he is consistently the main focus. These companions do not appear in the expansion opening movies.
+
+At the launch of the original ''Final Fantasy XIV'', most promotional artwork presented him as an Archer and [[Paladin (Final Fantasy XIV)|Gladiator]]. Starting from the "End of an Era" cinematic and into most promotional material for ''Final Fantasy XIV: A Realm Reborn'', the character is usually presented as a Warrior and is wielding the Bravura [[Relic Weapon (equipment)#Final Fantasy XIV|Relic Weapon]]. In the ''Final Fantasy XIV: Heavensward'' expansion trailer, the character removes his Warrior armor and replaces it with Dragoon armor. In the ''Final Fantasy XIV: Stormblood'' expansion trailer he switches to Monk attire and fights unarmed on his adventures through [[Gyr Abania]], while appearing later as a Samurai in [[Kugane]], fighting with a katana. In the CG trailer for ''Final Fantasy XIV: Shadowbringers'', the Warrior of Light cycles through all of his previous jobs before settling on Dark Knight. In the trailer for ''Final Fantasy XIV: Endwalker'', he assumes the role of Paladin. In the beginning, he is also seen wearing a dark robe over his gear, his outline made prominent by a bright light, invoking the image of an Ascian and his original persona as Azem.
+
+As of Patch 3.1, "As Goes Light, So Goes Darkness", characters almost identical to the Hyur Midlander and his companions appear, this time as antagonists titled [[Warriors of Darkness (Final Fantasy XIV)|the Warriors of Darkness]]. The characters go by aliases in their initial appearances before their real names are revealed in ''[[Final Fantasy XIV: Shadowbringers]]'', with the Male Hyur/Hume Midlander being named Arbert/Ardbert, and the rest are named Blanhaerz/Branden (Male Sea Wolf Roegadyn/Galdjent Paladin), J'rhoomale/Renda-Rae (Female Seeker of the Sun Miqo'te/Mystel Archer), Naillebert/Nyelbert (Male Duskwright Elezen/Elf Black Mage) and Lamimi/Lamitt (Female Plainsfolk Lalafell/Dwarf White Mage). Ardbert shares the same voice actor as the posterboy from the 1.0 trailer.
+
+==Behind the scenes==
+During the 2019 edition of [[The Rising]] event, illusions of the player character appeared alongside [[Wandering Minstrel|Naoki Yoshida]], dressing in costumes the Meteor Survivor wore in promotional arts; Archer from the original version, Warrior from ''A Realm Reborn'', Dragoon from ''Heavensward'', Monk and Samurai from ''Stormblood'', and Dark Knight from ''Shadowbringers''.
+
+The chosen gender for the Warrior affects [[Azem]] and [[Fray Myste|Fray]]'s manifestation. In ''[[Dissidia Final Fantasy Opera Omnia]]'', the Warrior of Light is mentioned by some of the ''[[Final Fantasy XIV]]'' characters, though without specifying gender.
+
+Since the end of ''Heavensward'', Tataru crafts new outfits for the adventurer to wear, tailored specifically for them and the next journey they embark. At the end of ''Heavensward'', they are given a set of Scion's Adventurer gear consisting of a white shirt with a tie and monocle, the female version featuring a skirt and leggings. At the end of ''Stormblood'', they are given the Scion Traveler gear, a stark contrast featuring a black and red ensemble with a long black cape and a hood with a face cast. The adventurer later wears this outfit in Urianger's vision of the Eight Umbral Calamity. Both attires can be dyed to the player's preference. 
+
+In each story expansion, the Warrior of Light chooses jobs based on context, first starting out as a green Archer in [[Final Fantasy XIV/Legacy|Legacy]] before becoming a hardened Warrior at the end and throughout ''A Realm Reborn''. In ''Heavensward'', they become a Dragoon to fight in the Dragonsong War and their connection to [[Estinien Wyrmblood]] is strengthened if the player completed the Lv 50 Dragoon job quest. In ''Stormblood'', they take on dual jobs as a Monk and Samurai to fight on two fronts, as those jobs are tied to Ala Mhigo and Doma, respectively. 
+
+In ''Shadowbringers'', they become a Dark Knight to take up their role as the Warrior of Darkness and to tie in their relationship with the Ascians. In ''Endwalker'', the Warrior becoming a Paladin calls back to [[Cecil Harvey]] from ''[[Final Fantasy IV]]'', who underwent a similar transformation from Dark Knight to Paladin. According to Naoki Yoshida, Paladin was chosen to represent the full circle aspect of ''Endwalker'' as the character was depicted as a Gladiator in the boxart for 1.0 despite never having taken up the role in any trailers or key art.{{Citation needed}} The Warrior is depicted in the same pose to illustrate their growth throughout the years. 
+
+According to [[Hancock Fitzgerald]], one of the stranger epithets given to the Warrior of Light in ''Stormblood'' is the '''Stealer of Pants'''. Though this is in reference to the ''Heavensward'' Hildebrand missions, Hancock claims this is more of a rumor.
+
+==Other appearances==
+===''[[War of the Visions: Final Fantasy Brave Exvius]]''===
+The Warrior of Light appears in vision cards from ''[[War of the Visions: Final Fantasy Brave Exvius]]''.
+;Scions of Shadow
+[[File:Scions of Shadow from WotV vision card.png|thumb|Scions of Shadow.]]
+{{Q|Ala Mhigo is at last free from imperial rule, but that liberty may prove fleeting as the Empire moves to both reclaim this bloodied nation and subjugate all of Eorzea. In their hour of need, however, they cannot turn to the Warrior of Light. Nor to the Scions, who yet slumber, their souls adrift. The realm is left to struggle without its saviors, for they have been beckoned beyond time and space─beckoned to the First.|Vision card description}} 
+Scions of Shadow is an UR-rarity vision card. It was illustrated by Akihiko Yoshida.
+{{-}}
+;Bringers of Shadow
+[[File:Bringers of Shadow from WotV vision card.png|thumb|Bringers of Shadow.]]
+{{Q|In order to restore darkness to the Norvrandt of the First, in danger of being consumed by the Flood of Light, the Shadowbringers fight against fate itself. <br>Adventurers who became known as the legendary Warriors of Darkness, the Scions, and the Oracle of Light come together to try to subdue the grotesque Sin Eaters.|Vision card description}} 
+Bringers of Shadow is an UR-rarity vision card. It was illustrated by SQUARE ENIX.
+{{-}}
+
+==Gallery==
+;Artworks
+<gallery>
+CGMidlanderCGArt.jpg|Promotional artwork.
+Warrior Artwork XIV.png|Artwork in full Warrior artifact gear by [[Akihiko Yoshida]].
+FFXIV Before the Fall artwork.png
+FFXIV The Far Edge of Fate Artwork.jpg|Warrior of Light in ''The Far Edge of Fate'' artwork.
+StormbloodJapaneseCoverArtwork.jpg|Featured in the key visual of ''Stormblood'' as a Monk in the middle right.
+FFXIV Stormblood Samurai CG render.png|Artwork as a Samurai.
+FFXIV WoL Samurai 45.png|As a Samurai in Akihiko Yoshida's artwork.
+FFXIV SH Artwork.png
+FFXIV Hyur Dark Knight.png|As a Dark Knight in ''Shadowbringers'' artwork.
+FFXIV YoRHa Dark Apocalypse key visual.png
+FFXIV ShB Characters Yoshida Akihiko.png
+FFXIV Endwalker Warrior of Light paladin render.jpg
+Scions artwork from Final Fantasy XIV Endwalker.jpg
+</gallery>
+
+;Screenshots
+<gallery>
+HyurSS4.jpg|As an Archer in the ''Legacy'' opening.
+Hero End of an Era.png|Witnessing the fall of Dalamud.
+Hyur Warrior 1.jpg|As a Warrior in the ''End of an Era''.
+Hyur Warrior 2.jpg|As a Warrior in ''A Realm Reborn''.
+FFXIV HW WoL Dragoon.png|As a Dragoon in ''Heavensward'' opening.
+FFXIV WoL Monk.png|As a Monk in ''Stormblood'' opening.
+FFXIV WoL vs Lyse.png|With Lyse in ''Stormblood'' opening.
+FFXIV WoL Samurai.png|As a Samurai in ''Stormblood'' opening.
+FFXIV Shadowbringers trailer screenshot 4.png
+FFXIV Shadowbringers trailer screenshot 5.png
+FFXIV Shadowbringers trailer screenshot 7.png
+FFXIV Shadowbringers trailer screenshot 8.png
+FFXIV Shadowbringers trailer screenshot 10.png
+FFXIV Shadowbringers trailer screenshot 17.png
+FFXIV Shadowbringers trailer screenshot 19.png
+FFXIV Shadowbringers trailer screenshot 20.png
+FFXIV Shadowbringers trailer screenshot 2.png
+FFXIV Shadowbringers trailer screenshot 25.png
+FFXIV Shadowbringers trailer screenshot 26.png
+FFXIV Shadowbringers trailer screenshot 3.png
+FFXIV Shadowbringers trailer screenshot 29.png
+FFXIV Endwalker trailer screenshot 1.png
+FFXIV Endwalker trailer screenshot 2.png
+FFXIV Endwalker trailer screenshot 5.png
+FFXIV Endwalker trailer screenshot 24.png
+FFXIV Endwalker trailer screenshot 25.png
+FFXIV Endwalker trailer screenshot 26.png
+</gallery>
+
+;Merchandises
+<gallery>
+Final Fantasy XIV Armor display.jpg|Full to-scale replica of the Warrior of Light's armor.
+XIV Armor Display 2.jpg|Another replica of the Warrior of Light's armor.
+</gallery>
+
+==See also==
+*[[Final Fantasy XIV#Character Creation|Character Creation]]
+*[[Warriors of Light]]
+
+{{navbox player character FFXIV}}
+{{navbox characters FFXIV}}
+{{navbox FFXIV}}
+
+[[es:Guerrero de la Luz (Final Fantasy XIV)]]
+[[pt-br:Aventureiro (Final Fantasy XIV)]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Main characters]]

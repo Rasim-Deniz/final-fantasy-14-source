@@ -1,0 +1,49 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Brithael Spade
+|release = FFXIV
+|japanese = ブリサエル・スペード
+|romaji = Burisaeru Supēdo
+|image =FFXIV Brithael Spade.png 
+|race = [[Hyur]]
+|gender = Male
+|height = 
+|hair = Black
+|eye = Teal
+|designer = 
+|age =30 
+|affiliation = Blacksmiths' Guild
+|occupation = Guildmaster
+|type=npc
+|job = {{icon|ffxiv|discipline|blacksmith}}
+|weapon =Doman Steel Cross-Pein Hammer 
+|armor = Blacksmith's Gear
+}}
+'''Brithael Spade''' is a non-playable character in ''[[Final Fantasy XIV]]''. He is the Blacksmith guildmaster at Naldiq & Vymelli's in [[Limsa Lominsa]] who fulfills and secures contracts as well as trains new recruits.
+
+== History ==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Brithael is the primary quest-giver for the Blacksmith class quests, and initially has the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] craft simple items like bronze ingots and hammers until [[H'naanza]] of the Armorers' Guild orders him to increase exports to [[Gridania]]. He works closely with a trader named [[Faezahr]], and does not agree to negotiate until he sees examples of their merchandise. The Warrior of Light crafts a sword and impresses the trader, who agrees to work with the guild. After making multiple contracts with the realm, the Warrior's accomplishments are noticed by a wealthy [[Ul'dah|Ul'dahn]] who requests a Plumed Iron Hatchet to gift his chief groundsman for his service. Surprising the client's representative, they take it in good spirits, though Faezahr is unsurprised of their creation and has the Warrior of Light report back to Bratheal. Ignoring Faezahr's comments, Brithael believes that the Warrior of Light is destined for success and that they can count on the guild for their support.
+
+With a recent hangover, Brithael cannot work on the recent commission Faezahr gave him and has the Warrior of Light craft a high quality steel bhuj. Faezahr is impressed by the Warrior's craftsmanship and hints at more work in the future. In the meantime Brithael notices the Warrior's guildmates covet their wares, and wants them to craft a high quality wrapped crowsbeak hammer as a model for others. With the hammer crafted, Brithael hopes that their forgemates will be inspired and follow in the Warrior of Light's footsteps. With the guild in high spirits Brithael shares a drink with Faezahr and reveals that he has fallen in love with a [[Paladin (Final Fantasy XIV)|gladiator]] and wishes to shower her with gifts. He has the Warrior of Light craft a pair of cobalt knuckles, a buccaneer's bardiche, and a cobalt shamshir for the gladiator Muriel. Faezahr judges the weapons fit for her and has them brought aboard the Astalicia. Muriel treasures the gifts and appreciates meeting the Warrior of Light, though her words don't seem sincere.
+
+The Guild is as busy as ever and customers are flooding in with requests, though one is more special then the rest: the client wishes to conceal their identity and wants a weapon to be furnished in the likeness of a struggling gladiator, [[Greinfarr|The Bronze Bull]]. The Warrior of Light crafts a Cobalt Winglet with a savage grade III materia, and is brought to the Bronze Bull. Confused as to why he was gifted this Faezahr delivers a cryptic message and the gladiator realizes it is the [[J'moldva|Hellfire Phoenix]] who was thought to have perished in the calamity. With the customer satisfied Brithael reflects on how the Warrior of Light changed the guild's fortunes and calls them one of the finest blacksmiths he has ever known.
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Brithael thinks it time for the Warrior of Light to become renowned realm-wide and has found a potential employer in [[Ishgard]]. He has them meet their representative at the drowned wench. Brithael appears when Fremondain needs the sword, Integrity, to be restored, amd is happy to see the Warrior of Light. He cannot restore the sword and has them speak to [[Gerolt Blackthorn]] in Hyrstmill.
+
+=== ''[[Final Fantasy XIV: Stormblood]]'' ===
+{{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Brithael is a [[Hyur]] with white skin and brown hair. He wears full blacksmiths gear with a bandanna.
+
+=== Personality ===
+Brithael is a helpful person and enjoys training the new recruits. Although he dislikes his other duties, he will get the job done. He loves to drink and occasionally gets a hangover.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Blacksmiths]]
+[[Category:Guildmasters]]

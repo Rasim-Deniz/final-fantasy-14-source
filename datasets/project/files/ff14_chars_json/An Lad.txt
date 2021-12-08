@@ -1,0 +1,30 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=An Lad
+|release=FFXIV
+|japanese=アン＝ラド
+|romaji=An = Rado
+|aka=
+|image=FFXIV ShB An Lad.png
+|home=[[Lyhe Mheg]]
+|affiliation=Fae folk
+|occupation=
+|race=[[Pixie]]
+|gender=<!--PIXIES ARE GENDERLESS, DO NOT FILL THIS SPACE-->
+|hair=White
+|eye=White
+|type=npc
+}}
+'''An Lad''' is a non-playable character from ''[[Final Fantasy XIV: Shadowbringers]]''. They are a newborn [[pixie]] in the beast tribe questline.
+
+== History ==
+Some time after [[Titania (Final Fantasy XIV)|Titania]]'s defeat, a pixie named An Lad is born. An Lad seems to possess vague memories as Titania, and it is theorized that Titania's aether may have imprinted on An Lad during their birth, making An Lad a reincarnation of sorts of Titania. An Lad's memories of Titania's imprisonment leads to them feeling an intense loneliness, which causes them in to inadvertently plague the children of [[Norvrandt]] with nightmares in a desperate attempt to befriend them. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Darkness]], with the aid of the previous Titania's friend [[Tyr Beq]] and a sentient porxie named [[Ezel II]], vanquish the children's nightmares before An Lad's own affects [[Lyhe Mheg]]. They destroy An Lad's nightmare, allowing them to be at ease with themselves and accepting Tyr Beq's friendship.
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Pixies]]

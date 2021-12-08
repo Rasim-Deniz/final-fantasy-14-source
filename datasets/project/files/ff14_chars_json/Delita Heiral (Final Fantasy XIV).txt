@@ -1,0 +1,69 @@
+{{sideicon|FFXIV}}
+{{DISPLAYTITLE:Delita Heiral (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Delita Heiral
+|release=FFXIV
+|japanese=ディリータ・ハイラル
+|romaji=Dirīta Hairaru
+|lit=Dilita Heiral
+|aka=
+|image=FFXIV Delita 01.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Male
+|height=
+|weight=
+|hair=Brown
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|weapon=
+|armor=
+<!--Behind the scenes info -->
+|original appearance=[[Delita Heiral]] ''[[Final Fantasy Tactics]]''.
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Delita Heiral''' is a historical character from ''[[Final Fantasy XIV]]''.
+
+==History==
+
+==Characteristics==
+===Appearance===
+===Personality===
+
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV 4.1 Poster.png|Artwork by Akihiko Yoshida.
+FFXIV Delita 02.png
+FFXIV Ramza Beoluve 03.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

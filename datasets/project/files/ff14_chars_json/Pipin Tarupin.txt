@@ -1,0 +1,105 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Pipin Tarupin
+|release=FFXIV
+|japanese=ピピン・タルピン
+|romaji=Pipin Tarupin
+|aka=Pipin of the Steel Heart
+|image=FFXIV Pipin.png
+|home=[[Ul'dah]]
+|age=25<ref name=EE131>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', p. 131</ref>
+|dob=
+|affiliation=[[Immortal Flames]]
+|occupation=Vice Marshal of the Immortal Flames (former)<br/>
+General of the Immortal Flames (current)
+|race=Dunesfolk [[Lalafell]]
+|gender=Male
+|hair=Blond
+|eye=Gray
+|type=npc
+|job={{icon|ffxiv|discipline|gladiator}}<br>{{icon|ffxiv|discipline|dark knight}}
+|weapon=Tizona
+|japanese voice actor=[[wikipedia:Nobuyuki Hiyama|Nobuyuki Hiyama]]
+|english voice actor=[[Max Mittelman]] (''A Realm Reborn'')<br>[[wikipedia: Adam Howden|Adam Howden]] (''Heavensward'' onwards)
+}}
+'''Pipin Tarupin''' is a non-playable character in ''[[Final Fantasy XIV]]''. He is a male [[lalafell]] who serves as the Vice Marshal of the [[Grand Company|Immortal Flames]]. Initially serving as a minor supporting character at the end of the ''A Realm Reborn'' storyline, Pipin serves a larger supporting role in the ''[[Final Fantasy XIV: Stormblood]]'' expansion.
+
+==History==
+When Pipin was twelve years old he was sold into the Bloodsands gladiator pits by his biological father to pay off his gambling debts. While serving under these conditions he met the young Raubahn Aldynn, a refugee imprisoned on suspicion of espionage. The Bull of Ala Mhigo inspired the young Pipin to focus on his gladiatorial career to emancipate himself.<ref name=EE131/>
+
+Raubahn later used his earning to buy out Pipin's freedom by clearing his father's debt. Fearing his father may end up selling him again to settle future debts, Pipin returned to the Bloodsands. Raubahn used his prize money to secure legal guardianship of Pipin, formally adopting him as his son.<ref name=son>[http://na.finalfantasyxiv.com/lodestone/special/tales_from_the_storm/sidestory_03/#sidestory_03 Tales from the Storm: When the Wager Pays Off]</ref>
+
+Years later, Pipin joined the Immortal Flames, and reached the rank of Vice Marshal. He becomes stationed at the Ala Mhigan front.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Pipin rescues [[Alphinaud Leveilleur]] during the aftermath of the bloody banquet in [[Ul'dah]]. The two meet up with the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], who had just escaped through the Sil'dih Aqueducts. A [[Chocobo (Final Fantasy XIV)|chocobo]]-drawn carriage pulled by Brendt/Brennan/Bremondt arrives, having been dispatched by [[Alisaie Leveilleur]] to see them to safety. As they stow away from Ul'dah, Pipin yet intends to return and extricate Raubahn Aldynn, while the two flee on [[Cid nan Garlond|Cid's]] airship to [[Coerthas]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Aided by the Warrior of Light, Alphinaud, and [[Yugiri Mistwalker]], Pipin infiltrates Halitali to free Raubahn from the Crystal Braves before [[Ilberd Feare]] can execute him. After freeing the Flame General, fighting their way through traitorous Braves, they bring Raubahn to the [[Waking Sands]] to recover from captivity.
+
+During the Grand Melee in Coerthas, Pipin fights with the Immortal Flames. Following the chaotic battle between [[Shinryu (Final Fantasy XIV)|Ilberd's primal]] and [[Omega (Final Fantasy XIV)|Omega]], Pipin moves to seize control of [[Baelsar's Wall]]. He reports his success to Raubahn atop the wall.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Pipin is one of the officers behind the liberation of Ala Mhigo. The Warrior of Light and several [[Scions of the Seventh Dawn]] accompany him to perform reconnaissance on Castellum Velodyna in preparation of an assault on the stronghold. They spy flames erupting from [[Rhalgr's Reach]] during the XIIth Legion's surprise attack. Pipin returns to Castrum Oriens to alert General Raubahn and bring reinforcements.
+
+During the assault on Specula Imperatorix Pipin and Raubahn lead the charge into the stronghold. They briefly retreat when [[Fordola rem Lupis|Fordola]] fires the cannon at Castrum Abania on one of the watchtowers.
+
+At Porta Praetoria, during the final preparations to siege Ala Mhigo itself, Raubahn gifts his blade, Tizona, to Pipin, who wields in in the final battle of [[Rhalgr's Beacon]]. He and Raubahn are among the first to charge into the breached gate of the city proper, and later reconvene with the Warrior of Light and the Scions at the Royal Menagerie following the death of [[Zenos yae Galvus]].
+
+===Patch 4.1: The Legend Returns===
+
+Following the dismissal of Raubahn from the Immortal Flames and the Syndicate, so he can remain in Ala Mhigo, Pipin succeeds Raubahn as the General of the Immortal Flames.
+
+==Characteristics==
+===Appearance===
+Pipin wears the Flame Elite's Disciple of War armor set. He temporarily removes the helmet to reveal long, ash blond hair. He has brown eyes and light tan skin.
+
+===Personality===
+Pipin is more vivacious and lively than his adoptive father, [[Raubahn Aldynn]], but the two consider each other family. Pipin calls him Father, showcasing his affection and gratitude for saving him from the gladiator rings after his biological father sold him to pay off his debts. Pipin is sensitive to Raubahn's feelings.
+
+Being trained by Raubahn, Pipin is an excellent fighter and a gifted tactician, acting as his father's second-in-command.
+
+==Gamelay==
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Pipin Tarupin
+|image = [[File:Pipin Triple Triad Card.png]]
+|number = 100
+|total = 23
+|type = None
+|description =  “There will be ample time for soul-searching later. For now, we must put some malms between us and Ul'dah.”
+|obtain =  Won from [[Final Fantasy XIV Triple Triad players#Swift|Swift]], Ul'dah - Step of Nald (8,  
+}}
+
+{{Card FFXIV
+|name = Raubahn and Pipin
+|image = [[File:Raubahn & Pipin_Triple_Triad_Card.png]]
+|number = 191
+|total = 27
+|type = None
+|description =  “Ho! You've improved, lad!”<br>“Come now, Father. You lured the fool onto my blade, and do not try to deny it!”
+|obtain = Purchasable from the Manderville Gold Saucer for 400,000 {{icon|ffxiv|item|mgp}}
+}}
+
+==Behind the scenes==
+===Voice===
+Pipin is voiced by [[wikipedia:Nobuyuki Hiyama|Nobuyuki Hiyama]] in the Japanese version of the game and Adam Howden in the English version.
+
+==Gallery==
+<gallery>
+FFXIV SB Ala Mhigo promotional poster.jpg|Pipin in ''Stormblood'' promotional artwork.
+FFXIV TFS Pipin Raubahn.jpeg|Pipin as a child with Raubahn, in ''Tales from the Storm: When The Wager Pays Off''.<ref name=son />
+FFXIV Pipin Helmet.png|Pipin with his helmet on.
+FFXIV Masked Pipin.jpg|Pipin donning the Flame Elite's armor.
+FFXIV Pipin.jpg|Pipin speaking to the party.
+FFXIV TFS Pipin Immortal Flames.jpeg|Pipin leading the charge in Ala Mhigo.<ref name=son />
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Paladins]]
+[[Category:Dark Knights]]
+[[Category:Lalafells]]

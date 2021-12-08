@@ -1,0 +1,45 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name = Dancing Wolf
+|release = FFXIV
+|japanese =ダンシング・ウルフ 
+|romaji=Danshingu Urufu 
+|image =FFXIV Dancing Wolf.png 
+|race = [[Roegadyn]]
+|gender = Male
+|height = 
+|hair = Dark Green
+|eye = Yellow
+|designer = 
+|age = 
+|affiliation =[[Immortal Flames]]
+|occupation = Captain
+|type=npc
+|job = {{icon|ffxiv|discipline|gladiator}}
+|weapon = Flame Elite's Kaltzbalger
+|armor = 
+}}
+'''Dancing Wolf''' is a [[non-player character]] from ''[[Final Fantasy XIV]]''. A member of the Immortal Flames, he appears in the ''Heavensward'' Summoner quests.
+
+== History ==
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Dancing Wolf appears in the Summoner quests, investigating the dark mage attacking travelers with Ifrit-egi. He knew of [[Tristan Lowe|Tristan Nightflicker]] when he was still affiliated, and how he volunteered to kill his own brother when he was tempered by [[The Bowl of Embers|Ifrit]]. He never realized how badly it affected him, and led to his end.
+
+When they confront the dark mage in Northern Thanalan, Dancing Wolf is shocked to discover it is Tristan's brother. At that point, the Ascian of the Twelth Chalice reveals it was his doing, and Dancing Wolf swears vengeance on them.
+
+He later arranges to smuggle [[Y'mhitra Rhul|Y'mhitra]] and the Adventurer into the Carteneau Flats to obtain the Dreadwyrm Trance, and is present for the final showdown against the Ascians at the [[Dravanian Hinterlands]].
+{{clear}}
+
+== Characteristics ==
+=== Appearance ===
+Dancing Wolf is a hellsguard roegadyn with dark green hair and yellow eyes, he wears Immortal Flames officer's gear and Flame Elite weapons.
+
+=== Personality ===
+{{Section}}
+
+== Gameplay ==
+Dancing Wolf fights alongside the player and Y'mhitra in various Summoner job quest duties. As a tank, he deflects most of the attention to himself, giving the player flexibility to act as damage dealer.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]

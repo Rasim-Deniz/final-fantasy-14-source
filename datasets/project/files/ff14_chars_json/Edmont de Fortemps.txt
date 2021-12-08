@@ -1,0 +1,77 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Edmont de Fortemps
+|japanese=エドモン・ド・フォルタン伯爵
+|romaji=Edomon Do Forutan Hakushaku
+|lit=Count Edmont de Fortemps
+|release=FFXIV
+|aka=
+|image=Edmont de Fortemps.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Ishgard]]
+|age=59<ref>''Encyclopedia Eorzea'', p. 156</ref>
+|affiliation=[[House Fortemps]]
+|occupation=Lord
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=Black
+|eye=
+|blood=
+|laterality=
+|footsize=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[wikipedia:Ikuya Sawaki|Ikuya Sawaki]]
+|english voice actor=[[wikipedia:Stephen Critchlow|Stephen Critchlow]]
+|portrait=|sprite=|boss page=|final boss page=|superboss page=|cinematic enemy page=|dummied enemy page=|recurring appearance=|main appearance=|tactics=|dissidia=|dffnt=|dffoo=|theatrhythm=|ffrk=|ffbe=|other appearance 2=|other appearance2=|other appearance 3=|other appearance3=|other appearances=|dob=|education=|hobby=|loves=|hates=|treasure=|sign=|party member 1=|job=|abilities=|limit break=|weapon=|armor=|ultimate weapon=|element=|original appearance=|artwork=
+}}
+{{Quote|Lord of House Fortemps, one of Ishgard's foremost noble families. Unlike his insular peers, Count Edmont is quite welcoming of foreigners, willing to aid those with just intentions.|Official website}}
+'''Count Edmont de Fortemps''' is a non-playable character in ''[[Final Fantasy XIV: Heavensward]]'' who serves as the expansion's narrator via excerpts from his [[Heavensward (book)|memoir of the same name]]. He is the lord of [[House Fortemps]], one of [[Ishgard]]'s foremost noble families. Unlike his insular peers, Count Edmont is welcoming of foreigners, willing to aid those of just intentions. He has two legitimate sons, [[Artoirel de Fortemps|Artoirel]] and [[Emmanellain de Fortemps|Emmanellain]], and an illegitimate son, [[Haurchefant Greystone]].
+
+==History==
+Based on the recommendation of Haurchefant, Edmont arranges for the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], [[Alphinaud Leveilleur]], and [[Tataru Taru]] to become wards of House Fortemps. This arrangement grants them access to the Gates of Judgment and Fortemps Manor becomes a place of asylum for the Scions of the Seventh Dawn following the incidents in the [[Ul'dahn Revolution]].
+
+Edmont serves an advisory role, as his ability to influence matters in the Holy See is countered by rivaling Houses Durendaire and Dzemael, as well as the priests of the Vault. Following Haurchefant's sacrifice to save the Warrior of Light from Ser Zephirin's spear of light, Count Edmont withdraws to grieve.
+
+During the events of "As Goes Light, So Goes Darkness", saving [[Aymeric de Borel]] from being killed by an assassin sent by the True Brotherhood of the Faith, Edmont expresses concern for Aymeric as he cannot bear losing him like he did Haurchefant. Artoirel confides to the Scions that his father is being demonized as a co-conspirator in [[Thordan VII]]'s death and is planning to step down as head of House Fortemps to preserve their family's honor.
+
+==Characteristics==
+===Appearance===
+Edmont is a male [[Elezen]] with black hair and pale skin. He wears a luxurious black surcoat bearing the insignia of House Fortemps. He carries a black cane. He wears knee-high black leather boots with red laces, an elaborate red garment with gold details, and leather gloves.
+
+===Personality===
+Like many Ishgardian Highborns, the count upholds a proud, traditional gesture and manners. He is keen on educating his progeny in the way of knighthood, being a strict father. Unlike many of his peers Edmont has a liberal worldview, unshrouded by his immediate society's dogma. He cares for Haurchefant despite him being an illegitimate child, and is not afraid to use him as an example to motivate his two legitimate sons.
+
+The count lacks Ishgard's aversion to outsiders, and in trusting Haurchefant he personally grants asylum to the [[Scions of the Seventh Dawn]] in their time of need. When faced with the harsh truth about Ishgard's history, he comes to terms with the new reality. It is implied that the count has always been discontent with the way Ishgardian society operates on the basis of its embroiled history with the dragons.
+
+In the face of Haurchefant's death, Edmont collapses in grief. This motivates him to be in the frontline of changes in Ishgard after Archbishop Thordan is defeated. He becomes more concerned for his sons' safety, not wanting to lose another.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:597a Count Edmont de Fortemps.png|thumb|100px]]
+Edmont de Fortemps appears on a [[Triple Triad (Portal App) decks/Y'shtola Normal mode|Normal Mode card]] in the version of Triple Triad playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Gallery==
+<gallery>
+FFXIV Edmont de Fortemps Concept.jpg|Concept art.
+FFXIV Edmont.png
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

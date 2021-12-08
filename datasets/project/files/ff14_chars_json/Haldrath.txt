@@ -1,0 +1,59 @@
+{{sideicon|FFXIV}}
+{{infobox character
+|name=Haldrath
+|release=FFXIV
+|japanese=ハルドラス
+|romaji=Harudorasu
+|aka=Haldrath the Dragonseye
+|image=FFXIV Haldrath HW.png
+|race=[[Elezen]]
+|gender=Male
+|age=
+|hair=Blond
+|eye=Purple
+|home=[[Ishgard]]
+|occupation=Azure Dragoon
+|type=npc
+|job={{icon|ffxiv|discipline|dragoon}}
+|weapon=
+}}
+{{Quote|Fare thee well, my brother knights...my loyal friends. On these shoulders shall I bear the weight of my father's sins; with this lance shall I repay the debt accrued through our misdeeds.|Haldrath, the first Azure Dragoon}}
+'''Haldrath''' is a historical character in ''[[Final Fantasy XIV]]''. The son of [[Thordan I]], Haldrath was known as the Dragonseye and first [[Azure Dragoon]]. He was central in the beginning of the [[Dragonsong War]] against [[Nidhogg (Final Fantasy XIV)|Nidhogg]], during the foundation of the Holy See of [[Ishgard]]. Most of his backstory is elaborated in the [[Dragoon (Final Fantasy XIV)#Dragoon|Dragoon]] job quests, as the founder of the order.
+
+==History==
+{{Quote|Taking up his slain sire's lance, Haldrath hurled himself at Nidhogg, even as tears streamed down his face. The confrontation ended when the young man, his hand guided by Halone, landed a mighty thrust that prized out Nidhogg's eye. With a terrible roar of pain, the great wyrm took wing and fled, while jubilation reigned below.|[[Alberic Bale|Ser Alberic Bale]]}}
+[[File:Haldrath and the Eyes of Nidhogg.jpg|thumb|left|Haldrath wielding the Eyes of Nidhogg.]]
+When his father was killed by Nidhogg, Haldrath took his fallen sire's lance and stabbed out Nidhogg's [[Eyes of Nidhogg|eyes]]. Haldrath played a role in his father's slaying of [[Ratatoskr (Final Fantasy XIV)|Ratatoskr]] and partook of the dragon's eyes. He would feel remorse for this, as the deed soon cost the life of his father and four of his fellow knights.
+
+He decided to abdicate the throne and atone for their dark deeds by defending the people from reprisals against Nidhogg's minions. When Sylvestre de Dzemael and the other knights asked them about the people, Haldrath felt reassured they were in capable hands, stating that if they must bow to tradition, they would have to look to themselves for a king. As Haldrath took his leave, three other knights decided to go their separate ways, leaving the remaining four knights to found the High Houses of Ishgard. His remaining days were spent as the first Azure Dragoon, combating the [[Dravanian Horde]]'s reprisals during the beginning of the Dragonsong War.
+
+However, Haldrath was ultimately consumed by the power of Nidhogg and was entombed with the right eye, with the Holy See's fabricated legend of King Thoerdan claiming that Haldrath only took out Nidhogg's left eye. Haldrath's body never decayed in his resting place, where he remained until Archbishop [[Thordan VII]] claimed the eye as his own. Using its wellspring of [[aether]], Thordan fully awakened as the God-King primal King Thordan and his [[Knights of the Round (summon)|Knights Twelve]].
+
+A monumental stone sculpture was carved in tribute to Haldrath in [[Coerthas Western Highlands]]. The stonemason Percelle devoted thirty of his last years carving the piece, and it has stood like this for over 150 years since.<ref>''[[Final Fantasy XIV: Heavensward]]'', Sightseeing Log 43: The Pike.</ref>
+
+[[File:FFXIV ARR Haldrath.png|thumb|An image of Haldrath appears.]]
+An image of Haldrath appears from the [[Warrior of Light (Final Fantasy XIV)|adventurer]]'s Soul of the Dragoon during the confrontation with [[Estinien Wyrmblood]]. After banishing Nidhogg's aura from the Steel Vigil, the first Azure Dragoon left behind his original drachen mail for the adventurer. Haldrath is later seen in an [[Echo (Final Fantasy XIV)|Echo]] flashback by the adventurer after the defeat of Nidhogg.{{cite|FFXIV|{{icon|ffxiv|quest|Into the Dragon's Maw}}|name=Into the Dragon's Maw}}
+
+==Characteristics==
+{{Section}}
+
+==Behind the scenes==
+Haldrath's armor is inconsistent in its appearances. When the Adventurer briefly assumes the Dragoon's form in the Lv. 50 Dragoon job quest, the armor is purple in ''version 1.0'' and is black in same quest in ''A Realm Reborn''. In ''Heavensward'' in a flashback and later with the reveal of his corpse, the armor is gray.
+
+==Gallery==
+<gallery>
+FFXIV 1x Haldrath.png|Haldrath's image in version 1.0.
+FFXIV The Pike.png|The Pike, a Haldrath sculpture.
+FFXIV Haldrath body.png|Haldrath's body.
+FFXIV Haldrath.png|Haldrath in an [[Echo (Final Fantasy XIV)|echo flashback]].
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[pt-br:Haldrath]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Dragoons]]

@@ -1,0 +1,74 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Martyn
+|release=FFXIV
+|japanese=マーティン
+|romaji=Mātin
+|aka=Great Azuro, Azuro the Third
+|image=FFXIV Martyn.png 
+|race=[[Hyur]]
+|gender=Male
+|height=
+|hair=Dark blue
+|eye=Yellow
+|designer=
+|age=
+|affiliation=
+|occupatio =
+|type=npc
+|job={{icon|ffxiv|discipline|blue mage}}
+|weapon=The Spirit of the Whalaqee
+|armor=Magus Gear
+}}
+{{Quote|Greetin's, ladies and gentlemen! The name's Martyn, and today I present to you a wonder of the New World. I call it “blue magic”!|Martyn introducing Blue Magic}}
+'''Martyn''' is a [[non-player character]] in ''[[Final Fantasy XIV]].'' He is the [[Blue Mage (Final Fantasy XIV)|Blue Mage]] mentor who introduces the player character to blue magic.
+
+== History ==
+=== Early life ===
+Martyn studied foreign magic at the [[Arcanist (Final Fantasy XIV)|arcanists']] guild in [[Limsa Lominsa|Limsa]] and traveled to the [[New World|new world]] with his partner [[Whastrach]] to visit the Whalaqee that reside in Lapis Canyon. When he returned blue magic was considered impractical and the research funds were cut.<ref>Quest: Why They Call it the Blues</ref> While Whastrach chose to give up the study of blue magic, Martyn tried again, this time using his own funds and put himself in debt. On his second trip the Whalaqee people were sick with an [[Eorzea|Eorzean]] illness that can only be cured with a medicine extracted from a dream flower, although the flower can be used to create the illegal drug somnus.<ref>Quest: Scream Blue Murder</ref> Looking for a way to make enough money to pay back his debts and save the Whalaqee, Martyn sells blue mage [[Soul Crystal (Final Fantasy XIV)|soul crystals]], and equipment.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Over time adventurers claim to have been ripped off by Martyn and a yellow jacket enlists the aid of the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] to assist in investigating. They arrive just in time to witness Martyn pitch his wares, only to be interrupted by two [[Mamool Ja]] that are fended off with blue magic. The adventurers are convinced and buy all of Martyn's wares, but the yellow jacket isn't, and follows him only to find that the Mamool Ja were in on it. The yellow jacket and the Warrior of Light attempt to arrest him, but he says that the spells are legitimate and the Warrior of Light tests it out after defeating a baby kraken. Proving his claims, the yellow jacket still doesn't want Martyn selling anything for the magic being unreliable and putting people in danger. An entrepreneur by the name of [[Royse]] approaches Martyn with an offer to entertain the mass with blue magic in [[Ul'dah]] and assist the Warrior of Light in learning the art. He agrees, and takes the stage name of "The Great Azuro" to compete in the [[Masked Carnivale]].
+
+After the Warrior of Light learns more blue magic, Martyn takes them out to "train", but in actuality uses them to complete odd jobs for extra coin. He meets with some debt collectors to pay his original debt, and is robbed of his clothing because of interest. Over time Royse notices his sketchy dealings and investigates with the Warrior of Light and they discover Martyn is buying dream flowers. Royse believes he has a somnus addiction, but Martyn says he buys the flowers to save the Whalaqee from a sickness. Royse believes his story and connects him with other people that can provide dream flowers to cure the sickness.
+
+Martyn is approached by Whastrach, who is now a wealthy entrepreneur dealing with ceruleum mining. Whastrach offers to use his resources to develop and transport the medicine needed to treat the Whalaqee, and Martyn agrees. A short time later, Martyn and the Warrior of Light encounter Ceadda, a member of the Whalaqee, who tells them that while Whastrach did cure the disease as promised, he used it as a pretext to seize the ceruleum-rich Lapis Canyon, a site sacred to the Whalaqee. The enraged Martyn confronts Whastrach, who defends his actions as legal. To settle the dispute, Royse proposes they have a Blue Mage battle in the Masked Carnivale. Whastrach agrees and dons the guise of the Azulmagia to perform as the "villain" of the match. As Martyn is still recovering from an injury, the Warrior of Light represents him as "Azuro the Second".
+
+The Warrior of Light is victorious, and Whastrach keeps his word to give up his claim on the Whalaqee land. After congratulating Martyn and the Warrior of Light, he returns to the New World with Ceadda, hoping to find opportunities for ceruleum mining in non-sacred lands.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+The subsequent popularity of blue magic in the Masked Carnivale encourages others to become blue mages and Martyn gains two additional apprentices, [[P'yandih]] and [[Nutiba Buntiba]], and establishes a Blue Mage Guild. He is introduced to the newest financier of the Masked Carnivale, [[Fyrgeiss Loetkilbsyn]], the chairman of the [[Amajina & Sons Mineral Concern]] and member of the Syndicate. While interested in the resources and monsters used by the Masked Carnivale, with his own son [[Zirnberk]] competing under the stage name "[[Siegfried (Final Fantasy VI)|Siegfried]]", Fyrgeiss seems uninterested in blue magic. His motivation for backing the Masked Carnivale is to boost his flagging influence in the Syndicate. Zirnberk's victories in the arena as Siegfried will increase their prestige, while the monsters used in the Carnivale will be seized to be used as guards for the Amajina and Sons mines.
+
+Upset by this double-dealing, Martyn proposes a contest, pitting himself against Siegfried in the arena. If Siegfried wins, Fyrgeiss will gain complete ownership of the Masked Carnivale and its resources. However, if Martyn wins, Fyrgeiss will agree to hire the Blue Mage Guild as his company's guards. After researching Siegfried's techniques, Martyn is confident that he will win. However, on the day of the match, Siegfried arrives armed with top of the line [[magitek]] equipment. Martyn is unable to penetrate this new suit of armor, and in a last ditch effort attempts to force a draw by casting [[Self-Destruct]], which fails to harm Siegfried. Siegfried, realizing that it was only his equipment and not his skill that allowed him to win, refuses to accept victory, and requests a second match against "Azuro the Second".
+
+The Warrior of Light defeats Siegfried in battle to the joy of Martyn and Royse.  Fyrgeiss and Zirnberk compliment the Warrior of Light on their victory. Having witnessed the power of blue magic for himself, Fyrgeiss agrees to contact Martyn when he has jobs for the Blue Mage Guild. Martyn is satisfied with this development, and re-brands himself as "Azuro the Third" in the Masked Carnivale to compete with a fresh record.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Following one of Martyn's performances, some foreign viewers from Kugane approach Martyn and Royse; stating that what they have is a rip off of the "blue wizards" from the Fukumen Fighting Festival. On the order of Royse, Martyn travels to Kugane to investigate the festival but is robbed of his money and clothes by Gyodo, and is forced to work at a teahouse to make his money back. The Warrior of Light travels to Kugane and finds Martyn serving tea, they both investigate how to get into the festival by asking around. Eventually they come across Gyodo who remembers the warrior from before and gives them tickets out of fear. Once at the show, Martyn realizes the entertainer "bluehood" is Nutiba Buntiba who stole his magic books and soul crystals. They wait for him after the show and Martyn confronts him, with Nutiba suspiciously denying it before his boss Kageyama appears and tells them to take care with who they mess with. Martyn accepts a challenge to see who the true founder of blue magic is against [[Gogo (Final Fantasy XIV)|Golden Goliath]]. 
+
+Martyn states that he needs to gather his blue mage attire from Gyodo and believes that his fight against Golden Goliath will be easy as he would only know techniques from the monsters within the festival. The two hunt the namazu down and question who he sold his clothes to. Gyodo states that he sold various pieces to merchants at the Kogane Dori Markets and that they could be anywhere at that point. They investigate the market and come across a merchant who reveals to them that it was just bought by a young lalafell customer. The Warrior finds Nutiba and he gives the costume over to them before leaving. The Warrior delivers the set to Martyn who is confused by Nutiba's actions but sets those thoughts aside to think about the coming duel. Martyn appears in the fukumen fighting festival in his magus attire but is booed by the crowd for resembling their blue wizards. Unfazed he faces off against Golden Goliath and unleashes a barrage of powerful spells, but Golden Goliath continues standing and uses the powerful spells Holy, Flare, and a few strong punches leaving Martyn knocked unconscious and defeated. {{Section}}
+
+== Characteristics ==
+=== Appearance ===
+Martyn is a male Midlander [[Hyur]] with dark blue hair and yellow eyes. He wears a blue bilaud outfit when he is first met and on stage he wears the Magus artifact gear, and when he is recovering he wears a blue shirt with striped pants along with white bandages on his head. During his travels in Kugane, he wears a blue kimono with a gold and black sash with sandals. He wields the Spirit of the Whalaqee in battle.
+
+=== Personality ===
+Martyn tends to keep secrets about his life and the reasons for his motivations, but only does so out of pride in not asking for help. He is also a penny pincher, trying to save as much coin as possible, including exploiting his students talents. Although he has a few negative traits, Martyn was doing all this to save the lives of the Whalaqee from the New World, and will fight for doing the right thing when the need arises. He can be a bit thoughtless at times, such as deciding to find his enemies weaknesses right before a match, including getting robbed in Kugane and working for a tea shop instead of focusing on his quest. 
+== Gallery ==
+<gallery>
+Martyn FFXIV.png|Martyn's first outfit.
+FFXIV Martyn's second outfit.png|Martyn laying low.
+FFXIV Martyn Recovering.png|Martyn Recovering.
+FFXIV The Great Azuro.png|Martyn's Magus costume.
+FFXIV Martyn vs Behemoth.png|Martyn using Aqua Breath.
+FFXIV Martyn Might Guard.png|Martyn using Mighty Guard.
+FFXIV_Martyn_in_Kugane.png|Martyn in Kugane.
+</gallery>
+
+== References ==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Hyurs]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Blue Mages]]

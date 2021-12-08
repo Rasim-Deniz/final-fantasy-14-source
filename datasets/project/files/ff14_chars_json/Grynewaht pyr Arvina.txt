@@ -1,0 +1,84 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Grynewaht pyr Arvina
+|release=FFXIV
+|japanese=グリーンワート
+|romaji=Gurīnwāto
+|lit=
+|image=FFXIV Grynewaht 1.png
+|home=
+|age=
+|dob=
+|affiliation=[[Garlean Empire]]
+|occupation=Scout
+|race=[[Garlean]]<br/>[[Roegadyn]]
+|gender=Male
+|height=
+|weight=
+|hair=Red
+|eye=Yellow
+|blood=
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}
+|abilities=
+|weapon=Spiked hammer
+|japanese voice actor=Itaru Yamamoto
+|english voice actor=James Goode
+}}
+'''Grynewaht pyr Arvina''' is a minor antagonist in ''[[Final Fantasy XIV: Heavensward]]''. He is the scout sent to [[Eorzea]] by the [[Garlean Empire]].
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Grynewaht is sent by the Garlean Empire to the [[Carteneau Flats]] as a scout. As the Warrior of Light arrives in a bid to reactivate [[Omega (Final Fantasy XIV)|Omega]], they are intercepted by Grynewaht, who engages in a furious battle to capture them and their allies. Thanks to the assistance of Nero he is defeated, and he flees upon realizing that his forces have been routed.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Grynewaht returns as an imperial officer stationed in [[Gyr Abania]]. He leads the field test of a new series of [[magitek]] automatons, which is interrupted by an ambush orchestrated by [[Raubahn Aldynn]] and the Warrior of Light. Recognizing his old nemesis from Carteneau, Grynewaht deploys the experimental technology against them, only to find himself defeated and having to flee. His incompetence and cowardice earn him a demotion from Zenos yae Galvus, and he is sent to serve as the bodyguard and muscle of the acting viceroy of [[Doma (Final Fantasy XIV)|Doma]], Yotsuyu.
+
+Grynewaht accompanies Yotsuyu to the fishing village of Isari on a mission of terror. They happen upon [[Gosetsu Daito|Gosetsu Everfall]] who lets himself be captured to forestall the execution of the Isari villagers and give the Warrior of Light and their allies time to formulate a counterattack. Grynewaht enjoys pummeling Gosetsu, though ends up frustrated by the samurai's refusal to reveal the location of [[Hien Rijin|Hien]]. He is forced to flee along with Yotsuyu when the forces of the Confederacy—rallied by the Warrior of Light—drive the imperials out of Isari.
+
+Following the failed assassination attempt on Zenos by [[Yugiri Mistwalker]] and the Warrior of Light, slapped by Yotsuyu when he attempts to help her up following being thrown to the ground by Zenos, Grynewaht learns the Warrior is in Doma. He delights of receiving orders to kill the Warrior's group and pursues his quarry the [[Azim Steppe]] with a platoon and magitek automatons. He arrives a moment too late: the Warrior of Light, having won the title of khagan, is backed by the united might of the steppe's [[Au Ra|Xaela]] tribes, and Grynewaht is defeated and forced to flee.
+
+Motivated by his desire to become strong enough to have his revenge, Grynewaht is subjected to an unspecified "procedure" at the behest of Yotsuyu. Grynewaht turns into a magitek cyborg monster, serving as Yotsuyu's last line of defense during the Liberation Front's attack on Doma Castle. Grynewaht engages the Warrior of Light in a suicidal frenzy before being defeated.
+
+==Characteristics==
+===Appearance===
+Grynewaht is a large Hellsguard [[Roegadyn]] with a permanently ruddy complexion. He wears armor similar to that of [[Rhitahtyn sas Arvina]], indicating him to be an imperial officer.
+
+===Personality===
+Grynewaht is a churlish brute, possessing only the most rudimentary grasp of strategy and tactics and relying on the strength of arms to crush his foes. He enjoys running down his enemies and bears deep-seated grudges, specifically towards the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and the [[Scions of the Seventh Dawn]] for constantly defeating and humiliating him.
+
+Upon his demotion to bodyguard to [[Yotsuyu goe Brutus]], Grynewaht is desperate to regain his position in the Garlean army, and fears the acting viceroy's anger. Likewise, he is just as fearful of the Garlean prince, [[Zenos yae Galvus]].
+
+He tends to say "its like all my namesdays have come at once" whenever he thinks he has the advantage in battle.
+
+===Abilities===
+Though lacking a strategic mind, Grynewaht is a formidable combatant, wielding both a gunhammer and a gunshield similar to [[Nero tol Scaeva]] and Rhitahtyn sas Arvina, respectively. He gained his rank through his strength and battlefield aptitude; he is, if nothing else, a survivor. Even members of the Confederacy admit that while a halfwit, he is a "mean bastard" on the battlefield.
+
+==Gameplay==
+Grynewaht is fought as a boss on four separate occasions. The first three are storyline battles occurring in Carteneau Flats, the [[Fringes]], and the Azim Steppe. The final battle, against Hypertuned Grynewaht, takes place as the final boss of the {{icon|ffxiv|duty|Doma Castle}} duty.
+
+===[[Triple Triad (Final Fantasy XIV)|Triple Triad]]===
+{{Card FFXIV
+|name = Grynewaht
+|image = [[File:Grynewaht_Triple_Triad_Card.png]]
+|number = 191
+|total = 22
+|type = Garlean
+|description = “It's like all my namedays have come at once!”
+|obtain = Won from [[Final Fantasy XIV Triple Triad players#Imperial_Deserter|Imperial Deserter]], The Lochs (32, 30); [[Final Fantasy XIV Triple Triad players#Lewto-Sue|Lewto-Sue]], Amh Araeng (26, 16)<br>Randomly obtainable from {{icon|ffxiv|duty|doma castle}}
+}}
+
+==Gallery==
+<gallery>
+FFXIV Grynewaht 2.png|Grynewaht and his troops.
+FFXIV Grynewaht 3.png|Grynewaht fighting the Warrior of Light.
+</gallery>
+
+==Etymology==
+Grynewaht is a name from the Roegadyn language combined from the words ''gryne'', meaning "green", and ''waht'', meaning "guard". His surname of Arvina is Latin for "fat," and is a popular choice of surname for Roegadyns with Garlean citizenship, and is shared with Rhitahtyn sas Arvina, who has no relation to Grynewaht.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Antagonists]]
+[[Category:Garlean citizens]]

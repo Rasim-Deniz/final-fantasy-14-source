@@ -1,0 +1,75 @@
+{{sideicon|FFXIV}}
+{{Infobox_character
+|name = Unsavory Imp
+|release = FFXIV
+|japanese = 
+|image = FFXIV Unsavory Imp.png
+|race = [[Imp]]
+|gender = 
+|height = 
+|hair = 
+|eye = 
+|designer = 
+|age = 
+|job = 
+|weapon =
+|armor = 
+|romaji = 
+|affiliation = Continental Circus
+|occupation = 
+|type=npc
+|home =}}
+The '''Unsavory Imp''' is a [[non-player character]] in ''[[Final Fantasy XIV]]'' who only appears in the [[All Saints' Wake]] seasonal events, first appearing at the 2018 edition and returning in 2019.
+
+This Imp can be found in the open instance of the [[Haunted Manor]]. It lets players to transform into notable non-player characters from ''Final Fantasy XIV'' storylines while inside the manor.
+{{clear}}
+== Transfigurations ==
+[[File:FFXIV NPC Transfigurations.png|230px|thumb|Players using emotes while transformed into notable characters.]]
+By talking to the Unsavory Imp, the players turn into known non-player characters. When transformed, the players get the Transfiguration status effect, which lasts 30 minutes, but can be cancelled by selecting it. The Transfiguration status will also be removed if the player leaves the Haunted Manor.
+
+The available characters are divided into expansion options, and each one has a description.
+
+* '''''[[A Realm Reborn]]'':''' ''A journey to forge this realm anew.''
+** '''[[Kan-E-Senna]]:''' ''A Padjali woman as gentle yet indomitable as nature itself.''
+** '''[[Merlwyb Bloefhiswyn]]:''' ''A stalwart Roegadyn woman of unshakable conviction.''
+** '''[[Raubahn Aldynn]]:''' ''A rugged Hyuran man unmatched in loyalty and valor.''
+** '''[[Nanamo Ul Namo]]:''' ''A charming and compassionate Lalafellin lady of noble birth.''
+** '''[[Cid nan Garlond]]:''' ''A courageous and clever Garlean man admired by many.''
+** '''[[Nero tol Scaeva]]:''' ''A wry and ambitious Garlean man who hates to be outdone.''
+** '''[[G'raha Tia]]:''' ''An eccentric Miqo'te man crimson of both hair and eye.''
+** '''[[Minfilia Warde]]:''' ''A compassionate Hyuran woman who leads a "secret" organization.''
+** '''[[Rhitahtyn sas Arvina]]:''' ''A formidable Roegadyn man recognized for his tactical brilliance.''
+** '''[[F'lhaminn Qesh]]:''' ''A stunning Miqo'te woman famed as a peerless songstress.''
+** '''[[Hildibrand Manderville]]:''' ''A Hyuran gentleman with an irrepressibly inquisitive nature.''
+** '''[[Nashu Mhakaracca]]:''' ''A loyal Miqo'te woman who assists a gentleman inspector.''
+
+* '''''[[Heavensward]]'':''' ''A journey to end a conflict of one thousand years.''
+** '''[[Aymeric de Borel]]:''' ''A blue-eyed Elezen man with a heart noble and true.''
+** '''[[Hilda Ware]]:''' ''A tenacious half-Elezen woman who fights for what is just.''
+** '''[[Krile Mayer Baldesion (Final Fantasy XIV)|Krile Mayer Baldesion]]:''' ''A robed Lalafellin woman of the intellectual persuasion.''
+** '''[[Estinien Wyrmblood]]:''' ''A proud Elezen man unmatched in the art of the lance.''
+** '''[[Leofard Myste]]:''' ''A daring Hyuran man who lives free as a bird.''
+
+* '''''[[Stormblood]]'':''' ''A journey to liberate lands near and far.''
+** '''[[Hien Rijin]]:''' ''A dauntless Hyuran man of integrity from the Far East.''
+** '''[[Yugiri Mistwalker]]:''' ''A devoted Auri woman who has mastered the art of the shinobi.''
+** '''[[Magnai Oronir]]:''' ''A haughty but valorous Auri man with a yearning heart.''
+** '''[[Sadu Dotharl]]:''' ''An Auri woman strong of body and stronger of will.''
+** '''[[Cirina Mol]]:''' ''A sweet Auri woman who lives according to her faith.''
+** '''[[Lyse Hext]]:''' ''A crimson-garbed Hyuran woman fleet of foot and fist.''
+** '''[[Asahi sas Brutus]]:''' ''A vindictive Hyuran man of savage political cunning.''
+** '''[[Tenzen (Final Fantasy XIV)|Tenzen]]:''' ''A Hyuran man whose strength and compassion made him a legend.''
+
+* '''''[[Shadowbringers]]'':''' ''A journey to reclaim the night sky.''
+** '''[[Y'shtola Rhul]]:''' ''A sagacious Miqo'te woman skilled in the magical arts.''
+** '''[[Urianger Augurelt]]:''' ''An Elezen man who reads the stars as easily as his tomes.''
+** '''[[Thancred Waters]]:''' ''A handsome Hyuran man who fights to protect those he loves.''
+** '''[[Ryne]]:''' ''A dainty Hyuran woman who chose to carve her own fate.''
+
+==Behind the scenes==
+The Unsavory Imp plays a similar role to one appeared in the 2014 edition of the event who also transformed players, though randomly. This one let the players transform into the Eorzean Alliance leaders, the ''A Realm Reborn'' [[Minfilia Warde|Minfilia]], and some [[voidsent]] creatures.
+
+The Unsavory Imp's transfigurations are the only way the players have to play as a non-playable race: [[Padjal]] ([[Kan-E-Senna]]), [[Garlean]] ([[Cid nan Garlond|Cid]] and [[Nero tol Scaeva|Nero]]), and [[Hyur]]/[[Elezen]] hybrid ([[Hilda Ware|Hilda]]). However, they use Hyur emotes (except Nero, who uses Elezen's). [[Cid nan Garlond|Cid]] and [[Nero tol Scaeva|Nero]] are included in the ''A Realm Reborn'' option, but they have their ''Stormblood'' attires. The same happens with [[Estinien Wyrmblood|Estinien]], who is included in ''Heavensward'' while wearing his ''Stormblood'' armor.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]

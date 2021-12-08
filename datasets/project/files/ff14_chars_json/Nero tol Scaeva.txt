@@ -1,0 +1,138 @@
+{{sideicon|prime=FFXIV|FFRK}}
+{{infobox character
+|name=Nero tol Scaeva
+|release=FFXIV
+|japanese=ネロ・トル・スカエウァ
+|romaji=Nero toru Sukaewa
+|aka = Nero Scaeva, Iron Nero, Outlandish Man {{j|異国風の男|Ikokufū no Otoko|Foreign-styled Man}}
+|image=Nero tol Scaeva.png
+|home=
+|age=34
+|dob=
+|affiliation=[[Garlean Empire]] (''A Realm Reborn'') <br/>[[XIVth Imperial Legion]] (''A Realm Reborn'')<br/>[[Garlond Ironworks]] (''Stormblood'')
+|occupation=Tribunus laticlavius (''A Realm Reborn'')<br/>Consultant (''Stormblood'')
+|education=Engineering
+|race=[[Garlean]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|type=npc
+|job={{icon|ffxiv|discipline|marauder}}<br>{{icon|ffxiv|discipline|gladiator}}
+|abilities=
+|japanese voice actor=Riki Kitazawa
+|english voice actor=Ian Steele (''A Realm Reborn'')<br>[[wikipedia:John Heffernan (actor)|John Heffernan]] (''Heavensward'')
+|boss page=Praetorium
+}}
+{{Quote|Tribunus laticlavius of the XIVth Imperial Legion, known in his native Garlemald for his groundbreaking contributions to the field of magitek. In recognition of his capabilities, he was made Gaius van Baelsar's second-in-command. Even so, he continues to oversee the development of magitek weaponry, which ever remains his foremost passion. In battle, Nero wields ''Mjolnir'', a mighty gunhammer of his own design.|Official website}}
+'''Nero tol Scaeva''' is a character from ''[[Final Fantasy XIV]]'', and a major antagonist in ''A Realm Reborn''. He holds the rank of tribunus laticlavius of the [[XIVth Imperial Legion]] of the [[Garlean Empire]], and serves as the second-in-command to legatus [[Gaius van Baelsar]].
+
+==History==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|Garlond... Soon you will be made to know the true power of magitek.|Nero tol Scaeva}}
+[[File:FFXIV Imperial Legatus.png|thumb|left|Nero and his fellow officers with Gaius.]]
+Nero joins Gaius Van Baelsar's new campaign to continue the [[Garlean campaign|subjugation of Eorzea]] in the aftermath of the [[Seventh Umbral Era]]. He leads the legion's main intelligence branch, the Frumentarium, and minutes after his arrival at [[Castrum Occidens]] he roots out a spy among the ranks and slays him in cold blood.
+
+Nero spies on the Warrior of Light whom he witnesses slaying [[Ifrit (Final Fantasy XIV)|Ifrit]]. When confronted by [[Livia sas Junius]] for straying from his assigned objective, she warns him she will kill him herself if he fails. Nero again spies on the Warrior after their triumph over [[Titan (Final Fantasy XIV)|Titan]], discussing the XIVth's dealings with [[Lahabrea]]. [[Rhitahtyn sas Arvina]] joins him after Lahabrea leaves, and he denounces Nero for being so willing to trust the [[Ascian]]. He warns Nero that his loyalty should be to Garlemald first.
+
+Gaius meets with his subordinates after the [[Ultima Weapon (Final Fantasy XIV)|Ultima Weapon]] absorbs the active [[primal]]s; Gaius tasks Nero with finishing the final touches on it.
+
+Later, he is encountered in the [[Praetorium]]. Seething in rage, Nero declares he will earn the respect he feels he deserves by defeating the Warrior of Light's party, and proclaims he will finally prove himself as [[Cid Garlond]]'s better. The Warrior and their friends defeat him and Nero flees, the only known Tribunus to survive a confrontation with the Warrior of Light.
+
+====The Crystal Tower====
+{{Quote|Such a terrible mess. Yet it does leave the door wide open, so to speak. One cannot help but be impressed. I'm beginning to understand the reliance you place on adventurers, old friend. So...this is the legacy the Allagan Empire left behind. If my readings are correct, the energy source waiting atop the tower is a match for even the Ultima Weapon. Nay...more than a match. Heh heh heh... A new toy for me to play with. I believed the fates had conspired to deny me my just rewards once again...but it would seem they had a greater destiny in mind for me. And so long as my ambition burns, I shall strive to seize it. The dream lives on, Cid... Do not disappoint me!|Nero, outside the Crystal Tower}}
+[[File:Nero Void.png|thumb|Nero getting abducted to the World of Darkness.]]
+Now living in exile from his homeland, Nero bides his time before learning of the Crystal Tower. After the Warrior of Light and NOAH complete the Labyrinth of the Ancients, Nero investigates the tower premises and finds a power source atop that is possibly stronger than the heart of the Ultima Weapon. Once the entrance to Syrcus Tower is open, intending to have Cid's group and the Warrior of Light do the heavy lifting, Nero joins NOAH in their expedition while revealing the true identities of [[Doga (Final Fantasy XIV)|Doga]] and [[Unei (Final Fantasy XIV)|Unei]]. Nero's plan falls apart when the [[Cloud of Darkness (Final Fantasy XIV)|Cloud of Darkness]] spirits him into [[the World of Darkness]] when he attempts to save Unei so he can use her to control the entity.
+
+Ending up in the Realm of Darkness, Nero absorbs the [[The Void (term)|void-ridden]] atmosphere while fending off the voidsent that the Cloud of Darkness sent to kill Doga and Unei in its stead. After being found by the Warrior of Light and [[G'raha Tia]], Nero accompanies them on their run back to Eorzea. Though weakened as the portal closes, Nero is purified by Doga and Unei as he returns to [[Eorzea]] with Cid's help.
+
+{{Quote|The Crystal Tower slumbers again, then. 'Tis too quiet for my taste. Good-bye, Cid. I must put all this at my back. Possibility beckons, and I am bound to follow. A new dawn has come for me.|Nero}}
+Although he disappears from the group shortly after their escape from the tower, Cid believes Nero won't be causing any further trouble for the time being. Nero discards his remaining piece of Garlean technology and declares a new day has dawned for him.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Nero searches the [[Carteneau Flats]] for the still-dormant [[Omega (Final Fantasy XIV)|Omega]], remarking that they "are going to have ''so'' much fun."
+
+{{Quote|Hahahahahahahaha! Yes! Fly free, my pretty! Show us what you can do!|Nero}}
+In the events of ''The Far Edge of Fate'', Nero assists the Warrior of Light in defeating the primal [[Shinryu (Final Fantasy XIV)|Shinryu]] by resurrecting Omega from beneath the Carteneau Flats. His intentions are never made clear and both Omega and Shinryu's ultimate fate is unknown as the pair are flung east into [[Ala Mhigo|Ala Mhigan]] lands.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:FFXIV Nero SB.png|thumb|Nero joins the team.]]
+During the course of Cid's investigation of the whereabouts of Omega, Nero is hired by [[Jessie (Final Fantasy XIV)|Jessie]] to be part of the team, much to Cid's consternation. Nero journeys into a portal that leads to the [[Interdimensional Rift (Final Fantasy XIV)|Interdimensional Rift]] alongside Cid, Biggs, Wedge, and the Warrior of Light where they are subjected to tests by Omega. After passing the initial trials, he sets up a base inside the rift with Cid. He provides support to the Warrior of Light as they face Omega's challenges, including giving them a gravitational device needed to face the monster known as [[Catastrophe (Final Fantasy V)#Final Fantasy XIV|Catastrophe]]. When Biggs and Wedge are nearly killed Nero helps Cid take them to the Conjurer's Guild to be healed. He chastises Cid, who is guilt-ridden for his role in reviving Omega, for losing sight of his role as a scientist.
+
+When Omega is ready to continue its trials, Nero reenters the Rift with the rest of the team. He reveals an upgraded version of his old armor and gunhammer, which he uses to fight alongside Cid and the Warrior of Light against a number of Omega's creations. Once the group reaches the [[Sigmascape]], the location of their next series of tests, he sets up base with Cid to give support to the Warrior of Light. When Nero is temporarily left alone inside the Rift, he is badly wounded by Omega. He hides his injuries until after they defeat [[Kefka Palazzo|Kefka]], whereupon he collapses and is taken to be treated.
+
+Though he is still too injured to join the team in the Rift, he is able to leave his bed in order to talk to Cid while the latter is preparing for the final battle against Omega. This discussion allows Cid to overcome his reluctance of using technology developed by his father during the fight. Later, after Omega has been defeated, Cid goes to the infirmary to check on Nero, only to find that he has already left after taking a large amount of gil from Cid's account as payment for his work.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+In the alternate timeline following the [[Umbral Calamity|Eighth Umbral Calamity]], Nero is one of the few Ironworks members who stayed with Cid, and continued to work with him for decades to avert it.
+
+Nero is later tracked down and recruited to assist Garlond Ironworks in developing a cure for [[Enthrallment|tempering]], despite claiming to not have any interest in the matter. Having heard of his alternate self’s exploits in averting the Eighth Umbral Calamity and of Allag's own inability to make such a cure, he decides to lend his expertise.
+{{clear}}
+
+==Characteristics==
+===Appearance===
+[[File:Nero XIV 01.jpg|thumb|Nero without his helmet.]]
+Nero is a blond man in maroon suit of armor with a dragon-like helmet. He uses a gunhammer called ''[[Thor's Hammer (weapon)|Mjolnir]]'' as his primary weapon, but also wields a [[Gunblade (weapon type)|gunblade]]. Unlike the other Tribunes, Nero prefers to not wear his helmet unless he's attending formal events or is in the thick of combat. He wears an "outlandish" traveling gear and a trench coat and a mask while investigating the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]]. During his time as a consultant of the Ironworks, he wore the standard Garlond Ironworks uniform, though colored with his usual red palette as well as a pair of shades.
+
+===Personality===
+While he can put on a polite, cultured air for superiors and soldiers alike, Nero is a coldblooded leader who shows little mercy to his subordinates for even the smallest infractions. A schemer and a social climber, Nero resents [[Cid nan Garlond|Cid]] for outdoing him in [[magitek]] engineering and for being [[Gaius van Baelsar|Gaius's]] former favored subordinate, whose shadow Nero feels he can never escape. When Cid betrayed the empire Nero felt he would finally have his chance to outshine him. To his dismay he finds that Cid's betrayal only elevated his legendary status in the minds of the Garlean people.
+
+{{spoiler}}
+Upon defecting from the empire, Nero remains smug, eccentric and arrogant as ever, especially with Cid, but becomes slightly more friendly, albeit patronizingly so, and aids in the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light's]] efforts. He claims to follow the same creed as Cid's company, "freedom through technology." While he is technically a "consultant" to Garlond Ironworks, Nero doesn't take them for granted, as he aids Cid in saving [[Biggs and Wedge (Final Fantasy XIV)|Biggs and Wedge]].
+{{endspoiler}}
+
+==Gameplay==
+{{main|Praetorium}}
+Nero is fought as part of the final sequence of bosses in the Praetorium. Wielding his gunhammer, ''Mjolnir,'' Nero can attack with powerful crushing blows and gunshots as well as summon torrents of [[Lightning (element)|lightning]]. He can summon Magitek [[Death Claw (enemy)|Deathclaws]] and [[Iron Giant|Magitek Colossi]] to aid him.
+
+Nero also fights alongside the player character during single player instances during the Omega questline in two different ways. He fights using a gunblade and wearing his armor and hammer in the "Iron Nero" form.
+
+== Musical themes ==
+{{audio|filename=XIV Steel Reason.ogg|title="Steel Reason"}}
+The theme "Steel Reason" plays in all the battles against Nero and the other Tribunes. It was composed by [[Nobuo Uematsu]].
+{{clear}}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Nero tol Scaeva FFXIV.png|thumb|left]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear|left}}
+
+=== ''[[Final Fantasy Trading Card Game]]'' ===
+[[File:Nero TCG.png|thumb|left|100px]]
+Nero appears with a lightning-elemental card bearing his official render.
+{{clear|left}}
+
+=== ''[[Triple Triad (Portal App)|Triple Triad]]'' ===
+[[File:464a Nero tol Scaeva.png|thumb|left|100px]]
+Nero appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear|left}}
+
+==Gallery==
+<gallery>
+Nero profile.png|Nero's profile.
+Nero XIV 02.jpg|Nero's gunblade.
+Nero XIV 03.jpg|Nero with helmet.
+Nero Praetorium.jpg|Nero prepared to fight at the [[Praetorium]].
+Nero Syrcus Tower.png|Nero in his private outfit.
+FFXIV ARR Nero World of_Darkness.jpg|Nero in the World of Darkness.
+FFXIV Nero GI.png|Nero as a member of Garlond Ironworks.
+FFXIV Power-up Nero.png|Nero with his upgraded Mjolnir.
+FFXIV Rise of a New Sun Artwork.jpg|Nero in ''Rise of a New Sun'' artwork.
+</gallery>
+
+==Etymology==
+{{Etym|Nero}}
+
+His last name is likely drawn from [[wikipedia:Marcus Cassius Scaeva|Marcus Cassius Scaeva]], a centurion in Julius Caesar's army at the Battle of Dyrrhachium, and later one of Caesar's partisans. Marcus was also known for dressing in red armor.
+
+{{navbox characters FFXIV}}
+
+[[es:Nero tol Scaeva]]
+[[pt-br:Nero tol Scaeva]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists|Scaeva, Nero]]
+[[Category:Warriors]]
+[[Category:Garleans]]
+[[Category:Garlean citizens]]

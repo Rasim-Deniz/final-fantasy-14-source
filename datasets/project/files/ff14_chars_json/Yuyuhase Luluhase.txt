@@ -1,0 +1,60 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Yuyuhase Luluhase
+|japanese = ユユハセ・ルルハセ
+|romaji = Yuyuhase Ruruhase
+|aka = Golden Eye Yuyuhase
+|release = FFXIV
+|image = Golden-Eye_Yuyuhase.png
+|race = Dunesfolk [[Lalafell]]
+|gender = Male
+|affiliation = *[[Brass Blades]]
+*[[Grand Company#The Crystal Braves|Crystal Braves]]
+|occupation = 
+|hair = Blond
+|eye = Gold
+|age = 45
+|laterality = Right-handed
+|type = npc
+|job = {{icon|ffxiv|discipline|gladiator}}
+|weapon = Admantite Winglet
+}}
+{{Quote|Those who believe this company will see no riches are shortsighted fools. The giving of oneself 'tis an investment in the future─thus did I sign my name to the cause.|Yuyuhase}}
+'''Yuyuhase Luluhase''' is a [[non-player character]] in ''[[Final Fantasy XIV]]''. Previously employed as an [[aetheryte]] guard, he later signs up for the Crystal Braves.
+
+== History ==
+===Early life===
+Growing up as a beggar, Yuyuhase labored hard and long to escape his poverty, eventually establishing his own porter service—only to see it vanish after suffering exploitation at the hands of wicked merchants. Undaunted, he began taking on work as a bodyguard, and in time rose through sellsword ranks before joining the Brass Blades. It was then that the Dunesfolk first met [[Lolorito Nanarito|Lolorito]] and began performing discreetly certain dubious acts for the monetarist.
+
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+During the period before the calamity, Yuyuhase had a minor role serving alongside Lulumo as an aetheryte guard at Merchant Strip in [[Ul'dah]].
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+[[File:Yuyuhase_gpose.png|thumb|Yuyuhase at Raubahn's Push.]]
+Yuyuhase is among the initial recruits for [[Alphinaud Leveilleur|Alphinaud's]] Crystal Braves, where he is distributed the ultramarine uniform during its inauguration. During the search for the Harriers in Coerthas he gets in a skirmish with one of them outside Boulder Downs, allowing the Warrior of Light to follow a trail of blood to catch the heretic meeting with a shady merchant.
+
+[[Riol Forrest|Riol]] becomes suspicious of Yuyuhase and [[Ilberd Feare|Ilberd]] when they begin telling contradictory stories about a shipment of black market weapons from a merchant involved in the unrest in [[Ul'dah]], and warns the Warrior of Light of something not right within the Crystal Braves. The Braves turn on the [[Scions of the Seventh Dawn]] and [[Raubahn Aldynn|General Raubahn]] at the sultana's banquet, with Yuyuhase's men holding Alphinaud at swordpoint.
+
+=== ''[[Final Fantasy XIV: Heavensward]]''===
+When the Warrior of Light, Alphinaud and [[Yugiri Mistwalker]] attempt to rescue Raubahn, who had been taken to [[Halatali]] for execution, Yuyuhase confronts them in battle alongside Ilberd and [[Laurentius Daye|Laurentius]]. After being defeated, he flees.
+
+He is seen again alongside Laurentius during The Griffin's assault on Baelsar's Wall, smugly looking on as the Resistance soldiers are massacred.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+After the liberation of [[Ala Mhigo]], Raubahn informs the Warrior of Light that Laurentius and Yuyuhase have been found and arrested. He asks their opinion of what should be done with them, and says that he will bring their opinion into consideration when they are brought before trial.
+
+== Characteristics ==
+=== Appearance ===
+Yuyuhase is a Dunesfolk Lalafell with blond hair and gold eyes. He wears the ultramarine uniform of the Crystal Braves.
+
+=== Personality ===
+He is chiefly and unabashedly preoccupied with the accumulation of wealth. He frequently bears a smug grin, and to add to his more insufferable traits, he expresses annoyance to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] at having to get himself in harm's way while pursuing Harriers in the [[Coerthas Central Highlands]], despite having volunteered as a soldier in the Crystal Braves.
+
+==Gameplay==
+Golden Eye Yuyuhase is fought during the [[Quest Battle|Special Instance]] in Main Scenario Quest {{icon|ffxiv|quest|Keeping the Flame Alive}}.
+
+In ''[[Final Fantasy XIV: Shadowbringers]]'' when [[Elidibus (Final Fantasy XIV)|Elidibus]] challenges the Warrior of Light to reenact their journey, he creates simulacrums of many of the opponents they faced in the past to fight them.  One of these is Yuyuhase, who fights the Warrior of Light alongside simulacrums of Ilberd and Laurentius.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lalafells]]

@@ -1,0 +1,63 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Leveva Byrde
+|release=FFXIV
+|japanese=レヴェヴァ
+|romaji=Reveva
+|aka=Leveva Heavensreader
+|image=FFXIV Leveva.png
+|home=[[Sharlayan]]
+|age=16
+|affiliation=
+|occupation=
+|education=Sharlayan astrology
+|race=[[Hyur]]
+|gender=Female
+|height=
+|weight=
+|hair=Lavender
+|eye=Purple
+|type=npc
+|job={{icon|ffxiv|discipline|astrologian}}
+|weapon=Atlas
+|armor=
+}}
+'''Leveva Byrde '''also known as '''Leveva Heavensreader''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is an [[Astrologian (Final Fantasy XIV)|Astrologian]] from [[Sharlayan]], intent on sharing the practice with Eorzeans.
+
+==History==
+===Early Life===
+Leveva's parents both died early in her life-her mother during childbirth and her father a few years after. She was taken in by her grandfather [[Professor Mace|Mace]], a renowned professor of atromancy. After learning that Ishgard will host an envoy of Sharlayan astrology she made preparations to depart for Eorzea.<ref name=EE243>''[[Encyclopædia Eorzea: The World of Final Fantasy XIV]]'', pag. 243</ref>
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV-Leveva-Quimperain.png|thumb|Leveva with Quimperain.]]
+Leveva arrives in [[Eorzea]] accompanying her grandfather, Professor Mace, who was given permission by the Sharlayan Forum visit the realm. The journey was far from uneventful, as her party was forced to detour through the [[South Shroud]]. It was there that Warrior of Light and [[Jannequinard de Durendaire|Jannequinard]]'s retainer, [[Quimperain Evertrue|Quimperain]], met her party waylaid by bandits. Upon seeing the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Professor Mace tossed his soul crystal to the adventurer. His granddaughter stated this event was foretold in the stars, and she will assist the Warrior of Light to learn to use the Soul Crystal.
+
+Leveva later takes the Warrior of Light to open the gates of the heavens (due to Jannequinard shirking his responsibility), explaining much about Eorzea's constellations. These attempts are frequently marred by persistent attacks by various bandits and pirates -- most led by a tattoed elezen arcanist named [[Celie]]. It soon becomes apparent that agents of the Old World are attempting to retrieve Leveva before she can spread her teachings against Sharlayan's isolationist policies. These came to a head at the Steel Vigil, where a Sharlayan thaumaturge attempted to have her extradited by airship.
+
+Her attempts to share her teachings within the Holy See of Ishgard were confounded by similarly close-minded clergy of The Vault, who tried to deflect her attempts to hold a symposium by posting them in outlying settlements. She nonetheless turned this to her advantage by applying a direct demonstration of astrologian healing magicks on wounded knights and hunters. During this time, Jannequinard confided that he knew her father [[Rufin]], who inspired him to try to share Sharlayan Astrology within the Holy See before he was slain. He gives his diary to her.
+
+After assisting the chocobo hunters of Tailfeather, they ultimately confront and slay the mercenary Celie, who has persistently tried to bring her back to Sharlayan on charges of treason. Leveva reflects on Sharlayan's growing trend of isolationism in the past two centuries, and suspects she knows who the man that hired Celie and the other agents is. The man in question, [[Sevestre Albright|Sevestre]] of the Bibliothecs, is later encountered in the abandoned village of Hemlock, where he reveals he has her grandfather detained and threatens to have her mother taken hostage.
+
+Leveva gleaned from her father's diary that Sevestre was behind Rufin's murder, having later used it justify the Sharlayan exodus in the wake of the Garlean invasion. But with her family being threatened by the Bibliothecs, and Sevestre being an advanced astrologian without peer, she is about ready to give in and go quietly. Jannequinard suggests they not give up yet, as they may still have a chance by tricking Sevestre into thinking they still have incriminating information. As they confront him in the abandoned streets in the [[Dravanian Hinterlands]], they manage to best him in battle even as he tries to manipulate time itself. Confiscating Rufin's diary, she manages to blackmail him into releasing her grandfather and backing off on his attempts to suppress the spread of Sharlayan Astrology.
+
+Returning to Ishgard, Jannequinard reveals Leveva's new solution to deal with any future threats from the Old World as he introduces the newest member of the Astrologicum: "Lord Rufin." The other astrologians are not particularly impressed with her disguise.
+
+==Characteristics==
+===Appearance===
+[[File:XIV Leveva.png|thumb|Leveva.]]
+She is a female midlander [[hyur]] with purple hair. She wears the welkin garb of an Astrologian (sans the hat).
+
+===Personality===
+Leveva has a fiery ambition to embrace her destiny and is committed to her cause of teaching astromancy, even though she is hunted by mercenaries hired by the Forum. She has a mature demeanor for her age, and is stern with people who do not follow her directions.
+
+==Gameplay==
+Leveva appears as an ally NPC in several Astrologian job quests. She fights as an Astrologian, and typically gives advice to the player on how to use their job skills.
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Astrologians]]

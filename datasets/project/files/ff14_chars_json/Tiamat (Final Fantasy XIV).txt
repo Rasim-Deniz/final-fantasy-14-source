@@ -1,0 +1,77 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Tiamat (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Tiamat
+|japanese=ティアマット
+|romaji=Tiamatto
+|aka=The Dusk Wyrm
+|release=FFXIV
+|image=FFXIV Tiamat.png
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Azys Lla]]
+|age=
+|affiliation=[[First Brood]]
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Dragon
+|gender=Female
+|height=
+|weight=
+|eye=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+<!--Behind the scenes info -->
+|designer=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|Who cometh to this forsaken place and disturbeth my solitude?|Tiamat}}
+'''Tiamat''' is a great wyrm in ''[[Final Fantasy XIV]]'', one of the [[First Brood]]. She is one of the seven wyrms born of [[Midgardsormr (Final Fantasy XIV)|Midgardsormr]].
+
+==History==
+===Early life===
+When Midgardsormr and the First Brood arrived on [[Hydaelyn]], the dragons spread across the realm. Bahamut and Tiamat traveled to Meracydia where they created many dragons on the southern continent.
+
+During the Third Astral Era Bahamut fell to the invasion of the Allagan Empire under the reborn [[Xande (Final Fantasy XIV)|Emperor Xande]]. The Ascians manipulated the grieving Tiamat into summoning him back as a primal—something she regretted as the Dreadwyrm was nothing but a crude imitation. The Ascians aided the Allagans in capturing the primal and entombed him within [[Dalamud]] where he remained until [[Nael van Darnus]] summoned him back at the Seventh Umbral Calamity.
+
+The Allagans captured Tiamat and many other Meracydians and took them to Azys Lla where they were confined to the Delta Quadrant. Regretting the mistake she made with the Ascians, Tiamat made no effort to break from her bindings in penance even long after Allag fell.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+{{Quote|The release of death is denied me here, yet I desire not freedom. Nay, Father. I shall live with my regret until the world itself hath ceased to be. Such is my just punishment for consorting with Darkness—for calling forth a loathsome and lamentable creature which blackeneth my beloved's memory.|Tiamat}}
+[[File:FFXIV Midgardsormr meets Tiamat.png|thumb|Midgardsormr meets Tiamat in Azys Lla.]]
+When the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] arrives at the Delta Quadrant, Midgardsormr explains that long before [[Ishgard]]'s base betrayal, another group of mortals sought to enslave his children with [[Seventh Umbral Era|repercussions to this very day]]. They find the imprisoned Tiamat at the Antithesis who tells her story and how the "dark ones" were manipulating them long ago. She warns that Allag sealed away many primals and explains the key to peace is to eliminate the Ascian threat. Midgardsormr asks if she will finally forgive herself and break free of her bindings, but she does not wish to do so after the mistake she made and remains penitent out of guilt.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+{{Quote|Bahamut...my beloved. For vengeance...and atonement...I rise.|Tiamat}}
+The Warrior of Light, [[Estinien Wyrmblood]], [[G'raha Tia]], [[Alphinaud Leveilleur|Alphinaud]] and [[Alisaie Leveilleur]] visit Tiamat for information about [[Lunar Bahamut]]. Tiamat says she did not summon him, before realizing that Meracydian dragons [[Enthrall#Final Fantasy XIV|tempered]] by the [[Telophoroi]] have done it. Discovering that Tiamat herself was mildly tempered upon summoning the primal Bahamut, the group convinces her to join their cause while curing her tempering. Alphinaud releases her restraints; now free from Bahamut's lingering influence and determined to atone for past sins when it means killing those among her children that have mutated beyond restoration by the Allagans' actions, Tiamat flies to [[Paglth'an]] with Estinien in tow to assist the Eorzean Alliance. Tiamat and Estinien engage Lunar Bahamut and ground the primal for the Warrior to finish off. Tiamat thanks the [[Scions of the Seventh Dawn]], pledging that her remaining children will never again be deceived by the Ascians before flying away.
+
+==Characteristics==
+===Appearance===
+Tiamat is a green dragon with a morphology similar to [[Nidhogg (Final Fantasy XIV)|Nidhogg]]. Her most distinguishing traits are the spiny frills on her head, along with a beak-like mouth. There are crystalline growths on the inside and underside of her jaw, as well as from the various piercing wounds on her body, caused by the neurolink pins keeping her in place.
+
+===Personality===
+Where Nidhogg was consumed with fury and vengeance, Tiamat has been consumed by sorrow and regret in the death of her beloved, [[Bahamut (Final Fantasy XIV)|Bahamut]], and of the creation of the [[primal]] that took his form.
+
+Though Tiamat remains angry over the [[Allagan Empire]] attacking her kind and killing Bahamut, leading her to be manipulated by the [[Ascian]]s, she doesn't allow it to cloud her reason like Nidhogg. She resents the Ascians for using her and causing her people so much grief and is saddened that war continues to rage between man and dragon.
+
+Upon her imprisonment within [[Azys Lla]], Tiamat has surrendered to her sorrow and guilt, unable to forgive herself in creating the primal that would cause the [[Umbral Calamity]] and besmirch his memory. She refuses to be released, having resigned herself to her fate until the realm's end. However, it is later revealed that she had been tempered by Bahamut. Despite being under his influence, her strong will allowed her to retain her sense of self and keeps herself locked away in fear of hurting innocent people. After being cured of her enthrallment, her fears have all but vanished and moved by Estinien's words, vows to protect her children.
+
+==Gameplay==
+Tiamat appears as an ally NPC in the dungeon {{icon|ffxiv|duty|Paglth'an}}. She assists the party throughout most of the instance, using attacks borrowed from Nidhogg to deal heavy damage to enemy mobs.
+
+==Other appearances==
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:600a Tiamat.png|thumb|100px]]
+Tiamat appears as a [[Triple Triad (Portal App) cards/Final Fantasy XIV series|card]] in Triple Triad in the version playable via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Etymology==
+{{Etym|Tiamat}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Dragons]]

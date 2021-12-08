@@ -1,0 +1,46 @@
+{{infobox character
+|name=Loghrif
+|release=FFXIV
+|japanese=アログリフ
+|romaji=Arogurifu
+|lit=Aloghrif
+|image=FFXIV Logrif unmasked.png
+|home=
+|affiliation=[[Zodiark (Final Fantasy XIV)|Zodiark]]
+|race=[[Ascian]]
+|gender=Female
+|type=npc
+|armor=Shadowless Casting Set
+}}
+'''Loghrif''' is a character from ''[[Final Fantasy XIV]]''. She was one of the two [[Ascian]]s sent to [[the First]] to aid in causing the [[Umbral Calamity]]. She plays a role in the backstory of the ''[[Final Fantasy XIV: Shadowbringers]]''  expansion as well as the [[Eden (Final Fantasy XIV)|Eden's Promise]] raid storyline.
+
+==History==
+Long before the Sundering of [[the Star|their world]], originally known as Gaia before obtaining her title, Loghrif offered herself to be sacrificed as the catalyst to summon [[Zodiark (Final Fantasy XIV)|Zodiark]] into existence. Her lover [[Mitron]] convinced her not to do it, with [[Elidibus (Final Fantasy XIV)|Elidibus]] taking her place.
+
+Following the Sundering, Loghrif was brought back as an Ascian when the unsundered found one of her shards and restored her memory. Loghrif was reunited with Mitron soon after as the two were assigned to [[the First]] to prevent it from falling victim to [[The Flood|the Flood of Light]] resulting from an imbalance among the Shards of the now splintered world, caused by the Thirteenth becoming [[The Void (term)|the Void]]. [[Emet-Selch]] later ordered the pair to tip the balance so the First could be absorbed into the [[Hydaelyn|Source]] during its eighth [[Umbral Calamity]]. The First's [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Light]] defeated Loghrif and Mitron, with the former killed while Mitron was transformed into [[Eden (Final Fantasy XIV)|Eden]], the first [[sin eater]]. Influenced by Ardbert's strong desire to banish Darkness, Mitron unleashed the Light inside of him that flooded the world.
+
+Loghrif's soul remained in the First and eventually reincarnated as a girl in [[Eulmore]] who would lose her memory as a result of the altered Mitron's influence, hence adopting the name of her past life as it was whispered to her: Gaia.
+
+==Characteristics==
+As a member of the [[Convocation of Fourteen]], Loghrif is a title. Her true name is [[Gaia (Final Fantasy XIV)|Gaia]].
+
+=== Appearance ===
+=== Personality ===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Loghrif and Mitron.png|Loghrif and Mitron take Cylva to the First.
+FFXIV Loghrif glyph.png|Loghrif's glyph.
+FFXIV Logrif.png|Loghrif.
+</gallery>
+
+== Etymology ==
+"Loghrif" refers to the Scion of Light "Loghrif, the Transcendent" referred to in the profile of [[Belias (Final Fantasy XII)|Belias]] from ''[[Final Fantasy XII]]''.
+
+Her true name is Gaia. {{Etym|Gaia}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Antagonists]]
+[[Category:Ascians]]

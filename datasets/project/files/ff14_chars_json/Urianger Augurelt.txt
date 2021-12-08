@@ -1,0 +1,192 @@
+{{sideicon|prime=FFXIV|PFF|FFTCG}}
+{{infobox character
+|name=Urianger Augurelt
+|release=FFXIV
+|japanese=ウリエンジェ・オギュレ
+|romaji=Urienje Ogyure
+|lit=
+|aka=
+|image=Urianger from Final Fantasy XIV.png
+|portrait=[[File:Urianger Trust Portrait from Final Fantasy XIV.png|81px|Trust portrait.]][[File:Urianger Trust Portrait 2 from Final Fantasy XIV.png|81px|Alternate outfit Trust portrait.]]
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=[[Sharlayan]]
+|age=
+*29<!--The members of the Scions of the Seventh Dawn do not age during their time on the First due their bodies being on the Source. Please do not add an age unless information can be cited from an official source. -->
+|dob=
+|affiliation=
+*[[Circle of Knowing]]
+*[[Scions of the Seventh Dawn]]
+|occupation=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Wildwood [[Elezen]]
+|gender=Male
+|height=
+|weight=
+|hair=Gray
+|eye=Pale yellow
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=party npc
+|job={{icon|ffxiv|discipline|arcanist}} (Original)
+{{icon|ffxiv|discipline|astrologian}} (''Shadowbringers'')
+|abilities=
+|limit break=
+|weapon= 
+*Grimoire (Original)
+*''Atlas'' Star globe (''Shadowbringers'')
+|armor= Soothsayer's set
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|designer=
+|motion capture=
+|japanese voice actor=[[wikipedia:Kenn (Japanese actor)|KENN]]
+|english voice actor=
+*[[Gideon Emery]] (''Original'')<br>
+*[[wikipedia:Timothy Watson|Timothy Watson]] (''Heavensward'' onwards)
+}}
+{{Quote|An Elezen sage and scholar of prophetic teachings, Urianger was one of the first to draw the attention of Eorzeans to the peril of the Seventh Umbral Era. Formerly of the Circle of Knowing, he is infamous among adventures for the guidance he proffers via his cryptic utterances.|Official website}}
+'''Urianger Augurelt''' is a character in ''[[Final Fantasy XIV]]''. In [[Final Fantasy XIV/Legacy|the original release]] he was one of the primary characters in the [[Seventh Umbral Era]] storyline. He returns in ''A Realm Reborn'', as one of the members of the [[Scions of the Seventh Dawn]]. He is an Archon of the [[Circle of Knowing]] from the northern land of [[Sharlayan]].
+
+==History==
+{{Spoiler}}
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+Urianger didn't appear until the first of the Grand Company quests. He was used in many of the temporary Seventh Umbral Era events.
+
+Following a lead the [[Warrior of Light (Final Fantasy XIV)|adventurer]] tracked down one of the mages responsible for the Sixth Umbral Era fifteen centuries ago, and discovered Urianger, who spoke cryptically of impending doom, and asked if the adventurer was willing to face it. Regardless of their answer, he sensed their intent to arrest him. Urianger called a Familiar as a distraction while vanishing. After the Familiar's defeat, the adventurer encountered Urianger's fellow Circle member(s) who asserted the coming of a Seventh Umbral Era. It was later revealed that Urianger was involved in the reestablishment of the Grand Companies of Eorzea, which continued to combat this threat.
+
+Urianger acted behind the scenes, having been branded a heretic by the [[Garlean Empire]], and their pursuit of him distracted them from doing greater harm to the city-states. In spite of his seclusion, Urianger appeared at most gatherings of the Circle of Knowing, and accompanied Louisoix Leveilleur in the final scene of the Seventh Umbral Era quests.
+
+His words reached Inspector [[Hildibrand Manderville|Hildibrand]]. Misinterpreting his words, the buffoon concluded that he is [[Eorzea]]'s destined hero. Urianger saw no reason to discourage any man from standing up to [[Dalamud]], and allowed him this delusion.
+
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+{{Quote|''Dawn may banish even the darkness night...'' ...The words of a dear friend. I am glad of our meeting.|Urianger Augurelt to the Warrior of Light}}
+[[File:Scions of the Seventh Dawn.jpg|thumb|200px|Urianger and the other Scions of the Seventh Dawn.]]
+[[Minfilia Warde]] introduces the Warrior of Light to a delighted Urianger in [[Thanalan|Western Thanalan]], who repeats the words of Louisoix Leveilleur. After the Warrior of Light defeats [[Titan (Final Fantasy XIV)|Titan]], Urianger and some of the Scions of the Seventh Dawn are kidnapped by [[Livia sas Junius]] and her soldiers, and are held inside the [[Castrum Centri]] in [[Mor Dhona]].
+
+When the Warrior of Light and the other remaining members of the Scions of the Seventh Dawn arrive to free their captive comrades, Urianger and [[Papalymo Totolymo]] aid the Warrior in battle. After defeating the imperial forces, Urianger and the others are cornered by soldiers, but are saved by [[Cid Garlond]] and escape on his ''[[List of airships#Final Fantasy XIV|Enterprise]]''.
+
+Urianger does not permanently accompany the rest of the Scions to their new headquarters in [[Mor Dhona]]; much of the collected [[primal]]-lore would be too difficult to transport again, and Urianger finds it easier to contact the [[Students of Baldesion]] from Vesper Bay (never mind that his continued residence in the [[Waking Sands]] allows the Scions to retain ownership of the building, just in case).{{cite|FFXIV|"[[A Realm Awoken]]"}}
+
+Urianger arranges the adventurers' conflict with the new, "extreme"-power versions of the primals, and assists in the investigation into what could be allowing the [[beastmen]] to summon their gods with such overwhelming strength. He has words for anyone who has defeated Twintania in the [[Binding Coil of Bahamut]], and shares his thoughts on an old friend the Warrior of Light and [[Alisaie Leveilleur]] may have seen there. Urianger unexpectedly joins with the other Scions in the Sylphlands when they confront [[Ramuh (Final Fantasy XIV)|Ramuh]], observing the battle from afar.{{cite|FFXIV|"[[Defenders of Eorzea]]"}} Based on his research during the battle, combined with [[Y'shtola Rhul|Y'shtola's]] earlier observations during the summoning of [[Leviathan (Final Fantasy XIV)|Leviathan]], he theorizes how an immortal being—such as an [[Ascian]]—could be eliminated permanently. He continues to study this, meeting his close friend Moenbryda who arrives from Sharlayan to help.{{cite|FFXIV|"[[Dreams of Ice]]"}} Though glad to see her, he is embarrassed by her teasing flirtation.
+
+Moenbryda sacrifices her life to slay the Ascian [[Nabriales]], and Urianger takes her death especially hard, but takes comfort in learning that she had come to terms with the spiritual doubts that had plagued her.{{cite|FFXIV|"[[Before the Fall]]"}} After the Crystal Braves betray the Scions by framing them for the supposed assassination of [[Nanamo Ul Namo]], Urianger remains in the Waking Sands by hiding the building with magic. He later meets with [[Elidibus (Final Fantasy XIV)|Elidibus]], the Emissary of the Ascians who wished to discuss "fate".{{cite|FFXIV|At the end of the 2.55 Main Scenario}}
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Urianger searches for the missing Scions after the [[Ul'dahn Revolution|conspiracy]]. He tracks [[aether]] from Y'shtola after the Warrior of Light defeats [[Bismarck (Final Fantasy XIV)|Bismarck]]. She was taken to the Lifestream and if they do not hurry, she will die. Before the Warrior of Light takes off to [[Azys Lla]], Urianger gives them the White Auracite, the same that slew Nabriales. Urianger vouches for [[Unukalhai]]'s statements regarding the [[Warring Triad (Final Fantasy XIV)|Warring Triad]], adding that he is not an enemy "for now".{{cite|FFXIV|During the quests for the Extreme versions of primals}}
+
+{{Quote|He that holdeth fast unto his convictions shall never count betrayal amongst his crimes, though all the world may call him villain. My path is unchanged; my creed sacrosanct. This I believe with all my heart.|Urianger}}
+Urianger attempts to find information on ''The Gerun Oracles'' in the [[Great Gubal Library]].{{cite|FFXIV|"[[As Goes Light, So Goes Darkness]]"}} Elidibus and the leader of the [[Warriors of Darkness (Final Fantasy XIV)|Warrior of Darkness]], [[Ardbert]], find him. Disguising himself, Urianger serves as a liaison between the Warriors of Darkness and the Ascians. When the Warriors of Darkness are tasked to kill the Warrior of Light, Urianger reveals his true loyalty to the Scions, and is revealed to have orchestrated their absolution—citing Louisoix's creed. When the Scions gather at The Rising Stones, Urianger is encouraged by his group to continue spying on the Ascians for them.
+
+Urianger, while in Vesper Bay of Thanalan, would later come across the traveling samurai, [[Gosetsu]], having come all the way from [[Doma (Final Fantasy XIV)|Doma]] in search of Yugiri. He would then invite the samurai to the Rising Stones to meet with the Scions.{{cite|FFXIV|"[[The Far Edge of Fate]]"}} Urianger invites him to the Rising Stones to meet with the Scions of the Seventh Dawn, knowing that Yugiri would also be there.
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+Urianger pays the Warrior of Light and their allies a visit right before departing to Othard on their mission to aid [[Doma (Final Fantasy XIV)|Doma]] to give them a cryptic warning. He gives Alisaie a new custom rapier and magicked crystal medium to replace the aether blade she had previously relied on for battle.
+
+Sometime after Doma's liberation, Urianger hears reports of a soldier named [[Fordola rem Lupis]] who had been able to avoid both Alisaie and [[Lyse Hext|Lyse's]] combined attacks with ease, not unlike the Warrior of Light, and how the power was granted to her thanks to experimentation. He devises a means to counter it, inventing a new aetheric siphon to halt Fordola's aetheric flow, which would disorient her and render her once again vulnerable to attacks. Traveling to Gyr Abania, he presents the Warrior with the weapon, but elects to not tell the specifics of the item itself so as to catch Fordola herself by surprise.
+
+After Fordola's defeat and the planning stages to take back [[Ala Mhigo]], Urianger makes a surprise visit to [[Krile Mayer Baldesion (Final Fantasy XIV)|Krile]]. They talk about the new power Fordola had received, and the grave implications of her words of [[Zenos yae Galvus]] having been given a power surpassing that of the primals. Krile reveals this to be the [[Resonant]]; an artificial version of the [[Echo (Final Fantasy XIV)|Echo]].
+
+During the brief reprieve during the war between the Alliance and the Garlean Empire, the Scions and the Warrior of Light are hit by a strange phenomenon that pulls at their very souls, with [[Thancred Waters]] being the first to succumb to it.{{cite|FFXIV|"[[A Requiem for Heroes]]"}} When they visit him and discuss it, the phenomenon happens again, this time claiming both Urianger and Y'shtola.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Urianger and the rest of the Scions have been taken to the world of [[the First]], their souls having been called one after another by a robed figure named [[G'raha Tia]], who originally worked with the Warrior of Light during their expedition of the [[Crystal Tower (Final Fantasy XIV)|Crystal Tower]]. He had awakened from his long slumber and found his Crystal Tower in the First (one of the reflections of the [[Hydaelyn|Source world]]). The tower serves as the last bastion of hope in the wake of the halted [[The Flood|Flood]] and the [[sin eater]]s that plague the remnants of the star, [[Norvrandt]]. G'raha's summoning was flawed, as only the Scions' souls were pulled with their bodies still on the Source. Due to their strong connection to the Source their souls have a physical presence, allowing them to interact with the world around them as they would in their corporeal form.
+
+G'raha came from a future where the Source suffered two calamities that occurred on both the Source and the First where the Warrior of Light emerged victorious in the war. To prevent the calamities, he called the Scions and the Warrior of Light to the First to save the two worlds, believing that the Warrior's power would contain the primordial light blanketing the First. He asked Urianger to keep his identity a secret and frame G'raha's timeline to his friends as a possible future outcome that he foresaw.
+
+Urianger met up with the other Scions and everyone parted ways to keep an eye on the developments across Norvrandt while slaying sin eaters. He familiarized with the land of Il Mheg and the fae that inhabit it, and learned their language and of the First's concept of aether and its connection to the Black Rose. He kept in touch with Thancred and his charge, a [[Ryne|reincarnated "Minfilia",]] whom he rescued from [[Eulmore]]. Urianger and Y'shtola fell out when she became frustrated with his insistence on secrecy, unable to fully trust him. The future G'raha spoke of plagued him, and thus Urianger took up astrology to try and explore this supposed future.
+{{Endspoiler}}
+{{clear}}
+
+==Characteristics==
+===Appearance===
+[[File:Urianger Augurelt FFXIV 5.0.png|thumb|Urianger in ''Shadowbringers''.]]
+Urianger is a Wildwood [[Elezen]] in a long black-and-white cloak, the hood pulled over his head. He has long ears and wears goggles that conceal his eyes. He bears the [[Tattoo (body modification)|tattoo]] unique to the Circle of Knowing. He carries a staff once used by [[Limsa Lominsa|Arcanists]] in the original game.
+
+During the events of "Soul Surrender," he wears a set of Orthodox robes and briefly a partial mask that initially conceals his identity. When his visage is revealed, he is shown to have light gray hair and pale yellow eyes. Following the conflict with the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]], Urianger returns to his previous outfit in ''A Realm Reborn.''
+
+In ''[[Final Fantasy XIV: Shadowbringers]]'', Urianger adopts an entirely new appearance following his decision to become an astrologian. His face is fully revealed, and he wears the Weathered Soothsayer chiton, although his jewelry is gold rather than silver.
+
+===Personality===
+{{Quote|In prophecy are a myriad truths concealed. The eye of man decreeth which shall be revealed.|Urianger}}
+Urianger often speaks in poetry and riddles. He is well-versed in the [[prophecy]] pointing to the Seventh Umbral Era, and recites a verse at nearly every encounter. Though his appearance and mannerisms are intimidating, he is a virtuous character. Although he often tries to hide it behind a serious facade, he is close to fellow Scion [[Moenbryda]], having known her since childhood. Though secretive, Urianger is loyal to his fellow Scions and his teacher, [[Louisoix Leveilleur]].
+
+It greatly pains him to deceive his friends or withhold information from them, but follows through with his convictions and plans, as they are for the greater good. When all is revealed, Urianger makes no excuses and humbly wishes for forgiveness and understanding from his fellow Scions and the Warrior of Light.
+
+==Gameplay==
+Urianger is an [[Summoner (Final Fantasy XIV)|Arcanist]] and uses a [[Book (weapon type)|grimoire]] for a weapon. He has access to both Arcanist and [[White Mage (Final Fantasy XIV)|Conjurer]] abilities and can summon [[Carbuncle (summon)|Amber Carbuncle]]. 
+
+In ''Shadowbringers,'' Urianger primarily uses [[Astrologian (Final Fantasy XIV)|Astrologian]] skills to heal and buff allies. He is also shown using Aetherial Manipulation from [[Black Mage (Final Fantasy XIV)|Black Mage]] as a Trust in a dungeon.
+
+In the Main Scenario Quest instance Death Unto Dawn, Urianger is playable in the third part of the battle. He uses a fixed deck consisting of the original version of Lord of Crowns as an attack and The Scroll as a damage buff. As healer, he must heal both his allies and the Confluence. If either falls, the duty ends in failure.
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+<gallery>
+PFF Urianger Illust.png|Portrait.
+PFF Urianger.png|Sprite.
+</gallery>
+{{Character section|Pictlogica Final Fantasy}}
+{{clear}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+Urianger appears in ''Final Fantasy Trading Card Game'' as Water- and Lightning-elemental Forward cards.
+
+<gallery>
+Urianger TCG.png|Urianger [12-097R] Chapter series card.
+Urianger 5-163S from FFTCG Opus.jpg|Urianger [5-163S] Opus series card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+[[File:467a Urianger.png|thumb|100px]]
+Urianger appears on a card in the version available via ''[[Final Fantasy Portal App]]''.
+{{clear}}
+
+==Behind the scenes==
+Urianger was an Arcanist even before the class was available to players; in the legacy version, he used one of the mechanical staves that had previously been tagged for use by the old version of Arcanists found in the game's data files.
+
+Unlike in the English version, Urianger speaks normal Japanese in the Japanese scripts.
+
+===Voice===
+In the English version of ''A Realm Reborn'', Urianger was voiced by [[Gideon Emery]], also the voice for [[Balthier]] from ''[[Final Fantasy XII]]''. Since the release of ''Final Fantasy XIV: Heavensward'', he is voiced by [[wikipedia:Timothy Watson|Timothy Watson]].
+
+Urianger is voiced by [[wikipedia:Kenn (Japanese actor)|KENN]] in the Japanese version.
+
+==Gallery==
+<gallery>
+FFXIV SH Urianger (Trust).png|Urianger's Trust render.
+FFXIV ARR Urianger (Trust).png|Urianger's alternate Trust render.
+Urianger Full Trust Portrait from Final Fantasy XIV.png|Full size Trust portrait.
+Urianger Full Trust Portrait 2 from Final Fantasy XIV.png|Full size alternate outfit Trust portrait.
+Urianger.png|''A Realm Reborn'' appearance, masked.
+FFXIV Urianger unmasked.png|Unmasked, from [[Final_Fantasy_XIV:_Heavensward#Soul_Surrender_.283.4.29|Patch 3.3 Soul Surrender]].
+FFXIV SH Urianger.png|Introduction for ''[[Final Fantasy XIV: Shadowbringers|Shadowbringers]]''.
+FFXIV Urianger Minion.png|Wind-up Urianger minion.
+FFXIV SHB Urianger artwork.jpg|''Shadowbringers'' character artwork.
+FFXIV Shadowbringers trailer screenshot 16.png|Urianger in the ''Shadowbringers'' expansion trailer.
+FFXIV Endwalker trailer screenshot 15.png|Urianger in the ''[[Final Fantasy XIV: Endwalker|Endwalker]]'' expansion trailer.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+
+[[pt-br:Urianger Augurelt]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Arcanists]]
+[[Category:Astrologians]]
+[[Category:Elezens]]
+[[Category:Guest characters]]

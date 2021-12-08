@@ -1,0 +1,78 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Sophie (''Final Fantasy XIV'')}}
+{{Infobox_character
+|name = Sophie
+|release = FFXIV
+|japanese =ソフィー 
+|aka=Sophie the Steadfast, Peculiar Conjurer
+|romaji =Sofī 
+|image =FFXIV Sophie.png 
+|race = [[Viera]]
+|gender = Female
+|height =72.8 in. (6 ft.) 
+|hair = Blonde
+|eye = Pink
+|designer = 
+|age = 
+|home = [[Royal City of Rabanastre (Final Fantasy XIV)|Rabanastre]]
+|affiliation = 
+|occupation = Adventurer
+|type=npc
+|job = {{icon|ffxiv|discipline|conjurer}}
+|weapon = Diamond Cane
+|armor = 
+|abilities=Stone II, Medica, Recharge, Dedication
+}}
+{{Quote| I often join expeditions to hunt for stonetomes, whereas Radovan only occasionally comes along. He says, “Once in a while is fine, but I don't want it to turn into a daily grind.” Hmph!|Sophie}}
+'''Sophie ''' is a [[non-player character]] from '' [[Final Fantasy XIV]]''. She is [[Radovan]]'s partner, fleeing the [[Garlean Empire]] with him to [[Eorzea]].
+
+== History ==
+=== Early life ===
+Sophie was part of a resistance group in Dalmasca until she was captured and put in a garlean gaol where she awaited execution. One night Radovan burst through her wall in an attempt to dig his way out of prison. Because of the commotion he caused, it made the other inmates rowdy, and they used the noise to escape. Radovan and Sophie tried going to [[Bozja Citadel]] only to discover that it was accidentally destroyed in the early phases of [[Dalamud|Project Meteor]]. Radovan attempted to end his life but Sophie gave him hope and a will to live and the two decided to leave garlean territory. <ref>Quest: For Better or Worse</ref>
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+Sophie and Radovan end up in the [[East Shroud]] after crossing over from [[Ala Mhigo]].{{Cite|FFXIV|Hired Gunblades}} Bandits attack the two on their way to [[Gridania]]. When Sophie is about to be attacked, Radovan attempts to stop the bandit, but his paralysis acts up and puts him out of action. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] rushes in to defend her, and they defeat the bandits. Radovan thanks the adventurer and asks them if they'd like to become a Gunbreaker. After the Warrior of Light joins them, they travel to Gridania where they can apply as adventurers to make a living. Sophie feels oddly at home in Gridania, and the two serve as a bodyguard to a popular songstress. 
+
+The two travel to [[Ul'dah]] where they serve as bodyguards to a mother and her child.{{cite|FFXIV|For Better or Worse}} The only thing they do is intimidate her husband, but after watching how he reacts, Sophie senses something amiss and the group follows her. After finding out she planned on using her child for slave work, the boy is given to his father. Sophie tells the group that the mother was addicted to a drug called somnus and she saw other inmates like her in the Garlean gaol.
+
+Sophie travels with Radovan for work where the yellowjackets hire them to escort a condemned convict.{{cite|FFXIV|Confessions of a Flaming Mongrel}} The convict Guldweitz is being hunted by other criminals because of the information he holds would reveal their secrets. After finishing this job the only city state they have left to visit is [[Ishgard]], a place Sophie isn't fond of because of the cold climate. Here they accept a job escorting an engineer who defected from Garlemald that can build ceruleum heaters for those in the Brume. Before they leave however Radovan requests Sophie to stay behind to which she takes personally, believing he thinks her incapable of handling herself.
+
+Sophie heads to Camp Dragonhead as the two were taking too long, only to learn that the engineer they were escorting is none other than [[Cato Mammula]] a scientist that aided [[Midas nan Garlond]] on Project Meteor and believes that Radovan is planning on getting his revenge. After the Warrior finds Radovan they tell Sophie that he attempted to kill the engineer and wandered off. She dreads what might've happened had they not stopped him and finish escorting the engineer to Ishgard. Sophie admits that her and Radovan have been through a lot so she won't turn her back on him but states that he needs to get his act together first.
+
+Sophie isn't interested in doing nothing while waiting for Radovan, so she asks the Temple knights for work and finds a job in [[Coerthas Western Highlands]] from an anonymous individual located at Twinpools. Once they meet up with him they are captured by magitek restraints and the anonymous person is revealed to be [[Vitus quo Messalla|Vitus]] himself, who plans on executing the Warrior of Light there. Before he can however Radovan blocks the blow with his sword and frees his comrades. Vitus orders his soldiers to attack the group but Radovan uses a device to shock the soldiers, a device he had Cato make that works on [[Alaude]] magitek collars. The commander gloats before killing his own men and declares he will face them on his own.
+
+During the fight Vitus gains the upper hand by knocking all of them to their knees and preparing his next ultimate attack. With no other options Radovan requests Sophie's assistance in forming a barrier, and with her assistance he uses Final Bastion to protect the party, and allows the Warrior of Light to finish Vitus on his own.
+
+After the fight Radovan apologizes to the pair and Sophie chastises him for his actions, to which he reveals it was all part of his plan as he knew the Alaude were watching from afar and instead set their sights on the Warrior of Light. The group then return to Ishgard where they thank Cato, and the pair plan on staying in Revenant's Toll where they can find more jobs as well as adventurers looking to become gunbreakers.
+[[File:Meeting Rostik.png|left|thumb|Radovan stating he won't turn his back on family.]]
+Biding her time for a while Sophie shares stories with the [[Wandering Minstrel]] of her home in [[Royal City of Rabanastre (Final Fantasy XIV)|Rabanastre]], and working for [[Rowena]] gathering [[Allagan Tomestone|tomestones]]. After the Warrior of Light's adventure in [[The First]], he tells the pair of their friend [[Thancred Waters|Thancred]] who became a gunbreaker. This surprises Radovan and believes that others must've survived and begins searching for his comrade. After retracing their steps, they reach Ishgard where Reese tells the group he is with Cato outside of [[Coerthas Central Highlands|Camp Dragonhead]]. Afraid that his comrade is going to kill the engineer, the group heads to Providence Point to stop him. Cato reveals to the group that he is not in danger and [[Rostik Liubasch|Rostik]] was looking for his aid in rebuilding Bozja Citadel. Rostik states he too put the past behind him and asks Radovan if he will join him in rebuilding his homeland. Sophie is saddened by this and turns away, but after Radovan declines and says he won't turn his back on family, Sophie smiles. Radovan reminds Rostik of Thancred and laughs, before bidding the group farewell.
+
+==Characteristics==
+=== Appearance ===
+Sophie is a Veena [[Viera]] with blonde hair and pink eyes. She normally wears a Hailstorm coat and gloves, astral silk bottoms and Ishgardian boots. When visiting the other city states she changes outfits to blend in with the citizens, swapping to a linen coatee in [[Ul'dah]], a sailors shirt in [[Limsa Lominsa]], and a glacial coat in [[Ishgard]], and all of her outfits are dyed celeste green. In battle, she wields a Diamond Cane.
+
+=== Personality ===
+Sophie has an laid back personality; when visiting Ul'dah she would rather visit the [[Manderville Gold Saucer]] and look at the markets than work. She believes the best way to visit a new place is to dress like the locals and whenever she has a hunch there is no stopping her. She doesn't enjoy standing around doing nothing and likes to keep herself busy. She cares for Radovan dearly as they've been through a lot together, considering him to be like family. 
+
+She is shown to be quite blunt at times, such as her disinterest in the singer Editha and her assistant Lassenchou, accidentally saying she hoped to never see them again after their second encounter.
+
+== Gameplay ==
+Sophie appears in the solo duty {{icon|ffxiv|quest|Steel against Steel}} where she serves as a healer who can cast the abilities Stone II, and Medica, she also has the unique abilitty Recharge which gives Radovan her Aether, and Dedication which heals the player to max HP.
+
+== Gallery==
+<gallery widths="185">
+Sophie 4 from FFXIV.png|Sophie's outfit in Ul'dah.
+Sophie 3 from FFXIV.png|Sophie's outfit in Limsa Lominsa.
+Sophie 2 from FFXIV.png|Sophie's outfit in Ishgard.
+FFXIV Sophie in combat.png|Sophie casting Stone II.
+Sophie_Recharge.png|Sophie casting Recharge.
+</gallery>
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+
+[[Category:Viera]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:White Mages]]

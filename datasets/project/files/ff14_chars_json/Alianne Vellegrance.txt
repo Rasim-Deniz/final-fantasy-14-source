@@ -1,0 +1,46 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name = Alianne Vellegrance
+|release = FFXIV
+|japanese = 
+|romaji = 
+|image =FFXIV Alianne.png
+|race = [[Elezen]]
+|gender = Female
+|age =21
+|job = {{icon|ffxiv|discipline|thaumaturge}}
+|weapon = 
+|armor =
+|affiliation = 
+[[Crystal Braves]]
+[[Scions of the Seventh Dawn]]
+|occupation =
+}}
+'''Alianne Vellegrance''' is a non-playable character in ''[[Final Fantasy XIV]]''. She is an adventurer who later volunteers to join the Crystal Braves.
+
+== Profile ==
+=== Appearance ===
+Alianne is a wildwood [[Elezen]] with dark brown hair and light brown eyes. She wears a blue robe and black boots, and wields a toothed goathorn staff in battle.
+
+===Personality===
+== Story ==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]'' ===
+Alianne was raised by her grandfather, [[Isildaure Vellegrance|Isildaure]], and the two Wildwood Elezen traveled the world together. Alianne and her companion are among the NPC adventuring groups seen during the early Main Scenario quests that introduce [[Sastasha]], the [[Tam-Tara Deepcroft]], and [[Copperbell Mines]], along with [[Edda Pureheart|Edda's]] group and Dolorous Bear's party. She initially explains themselves as old companions on the road. When met at the Tam-tara Deepcroft, they nearly met their demise due to a mis-step, and reminds the Adventurer that one must "look before they leap" in dangerous places. At Copperbell Mines, they explain that Dolorous Bear's party all perished to the hecatoncheirs, and suspected their overconfidence did them in.
+
+When she resolved to quit the adventurer's life, Alianne decided to make her fortune with the Crystal Braves. There, she became lieutenant of the 4th, a unit composed of adventurers. Though she had no special talent, she proved a reliable leader, and soon earned the respect of those under her command.
+
+The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] helps her unit rescue one of their wounded comrades, Rhesh Polaali, after they were ambushed in [[Castrum Centri]]. Later, her unit took part in the counter-operations against Garlean raiders harassing the Ceruleum Processing Plant. She plunged into despair upon learning of [[Wilred Glasse|Wilred]]'s death, but eventually chose to move forward in his stead.
+
+In Patch 2.55 ''Before the Fall part 2'', shortly before the Sultana's banquet, [[Momodi Modi|Momodi]] explains that Alianne had left a note for the Adventurer asking to meet in private outside Nanawa Mines. She notes that Alianne did not finish her meal and behaved strangely. At the designated meeting spot, Alianne never showed up, but the Warrior of Light found an odd bottle. Shortly thereafter, [[Laurentius Daye|Laurentius]] confirmed he hadn't seen Alianne wander near there, but as the Adventurer left he gave an ominous look and spoke into his linkpearl. The mysterious bottle was used by [[Teledji Adeledji]] to accuse the Warrior of Light of poisoning [[Nanamo Ul Namo]], as [[Ilberd Feare|Ilberd]] and many Crystal Braves (including Laurentius) turned traitor. 
+
+=== ''[[Final Fantasy XIV: Heavensward]]'' ===
+Alianne reveals that she was confined to the Rising Stones, along with Riol, Ephemie, Aergmhus and others still loyal to the Scions. When Captain Ilberd moved forward with General Raubahn's execution, they were forced to withdraw everything except a symbolic force that the imprisoned group manages to attack by surprise and guarantee their escape. Alianne remains loyal to Alphinaud, even after the company's disbanding.
+
+=== ''[[Final Fantasy XIV: Shadowbringers]]'' ===
+[[Alphinaud Leveilleur|Alphinaud]] approaches [[Riol Forrest|Riol]] and Alianne at [[The Fringes|Castrum Oriens]] to ask them why they stayed with the Scions following the dissolution of the Crystal Braves.{{cite|FFXIV|In Patch 5.55}} They explain that Alphinaud's accountability for the tragedy and the Scions' earnest belief of protecting the world inspired them to stay. Alianne mentions that the original group was diverse and while [[Ilberd Feare|Ilberd's]] crimes were unforgivable, it was largely due to his efforts that the group functioned at all. 
+
+==References==
+{{Citations}}
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

@@ -1,0 +1,71 @@
+{{infobox character
+|name=Rasler B'nargin Dalmasca
+|release=FFXIV
+|japanese=ラスラ王子
+|romaji=Rasurā Ōji
+|lit=Prince Rasla
+|aka=
+|image=FFXIV Rasler BaGamnan.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=Prince of Dalmasca
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=[[Rasler Heios Nabradia|Rasler]] from ''[[Final Fantasy XII]]''.
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Prince Rasler B'nargin Dalmasca''' is a historical character in ''[[Final Fantasy XIV]]''. He was the prince of [[Dalmasca (Final Fantasy XIV)|Dalmasca]]. He and his twin sister [[Ashelia B'nargin Dalmasca (Final Fantasy XIV)|Princess Ashelia]] died around thirty years ago.
+
+''[[Encyclopædia Eorzea II]]'' establishes that the royalty maintain the same naming conventions as in ''[[Final Fantasy XII]]'' with the added member of Rasler.
+
+==History==
+[[File:FFXIV Ashelia Rasler BaGamnan.png|thumb|left|Prince Rasler (left).]]
+Rasler and Ashe appear in backstory of the [[Return to Ivalice]] arc. They are twins who were killed in the [[Garlean Empire|Garlean]] invasion 30 years ago. Rasler commanded Dalmasca's last stand at [[Nalbina Fortress]], holding the line for six months before the Garleans killed him. Before dying, Rasler entrusted his sister's safety to [[Ba'Gamnan (Final Fantasy XIV)|Ba'Gamnan]], a fusilier in the Dalmascan Army, along with an [[auracite]] necklace.
+
+Unknown to Ba'Gamnan, Rasler had secretly instructed an elite unit led by [[Fran Eruyt]] to falsely assassinate the princess to make it appear that she was killed by Garlean soldiers, and then spirit her away to safety. Were the people of Dalmasca allowed to know Ashelia was still alive, they would be incensed to fight the Garleans to the last man, despite there being no hope of victory. Rather than watch his people die in vain, he devised a means of spiriting her away, even concealing his plan from his father, the king. The princess was put into a deep sleep using a method passed down among Fran's kin until the day arrived for the kingdom to be reborn.
+
+As Ba'Gamnan was not informed of this plan, he believed the princess had died under his watch. Ba'Gamnan kept the auracite necklace as a reminder of his failure, and became a bandit seeking out more auracite for the power to undo his past mistakes.
+
+==Characteristics==
+===Appearance===
+Rasler only appears in monochrome artwork. He shares the same appearance as his ''Final Fantasy XII'' [[Rasler Heios Nabradia|counterpart]].
+
+{{navbox characters FFXIV}}
+
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

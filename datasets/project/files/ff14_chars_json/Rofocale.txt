@@ -1,0 +1,100 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=
+|release=FFXIV
+|japanese=人馬王ロフォカレ
+|romaji=Jinba-ō Rofokare
+|lit=Centaur King Rofocale
+|aka=
+|image=FFXIV_Rofocale_render.jpg
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=[[Lucavi|Lucavi]]
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=[[Lucavi]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=[playable=Player character, optional=Optional player character, guest=Guest character, npc=Non-player character, party npc=AI controlled party member, boss=Boss]
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+<!--More information.
+ For some, type "true" for it to appear, or leave empty. For others, type full page name.-->
+|gameplay=
+|quotes=
+|boss page=
+|final boss page=
+|superboss page=
+|cinematic enemy page=
+|dummied enemy page=
+|other appearances=
+|recurring appearance=
+|main appearance=
+|dissidia=
+|tactics=
+|other appearance2=
+|other appearance3=
+|gallery=
+}}
+{{Quote|"Ill fortune befall all who dare gaze upon me!"|-Rofocale}}
+'''Rofocale '''([[File:FFT-ROPHOCHEHE.png|100px]]), is a [[Lucavi]] demon in ''[[Final Fantasy XIV: Stormblood]]''. He is a boss in the [[Return to Ivalice]] raid series.
+
+==Profile==
+===Appearance===
+Rofocale has the appearance of a man combined with a horse and a chariot. He wields a lance.
+
+==Story==
+{{spoiler}}
+Before turning into a Lucavi, it is assumed he was a high-ranking general in the City's army. During the Warrior of Light's trek through the Royal City of Rabanastre, the alliance discovers Rofocale. After a long battle Rofocale is defeated.
+{{endspoiler}}
+
+==Gameplay==
+{{main|Royal City of Rabanastre (Final Fantasy XIV)}}
+Rofocale appears as the third boss in the expedition of Rabanastre, he uses some attacks from ''[[Final Fantasy Tactics]]'' such as Armor Crush and Crush Helm. During the fight he will summon [[Archaeodaemon (Tactics)|Archaeodaemons]], and use his chariot to trample players.
+
+==Gallery==
+<gallery>
+FFXIV Rofocale Art.jpg|Concept art.
+FFXIV_Rofocale_Sketch.png|Sketch.
+FFXIV Rofocale.jpg|Screenshot;
+</gallery>
+
+==Etymology==
+{{w|Lucifuge Rofocale}} (Latin: Lucifugus Rofocalus), according to the Grand Grimoire, is the demon in charge of Hell's government by order of Lucifer.
+
+==Trivia==
+*The name Rofocale appears in the game files of ''Final Fantasy Tactics ''it was a dummied [[Lucavi]] that was associated with the Sagittarius stone.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Lucavi]]

@@ -1,0 +1,59 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Stacia Myste
+|release=FFXIV
+|japanese=スタシア・ミスト
+|romaji=Sutashia Misuto
+|image=FFXIV Stacia.png
+|occupation=Sky Pirate
+|race=[[Hyur]]
+|gender=Female
+|height=
+|hair=Light Blue
+|eye=Yellow-Orange
+|designer=
+|age=27
+|affiliation=Redbills
+|type=npc
+|job={{icon|ffxiv|discipline|machinist}}
+|weapon=
+|armor=Sky Pirate Aiming set
+}}
+'''Stacia Myste''' is a non-playable character from ''[[Final Fantasy XIV]]'', first appears in version 3.1 ''[[As Goes Light, So Goes Darkness]]''. She is a [[Sky Pirate (Final Fantasy XIV)|Sky Pirate]] and is an important character in the [[Void Ark]] scenario.
+
+==History==
+===''[[Final Fantasy XIV: Heavensward]]''===
+Stacia is first met after the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is invited by Leofard to the Redbills' base. She questions if they found the Redbill Standard by chance or by invitation, and once she finds that they were invited, she welcomes them on to her manacutter to fly to the station. As she leads the Warrior of Light to Leofard's main chambers, the two of them overhear [[Radlia Keene]] arguing with the captain, demanding that he ally his Redbills with her crew in order to pursue the treasure he has set his eyes on - the [[Void Ark]]. After Radlia leaves, Stacia brings the Warrior of Light into the chambers to speak with the captain. After their meeting, the group convenes with [[Utata Uta]] back in the [[Sea of Clouds]], and arrange for the Warrior of Light and a motley crew to aboard the Void Ark and loot it.
+
+Once clearing the ghost ship, the crew discovers a sizable cache of treasure - as well as a voidsent beast, known only as [[Diabolos_(Final_Fantasy_XIV)|Diabolos]]. A cat-like creature named [[Cait Sith (Final Fantasy XIV)|Cait Sith]] arrives to rescue Leofard and the crew, who evacuate the ghost ship.
+
+At the Parrock, Cait Sith explains that the ship is overrun by [[Final Fantasy XIV enemies/Voidsent|voidsent]], who plan to open a large gate into their current world. As the team plans their next move, Radlia and her Talons holds Utata hostage, in order to ransom for the Ectocompass. Leofard slips a tracking linkpearl into the compass before giving it to Radlia, in order to track their movements. After trailing the Talons, this leads the Redbills and the Warrior of Light to the [[Weeping City of Mhach]], the last known location of the Talons, where Cait Sith explains that the Nullstone within will help them defeat any voidsent.
+
+Upon arriving and defeating the voidsent adversaries, a voidsent known as [[Ferdiad]] appears holding Radlia hostage. Threatening to kill Radlia, it demands the Nullstone.  At the Redbill's ship, Leofard demands Radlia explain why her crew went to Mhach. Radlia explains she was searching for the Nullstone as well. Leofard takes the book that Radlia's crew was studying. As Cait Sith studies the tome, the Redbills come under attack by Diabolos. Leofard is injured in the fight, though Stacia endures with limited injuries. She then helps the Warrior of Light board the new Talons vessel to make for [[Dun Scaith]].
+
+Once the voidsent Diabolos is defeated, the crew returns to the Parrock. Leofard mourns the loss of his manacutter, melancholic that the vessel he named for his late mother would be lost in combat. Stacia explains to the Warrior of Light that Leofard was a poor orphan long ago, until he was taken in by a kind Ishgardian widow who wished to have children of her own. Her health problems prevented her from joining her son's newfound love for adventure, and on her deathbed requested that he never allow himself to be caged again. Leofard chides Stacia for giving away a crewmate's life story, but he seems invigorated more than anything, now that the Void threat had been taken care of. 
+
+Stacia and the crew wish the Warrior of Light farewell, promising to meet them again some time, for whenever the Redbills plan on engaging in a new tremendous adventure. She flies off on her manacutter with Leofard, Utata, and Cait Sith.
+
+==Characteristics==
+===Appearance===
+Stacia is a Midlander [[Hyur]], with Light blue hair tied into a ponytail, with yellow-orange eyes. She wears machinist goggles on her forehead, and wears a Sky Pirates Vest of Aiming dyed black. She has black trousers and Thavnairian babouches. Stacia does not wear the standard Redbill Scarf that all other Redbills wear.
+
+===Personality===
+Stacia is a level-headed individual who takes great pride in her work and loyalty to the Redbills. Though she is [[Leofard Myste|Leofard's]] right hand woman, she often feels like his babysitter, chasing after him and making sure he behaves himself as captain and leader of their crew. However, she maintains respect for him, especially when he tries to hide kindness with bluster and rudeness. Stacia is quick to step in if a plan seems like it is doomed to fail.
+
+==Gallery==
+<gallery>
+FFXIV Stacia the Sky Pirate.png|Stacia in a cutscene.
+FFXIV Leofard Stacia.png|Leofard and Stacia.
+FFXIV Stacia 3.3.png|Stacia in Leofard's chamber.
+</gallery>
+
+==Etymology==
+Stacia is an English feminine given name, the shortened form of Anastasia, the name of a 4th-century Dalmatian saint who was martyred during the persecutions of the Roman emperor Diocletian.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
+[[Category:Sky Pirates]]
+[[Category:Machinists]]

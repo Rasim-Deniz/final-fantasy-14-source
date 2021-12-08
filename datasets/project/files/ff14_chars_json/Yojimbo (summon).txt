@@ -1,0 +1,512 @@
+{{sideicon|prime=FFX|X2|FFXIV|FFTS|FFD2|PFF|FFAB|FFRK|Mobius|FFTCG}}
+{{infobox summon
+|name=Yojimbo
+|release=FFX
+|japanese=用心棒 / ようじんぼう
+|romaji=Yōjinbō
+|image=Yojimbo-FFX-render.png
+|portrait=
+|sprite=
+|race=[[Aeon (Final Fantasy X)|Aeon]]
+|gender=
+|home=
+|summoners=[[Yevon]] [[Summoner (Final Fantasy X)|summoners]]
+|acquired=[[Cavern of the Stolen Fayth]]
+|summonabilities=[[#Daigoro|Daigoro]], [[#Kozuka|Kozuka]], [[#Wakizashi|Wakizashi]], [[#Zanmato|Zanmato]]
+|designer=[[Tetsuya Nomura]]
+|boss page=Yojimbo (Final Fantasy X boss)
+}}
+{{Quote|I am the blade of vengeance. They dare only whisper my name: Yojimbo.|Yojimbo, ''Final Fantasy X''}}
+'''Yojimbo''' is a recurring [[Summoned monsters|summon]] in the [[Final Fantasy series|''Final Fantasy'' series]], first appearing in ''[[Final Fantasy X]]''.
+
+Yojimbo is acquired by visiting the [[Cavern of the Stolen Fayth]], where the player must hire him to become [[Yuna]]'s [[Aeon (Final Fantasy X)|aeon]]. Yojimbo acts as a sword-for-hire and has four different attacks depending on how much the player pays him, as well as a complex mathematical formula based on his worker-employer relationship with Yuna and several other factors. Yojimbo functions similarly to [[Odin]] and [[Gilgamesh (character)|Gilgamesh]] from previous ''Final Fantasy'' games. His most powerful attack, [[Zanmato (ability)|Zanmato]], [[Instant Death|instantly kills]] fiends and bosses.
+
+==Profile==
+[[File:Sealed Yojimbo.jpg|Yojimbo's fayth statue in the Cavern of the Stolen Fayth.|thumb|left]]
+Yojimbo is a colossal ornamental samurai wielding a katana, clad in colorful robes. He is accompanied by his [[Dog (animal)|dog]], Daigoro. His [[fayth]] is bound by ribbons, which say "SEAL" in [[Language#Final Fantasy X|Yevon script]]. On his fayth statue his sword and shield say "Mea Culpa" in Spiran and Yevon scripts.
+
+Yojimbo is a "lost" aeon, his fayth being held in the Cavern of the Stolen Fayth, presumably having been stolen away from a temple by those rebelling against the [[pilgrimage]] tradition. Some summoners and their [[Guardian (Final Fantasy X)|guardians]] brave the [[fiend (Final Fantasy X)|fiend]]-infested cavern regardless to pray on his fayth and gain his allegiance. Yuna succeeds in this effort and Yojimbo joins her. If [[Tidus]] later returns to the fayth's chamber after learning the truth of [[Dream Zanarkand]], Yojimbo's fayth assures him that he will never be forgotten.
+
+==Obtained==
+Yojimbo can be recruited at the Cavern of the Stolen Fayth near the entrance to [[Mt. Gagazet]].
+
+Yojimbo will first ask Yuna a question regarding her purpose in trying to acquire his help. Her choice here will affect Yojimbo's behavior in battle and his probability in using his attacks. As for his payment, Yojimbo will initially ask the player for hundreds of thousands of [[gil]], but it is possible to haggle with him. 
+
+To get Yojimbo for the cheapest price, the player must offer him half the gil he is asking for plus one gil in the first two negotiations, and he will decrease his price both times. In the third negotiation, they must offer him 0.700005 times the gil he is asking, closing the deal.
+
+To get Yojimbo for the cheapest price, the player should select the third option, "To defeat the most powerful of enemies". He will ask for 250,000 gil, but the player should offer 125,001 gil. Yojimbo will counter with 225,000 gil, and the player should offer 112,501 gil. Yojimbo will counteroffer with 202,500 gil and the player should offer 141,751 gil. Yojimbo will then give his final price of 190,350 gil, which the player can accept.
+
+If the player pays Yojimbo triple what he is asking at any point, he will give two [[Teleport Sphere]]s as a token of appreciation.
+
+Obtaining Yojimbo in the ''[[Final Fantasy X/X-2 HD Remaster|Final Fantasy X HD Remaster]]'' version earns the [[Final Fantasy X HD Remaster achievements and trophies#It's All About The Money|It's All About The Money]] trophy/achievement.
+
+==Battle==
+With a wave of the [[Summoner (Final Fantasy X)|summoner's]] staff, a night-time dimension forms, featuring a single sakura tree in bloom with [[Flower (symbolism)|blue flowers]]. A bark is heard, and Yojimbo's [[Dog (animal)|dog]], Daigoro, appears to greet the summoner. Yojimbo emerges from behind the tree, turns with a sweep of his coat and calls upon his dog to start the battle.
+
+His [[Final Fantasy X victory poses|victory pose]] has him make a hand gesture and bow his head.
+
+When dismissed Yojimbo makes hand gestures, commanding his dog, Daigoro, to flee, and will disappear into dust and cherry blossom petals.
+
+===Stats===
+Yojimbo's stats are modest, with particularly high [[Evasion]]. He doesn't have any default abilities, nor can the player teach him any.
+
+;Base stats
+{|class="FFX article-table" style="text-align:center"
+|-
+!Stat
+!Base Value
+|-
+![[HP (stat)|HP]]
+|1030
+|-
+![[MP (stat)|MP]]
+|0
+|-
+![[Strength]]
+|29
+|-
+![[Defense (stat)|Defense]]
+|25
+|-
+![[Magic Power|Magic]]
+|16
+|-
+![[Magic Defense (stat)|Magic Defense]]
+|23
+|-
+![[Speed (stat)|Agility]]
+|9
+|-
+![[Luck (stat)|Luck]]
+|17
+|-
+![[Evasion]]
+|59
+|-
+![[Accuracy]]
+|19
+|}
+
+;Stat growth
+{{Main|Aeon (Final Fantasy X)/Stat growth|t1=Aeons' stat growth}}
+The player can increase Yojimbo's MP, though he cannot make use of it.
+{|class="full-width FFX article-table" style="text-align:center"
+|-
+!width="20%"|Number of battles ''N''
+!width="5%"|Max HP
+!width="5%"|Max MP
+!width="5%"|Strength
+!width="5%"|Defense
+!width="5%"|Magic
+!width="5%"|Magic Defense
+!width="5%"|Agility
+!width="5%"|Evasion
+!width="5%"|Accuracy
+|-
+!0 to 59
+|1030
+|0
+|29
+|25
+|16
+|23
+|9
+|59
+|19
+|-
+!60 to 89
+|1120
+|0
+|31
+|26
+|18
+|26
+|9
+|62
+|20
+|-
+!90 to 119
+|1246
+|0
+|32
+|32
+|20
+|27
+|11
+|63
+|21
+|-
+!120 to 149
+|1327
+|0
+|33
+|33
+|20
+|30
+|11
+|63
+|22
+|-
+!150 to 179
+|1399
+|0
+|35
+|34
+|23
+|33
+|11
+|63
+|22
+|-
+!180 to 209
+|1561
+|0
+|37
+|36
+|23
+|37
+|13
+|71
+|24
+|-
+!210 to 239
+|1624
+|0
+|38
+|36
+|25
+|41
+|13
+|71
+|24
+|-
+!240 to 269
+|1714
+|0
+|40
+|38
+|28
+|41
+|16
+|72
+|25
+|-
+!270 to 299
+|1858
+|0
+|42
+|39
+|31
+|42
+|17
+|81
+|27
+|-
+!300 to 329
+|2020
+|0
+|44
+|51
+|32
+|46
+|18
+|81
+|28
+|-
+!330 to 359
+|2110
+|0
+|46
+|52
+|34
+|46
+|19
+|89
+|29
+|-
+!360 to 389
+|2182
+|0
+|47
+|53
+|35
+|51
+|21
+|89
+|30
+|-
+!390 to 419
+|2326
+|0
+|49
+|55
+|37
+|55
+|22
+|90
+|31
+|-
+!420 to 449
+|2452
+|0
+|51
+|56
+|38
+|55
+|23
+|97
+|32
+|-
+!450 to 479
+|2542
+|0
+|52
+|57
+|41
+|60
+|24
+|98
+|33
+|-
+!480 to 509
+|2650
+|0
+|54
+|69
+|42
+|60
+|26
+|105
+|34
+|-
+!510 to 539
+|2758
+|0
+|56
+|70
+|44
+|60
+|27
+|106
+|35
+|-
+!540 to 569
+|2830
+|0
+|57
+|71
+|44
+|65
+|27
+|113
+|36
+|-
+!570 to 599
+|2992
+|0
+|59
+|72
+|48
+|65
+|30
+|114
+|37
+|-
+!600 and more
+|3064
+|0
+|61
+|73
+|48
+|69
+|30
+|122
+|38
+|-
+|}
+
+===Abilities===
+[[File:Yojimbo-summoned-ffx.jpg|thumb|Yojimbo prepares to attack.]]
+:''See the Summon and Overdrive sequences [[Yojimbo (summon)/Summon sequences|here]].''
+Yojimbo's only options on the field are '''Pay''' or '''Dismiss'''. He is not directly controlled and cannot use [[Shield (ability)|Shield]] or [[Boost (Final Fantasy X)|Boost]]. At the expense of paying him a sum of gil each turn (paying 0 will dismiss him), he will personally use these attacks at his discretion:
+*{{LA|Daigoro}}: Yojimbo's dog will attack on his command. As it is his weakest move, Yojimbo will shake his head before using Daigoro, as if to disapprove of the amount of money the party gave him. He can't use this on [[Long Range|long range]] targets, however.
+*{{LA|Kozuka}}: Yojimbo throws several [http://www.bugei.com/subcategory_32.htm ''kozuka''] (a special throwing knife made to fit inside a wakizashi's scabbard) at a single target.
+*{{LA|Wakizashi (ability)|Wakizashi}}: Yojimbo draws a powerful ground rending and air cutting slash that targets single or multiple targets with his ''[[wikipedia:wakizashi|wakizashi]]'' (short sword).
+*{{LA|Zanmato (ability)|Zanmato}}: Yojimbo calls his katana out of a dark portal in the ground, from which it flies into the air. Catching it and overlooking its quality, he then unsheathes it and rushes headlong into opposition, using it to slice all enemies in half. It instantly kills any enemy in the game, with the exceptions of [[Yunalesca (boss)|Yunalesca]] and [[Braska's Final Aeon (Final Fantasy X)|Braska's Final Aeon]], which will only move to the next form (unless they have already reached their final form, in which case Zanmato will kill them). Some enemies won't be sliced in half, instead displaying their regular death animations. Yojimbo will nod upon receiving the money, indicating he'll perform Zanmato.
+
+There are several factors that decide what attack Yojimbo will execute:
+*The base motivation ('''BM''') according to how much he has been paid. The lowest base motivation is 0 if he is paid 1-3 gil and the highest is 112 if he is paid at least 536,870,912 gil. It is much lower in the NTSC version, with the lowest being 0 and the highest being 56.
+*The compatibility parameter ('''CP''') of Yojimbo to Yuna. It starts at 128 and caps at 255. It increases by 1 or 3 if Yojimbo uses Wakizashi against single or multiple enemies respectively and by 4 if Yojimbo uses Zanmato. It decreases by 20 if he is paid 0 gil; by 10 if he is KO'd during battle; by 3 if he is dismissed immediately after being summoned; and by 1 if he uses Daigoro. It remains unchanged if he uses Kozuka. This compatibility parameter is then divided by 4 in the International, PAL and HD Remaster versions of the game and by 30 in the original Japanese and NTSC versions.
+*The Zanmato resistance of the enemy. A hidden variable applies depending on the choice Yuna made at Yojimbo's Chamber of the Fayth; asking to be trained as a summoner means that Yojimbo's motivation to use Zanmato will increase if Yuna hands over a greater proportion of her gil per turn; asking for the power to defeat fiends increases the likelihood of a Zanmato against random encounters and asking for the power to defeat the most powerful of enemies slightly reduces the likelihood of a Zanmato against Zanmato Level 1 fiends, while treating Level 4-6 fiends as the same with the same penalty to motivation. If the first or second choice is made, it is either 1, 0.5, 0.33, 0.25, 0.20 or 0.16 for Zanmato levels 1 to 6 respectively. If choice three is made, it is 0.8 for Zanmato level 1 to 3; and 0.4 for Zanmato level 4 to 6. ('''ZF''')
+*Additionally, if choice one is made, another factor is considered. It is (0.75 + ((amount paid * 0.50)/total gil))). Otherwise, it is 1 ('''CF''').
+*Whether or not his [[Overdrive (Final Fantasy X)|overdrive]] gauge was full when he was paid to attack. If it is full, it'll deplete and an additional 20 points will be added to his overall motivation in the International, PAL and HD Remaster versions while only 2 will be added in the original Japanese and NTSC versions, otherwise, it is 0. ('''OF''')
+*A random factor is added to motivation. It is any number from 0 to 63.
+::<math>Motivation = (BM + CP) * ZF * CF + OF + rand(0, 63) </math>
+
+Considering the formula and the random factor above, if Yojimbo's overall motivation is 80 or greater, he will use Zanmato. In the International, PAL and HD Remaster versions of the game, if the overall motivation is not 80 or higher, a recalculation will be made but the Zanmato level of the enemy will be treated as 1 regardless of its actual Zanmato level.
+
+The resulting new motivation will trigger any of the following:
+*0 to 31 will prompt Yojimbo to use Daigoro.
+*31 to 47 will prompt Yojimbo to use Kozuka.
+*48 to 63 will prompt Yojimbo to use Wakizashi against one target.
+*64 and above will prompt Yojimbo to use Wakizashi against multiple targets.
+
+The same values are considered for the original Japanese and NTSC versions of the game, but there are no recalculations if the overall motivation is less than 80.
+
+Occasionally, Yojimbo will select an attack on his own without needing to be paid, consuming his turn. The chance of this happening is '''CP'''/1024. With a compatibility parameter of 128, he will attack for free {{tooltip|13|12.5}} percent of the time. At 255, it becomes {{tooltip|25|24.9}} percent. The calculation made for his free attack is much simpler: '''CP''' divided by 4 plus a random factor from 0 to 63. If he attacks for free and his '''CP''' is 255, he is guaranteed to use either Wakizashi or Zanmato.
+
+In short, one should attempt to have a good relationship with Yojimbo, paying him decently (as well as sensibly) and not abusing his servitude, from not paying him anything to abruptly dismissing him immediately after the summon sequence. His relation with Yuna can also be seen through the frequency of his attacks; sending Daigoro is a sign of poor standing, where him using Wakizashi means one is on the right track.
+
+Yojimbo can [[Break Damage Limit (Final Fantasy X)|exceed maximum damage]] once [[Auron (Final Fantasy X party member)|Auron]] obtains and charges his [[Celestial Weapon]], the [[Celestial Weapon#Masamune|Masamune]].
+
+==Boss==
+===''Final Fantasy X''===
+{{main|Yojimbo (Final Fantasy X boss)}}
+Yojimbo is fought in the Cavern of the Stolen Fayth and at [[Remiem Temple]]. A possessed Yojimbo is also fought as part of the final battle.
+
+In the [[International Version|International]], PAL and ''HD Remaster'' versions, [[Dark Yojimbo]] can be fought in the Cavern of the Stolen Fayth after acquiring Yojimbo and re-entering the cave, reaching the end teleport pad and approaching the entrance again.
+
+====''Final Fantasy X-2''====
+[[File:Yojimbo in ffx-2.jpg|thumb|Yojimbo.]]
+[[Yojimbo (Final Fantasy X-2)|Yojimbo]] returns, now possessed by [[Shuyin]]. The [[Gullwings]] fight him to save some tourists visiting The Cavern of the Stolen Fayth in the Chapter 3 "[[Missions (Final Fantasy X-2)/Chapter Three#Tourist Trap|Tourist Trap]]" mission.
+
+A ''shīsā'' called Kogoro, which physically resembles Daigoro, appears as part of Yuna's [[Trainer (Final Fantasy X-2)|Trainer]] [[dressphere]].
+{{clear}}
+
+==Other appearances==
+===''[[Final Fantasy XIV]]''===
+[[File:FFXIV Yojimbo.png|thumb|Yojimbo at Kugane Castle.]]
+"Yojimbo" appears as the final boss of the [[Kugane Castle]] dungeon, along with his dog Daigoro. During the fight, he berates his client Kageyama for not paying him enough gold when ordered to kill [[Warrior of Light (Final Fantasy XIV)|the Warrior of Light's]] party. He uses his Zanmato attack several times in the fight, doing more damage to the party based on how much money Daigoro manages to retrieve from the arena. In order to reduce the damage taken from Zanmato, the players can retrieve the coins first. Once his HP runs out, rather than being defeated, Yojimbo simply decides that he's earned his pay and promptly leaves the area.
+
+He later appears in the Even Further Hildibrand Adventures quest line where he is hired to protect a priceless sword, the Soboro Sukehiro, from the thief known as the Wolf Burglar. His role is somewhat more comedic in this story, matching the tone of the Hildibrand quests. At the finale of Hildibrand story arc in ''[[Final Fantasy XIV: Stormblood|Stormblood]]'', he reveals himself to be [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]] in disguise, even during the [[Kugane Castle]] events.
+
+As of patch 5.1, he starts working at the Gold Saucer for the GATE event, the Slice is Right.
+
+===''[[Final Fantasy Tactics S]]''===
+Yojimbo appeared as a recruitable character.
+
+<gallery>
+FFTS Yojimbo Portrait.png|Yojimbo's portrait.
+FFTS Yojimbo Icon.png|Yojimbo's icon.
+FFTS Yojimbo Sprite.png|Yojimbo's sprite.
+</gallery>
+{{Section|Final Fantasy Tactics S}}
+{{clear}}
+
+===''[[Final Fantasy Dimensions II]]''===
+[[File:FFLTnS Yojimbo Artwork.png|right|200px|Artwork of Yojimbo by Ryuichi Kunisue.]]
+{{Main|Yojimbo (Dimensions II)}}
+Yojimbo appears as a fire-elemental summon. Two versions of Yojimbo are available as signets to equip; [[Wrieg]]'s version, which teaches [[Mineuchi]] abilities, and a stronger version available to [[Parai]], which teaches him Triple Wakizashi Slash abilities. Yojimbo's special attack is [[Zanmato (ability)|Zanmato]], which deals moderate fire-elemental damage to all enemies and has a chance to inflict stun.
+
+In the original free-to-play versions, both signets could only be obtained through the summon draw shop.
+{{clear}}
+
+===''[[Dissidia Final Fantasy NT]]''===
+[[File:DFFNT Wakazashi 2.png|thumb|right|175px|Wakizashi (charged) in Dissidia Final Fantasy NT]]
+Whilst not physically appearing Yuna can summon Yojimbo's Glyph to use Wakizashi.
+{{clear}}
+
+===''[[Pictlogica Final Fantasy]]''===
+[[File:PFF Yojimbo PS.png|right|150px]]
+{{Ability section|Pictlogica Final Fantasy}}
+{{clear}}
+
+===''[[Final Fantasy Airborne Brigade]]''===
+[[File:Yojimbo Brigade.png|right|100px]]
+{{Summon section|Final Fantasy Airborne Brigade}}
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+Yojimbo and the untargetable Daigoro have appeared together as an advanced boss. He uses his familiar moves from ''Final Fantasy X''. Appearing in [[Destiny's Path]], his defeat was required to obtain Yuna's Memory Crystal II as a First Time Reward. If Lulu is in the fighting party, her exchange with Lady Ginnem will be reenacted at the start of battle.
+
+<gallery>
+FFRK Yojimbo FFX.png|Boss sprite.
+FFRK Possessed Yojimbo FFX.png|Boss sprite (FFX-2).
+FFRK Kozuka.png|Kozuka.
+FFRK Wakizashi.png|Wakizashi.
+FFRK Zanmato.png|Zanmato.
+</gallery>
+
+===''[[Mobius Final Fantasy]]''===
+{{Quote|A mercenary swordsman. His dog, Daigoro, never leaves his side.|Description}}
+Yojimbo appears as a fire-based ability card, with artwork by Takayuki Futami.
+
+<gallery>
+MFF Yojimbo.jpg|Rarity 3 card.
+MFF Yojimbo FFX.jpg|Rarity 4 card.
+</gallery>
+{{Section|Mobius Final Fantasy}}
+{{Enemy section|Mobius Final Fantasy}}
+{{clear}}
+
+===''[[Final Fantasy Trading Card Game]]''===
+[[File:Yojimbo TCG.png|100px|right]]
+Yojimbo's ''Final Fantasy Airborne Brigade'' appearance has a card.
+{{clear}}
+
+===''[[Guardian Cross]]''===
+[[File:GC Yojimbo.png|200px|right]]
+{{Quote|Soul of the fayth concealed beneath a ravine, this aeon strikes and slashes in service of he who has the most gil.|Description}}
+{{Section|Guardian Cross}}
+{{clear}}
+
+==Behind the scenes==
+[[File:FFX Yojimbo animation.gif|Yojimbo ability animation.|thumb|Dummied ability use animation.]]
+Yojimbo is likely inspired by Ogami Ittō, protagonist of the manga ''Lone Wolf and Cub''; a samurai turned killer for hire who travels the countryside with his son, Daigoro.
+
+Although obtaining Yojimbo as one of Yuna's aeons is optional in gameplay terms, it's implied his acquisition is canon. Despite not explicitly being shown in the final FMV like [[Anima (summon)|Anima]] and the five primary aeons, a small being with a red hue appears towards the left before the aeons dissipate. It's unlikely that this is Anima, who dwarfs the other aeons, or the [[Magus Sisters (Final Fantasy X)|Magus Sisters]], whose presence would've forced Yojimbo's acquisition anyway.
+
+Because Yojimbo can't learn any other abilities, the latter half of his ability animation [[Dummied content|isn't normally seen]], as his abilities have unique animations.
+{{clear}}
+
+==Merchandise==
+A figure of Yojimbo was made for the Final Fantasy X Action Figure Collection by ArtFX. Listed as No.2 in the series, the Yojimbo figure comes complete with Zanmato and Wakizashi swords, Kozuka throwing knife and Daigoro, as well as a mountable stand for display. A later version of "Dark Aeon Yojimbo" was released using the same figure mold and accessories, as ''Final Fantasy X-2'' merchandise.
+
+A figure of Yojimbo was also made for the Final Fantasy Master Creatures second set, featuring him slashing with Zanmato as Daigoro is pouncing.
+
+<gallery>
+Yojimbo-action-figure-ffx.jpg|''Final Fantasy X Action Figure Collection''.
+FFX-2 Heretic Yojimbo.jpg|"Dark Aeon Yojimbo" action figure.
+Master Creatures2 Yojimbo.jpg|''Final Fantasy Master Creatures'' figure.
+</gallery>
+
+==Gallery==
+<gallery>
+Yojimbo-artwork-ffx.png|Artwork.
+Yojimbo-Concept-Art-FFX.png|Yojimbo concept art.
+Ffx-yojimbo.jpg|Portrait (PS2).
+FFXHDPC Yojimbo Portrait.png|Portrait (HD).
+Faythyojimbo.jpg|Yojimbo's fayth.
+YojimboSeal-ffx-artwork.png|Yojimbo's seal.
+FFXINTPS2 Yojimbo Idle.png|Render in International.
+YojimboSwordFF10.jpg|Zanmato.
+Daigoro Render FFX.png|Daigoro.
+FFXINTPS2 Daigoro Idle.png|Daigoro's render in ''International''.
+Yojimbo-FFX-HD.JPG|Yojimbo in-game render.
+Yojimbo-paid-FFX-HD.JPG|Yojimbo being paid.
+Wakizashi-FFX-HD.JPG|Wakizashi.
+Yojimbo_Victory_Pose.png|[[Final Fantasy X victory poses|Victory pose]].
+Yojimbo Victory Pose.gif
+Fayth 5.jpg|Yojimbo's and Daigoro's original mortal forms.
+Yojimbo in Mobius Final Fantasy.png|''[[Mobius Final Fantasy]]''.
+</gallery>
+
+==Etymology==
+{{Etym|Yojimbo}} The kanji (Japanese characters) can also mean "sword/service for hire", befitting his pay-off system.
+
+When Yuna visits Yojimbo's fayth to hire him as an aeon, he calls himself Yojimbo. Despite this, the player can still rename him.
+
+In the Japanese version, Yojimbo's name is written in kanji as "用心棒" in the subtitle of every conversation, while in the battle scenes, and in the aeon menu, it written in hiragana as "ようじんぼう".
+
+Yojimbo is depicted as a samurai. {{Etym|Samurai}}
+
+==External links==
+*Look [http://www.gamefaqs.com/console/ps2/file/197344/18486 here] for a simplified, easy-to-understand mathematical description of Yojimbo and his attacks.
+*Look [http://www.gamefaqs.com/console/ps2/file/197344/24392 here] for a more complex, harder to understand, but much more detailed mathematical description of Yojimbo and his attacks (this includes calculations for PAL/International versions of the game as well, along with probability (Percentile) tables for all versions).
+
+{{navbox abilities FFX}}
+{{navbox summons}}
+
+
+[[de:Yojinbo]]
+[[Category:Aeons in Final Fantasy X]]

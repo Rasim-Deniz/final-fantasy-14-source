@@ -1,0 +1,37 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox_character
+|name=Noalle
+|release=FFXIV
+|japanese=ノアル 
+|romaji=Noaru 
+|image=Noalle 1st outfit.png
+|home=The [[Firmament]]
+|affiliation=[[Ishgard]]
+|occupation=
+|race=[[Elezen]]
+|gender=Female
+|hair=
+|eye=
+|age= 
+|type=npc
+}}
+'''Noalle''' is a non-playable character from ''[[Final Fantasy XIV]]''. She is the daughter of [[Audaine]] and [[Marcelloix (Ishgard)|Marcelloix]].
+
+==History==
+After Noalle and her mother [[Audaine]] listen to the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]'s advice and move to the [[Firmament]], an inquisitor takes Audaine by force to [[Ishgard]]' s entrance. A Marcelloix turned into a dragon tried to enter the city and claimed to be Audaine's husband leaving both of them at risk of being punished for heresy. Noelle runs to ask the Warrior of Light and Lord [[Joacin Charlemend Francel de Haillenarte|Francel de Haillenarte]] for help. Francel intervenes and takes responsibility for letting the dragon enter the city. Audaine did not forgive Marcelloix for abandoning his family but still wants to give him a second chance.
+
+==Characteristics==
+===Appearance===
+Noalle is a wildwood elezen child with purple hair and green eyes, similar to her mother. She wears a brown hempen halfrobe, with cashmere slops, and survival boots. Later on she wears a whisperfine wool coat dyed cream yellow.
+
+=== Personality ===
+{{Section}}
+
+== Gallery ==
+<gallery>
+FFXIV Noalle.png|2nd outfit.
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]

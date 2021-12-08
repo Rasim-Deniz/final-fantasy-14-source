@@ -1,0 +1,41 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Redolent Rose
+|release=FFXIV
+|japanese=レドレント・ローズ
+|romaji=Redorento Rōzu
+|image=FFXIV Redolent Rose.png
+|race=[[Roegadyn]]
+|gender=Male
+|age=26
+|home=[[Ul'dah]]
+|type=npc
+|job={{icon|ffxiv|discipline|weaver}}
+|affiliation=Weavers' guild
+|occupation=Guildmaster 
+}}
+{{Quote|I am Redolent Rose, and I oversee all Weavers' Guild operations. I also instruct members on the finer points of our trade--something I am quite good at, mind you. My most skilled protégés go on to create magnificent garments which are coveted the realm over.|Redolent Rose}}
+'''Redolent Rose''' is a non-playable character from ''[[Final Fantasy XIV]]''. He is the [[Weaver]] guildmaster in [[Ul'dah]].
+
+== History ==
+===''[[Final Fantasy XIV|Final Fantasy XIV: A Realm Reborn]]''===
+Once the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] is recruited into the Weaver's guild, Redolent Rose tests the weaver's abilities through various requests. When [[Wawarukka]], a regular guild client who falls in love with [[Kokomo]], makes several requests for clothes to court the young woman, but to Redolent Rose's despair, Wawarukka's sense of fashion is practically nil.
+
+Redolent Rose decides that the best way to help Wawarukka is to ignore the miner's terrible taste in clothes and to that end, he takes the liberty of changing the Wawarukka commission. Redolent Rose weaves a final set of clothes for Wawarukka, and thanks to the confidence that [[lalafell]] has achieved by wearing Wawarukka clothes, she defends Kokomo and manages to reveal her feelings to her.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Redolent Rose wants to see the [[Ishgard|Ishgardian]] nobles in their best detail. Unfortunately, his commitments keep him in Ul'dah, and he asks the Warrior of Light to go in his place and learn what is fashionable in the Holy See. Unfortunately, the Weavers' Guild has no contacts in Ishgard, so Redolent Rose suggests that the Warrior of Light speak to a guard at [[High Houses of Ishgard#House Haillenarte|House Haillenarte]].
+{{Section}}
+
+==Characteristics==
+===Appearance===
+Redolent Rose is a male hellsguard [[Roegadyn]]. He wears the Weaver attire.
+
+===Personality===
+Redolent Rose has a deep interest in beauty, and one goal drives his tireless pursuit: the creation of raiments that allow the wearer to, in his words "cut a fine figure." The fashion-savvy Hellsguard is also known to be the genius behind the [[Nanamo Ul Namo|sultana]]'s pink ceremonial gown.
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Weavers]]
+[[Category:Guildmasters]]

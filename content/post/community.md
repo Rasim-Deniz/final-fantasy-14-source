@@ -90,3 +90,25 @@ Characters belonging to the same community, are expected to be more connected to
 #### 5.1 - Common words in the communities
 
 We identified the most descriptive words related to each community. The objective is to understand if different communities have different related words. We used two different methods: the TF and and the TF-IDF. The first one will take into account how much a specific word appear in the text, while the other will also consider how often that word appear through the whole database, adding value to those words that are more characteristic of a specific community, therefore more relevant.
+
+The most common words using TF for the top 5 communities are like given below:
+
+| Alisaie Leveilleur's community | Estinien Wyrmblood's community | Warrior of Light's community | Alphinaud Leveilleur's community | Edmont de Fortemps's community |
+| ------------------------------ | ------------------------------ | ---------------------------- | -------------------------------- | ------------------------------ |
+| man                            | garuda                         | yoshida                      | ga                               | marcelloix                     |
+| woman                          | final                          | naoki                        | bu                               | character                      |
+| player                         | fantasy                        | final                        | alisaie                          | final                          |
+| hyuran                         | messenger                      | fantasy                      | kobold                           | fantasy                        |
+| imp                            | xv                             | april                        | final                            | ehll                           |
+
+The most common words using TF-IDF for the top 5 communities are like given below:
+
+| Alisaie Leveilleur's community | Estinien Wyrmblood's community | Warrior of Light's community | Alphinaud Leveilleur's community | Edmont de Fortemps's community |
+| ------------------------------ | ------------------------------ | ---------------------------- | -------------------------------- | ------------------------------ |
+| woman                          | garuda                         | yoshida                      | alisaie                          | marcelloix                     |
+| hyuran                         | messenger                      | naoki                        | kobold                           | ehll                           |
+| imp                            | wind                           | april                        | titan                            | francel                        |
+| unsavory                       | xv                             | fool                         | warrior                          | family                         |
+| nero                           | statue                         | director                     | bu                               | craftsman                      |
+
+It appear clear how the TF-IDF analysis gives more interesting results in identifying the most relevant words of a community, by eliminating recurring words as 'fantasy', 'player' and 'final' that are clearly related to the game itself, and thus very common in all the communities. We can also see from the results that the second method does not ever return the same word for different communities, as it happen in the TF analysis, confirming that the TF-IDF is more accurate in detecting the relevant words in a community.

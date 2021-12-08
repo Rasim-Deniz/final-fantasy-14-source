@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Saintrelmaux
+|release=FFXIV
+|japanese=サントレルモ
+|romaji= Santorerumo
+|image=FFXIV Saintrelmaux.png
+|home=[[Coerthas Western Highlands#Convictory|The Convictory]]
+|affiliation=[[Ishgard]]
+|occupation=Knight
+|race=[[Elezen]]
+|gender=Male
+|hair=Blond
+|eye=Purple
+|type=npc
+|job={{icon|ffxiv|discipline|lancer}}
+}}
+'''Saintrelmaux''' is a character from ''[[Final Fantasy XIV: Heavensward]]'' and is one of the several knights stationed at the Convictory.
+
+==History==
+Saintrelmaux was born in a noble family, his father was a knight in service of [[High Houses of Ishgard#House Haillenarte|House Haillenarte]] but due to the fall in [[Coerthas Central Highlands#Steel Vigil|Steel Vigil]] his family lost their status. His father took his own life and shortly after his mother flet. Believing that he was alone, Saintrelmaux goes to the Convictory alongside his retainer in search of an honorable death.
+
+[[Dominiac]] instructs Saintrelmaux to execute his plan to use weak dragon bodies to lure larger dragons until they can gradually defeat a powerful dragon and thus be recognized by Holy See. With the help of his retainer and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]], Saintrelmaux collects and prepares the bodies of dragons. During the mission, Saintrelmaux gains hope again and decides to fight to protect those who are important to him.
+
+When the wyvern's body is stolen by a nobleman, Dominiac sends Saintrelmaux in command of a troop to negotiate. During negotiation a dragon is attracted to the body and kills both the nobleman and some knights. After the events, [[Ayleth]] reveals the ring she received from a woman she had cared for in the past, and Saintrelmaux acknowledges that this was her mother's ring. Glad to hear Ayleth took care of his mother, Saintrelmaux promises that together they will be able to change the world
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+==Behind the scenes==
+Saintrelmaux shares his name with a missing [[non-player character]] from [[Final Fantasy XIV/Legacy|original ''Final Fantasy XIV'']]. Although both are Elezens of the same clan, they are different characters with no apparent relationship.
+
+==Gallery==
+<gallery>
+FFXIV HW Saintrelmaux.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Dragoons]]

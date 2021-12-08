@@ -1,0 +1,44 @@
+{{sideicon|prime=FFXIV}}
+{{DISPLAYTITLE:Odin (''Final Fantasy XIV'')}}
+{{infobox character
+|name=Odin
+|japanese=オーディン
+|romaji=Ōdin
+|image=OdinXIVRender.png
+|race=[[Primal]]
+|gender=Variable
+|type=boss
+|boss page=Urth's Fount (trial)
+|recurring appearance=Odin
+}}
+{{Quote|A fell knight clad all in black, Odin roams paths long forgotten beneath the canopy of the Black Shroud.<br />There are none now alive who know the truth of when or by whom this elder primal was first summoned into the world. Ever vigilant as he sits astride his mighty steed, Sleipnir, it is said that Odin is driven solely by the desire to do battle with worthy foes.|Official website}}
+'''Odin''' is a [[primal]] featured in ''[[Final Fantasy XIV]]''. Steel Reign and the Trial, Urth's Fount. While Steel Reign has been in the game since release, Urth's Fount was not released until Patch 2.5 outside the FanFest.
+
+==Profile==
+
+Little is known about Odin's origins. The minion's description hints that he is a character from northern mythologies, a deity wielding a Far Eastern blade known as the [[Zantetsuken (weapon)|Zantetsuken]] he stole from an [[Au Ra|Auri]] warrior he killed.
+
+Odin seems to be as old as the Third Astral Era, since it was around this time when [[Eureka]] created a [[primal]] version of the Zantetsuken from the myth. The weapon-like primal would possess mortal bodies, transforming them into Odin's image while riding [[Sleipnir]], a horse blessed by the primal itself. This primal is the one who wanders the [[Black Shroud]] during the Seventh Umbral Era.
+
+Despite being an ancient deity, when [[Fandaniel]] started his intention to unleash the Final Days, he reached to summon Lunar Odin from one of his [[Fandaniel's towers|towers]], indicating that there are still Odin's worshippers in the present day. Unlike the original, Lunar Odin seems to be a primal in its entirety, and not just the weapon.
+
+==Gameplay==
+Odin is fought in the [[Full Active Time Event|FATE]] {{icon|ffxiv|fate|Steel Reign}} and the trial {{icon|ffxiv|duty|Urth's Fount}}. While Steel Reign has been in the game since release, Urth's Fount was not released until Patch 2.5, ''[[Before the Fall]]''.
+
+{{Quote|Here I stand—a god amongst men. Yet here I remain—a mere man amongst gods.|Odin}}
+The Odin encountered in the Steel Reign FATE will take on the appearance and name of the player to who struck the finishing blow on him the previous time the FATE was completed. If the FATE was failed on the previous attempt, Odin will keep the appearance of that player until he is defeated. In the Urth's Fount trial, Odin will always use his original appearance.
+
+Odin's level varies between 50 and 60 during Steel Reign. Odin will gain one level every time the FATE is completed successfully, or lose one level if the FATE is failed.
+
+== Non-''[[Final Fantasy series|Final Fantasy]]'' guest appearances ==
+=== ''[[wikipedia:Phantasy Star Online 2|Phantasy Star Online 2]]'' ===
+The ''Final Fantasy XIV'' incarnation of [[w:c:phantasystar:Odin (Phantasy Star Online 2)|Odin]] appears as an "Emergency Code: Duel" boss enemy in the Japanese version of the game as part of collaboration agreement between Square Enix and [[wikipedia:Sega|Sega]]. This Odin is based on the battle of Odin's appearance at Urth's Fount. He has a variety of attacks, like his Gungnir and Sanngetal. Much like in ''Final Fantasy XIV,'' he will begin casting Shin-Zantetsuken when he nears defeat, and the player must defeat him before he finishes casting it, or face total annihilation and failure of the quest. While the original quest to fight him was limited-time only, he still appears randomly in Multi-Party Areas, similar to how he appears in FATES, and a teleporter to his Urth's Fount battle may still rarely appear when finishing certain quests. When he appears in Urth's Fount, he will be helmeted, but when he appears in a Multi-Party Area he will have the head of a Phantasy Star Online 2 character, mimicking his behaviour in FATEs. In both versions of the battle, the "FATE JOINED" message, jingle and sound effects will appear instead of "Emergency Code: Duel" message and voice over.
+{{clear}}
+
+{{Enemy section|Final Fantasy XIV}}
+==Gallery==
+<gallery>
+FFXIV Lunar Odin.png|Lunar Odin
+</gallery>
+
+[[Category:Primals in Final Fantasy XIV]]

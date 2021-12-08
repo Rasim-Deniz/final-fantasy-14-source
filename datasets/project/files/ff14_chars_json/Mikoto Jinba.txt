@@ -1,0 +1,119 @@
+{{Infobox_character
+|name = Mikoto Jinba
+|release = FFXIV
+|japanese = ミコト・ジンバ
+|romaji = Mikoto Jinba
+|image = FFXIV Mikoto profile.png
+|race = [[Au Ra]]
+|gender = Female
+|height = 4'8" (58.7 in.)
+|hair = Blonde
+|eye = Dark Blue
+|designer = [[Yasumi Matsuno]]
+|age = 24{{cite|FFXIV|{{icon|ffxiv|item|field notes on mikoto}}|name=field notes}}
+|affiliation = Sharlayan
+|occupation = Archon
+|job = {{icon|ffxiv|discipline|conjurer}}
+|weapon = Shire Crook
+|abilities=Archon's Stone IV, Cure II,  Magic Mark, Archon's Levitation
+}}
+{{Quote|I thought you'd be taller.|Mikoto to the Warrior of Light}}
+'''Mikoto Jinba '''is a [[non-playable character]] from ''[[Final Fantasy XIV]].'' She is an Archon from [[Sharlayan]] requested to assist [[Jenomis cen Lexentale]] in understanding [[Auracite]] and its [[Aether|aetherial]] properties. She has an identical older twin sister named Kagura who is missing.
+
+== History ==
+===Early life===
+Mikoto was one of the youngest to attend the Studium, eventually becoming an Archon in Sharlayan due to her research in the field of aetherology. When not conducting field research she conducts lectures within the Studium.<ref name = Personal/>
+
+Mikoto has an identical twin sister named Kagura, but aside from their appearance and thirst for knowledge, she could not be more different from her sibling. Where she is calm and measured, Kagura is headstrong and forthright. Mikoto and Kagura did not get along and rarely talked to each other. Upon entering Studium, the two took care of their own business and rarely saw each other. Though Kagura won her Archon's mark earlier than Mikoto, she incurred the ire of the Forum for openly criticizing their policies and was ultimately stripped of her title. She left Sharlayan in disgust, and has not been seen since.
+
+Mikoto could not help but worry for her sister, and though it was no fault of her own, she felt ashamed for not having done more to aid her. Her anguish did not go unnoticed by her senior Moenbryda, who took it upon herself to reach out to her lest she do something ill advised. Taking Mikoto under her wing, she would find every opportunity to make conversation, be it about academic matters or the mundane. In time, [[Moenbryda Wilfsunnwyn|Moenbryda]] would become like to a sister she never had, someone with whom she could share her hopes and dreams and disappointments. Their relationship was the catalyst for Mikoto to harbor an interest in others as well as the world beyond the Studium's walls. Yet despite Moenbryda's encouragement, it would be some years before she worked up the courage to take to the field.
+
+The news of Moenbryda's death came as a terrible shock to Mikoto. Unable to accept her friend's passing, she spent days in denial. It was only when she received a missive from [[Urianger Augurelt|Urianger]] confirming events that the painful reality finally set in. Since that day, Mikoto has not shied from venturing forth, and gladly takes on tasks from outside groups such as the [[Scions of the Seventh Dawn]]. What matters is that she strives for the benefit of others─as her dear friend once did.<ref name="field notes"/>
+
+===''[[Final Fantasy XIV: Stormblood]]''===
+[[File:Otius Disc.png|thumb|Discussing the Otius.]]
+Mikoto is brought onboard the ''Prima Vista'' by Cid to study the Auracite and understand its properties. Once the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and [[Lina Mewrilah]] board, Mikoto introduces herself as a member of House Jinba, a noble house in [[Doma (Final Fantasy XIV)|Doma]], and a student from Sharlayan. After joking about the hero's height, she brings the Otius over to the group and begins to share her findings, although not knowing where to start Jenomis steps in and assists her. She explains the Otius is different from other crystals, as it not only absorbs elemental aether, but immaterial aether as well, such as thoughts, memories, feelings, and one's very will. Losing her audience, she explains the process is identical to summoning a [[primal]], although the Auracite is its own source of power. During her research she concluded that Auracite was created by someone, and that the Otius was empty of Jenomis's aether, though it was in his possession the longest.
+
+[[File:Bangaajournal.png|left|thumb|The Bangaa Brothers seeking help]]
+After the Warrior of Light helps the two [[Moogle (race)|moogles]] [[Six moogle siblings|Hurdy and Montblanc]], they return to find the band of [[bangaa]] siblings from the ruins of [[Lesalia]] at odds with [[Ramza bas Lexentale]]. The bangaa explain that their leader, [[Ba'Gamnan]], has been acting strange and has gone missing, having come to the crew seeking assistance. They explain that Ba'Gamnan could have been transformed by the Auracite, and ask what his deepest desire is. The bangaa explain they were fusiliers in the Dalmascan army stationed at [[Nalbina Fortress]] thirty years ago. They were tasked with escorting [[Ashelia B'nargin Dalmasca (Final Fantasy XIV)|Princess Ashelia]] to safety, but failed, and the group has felt shame about their failure ever since. Mikoto concludes the shame Ba'Gamnan feels has nourished the Duma, and that it has taken possession of him. Ramza begins arguing with [[Bwagi Ennze Panca|Bwagi]], but Jenomis finds something added to the final page of his journal: written in Dalmascan, "[[Ridorana]]". Mikoto tells of a place on the Valnard sea, far south of [[Rabanastre]] with a gaping maw known as the Ridorana Cataract, legends believing it the entrance to the Hell of water, and scholars descended into the chasm with none returning.
+
+[[File:FFXIVRaslerAuracite.png|thumb|Auracite entrusted to Ba'Gamnan.]]
+Following the demise of the transformed Ba'Gamnan, Ramza and the Warrior of Light return to the ''Prima Vista'' with a necklace identical to Ramza's mother, Tia. On the airship, Jenomis and Mikoto study the crystal as it previously left Ramza unconscious, but Montblanc tells them both necklaces are Auracite. Bwagi explains it was entrusted to Ba'Gamnan to return to Princess Ashelia. Ramza wakes from his rest acting strange, telling everyone the Auracites guide them to [[Ivalice]], and that [[Ramza Beoulve]] wants them to uncover the truth of his homeland and the truth behind the origin of the kingdom. After touching the Otius once more, Ramza falls to the ground and returns to his usual self, leaving everyone confused at to what just transpired.
+
+The Warrior of Light arrives on the Prima Vista earlier than expected in time to discuss the fruition of their previous discoveries. Their discussion leads on to Ramza Beoulve fighting against the unknown force known as Lucavi and Jenomis reveals the leader to be Ultima, the High Seraph. The Warrior of Light recounts their encounter with the Ultima spell in the Pratorium and Mikoto chimes in saying that the Ultima spell could be an Allagan interpretation of the High Seraphs magics. She tells the group that her colleagues all agree that the spell shouldn't be possible, but it would be if the Allagans learned it from a being not from this world. The group is interrupted by Cid arriving aboard the airship to deliver an item to Mikoto before leaving.
+
+After the troupe is shown the location of the monastery, Alma enters the room once more. Her father and brother protest against Mikoto's idea to separate her from the Otius, and once the argument reaches a boiling point, it is revealed that Alma is being possessed by Ultima. In an attempt to break Ultima's sway on the girl, Mikoto readies her tool from Cid, only for Alma to be taken away through a portal. She hands over the small staff to the Warrior of Light and tells them that it should be able to match the Otius's power and disrupt Ultima's control, with a way to save Alma from the High Seraph's clutches the Airship departs to the Golmore Jungle.
+
+With Ramza being taken instead of her sister, Mikoto blames herself for the staff being flawed. Fran cheers her up by saying it succeeded in shattering the Otius and saving Alma, Fran also wonders what Ultima meant by "blood of my invokers" possibly believing it to be Jenomis' ancestors. Jenomis Refutes this claim stating that Ultima was around long before Ivalician Legend. At that moment Alma's necklace begins to glow and the Warrior of Light receives an Echo flashback to the moment Orran Durrai tells Delita Heiral of Ramza's wish. The group realizes that Orran was the one to Erase Ramza's tale from history, and that Ultima actually wants Hydaelyn's chosen as her vessel. 
+
+[[File:FFXIV Mikoto and Lina.png|thumb|Mikoto and Lina Laughing at the moogles.]]
+With Ultima defeated and Ramza safe, everyone watches Ramza and Alma perform their final act of the Zodiac Brave Story. Sad that the adventure is over Mikoto tells the Warrior of Light that this has given the world's scholars much to consider and suggests that Sharlayan will have to open a school of Ivalician studies to keep up. She becomes inspired by the Warrior of Light and vows that she will put a request with the Students of Baldesion for an increase in Field research.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+Mikoto is requested by the Bozjan Resistance to help them in understanding how an ancient group of people used crystals to help ailments of the mind to help them build new weapons based off of weapons from the past. Although she has the help of [[Gerolt Blackthorn|Gerolt]], she is unable to continue further and requests assistance from the Warrior of Light. Once they arrive she explains the situation and reveals that she too has the echo, which allows her to see slight visions into the future. She requests the aid of the Warrior of Light because they are more talented in the gift, and may help them delve into people's memories to find important information. The Warrior of Light and Mikoto test the crystal on Gerolt, diving into the memory of his first arrival to [[Gangos]], although slightly altered. [[Bajsaljen]] the leader of the Bozjan Resistance seeks someone who might have a memory of the inscriptions that were on the original Gunhildr's Blades. Cid Garlond is suggested, and the Warrior of Light goes to seek him out.
+
+Upon arrival they begin to delve into his memory and are taken to an altered memory of Bozja and the events that transpired the day Cid entered the transmission tower. After fighting through a memory of a rebellion taking place, the group is attacked by memory antibodies attempting to remove them. After fighting a antibody of [[Bahamut (Final Fantasy XIV)|Bahamut]], the three enter the facility to witness an argument unfolding between Cid and his father [[Midas nan Garlond]]. His father storms off and Cid gives chase in attempt to stop him from continuing project meteor. Cid can't recall correctly who was there, believing it was [[Emet-Selch|Solus]], and then [[Varis zos Galvus|Varis]] who ends up shooting Cid in the chest. After Mikoto tells Cid it is just a memory, he comes to his senses and Varis attacks the group. After the Warrior of Light summons memories of their allies to help defeat Varis, it is revealed that the one who shot Cid was his father and that he was enthralled by the primal Bahamut.
+
+Mikoto gives the inscriptions of the original weapons to Gerolt and the resistance while also telling the group that the crystal is no longer responsive due to the aether being depleted. She tells the group she can find ways to replenish its aether and thanks Cid for his assistance. Before he can leave however Mikoto stops him, telling him that if he ever feels lost he can confide in her. Not fully understanding what she meant Cid tells her he will come to her if he has any problems related to aether. Mikoto shakes her head and becomes embarrassed telling the Warrior of Light that she has to work on fixing the crystal.
+
+After analyzing the crystal focus, it proved that it could be recharged. The problem, however, is that the means to do this require infiltration into imperial territory. With the help of Warrior of Light and [[Misija Votyasch|Misija]] they install sensors placed in key locations close to the region's largest aether currents to analyze and track a current capable of recharging the crystal. Once done, Misija reveals herself as a traitor and runs off with the crystal taking Mikoto hostage. At [[Castrum Lacus Litore]], Misija uses the technology of the Resonatorium to copy Mikoto's [[Echo (Final Fantasy XIV)|Echo]] and become a [[Resonant]]. 
+
+[[File:FFXIV Misija and Mikoto in Castrum.png|thumb|Misija using Mikoto as a hostage.]]
+After the Battle of Castrum Lacus Litore, Misija appears with Mikoto, as well as the crystal focous and the legendary Save the Queen blade. Using Mikoto as a hostage, Misija orders the Warrior of Light to use Echo on the crystal to explore the memories within the sacred blade. Thus Misija changes the memories of Save the Queen, allowing her to summon Queen [[Gunnhildr]] as a primal and temper the minds of Gunnhildr's Blades. The Warrior of Light manages to protect Bajsaljen and Marsak from being tempered and Mikoto attempts to retrieve the crystal focus only to be hit with an aetherial slash from Misija. With the help of Bwagi the Resistance manages to retreat from the Castrum with Mikoto.
+
+Following their retreat, every encounter with the IVth legion has resulted in a stalemate with neither force making any headway because of Misija's primal. Mikoto is part of the discussion telling the group there may be a way to cure the blades' tempering. Suddenly a soldier alerts the group of another summoning on the field of battle and Mikoto runs off. Near the Old Bozja ruins, Mikoto spies on Misija who tempers a soldier. Lyon walks up asking why she spared the other two soldiers, before she orders the tempered to cut them down. She leaves, and Lyon stays behind, revealing the state of the legion knowingly within earshot of Mikoto and the Warrior of Light. They both have an echo of the future, and leave to report their findings to Bajsaljen.
+
+[[File:Mikoto and Gabrial Mark III.png|Left|thumb|Gabriel Mark III ready to charge at Mikoto.]]
+Mikoto shares with the group that the way Misija summons a primal is similar to the Lucavi and auracite they discovered in Rabanastre. Knowing that the crystal focus Misija uses is running out of aether, the resistance plans on capturing her or the blade before another source can be found. As Mikoto's vision is coming true with thunderclouds overhead, they prepare a force intent on capturing her. Outside the Last Trace ruins, they follow Misija and her soldiers inside, and order her to surrender. She springs a trap summoning more soldiers and the tempered to her aid. Mikoto assists in fighting and following the soldiers defeat, fights Misija on her own. Once the door further into the ruins is opened however, she retreats and Mikoto gives chase. As she does she is stopped by a Gabriel Mark III who attempts to ram her only for it to be stopped by [[Rostik Liubasch]] allowing her and the Warrior of Light to continue on.
+
+They enter [[Delubrum Reginae]] where they encounter the transformed gunnhildr's blades, and eventually Misija herself who uses a large crystal's aether to fully transform herself into a primal. The Warrior of Light, Mikoto, and an entourage of adventurers defeat Misija and capture her. Back at the main camp in the Southern Front, they discuss what they will do with Misija and the Save the Queen blade is given to Mikoto. Suddenly she has a vision where she is plummeting from an airship, and drops the blade. As Bajsaljen tells her to rest Bwagi notices the IVth's airship fleet approaching the southern front, and orders a retreat back to Gangos.
+
+=== The Battle of [[Zadnor]] ===
+The IVth legion retreats to Zadnor as the Resistance sets up camp near the Southern Plateau. Mikoto assists the Warrior of Light and the Garlond Ironworks in redirecting aether into a device that can shield the resistance camps from airstrikes. As they push closer to the ''[[Dalriada]]'', Mikoto and the Warrior experience a vision in which Mikoto falls from a ship protecting Cid and others from a crashing Garlean dreadnought. Mikoto prevents the Warrior from talking about it to the others. Eventually, Cid develops a plan to utilize the properties of the crystal focus to create an EMP to ignite the ceruleum lines within the Dalriada, having one of Lilja's devices to direct the aetherial currents to a more convenient location for the plan and the usage of Bwagi's airship, the ''la'sar'' due to its speed and maneuverability. Mikoto volunteers to join the operation with him as a guarantee of success according to her vision. Lilja and Bwagi note her odd behaviour and confront the Warrior, who divulges the truth. While Lilja herself would be occupied, Bwagi makes a discreet call for assistance from the Dalamscan Resistance.
+[[File:Mikoto protecting the Airship.png|left|thumb|Mikoto using a shield to protect the crew from the falling airship.]]
+Their plan goes underway and as the ''la'sar'' approaches, the Dalriada uses the power of the [[Allagan Empire|Allagan]] relic to try and take down the airship, but fails causing destruction throughout the plateaus. Imperial forces attempt to stop the Warrior and Lilja, the latter whom is heavily injured with shrapnel from magitek predator missiles. She pushes through her injuries and pushes the button on the device, successfully activating the beacon. Cid activates the EMP, causing the Imperial ship to force to land, while heavily damaging the surrounding airships. this leads to the events of Mikoto's visions coming true, causing her to fall off the ship from the impact of a garlean airship hitting her shield. She is rescued by Fran, who answered Bwagi's call for assistance.
+
+
+With the Dalriada grounded, the Resistance discuss the power the imperials used against them. Cid theorizes that it may be a Allagan war machina similar to Ultima. Cid and Mikoto take Lilja to Doma for treatment of her wounds, declaring time is of the essence, while the resistance prepares to assualt the grounded flag ship.
+
+Following the resistance's victory over the IVth, they celebrate back at Gangos where Mikoto and Cid return from Doma to deliver the news that Lilja is alright. Mikoto wanders off to where Save the Queen rests and asks the Warrior of Light if they sense anything within the blade. They respond with a no and she states that the residual aether is gone and the queen is no more. 
+
+== Characteristics==
+===Appearance===
+[[File:Mikoto Jinba.png|left|thumb|Mikoto portrait]]
+Mikoto is a Raen [[Au Ra]] with dark blue eyes, and blonde hair with light brown highlights.
+
+She wears a sky pirate coat of casting dyed ice blue, republican halfgloves, a taffeta loincloth for the pants that are dyed pure white, and Ghost Barque Shoes of Casting. In battle she wields a Shire Crook dyed sunset orange.
+
+===Personality===
+Mikoto is polite and intelligent, highly knowledgeable in Aetherology and geography. As she hails from Sharlayan, she is educated, and when speaking on the subject of aetherology, she has a tendency to rattle off a flurry of advanced terminology to the confusion of those present. At times she has to stop and think about explaining things, such as when she first describes the aetherial properties of the Otius she only receives blank stares. Yet by the same token, she is not easily flustered, maintaining her composure in times of danger and duress. Mikoto was very close to Moenbryda, seeing her both as mentor and like to a sister. Mikoto never got along with her twin sister growing up, and hasn't spoken with her since her sister earned the title of Archon at the Sharlayan Studium.  However, although they don't get along well, Mikoto cares for her sister deeply.<ref name = Personal> Personal Dialogue after Bozjan resistance questline </ref> While in Gangos it is revealed that she has slight feelings for [[Cid Garlond|Cid]], as she became embarrassed when she is stared at by the Warrior of Light after she tells Cid he can confide in her about his emotions. She also cares for Misija, noting that the way she is treated by other soldiers shouldn't lead to more hatred and bloodshed, telling her that there is another way.
+
+=== Abilities ===
+Mikoto is blessed with the [[Echo (Final Fantasy XIV)|Echo]], her manifestation of the power allowing her to see into the future. While resembling prophetic dreams and divinations, the visions that are revealed are events that cannot be changed, and given that she cannot see them at will, nor clearly, Mikoto does not regard the ability as particularly useful. Mikoto is a conjurer who can use healing and offensive magics, she also has an ability that allows her to dodge attacks and can conjure a aetherial shield that can cover a large radius, enough to cover a small airship.
+
+==Gameplay==
+Mikoto serves as a supporting ally within the solo duty [[The Bozja Incident (duty)|The Bozja Incident]], and Delebrum Reginae acting as a [[White Mage (Final Fantasy XIV)|Conjurer]]. In Delubrum she casts Archon's Stone IV, Magick Mark, and heals players with Cure II. When going into dangerous area's that have floor traps she will also cast Archon's Levitation and give herself the levitation buff allowing her to avoid traps. She can also dodge certain attacks with an unknown ability.
+
+==Behind the scenes==
+Mikoto was created by Yasumi Matsuno during a ''Final Fantasy XIV'' livestream using the in-game character creator.
+
+Mikoto's age was originally given as 29 in ''[[Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II]]''{{cite|Encyclopædia Eorzea: The World of Final Fantasy XIV Volume II|p=119|name=Volume II}} and the {{icon|ffxiv|item|Field Notes on Mikoto}}. With the release of [[patch 5.55]], the Field Notes were updated to change her age to 24<ref>{{ref|title=Patch 5.55 Notes FINAL FANTASY XIV, The Lodestone|url=https://na.finalfantasyxiv.com/lodestone/topics/detail/fdea72f70dafb7da0f7145ebc3f8c7d56dacb702|date=May 25, 2021|access-date=May 26, 2021}}</ref>. According to Matsuno, Mikoto was originally meant to be around 24, with the notion that she was supposed to be younger than the 29 year old Moenbryda. When [[Menenius sas Lanatus]]'s age was changed in patch 5.55, Matsuno asked if Mikoto could be changed to her intended age as well, as he felt her mannerisms did not match her presented age.<ref>{{ref|title=Final Fantasy XIV Patch Fixes The Ages Of Non-Playable Characters|url=https://kotaku.com/final-fantasy-xiv-patch-fixes-the-ages-of-non-playable-1846971107|date=May 26, 2021|access-date=May 26, 2021|publisher=[https://kotaku.com/ Kotaku]}}</ref>
+
+==Gallery==
+<gallery>
+FFXIV Bozja mem3.png|Mikoto in Cid's Memory.
+File:Mikoto's dodge.jpg|Mikoto Dodging in Delebrum Reginae.
+File:Mikoto and the Blade's resting place.png|Mikoto and the Warrior searching for any sign's of the Queen's aether.
+</gallery>
+
+==Etymology==
+{{Etym|Mikoto}}
+
+==References==
+{{citations}}
+
+{{Navbox characters FFXIV}}
+
+[[Category:Au Ras]]
+[[Category:Characters in Final Fantasy XIV]]
+[[Category: White Mages]]

@@ -1,0 +1,92 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Nyelbert
+|release=FFXIV
+|japanese=ナイルベルト
+|romaji=Nairuberuto
+|lit=
+|aka=Naillebert {{J|ナイユベール|Naiyubēru}}, Phronesis,<br/>Magus of Darkness {{J|闇の魔人|Yami no Majin|Magician of Darkness}}
+|image=FFXIV HW Nyelbert.png
+|home=[[The First]]
+|age=
+|dob=
+|affiliation=[[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]]
+|occupation=Hero of the First<br>Magus of Darkness
+|race=[[Elezen|Elf]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eye=
+|laterality=
+|type=npc
+|job={{icon|ffxiv|discipline|black mage}}
+|weapon=
+|armor=
+|ultimate weapon=
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+{{Quote|So be it.|Nyelbert}}
+'''Nyelbert''', also known as the '''The Magus of Darkness''', is a character from ''[[Final Fantasy XIV]]''. He is a member of the the [[Warriors of Darkness (Final Fantasy XIV)|Warriors of Darkness]].
+
+During his time on the [[Hydaelyn|the Source]], Nyelbert went under the alias of '''Naillebert''', to match with the naming conventions [[elezen]]s use on the shard.
+
+==History==
+===Early life===
+[[File:FFXIV ShB young Nyelbert.png|thumb|Taynor and young Nyelbert.]]
+Nyelbert and [[Taynor]] were born as descendants of a consortium of powerful magicians, whose leaders sought to master the art of opening portals to other worlds, to summon powerful entities from the [[void]]. To that end, they were taught in the arcane arts from an early age, their skills employed in dangerous experiments. One day, one of these experiments went wrong, and Taynor was sucked into a gap between the worlds.
+
+Nyelbert leaves his home and sets out on a journey to try to bring his friend back. Nyelbert ends up lending his strength to the [[Ardbert]] warrior and his party to bring down a terrible bovine beast that has risen from the bowels of the earth to wreak havoc on the dwarf mines. Nyelbert confesses that he wanted to claim the magical stone in the demon's power and harness his energies to save his friend Taynor, but ends up destroying the stone in tears when it is revealed that failing to do so would destroy the mountain and endanger countless lives. In the end, he joins the group of adventurers in earnest, with Ardbert promising to stay with Nyelbert until they can find a way to return Taynor to this world.
+
+During his travels, Nyelbert and his companions—Ardbert, [[Branden]], [[Lamitt]], [[Renda-Rae]] and [[Cylva]]—traveled across the realm vanquishing evil, eventually coming to blows with one of their own, Cylva, who revealed herself as the Shadowkeeper and ally to the [[Ascian]]s. Ardbert spared her life, unable to kill someone he could call a close friend. They turned their weapons against the Ascians, [[Mitron]] and [[Loghrif]].  With their deaths a [[The Flood|Flood of Light]] came crashing down on [[the First|their world]], eradicating all life in its wake. To save their world, the Warriors were approached by the Ascian [[Elidibus (Final Fantasy XIV)|Elidibus]] who offered them a chance to save their world by journeying to [[Hydaelyn|the Source]], telling them that by causing a [[Umbral Calamity|Calamity]] they could halt the Flood. Doing so, however, would require them to sacrifice their corporeal forms, leaving them as souls that would nonetheless have a physical and tangible presence.
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+[[File:FFXIV WoD.png|thumb|left|The Warriors of Darkness.]]
+With Elidibus's help, the warriors arrive on the [[moon]] of the Source world where [[Zodiark (Final Fantasy XIV)|Zodiark]] lays dormant. To save their world, a shard of the Source world known as [[the First]], the Ascian tells the warriors they must sow chaos by slaying [[primal]]s and, should they come across them, the Source's [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]]. To that end, each of Ardbert's party becomes a Warrior of Darkness. To blend in with the unfamiliar world, each takes up a pseudonym, Nyelbert calling hiself Naillebert.
+
+Their first primal encounter is against [[Ravana (Final Fantasy XIV)|Ravana]]. They encounter the Warrior of Light and their companions, and introduce themselves by fighting them. Thanks to the timely intervention of a [[Thancred Waters|skilled Rogue]], the group retreats, but not before revealing who they are. Sometime later, the Warriors of Darkness are told of the summoning of a primal at the top of Xephatol with a new [[Urianger Augurelt|masked mage]] at their side. They are too late as the Warrior of Light had slain the priest who attempted the summoning, accompanied by a familiar-looking youth.
+
+A final confrontation at the [[The Bowl of Embers|Bowl of Embers]] reveals to the [[Scions of the Seventh Dawn]] that the Warriors of Darkness offered up their lives in their own world to travel here. When they begin to use their crystals of light, the Warrior of Light draws upon their own and transports them all to the realm of [[Hydaelyn (character)|Goddess Hydaelyn]]. Here Ardbert attempts to strike down [[Minfilia Warde|Minfilia]] when she offers to save the First, but is stopped, and promises to return they to the First with her.
+
+===''[[Final Fantasy XIV: Shadowbringers]]''===
+[[File:FFXIV ShB Phronesis.png|thumb|Phronesis.]]
+Back in The First, Minfilia uses the souls of the Warriors of Darkness to stop the Flood of Light, except for Ardbert's soul. Nyelbert's body became Cardinal Virtue Phronesis, a powerful [[sin eater]] who evokes compact dimensional portals swallow everything around them into the void.
+
+The Warrior of Light manages to rescue Taynor from one of the open portals. Taynor uses his magic to attract Phronesis and together with the Warrior of Light and [[Cerigg]] give Nyelbert rest. In the last moments of the sin eater, Nyelbert's memories manifest, revealing how the archmage continued to look for a way to bring his friend back from the crevice until the end of his days. Taynor offers words of comfort in the vain hope of freeing him from his torment. Although it is unlikely that Taynor's words really reached his Nyelbert, the experience nevertheless allowed the boy to come to terms with his past and his own conflicting feelings.
+
+==Characteristics==
+===Appearance===
+Nyelbert is identical in appearance to the elezen from the [[Final Fantasy XIV/Legacy|original version]] and ''A Realm Reborn'' openings, though his attire is blacked.
+
+{{spoiler}}
+Upon becoming the Cardinal Virtue Phronesis, his appearance remains the same, though he has black and red eyes, plaster-like white skin, and his body is surrounded by a ghastly white glow.
+{{Endspoiler}}
+
+===Personality===
+Nyelbert as originally shown in Heavensward was a man of few words who gave off an imposing air. In the First, he was initially a stand-off ish person with an aloof air about him though he is beset with grief and regret over not being able to save his friend Taynor from the void and consumed with the desire to see him saved, though not at the cost of other people's lives, such as when he crushed the jewel that would have granted him the power he needed, instead choosing to save the mountain and its people.
+
+==Gameplay==
+During Patch 3.4 Soul Surrender, Nyelbert is fought as the Magus of Darkness alongside other Warriors of Darkness during the quest {{icon|ffxiv|quest|One Life for One World}} in a [[solo duty|special instance]].
+
+[[FIle:FFXIV ShB Nyelbert role-play.png|thumb|Nyelbert in role-play mode.]]
+In ''Shadowbringers'' expansion, Nyelbert is temporarily playable during the magical DPS role quest {{icon|ffxiv|quest|Nyelbert's Lament}}. As a Black Mage, he has access to Ronkan versions of Flare, Fire III, Blizzard III and Thunder III. As he lacks the Astral Fire and Umbral Ice traits as well as Thundercloud, he cannot strength his spells or increase his MP regeneration or cast instant Thunder III. Instead, Blizzard III acts as an MP absorption spell that recovers 5000 MP on hit and requires no MP to cast. His Limit Break is Falling Star, a version of Starstorm.
+
+Nyelbert is fought one last time as Phronesis in final magical DPS role quest {{icon|ffxiv|quest|A Tearful Reunion}}.
+{{Clear}}
+{{Endspoiler}}
+
+<gallery>
+FFXIV Warriors of Darkness.png|Artwork.
+FFXIV Warriors Of Darkness In Game.png|Appearing in the Source.
+FFXIV ShB Ardbert party.png|Ardbert's party.
+FFXIV Lamitt and Nyelbert sacrifice.png|Lamitt and Nyelbert sacrifice.
+FFXIV ShB Taynor and Nyelbert spirit.png|Nyelbert's memories manifest.
+</gallery>
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Elezens]]
+[[Category:Black Mages]]
+[[Category:Antagonists]]
+[[Category:Guest characters]]

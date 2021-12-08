@@ -1,0 +1,36 @@
+{{sideicon|prime=FFXIV}}
+{{infobox character
+|name=Eueliss
+|release=FFXIV
+|japanese=ユーリス
+|romaji=Yūrisu
+|aka=
+|image=FFXIV ShB Eueliss.png
+|home=[[Kholusia#Wright|Wright]]
+|age=
+|dob=
+|affiliation=
+|occupation=Temporary mayor of Wright
+|race=[[Hyur|Hume]]
+|gender=Female
+|hair=
+|eye=
+|type=npc
+|lit=Yulis
+}}
+'''Eueliss''' is a character from ''[[Final Fantasy XIV: Shadowbringers]]''. She is the daughter of former mayor of Wright.
+
+==History==
+Eueliss is the daughter of Cliftol, the mayor of Wright. Eueliss refuses the invitation to join to [[Eulmore]] and soon after her village is attacked by [[sin eater]]s. During the attack her father dies and she takes over her position as mayor. Recognizing that he has neither the age nor the knowledge to remain in office, Eueliss and the other villagers agree to name Cliftol's friend [[Sai-Lewq]] as mayor. Sai-Lewq feeling guilty about failing to save his friend declines the post. He goes out and makes several requests to Eueliss and the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] until he decides to overcome his past and accept the post of mayor.
+
+{{Section}}
+
+==Characteristics==
+===Appearance===
+
+===Personality===
+{{Section|Final Fantasy XIV}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]

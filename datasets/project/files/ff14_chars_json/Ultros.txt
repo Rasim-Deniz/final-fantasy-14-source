@@ -1,0 +1,278 @@
+{{sideicon|FFI|IVTAY|FFVI|FFXII|XIII2|FFXIV|FFXV|FFTA2|FFTS|FFD2|DFF2008|D012|TFF|TFFCC|PFF|FFAB|FFATB|FFRK|FFWWW|FFBE|Mobius|WoFF|ChocoD|ChocoD2|FFTCG}}
+{{FA|April 1, 2009}}
+[[File:VIUltrosArt.png|thumb|200px|Artwork of [[Terra Branford|Terra]] battling Ultros and Typhon by [[Yoshitaka Amano]].]]
+{{Quote|I've got more lives than I do arms!|Ultros}}
+'''Ultros''' {{J|オルトロス|Orutorosu}}, also known as '''Orthros''', is a recurring enemy in the [[Final Fantasy series|''Final Fantasy'' series]]. Ultros is a carnivorous purple octopus with a writhing mass of tentacles who has a mouth full of fangs. He frequently cracks corny jokes and makes lecherous comments towards female party members. Ultros works with his partner [[Typhon]], who provides the muscle Ultros lacks. Ultros first appeared in ''[[Final Fantasy VI]]'' as an incompetent but recurring [[boss]], and has since been featured in several other games as an optional encounter.
+
+Since ''[[Final Fantasy XIII-2]]'', Ultros is voiced by Masaya Onosaka in Japanese.<ref>Interview with Yoshinori Kitase and Motomu Toriyama, p200, April 12, 2012 issue of ''Weekly Famitsu''</ref> In the English releases, he is voiced by [[Sam Riegel]] in ''[[World of Final Fantasy]]'' and [[Dave Wittenberg]] in ''[[Mobius Final Fantasy]]''.
+
+==Profile==
+===Appearance===
+Ultros is a large purple octopus with red eyes and a mass of tentacles that usually appear to emerge from his mouth below a row of sharp fangs, but his lower mouth is never seen. In almost all instances this gives him an iconic mocking grin. Ultros is not always depicted with eight tentacles, as real-life octopuses have, and is sometimes pink instead of purple. He has spots on his body in some appearances, and in ''Final Fantasy XIII-2'' he has white markings. While his exact size varies, Ultros is usually larger than the party. His trademark attacks are [[Tentacle (Ultros ability)|Tentacle]] and [[Octopus Ink]].
+
+===Personality===
+Ultros rarely, if ever, bears proper reason for his antagonism, and is often regarded as a bizarre nuisance who just likes causing trouble, rather than being truly evil. He adores females but hates males, and when fought often comments on how attractive the females are and how repulsive the "muscle head" males are. Ultros relies on his partner "Mr. Typhon" for assistance, as Typhon is much more powerful and durable.
+
+Ultros thinks highly of himself, referring to himself as "octopus royalty" in ''Final Fantasy VI''. He mocks the party and speaks in an over-the-top fashion. When fought he protests when attacked, specifically hating when [[Terra (Final Fantasy VI party member)|Terra]] casts [[Fire (ability)|Fire]] on him in ''Final Fantasy VI'', and calling out "No more!" when attacked in ''Final Fantasy XIII-2''. At heart he is a coward, fleeing from battle and calling in Typhon for help when the tide of battle turns against him.
+
+==Appearances==
+===''[[Final Fantasy]]''===
+[[File:Orthros psp.png|right|Orthos (PSP).]]
+{{Quote|Uwee hee hee! What have we here? I'm warning you, I'm armed... Eight-armed, that is! Uwee hee hee!|Orthros}}
+{{main|Orthros (Final Fantasy)}}
+Orthros is a boss in the [[Soul of Chaos (Final Fantasy)|Soul of Chaos]] dungeon, at [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]]. Orthros retains his sense of humor and his ink attack to [[Blind (status)|blind]] the [[party]]. However, he lacks his trademark attack, Tentacle. Defeating him earns the [[Final Fantasy weapons#Rune Staff|Rune Staff]].
+
+===''[[Final Fantasy IV: The After Years]]''===
+{{main|Orthros (The After Years)}}
+Orthros is one of four bosses from ''Final Fantasy VI'' that the party can fight on the [[True Moon]]. He uses a variation of his battle patterns from the third battle in ''Final Fantasy VI'', and will comment on how cute the females are and berate the males as "muscle men". After the fight the party is confused by the encounter, but [[Rydia]] remarks he did not seem like a bad person, if somewhat strange.
+
+"[[Dancing Calbrena|Dancing Calcabrina]]" plays during the first phase of the fight with Orthros, switching to the usual [[boss theme]] in the second phase.
+
+In the 3D versions, Orthros is excised.
+{{clear}}
+
+===''[[Final Fantasy VI]]''===
+[[File:Ultros-ffvi-ios.png|right|Ultros's sprite in battle.]]
+{{main|Ultros (Final Fantasy VI)}}
+[[File:Ultros-field-ffvi-ios.png|left|Ultros' field sprite.]]
+Ultros makes his debut as a recurring boss and minor character. Ultros appears in four boss battles and is relatively easy to defeat. His primary role is as comic relief, as he is not tied to any faction within the world. In the [[World of Ruin (Final Fantasy VI)|World of Ruin]] he can be found working in the [[Dragon's Neck Coliseum]], a quirk that is referred to in later appearances in the series, where Ultros tends to appear at [[battle arena]]s.
+{{clear}}
+
+===''[[Final Fantasy XII]]''===
+{{For enemy|Orthros (Final Fantasy XII)}}
+[[File:XII orthros render.png|165px|right|Orthros, as seen in the bestiary's entry.]]
+Orthros is a Rank V [[Hunt (Final Fantasy XII)#Elite Marks|Elite Mark]] fought in the Southern Sluiceway of the [[Garamsythe Waterway]]. Being a lecher, Orthros only appears when the party is made up of three female characters (but afterwards male characters can be switched in, and [[guest]]s—[[Larsa (Final Fantasy XII party member)|Larsa]] and [[Reddas (Final Fantasy XII party member)|Reddas]]—won't prevent his appearance). Orthros is also a thief. This time he is a [[Flan (enemy family)|flan]]-type enemy rather than an octopus. The picture on his bill shows him in the same pose as his sprite in ''Final Fantasy VI''.
+
+A fighter group in the [[Battle above Rabanastre]] is also called "Orthros".
+{{clear}}
+
+===''[[Final Fantasy XIII-2]]''===
+{{main|Ultros (Final Fantasy XIII-2)}}
+[[File:Ultros XIII-2.png|right|200px|Ultros.]]
+{{Quote|What a pretty little girl! I do like 'em pretty! But look at this boy, he's even prettier!|Ultros upon seeing Serah and Noel}}
+Ultros appears as [[Final Fantasy XIII-2 downloadable content|downloadable content]] in the [[Coliseum (Final Fantasy XIII-2)|Coliseum]], referred to by the [[Arbiter of Time]] as Ultros the Uninvited due to the octopus barging into the Coliseum and the Arbiter wanting him gone by any means. As the battle begins, Ultros flirts with [[Serah Farron]] while screwing with [[Noel Kreiss]]'s head prior to calling [[Typhon (Final Fantasy XIII-2)|Typhon]] to lend him a helping hand.
+
+After Typhon is defeated, Ultros tries to escape, but Serah pins his tentacles to the ground with arrows as she and Noel combine their fire spells to fry Ultros and knock him unconscious. Upon defeat, he can be recruited into the [[Paradigm Pack]] as a [[Synergist (Final Fantasy XIII-2)|Synergist]] as a reward for a perfect [[Command Synergy Battle#Cinematic Action|Cinematic Action]].
+{{clear}}
+
+===''[[Final Fantasy XIV]]''===
+[[File:FFXIV Ultros.png|right|200px|Ultros.]]
+Ultros, using a modified version of his ''Final Fantasy XIII-2'' model, appears in the [[Hildibrand Manderville]] sidequests for patch 2.4 as an receptionist for Dour Meadow at Master Fygreis's Coliseum. He attempts to sabotage the competitors and attempts to ask [[Gilgamesh (Final Fantasy XIV)|Gilgamesh]] to help. When attacked by [[Godbert Manderville]], Ultros is revealed to be helping Avila with Typhon. Once the deception of Avila's Tempest Blade is exposed, Ultros pins the blame on Avila and convinces Dour to let him and Typhon fight the [[Warrior of Light (Final Fantasy XIV)|adventurer]] in the Dragon's Neck arena. After losing, Ultros is present at the award ceremony before he and Gilgamesh are sent flying by Typhon's wind. Ultros and Typhon are described as being [[The Void (term)|Voidsent]] summoned by the [[Black Mage (Final Fantasy XIV)|Thaumaturge]] Guild's experiments.
+
+Players can obtain a "Wind-Up Ultros" [[Minion (Final Fantasy XIV)|minion]] as a random treasure from the aforementioned battle.
+
+Ultros made a guest appearance during the 2017 [[Moonfire Faire]], where he appeared in the event FATE "The Summer of Ultros." Adventurers must subdue him before he can harass the beachgoers. Upon defeat, he promises he'll be good and spends a few in-game hours leering at beach girls from a distance before returning to the sea.
+
+Ultros makes another appearance at the Sigmascape v3.0 as an add during the Guardian fight.
+
+Ultros reappears as in the stage "Miss Typhon" in acts 2 and 3 at [[The Masked Carnivale]].
+
+<gallery>
+Ultros Hildibrand Trailer.png|Ultros in Hildibrand teaser trailer.
+Ultros wants some a.png|Ultros in Hildibrand teaser trailer.
+Blushing Ultros.png|Blushing Ultros.
+FFXIV Ultros Stalking.png|Ultros stalking Julyan Manderville.
+FFXIV Typhon Ultros.png|Typhon and Ultros in the Dragon Neck's Coliseum.
+FFXIV Cooked Ultros.png|Ultros is cooked.
+FFXIV Ultros Summer 2017.png|Ultros during the 2017 Moonfire Faire.
+</gallery>
+
+===''[[Final Fantasy XV Universe]]''===
+[[File:FFXV Ultros Artwork.png|thumb|Artwork.]]
+{{Main|Ultros (Final Fantasy XV)}}
+Ultros is a [[Daemon (Final Fantasy XV)|daemon]] that appears in ''[[Kingsglaive: Final Fantasy XV]]'' as an adversary to the [[Kingsglaive (group)|Glaives]], and in ''[[A King's Tale: Final Fantasy XV]]'' as the final boss. Ultros is a monstrous purple octopus with a large mouth. He is much bigger than an average daemon, and in ''King's Tale'' he can talk. In ''Kingsglaive: Final Fantasy XV'' he appears to be a daemon either caught or created by [[Niflheim]].
+{{clear}}
+
+===''[[Final Fantasy Tactics A2: Grimoire of the Rift]]''===
+[[File:Orthros-FFTA2.png|right|Orthos.]]
+{{For enemy|Flan (Tactics A2)}}
+Orthros makes another appearance as a flan-type enemy, at the top of [[Brightmoon Tor]] during the second ascent. He is level 99 and possesses several devastating attacks, including the Gold Hourglass, a move which targets everyone on the player's team for both massive damage and [[Slow (status)|Slow]].
+{{clear}}
+
+===''[[Final Fantasy Tactics S]]''===
+Ultros appeared as a recruitable character and boss.
+
+<gallery>
+FFTS_Ultros_Portrait.png|Portrait.
+FFTS Ultros Portrait2.png|Portrait.
+FFTS_Ultros Icon.png|Icon.
+FFTS_Ultros Sprite2.png|Sprite.
+FFTS_Ultros sprite.png|Boss sprite.
+FFTS Ultros SS.png|Ultros in battle.
+</gallery>
+
+===''[[Final Fantasy Dimensions II]]''===
+{{Summon section|Final Fantasy Dimensions II}}
+{{clear}}
+
+===''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'' (2008)===
+[[File:DFFUltros.png|thumb|right|Ultros being summoned.]]
+{{Quote|An octopus-like monster. He often hires "Mr.Typhon" to help out with his exploits.|Summon Compendium}}
+Ultros is a [[Summon (Dissidia 2008)|summon]]. When [[Summon (command)#Dissidia Final Fantasy|summoned]], his ''Final Fantasy VI'' artwork appears and he uses Octopus Ink, obscuring both players' [[Bravery (stat)|Bravery]] points. Ultros's summonstone is obtained as a level bonus in [[Destiny Odyssey III]].
+
+Ultros is also a [[Password (Dissidia)#Friend Card Passwords|ghost card]]: Level 100 [[Terra Branford (Dissidia PSP)|Terra]], who has the Red Gem and Delicious Fish accessories to be won via [[battlegen]]. The quote on the card is what Ultros says to Terra during the party's first battle with him in ''Final Fantasy VI''.
+
+====''[[Dissidia 012 Final Fantasy]]''====
+{{Quote|I don't know all the details. I'm just a summon in this title!|Ultros}}
+Ultros makes a cameo in the in-game manuals, explaining accessories with [[Relm Arrowny|Relm]] and Typhon. Ultros returns as a [[Summon (Dissidia 012)|summonstone]], with the same function as in the first ''Dissidia''. He can be purchased from certain [[Moogle Shop]]s for 20 [[KP]].
+
+===''[[Theatrhythm Final Fantasy]]''===
+[[File:Theatrhythm Ultros.png|right|130px|Ultros.]]
+{{Quote|Though his name has at times been mixed up with that of a certain two-headed dog of legend, Ultros is quite definitely just an octopus with no sense of propriety and an eye for women. He is quite strong, though.|Ultros' CollectaCard}}
+Ultros is a boss, appearing mainly when playing "[[The Decisive Battle (Final Fantasy VI)|The Decisive Battle]]".
+{{clear}}
+
+====''[[Theatrhythm Final Fantasy Curtain Call]]''====
+Ultros appears as an enemy in [[Battle Music Sequence]]s.
+
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Airborne Brigade]]''===
+[[File:FFAB Ultros.png|right|135px|Ultros.]]
+Ultros appears as a boss inside the Opera House and the Passage of the Eidolons.
+{{clear}}
+
+===''[[Final Fantasy All the Bravest]]''===
+{{Quote|Many have come to question the nature of this octopus's relationship to Typhon.|Description}}
+[[File:Ultros ATB.png|right|120px]]
+[[Final Fantasy All the Bravest enemies#Ultros|Ultros]] appears as an enemy encountered on the South Figaro Sea. He uses Tentacle and drops the [[Lilith Rod]].
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+Orthros appears as a boss and makes several appearances in the ''Final Fantasy VI'' Realm, twice by himself and once alongside Typhon. In all cases, he is weak against fire and lightning. He became a Rank 4 Summon ability by way of fan vote for the global game's first anniversary. His attack, Tentacles, deals eight hits to enemy targets with a chance of inflicting [[Blind (status)|Blind]].
+
+<gallery>
+FFRK niconico SP Dungeon 2 JP.png|Japanese event banner.
+FFRK April Fools' 2017 BG.png|Title screen image for April Fools' Day 2017 from the Japanese version.
+FFRK Ultros FFVI.png|Boss sprite.
+FFRK Orthros Icon.png|Summoning icon.
+FFRK Ultros Summon.png|Ultros summoned.
+FFRK Ultros FFVI Stamp.png|Multiplayer stamp.
+</gallery>
+{{Enemy section|Final Fantasy Record Keeper}}
+
+===''[[Final Fantasy World Wide Words]]''===
+{{Enemy section|Final Fantasy World Wide Words}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:FFBE Orthros Sprite.png|right]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+===''[[Mobius Final Fantasy]]''===
+[[File:MFF Ultros Model.png|right|250px]]
+Both Ultros and Typhon appear reusing models from their appearance in ''[[Final Fantasy XIII-2]]''.
+
+<gallery>
+MFF Orthros.jpg|Rarity 3 card.
+</gallery>
+{{Enemy section|Mobius Final Fantasy}}
+{{clear}}
+
+===''[[World of Final Fantasy]]''===
+[[File:WoFF Ultros.png|190px|thumb|Ultros.]]
+Ultros appears as an enemy Mirage.
+;Who's Who
+;Ultros
+:CV: Sam Riegel / Masaya Onosaka
+
+:Notes: Octopus / Corny one-liners / "Gwee hee hee!" / Annoying / Too hideous to be true / Does that make him a bad octopus?
+
+;A Series Regular
+:Ultros first showed up as a kind of one-shot story character, and wasn't part of the main FINAL FANTASY lineup. However, he's been making a comeback in recent years—with full voice!
+
+:Ultros's name comes from Orthros, a two-headed dog in Greek mythology. There's no explaining the mental leap from a dog to a weird purple octopus monster, but one thing's for certain: his name ''comes'' from Orthros, but it definitely isn't Orthros. (Guess the memo hasn't reached everyone yet. Sorry, so sorry!)
+
+;Unanimously Hideous
+:Terra's a purehearted girl who always looks for the best in everyone, but even she had to agree with prevailing opinion on Ultros: he really is too hideous to be true.
+
+;Ink-credibly Resilient
+:No matter how many times you beat this guy, he just keeps coming back for more. Wait! What if he's ''not'' coming back, but multiplying instead? No, no, no, that's...too frightening of a prospect to even consider.
+
+:If Ultros hadn't shown up in Tometown and ruined everything, we might have gotten to see Celes and Cloud take the opera stage together. I'm sure some people hate Ultros all the more now for spoiling that once-in-a-lifetime opportunity.
+
+;First World of Origin<nowiki>:</nowiki>
+:''FINAL FANTASY VI''
+{{clear}}
+
+===[[Chocobo series|''Chocobo'' series]]===
+[[File:UltrosChocoboDungeon.png|right|Ultros.]]
+Ultros appears in ''[[Chocobo no Fushigi na Dungeon]]'' and ''[[Chocobo's Dungeon 2]]'' as a boss. He attacks mainly by using [[Drain (ability)|Drain]] on [[Chocobo (Chocobo series)|Chocobo]] and [[Shirma]]. His head and two tentacles appear as separate targets with their own ATB gauges. Ultros remains in a lake for the duration of the fight, requiring Chocobo to use magic unless he is near the shore.
+
+===''[[Final Fantasy Trading Card Game]]''===
+Ultros in his ''Final Fantasy XIII-2'' render and [[Yoshitaka Amano]] artwork appears with water-elemental cards.
+
+<gallery>
+Ultros TCG.png|Trading card.
+Ultros2 TCG.png|Trading card.
+FF TCG Theatrhythm Ultros.jpg|Trading card.
+</gallery>
+
+===''[[Triple Triad (Portal App)|Triple Triad]]''===
+Ultros from the series along with Typhon from ''Final Fantasy XIV'' appear on ''Triple Triad'' cards in the version available via the ''[[Final Fantasy Portal App]]''.
+
+<gallery>
+123a Ultros.png|''Final Fantasy VI''.
+123b Ultros.png|''Final Fantasy VI''.
+123c Ultros.png|''Final Fantasy VI''.
+374a Ultros & Typhon.png|''Final Fantasy XIV''.
+374b Ultros & Typhon.png|''Final Fantasy XIV''.
+374c Ultros & Typhon.png|''Final Fantasy XIV''.
+546a Ultros.png|''World of Final Fantasy''.
+546b Ultros.png|''World of Final Fantasy''.
+546c Ultros.png|''World of Final Fantasy''.
+</gallery>
+
+==Non-''Final Fantasy'' guest appearances==
+===''Itadaki Street''===
+In ''[[Dragon Quest & Final Fantasy in Itadaki Street Portable]]'', Ultros is a chance card. The card's ability: Get teleport spell, warp.
+
+===''[[Kingdom Hearts]]''===
+In ''Kingdom Hearts III'', there is a constellation that can be photographed in the Ocean Between that takes the appearance of Ultros and unlocks a special Ultros Gummiship.
+
+==Behind the scenes==
+Even though Ultros is said to be an octopus, in his 3D debut in ''Final Fantasy XIII-2'' he has seven tentacles. This would make him a heptopus. This may be a reference to the one tentacle the player defeated before his initial boss encounter in ''Final Fantasy VI''.
+
+In [https://www.youtube.com/watch?v=fQrBSO74DzA LIGHTNING RETURNS: FINAL FANTASY XIII - Retro-spective Trailer], Ultros has a cameo appearance in [[Sunleth Waterscape]] -300 AF- (mistakenly marked as -500 AF-) where he is hidden in a cave watching as Serah, Noel, and a [[chocobo]] are rushing to help [[Snow Villiers|Snow]] fight the [[Royal Ripeness]].
+
+[[Square Enix]]'s [[Eorzea Cafe]] served a food item called "Marinated Orthros ~Genovese style~" with a description that translates to: ''Orthros, lover of many. Regretfully defeated and then marinated. However, even after being cooked, his mind still continues to be filled with thoughts of his "bro"...''
+
+==Gallery==
+<gallery>
+Ultros_DoS.png|Artwork from the ''[[Dawn of Souls]]'' release of ''Final Fantasy''.
+Ultros-282-ffvi-gba.png|Sprite from first battle in ''[[Final Fantasy VI]]'' (GBA).
+FFAB Ultros Kite SSR.png|An Ultros Kite in ''[[Final Fantasy Airborne Brigade]]''.
+CD2 Ultros.png|Ultros ''Chocobo's Dungeon 2''.
+CD2 Ultros Hand.png|Ultros's tentacle ''Chocobo's Dungeon 2''.
+FFXIII-2 Retro Ultros Cameo.png|''[[Lightning Returns: Final Fantasy XIII Retro-spective trailer]]''.
+</gallery>
+
+==Etymology==
+{{Etym|Orthros}}
+
+The Orthros of ''Final Fantasy'' has no direct connection with the mythical Orthros, but his appearance on the [[wikipedia:Lethe|Lethe River]] that flows to [[wikipedia:Nicaea|Nikeah]], and his association with [[wikipedia:Typhon|Typhon]], thematically connect him to Greek mythology. The Orthrus spelling is also the name of a genus of jumping spider, another eight-limbed creature.
+<!--This story cannot be validated by any official source - pending the discovery of one, it may be added back.
+
+The likely reason Orthros is an octopus is given in the book for ''Final Fantasy Origins: Final Fantasy VI''. An octopus was the main character in the first game Square ever made, and during the production of ''Final Fantasy VI'', a programmer told illustrator [[Yoshitaka Amano]] and producer [[Hironobu Sakaguchi]] that the octopus they were designing reminded him of a purple octopus toy he had as a child named Orthros.{{Citation needed}} -->
+
+Ultros's [[CollectaCard]] in ''Theatrhythm Final Fantasy'' addresses the character's recurring naming discrepancy:
+
+:"Though his name has at times been mixed up with that of a certain two-headed dog of legend, Ultros is quite definitely just an octopus with no sense of propriety for women. He is quite strong, though."
+
+==References==
+{{citations}}
+
+{{navbox characters}}
+{{navbox enemies}}
+{{navbox summons}}
+
+
+[[de:Ultros]]
+[[it:Ultros]]
+[[ru:Ультрос]]
+[[Category:Recurring characters]]
+[[Category:Characters in Final Fantasy VI]]
+[[Category:Characters in Final Fantasy XIII-2]]
+[[Category:Antagonists]]
+[[Category:Recurring enemies]]

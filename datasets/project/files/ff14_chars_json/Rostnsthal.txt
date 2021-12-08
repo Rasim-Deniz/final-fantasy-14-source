@@ -1,0 +1,71 @@
+{{sideicon|prime=FFXIV}}
+{{Infobox character
+|name=Rostnsthal
+|release=FFXIV
+|japanese=鉄錆のロスティンスタル 
+|romaji=Tetsushō no Rosutinsutaru 
+|lit=Rostinstal of the Iron Rust
+|aka=Sthalmann Sthalmannsyn, Rostnsthal the Reborn
+|image=FFXIV Rostnsthal MCH.png
+|race=[[Roegadyn]]
+|gender=Male
+|height=
+|hair=Brown
+|eye=Light Brown
+|designer=
+|age=55
+|home=[[Limsa Lominsa]]
+|affiliation=[[Knights of the Barracudas]] (formerly)
+|occupation=
+|type=npc
+|job = {{icon|ffxiv|discipline|musketeer}}<br>{{icon|ffxiv|discipline|gladiator}}
+|armor =
+}}
+'''Rostnsthal''' is a non-playable character in ''[[Final Fantasy XIV]]''. Originally known as '''Sthalmann Sthalmannsyn''', he was the Commodore of the Knights of the Barracudas circa 1562 of the Sixth Astral Era, until his actions led to him being disgraced and changing his name. He reappears in ''[[Final Fantasy XIV: Heavensward]]'' as a marksmanship instructor in the [[Machinist (Final Fantasy XIV)|Machinist]] job quests.
+
+==History==
+===''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' legacy===
+In 1562 of the Sixth Astral Era, a mysterious islet called [[Seal Rock]] suddenly appeared in the Rhotano Sea, amid a flurry of speculation in the thallocracy that it was the mythical Swallowtail Roam. Sthallman was the Commodore of the Knights of the Barracudas with ambitions of taking the admiral's seat. Sthallman had recruited allies promising them power when he becomes admiral of the city-state.
+
+One of them was [[Emerick]] of the Kraken's Arms, who had ties to the Serpent Reavers. Another was [[Merodaulyn]], one of the few male members of the Sanguine Sirens, who was placed in the 5th Levy Seal Rock Provisional Unit. The plan was to have Emerick hand a navy sailing chart to the Serpent Reaver [[Travanchet]], who would pass it to the [[Sahagin]]. Merodaulyn would ensure the 5th Levy would fail in the inevitable attack, allowing [[Carvallain]] and his Kraken's Arms to land on the isle itself. Under Sthallman's orders, Emerick procured a curious horn-shaped artifact.
+
+Carvellain turned in Emerick to Sthalmann after learning his role in the Sahagin attack, who took him in his protection. With other pirates seeking blood, Sthalmann tricked the Sanguine Sirens into attacking Mealvaan's Gate, and used the fallout to confiscate another artifact from the Seal Rock: a stone tablet with inscriptions in Rhotano Bloodcant.
+
+Merodaulyn later freed Emerick, and the two planned an escape. Just as [[Y'shtola Rhul|Y'shtola]] warned them that [[Ascian|"the shadoweaters"]] were after the artifacts and respected they turn them over, Travanchet revealed his true nature as one of the aforementioned shadoweaters by attacking their ship. Two other Barracuda warships, themselves keeping tabs on Y'shtola as per Sthalmann's orders, tried to attack Trevanchet's vessels. The standoff was interrupted by a sea serpent that emerged from the water, damaging the ships with a wave.
+
+The tablet was lost at sea, and with Emerick and Merodaulyn escaping Sthalmann lost an opportunity to dismantle two of the largest pirate gangs in [[Limsa Lominsa]]. He later orchestrated a plan to to assassinate the then admiral, and went to Gods' Grip in hopes of activating the power of the horn. He was confronted by Y'shtola, who demanded he hand it over to [[Sharlayan]]. Undeterred, he threatened to kill her if she didn't tell him how to use the horn. The [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] would witness this scene in an [[Echo (Final Fantasy XIV)|Echo]] vision ten years later, who saw Emerick's memories. The horn began glowing and a starshower erupted in the sky, with Trevanchet appearing from a nearby meteorite impact. He appeared behind Sthalmann and seized the horn, declaring that "power as this does not belong in the hands of your kind".
+
+Since then, Sthalmann was disgraced for his plot, and became a drunken pirate captain of a crew of one, and changed his name to Rostnsthal. His new named reflected his tarnished reputation, as in the Roegadyn [[Roegadyn naming conventions|language]], his former name of Sthalmann meant "Steel Man" while Rostnsthal translates to "Rusty Steel". His former second-in-command, [[Reyner Hansred|Reyner]], become the new Commodore, a position he retains to present day.<ref>http://gamerescape.com/2015/07/17/the-lore-train-seal-rock-pt-i/</ref>
+
+When the Trident, a race to decide the next admiral, approaches, Rostnsthal watches the adventurer try to join the [[Bloody Executioners]] and once he is rejected, Rostnsthal proposes to the adventurer to join his crew of one. After the adventurer accepts (and makes him a crew of two), Rostnsthal asks him to help him break into the [[Kraken's Arms]]' lair and steal some of his loot in order to have funds to rebuild his damaged ship.<ref>''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' version 1.0, Marauder quest "Two-man Crew."</ref> Rostnsthal steals a Kraken register and tries to sell it to Commodore Reyner but he rejects the offer. In search of the register, [[Hyllfyr Faezmoensyn]] orders his men to search for Rostnsthal. With no further purpose in keeping the register, Rostnsthal hands it over to the adventurer and asks to turn it over to the captain of the Bloody Executioners.<ref>''[[Final Fantasy XIV/Legacy|Final Fantasy XIV]]'' version 1.0, Marauder quest "Captain's Orders."</ref>
+
+The chair of admiral would eventually pass to [[Merlwyb Bloefhiswyn]].
+
+===''[[Final Fantasy XIV: Heavensward]]''===
+Five years after the [[Umbral Calamity]], Rostnsthal was hired by Stephanivien as a marksmanship instructor at Skysteel Manufactory. He trained House Haillenarte's maidservant Joye and other volunteers in firearms. Just as the Warrior of Light arrives to sign-up as a machinist, Rostnsthal resigned his post and left for [[Outer La Noscea#Camp Overlook|Camp Overlook]]. After some pleading by Stephanivien, Rostnsthal reluctantly agrees to test the adventurer's worth, and sets up an impromptu training course in Outer La Noscea. Satisfied with the Warrior of Light's potential, he agrees to return to the manufactory.
+
+Throughout the questline, he discovers suspicious individuals attempting to harass or sabotage the manufactory. He suspects his own past reputation may be to blame, though [[Tedalgrinche]] shows to be mostly focused on discrediting Stephanivien. Rostnsthal otherwise does not participate in the manufactory's battles, typically just giving advice as per his contract.
+
+In the MCH58 quest "Taking the Fall" Rostnsthal tries to turn himself in on the insurrection charges levied against the manufactory, against Stephanivien's wishes. After getting an essential weapon upgrade ready, he and the Warrior of Light to try to talk Rostnsthal out of it in the quest "Rusted Steel". He calms down, and confesses to his treacherous past deeds and his regret over betraying his subordinates. He asks to aid his students in the upcoming trial by combat against Veri Seren to atone for his actions as commodore.
+
+Once Veri Seren is slain and the Skysteel Manufactory is exonerated from Tedalgrinche's charges, Rostnsthal takes his leave, nominating Joye as master marksman.
+
+==Characteristics==
+===Appearance===
+Rostnsthal is a seawolf [[Roegadyn]] with greenish skin brown hair and brown eyes. He wears a buccaneer's tricorne with an eyepatch and wears an open red shirt and longboots.
+
+===Personality===
+
+==Gameplay==
+{{Character section}}
+
+==Etymology==
+In the Roegadyn language, Rostnsthal translates to "Rusty Steel". Sthalmann Sthalmannsyn translates to "Steel Man, son of Steel Man".
+
+==References==
+{{citations}}
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Roegadyn]]
+[[Category:Gunners]]

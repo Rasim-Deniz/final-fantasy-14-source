@@ -1,0 +1,71 @@
+{{infobox character
+|name=Alma Beoulve
+|release=FFXIV
+|japanese=アルマ・ベオルブ
+|romaji=Aruma Beorubu
+|lit=Alma Beoluve
+|aka=
+|image=FFXIV Alma Beoluve.png
+|portrait=
+|sprite=
+<!--Biographical info.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference-->
+|home=
+|age=
+|dob=
+|affiliation=
+|occupation=
+|education=
+|hobby=
+|loves=
+|hates=
+|sign=
+<!--Physical desc.
+ Only if information exists from a source, regardless of how obvious it may seem
+ always cite that source in a reference (does not apply to race and gender)-->
+|race=Hyur
+|gender=Female
+|height=
+|weight=
+|hair=Blonde
+|eye=
+|blood=
+|laterality=
+<!--Gameplay details.
+ Only add anything specific to the character.-->
+|type=npc
+|job=
+|abilities=
+|limit break=
+|weapon=
+|armor=
+|ultimate weapon=
+|element=
+<!--Behind the scenes info -->
+|original appearance=[[Alma Beoulve]] from ''[[Final Fantasy Tactics]]''.
+|designer=
+|motion capture=
+|japanese voice actor=
+|english voice actor=
+}}
+'''Alma Beoulve''' is a historical character from ''[[Final Fantasy XIV]]''. She was the younger sister of [[Ramza Beoulve (Final Fantasy XIV)|Ramza Beoulve]], and the ancestor of [[Jenomis cen Lexentale|Jenomis]], [[Ramza bas Lexentale|Ramza]], and [[Alma bas Lexentale]].
+
+==History==
+
+==Characteristics==
+===Appearance===
+===Personality===
+{{Section}}
+
+==Gallery==
+<gallery>
+FFXIV Alma Beoluve 02.png
+FFXIV Alma Beoluve 03.png
+FFXIV Alma Beoluve 04.png|Alma carrying Orran's child.
+FFXIV Delita Orran Alma.png
+</gallery>
+
+{{navbox characters FFXIV}}
+[[Category:Characters in Final Fantasy XIV]]
+[[Category:Hyurs]]
