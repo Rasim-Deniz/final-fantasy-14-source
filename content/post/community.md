@@ -10,7 +10,7 @@ slug = "community"
 title = "5 - Finding Communities"
 +++
 
-As we are interested in analyzing the relations amongst the characters. In particular, we want to try to detect communities and study their characteristics. In order to perform this analysis, we are going to apply the Louvain Algorithm for community detection to the undirected network created previously.
+As we are interested in analyzing the relations amongst the characters, we want to try to detect communities and study their characteristics. In order to perform this analysis, we are going to apply the Louvain Algorithm for community detection to the undirected network created previously.
 
 ![Community Distribution](/images/community.png)
 

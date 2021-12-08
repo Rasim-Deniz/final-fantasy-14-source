@@ -20,4 +20,4 @@ Out of all the 95 Final Fantasy games, we chose Final Fantasy XIV for the follow
 
 The final goal of this project is to understand the game's characters and world better through network and text analysis, comprehend how the characters are related to each other, and see the importance of the characters in their respective communities.
 
-If you are interested about how we reached our goal or you want to see our code you can check this link to have access to our **[Explainer Notebook](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_characters)**.
+If you are interested about how we reached our goal or you want to see our code you can check this link to have access to our **_[Explainer Notebook](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_characters)_**.

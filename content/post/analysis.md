@@ -16,14 +16,28 @@ Words related to the structure of the wiki and not to a specific character of th
 The frequency distribution of the 75 most common tokens is reported below.
 ![Frequency Distribution](/images/frequency-words.png)
 
-We tried to find the most important words related to each affiliation using both TF and TF-IDF. Below we reported the results for the 3 greatest affiliation:
-
-> Garlean Empire, High Houses of Ishgard, Doma
+The frequency plot of the most common words is as expected: the two most common words are "final" and "fantasy," followed by "warrior" and "light." It is worth mentioning that the main character of the game is named "The Warrior of Light." Therefore, the high frequency of these two words is unsurprising.
 
 #### 4.1 - Word Clouds
 
-|                                            |                                            |                                      |
-| ------------------------------------------ | ------------------------------------------ | ------------------------------------ |
-| ![Garlean Wordcloud](/images/garlean1.png) | ![Ishgard Wordcloud](/images/ishgard1.png) | ![Doma Wordcloud](/images/doma1.png) |
+Word clouds are a visual representation of text data, typically used to depict keyword metadata (tags) on websites, or to visualize free form text. In this case, the tags are single words, and the importance of each tag is shown with font size: bigger term means greater weight.
+
+**Goal:** Analyze the word cloud for some groups of characters
+
+**Strategy:**
+
+- Obtain the 3 greatest Affiliations, and the characters who belong to them.
+- Calculate the TF and TF-IDF values for each affiliation
+- Analyze the wordcloud over the text previously obtained.
+
+The greatest Affiliations are:
+
+> Garlean Empire 16
+>
+> High Houses of Ishgard 10
+>
+> Doma 9
+
+The output of the wordclouds we obtained are given below.
 
 ![Wordcloud](/images/wordcloud2.png)

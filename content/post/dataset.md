@@ -14,15 +14,15 @@ We analyzed two datasets for Final Fantasy XIV:
 
 - ##### The fan wiki of Final Fantasy XIV
 
-The [Final Fantasy XIV's wiki](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_characters) was used to download all characters' descriptions and attributes.
+The **_[Final Fantasy XIV's wiki](https://finalfantasy.fandom.com/wiki/Final_Fantasy_XIV_characters)_** was used to download all characters' descriptions and attributes.
 
 The data was extracted using the fandom wiki's API and stored in JSON. Regular expressions were utilized to extract the description of each character along with the attributes of interest: race and affiliation. Other attributes were also extracted: gender, age, and occupation.
 
-If you want to download the files containing the characters data [click here](https://github.com/Rasim-Deniz/final-fantasy-14-source/tree/master/datasets/project/files/ff14_chars_json.zip). (You will have access to a zip file containing a .txt file for each characters of the wiki.)
+If you want to download the files containing the characters data **_[click here](/project/files/ff14_chars_json.zip)_**. (You will have access to a zip file containing a .txt file for each characters of the wiki.)
 
 - ##### The game's dialogue
 
-All the [dialogue between characters](https://docs.google.com/document/d/1wlFBfhu7wjHlMEVSEZgEHpaaJIQBhrmh-RIdWYGMJZM/edit) was obtained for text and sentiment analysis to explore the game's characters world through text interactions.
+All the **_[dialogue between characters](https://docs.google.com/document/d/1wlFBfhu7wjHlMEVSEZgEHpaaJIQBhrmh-RIdWYGMJZM/edit)_** was obtained for text and sentiment analysis to explore the game's characters world through text interactions.
 
 #### 2.1 - Data Preprocessing
 
