@@ -37,34 +37,12 @@ Patch 4.31 introduced the [[Weapon's Refrain]], an [[Raid (Final Fantasy XIV)#Ul
 {{audio|filename=The Maker's Ruin.ogg|title="The Maker's Ruin"}}
 The Ultima Weapon has two battle themes, one for each phase of battle. Both themes were composed by [[Masayoshi Soken]].
 
-The theme played during the first fight is called "The Maker's Ruin", the song contains a Latin chorus chanting. The lyrics were written by [[Michael-Christopher Koji Fox]] and [[Eva Kappeller]].
+The theme played during the first fight is called "[[The Maker's Ruin]]", the song contains a Latin chorus chanting. The lyrics were written by [[Michael-Christopher Koji Fox]] and [[Eva Kappeller]].
 {{clear}}
-
-===Lyrics===
-{| class="full-width"
-| width="50%" valign="top" |
-;Latin
-:Una pugnamus
-:Unitis
-:Una morimur
-:Unitis Crystalle
-
-| width="50%" valign="top" |
-;Unofficial English translation
-:We fight
-:Together
-:We die
-:Together for the Crystal
-|}
-
-;Japanese translation
-:いざ共に戦わん
-:一丸となりて
-:死す時も共に
-:クリスタルによりて、我ら結ばれん！
 
 {{audio|filename=Ultima.ogg|title="Ultima"}}
 The second part of the fight is fought to the song "[[Ultima (song)]]" arranged by [[Nobuko Toda]] and [[Yoshitaka Suzuki]]. Remixes of this song were later used for the Minstrel's Ballad, the Weapon's Refrain, and [[The Sorrow of Werlyt]].
+{{clear}}
 
 == Other appearances ==
 === ''[[Pictlogica Final Fantasy]]'' ===

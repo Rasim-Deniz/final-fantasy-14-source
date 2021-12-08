@@ -5,7 +5,7 @@
 |japanese=ステファニヴィアン・ド・アインハルト
 |romaji=Sutefanivian do Ainharuto 
 |lit=Stefanivian de Ainhart
-|aka=Stephanivien Brighsun
+|aka=Stephanivien Brightsun
 |image=FFXIV Stephanivien.png
 |race=[[Elezen]]
 |gender=Male

@@ -4,7 +4,7 @@
 |release = FFXIV
 |japanese = アルカ・ゾルカ
 |romaji = Aruka Zoruka
-|aka=Alka Zolka the Thinker, Alka Zolka the Slayer
+|aka=Alka Zolka the Thinker, Alka Zolka the Supreme Slayer
 |image =FFXIV Alka Zolka.png 
 |race = [[Lalafell]]
 |gender = Male

@@ -30,25 +30,24 @@
 
 ==History==
 [[File:FFXIV Imperial Legatus.png|left|thumb|Rhitahtyn and the Tribunes with Gaius.]]
-Unlike the Tribunes, Rhitahtyn is not a native of the Empire, but from one of the conquered lands. Despite this he rose through the ranks to his current position due to [[Gaius van Baelsar|Gaius]] valuing skill over origin. He strongly believes in Gaius's mission of conquering [[Eorzea]] to unite it under a powerful leader, stating that his homeland was in a constant state of turmoil before the Empire brought order to it.
+Unlike the Tribunes, Rhitahtyn was not a native of the Empire, but from one of the conquered lands. Despite this he rose through the ranks to his current position due to [[Gaius van Baelsar|Gaius]] valuing skill over origin. He strongly believed in Gaius's mission of conquering [[Eorzea]] to unite it under a powerful leader, stating that his homeland was in a constant state of turmoil before the Empire brought order to it.
 
-Rhitahtyn confronts [[Nero tol Scaeva|Nero]] as he spies on the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and admits his misgivings about relying on the [[Ascian]]s and the mysterious [[Lahabrea]]. He warns Nero that his loyalty should be to Garlemald first and to their new allies second.
+Rhitahtyn confronted [[Nero tol Scaeva|Nero]] as he spied on the [[Warrior of Light (Final Fantasy XIV)|Warrior of Light]] and admitted his misgivings about relying on the [[Ascian]]s and the mysterious [[Lahabrea]]. He warned Nero that his loyalty should be to Garlemald first and to their new allies second.
 
-With the prisoners from the Waking Sands escaped and the Eorzean Alliance preparing its counter-offensive, Gaius awards Rhitahtyn with the command of the Imperial forces at Cape Westwind. Accepting his new position with some reluctance, Gaius reassures his protege that he would not give the position to anyone who did not earn it.
+With the prisoners from the Waking Sands escaped and the [[Eorzean Alliance]] preparing its counter-offensive, Gaius awarded Rhitahtyn with the command of the Imperial forces at Cape Westwind. Accepting his new position with some reluctance, Gaius reassured his protege that he would not give the position to anyone who did not earn it.
 
 [[File:Rhitahtn_Sas_Arvina.jpg|thumb|left|Rhitahtyn confronts the enemy.]]
-As one of Gaius's most valued soldiers, Rhitahtyn becomes one of the first targets of Operation: Archon who seek to defeat him and cut off communication between the Imperial Strongholds located throughout Eorzea. The Warrior of Light confronts him in the imperial outpost at Cape Westwind, where Rhitahtyn orders his soldiers to flee as they stand no chance against such a powerful opponent. He engages the party in battle himself, but is slain, his last words being his regret for failing Gaius.
+As one of Gaius's most valued soldiers, Rhitahtyn became one of the first targets of Operation: Archon who sought to defeat him and cut off communication between the Imperial Strongholds located throughout Eorzea. The Warrior of Light confronted him in the Imperial outpost at Cape Westwind, where Rhitahtyn ordered his soldiers to flee as they stood no chance against such a powerful opponent. He engaged the party in battle himself, but was slain, his last words being his regret for failing Gaius.
 
-When the Warrior later ventures into the Aetherical Sea to find Hydaelyn, they encounter Rhitahtyn's memories manifested as monstrous being.
-
+When the Warrior later ventured into the Aetherical Sea to find [[Hydaelyn (character)|Hydaelyn]], they encountered Rhitahtyn manifested as a monstrous being.
 
 ==Characteristics==
 ===Appearance===
 [[File:Rhitahtyn sas Arvina FFXIV Art.jpg|thumb|150px|Artwork.]]
-Rhitahtyn is a [[Roegadyn]] clad in a customized suit of armor that officers of the Imperial Army wear, his being black with gold lining and a unique helmet that features large forward-curving horns. He wields a pair of gunshields, named the ''Tartarus''.
+Rhitahtyn is a [[Roegadyn]] clad in a customized suit of armor that officers of the Imperial Army wear, his being black with gold lining and a unique helmet that features large forward-curving horns. He wields a pair of gunshields, named the Tartarus.
 
 ===Personality===
-A strategic genius and powerful warrior, Rhitahtyn is slow to anger and prefers to avoid needless bloodshed. He is deeply loyal to his commander, [[Gaius van Baelsar]], who promoted him into his current position despite his past as a mercenary from one of Garlean-conquered patron states.
+A strategic genius and powerful warrior, Rhitahtyn is slow to anger and prefers to avoid needless bloodshed. He is deeply loyal to his commander, Gaius van Baelsar, who promoted him into his current position despite his past as a mercenary from one of Garlean-conquered patron states.
 
 ==Gameplay==
 {{main|Cape Westwind (trial)}}
@@ -79,15 +78,13 @@ Square Enix's [[Eorzea Cafe]] served a dish called "Rhitahtyn sas Arvina" as par
 
 ==Gallery==
 <gallery>
-
 Rhitahtyn and Gaius.jpg|Rhitahtyn being given command of Cape Westwind.
 Rhitahtyn TCG.png|''[[Final Fantasy Trading Card Game]]''.
 File:RhitahtynFace.jpg|Rhitahtyn without his armor.
-
 </gallery>
 
 ==Etymology==
-Rhitahtyn is a name from the Roegadyn language combined from the words ''rhit'' meaning "right" and ''ahtyn'' meaning "judge". His surname of Arvina is Latin for "fat," and is a popular choice of surname for Roegadyns with Garlean citizenship, and is shared with [[Grynewaht pyr Arvina]], who has no relation to Rhitahtyn.
+Rhitahtyn is a name from the Roegadyn language combined from the words ''rhit'' meaning "right" and ''ahtyn'' meaning "judge". His surname of Arvina is Latin for "fat", and is a popular choice of surname for Roegadyns with Garlean citizenship, and is shared with [[Grynewaht pyr Arvina]], who has no relation to Rhitahtyn.
 
 {{navbox characters FFXIV}}
 
