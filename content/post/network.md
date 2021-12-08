@@ -55,7 +55,7 @@ We use the powerlaw function below to fit a power distribution and get the gamma
 | -------------------------------------------- | --------------------------------------------- |
 | ![In-Degree Powerlaw](/images/powerlaw1.png) | ![Out-Degree Powerlaw](/images/powerlaw2.png) |
 
-For the in-degree distribution, the exponent value (γ=2.33\gamma = 2.33γ=2.33) indicates that the network is in the scale-free regime (ultra-small world). As for the out-degree distribution, the exponent is almost equal to the critical value of 3 (γ=3.01 \gamma = 3.01γ=3.01.). While this makes the out-degree distribution more random-like, it is still not the same as a random network, for the value indicate the presence of a double logarithmic correction _lnlnN_ which shrinks the distances of this network relative to a random network.
+For the in-degree distribution, the exponent value (γ=2.33) indicates that the network is in the scale-free regime (ultra-small world). As for the out-degree distribution, the exponent is almost equal to the critical value of 3 (γ=3.01). While this makes the out-degree distribution more random-like, it is still not the same as a random network, for the value indicate the presence of a double logarithmic correction _lnlnN_ which shrinks the distances of this network relative to a random network.
 
 We will compare our network below to a random one of the same probability for further confirmation.
 

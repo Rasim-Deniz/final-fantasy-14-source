@@ -1,7 +1,7 @@
 {{ $baseurl := .Site.BaseURL }}
 <article class="post {{ .Section }}">
     <header class="post-header">
-        <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <h2 class="post-title"><a href="{{ .RelPermalink }}" name="{{ .Slug }}">{{ .Title }}</a></h2>
     </header>
     <section class="post-excerpt">
       <p>
