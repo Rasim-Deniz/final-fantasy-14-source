@@ -6,8 +6,8 @@ draft = false
 image = ""
 menu = ""
 share = false
-slug = "abstract"
-title= "1 - Abstract"
+slug = "introduction"
+title= "1 - Introduction"
 +++
 
 The Final Fantasy series had an incredible effect on the gaming world. Developed by Square Enix and released for the Nintendo Entertainment System (NES) in 1987, the game was considered an outlier at the time: games had simplistic plots and little to no character development. For this reason, the game was named "Final Fantasy," for the game's director thought it would be a failure for being a strange game at the time and would end his career. Nonetheless, history differed from expectations. Known for its rich lore, deep interactions between characters, and outstanding music, the series changed the role-playing genre forever. The Final Fantasy series became an international hit, selling more than 164 million units worldwide as of October 2021.
